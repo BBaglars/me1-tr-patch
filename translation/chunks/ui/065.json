@@ -9,7 +9,7 @@
   {
    "key": "u27390",
    "en": "The Galaxy Map is located in the middle of the command deck. To access it, ascend the deck, and select the holographic galaxy image. There are four levels to the map, each with varying degrees of detail for galactic navigation.\n\nPress the cross button to travel to any selected location. Press the square button to zoom out from your current view. Press the circle button to exit.",
-   "tr": "",
+   "tr": "Galaksi Haritası, komuta güvertesinin ortasında yer alır. Ona erişmek için güverteye çıkın ve holografik galaksi görüntüsünü seçin. Haritanın dört seviyesi vardır; her biri galaktik seyrüsefer için farklı ayrıntı düzeyi sunar.\n\nSeçili herhangi bir konuma gitmek için çarpı tuşuna basın. Mevcut görünümden uzaklaşmak için kare tuşuna basın. Çıkmak için daire tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u27391",
    "en": "Galaxy Level",
-   "tr": "",
+   "tr": "Galaksi Seviyesi",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u27392",
    "en": "A top-down view of the galaxy and star clusters connected by mass relays.",
-   "tr": "",
+   "tr": "Kütle röleleriyle bağlanmış galaksinin ve yıldız kümelerinin yukarıdan görünümü.",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u27393",
    "en": "Cluster Level",
-   "tr": "",
+   "tr": "Küme Seviyesi",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u27394",
    "en": "The star systems you can explore and a list of planetary bodies you can travel to in each system, including planets, asteroid fields, and space stations.",
-   "tr": "",
+   "tr": "Keşfedebileceğiniz yıldız sistemleri ve her sistemde gidebileceğiniz gezegenler, asteroit kuşakları ve uzay istasyonları gibi gök cisimlerinin listesi.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u27395",
    "en": "System Level",
-   "tr": "",
+   "tr": "Sistem Seviyesi",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u27396",
    "en": "A detailed view of the selected star system that includes data on the star and the planetary bodies you can explore.",
-   "tr": "",
+   "tr": "Seçilen yıldız sisteminin; yıldız ve keşfedebileceğiniz gök cisimleri hakkındaki verileri içeren ayrıntılı görünümü.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u27397",
    "en": "Planetary Level",
-   "tr": "",
+   "tr": "Gezegen Seviyesi",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u27398",
    "en": "Detailed features of the planetary body or object you are orbiting, including data and applicable plot elements.",
-   "tr": "",
+   "tr": "Yörüngesinde bulunduğunuz gök cisminin veya nesnenin, veriler ve ilgili hikâye öğeleri dahil ayrıntılı özellikleri.",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u27399",
    "en": "Combat Details",
-   "tr": "",
+   "tr": "Savaş Ayrıntıları",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u27400",
    "en": "Combat HUD",
-   "tr": "",
+   "tr": "Savaş HUD'u",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u27401",
    "en": "Press the square button to access the Combat HUD (heads-up display). Elements of the HUD include:\n\n1. Target Reticle: Targets objects in your environment. Enemies are highlighted red, and friendly objects are blue. Combat hazards are highlighted orange.\n\n2. Party Status Bar: Shows real-time status for squad health and shields. Also shows your squad's movement status.\n\n3. Radar: Shows enemies that are in target range. Also shows map pins from the in-game map.\n\n4. Selection Bar: Displays the name of a highlighted object.",
-   "tr": "",
+   "tr": "Savaş HUD'una (ekran üstü gösterge) erişmek için kare tuşuna basın. HUD'un öğeleri şunlardır:\n\n1. Hedef Retikülü: Çevrenizdeki nesneleri hedefler. Düşmanlar kırmızı, dost nesneler mavi vurgulanır. Savaş tehlikeleri turuncu vurgulanır.\n\n2. Takım Durum Çubuğu: Takımın sağlık ve kalkan durumunu anlık gösterir. Ayrıca takımınızın hareket durumunu da gösterir.\n\n3. Radar: Hedef menzilindeki düşmanları gösterir. Ayrıca oyun içi haritadaki işaretleri de gösterir.\n\n4. Seçim Çubuğu: Vurgulanan nesnenin adını gösterir.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u27402",
    "en": "Targeting",
-   "tr": "",
+   "tr": "Hedefleme",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u27403",
    "en": "Use the right stick to move the targeting reticle. Abilities and weapons fire at the center of your reticle.",
-   "tr": "",
+   "tr": "Hedef retikülünü hareket ettirmek için sağ çubuğu kullanın. Yetenekler ve silahlar retikülünüzün merkezine ateş eder.",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u27404",
    "en": "A Target Assist icon highlights the enemy nearest the reticle. Press the L2 button to zoom to reticle view, increasing the accuracy of weapons that you are already trained on. (You can train on a weapon by spending Talent points on said weapon.)",
-   "tr": "",
+   "tr": "Hedef Yardımı simgesi retikülün en yakınındaki düşmanı vurgular. Retikül görünümüne yakınlaşmak için L2 tuşuna basın; bu, eğitim aldığınız silahların isabetini artırır. (Bir silahta eğitim almak için o silaha Yetenek puanı harcayabilirsiniz.)",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u27405",
    "en": "Accuracy",
-   "tr": "",
+   "tr": "İsabet",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u27406",
    "en": "Sustained weapons fire reduces accuracy over time. However, the more training you have on a weapon, the longer your accuracy remains.\n\nAccuracy is reduced through:\nKickback - Weapons fire produces a kickback effect that reduces\ntargeting accuracy.\n\nFatigue: Sprinting eventually causes exhaustion (Press the cross button to sprint or to storm an enemy.)",
-   "tr": "",
+   "tr": "Sürekli silah ateşi zamanla isabeti düşürür. Ancak bir silahta ne kadar çok eğitim aldıysanız isabetiniz o kadar uzun süre korunur.\n\nİsabeti düşüren etkenler:\nGeri Tepme - Silah ateşi, hedefleme isabetini\ndüşüren bir geri tepme yaratır.\n\nYorgunluk: Koşmak sonunda bitkinliğe yol açar. (Koşmak veya düşmana hamle yapmak için çarpı tuşuna basın.)",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u27407",
    "en": "To access and use abilities, press and hold the R1 button to bring up the Power Wheel.\n\nUse the left stick to browse the abilities listed for every squadmate. Select an ability, and then press the cross button to queue it up as an action. \n\nYou can also press the square button to map the ability. Press the R1 button when you want to fire it off.\n\nUse the right stick to point somewhere in the world and direct the action. Each squadmate can have a single action declared. \n\nRelease the R1 button to fire the action and use the ability.",
-   "tr": "",
+   "tr": "Yeteneklere erişmek ve kullanmak için R1 tuşunu basılı tutarak Güç Çarkı'nı açın.\n\nHer takım arkadaşı için listelenen yeteneklere göz atmak için sol çubuğu kullanın. Bir yetenek seçin, ardından onu eylem olarak sıraya almak için çarpı tuşuna basın. \n\nYeteneği atamak için kare tuşuna da basabilirsiniz. Kullanmak istediğinizde R1 tuşuna basın.\n\nDünyada bir noktayı göstermek ve eylemi yönlendirmek için sağ çubuğu kullanın. Her takım arkadaşı için tek bir eylem belirlenebilir. \n\nEylemi başlatıp yeteneği kullanmak için R1 tuşunu bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u27408",
    "en": "Squad Orders",
-   "tr": "",
+   "tr": "Takım Emirleri",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u27409",
    "en": "Use the directional buttons to issue squad orders on the field.\n\n-Press the up button to send them to the targeted location.\n-Press the down button to order them to take cover.\n-Press the right button to order them to attack the targeted enemy.\n-Press the left button to rally them to your position and then follow you.",
-   "tr": "",
+   "tr": "Sahada takım emirleri vermek için yön tuşlarını kullanın.\n\n-Hedeflenen konuma göndermek için yukarı tuşuna basın.\n-Siper almalarını emretmek için aşağı tuşuna basın.\n-Hedeflenen düşmana saldırmalarını emretmek için sağ tuşuna basın.\n-Yanınıza toplanıp sizi takip etmelerini emretmek için sol tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u27410",
    "en": "Pistols are highly accurate, have little recoil, and are easy to use while moving. They are effective at various ranges, but inflict limited damage. Soldier, Engineer, Adept, Vanguard, and Infiltrator classes can train with pistols.",
-   "tr": "",
+   "tr": "Tabancalar çok isabetlidir, geri tepmesi azdır ve hareket halindeyken kullanımı kolaydır. Çeşitli menzillerde etkilidirler ancak sınırlı hasar verirler. Asker, Mühendis, Adept, Öncü ve Sızma Uzmanı sınıfları tabancalarla eğitim alabilir.",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u27411",
    "en": "Shotguns have high recoil and a slow rate of fire but inflict massive damage to multiple targets when fired at close range. Soldier and Vanguard classes can train with shotguns.",
-   "tr": "",
+   "tr": "Pompalı tüfeklerin geri tepmesi yüksek, atış hızı düşüktür ancak yakın mesafeden ateşlendiğinde birden çok hedefe büyük hasar verir. Asker ve Öncü sınıfları pompalı tüfeklerle eğitim alabilir.",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u27412",
    "en": "Assault rifles are the standard armament of most soldiers, offering a good balance between firepower, range, and accuracy. Only the Soldier class can train with assault rifles.",
-   "tr": "",
+   "tr": "Taarruz tüfekleri çoğu askerin standart silahıdır; ateş gücü, menzil ve isabet arasında iyi bir denge sunar. Taarruz tüfekleriyle yalnızca Asker sınıfı eğitim alabilir.",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u27413",
    "en": "Sniper rifles are highly accurate at long range, inflicting significant damage. They are practically useless at close range, however, and have a limited rate of fire. Only Soldier and Infiltrator classes can train with sniper rifles.",
-   "tr": "",
+   "tr": "Keskin nişancı tüfekleri uzun menzilde çok isabetlidir ve ciddi hasar verir. Ancak yakın mesafede neredeyse işe yaramazlar ve atış hızları sınırlıdır. Keskin nişancı tüfekleriyle yalnızca Asker ve Sızma Uzmanı sınıfları eğitim alabilir.",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u27414",
    "en": "Disc shaped Alliance grenades can glide long distances and also latch onto targets or flat surfaces to be remotely detonated. Only you, as Commander Shepard, can use grenades.\n\nPress the SELECT button to throw a grenade, and press the SELECT button again to detonate it. A grenade automatically explodes after ten seconds if you don't detonate it.",
-   "tr": "",
+   "tr": "Disk biçimli Alliance el bombaları uzun mesafeler süzülebilir; ayrıca hedeflere veya düz yüzeylere yapışıp uzaktan patlatılabilir. El bombalarını yalnızca Komutan Shepard olarak siz kullanabilirsiniz.\n\nEl bombası atmak için SELECT tuşuna, patlatmak için tekrar SELECT tuşuna basın. Patlatmazsanız el bombası on saniye sonra kendiliğinden patlar.",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u27415",
    "en": "Light armor offers a basic level of protection from enemy fire and minimizes the movement penalties that affect weapon accuracy. All classes can wear light armor.",
-   "tr": "",
+   "tr": "Hafif zırh düşman ateşine karşı temel koruma sağlar ve silah isabetini etkileyen hareket cezalarını en aza indirir. Tüm sınıflar hafif zırh giyebilir.",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u27416",
    "en": "Medium armor offers an increased level of protection but also increases the movement penalties that affect weapon accuracy. Soldiers can wear medium armor from the outset, but Vanguard and Infiltrator classes must train to wear it.",
-   "tr": "",
+   "tr": "Orta zırh daha yüksek koruma sağlar ancak silah isabetini etkileyen hareket cezalarını da artırır. Askerler orta zırhı baştan giyebilir; Öncü ve Sızma Uzmanı sınıflarının bunun için eğitim alması gerekir.",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u27417",
    "en": "Heavy armor offers the highest level of protection from enemy fire but also has the highest movement penalties affecting weapon accuracy. Only specially-trained frontline soldiers can wear it. No class can wear heavy armor, but the Soldier class can train to wear it.",
-   "tr": "",
+   "tr": "Ağır zırh düşman ateşine karşı en yüksek korumayı sağlar ancak silah isabetini etkileyen hareket cezaları da en yüksektir. Yalnızca özel eğitimli cephe askerleri giyebilir. Hiçbir sınıf baştan ağır zırh giyemez ancak Asker sınıfı bunun için eğitim alabilir.",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u27418",
    "en": "Equipment types include:\n- Armor\n- Assault Rifles\n- Bio-Amps\n- Grenades\n- Omni-Tools\n- Pistols\n- Shotguns\n- Sniper Rifles\n\n(Note that weapons and armor are covered in their own sections of this manual.)",
-   "tr": "",
+   "tr": "Ekipman türleri şunlardır:\n- Zırh\n- Taarruz Tüfekleri\n- Bio-Amp'ler\n- El Bombaları\n- Omni-Tool'lar\n- Tabancalar\n- Pompalı Tüfekler\n- Keskin Nişancı Tüfekleri\n\n(Silahların ve zırhların bu kılavuzun kendi bölümlerinde ele alındığını unutmayın.)",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u27419",
    "en": "Equipment Upgrades",
-   "tr": "",
+   "tr": "Ekipman Yükseltmeleri",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u27420",
    "en": "Upgrades enhance and customize equipment to increase damage, to boost shields, and more. You can only upgrade the following equipment types: armor, weapons, ammo, and grenades.\n\nEach piece of equipment has specific upgrade slots. For example, the ammo slot on a weapon can only be upgraded with an ammo upgrade.\n\nTo upgrade equipment, access the Mission Computer, and select Equipment. Choose the piece to upgrade from the lower-right selection belt, and then press the square button to view the Upgrade screen.\n\nTo upgrade ammo, select the applicable weapon, and then press the right button on the directional buttons to view the ammo upgrade. Press the cross button to confirm your upgrade and exit.",
-   "tr": "",
+   "tr": "Yükseltmeler ekipmanı geliştirip özelleştirerek hasarı, kalkanı ve daha fazlasını artırır. Yalnızca şu ekipman türlerini yükseltebilirsiniz: zırh, silahlar, mühimmat ve el bombaları.\n\nHer ekipman parçasının belirli yükseltme yuvaları vardır. Örneğin bir silahın mühimmat yuvası yalnızca mühimmat yükseltmesiyle yükseltilebilir.\n\nEkipmanı yükseltmek için Görev Bilgisayarı'na girin ve Ekipman'ı seçin. Sağ alttaki seçim kuşağından yükseltilecek parçayı seçin, ardından Yükseltme ekranını görmek için kare tuşuna basın.\n\nMühimmatı yükseltmek için ilgili silahı seçin, ardından mühimmat yükseltmesini görmek için yön tuşlarında sağ tuşuna basın. Yükseltmeyi onaylayıp çıkmak için çarpı tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u27421",
    "en": "Bio-Amps",
-   "tr": "",
+   "tr": "Bio-Amp'ler",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u27422",
    "en": "Biotics can strengthen their power in specific biotic disciplines by using amps (amplifiers). These specially designed devices often come in the form of small electronic attachments worn on the ear or the back of the head.",
-   "tr": "",
+   "tr": "Biyotikler, amp'ler (yükselticiler) kullanarak belirli biyotik alanlardaki güçlerini artırabilir. Özel olarak tasarlanmış bu cihazlar çoğunlukla kulağa veya başın arkasına takılan küçük elektronik parçalar biçimindedir.",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u27423",
    "en": "Omni-Tools",
-   "tr": "",
+   "tr": "Omni-Tool'lar",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u27424",
    "en": "Omni-tools are multipurpose diagnostic and minifacturing tools used for a variety of battlefield tasks such as hacking, decryption, or repair.",
-   "tr": "",
+   "tr": "Omni-tool'lar; hackleme, şifre çözme veya onarım gibi çeşitli savaş alanı işlerinde kullanılan çok amaçlı teşhis ve minyatür üretim aletleridir.",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u27425",
    "en": "Containers: Found on every planet and often hold valuable equipment and resources. Containers look like metal footlockers or cargo crates. You cannot place items in them.\n\nOmni-Gel: Technological materials that can be salvaged from the environment are called omni-gel. Use it with the omni-tool to do electrical or decryption work. You can also use omni-gel to repair the Mako vehicle.\n\nCredits: The primary monetary unit in the Mass Effect universe.\n\nMedi-Gel: Medical gel heals various wounds and ailments. You acquire it through looting or from NPCs (non-player characters). You can also purchase an increase in your medi-gel capacity in some shops. Press the triangle button to deploy First Aid.",
-   "tr": "",
+   "tr": "Konteynerler: Her gezegende bulunur ve çoğunlukla değerli ekipman ve kaynak içerir. Konteynerler metal sandıklara veya kargo kasalarına benzer. İçlerine eşya koyamazsınız.\n\nOmni-Jel: Çevreden kurtarılabilen teknolojik malzemelere omni-jel denir. Elektrik veya şifre çözme işleri için omni-tool ile kullanın. Omni-jeli Mako aracını onarmak için de kullanabilirsiniz.\n\nKredi: Mass Effect evrenindeki temel para birimi.\n\nMedi-Jel: Tıbbi jel çeşitli yaraları ve rahatsızlıkları iyileştirir. Yağmalayarak veya NPC'lerden (oyuncu olmayan karakterler) edinirsiniz. Bazı dükkânlardan medi-jel kapasitenizi artırabilirsiniz. İlk Yardım'ı kullanmak için üçgen tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u27426",
    "en": "Squad Data",
-   "tr": "",
+   "tr": "Takım Verileri",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u27427",
    "en": "Select Squad on the Mission Computer to display information available on each squad member. The information includes:\n\nCurrent Level:\nAs you gain experience, your current level reflects your advancement. When you gain enough experience to advance to a new level, you are granted Talent points that you can spend to purchase higher ranks or additional talents.\n\nHealth:\nYour current and maximum health levels are listed. Health represents your ability to take damage in combat. When your health hit zero, Shepard dies. Your maximum health increases as you advance during gameplay.\n\nExperience Points:\nYour current XP is listed as well as the total points that are needed to advance to the next level.\n\nParagon and Renegade Meters:\nThese meters track your choices throughout the game. The Paragon meter increases when your choices are noble, cooperative, or self-sacrificing. Paragons achieve their goals by doing the right thing in the right way. The Renegade meter increases when your choices are aggressive, selfish, or ruthless. Renegades achieve their goals by any means necessary.",
-   "tr": "",
+   "tr": "Her takım üyesi hakkındaki bilgileri görmek için Görev Bilgisayarı'nda Takım'ı seçin. Bilgiler şunları içerir:\n\nMevcut Seviye:\nDeneyim kazandıkça mevcut seviyeniz ilerlemenizi yansıtır. Yeni bir seviyeye geçecek kadar deneyim kazandığınızda, daha yüksek rütbeler veya ek yetenekler satın almak için harcayabileceğiniz Yetenek puanları verilir.\n\nSağlık:\nMevcut ve azami sağlık seviyeleriniz listelenir. Sağlık, savaşta hasar alabilme kapasitenizi gösterir. Sağlığınız sıfıra düştüğünde Shepard ölür. Azami sağlığınız oyun boyunca ilerledikçe artar.\n\nDeneyim Puanları:\nMevcut XP'niz ve bir sonraki seviyeye geçmek için gereken toplam puan listelenir.\n\nParagon ve Renegade Ölçerleri:\nBu ölçerler oyun boyunca yaptığınız seçimleri izler. Seçimleriniz soylu, iş birliğine dayalı veya fedakâr olduğunda Paragon ölçeri artar. Paragon'lar hedeflerine doğru şeyi doğru yoldan yaparak ulaşır. Seçimleriniz saldırgan, bencil veya acımasız olduğunda Renegade ölçeri artar. Renegade'ler hedeflerine gerekirse her yolu deneyerek ulaşır.",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u27428",
    "en": "Squad Selection",
-   "tr": "",
+   "tr": "Takım Seçimi",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u27429",
    "en": "Use the Squad Selection screen to recruit a balanced squad based on the combat, tech, and biotic talents of each potential squadmate.\n\nUse the left button and the right button on the directional buttons to cycle through available squadmates. Press the square button to add or remove a squadmate, and press the triangle button at any time to review your squad. Press the cross button to accept the assembled squad.\n\nYou can only choose squadmates in two circumstances:\n1) When you first encounter a new squadmate.\n2) When leaving the Normandy.\n\nChoose your squad with care. When you leave the Normandy, you might not have the opportunity to change your squad until you can return.",
-   "tr": "",
+   "tr": "Her olası takım arkadaşının savaş, teknoloji ve biyotik yeteneklerine göre dengeli bir takım kurmak için Takım Seçimi ekranını kullanın.\n\nMevcut takım arkadaşları arasında gezinmek için yön tuşlarında sol ve sağ tuşları kullanın. Bir takım arkadaşı eklemek veya çıkarmak için kare tuşuna, takımınızı incelemek için istediğiniz an üçgen tuşuna basın. Kurduğunuz takımı onaylamak için çarpı tuşuna basın.\n\nTakım arkadaşlarını yalnızca iki durumda seçebilirsiniz:\n1) Yeni bir takım arkadaşıyla ilk karşılaştığınızda.\n2) Normandy'den ayrılırken.\n\nTakımınızı dikkatle seçin. Normandy'den ayrıldığınızda geri dönene kadar takımınızı değiştirme fırsatınız olmayabilir.",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u27430",
    "en": "How to Navigate to an Uncharted World",
-   "tr": "",
+   "tr": "Keşfedilmemiş Bir Dünyaya Nasıl Gidilir",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u27431",
    "en": "To land on a planet via the Galaxy Map, select Cluster Navigation, System Navigation, and then Planetary Landings.\n\nAfter landing on a planet, explore its terrain in your Mako, which comes equipped with powerful sensors that detect alien enemies, technological anomalies, and resources.\n\nUse your Mission Computer map on an uncharted world to discover what is nearby. Press the cross button to set a destination at your current cursor location, which then displays as an arrow on the in-game radar.",
-   "tr": "",
+   "tr": "Galaksi Haritası'ndan bir gezegene inmek için Küme Seyrüseferi'ni, Sistem Seyrüseferi'ni, ardından Gezegen İnişleri'ni seçin.\n\nBir gezegene indikten sonra, uzaylı düşmanları, teknolojik anomalileri ve kaynakları algılayan güçlü sensörlerle donatılmış Mako'nuzla arazisini keşfedin.\n\nYakınlarda neler olduğunu öğrenmek için keşfedilmemiş bir dünyada Görev Bilgisayarı haritanızı kullanın. İmlecinizin bulunduğu yeri hedef olarak belirlemek için çarpı tuşuna basın; hedef oyun içi radarda ok olarak görünür.",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u27432",
    "en": "How to Leave an Uncharted World",
-   "tr": "",
+   "tr": "Keşfedilmemiş Bir Dünyadan Nasıl Ayrılınır",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u27433",
    "en": "When you're ready to leave an uncharted world:\n\n1. Press the START button to call up the Mission Computer, and then select Map.\n2. Press the square button to return to the Normandy.",
-   "tr": "",
+   "tr": "Keşfedilmemiş bir dünyadan ayrılmaya hazır olduğunuzda:\n\n1. Görev Bilgisayarı'nı açmak için START tuşuna basın, ardından Harita'yı seçin.\n2. Normandy'ye dönmek için kare tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u27434",
    "en": "The Mako Vehicle",
-   "tr": "",
+   "tr": "Mako Aracı",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u27435",
    "en": "Mako Controls",
-   "tr": "",
+   "tr": "Mako Kontrolleri",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u27436",
    "en": "\n\nTo get you and your squad into the Mako, select it and press the cross button.\n\nMove the left stick to drive the Mako, and move the right stick to rotate the view. Press the cross button to jump-jet over rough terrain or dodge enemy fire.\n\nPress the L2 button to zoom the gun camera, press the R1 button to fire the cannon, and press the R2 button to fire the machine gun.\n\nTo leave the Mako, find safe, stable ground, and then press the circle button. Be aware of the hazard level outside before departing as you will only survive for a short time in hostile atmospheres.",
-   "tr": "",
+   "tr": "\n\nSizi ve takımınızı Mako'ya bindirmek için aracı seçip çarpı tuşuna basın.\n\nMako'yu sürmek için sol çubuğu, görüntüyü döndürmek için sağ çubuğu hareket ettirin. Engebeli arazide jet motoruyla sıçramak veya düşman ateşinden kaçmak için çarpı tuşuna basın.\n\nSilah kamerasını yakınlaştırmak için L2 tuşuna, topu ateşlemek için R1 tuşuna, makineli tüfeği ateşlemek için R2 tuşuna basın.\n\nMako'dan ayrılmak için güvenli, sağlam bir zemin bulun ve daire tuşuna basın. Ayrılmadan önce dışarıdaki tehlike seviyesine dikkat edin; düşmanca atmosferlerde ancak kısa süre hayatta kalabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u27437",
    "en": "Mako Controller Mapping",
-   "tr": "",
+   "tr": "Mako Kontrolcü Eşlemesi",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u27438",
    "en": "Mako Vehicle HUD",
-   "tr": "",
+   "tr": "Mako Araç HUD'u",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u27439",
    "en": "The Vehicle HUD displays the health and shield levels for squadmates as well the Mako's weapons and equipment status.",
-   "tr": "",
+   "tr": "Araç HUD'u takım arkadaşlarının sağlık ve kalkan seviyelerini, ayrıca Mako'nun silah ve ekipman durumunu gösterir.",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u27440",
    "en": "Mako Repair",
-   "tr": "",
+   "tr": "Mako Onarımı",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u27441",
    "en": "You can spend omni-gel to repair the Mako in the field by pressing the triangle button. Before doing so, however, you must stop the Mako, remain inside, and cease weapons fire.",
-   "tr": "",
+   "tr": "Sahada üçgen tuşuna basarak omni-jel harcayıp Mako'yu onarabilirsiniz. Ancak bunun için önce Mako'yu durdurmanız, içeride kalmanız ve silah ateşini kesmeniz gerekir.",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u27442",
    "en": "A talent is an area of expertise that can improve as you progress in the game. As you gain experience, you acquire Talent points that you can spend to improve aspects of your character.\n\nThe talents available to you and your squad are determined by the class selected in the Character Creation. At activations phases, marked with icons on the talent, you unlock new abilities or other talents.",
-   "tr": "",
+   "tr": "Yetenek, oyunda ilerledikçe gelişebilen bir uzmanlık alanıdır. Deneyim kazandıkça karakterinizin çeşitli yönlerini geliştirmek için harcayabileceğiniz Yetenek puanları edinirsiniz.\n\nSizin ve takımınızın kullanabileceği yetenekler, Karakter Oluşturma'da seçilen sınıfa göre belirlenir. Yetenek üzerinde simgelerle işaretlenmiş etkinleşme aşamalarında yeni yeteneklerin veya başka becerilerin kilidi açılır.",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u27443",
    "en": "Combat Talents",
-   "tr": "",
+   "tr": "Savaş Yetenekleri",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u27444",
    "en": "Pistols: Improves pistol accuracy and damage. Activates the Marksman ability that lets you fire more quickly and accurately for a short time.\n\nShotguns: Improves shotgun accuracy and damage. Activates the Carnage ability that lets you fire a huge blast.\n\nAssault Rifles: Improves assault rifle accuracy and damage. Activates the Overkill ability that lets you fire longer, more accurate bursts.\n\nSniper Rifles: Improves sniper rifle accuracy and damage. Activates the Assassination ability that increases the damage of your next sniper shot.\n\nArmor: Improves the amount of damage your armor absorbs and, depending on your class, allows you to equip heavier armor. Activates the Shield Boost ability that resets the cooldown times on all talents so they can be used immediately.\n\nFitness: Boosts your health, upping the maximum damage you can withstand before dying. Activates the Immunity ability that increases damage protection for a short period of time.\n\nSpectre Training: Increases health, accuracy, and the effectiveness of all attacks and powers. Activates the Unity ability that lets you revive squadmates if they fall in combat.",
-   "tr": "",
+   "tr": "Tabancalar: Tabanca isabetini ve hasarını artırır. Kısa süreliğine daha hızlı ve isabetli ateş etmenizi sağlayan Nişancılık yeteneğini etkinleştirir.\n\nPompalı Tüfekler: Pompalı tüfek isabetini ve hasarını artırır. Devasa bir patlama atışı yapmanızı sağlayan Katliam yeteneğini etkinleştirir.\n\nTaarruz Tüfekleri: Taarruz tüfeği isabetini ve hasarını artırır. Daha uzun ve isabetli seri ateş etmenizi sağlayan Ezici Güç yeteneğini etkinleştirir.\n\nKeskin Nişancı Tüfekleri: Keskin nişancı tüfeği isabetini ve hasarını artırır. Bir sonraki nişancı atışınızın hasarını artıran Suikast yeteneğini etkinleştirir.\n\nZırh: Zırhınızın emdiği hasar miktarını artırır ve sınıfınıza bağlı olarak daha ağır zırh kuşanmanıza izin verir. Tüm yeteneklerin bekleme sürelerini sıfırlayıp hemen kullanılabilir hale getiren Kalkan Güçlendirme yeteneğini etkinleştirir.\n\nFitness: Sağlığınızı artırarak ölmeden önce dayanabileceğiniz azami hasarı yükseltir. Kısa süreliğine hasar korumasını artıran Bağışıklık yeteneğini etkinleştirir.\n\nSpectre Eğitimi: Sağlığı, isabeti ve tüm saldırılarla güçlerin etkisini artırır. Takım arkadaşlarınız savaşta düşerse onları ayağa kaldırmanızı sağlayan Birlik yeteneğini etkinleştirir.",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u27445",
    "en": "Tech Talents",
-   "tr": "",
+   "tr": "Teknoloji Yetenekleri",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u27446",
    "en": "Damping: Increases the explosion radius of your tech mines. Activates the Damping Field ability, which suppresses enemy tech and biotic abilities.\n\nDecryption: Allows you to spend omni-gel to override the security systems of doors and containers. Activates the Sabotage ability that quickly disables enemy weapons.\n\nHacking: Increases the recharge speed of your tech proximity mines. Activates the AI Hacking ability that makes robotic enemies attack everyone around them.\n\nElectronics: Increases shield strength and lets you bypass security systems of some locked objects. Activates the Overload ability that damages or disables enemy shields.",
-   "tr": "",
+   "tr": "Sönümleme: Teknoloji mayınlarınızın patlama yarıçapını artırır. Düşmanın teknoloji ve biyotik yeteneklerini bastıran Sönümleme Alanı yeteneğini etkinleştirir.\n\nŞifre Çözme: Kapıların ve konteynerlerin güvenlik sistemlerini aşmak için omni-jel harcamanıza izin verir. Düşman silahlarını hızla devre dışı bırakan Sabotaj yeteneğini etkinleştirir.\n\nHackleme: Teknoloji yakınlık mayınlarınızın yeniden dolum hızını artırır. Robotik düşmanların çevrelerindeki herkese saldırmasını sağlayan YZ Hackleme yeteneğini etkinleştirir.\n\nElektronik: Kalkan gücünü artırır ve bazı kilitli nesnelerin güvenlik sistemlerini aşmanızı sağlar. Düşman kalkanlarına hasar veren veya onları devre dışı bırakan Aşırı Yükleme yeteneğini etkinleştirir.",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u27447",
    "en": "Biotic Talents",
-   "tr": "",
+   "tr": "Biyotik Yetenekler",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u27448",
    "en": "Throw: Generates a biotic field, allowing you to throw nearby enemies and objects.\n\nLift: Generates a biotic field that allows you to lift enemies and objects into the air.\n\nWarp: Generates a biotic field that slowly tears apart anything it hits, causing damage and temporarily reducing armor effectiveness.\n\nSingularity: Generates a biotic field that causes enemies and objects to fly and violently smash into each other.\n\nBarrier: Generates a biotic field that absorbs weapons fire.\n\nStasis: Generates a biotic field that surrounds and isolates anything it touches, preventing enemies from moving or attacking but also blocking damage.",
-   "tr": "",
+   "tr": "Fırlatma: Yakındaki düşmanları ve nesneleri fırlatmanızı sağlayan bir biyotik alan oluşturur.\n\nKaldırma: Düşmanları ve nesneleri havaya kaldırmanızı sağlayan bir biyotik alan oluşturur.\n\nWarp: Çarptığı her şeyi yavaşça parçalayan, hasar veren ve zırhın etkinliğini geçici olarak düşüren bir biyotik alan oluşturur.\n\nTekillik: Düşmanların ve nesnelerin uçup şiddetle birbirine çarpmasına yol açan bir biyotik alan oluşturur.\n\nBariyer: Silah ateşini emen bir biyotik alan oluşturur.\n\nStazis: Dokunduğu her şeyi çevreleyip yalıtan, düşmanların hareket etmesini veya saldırmasını engelleyen ama hasarı da önleyen bir biyotik alan oluşturur.",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u27449",
    "en": "Additional Talents",
-   "tr": "",
+   "tr": "Ek Yetenekler",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u27450",
    "en": "Charm: Increases Charm options in conversations, and decreases the credits needed when purchasing items in stores.\n\nIntimidate: Increases Intimidate options in conversations, and increases the credits earned when selling items in stores.",
-   "tr": "",
+   "tr": "Büyüleme: Konuşmalardaki Büyüleme seçeneklerini artırır ve dükkânlardan eşya alırken gereken krediyi azaltır.\n\nYıldırma: Konuşmalardaki Yıldırma seçeneklerini artırır ve dükkânlara eşya satarken kazanılan krediyi artırır.",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u27451",
    "en": "Class Talents",
-   "tr": "",
+   "tr": "Sınıf Yetenekleri",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u27452",
    "en": "Certain talents are inherent to each character class:\n\nSoldier: Improves health and health regeneration.\n\nEngineer: Reduces recharge time of tech abilities, and increases tech resistance.\n\nAdept: Reduces recharge time of biotic abilities, and increases biotic resistance.\n\nInfiltrator: Increases damage delivered by tech mines, and reduces overheating of sniper rifles and pistols.\n\nSentinel: Reduces recharge time of tech and biotic abilities, increases damage and accuracy of pistols, and grants the Marksman ability.\n\nVanguard: Increases biotic resistance and damage of shotguns and pistols.",
-   "tr": "",
+   "tr": "Bazı yetenekler her karakter sınıfına özgüdür:\n\nAsker: Sağlığı ve sağlık yenilenmesini artırır.\n\nMühendis: Teknoloji yeteneklerinin yeniden dolum süresini kısaltır, teknoloji direncini artırır.\n\nAdept: Biyotik yeteneklerin yeniden dolum süresini kısaltır, biyotik direnci artırır.\n\nSızma Uzmanı: Teknoloji mayınlarının verdiği hasarı artırır, keskin nişancı tüfeklerinin ve tabancaların aşırı ısınmasını azaltır.\n\nBekçi: Teknoloji ve biyotik yeteneklerin yeniden dolum süresini kısaltır, tabancaların hasarını ve isabetini artırır, Nişancılık yeteneğini kazandırır.\n\nÖncü: Biyotik direnci ile pompalı tüfeklerin ve tabancaların hasarını artırır.",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u27453",
    "en": "Talent Upgrade",
-   "tr": "",
+   "tr": "Yetenek Yükseltme",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u27454",
    "en": "You and your squadmates have a list of talents representing each character's capabilities, strengths, and training. By spending talent points on these, certain aspects of the character become stronger and eventually open up new attacks, buffs, proficiencies, and skills.",
-   "tr": "",
+   "tr": "Sizin ve takım arkadaşlarınızın, her karakterin yeteneklerini, güçlü yönlerini ve eğitimini temsil eden bir yetenek listesi vardır. Bunlara yetenek puanı harcayarak karakterin belirli yönleri güçlenir ve zamanla yeni saldırıların, güçlendirmelerin, yeterliliklerin ve becerilerin kilidi açılır.",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u27455",
    "en": "Talent Points",
-   "tr": "",
+   "tr": "Yetenek Puanları",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u27456",
    "en": "Use your talent points to purchase higher ranks. \n\nPress the START button to go to the Mission Computer, and then choose Squad. Use the directional buttons to select a talent, and then press the cross button to spend talent points to increase your rank by one.",
-   "tr": "",
+   "tr": "Daha yüksek rütbeler satın almak için yetenek puanlarınızı kullanın. \n\nGörev Bilgisayarı'na gitmek için START tuşuna basın, ardından Takım'ı seçin. Bir yetenek seçmek için yön tuşlarını kullanın, ardından rütbenizi bir artırmak üzere yetenek puanı harcamak için çarpı tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u27457",
    "en": "Specialization boosts class-specific talents. After completing an optional Systems Alliance Military assignment, choose a specialization for your character to increase the maximum talent points you can spend on class-specific talents.",
-   "tr": "",
+   "tr": "Uzmanlık, sınıfa özgü yetenekleri güçlendirir. İsteğe bağlı bir Systems Alliance Ordusu görevini tamamladıktan sonra, sınıfa özgü yeteneklere harcayabileceğiniz azami yetenek puanını artırmak için karakteriniz için bir uzmanlık seçin.",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u27458",
    "en": "Manual",
-   "tr": "",
+   "tr": "Kılavuz",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u27459",
    "en": "Game data is corrupt. Please exit the game, delete the Mass Effect™ game data, and try again.",
-   "tr": "",
+   "tr": "Oyun verileri bozuk. Lütfen oyundan çıkın, Mass Effect oyun verilerini silin ve tekrar deneyin.",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u27460",
    "en": "Mass Effect™ Game Data",
-   "tr": "",
+   "tr": "Mass Effect Oyun Verileri",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u27461",
    "en": "Game data required to play Mass Effect™ will be installed now. Please do not turn off your system while the data is being written.",
-   "tr": "",
+   "tr": "Mass Effect'i oynamak için gereken oyun verileri şimdi kurulacak. Veriler yazılırken lütfen sisteminizi kapatmayın.",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u27462",
    "en": "Requirement: Complete Playthrough\nReward: Gold Trophy\nUnlock Hardcore Difficulty\nUnlock Character Levels 51-60",
-   "tr": "",
+   "tr": "Şart: Oyunu Bitir\nÖdül: Altın Kupa\nHardcore zorluğunun kilidini aç\nKarakter Seviyeleri 51-60'ın kilidini aç",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u27463",
    "en": "Requirement: Complete Feros\nReward: Silver Trophy",
-   "tr": "",
+   "tr": "Şart: Feros'u Tamamla\nÖdül: Gümüş Kupa",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u27464",
    "en": "Requirement: Complete Eden Prime\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: Eden Prime'ı Tamamla\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u27465",
    "en": "Requirement: Complete Virmire\nReward: Silver Trophy",
-   "tr": "",
+   "tr": "Şart: Virmire'ı Tamamla\nÖdül: Gümüş Kupa",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u27466",
    "en": "Requirement: Complete Noveria\nReward: Silver Trophy",
-   "tr": "",
+   "tr": "Şart: Noveria'yı Tamamla\nÖdül: Gümüş Kupa",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u27467",
    "en": "Requirement: Complete Two Playthroughs\nReward: Silver Trophy\nWeapon damage increased by 5%",
-   "tr": "",
+   "tr": "Şart: Oyunu İki Kez Bitir\nÖdül: Gümüş Kupa\nSilah hasarı %5 artar",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u27468",
    "en": "Requirement: Complete Hardcore Playthrough\nReward: Silver Trophy\nInsanity difficulty unlocks",
-   "tr": "",
+   "tr": "Şart: Oyunu Hardcore Zorlukta Bitir\nÖdül: Gümüş Kupa\nInsanity zorluğunun kilidi açılır",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u27469",
    "en": "Requirement: Complete Insanity Playthrough\nReward: Gold Trophy",
-   "tr": "",
+   "tr": "Şart: Oyunu Insanity Zorlukta Bitir\nÖdül: Altın Kupa",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u27470",
    "en": "Requirement: Log 150 Pistol Kills\nReward: Bronze Trophy\nMarksman duration increases by 25%",
-   "tr": "",
+   "tr": "Şart: 150 Tabanca Öldürmesi Kaydet\nÖdül: Bronz Kupa\nNişancılık süresi %25 artar",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u27471",
    "en": "Requirement: Log 150 Shotgun Kills\nReward: Bronze Trophy\nShotguns talent unlocks for all future characters on this profile",
-   "tr": "",
+   "tr": "Şart: 150 Pompalı Tüfek Öldürmesi Kaydet\nÖdül: Bronz Kupa\nPompalı Tüfekler yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u27472",
    "en": "Requirement: Log 150 Assault Rifle Kills\nReward: Bronze Trophy\nAssault Rifles talent unlocks for all future characters on this profile",
-   "tr": "",
+   "tr": "Şart: 150 Taarruz Tüfeği Öldürmesi Kaydet\nÖdül: Bronz Kupa\nTaarruz Tüfekleri yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u27473",
    "en": "Requirement: Log 150 Sniper Rifle Kills\nReward: Bronze Trophy\nSniper Rifles talent unlocks for all future characters on this profile",
-   "tr": "",
+   "tr": "Şart: 150 Keskin Nişancı Tüfeği Öldürmesi Kaydet\nÖdül: Bronz Kupa\nKeskin Nişancı Tüfekleri yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u27474",
    "en": "Requirement: Use Biotic Lift 75 Times \nReward: Bronze Trophy\nLift talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Biyotik Kaldırma yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nKaldırma yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u27475",
    "en": "Requirement: Use Biotic Throw 75 Times\nReward: Bronze Trophy\nThrow talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Biyotik Fırlatma yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nFırlatma yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u27476",
    "en": "Requirement: Use Biotic Warp 75 Times\nReward: Bronze Trophy\nWarp talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Biyotik Warp yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nWarp yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u27477",
    "en": "Requirement: Use Biotic Singularity 75 Times\nReward: Bronze Trophy\nSingularity talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Biyotik Tekillik yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nTekillik yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u27478",
    "en": "Requirement: Use Biotic Barrier 75 Times\nReward: Bronze Trophy\nBarrier talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Biyotik Bariyer yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nBariyer yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u27479",
    "en": "Requirement: Use Biotic Stasis 75 Times\nReward: Bronze Trophy\nStasis talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Biyotik Stazis yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nStazis yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u27480",
    "en": "Requirement: Use Damping Field 75 Times\nReward: Bronze Trophy\nDamping talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Sönümleme Alanı yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nSönümleme yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u27481",
    "en": "Requirement: Use AI Hacking 75 Times\nReward: Bronze Trophy\nHacking talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: YZ Hackleme yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nHackleme yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u27482",
    "en": "Requirement: Use Overload 75 Times\nReward: Bronze Trophy\nOverload talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Aşırı Yükleme yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nAşırı Yükleme yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u27483",
    "en": "Requirement: Use Sabotage 75 Times\nReward: Bronze Trophy\nSabotage talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Sabotaj yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nSabotaj yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u27484",
    "en": "Requirement: Use Medi-Gel 150 Times\nReward: Bronze TrophyFirst Aid talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Medi-Jel yeteneğini 150 kez kullan\nÖdül: Bronz Kupaİlk Yardım yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u27485",
    "en": "Requirement: Use Neural Shock 75 Times\nReward: Bronze Trophy\nMedicine talent unlocks for all subsequent characters on this profile",
-   "tr": "",
+   "tr": "Şart: Sinir Şoku yeteneğini 75 kez kullan\nÖdül: Bronz Kupa\nTıp yeteneğinin kilidi bu profildeki tüm sonraki karakterler için açılır",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u27486",
    "en": "Requirement: Find All Primary Codex Entries on Alien: Council Races, Extinct Races, and Non-Council Races\nReward: Silver Trophy",
-   "tr": "",
+   "tr": "Şart: Uzaylılar bölümündeki Konsey Irkları, Soyu Tükenmiş Irklar ve Konsey Dışı Irklar için tüm ana Codex kayıtlarını bul\nÖdül: Gümüş Kupa",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u27487",
    "en": "Requirement: Complete the Majority of the Game\nReward: Silver Trophy\nExperience rewards increase by 5%",
-   "tr": "",
+   "tr": "Şart: Oyunun Büyük Kısmını Tamamla\nÖdül: Gümüş Kupa\nDeneyim ödülleri %5 artar",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u27488",
    "en": "Requirement: Complete Playthrough with Shield Damage Greater than Health Damage\nReward: Silver Trophy\nShield strength increases by 10%",
-   "tr": "",
+   "tr": "Şart: Oyunu, Kalkan Hasarı Sağlık Hasarından Fazla Olacak Şekilde Bitir\nÖdül: Gümüş Kupa\nKalkan gücü %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u27489",
    "en": "Requirement: Land on an Uncharted World\nReward: Silver Trophy",
-   "tr": "",
+   "tr": "Şart: Keşfedilmemiş Bir Dünyaya İn\nÖdül: Gümüş Kupa",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u27490",
    "en": "Requirement: Exceed 1,000,000 Credits \nReward: Silver Trophy\nAccess Spectre Gear through Normandy Requisitions Officer and C-Sec Requisitions Officer",
-   "tr": "",
+   "tr": "Şart: 1.000.000 Krediyi Aş\nÖdül: Gümüş Kupa\nSpectre Teçhizatına Normandy Tedarik Subayı ve C-Sec Tedarik Subayı aracılığıyla erişim",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u27491",
    "en": "Requirement: Log 150 Organic Enemy Kills\nReward: Bronze Trophy\nIncrease health by 10%",
-   "tr": "",
+   "tr": "Şart: 150 Organik Düşman Öldür\nÖdül: Bronz Kupa\nSağlık %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u27492",
    "en": "Requirement: Log 250 Synthetic Enemy Kills\nReward: Bronze Trophy\nIncrease shield strength by 10%",
-   "tr": "",
+   "tr": "Şart: 250 Sentetik Düşman Öldür\nÖdül: Bronz Kupa\nKalkan gücü %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u27493",
    "en": "Requirement: Complete Majority of the Game with Alliance Soldier Squad Member\nReward: Bronze Trophy\nDamage Reduction improves by 10%",
-   "tr": "",
+   "tr": "Şart: Oyunun büyük kısmını Alliance Askeri takım üyesiyle tamamla\nÖdül: Bronz Kupa\nHasar Azaltma %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u27494",
    "en": "Requirement: Complete Majority of the Game with Alliance Sentinel Squad Member\nReward: Bronze Trophy\nLift and Throw recharge time improve by 10%",
-   "tr": "",
+   "tr": "Şart: Oyunun büyük kısmını Alliance Bekçisi takım üyesiyle tamamla\nÖdül: Bronz Kupa\nKaldırma ve Fırlatma yeniden dolum süresi %10 kısalır",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u27495",
    "en": "Requirement: Complete Majority of the Game with Krogan Squad Member\nReward: Bronze Trophy\nRegenerate 1 health per second",
-   "tr": "",
+   "tr": "Şart: Oyunun büyük kısmını Krogan takım üyesiyle tamamla\nÖdül: Bronz Kupa\nSaniyede 1 sağlık yenilenir",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u27496",
    "en": "Requirement: Complete Majority of the Game with Turian Squad Member\nReward: Bronze Trophy\nDamping and Overload recharge time improve by 10%",
-   "tr": "",
+   "tr": "Şart: Oyunun büyük kısmını Turian takım üyesiyle tamamla\nÖdül: Bronz Kupa\nSönümleme ve Aşırı Yükleme yeniden dolum süresi %10 kısalır",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u27497",
    "en": "Requirement: Complete Majority of the Game with Quarian Squad Member\nReward: Bronze Trophy\nSabotage and AI Hacking recharge time improve by 10%",
-   "tr": "",
+   "tr": "Şart: Oyunun büyük kısmını Quarian takım üyesiyle tamamla\nÖdül: Bronz Kupa\nSabotaj ve YZ Hackleme yeniden dolum süresi %10 kısalır",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u27498",
    "en": "Requirement: Complete Majority of the Game with Asari Squad Member\nReward: Bronze Trophy\nStasis and Barrier recharge time improve by 10%",
-   "tr": "",
+   "tr": "Şart: Oyunun büyük kısmını Asari takım üyesiyle tamamla\nÖdül: Bronz Kupa\nStazis ve Bariyer yeniden dolum süresi %10 kısalır",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u27499",
    "en": "Requirement: Reach Level 50\nReward: Bronze Trophy\nAll experience rewards increase by 10%",
-   "tr": "",
+   "tr": "Şart: 50. Seviyeye Ulaş\nÖdül: Bronz Kupa\nTüm deneyim ödülleri %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u27500",
    "en": "Requirement: Reach Level 60\nReward: Silver Trophy\nAll experience rewards improve by 5%",
-   "tr": "",
+   "tr": "Şart: 60. Seviyeye Ulaş\nÖdül: Gümüş Kupa\nTüm deneyim ödülleri %5 artar",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u27501",
    "en": "Requirement: Earn 75% of Total Possible Renegade Points\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: Toplam Renegade Puanlarının %75'ini Kazan\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u27502",
    "en": "Requirement: Earn 75% of Total Possible Paragon Points\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: Toplam Paragon Puanlarının %75'ini Kazan\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u27503",
    "en": "Requirement: Complete Romance Subplot\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: Aşk Alt Hikâyesini Tamamla\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u27504",
    "en": "Requirement: Become a Spectre\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: Spectre Ol\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u27505",
    "en": "Requirement: Resolve an Impossible Situation with Charm or Intimidate\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: İmkânsız Bir Durumu Büyüleme veya Yıldırma ile Çöz\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u27506",
    "en": "Requirement: Locate Liara in Artemis Tau Cluster\nReward: Bronze Trophy",
-   "tr": "",
+   "tr": "Şart: Artemis Tau Kümesi'nde Liara'yı Bul\nÖdül: Bronz Kupa",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u27507",
    "en": "1.1",
-   "tr": "",
+   "tr": "1.1",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u27508",
    "en": "1.2",
-   "tr": "",
+   "tr": "1.2",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u27509",
    "en": "1.3",
-   "tr": "",
+   "tr": "1.3",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u27510",
    "en": "1.4",
-   "tr": "",
+   "tr": "1.4",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u27511",
    "en": "1.5",
-   "tr": "",
+   "tr": "1.5",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u27512",
    "en": "1.6",
-   "tr": "",
+   "tr": "1.6",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u27513",
    "en": "1.7",
-   "tr": "",
+   "tr": "1.7",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u27514",
    "en": "1.8",
-   "tr": "",
+   "tr": "1.8",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u27515",
    "en": "1.9",
-   "tr": "",
+   "tr": "1.9",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u27516",
    "en": "2.1",
-   "tr": "",
+   "tr": "2.1",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u27517",
    "en": "2.2",
-   "tr": "",
+   "tr": "2.2",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u27518",
    "en": "2.3",
-   "tr": "",
+   "tr": "2.3",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u27519",
    "en": "2.4",
-   "tr": "",
+   "tr": "2.4",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u27520",
    "en": "2.5",
-   "tr": "",
+   "tr": "2.5",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u27521",
    "en": "2.6",
-   "tr": "",
+   "tr": "2.6",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u27522",
    "en": "2.7",
-   "tr": "",
+   "tr": "2.7",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u27523",
    "en": "2.8",
-   "tr": "",
+   "tr": "2.8",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u27524",
    "en": "2.9",
-   "tr": "",
+   "tr": "2.9",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u27525",
    "en": "2.10",
-   "tr": "",
+   "tr": "2.10",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u27526",
    "en": "2.11",
-   "tr": "",
+   "tr": "2.11",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u27527",
    "en": "2.12",
-   "tr": "",
+   "tr": "2.12",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u27528",
    "en": "2.13",
-   "tr": "",
+   "tr": "2.13",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u27529",
    "en": "2.14",
-   "tr": "",
+   "tr": "2.14",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u27530",
    "en": "3.1",
-   "tr": "",
+   "tr": "3.1",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u27531",
    "en": "3.2",
-   "tr": "",
+   "tr": "3.2",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u27532",
    "en": "3.3",
-   "tr": "",
+   "tr": "3.3",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u27533",
    "en": "3.4",
-   "tr": "",
+   "tr": "3.4",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u27534",
    "en": "3.5",
-   "tr": "",
+   "tr": "3.5",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u27535",
    "en": "3.6",
-   "tr": "",
+   "tr": "3.6",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u27536",
    "en": "3.7",
-   "tr": "",
+   "tr": "3.7",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u27537",
    "en": "3.8",
-   "tr": "",
+   "tr": "3.8",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u27538",
    "en": "3.9",
-   "tr": "",
+   "tr": "3.9",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u27539",
    "en": "3.10",
-   "tr": "",
+   "tr": "3.10",
    "ctx": [
     "Startup"
    ]
