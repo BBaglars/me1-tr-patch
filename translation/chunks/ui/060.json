@@ -9,7 +9,7 @@
   {
    "key": "u26640",
    "en": "This is the first time running Mass Effect. The Mass Effect Configuration Utility will scan your hardware and try and select the appropriate game settings based on that information. You can review and change these settings using the menu to the left. When you are satisfied with the settings, click Play to begin the game.",
-   "tr": "",
+   "tr": "Mass Effect ilk kez çalıştırılıyor. Mass Effect Yapılandırma Aracı donanımınızı tarayacak ve bu bilgiye göre uygun oyun ayarlarını seçmeye çalışacak. Bu ayarları soldaki menüyü kullanarak inceleyip değiştirebilirsiniz. Ayarlardan memnun kaldığınızda oyunu başlatmak için Oyna'ya tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u26641",
    "en": "Use the Overkill Power to shoot rapidly and accurately. Map Overkill to a Quick Slot hotkey for easy access. Press and hold %TACTICSHUD to begin.",
-   "tr": "",
+   "tr": "Hızlı ve isabetli ateş etmek için Ezici Güç yeteneğini kullanın. Kolay erişim için Ezici Gücü bir Hızlı Yuva kısayol tuşuna atayın. Başlamak için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u26642",
    "en": "Use the Overload power to knock down enemy shields. Map Overload to a Quick Slot hotkey for easy access. Press and hold %TACTICSHUD to begin",
-   "tr": "",
+   "tr": "Düşman kalkanlarını indirmek için Aşırı Yükleme gücünü kullanın. Kolay erişim için Aşırı Yüklemeyi bir Hızlı Yuva kısayol tuşuna atayın. Başlamak için %TACTICSHUD tuşunu basılı tutun",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u26643",
    "en": "Use the Throw Power to knock back enemies. Map Throw to a Quick Slot hotkey for easy access. Press and hold %TACTICSHUD to begin.",
-   "tr": "",
+   "tr": "Düşmanları geri püskürtmek için Fırlatma gücünü kullanın. Kolay erişim için Fırlatmayı bir Hızlı Yuva kısayol tuşuna atayın. Başlamak için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u26644",
    "en": "Left-click and hold on a Power icon. Drag the Power to the Quick Slot bar and release the mouse button. You can now use this Power in game by pressing the Quick Slot's listed hotkey.",
-   "tr": "",
+   "tr": "Bir Güç simgesine sol tıklayıp basılı tutun. Gücü Hızlı Yuva çubuğuna sürükleyip fare tuşunu bırakın. Artık bu Gücü, Hızlı Yuva'nın üzerinde yazan kısayol tuşuna basarak oyunda kullanabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u26645",
    "en": "Equip the assault rifle Ashley gave you by clicking on the assault rifle icon.",
-   "tr": "",
+   "tr": "Taarruz tüfeği simgesine tıklayarak Ashley'nin size verdiği taarruz tüfeğini kuşanın.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u26646",
    "en": "Your health is low. Take cover to avoid enemy fire. Press %FIRSTAID to attempt First Aid.",
-   "tr": "",
+   "tr": "Sağlığınız düşük. Düşman ateşinden kaçınmak için siper alın. İlk Yardım'ı denemek için %FIRSTAID tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u26647",
    "en": "Liquid Development, LLC\n\nFacial animation software provided by OC3 Entertainment. ©2002-2008, OC3 Entertainment, Inc. and its licensors. All rights reserved.\n\nUses Bink Video. Copyright ©1997-2008 by RAD Game Tools, Inc.",
-   "tr": "",
+   "tr": "Liquid Development, LLC\n\nYüz animasyonu yazılımı OC3 Entertainment tarafından sağlanmıştır. (c)2002-2008, OC3 Entertainment, Inc. ve lisans verenleri. Tüm hakları saklıdır.\n\nBink Video kullanır. Telif Hakkı (c)1997-2008 RAD Game Tools, Inc.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u26648",
    "en": "360 Development Team",
-   "tr": "",
+   "tr": "360 Geliştirme Ekibi",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u26649",
    "en": "Steve Lam",
-   "tr": "",
+   "tr": "Steve Lam",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u26650",
    "en": "BioWare PC Development",
-   "tr": "",
+   "tr": "BioWare PC Geliştirme",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u26651",
    "en": "Programming Lead",
-   "tr": "",
+   "tr": "Programlama Lideri",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u26652",
    "en": "Owen Borstad",
-   "tr": "",
+   "tr": "Owen Borstad",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u26653",
    "en": "Programming",
-   "tr": "",
+   "tr": "Programlama",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u26654",
    "en": "Steven Hand",
-   "tr": "",
+   "tr": "Steven Hand",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u26655",
    "en": "Chris L'Etoile\nChristina Norman",
-   "tr": "",
+   "tr": "Chris L'Etoile\nChristina Norman",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u26656",
    "en": "Additional QA",
-   "tr": "",
+   "tr": "Ek KG",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u26657",
    "en": "Chris Buzon\nKim Hansen\nScott Langevin",
-   "tr": "",
+   "tr": "Chris Buzon\nKim Hansen\nScott Langevin",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u26658",
    "en": "Marwan Audeh\nJonathan Baldwin\nBlake Grant\nBrenon Holmes\nNelson Housden\nRyan Hoyle\nRob Krajcarski\nShawn Potter\nCraig Welburn\nJohn Wetmiller",
-   "tr": "",
+   "tr": "Marwan Audeh\nJonathan Baldwin\nBlake Grant\nBrenon Holmes\nNelson Housden\nRyan Hoyle\nRob Krajcarski\nShawn Potter\nCraig Welburn\nJohn Wetmiller",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u26659",
    "en": "EA Partners",
-   "tr": "",
+   "tr": "EA Partners",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u26660",
    "en": "David Yee",
-   "tr": "",
+   "tr": "David Yee",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u26661",
    "en": "Michael Doran",
-   "tr": "",
+   "tr": "Michael Doran",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u26662",
    "en": "Craig Krstolic",
-   "tr": "",
+   "tr": "Craig Krstolic",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u26663",
    "en": "Sr. Development Director",
-   "tr": "",
+   "tr": "Kıdemli Geliştirme Direktörü",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u26664",
    "en": "John Viffian",
-   "tr": "",
+   "tr": "John Viffian",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u26665",
    "en": "Crystal Sanchez",
-   "tr": "",
+   "tr": "Crystal Sanchez",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u26666",
    "en": "EA Redwood Shores",
-   "tr": "",
+   "tr": "EA Redwood Shores",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u26667",
    "en": "QA Director",
-   "tr": "",
+   "tr": "KG Direktörü",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u26668",
    "en": "Matthew Brown",
-   "tr": "",
+   "tr": "Matthew Brown",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u26669",
    "en": "QA Assistant Leads",
-   "tr": "",
+   "tr": "KG Lider Yardımcıları",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u26670",
    "en": "Raasahn Browder\nJonathan Yan",
-   "tr": "",
+   "tr": "Raasahn Browder\nJonathan Yan",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u26671",
    "en": "Krish Acu\nJohn Bratnober\nJack Beacom\nAshley Coleman\nMichael Crabtree\nKatharine Ellis\nRyan Giguere\nRobin Giles\nShelby Goad\nJared Karklins\nNathan J. Karklins\nVaraga Nazari\nRonald Nixon\nTim Olson\nSamuel Retzloff\nDevon M. Smith\nIsaac Stevenson\nChris Sykora\nBryan Walsh\nChad Wilson",
-   "tr": "",
+   "tr": "Krish Acu\nJohn Bratnober\nJack Beacom\nAshley Coleman\nMichael Crabtree\nKatharine Ellis\nRyan Giguere\nRobin Giles\nShelby Goad\nJared Karklins\nNathan J. Karklins\nVaraga Nazari\nRonald Nixon\nTim Olson\nSamuel Retzloff\nDevon M. Smith\nIsaac Stevenson\nChris Sykora\nBryan Walsh\nChad Wilson",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u26672",
    "en": "Daniel Canton\nMatt Danuser\nHuey Ngo\nMatt Zenel",
-   "tr": "",
+   "tr": "Daniel Canton\nMatt Danuser\nHuey Ngo\nMatt Zenel",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u26673",
    "en": "Matt Landi\nMark Johnson\nSteve Jenkins\nJosh Riemersma",
-   "tr": "",
+   "tr": "Matt Landi\nMark Johnson\nSteve Jenkins\nJosh Riemersma",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u26674",
    "en": "Chris Anjos\nSam Worf",
-   "tr": "",
+   "tr": "Chris Anjos\nSam Worf",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u26675",
    "en": "Worldwide Mastering",
-   "tr": "",
+   "tr": "Dünya Çapında Mastering",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u26676",
    "en": "Michael Yasko",
-   "tr": "",
+   "tr": "Michael Yasko",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u26677",
    "en": "EARS Mastering",
-   "tr": "",
+   "tr": "EARS Mastering",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u26678",
    "en": "Mike Deir\nChris Espiritu\nKima Hayuk\nRick Helmer\nBelle Vasaya",
-   "tr": "",
+   "tr": "Mike Deir\nChris Espiritu\nKima Hayuk\nRick Helmer\nBelle Vasaya",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u26679",
    "en": "North America Submissions and Compliance",
-   "tr": "",
+   "tr": "Kuzey Amerika Teslim ve Uyumluluk",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u26680",
    "en": "Jason Collins\nDarryl Jenkins\nMike Kushner\nDaniel Martell\nRussell Medeiros\nRyan Roque\nJoyce Sacman\nMatthew Salazar",
-   "tr": "",
+   "tr": "Jason Collins\nDarryl Jenkins\nMike Kushner\nDaniel Martell\nRussell Medeiros\nRyan Roque\nJoyce Sacman\nMatthew Salazar",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u26681",
    "en": "Customer Quality Control North America",
-   "tr": "",
+   "tr": "Müşteri Kalite Kontrolü Kuzey Amerika",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u26682",
    "en": "Dave Beck\nWes Hendrix\nRyan Jacobson\nDave Jordan\nKyle Killion\nConrad Leiden\nGarrett Muldoon\nShaun McCourt\nChance Shiflett\nBobby Williams",
-   "tr": "",
+   "tr": "Dave Beck\nWes Hendrix\nRyan Jacobson\nDave Jordan\nKyle Killion\nConrad Leiden\nGarrett Muldoon\nShaun McCourt\nChance Shiflett\nBobby Williams",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u26683",
    "en": "EA EUROPE",
-   "tr": "",
+   "tr": "EA AVRUPA",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u26684",
    "en": "European Mastering Manager",
-   "tr": "",
+   "tr": "Avrupa Mastering Yöneticisi",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u26685",
    "en": "Sam Roberts",
-   "tr": "",
+   "tr": "Sam Roberts",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u26686",
    "en": "Madrid Mastering",
-   "tr": "",
+   "tr": "Madrid Mastering",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u26687",
    "en": "Andreas Berral\nJohn Brunton\nDan Burnett\nRuben Del Pozo\nCristian Giner Gonzalez",
-   "tr": "",
+   "tr": "Andreas Berral\nJohn Brunton\nDan Burnett\nRuben Del Pozo\nCristian Giner Gonzalez",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u26688",
    "en": "Sr. Localization Project Manager",
-   "tr": "",
+   "tr": "Kıdemli Yerelleştirme Proje Yöneticisi",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u26689",
    "en": "Laurent Gibert",
-   "tr": "",
+   "tr": "Laurent Gibert",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u26690",
    "en": "Localization Project Manager",
-   "tr": "",
+   "tr": "Yerelleştirme Proje Yöneticisi",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u26691",
    "en": "Fausto Ceccarelli",
-   "tr": "",
+   "tr": "Fausto Ceccarelli",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u26692",
    "en": "Head Localization Tester",
-   "tr": "",
+   "tr": "Yerelleştirme Test Şefi",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u26693",
    "en": "Juan Linaje",
-   "tr": "",
+   "tr": "Juan Linaje",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u26694",
    "en": "Localization Testers",
-   "tr": "",
+   "tr": "Yerelleştirme Test Uzmanları",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u26695",
    "en": "Alexander Bowman\nPaolo Catozzella\nDamien Haimovici\nDavid Monteiro\nTirdad Nosrati\nFederica Rossi",
-   "tr": "",
+   "tr": "Alexander Bowman\nPaolo Catozzella\nDamien Haimovici\nDavid Monteiro\nTirdad Nosrati\nFederica Rossi",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u26696",
    "en": "BioWare Special Thanks",
-   "tr": "",
+   "tr": "BioWare Özel Teşekkür",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u26697",
    "en": "Jim Bishop,  Mark Darrah, Trent Oster, Dan Tudge, Richard Vogel, Gordon Walton, Jorg Neumann, Russ Almond, and all our friends at BioWare Austin.",
-   "tr": "",
+   "tr": "Jim Bishop,  Mark Darrah, Trent Oster, Dan Tudge, Richard Vogel, Gordon Walton, Jorg Neumann, Russ Almond ve BioWare Austin'deki tüm dostlarımıza.",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u26698",
    "en": "Steve Arnold\nEdwin Caparaz\nSteve D'Eredita\nBrent Dady\nDavid DeMartini\nJon Horsley\nMicah Loucks\nDJ Powers\nRaphael Ruland\nChris Serra\nBen Smith\nEvelyn Walker",
-   "tr": "",
+   "tr": "Steve Arnold\nEdwin Caparaz\nSteve D'Eredita\nBrent Dady\nDavid DeMartini\nJon Horsley\nMicah Loucks\nDJ Powers\nRaphael Ruland\nChris Serra\nBen Smith\nEvelyn Walker",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u26699",
    "en": "Director of Finance and Administration",
-   "tr": "",
+   "tr": "Finans ve İdari İşler Direktörü",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u26700",
    "en": "Kevin Gunderman",
-   "tr": "",
+   "tr": "Kevin Gunderman",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u26701",
    "en": "Todd Derechey\nSharon Pate \nTreena Rees \nCalvin Chan",
-   "tr": "",
+   "tr": "Todd Derechey\nSharon Pate \nTreena Rees \nCalvin Chan",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u26702",
    "en": "Celia Arevalo \nTheresa Baxter \nMark Kluchky \nLeanne Korotash \nAngela Pappas ",
-   "tr": "",
+   "tr": "Celia Arevalo \nTheresa Baxter \nMark Kluchky \nLeanne Korotash \nAngela Pappas ",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u26703",
    "en": "Lee Evanochko\nJulian Karst\nRobert McKenna\nJesse Van Herk",
-   "tr": "",
+   "tr": "Lee Evanochko\nJulian Karst\nRobert McKenna\nJesse Van Herk",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u26704",
    "en": "Sam Decker \nWayne Mah\nCraig Miller ",
-   "tr": "",
+   "tr": "Sam Decker \nWayne Mah\nCraig Miller ",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u26705",
    "en": "Keri Clark\nCrystal Ens \nTeresa Meester\nLanna Mess",
-   "tr": "",
+   "tr": "Keri Clark\nCrystal Ens \nTeresa Meester\nLanna Mess",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u26706",
    "en": "Todd Grenier\nSheridon Routley\nMike Sass ",
-   "tr": "",
+   "tr": "Todd Grenier\nSheridon Routley\nMike Sass ",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u26707",
    "en": "Johnn Four\nJeff Marvin \nColin Walmsley ",
-   "tr": "",
+   "tr": "Johnn Four\nJeff Marvin \nColin Walmsley ",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u26708",
    "en": "Assistant Brand Manager",
-   "tr": "",
+   "tr": "Marka Yöneticisi Yardımcısı",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u26709",
    "en": "Randall Bishop",
-   "tr": "",
+   "tr": "Randall Bishop",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u26710",
    "en": "Every weapon has at least one weapon and one ammo upgrade slot. Click the weapon icon to access weapon upgrades for this weapon. Click the bullet icon to access ammo upgrades.",
-   "tr": "",
+   "tr": "Her silahın en az bir silah ve bir mühimmat yükseltme yuvası vardır. Bu silahın yükseltmelerine erişmek için silah simgesine tıklayın. Mühimmat yükseltmelerine erişmek için mermi simgesine tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u26711",
    "en": "${PRODUCT_NAME} Electronic Registration",
-   "tr": "",
+   "tr": "${PRODUCT_NAME} Elektronik Kaydı",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u26712",
    "en": "Web Links",
-   "tr": "",
+   "tr": "Web Bağlantıları",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u26713",
    "en": "Register ${PRODUCT_NAME}",
-   "tr": "",
+   "tr": "${PRODUCT_NAME} Ürününü Kaydet",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u26714",
    "en": "Selected Save Game could not be loaded. Downloadable Content missing. Module(s) in question:",
-   "tr": "",
+   "tr": "Seçilen Kayıtlı Oyun yüklenemedi. İndirilebilir İçerik eksik. İlgili modül(ler):",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u26715",
    "en": "Steve Arnold, Edwin Caparaz, Steve D'Eredita, Brent Dady,\nDavid DeMartini, Jon Horsley, Micah Loucks, DJ Powers,\nRaphael Ruland, Chris Serra, Ben Smith, and Evelyn Walker",
-   "tr": "",
+   "tr": "Steve Arnold, Edwin Caparaz, Steve D'Eredita, Brent Dady,\nDavid DeMartini, Jon Horsley, Micah Loucks, DJ Powers,\nRaphael Ruland, Chris Serra, Ben Smith ve Evelyn Walker",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u26716",
    "en": "BioWare External",
-   "tr": "",
+   "tr": "BioWare Harici",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u26717",
    "en": "Angelo Bayan\nDave Caron\nMark Gonzales\nJon Naugle\nRyan Morales\nJosh Platt",
-   "tr": "",
+   "tr": "Angelo Bayan\nDave Caron\nMark Gonzales\nJon Naugle\nRyan Morales\nJosh Platt",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u26718",
    "en": "EARS Compatibility Lab",
-   "tr": "",
+   "tr": "EARS Uyumluluk Laboratuvarı",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u26719",
    "en": "A Batarian extremist group has hijacked a mobile asteroid station, setting it on a collision course with a nearby colony world. Only you can save the millions of innocent civilians before the asteroid completes its deadly descent.",
-   "tr": "",
+   "tr": "Batarian aşırılıkçı bir grup, hareketli bir asteroit istasyonunu kaçırıp yakındaki bir koloni dünyasıyla çarpışma rotasına soktu. Asteroit ölümcül inişini tamamlamadan milyonlarca masum sivili yalnızca siz kurtarabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u26720",
    "en": "Download this FREE content to expand your Mass Effect experience!",
-   "tr": "",
+   "tr": "Mass Effect deneyiminizi genişletmek için bu ÜCRETSİZ içeriği indirin!",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u26721",
    "en": "Learn More",
-   "tr": "",
+   "tr": "Daha Fazla Bilgi",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u26722",
    "en": "Join the BioWare Mass Effect Community Today",
-   "tr": "",
+   "tr": "BioWare Mass Effect Topluluğuna Bugün Katılın",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u26723",
    "en": "Register Mass Effect and gain access to exclusive content, special forums and all the latest news on upcoming Mass Effect projects.",
-   "tr": "",
+   "tr": "Mass Effect'i kaydedin; özel içeriklere, özel forumlara ve yaklaşan Mass Effect projeleriyle ilgili tüm son haberlere erişin.",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u26724",
    "en": "Game compromised",
-   "tr": "",
+   "tr": "Oyun tehlikeye girdi",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u26725",
    "en": "Your game has been compromised.  Please reinstall.",
-   "tr": "",
+   "tr": "Oyununuz tehlikeye girdi.  Lütfen yeniden yükleyin.",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u26726",
    "en": "Adjusts the quality of in-game textures. Mass Effect must be restarted for this change to take effect.",
-   "tr": "",
+   "tr": "Oyun içi dokuların kalitesini ayarlar. Bu değişikliğin geçerli olması için Mass Effect'in yeniden başlatılması gerekir.",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u26727",
    "en": "Updating News...",
-   "tr": "",
+   "tr": "Haberler Güncelleniyor...",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u26728",
    "en": "Popup string of how one looks around.",
-   "tr": "",
+   "tr": "Etrafa nasıl bakılacağını anlatan açılır metin.",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u26729",
    "en": "EASTEURO STRING",
-   "tr": "",
+   "tr": "EASTEURO STRING",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u26730",
    "en": "EASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING",
-   "tr": "",
+   "tr": "EASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u26731",
    "en": "EASTEURO STRING\nEASTEURO STRING",
-   "tr": "",
+   "tr": "EASTEURO STRING\nEASTEURO STRING",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u26732",
    "en": "EASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING",
-   "tr": "",
+   "tr": "EASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u26733",
    "en": "Eastern European Teams",
-   "tr": "",
+   "tr": "Doğu Avrupa Ekipleri",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u26734",
    "en": "EASTEURO",
-   "tr": "",
+   "tr": "EASTEURO",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u26735",
    "en": "Error: One or more Downloadable Content files could not be accessed.  Please try reinstalling the file(s).",
-   "tr": "",
+   "tr": "Hata: Bir veya daha fazla İndirilebilir İçerik dosyasına erişilemedi.  Lütfen dosyaları yeniden yüklemeyi deneyin.",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u26736",
    "en": "This installer does not support the $GameLanguageName version of ${PRODUCT_NAME}.\\r\\n\\r\\nPlease go back to where you downloaded this file and select the matching language version.",
-   "tr": "",
+   "tr": "Bu yükleyici ${PRODUCT_NAME} ürününün $GameLanguageName sürümünü desteklemiyor.\\r\\n\\r\\nLütfen bu dosyayı indirdiğiniz yere dönüp eşleşen dil sürümünü seçin.",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u26737",
    "en": "Mass Effect is not found.$\\r$\\rPlease reinstall the game from the original source and try again.",
-   "tr": "",
+   "tr": "Mass Effect bulunamadı.$\\r$\\rLütfen oyunu özgün kaynaktan yeniden yükleyip tekrar deneyin.",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u26738",
    "en": "${PRODUCT_NAME} ${PATCH_VERSION} has been installed.",
-   "tr": "",
+   "tr": "${PRODUCT_NAME} ${PATCH_VERSION} yüklendi.",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u26739",
    "en": "This will update your copy of Mass Effect to ${PATCH_VERSION}.  Do you wish to continue?",
-   "tr": "",
+   "tr": "Bu işlem Mass Effect kopyanızı ${PATCH_VERSION} sürümüne güncelleyecek.  Devam etmek istiyor musunuz?",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u26740",
    "en": "You have a newer version of Mass Effect installed than this patch.",
-   "tr": "",
+   "tr": "Bu yamadan daha yeni bir Mass Effect sürümü yüklü.",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u26741",
    "en": "View <Filename>",
-   "tr": "",
+   "tr": "<Filename> Görüntüle",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u26742",
    "en": "This installer does not support the language of the installed Game.",
-   "tr": "",
+   "tr": "Bu yükleyici yüklü Oyunun dilini desteklemiyor.",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u26743",
    "en": "Unable to determine the version of ${PRODUCT_NAME}. Please reinstall ${PRODUCT_NAME} and try running this installer again.",
-   "tr": "",
+   "tr": "${PRODUCT_NAME} sürümü belirlenemedi. Lütfen ${PRODUCT_NAME} ürününü yeniden yükleyip bu yükleyiciyi tekrar çalıştırmayı deneyin.",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u26744",
    "en": "Updating ${PRODUCT_NAME}.",
-   "tr": "",
+   "tr": "${PRODUCT_NAME} güncelleniyor.",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u26745",
    "en": "Validating Licence file...",
-   "tr": "",
+   "tr": "Lisans dosyası doğrulanıyor...",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u26746",
    "en": "Failed to validate license file.",
-   "tr": "",
+   "tr": "Lisans dosyası doğrulanamadı.",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u26747",
    "en": "Product Keys",
-   "tr": "",
+   "tr": "Ürün Anahtarları",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u26748",
    "en": "Product Name",
-   "tr": "",
+   "tr": "Ürün Adı",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u26749",
    "en": "Product Key",
-   "tr": "",
+   "tr": "Ürün Anahtarı",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u26750",
    "en": "Copy All",
-   "tr": "",
+   "tr": "Tümünü Kopyala",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u26751",
    "en": "Delete Local Shader Cache Files",
-   "tr": "",
+   "tr": "Yerel Gölgelendirici Önbellek Dosyalarını Sil",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u26752",
    "en": "Windows XP Service Pack 2 or later is required to play Mass Effect. Your system does not meet this requirement.",
-   "tr": "",
+   "tr": "Mass Effect'i oynamak için Windows TP Service Pack 2 veya üzeri gereklidir. Sisteminiz bu gereksinimi karşılamıyor.",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u26753",
    "en": "Get the brand new mission and 1.01 patch now!",
-   "tr": "",
+   "tr": "Yepyeni görevi ve 1.01 yamasını şimdi edinin!",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u26754",
    "en": "Free mission 'Bring Down the Sky' is ready for download. A batarian extremist group has hijacked a mobile asteroid station in the Asgard system, setting it on a collision course with the nearby colony world of Terra Nova.\n \nGrab the 1.01 patch by itself, or get the entire package by downloading 'Bring Down the Sky'",
-   "tr": "",
+   "tr": "Ücretsiz 'Bring Down the Sky' görevi indirmeye hazır. Batarian aşırılıkçı bir grup, Asgard sisteminde hareketli bir asteroit istasyonunu kaçırıp yakındaki Terra Nova koloni dünyasıyla çarpışma rotasına soktu.\n \n1.01 yamasını tek başına edinin veya 'Bring Down the Sky' ile tüm paketi indirin",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u26755",
    "en": "Pinnacle Station",
-   "tr": "",
+   "tr": "Pinnacle Station",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u26756",
    "en": "Visit the military training center at Pinnacle Station and engage in a series of combat simulations.\n\nFrom the galaxy map, travel to the Argus Rho cluster. Enter the Phoenix system and board Pinnacle Station.",
-   "tr": "",
+   "tr": "Pinnacle Station'daki askeri eğitim merkezini ziyaret edin ve bir dizi savaş simülasyonuna katılın.\n\nGalaksi haritasından Argus Rho Kümesi'ne gidin. Phoenix sistemine girip Pinnacle Station'a çıkın.",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u26757",
    "en": "The asteroid-based Pinnacle Station was originally constructed by the Turians to function as a concealed command center during the Krogan Rebellions. It has been retrofitted as a military training facility for all high-level special operations teams employed by the council. The station's combat simulator allows teams to train under a variety of hazardous conditions.\n\nPopulation: 1200\nRadius: 340m",
-   "tr": "",
+   "tr": "Asteroit tabanlı Pinnacle Station, başlangıçta Turian'lar tarafından Krogan İsyanları sırasında gizli bir komuta merkezi olarak inşa edildi. Şimdi Konsey'in görevlendirdiği tüm üst düzey özel operasyon timleri için askeri bir eğitim tesisine dönüştürüldü. İstasyonun savaş simülatörü, timlerin çeşitli tehlikeli koşullar altında eğitim yapmasına olanak tanır.\n\nNüfus: 1200\nYarıçap: 340m",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u26758",
    "en": "Josh Glavine",
-   "tr": "",
+   "tr": "Josh Glavine",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u26759",
    "en": "Design",
-   "tr": "",
+   "tr": "Tasarım",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u26760",
    "en": "Engineering Lead",
-   "tr": "",
+   "tr": "Mühendislik Lideri",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u26761",
    "en": "Kevin Teich",
-   "tr": "",
+   "tr": "Kevin Teich",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u26762",
    "en": "Mike Garon\nAndy Hendrickson\nKwasi Mensah",
-   "tr": "",
+   "tr": "Mike Garon\nAndy Hendrickson\nKwasi Mensah",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u26763",
    "en": "Tim Crosby",
-   "tr": "",
+   "tr": "Tim Crosby",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u26764",
    "en": "Harley Baldwin White-Wiedow\nDave Elder\nDave Flamburis\nLiang Li\nTom Lin\nChris Linder\nJustin Lokey\nEvan Nikolich\nKurt Reiner\nAlex Rice\nAdam Rosenfield\nEddie Scholtz",
-   "tr": "",
+   "tr": "Harley Baldwin White-Wiedow\nDave Elder\nDave Flamburis\nLiang Li\nTom Lin\nChris Linder\nJustin Lokey\nEvan Nikolich\nKurt Reiner\nAlex Rice\nAdam Rosenfield\nEddie Scholtz",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u26765",
    "en": "New Sheriff in Town",
-   "tr": "",
+   "tr": "Kasabanın Yeni Şerifi",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u26766",
    "en": "Best of the Best",
-   "tr": "",
+   "tr": "En İyilerin En İyisi",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u26767",
    "en": "Undisputed",
-   "tr": "",
+   "tr": "Tartışmasız",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u26768",
    "en": "Vampire High Score",
-   "tr": "",
+   "tr": "Vampir Yüksek Skoru",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u26769",
    "en": "Ahern's Challenge High Score",
-   "tr": "",
+   "tr": "Ahern'in Meydan Okuması Yüksek Skoru",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u26770",
    "en": "Pacifism",
-   "tr": "",
+   "tr": "Pasifizm",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u26771",
    "en": "Strong is the Spectre",
-   "tr": "",
+   "tr": "Spectre Güçlüdür",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u26772",
    "en": "Gernader",
-   "tr": "",
+   "tr": "Bombacı",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u26773",
    "en": "Meleer",
-   "tr": "",
+   "tr": "Yakın Dövüşçü",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u26774",
    "en": "Requirement:\nGet the top score in a simulator mission.",
-   "tr": "",
+   "tr": "Şart:\nBir simülatör görevinde en yüksek skoru yapın.",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u26775",
    "en": "Requirement:\nGet the top score in all twelve simulator missions.",
-   "tr": "",
+   "tr": "Şart:\nOn iki simülatör görevinin hepsinde en yüksek skoru yapın.",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u26776",
    "en": "Requirement:\nComplete Ahern's survival mission.",
-   "tr": "",
+   "tr": "Şart:\nAhern'in hayatta kalma görevini tamamlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u26777",
    "en": "Requirement:\nGet the high score in a Vampire challenge mode.",
-   "tr": "",
+   "tr": "Şart:\nBir Vampir meydan okuma modunda yüksek skoru yapın.",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u26778",
    "en": "Requirement:\nGet the high score in Ahern's challenge.",
-   "tr": "",
+   "tr": "Şart:\nAhern'in meydan okumasında yüksek skoru yapın.",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u26779",
    "en": "Complete Capture and Hold without killing any enemies.",
-   "tr": "",
+   "tr": "Hiçbir düşmanı öldürmeden Ele Geçir ve Tut görevini tamamlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u26780",
    "en": "Requirement:\nComplete Ahern's challenge without using Medi-gel.",
-   "tr": "",
+   "tr": "Şart:\nAhern'in meydan okumasını Medi-jel kullanmadan tamamlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u26781",
    "en": "Kill three enemies with one gernade.",
-   "tr": "",
+   "tr": "Tek bir el bombasıyla üç düşman öldürün.",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u26782",
    "en": "Complete Time Attack using only melee.",
-   "tr": "",
+   "tr": "Zamana Karşı modunu yalnızca yakın dövüşle tamamlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u26783",
    "en": "You got the top score in a simulator mission.",
-   "tr": "",
+   "tr": "Bir simülatör görevinde en yüksek skoru yaptınız.",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u26784",
    "en": "You got the top score in all twelve simulator missions.",
-   "tr": "",
+   "tr": "On iki simülatör görevinin hepsinde en yüksek skoru yaptınız.",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u26785",
    "en": "You completed Ahern's survival mission.",
-   "tr": "",
+   "tr": "Ahern'in hayatta kalma görevini tamamladınız.",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u26786",
    "en": "You got the high score in a Vampire challenge mode.",
-   "tr": "",
+   "tr": "Bir Vampir meydan okuma modunda yüksek skoru yaptınız.",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u26787",
    "en": "You got the high score in Ahern's challenge.",
-   "tr": "",
+   "tr": "Ahern'in meydan okumasında yüksek skoru yaptınız.",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u26788",
    "en": "You completed Capture and Hold without killing any enemies.",
-   "tr": "",
+   "tr": "Hiçbir düşmanı öldürmeden Ele Geçir ve Tut görevini tamamladınız.",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u26789",
    "en": "You completed Ahern's challenge without using Medi-gel.",
-   "tr": "",
+   "tr": "Ahern'in meydan okumasını Medi-jel kullanmadan tamamladınız.",
    "ctx": [
     "Startup"
    ]
