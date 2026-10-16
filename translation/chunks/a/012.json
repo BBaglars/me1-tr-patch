@@ -9,7 +9,7 @@
   {
    "key": "u02770",
    "en": "What's the problem?",
-   "tr": "",
+   "tr": "Sorun ne?",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -19,7 +19,7 @@
   {
    "key": "u02784",
    "en": "I'm in a hurry.",
-   "tr": "",
+   "tr": "Acelem var.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -29,7 +29,7 @@
   {
    "key": "u02805",
    "en": "Yes, I would.",
-   "tr": "",
+   "tr": "Evet, isterim.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -39,7 +39,7 @@
   {
    "key": "u02835",
    "en": "That makes sense.",
-   "tr": "",
+   "tr": "Mantıklı.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -49,7 +49,7 @@
   {
    "key": "u02924",
    "en": "You and me both.",
-   "tr": "",
+   "tr": "İkimiz de.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC",
     "BIOA_NOR10_06kaidan_DSG_LOC",
@@ -59,7 +59,7 @@
   {
    "key": "u02967",
    "en": "Understood.",
-   "tr": "",
+   "tr": "Anlaşıldı.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC",
     "BIOA_JUG20_08_DSG_LOC",
@@ -69,7 +69,7 @@
   {
    "key": "u02979",
    "en": "I'll see what I can do.",
-   "tr": "",
+   "tr": "Ne yapabileceğime bakarım.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC",
     "BIOA_ICE60_07A_DSG_LOC",
@@ -79,7 +79,7 @@
   {
    "key": "u03024",
    "en": "I don't know what you're talking about.",
-   "tr": "",
+   "tr": "Ne dediğini bilmiyorum.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC",
     "BIOA_NOR10_06lockera_DSG_LOC",
@@ -89,7 +89,7 @@
   {
    "key": "u03028",
    "en": "What?",
-   "tr": "",
+   "tr": "Ne?",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC",
     "BIOA_ICE60_06_DSG_LOC",
@@ -99,7 +99,7 @@
   {
    "key": "u03048",
    "en": "No problem.",
-   "tr": "",
+   "tr": "Sorun değil.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC",
     "BIOA_NOR10_04_DSG_LOC",
@@ -109,7 +109,7 @@
   {
    "key": "u03136",
    "en": "Where do I go?",
-   "tr": "",
+   "tr": "Nereye gideyim?",
    "ctx": [
     "BIOA_ICE60_06_DSG_LOC",
     "BIOA_STA20_04C_DSG_LOC"
@@ -118,7 +118,7 @@
   {
    "key": "u03161",
    "en": "My name's Shepard.",
-   "tr": "",
+   "tr": "Adım Shepard.",
    "ctx": [
     "BIOA_ICE60_06_DSG_LOC",
     "BIOA_STA30_01_DSG_LOC"
@@ -127,7 +127,7 @@
   {
    "key": "u03188",
    "en": "Shut up.",
-   "tr": "",
+   "tr": "Kapa çeneni.",
    "ctx": [
     "BIOA_ICE60_06_DSG_LOC",
     "BIOA_STA30_04A_DSG_LOC",
@@ -137,7 +137,7 @@
   {
    "key": "u03214",
    "en": "Yes?",
-   "tr": "",
+   "tr": "Evet?",
    "ctx": [
     "BIOA_ICE60_07A_DSG_LOC",
     "BIOA_NOR10_11_DSG_LOC"
@@ -146,7 +146,7 @@
   {
    "key": "u03286",
    "en": "Suit yourself.",
-   "tr": "",
+   "tr": "Nasıl istersen.",
    "ctx": [
     "BIOA_ICE60_07A_DSG_LOC",
     "BIOA_NOR10_11_DSG_LOC"
@@ -155,7 +155,7 @@
   {
    "key": "u03351",
    "en": "Happy to help.",
-   "tr": "",
+   "tr": "Yardım etmekten memnunum.",
    "ctx": [
     "BIOA_ICE60_07A_DSG_LOC",
     "BIOA_STA20_02A_DSG_LOC",
@@ -165,7 +165,7 @@
   {
    "key": "u03384",
    "en": "That's all for now.",
-   "tr": "",
+   "tr": "Şimdilik bu kadar.",
    "ctx": [
     "BIOA_ICE60_07_DSG_LOC",
     "BIOA_NOR10_04A_DSG_LOC",
@@ -175,7 +175,7 @@
   {
    "key": "u03431",
    "en": "What's on your mind?",
-   "tr": "",
+   "tr": "Aklında ne var?",
    "ctx": [
     "BIOA_ICE60_07_DSG_LOC",
     "BIOA_STA60_02a_DSG_LOC"
@@ -184,7 +184,7 @@
   {
    "key": "u03455",
    "en": "How are you holding up?",
-   "tr": "",
+   "tr": "Nasıl dayanıyorsun?",
    "ctx": [
     "BIOA_ICE60_07_DSG_LOC",
     "BIOA_ICE60_14_DSG_LOC",
@@ -194,7 +194,7 @@
   {
    "key": "u03485",
    "en": "Good question.",
-   "tr": "",
+   "tr": "İyi soru.",
    "ctx": [
     "BIOA_ICE60_07_DSG_LOC",
     "BIOA_STA60_05A_DSG_LOC",
@@ -204,7 +204,7 @@
   {
    "key": "u03486",
    "en": "Show me what you've got.",
-   "tr": "",
+   "tr": "Neyin var göster bakalım.",
    "ctx": [
     "BIOA_ICE60_07_DSG_LOC",
     "BIOA_STA30_03A_DSG_LOC",
@@ -214,7 +214,7 @@
   {
    "key": "u03508",
    "en": "You lied to me.",
-   "tr": "",
+   "tr": "Bana yalan söyledin.",
    "ctx": [
     "BIOA_ICE60_10_DSG_LOC",
     "BIOA_STA20_10A_DSG_LOC",
@@ -224,7 +224,7 @@
   {
    "key": "u03557",
    "en": "You mean Liara?",
-   "tr": "",
+   "tr": "Liara'yı mı kastediyorsun?",
    "ctx": [
     "BIOA_ICE60_12_DSG_LOC",
     "BIOA_NOR10_06kaidan_DSG_LOC",
@@ -234,7 +234,7 @@
   {
    "key": "u03572",
    "en": "How so?",
-   "tr": "",
+   "tr": "Nasıl yani?",
    "ctx": [
     "BIOA_ICE60_12_DSG_LOC",
     "BIOA_NOR10_11_DSG_LOC",
@@ -244,7 +244,7 @@
   {
    "key": "u03590",
    "en": "Of course, Commander.",
-   "tr": "",
+   "tr": "Tabii, Komutan.",
    "ctx": [
     "BIOA_ICE60_12_DSG_LOC",
     "BIOA_STA60_01nodest_DSG_LOC",
@@ -254,7 +254,7 @@
   {
    "key": "u03608",
    "en": "Give it to me.",
-   "tr": "",
+   "tr": "Ver bana.",
    "ctx": [
     "BIOA_ICE60_12_DSG_LOC",
     "BIOA_NOR10_11_DSG_LOC",
@@ -264,7 +264,7 @@
   {
    "key": "u03703",
    "en": "If you're certain.",
-   "tr": "",
+   "tr": "Eminsen.",
    "ctx": [
     "BIOA_ICE60_12_DSG_LOC",
     "BIOA_NOR10_03_DSG_LOC"
@@ -273,7 +273,7 @@
   {
    "key": "u03861",
    "en": "What did you do?",
-   "tr": "",
+   "tr": "Ne yaptın?",
    "ctx": [
     "BIOA_ICE60_14_DSG_LOC",
     "BIOA_LOS40_05_DSG_LOC",
@@ -283,7 +283,7 @@
   {
    "key": "u04916",
    "en": "Everybody hang on!",
-   "tr": "",
+   "tr": "Herkes tutunsun!",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -292,7 +292,7 @@
   {
    "key": "u04917",
    "en": "I... I can't believe Kaidan didn't make it. How could we just leave him down there?",
-   "tr": "",
+   "tr": "Ben... Kaidan'ın kurtulamadığına inanamıyorum. Onu orada nasıl bırakabildik?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -301,7 +301,7 @@
   {
    "key": "u04918",
    "en": "Thanks, Commander. Things got pretty hot down there. You saved my life.",
-   "tr": "",
+   "tr": "Teşekkürler, Komutan. Aşağıda işler çok kızıştı. Hayatımı kurtardınız.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -310,7 +310,7 @@
   {
    "key": "u04919",
    "en": "It's a distress call, a message sent out across the Prothean Empire. A warning against the Reapers, but the warning came too late.",
-   "tr": "",
+   "tr": "Bu bir imdat çağrısı, Prothean İmparatorluğu'na yayılmış bir mesaj. Biçiciler'e karşı bir uyarı ama uyarı çok geç geldi.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -319,7 +319,7 @@
   {
    "key": "u04920",
    "en": "Saren will have his entire fleet orbiting Ilos. You will never make it down to the surface without reinforcements. You must alert the Council. We need a fleet to-- ohhh...",
-   "tr": "",
+   "tr": "Saren tüm filosunu Ilos'un yörüngesinde bekletecek. Takviye olmadan yüzeye asla inemezsin. Konsey'i uyarmalısın. Bir filoya ihtiyacımız var ki... ohhh...",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -328,7 +328,7 @@
   {
    "key": "u04921",
    "en": "I am sorry. The joining is... exhausting. I should go to the medical bay and lie down for a moment.",
-   "tr": "",
+   "tr": "Üzgünüm. Birleşme... yorucu. Revire gidip biraz uzanmalıyım.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -337,7 +337,7 @@
   {
    "key": "u04922",
    "en": "Your role in our communion is passive. I am the one who must submerge myself in your mind. Drown myself in your thoughts. It is more difficult than it looks.",
-   "tr": "",
+   "tr": "Bu birleşmede senin rolün pasif. Zihnine dalmak zorunda olan benim. Düşüncelerinde boğulmak. Göründüğünden daha zor.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -346,7 +346,7 @@
   {
    "key": "u04923",
    "en": "The human subconscious instinctively resists the joining, Commander. A strong personality like yours makes it even harder. I just need some time to recover.",
-   "tr": "",
+   "tr": "İnsan bilinçaltı birleşmeye içgüdüsel olarak direnir, Shepard. Seninki gibi güçlü bir kişilik bunu daha da zorlaştırıyor. Toparlanmak için biraz zamana ihtiyacım var.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -355,7 +355,7 @@
   {
    "key": "u04924",
    "en": "That will not be necessary. I just need some rest. Somewhere quiet.",
-   "tr": "",
+   "tr": "Buna gerek yok. Sadece biraz dinlenmem lazım. Sessiz bir yerde.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -364,7 +364,7 @@
   {
    "key": "u04925",
    "en": "Tell me. Your visions -- have they changed at all? Do you know where the Conduit is now?",
-   "tr": "",
+   "tr": "Söyle bana. Vizyonların, hiç değişti mi? Conduit'in şu an nerede olduğunu biliyor musun?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -373,7 +373,7 @@
   {
    "key": "u04926",
    "en": "That is unfortunate. I am afraid our only choice is to go to Feros. Maybe we will find what we need there.",
-   "tr": "",
+   "tr": "Ne yazık. Korkarım tek seçeneğimiz Feros'a gitmek. Belki orada ihtiyacımız olanı buluruz.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -382,7 +382,7 @@
   {
    "key": "u04927",
    "en": "But how are we going to find him? Or the Conduit?",
-   "tr": "",
+   "tr": "Ama onu nasıl bulacağız? Ya da Conduit'i?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -391,7 +391,7 @@
   {
    "key": "u04928",
    "en": "What about that beacon? The one in the base? Did it give you another vision? Did it show you where the Conduit is?",
-   "tr": "",
+   "tr": "Peki ya şu işaret fişeği? Üssündeki? Sana başka bir vizyon verdi mi? Conduit'in nerede olduğunu gösterdi mi?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -400,7 +400,7 @@
   {
    "key": "u04929",
    "en": "Both our lives. I don't know how you did it, Commander. The Alliance'll come up with a whole new medal for what you pulled off here.",
-   "tr": "",
+   "tr": "İkimizin de hayatı. Nasıl yaptığınızı bilmiyorum, Komutan. İttifak burada yaptığınız iş için tamamen yeni bir madalya çıkaracak.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -409,7 +409,7 @@
   {
    "key": "u04930",
    "en": "If they don't court-martial you. You endangered the entire mission. Why didn't you just leave one of us behind?",
-   "tr": "",
+   "tr": "Sizi askeri mahkemeye vermezlerse. Tüm görevi tehlikeye attınız. Neden birimizi geride bırakmadınız?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -418,7 +418,7 @@
   {
    "key": "u04931",
    "en": "We might have tried, Commander. But I don't think either one of us could have pulled this off.",
-   "tr": "",
+   "tr": "Deneyebilirdik, Komutan. Ama ikimizin de bunu başarabileceğini sanmıyorum.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -427,7 +427,7 @@
   {
    "key": "u04932",
    "en": "Anyone else, I'd say they got lucky.",
-   "tr": "",
+   "tr": "Başkası olsaydı şanslı olduğunu söylerdim.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -436,7 +436,7 @@
   {
    "key": "u04933",
    "en": "Kaidan's right. Nobody else could make a stunt like that work. Put anyone else in charge and someone gets left behind. Or the mission fails.",
-   "tr": "",
+   "tr": "Kaidan haklı. Başka hiç kimse böyle bir numarayı çalıştıramazdı. Başka biri komutada olsaydı biri geride kalırdı. Ya da görev başarısız olurdu.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -445,7 +445,7 @@
   {
    "key": "u04934",
    "en": "I... I can't believe Ash didn't make it. How could we just leave her down there?",
-   "tr": "",
+   "tr": "Ben... Ash'in kurtulamadığına inanamıyorum. Onu orada nasıl bırakabildik?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -454,7 +454,7 @@
   {
    "key": "u04935",
    "en": "But why me? Why not her?",
-   "tr": "",
+   "tr": "Ama neden ben? Neden o değil?",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -463,7 +463,7 @@
   {
    "key": "u04936",
    "en": "I know. And I am grateful. But Ash died because of me. Because of us.",
-   "tr": "",
+   "tr": "Biliyorum. Ve minnettarım. Ama Ash benim yüzümden öldü. Bizim yüzümüzden.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -472,7 +472,7 @@
   {
    "key": "u04937",
    "en": "I'm sorry, Commander. You saved my life. I'm grateful for that. But if I'd done my job-- We should have been able to save her.",
-   "tr": "",
+   "tr": "Üzgünüm, Komutan. Hayatımı kurtardınız. Bunun için minnettarım. Ama işimi yapmış olsaydım... Onu kurtarabilmiş olmalıydık.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -481,7 +481,7 @@
   {
    "key": "u04938",
    "en": "But if I'd done my job, you wouldn't have had to make that call.",
-   "tr": "",
+   "tr": "Ama işimi yapmış olsaydım, o kararı vermek zorunda kalmazdınız.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -490,7 +490,7 @@
   {
    "key": "u04939",
    "en": "Yes, sir. I'm-- We'll get it done.",
-   "tr": "",
+   "tr": "Evet, efendim. Ben... Hallederiz.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -499,7 +499,7 @@
   {
    "key": "u04940",
    "en": "It should have been me, Commander. You know that.",
-   "tr": "",
+   "tr": "Ben olmalıydım, Komutan. Bunu biliyorsunuz.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -508,7 +508,7 @@
   {
    "key": "u04941",
    "en": "I know. And I'm grateful. But Kaidan died because of me. Because of us.",
-   "tr": "",
+   "tr": "Biliyorum. Ve minnettarım. Ama Kaidan benim yüzümden öldü. Bizim yüzümüzden.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -517,7 +517,7 @@
   {
    "key": "u04942",
    "en": "I-- I'm sorry, Commander. You saved my life. I'm grateful for that. But it should have be me. Alenko was a superior officer. I would have gladly stayed behind.",
-   "tr": "",
+   "tr": "Ü-üzgünüm, Komutan. Hayatımı kurtardınız. Bunun için minnettarım. Ama ben olmalıydım. Alenko üst rütbeli bir subaydı. Seve seve geride kalırdım.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -526,7 +526,7 @@
   {
    "key": "u04943",
    "en": "Commander? Excuse me for interrupting. But I have an idea. I think the beacon you found in Saren's base was similar to the one you found on Eden Prime.",
-   "tr": "",
+   "tr": "Komutan? Sözünüzü kestiğim için kusura bakmayın. Ama bir fikrim var. Saren'in üssünde bulduğunuz işaret fişeğinin Eden Prime'da bulduğunuza benzediğini düşünüyorum.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -535,7 +535,7 @@
   {
    "key": "u04944",
    "en": "It may have filled in the missing pieces of your vision. I might be able to help you put all those pieces together.",
-   "tr": "",
+   "tr": "Vizyonunuzdaki eksik parçaları tamamlamış olabilir. Tüm o parçaları bir araya getirmenize yardım edebilirim.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -544,7 +544,7 @@
   {
    "key": "u04945",
    "en": "I understand your reluctance, Commander. But the visions are already there. I only want to help you make sense of them. It may be the only way to stop Saren.",
-   "tr": "",
+   "tr": "İsteksizliğinizi anlıyorum, Komutan. Ama vizyonlar zaten orada. Yalnızca onlara anlam vermenize yardım etmek istiyorum. Saren'i durdurmanın tek yolu bu olabilir.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -553,7 +553,7 @@
   {
    "key": "u04946",
    "en": "Relax, Commander. Embrace eternity!",
-   "tr": "",
+   "tr": "Rahatlayın, Komutan. Sonsuzluğu kucaklayın!",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
@@ -562,7 +562,7 @@
   {
    "key": "u04947",
    "en": "Incredible. I... I never thought the images would be so... intense. I need a moment to collect myself.",
-   "tr": "",
+   "tr": "İnanılmaz. Ben... Görüntülerin bu kadar... yoğun olacağını hiç düşünmemiştim. Toparlanmak için bir an gerek.",
    "ctx": [
     "BIOA_JUG_80_X_Outrun_CIN_LOC",
     "BIOA_NOR10_04A_DSG_LOC"
