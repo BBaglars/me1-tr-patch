@@ -1,0 +1,7 @@
+tools/LegendaryExplorer/
+tools/dotnet10/
+**/bin/
+**/obj/
+staging/
+backup/
+export/
