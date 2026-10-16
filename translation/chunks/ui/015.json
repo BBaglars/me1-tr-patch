@@ -9,7 +9,7 @@
   {
    "key": "u20452",
    "en": "Increases Singularity's radius to 7.25 m",
-   "tr": "",
+   "tr": "Tekillik yarıçapını 7.25 m değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u20453",
    "en": "Barrier\n\nBolsters your shields with a biotic barrier that will absorb up to 400 points of damage\nWill not block attacks that bypass shields\n\nDuration: 10 sec\nRecharge Time: 60 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Bariyer\n\nKalkanlarınızı 400 hasara kadar emebilen bir biyotik bariyerle güçlendirir\nKalkanları atlayan saldırıları engellemez\n\nSüre: 10sn\nYeniden Dolum Süresi: 60sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u20454",
    "en": "Increases Barrier duration to 10.5 sec and shielding to 420",
-   "tr": "",
+   "tr": "Bariyer süresini 10.5 sn ve kalkanı 420 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u20455",
    "en": "Increases Barrier duration to 11 sec and shielding to 440",
-   "tr": "",
+   "tr": "Bariyer süresini 11 sn ve kalkanı 440 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u20456",
    "en": "Increases Barrier duration to 11.5 sec and shielding to 460",
-   "tr": "",
+   "tr": "Bariyer süresini 11.5 sn ve kalkanı 460 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u20457",
    "en": "Increases Barrier duration to 12 sec and shielding to 480",
-   "tr": "",
+   "tr": "Bariyer süresini 12 sn ve kalkanı 480 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u20458",
    "en": "Increases Barrier duration to 12.5 sec and shielding to 500",
-   "tr": "",
+   "tr": "Bariyer süresini 12.5 sn ve kalkanı 500 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u20459",
    "en": "Advanced Barrier\n\nBarrier will absorb up to 700 points of damage\nImproves the recharge time and accuracy cost\n\nDuration: 16.5 sec\nRecharge Time: 50 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Gelişmiş Bariyer\n\nBariyer 700 hasara kadar emer\nYeniden dolum süresini ve isabet bedelini iyileştirir\n\nSüre: 16.5sn\nYeniden Dolum Süresi: 50sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u20460",
    "en": "Increases Barrier duration to 17 sec and shielding to 720",
-   "tr": "",
+   "tr": "Bariyer süresini 17 sn ve kalkanı 720 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u20461",
    "en": "Increases Barrier duration to 17.5 sec and shielding to 740",
-   "tr": "",
+   "tr": "Bariyer süresini 17.5 sn ve kalkanı 740 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u20462",
    "en": "Increases Barrier duration to 18 sec and shielding to 760",
-   "tr": "",
+   "tr": "Bariyer süresini 18 sn ve kalkanı 760 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u20463",
    "en": "Increases Barrier duration to 18.5 sec and shielding to 780",
-   "tr": "",
+   "tr": "Bariyer süresini 18.5 sn ve kalkanı 780 değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u20464",
    "en": "Master Barrier\n\nBolsters your shields with a biotic barrier that will absorb up to 1000 points of damage\n\nDuration: 23 sec\nRecharge Time: 40 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Usta Bariyer\n\nKalkanlarınızı 1000 hasara kadar emebilen bir biyotik bariyerle güçlendirir\n\nSüre: 23sn\nYeniden Dolum Süresi: 40sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u20465",
    "en": "Stasis\n\nMakes the target unable to move or attack, but also immune to damage\nSquad members will not use Stasis unless it is selected from the Power Wheel\n\nDuration: 12.5 s\nRecharge Time: 60 s\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Stazis\n\nHedefi hareket edemez ve saldıramaz hale getirir, ancak hasara karşı da bağışık kılar\nTakım üyeleri, Güç Çarkı'ndan seçilmedikçe Stazis kullanmaz\n\nSüre: 12.5sn\nYeniden Dolum Süresi: 60sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u20466",
    "en": "Increases Stasis' duration to 13 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 13 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u20467",
    "en": "Increases Stasis' duration to 13.5 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 13.5 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u20468",
    "en": "Increases Stasis' duration to 14 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 14 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u20469",
    "en": "Increases Stasis' duration to 14.5 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 14.5 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u20470",
    "en": "Advanced Stasis\n\nImproves the recharge time\n\nDuration: 17 sec\nRecharge Time: 50 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Gelişmiş Stazis\n\nYeniden dolum süresini iyileştirir\n\nSüre: 17sn\nYeniden Dolum Süresi: 50sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u20471",
    "en": "Increases Stasis' duration to 17.5 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 17.5 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u20472",
    "en": "Increases Stasis' duration to 18 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 18 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u20473",
    "en": "Increases Stasis' duration to 18.5 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 18.5 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u20474",
    "en": "Increases Stasis' duration to 19 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 19 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u20475",
    "en": "Increases Stasis' duration to 19.5 seconds",
-   "tr": "",
+   "tr": "Stazis süresini 19.5 sn değerine çıkarır",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u20476",
    "en": "Master Stasis\n\nImproves the recharge time\n\nDuration: 21 sec\nRecharge Time: 40 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Usta Stazis\n\nYeniden dolum süresini iyileştirir\n\nSüre: 21sn\nYeniden Dolum Süresi: 40sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u20477",
    "en": "Overload\n\nCan use electronics skill on easy objects\n\nDoes 50 damage in a 6 m radius\nDoes 200 damage to enemy shields\nMakes them 20% more vulnerable to damage for 10 sec\n\nRecharge Time: 60 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Aşırı Yükleme\n\nKolay nesnelerde elektronik becerisi kullanılabilir\n\n6 m yarıçapta 50 hasar verir\nDüşman kalkanlarına 200 hasar verir\nOnları 10 sn boyunca hasara karşı %20 daha savunmasız kılar\n\nYeniden Dolum Süresi: 60sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u20478",
    "en": "Increases shield capacity by 30\nRestores 400 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 30 artırır\nAraç onarımı sırasında 400 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u20479",
    "en": "Increases shield capacity by 60\nRestores 600 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 60 artırır\nAraç onarımı sırasında 600 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u20480",
    "en": "Increases shield capacity by 90\nRestores 800 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 90 artırır\nAraç onarımı sırasında 800 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u20481",
    "en": "Advanced Overload\n\nCan use electronics skill on average objects\n\nDoes 100 damage in a 8 m radius\nDoes 400 damage to enemy shields\nMakes them 25% more vulnerable to damage for 10 sec\n\nRecharge Time: 50 s\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Gelişmiş Aşırı Yükleme\n\nOrta zorlukta nesnelerde elektronik becerisi kullanılabilir\n\n8 m yarıçapta 100 hasar verir\nDüşman kalkanlarına 400 hasar verir\nOnları 10 sn boyunca hasara karşı %25 daha savunmasız kılar\n\nYeniden Dolum Süresi: 50sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u20482",
    "en": "Increases shield capacity by 120\nRestores 1200 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 120 artırır\nAraç onarımı sırasında 1200 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u20483",
    "en": "Increases shield capacity by 150\nRestores 1400 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 150 artırır\nAraç onarımı sırasında 1400 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u20484",
    "en": "Increases shield capacity by 180\nRestores 1600 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 180 artırır\nAraç onarımı sırasında 1600 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u20485",
    "en": "Master Overload\n\nCan use electronics skill on hard objects\n\nDoes 150 damage in a 10 m radius\nDoes 600 damage to enemy shields\nMakes them 30% more vulnerable to damage for 10 sec\n\nRecharge Time: 40 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Usta Aşırı Yükleme\n\nZor nesnelerde elektronik becerisi kullanılabilir\n\n10 m yarıçapta 150 hasar verir\nDüşman kalkanlarına 600 hasar verir\nOnları 10 sn boyunca hasara karşı %30 daha savunmasız kılar\n\nYeniden Dolum Süresi: 40sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u20486",
    "en": "Increases shield capacity by 210\nRestores 2000 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 210 artırır\nAraç onarımı sırasında 2000 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u20487",
    "en": "Increases shield capacity by 240\nRestores 2200 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 240 artırır\nAraç onarımı sırasında 2200 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u20488",
    "en": "Increases shield capacity by 270\nRestores 2400 extra hull during vehicle repair",
-   "tr": "",
+   "tr": "Kalkan kapasitesini 270 artırır\nAraç onarımı sırasında 2400 ek gövde yeniler",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u20489",
    "en": "Damping\n\nDoes 50 damage in a 6 m radius\nEnemies cannot use biotic/tech abilities for a short period (adds 30% cooldown time)\nStuns basic enemies for 3 sec\n\nRecharge Time: 60 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Sönümleme\n\n6 m yarıçapta 50 hasar verir\nDüşmanlar kısa bir süre biyotik/teknoloji yeteneklerini kullanamaz (bekleme süresine %30 ekler)\nBasit düşmanları 3 sn sersemletir\n\nYeniden Dolum Süresi: 60sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u20490",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 10%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u20491",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 14%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %14 artar",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u20492",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 18%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %18 artar",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u20493",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 20%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %20 artar",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u20494",
    "en": "Advanced Damping\n\nDoes 100 damage in a 8 m radius\nEnemies cannot use biotic/tech abilities for a short period (adds 45% cooldown time)\nStuns most enemies for 3 sec\n\nRecharge Time: 50 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Gelişmiş Sönümleme\n\n8 m yarıçapta 100 hasar verir\nDüşmanlar kısa bir süre biyotik/teknoloji yeteneklerini kullanamaz (bekleme süresine %45 ekler)\nÇoğu düşmanı 3 sn sersemletir\n\nYeniden Dolum Süresi: 50sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u20495",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 22%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %22 artar",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u20496",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 24%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %24 artar",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u20497",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 26%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %26 artar",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u20498",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 28%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %28 artar",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u20499",
    "en": "Increases the radius of Sabotage, Overload, and Damping by 30%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yarıçap %30 artar",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u20500",
    "en": "Master Damping \n\nDoes 100 damage in a 10 m radius\nEnemies cannot use biotic/tech abilities for a short period (adds 60% cooldown time)\nStuns all but the toughest enemies for 3 sec\n\nRecharge Time: 40 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Usta Sönümleme\n\n10 m yarıçapta 100 hasar verir\nDüşmanlar kısa bir süre biyotik/teknoloji yeteneklerini kullanamaz (bekleme süresine %60 ekler)\nEn dayanıklılar dışındaki tüm düşmanları 3 sn sersemletir\n\nYeniden Dolum Süresi: 40sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u20501",
    "en": "AI Hacking\n\nTemporarily drives basic robotic enemies berserk so they will attack anything nearby, including their former allies\n\nDuration: 20 sec\nRecharge Time: 60 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Yapay Zekâ Hackleme\n\nBasit robotik düşmanları geçici olarak çıldırtır; böylece eski müttefikleri de dahil yakındaki her şeye saldırırlar\n\nSüre: 20sn\nYeniden Dolum Süresi: 60sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u20502",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 6%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %6 azalır",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u20503",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 9%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %9 azalır",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u20504",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 12%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %12 azalır",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u20505",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 15%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %15 azalır",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u20506",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 18%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %18 azalır",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u20507",
    "en": "Advanced AI Hacking\n\nHack will now work on more advanced robotic enemies\n\nDuration: 25 sec\nRecharge Time: 50 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Gelişmiş Yapay Zekâ Hackleme\n\nHackleme artık daha gelişmiş robotik düşmanlarda da işe yarar\n\nSüre: 25sn\nYeniden Dolum Süresi: 50sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u20508",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 21%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %21 azalır",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u20509",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 24%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %24 azalır",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u20510",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 27%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %27 azalır",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u20511",
    "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 30%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme ve Sönümleme: yeniden dolum süresi %30 azalır",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u20512",
    "en": "Master AI Hacking\n\nDrives all but the toughest robotic enemies berserk\n\nDuration: 30 sec\nRecharge Time: 40 sec\nAccuracy Cost: 80%",
-   "tr": "",
+   "tr": "Usta Yapay Zekâ Hackleme\n\nEn dayanıklılar dışındaki tüm robotik düşmanları çıldırtır\n\nSüre: 30sn\nYeniden Dolum Süresi: 40sn\nİsabet Bedeli: %80",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u20513",
    "en": "Sabotage\n\nCan use decryption skill on easy objects\n\nDoes 50 damage  in a 6 m radius\nOverheats enemy weapons\nBurns them for 2 damage per second\n\nDuration: 15 sec\nRecharge Time: 60 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Sabotaj\n\nKolay nesnelerde şifre çözme becerisi kullanılabilir\n\n6 m yarıçapta 50 hasar verir\nDüşman silahlarını aşırı ısıtır\nOnları saniyede 2 hasarla yakar\n\nSüre: 15sn\nYeniden Dolum Süresi: 60sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u20514",
    "en": "Increases the tech mine explosion damage done by Sabotage, Damping, and EMP by 10%",
-   "tr": "",
+   "tr": "Sabotaj, Sönümleme ve EMP: teknoloji mayını patlama hasarı %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u20515",
    "en": "Increases the tech explosion damage by 14%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %14 artırır",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u20516",
    "en": "Increases the tech explosion damage by 18%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %18 artırır",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u20517",
    "en": "Advanced Sabotage\n\nCan use decryption skill on average objects\n\nDoes 100 damage in a 8 m radius\nOverheats enemy weapons\nBurns them for 3 damage per second\n\nDuration: 20 sec\nRecharge Time: 50 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Gelişmiş Sabotaj\n\nOrta zorlukta nesnelerde şifre çözme becerisi kullanılabilir\n\n8 m yarıçapta 100 hasar verir\nDüşman silahlarını aşırı ısıtır\nOnları saniyede 3 hasarla yakar\n\nSüre: 20sn\nYeniden Dolum Süresi: 50sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u20518",
    "en": "Increases the tech explosion damage by 20%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %20 artırır",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u20519",
    "en": "Increases the tech explosion damage by 22%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %22 artırır",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u20520",
    "en": "Increases the tech explosion damage by 24%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %24 artırır",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u20521",
    "en": "Master Sabotage\n\nCan use decryption skill on hard objects\n\nDoes 150 damage in a 10 m radius\nOverheats enemy weapons\nBurns them for 4 damage per second\n\nDuration: 25 sec\nRecharge Time: 40 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Usta Sabotaj\n\nZor nesnelerde şifre çözme becerisi kullanılabilir\n\n10 m yarıçapta 150 hasar verir\nDüşman silahlarını aşırı ısıtır\nOnları saniyede 4 hasarla yakar\n\nSüre: 25sn\nYeniden Dolum Süresi: 40sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u20522",
    "en": "Increases the tech explosion damage by 26%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %26 artırır",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u20523",
    "en": "Increases the tech explosion damage by 28%",
-   "tr": "",
+   "tr": "Teknoloji patlaması hasarını %28 artırır",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u20524",
    "en": "Reduces the recharge time on First Aid by 15%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %15 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u20525",
    "en": "Reduces the recharge time on First Aid by 21%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %21 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u20526",
    "en": "Reduces the recharge time on First Aid by 26%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %26 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u20527",
    "en": "Reduces the recharge time on First Aid by 30%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %30 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u20528",
    "en": "Advanced Neural Shock\n\nKnocks out an organic enemy for 3 sec\nInflicts 80 toxic damage\n\nRecharge Time: 45 sec\nAccuracy Cost: 60%",
-   "tr": "",
+   "tr": "Gelişmiş Sinir Şoku\n\nOrganik bir düşmanı 3 sn bayıltır\n80 zehirli hasar verir\n\nYeniden Dolum Süresi: 45sn\nİsabet Bedeli: %60",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u20529",
    "en": "Reduces the recharge time on First Aid by 36%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %36 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u20530",
    "en": "Reduces the recharge time on First Aid by 39%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %39 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u20531",
    "en": "Reduces the recharge time on First Aid by 42%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %42 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u20532",
    "en": "Reduces the recharge time on First Aid by 45%",
-   "tr": "",
+   "tr": "İlk Yardım yeniden dolum süresini %45 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u20533",
    "en": "Reduces recharge time on Sabotage, Overload, Damping, AI Hacking, Neural Shock, and First Aid by 4%\nIncreases tech protection by 6%",
-   "tr": "",
+   "tr": "Sabotaj, Aşırı Yükleme, Sönümleme, Yapay Zekâ Hackleme, Sinir Şoku ve İlk Yardım: yeniden dolum süresi %4 azalır\nTeknoloji korumasını %6 artırır",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u20534",
    "en": "Reduces the recharge time on Throw, Lift, Warp, Singularity, Barrier and Stasis by 4%\nIncreases your biotic protection by 6%",
-   "tr": "",
+   "tr": "Fırlatma, Kaldırma, Warp, Tekillik, Bariyer ve Stazis: yeniden dolum süresi %4 azalır\nBiyotik korumayı %6 artırır",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u20535",
    "en": "Reduces heat buildup on pistols and sniper rifles by 5%\nIncreases the tech mine explosion damage of Sabotage, Overload, and Damping by 5%",
-   "tr": "",
+   "tr": "Tabancalarda ve keskin nişancı tüfeklerinde ısı birikimini %5 azaltır\nSabotaj, Aşırı Yükleme ve Sönümleme: teknoloji mayını patlama hasarı %5 artar",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u20536",
    "en": "Reduces the cooldown time of Throw, Lift, Barrier and Stasis by 3%\nReduces the cooldown time of Sabotage, Overload, First Aid and Neural Shock by 3%\nIncreases pistol damage by 2%\nIncreases pistol accuracy by 4%",
-   "tr": "",
+   "tr": "Fırlatma, Kaldırma, Bariyer ve Stazis: yeniden dolum süresi %3 azalır\nSabotaj, Aşırı Yükleme, İlk Yardım ve Sinir Şoku: yeniden dolum süresi %3 azalır\nTabanca hasarını %2 artırır\nTabanca isabetini %4 artırır",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u20537",
    "en": "Increases biotic protection by 6%\nIncreases pistol and shotgun damage by 5%",
-   "tr": "",
+   "tr": "Biyotik korumayı %6 artırır\nTabanca ve pompalı tüfek hasarını %5 artırır",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u20538",
    "en": "Reduces the recharge time on all tech talents by 6%\nIncreases tech protection by 9%",
-   "tr": "",
+   "tr": "Tüm teknoloji yetenekleri: yeniden dolum süresi %6 azalır\nTeknoloji korumasını %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u20539",
    "en": "Reduces the recharge time on all tech talents by 8%\nIncreases tech protection by 12%",
-   "tr": "",
+   "tr": "Tüm teknoloji yetenekleri: yeniden dolum süresi %8 azalır\nTeknoloji korumasını %12 artırır",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u20540",
    "en": "Reduces the recharge time on all tech talents by 10%\nIncreases tech protection by 15%",
-   "tr": "",
+   "tr": "Tüm teknoloji yetenekleri: yeniden dolum süresi %10 azalır\nTeknoloji korumasını %15 artırır",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u20541",
    "en": "Reduces the recharge time on all tech talents by 12%\nIncreases tech protection by 18%",
-   "tr": "",
+   "tr": "Tüm teknoloji yetenekleri: yeniden dolum süresi %12 azalır\nTeknoloji korumasını %18 artırır",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u20542",
    "en": "Reduces the recharge time on all tech talents by 14%\nIncreases tech protection by 21%",
-   "tr": "",
+   "tr": "Tüm teknoloji yetenekleri: yeniden dolum süresi %14 azalır\nTeknoloji korumasını %21 artırır",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u20543",
    "en": "Reduces the recharge time on biotic talents by 6%\nIncreases your biotic protection by 9%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %6 azalır\nBiyotik korumayı %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u20544",
    "en": "Reduces the recharge time on biotic talents by 8%\nIncreases your biotic protection by 12%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %8 azalır\nBiyotik korumayı %12 artırır",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u20545",
    "en": "Reduces the recharge time on biotic talents by 10%\nIncreases your biotic protection by 15%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %10 azalır\nBiyotik korumayı %15 artırır",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u20546",
    "en": "Reduces the recharge time on biotic talents by 12%\nIncreases your biotic protection by 18%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %12 azalır\nBiyotik korumayı %18 artırır",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u20547",
    "en": "Reduces the recharge time on biotic talents by 14%\nIncreases your biotic protection by 21%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %14 azalır\nBiyotik korumayı %21 artırır",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u20548",
    "en": "Reduces heat buildup on pistols and sniper rifles by 6%\nIncreases tech explosion damage by 7%",
-   "tr": "",
+   "tr": "Tabancalarda ve keskin nişancı tüfeklerinde ısı birikimini %6 azaltır\nTeknoloji patlaması hasarını %7 artırır",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u20549",
    "en": "Reduces heat buildup on pistols and sniper rifles by 7%\nIncreases tech explosion damage by 9%",
-   "tr": "",
+   "tr": "Tabancalarda ve keskin nişancı tüfeklerinde ısı birikimini %7 azaltır\nTeknoloji patlaması hasarını %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u20550",
    "en": "Reduces heat buildup on pistols and sniper rifles by 8%\nIncreases tech explosion damage by 11%",
-   "tr": "",
+   "tr": "Tabancalarda ve keskin nişancı tüfeklerinde ısı birikimini %8 azaltır\nTeknoloji patlaması hasarını %11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u20551",
    "en": "Reduces heat buildup on pistols and sniper rifles by 9%\nIncreases tech explosion damage by 13%",
-   "tr": "",
+   "tr": "Tabancalarda ve keskin nişancı tüfeklerinde ısı birikimini %9 azaltır\nTeknoloji patlaması hasarını %13 artırır",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u20552",
    "en": "Reduces heat buildup on pistols and sniper rifles by 10%\nIncreases tech explosion damage by 15%",
-   "tr": "",
+   "tr": "Tabancalarda ve keskin nişancı tüfeklerinde ısı birikimini %10 azaltır\nTeknoloji patlaması hasarını %15 artırır",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u20553",
    "en": "Reduces the cooldown time of biotic and tech talents by 5%\nIncreases pistol damage by 4%\nIncreases pistol accuracy by 7%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %5 azalır\nTabanca hasarını %4 artırır\nTabanca isabetini %7 artırır",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u20554",
    "en": "Reduces the cooldown time of biotic and tech talents by 7%\nIncreases pistol damage by 6%\nIncreases pistol accuracy by 10%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %7 azalır\nTabanca hasarını %6 artırır\nTabanca isabetini %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u20555",
    "en": "Reduces the cooldown time of biotic and tech talents by 8%\nIncreases pistol damage by 8%\nIncreases pistol accuracy by 13%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %8 azalır\nTabanca hasarını %8 artırır\nTabanca isabetini %13 artırır",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u20556",
    "en": "Reduces the cooldown time of biotic and tech talents by 9%\nIncreases pistol damage by 10%\nIncreases pistol accuracy by 16%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %9 azalır\nTabanca hasarını %10 artırır\nTabanca isabetini %16 artırır",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u20557",
    "en": "Marksman\n\nOnly available when using pistols\nBoosts accuracy 60%, increases rate of fire 1 round/sec, reduces heat 30% to compensate\n\nDuration: 10s\nRecharge Time: 45s",
-   "tr": "",
+   "tr": "Nişancı\n\nYalnızca tabanca kullanılırken geçerli\nİsabeti %60 artırır, atış hızını saniyede 1 mermi artırır, dengelemek için ısıyı %30 azaltır\n\nSüre: 10sn\nYeniden Dolum Süresi: 45sn",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u20558",
    "en": "Increases biotic protection by 9%\nIncreases pistol and shotgun damage by 6%",
-   "tr": "",
+   "tr": "Biyotik korumayı %9 artırır\nTabanca ve pompalı tüfek hasarını %6 artırır",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u20559",
    "en": "Increases biotic protection by 12%\nIncreases pistol and shotgun damage by 7%",
-   "tr": "",
+   "tr": "Biyotik korumayı %12 artırır\nTabanca ve pompalı tüfek hasarını %7 artırır",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u20560",
    "en": "Increases biotic protection by 15%\nIncreases pistol and shotgun damage by 8%",
-   "tr": "",
+   "tr": "Biyotik korumayı %15 artırır\nTabanca ve pompalı tüfek hasarını %8 artırır",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u20561",
    "en": "Increases biotic protection by 18%\nIncreases pistol and shotgun damage by 9%",
-   "tr": "",
+   "tr": "Biyotik korumayı %18 artırır\nTabanca ve pompalı tüfek hasarını %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u20562",
    "en": "Increases biotic protection by 21%\nIncreases pistol and shotgun damage by 10%",
-   "tr": "",
+   "tr": "Biyotik korumayı %21 artırır\nTabanca ve pompalı tüfek hasarını %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u20563",
    "en": "Reduces recharge time on all Biotics by 4%\nFirst Aid heals an additional 20 points of damage\nReduces recharge time on First Aid by 5%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %4 azalır\nİlk Yardım ek olarak 20 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %5 azalır",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u20564",
    "en": "Reduces recharge time on all Biotics by 6%\nFirst Aid heals an additional 30 points of damage\nReduces recharge time on First Aid by 10%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %6 azalır\nİlk Yardım ek olarak 30 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %10 azalır",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u20565",
    "en": "Reduces recharge time on all Biotics by 8%\nFirst Aid heals an additional 40 points of damage\nReduces recharge time on First Aid by 16%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %8 azalır\nİlk Yardım ek olarak 40 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %16 azalır",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u20566",
    "en": "Reduces recharge time on all Biotics by 10%\nFirst Aid heals an additional 50 points of damage\nReduces recharge time on First Aid by 23%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %10 azalır\nİlk Yardım ek olarak 50 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %23 azalır",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u20567",
    "en": "Reduces recharge time on all Biotics by 12%\nFirst Aid heals an additional 60 points of damage\nReduces recharge time on First Aid by 31%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %12 azalır\nİlk Yardım ek olarak 60 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %31 azalır",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u20568",
    "en": "Reduces recharge time on all Biotics by 14%\nFirst Aid heals an additional 70 points of damage\nReduces recharge time on First Aid by 40%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %14 azalır\nİlk Yardım ek olarak 70 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %40 azalır",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u20569",
    "en": "Reduces recharge time on all Biotics by 14%\nFirst Aid heals an additional 70 points of damage\nReduces recharge time on First Aid by 6%",
-   "tr": "",
+   "tr": "Tüm biyotikler: yeniden dolum süresi %14 azalır\nİlk Yardım ek olarak 70 hasar iyileştirir\nİlk Yardım: yeniden dolum süresi %6 azalır",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u20570",
    "en": "Regenerates 3 health per sec\nIncreases melee damage by 50%\nIncreases resistance to physics forces by 25%",
-   "tr": "",
+   "tr": "Saniyede 3 sağlık yeniler\nYakın dövüş hasarını %50 artırır\nFizik kuvvetlerine direnci %25 artırır",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u20571",
    "en": "Regenerates 3.5 health per sec\nIncreases melee damage by 75%\nIncreases resistance to physics forces by 30%",
-   "tr": "",
+   "tr": "Saniyede 3.5 sağlık yeniler\nYakın dövüş hasarını %75 artırır\nFizik kuvvetlerine direnci %30 artırır",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u20572",
    "en": "Regenerates 4 health per sec\nIncreases melee damage by 100%\nIncreases resistance to physics forces by 35%",
-   "tr": "",
+   "tr": "Saniyede 4 sağlık yeniler\nYakın dövüş hasarını %100 artırır\nFizik kuvvetlerine direnci %35 artırır",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u20573",
    "en": "Regenerates 4.5 health per sec\nIncreases melee damage by 125%\nIncreases resistance to physics forces by 40%",
-   "tr": "",
+   "tr": "Saniyede 4.5 sağlık yeniler\nYakın dövüş hasarını %125 artırır\nFizik kuvvetlerine direnci %40 artırır",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u20574",
    "en": "Regenerates 5 health per sec\nIncreases melee damage by 150%\nIncreases resistance to physics forces by 45%",
-   "tr": "",
+   "tr": "Saniyede 5 sağlık yeniler\nYakın dövüş hasarını %150 artırır\nFizik kuvvetlerine direnci %45 artırır",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u20575",
    "en": "Regenerates 5.5 health per sec\nIncreases melee damage by 175%\nIncreases resistance to physics forces by 50%",
-   "tr": "",
+   "tr": "Saniyede 5.5 sağlık yeniler\nYakın dövüş hasarını %175 artırır\nFizik kuvvetlerine direnci %50 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u20576",
    "en": "Improves accuracy with all weapons by 19%\nIncreases damage with assault and sniper rifles by 9%",
-   "tr": "",
+   "tr": "Tüm silahlarla isabeti %19 artırır\nTaarruz ve keskin nişancı tüfeklerinin hasarını %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u20577",
    "en": "Increases tech resistance by 35%\nIncreases shield capacity by 210",
-   "tr": "",
+   "tr": "Teknoloji direncini %35 artırır\nKalkan kapasitesini 210 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u20578",
    "en": "Improves accuracy with all weapons by 16%\nIncreases damage with assault and sniper rifles by 8%",
-   "tr": "",
+   "tr": "Tüm silahlarla isabeti %16 artırır\nTaarruz ve keskin nişancı tüfeklerinin hasarını %8 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u20579",
    "en": "Improves accuracy with all weapons by 4%\nIncreases damage with assault and sniper rifles by 4%",
-   "tr": "",
+   "tr": "Tüm silahlarla isabeti %4 artırır\nTaarruz ve keskin nişancı tüfeklerinin hasarını %4 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u20580",
    "en": "Improves accuracy with all weapons by 7%\nIncreases damage with assault and sniper rifles by 5%",
-   "tr": "",
+   "tr": "Tüm silahlarla isabeti %7 artırır\nTaarruz ve keskin nişancı tüfeklerinin hasarını %5 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u20581",
    "en": "Improves accuracy with all weapons by 10%\nIncreases damage with assault and sniper rifles by 6%",
-   "tr": "",
+   "tr": "Tüm silahlarla isabeti %10 artırır\nTaarruz ve keskin nişancı tüfeklerinin hasarını %6 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u20582",
    "en": "Improves accuracy with all weapons by 13%\nIncreases damage with assault and sniper rifles by 7%",
-   "tr": "",
+   "tr": "Tüm silahlarla isabeti %13 artırır\nTaarruz ve keskin nişancı tüfeklerinin hasarını %7 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u20583",
    "en": "Increases tech resistance by 10%\nIncreases shield capacity by 60",
-   "tr": "",
+   "tr": "Teknoloji direncini %10 artırır\nKalkan kapasitesini 60 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u20584",
    "en": "Increases tech resistance by 15%\nIncreases shield capacity by 90",
-   "tr": "",
+   "tr": "Teknoloji direncini %15 artırır\nKalkan kapasitesini 90 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u20585",
    "en": "Increases tech resistance by 20%\nIncreases shield capacity by 120",
-   "tr": "",
+   "tr": "Teknoloji direncini %20 artırır\nKalkan kapasitesini 120 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u20586",
    "en": "Increases tech resistance by 25%\nIncreases shield capacity by 150",
-   "tr": "",
+   "tr": "Teknoloji direncini %25 artırır\nKalkan kapasitesini 150 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u20587",
    "en": "Increases tech resistance by 30%\nIncreases shield capacity by 180",
-   "tr": "",
+   "tr": "Teknoloji direncini %30 artırır\nKalkan kapasitesini 180 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u20588",
    "en": "Reduces the cooldown time of Throw, Lift, Barrier and Stasis by 3%\nReduces the cooldown time of Sabotage, Overload, First Aid and Neural Shock by 3%\nIncrease pistol damage by 2%\nIncrease pistol accuracy by 4%",
-   "tr": "",
+   "tr": "Fırlatma, Kaldırma, Bariyer ve Stazis: yeniden dolum süresi %3 azalır\nSabotaj, Aşırı Yükleme, İlk Yardım ve Sinir Şoku: yeniden dolum süresi %3 azalır\nTabanca hasarını %2 artırır\nTabanca isabetini %4 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u20589",
    "en": "Increases health by 18%\nIncreases damage protection by 6%\nStill provides Soldier talent bonuses",
-   "tr": "",
+   "tr": "Sağlığı %18 artırır\nHasar korumasını %6 artırır\nAsker yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u20590",
    "en": "Increases health by 20%\nIncreases damage protection by 8%",
-   "tr": "",
+   "tr": "Sağlığı %20 artırır\nHasar korumasını %8 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u20591",
    "en": "Reduces the recharge time of Immunity by 25%\n\nIncreases health by 22%\nIncreases damage protection by 10%",
-   "tr": "",
+   "tr": "Bağışıklık: yeniden dolum süresi %25 azalır\n\nSağlığı %22 artırır\nHasar korumasını %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u20592",
    "en": "Increases health by 24%\nIncreases damage protection by 12%",
-   "tr": "",
+   "tr": "Sağlığı %24 artırır\nHasar korumasını %12 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u20593",
    "en": "Increases health by 26%\nIncreases damage protection by 14%",
-   "tr": "",
+   "tr": "Sağlığı %26 artırır\nHasar korumasını %14 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u20594",
    "en": "Reduces the recharge time on Adrenaline Burst by 25%\n\nIncreases health by 28%\nIncreases damage protection by 16%",
-   "tr": "",
+   "tr": "Adrenalin Patlaması: yeniden dolum süresi %25 azalır\n\nSağlığı %28 artırır\nHasar korumasını %16 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u20595",
    "en": "Increases health by 4%\nIncreases damage protection by 6%\nStill provides Vanguard talent bonuses",
-   "tr": "",
+   "tr": "Sağlığı %4 artırır\nHasar korumasını %6 artırır\nÖncü yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u20596",
    "en": "Increases health by 6%\nIncreases damage protection by 8%",
-   "tr": "",
+   "tr": "Sağlığı %6 artırır\nHasar korumasını %8 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u20597",
    "en": "Increases Barrier strength and duration by 25%\nBarrier will regen 40 shields per sec\n\nIncreases health by 8%\nIncreases damage protection by 10%",
-   "tr": "",
+   "tr": "Bariyer gücünü ve süresini %25 artırır\nBariyer saniyede 40 kalkan yeniler\n\nSağlığı %8 artırır\nHasar korumasını %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u20598",
    "en": "Increases health by 10%\nIncreases damage protection by 12%",
-   "tr": "",
+   "tr": "Sağlığı %10 artırır\nHasar korumasını %12 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u20599",
    "en": "Increases health by 12%\nIncreases damage protection by 14%",
-   "tr": "",
+   "tr": "Sağlığı %12 artırır\nHasar korumasını %14 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u20600",
    "en": "Reduces the recharge time on Adrenaline Burst by 25%\n\nIncreases health by 14%\nIncreases damage protection by 16%",
-   "tr": "",
+   "tr": "Adrenalin Patlaması: yeniden dolum süresi %25 azalır\n\nSağlığı %14 artırır\nHasar korumasını %16 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u20601",
    "en": "Increases damage with all weapons by 6%\nStill provides Soldier talent bonuses",
-   "tr": "",
+   "tr": "Tüm silahlarla hasarı %6 artırır\nAsker yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
