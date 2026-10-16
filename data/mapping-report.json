@@ -1,0 +1,180 @@
+{
+ "files": {
+  "int": 491,
+  "de": 432,
+  "int_only": [
+   "BIOA_END70_02A_CIN_LOC",
+   "BIOA_END70_02E_DSG_LOC",
+   "BIOA_END80_03_DSG_LOC",
+   "BIOA_END80_05_DSG_LOC",
+   "BIOA_END80_06_DSG_LOC",
+   "BIOA_END80_07_DSG_LOC",
+   "BIOA_END80_10_DSG_LOC",
+   "BIOA_END80_14_DSG_LOC",
+   "BIOA_ICE25_02_DSG_LOC",
+   "BIOA_ICE25_03_DSG_LOC",
+   "BIOA_JUG20_02_DSG_LOC",
+   "BIOA_JUG20_03_DSG_LOC",
+   "BIOA_JUG20_04_DSG_LOC",
+   "BIOA_JUG20_05_DSG_LOC",
+   "BIOA_JUG70_16_DSG_LOC",
+   "BIOA_LAV60_02_DSG_LOC",
+   "BIOA_LAV60_04_DSG_LOC",
+   "BIOA_LAV60_05_DSG_LOC",
+   "BIOA_LAV60_06_DSG_LOC",
+   "BIOA_LAV70_02_DSG_LOC",
+   "BIOA_LAV70_10_DSG_LOC",
+   "BIOA_LAV70_11_DSG_LOC",
+   "BIOA_LOS10_01_DSG_LOC",
+   "BIOA_LOS10_03_DSG_LOC",
+   "BIOA_LOS10_03a_DSG_LOC",
+   "BIOA_LOS10_04_DSG_LOC",
+   "BIOA_LOS10_05_DSG_LOC",
+   "BIOA_LOS10_06a_DSG_LOC",
+   "BIOA_LOS10_09_DSG_LOC",
+   "BIOA_LOS40_03_DSG_LOC",
+   "BIOA_LOS50_01_DSG_LOC",
+   "BIOA_LOS50_03_DSG_LOC",
+   "BIOA_LOS50_04_DSG_LOC",
+   "BIOA_LOS50_05_DSG_LOC",
+   "BIOA_NOR10_06A_DSG_LOC",
+   "BIOA_NOR10_08_DSG_LOC",
+   "BIOA_PRO10_04_DSG_LOC",
+   "BIOA_UNC11_00_DSG_LOC",
+   "BIOA_UNC17_00_DSG_LOC",
+   "BIOA_UNC21_02_DSG_LOC",
+   "BIOA_UNC55_01_DSG_LOC",
+   "BIOA_UNC55_02_DSG_LOC",
+   "BIOA_UNC80_00_DSG_LOC",
+   "BIOA_UNC80_01_DSG_LOC",
+   "BIOA_UNC81_02_DSG_LOC",
+   "BIOA_UNC81_03_DSG_LOC",
+   "BIOA_UNC83_00_DSG_LOC",
+   "BIOA_WAR20_02a_DSG_LOC",
+   "BIOA_WAR20_05a_DSG_LOC",
+   "BIOA_WAR20_10a_DSG_LOC",
+   "BIOA_WAR20_11a_DSG_LOC",
+   "BIOA_WAR30_02C_DSG_LOC",
+   "BIOA_WAR30_02D_DSG_LOC",
+   "BIOA_WAR30_02E_DSG_LOC",
+   "BIOA_WAR30_02G_DSG_LOC",
+   "BIOA_WAR40_01_DSG_LOC",
+   "BIOA_WAR40_07_DSG_LOC",
+   "BIOA_WAR50_09_DSG_LOC",
+   "PlotManagerMap_LOC"
+  ],
+  "de_only": []
+ },
+ "strings_shared_packages": {
+  "en_strings": 58682,
+  "de_strings": 57952,
+  "shared": 57931,
+  "en_only": 751,
+  "de_only": 21
+ },
+ "files_with_id_mismatch": 17,
+ "id_mismatch_examples": {
+  "BIOA_ICE60_02_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 2
+  },
+  "BIOA_ICE60_07A_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_03_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_04A_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 2
+  },
+  "BIOA_NOR10_06kaidan_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_06lockerk_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_06lockerl_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_08liara_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_09kaidan_DS2_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_NOR10_09liara_DS2_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_STA20_02A_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_STA20_02B_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_STA20_10D_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_STA60_01scenic_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  },
+  "BIOA_WAR20_03a_DSG_LOC": {
+   "en_only": 0,
+   "de_only": 1
+  }
+ },
+ "de_ids_without_en_examples": {
+  "BIOA_ICE60_02_DSG_LOC": [
+   "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79596|m",
+   "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79773|m"
+  ],
+  "BIOA_ICE60_07A_DSG_LOC": [
+   "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81041|m"
+  ],
+  "BIOA_NOR10_03_DSG_LOC": [
+   "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141472|m"
+  ],
+  "BIOA_NOR10_04A_DSG_LOC": [
+   "BIOA_NOR10_04A_DSG_LOC|nor20_caleston_done_D|89639|m",
+   "BIOA_NOR10_04A_DSG_LOC|nor20_caleston_done_D|89640|m"
+  ],
+  "BIOA_NOR10_06kaidan_DSG_LOC": [
+   "BIOA_NOR10_06kaidan_DSG_LOC|cha00_humanmale_kaidan_d|92838|m"
+  ],
+  "BIOA_NOR10_06lockerk_DSG_LOC": [
+   "BIOA_NOR10_06lockerk_DSG_LOC|cha00_humanmale_kaidan_d|92838|m"
+  ],
+  "BIOA_NOR10_06lockerl_DSG_LOC": [
+   "BIOA_NOR10_06lockerl_DSG_LOC|cha00_asari_liara_d|123617|m"
+  ],
+  "BIOA_NOR10_08liara_DSG_LOC": [
+   "BIOA_NOR10_08liara_DSG_LOC|cha00_asari_liara_d|123617|m"
+  ],
+  "BIOA_NOR10_09kaidan_DS2_LOC": [
+   "BIOA_NOR10_09kaidan_DS2_LOC|cha00_humanmale_kaidan_d|92838|m"
+  ],
+  "BIOA_NOR10_09liara_DS2_LOC": [
+   "BIOA_NOR10_09liara_DS2_LOC|cha00_asari_liara_d|123617|m"
+  ]
+ },
+ "int_tlk_DE_vs_de_pkg": {
+  "same_text": 44268,
+  "different_text": 0,
+  "id_not_in_de_pkg": 0
+ },
+ "int_only_strings": 0,
+ "int_only_with_tlk": 0,
+ "int_only_files_with_strings": {}
+}

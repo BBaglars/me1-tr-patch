@@ -164,7 +164,7 @@ static int Import(string[] a)
     if (fo.Equals(fs, StringComparison.OrdinalIgnoreCase) || fo.StartsWith(fs + "\\", StringComparison.OrdinalIgnoreCase))
     { Console.Error.WriteLine("Refusing: --out must not be inside or equal to --src."); return 2; }
     Directory.CreateDirectory(outDir);
-    int done = 0; long replaced = 0, skippedEmpty = 0, missing = 0;
+    int done = 0; long replaced = 0, added = 0, skippedEmpty = 0, missing = 0;
     foreach (var jf in Directory.GetFiles(json, "*.json").OrderBy(x => x))
     {
         if (Path.GetFileName(jf).StartsWith("_")) continue;
@@ -206,7 +206,7 @@ static int Import(string[] a)
                 {
                     string text = isMale ? (v.m ?? v.f) : (v.f ?? v.m);
                     if (text == null) continue;
-                    if (t.ReplaceString(id, text)) { replaced++; any = true; } else missing++;
+                    if (t.ReplaceString(id, text, true)) replaced++; else added++; any = true;
                 }
                 if (!any) continue;
                 var h = new HuffmanCompression();
@@ -221,7 +221,7 @@ static int Import(string[] a)
         done++;
         Console.WriteLine($"{Path.GetFileName(srcFile)} written (compressed={wasCompressed})");
     }
-    Console.WriteLine($"DONE packages={done} replaced={replaced} notFound={missing} emptyTrSkipped={skippedEmpty}");
+    Console.WriteLine($"DONE packages={done} replaced={replaced} addedMissingIds={added} notFound={missing} emptyTrSkipped={skippedEmpty}");
     return 0;
 }
 

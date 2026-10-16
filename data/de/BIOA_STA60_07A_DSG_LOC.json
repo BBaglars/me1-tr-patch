@@ -1,0 +1,975 @@
+{
+  "meta": {
+    "package": "BIOA_STA60_07A_DSG_LOC_DE.pcc",
+    "stem": "BIOA_STA60_07A_DSG_LOC",
+    "textLang": "DE",
+    "sets": 3
+  },
+  "entries": [
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_amb_negotiator_D|136698",
+      "en": "Verzeihen Sie bitte. Hätten Sie einen kurzen Augenblick Zeit für mich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136699",
+      "en": "Soldat, ich habe ein ziemlich großes Problem und ich brauche Hilfe von jemandem, der die Interessen der Menschen vertritt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136700",
+      "en": "Natürlich: Immer gleich zur Sache. Darum hat die Menschheit auch die beste Flotte in der Galaxie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136701",
+      "en": "Mein Name ist Elias Keeler. Ich bin ein Abgesandter der Allianz. Wir werden in Kürze ein bedeutendes Treffen mit den Salarianern abhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136702",
+      "en": "Sie können sich kaum vorstellen, was dabei auf dem Spiel steht. Ich kämpfe genauso wie Sie für die gesamte Menschheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136703",
+      "en": "Ich bin zwar nicht an der Frontlinie, aber ich sorge dafür, dass uns nicht alle Jobs von den Aliens genommen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136704",
+      "en": "Ich brauche jede Hilfe, die ich kriegen kann. Besonders aber ein bestimmtes Mentalstimulans.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136705",
+      "en": "Bei meinen Kampf für die gesamte Menschheit brauche ich die besten Mittel auf dem Markt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136706",
+      "en": "Es gibt ein Mentalstimulans, das die Aufmerksamkeit erhöht und das Urteilsvermögen schärft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136707",
+      "en": "Ich möchte, dass Sie ein Mentalstimulans für mich kaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136708",
+      "en": "Es ist legal, aber die Abgabe pro Person ist limitiert. Ich habe meine Monatsration schon verbraucht und brauche jetzt mehr von der Krankenstation. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136709",
+      "en": "Die Salarianer wollen die Bedingungen für langfristige Geschäfte festlegen. Es geht um Milliarden Credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136710",
+      "en": "Wenn ich das Mittel nicht bekomme, wird mein Assistent übernehmen müssen und den Deal vermasseln. Ein komplettes Desaster.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136711",
+      "en": "Ich kenne mich mit den medizinischen Fachbegriffen nicht aus, aber es erhöht zum Beispiel die Geistesleistung und das Kurzzeitgedächtnis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136713",
+      "en": "Die Verhandlungen sollten letzte Woche stattfinden, aber die Salarianer haben alles herausgezögert. Vielleicht absichtlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136714",
+      "en": "Wenn ich das Stimulans nicht bekomme, bin ich ein Wrack. Mein Assistent würde übernehmen und die Katastrophe wäre perfekt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136715",
+      "en": "Verstehe. Ich werde es zurückzahlen und sogar noch etwas drauflegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136716",
+      "en": "Danke für Ihre Hilfe. Wie gesagt: Das Stimulans gibt es drüben in der Krankenstation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136717",
+      "en": "In welchem Jahrhundert leben Sie? Glauben Sie etwa, die Salarianer zögern, sich selbst zu pushen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136718",
+      "en": "Wenn Sie mir nicht im Namen der Menschheit helfen, dann werde ich jemanden anderes finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136719",
+      "en": "Perfekt! Jetzt sind die Salarianer fällig. Hier, nehmen Sie. Für Ihre Umstände.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136720",
+      "en": "Was ist das denn? Das ist kein Stimulans! Was haben Sie mir gegeben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136721",
+      "en": "Die korrekte Anrede lautet: Commander! Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136722",
+      "en": "Was für ein Problem haben Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136726",
+      "en": "Kann mich nicht erinnern Sie mitten im Kampfgetümmel gegen die Geth auf Eden Prime gesehen zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136729",
+      "en": "Verstehe. Wichtige Sache. Was genau brauchen Sie also?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136732",
+      "en": "Ich will keine Werbetexte hören. Sagen Sie mir, was Sie wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136734",
+      "en": "Was ist so bedeutend an diesen Verhandlungen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136736",
+      "en": "Was für ein Stimulans ist das genau?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136738",
+      "en": "Warum haben Sie mehr als die monatlich erlaubte Dosis genommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136740",
+      "en": "Ist Ihr Assistent inkompetent oder nur unerfahren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136741",
+      "en": "Ich werde sehen, was sich machen lässt, aber ich kann nichts garantieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136745",
+      "en": "Ich komme später wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136746",
+      "en": "Hier ist Ihr Mittel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136747",
+      "en": "Hier, bitte. Das sollte Ihre Probleme lösen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136748",
+      "en": "Nennen Sie mich nicht Soldat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136749",
+      "en": "Was gibt es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136750",
+      "en": "Sprechen Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136753",
+      "en": "Ein Held der Bürokratie also.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136754",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136755",
+      "en": "Schluss damit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136761",
+      "en": "Die Verhandlungen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136762",
+      "en": "Das Mittel",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136763",
+      "en": "Dosierung",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136765",
+      "en": "Keine Versprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136767",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136768",
+      "en": "(Stimulans geben.)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136769",
+      "en": "(Beruhigungsmittel geben.)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136773",
+      "en": "Was ist sein Problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136798",
+      "en": "Wenn Sie Ihr Temperament wieder unter Kontrolle haben, könnte ich immer noch Hilfe gebrauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136799",
+      "en": "Also wird dies das letzte Mal sein, dass ich das Stimulans nehme. Wenn der Deal abgeschlossen ist, begebe ich mich in Behandlung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136800",
+      "en": "Sie verstehen es einfach nicht! Die Menschheit braucht mich und ich brauche das Stimulans! Ohne es werde ich ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136801",
+      "en": "Ich bin so verwirrt. Ich werde ohne das Stimulans immer so müde. Ich brauche nur noch einen Schub davon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136802",
+      "en": "Sie haben recht. Ich werde meinen Assistenten informieren. In diesem Zustand kann ich nicht arbeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136803",
+      "en": "Ich werde mir helfen lassen. Aber so weit hätte es nicht kommen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136805",
+      "en": "Ich werde wie vereinbart in Behandlung gehen, wenn der Deal in sicheren Tüchern ist. Danke für die Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136806",
+      "en": "Danke noch einmal für Ihre Hilfe. Ich werde Sie nicht wieder belästigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136807",
+      "en": "Verdammt nochmal ... Sie haben mich reingelegt ...!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136808",
+      "en": "Alien... Arsch... kriecher...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136809",
+      "en": "Haben Sie erreicht, worum ich Sie gebeten habe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136810",
+      "en": "Damit kann ich konzentriert und aufmerksam bleiben. Wenn ich es nehme, entgeht mir nichts.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136811",
+      "en": "Schlimmer. Er ist ein Alien-Sympathisant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136812",
+      "en": "Mein Assistent meint, vor den anderen Citadel-Völkern kriechen zu müssen. Er will damit zeigen, dass wir Menschen vernünftig sind!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136813",
+      "en": "Aber kein Volk wird uns achten, solange wir uns nur demütig zeigen. So war es auch mit den Turianern! Mein Assistent ist ein Idiot!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136814",
+      "en": "Wie ich schon sagte: Wenn der Deal abgeschlossen ist, begebe ich mich in Behandlung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136815",
+      "en": "Von außen mag das vielleicht so aussehen. Aber das hier ist nur eine Ausnahmesituation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136816",
+      "en": "Alle Top-Verhandlungsführer nehmen dieses Stimulans, immer am Rande der Legalität. So geht das Spiel nun einmal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136817",
+      "en": "Vielleicht haben Sie recht. Ich wollte der Menschheit dienen und habe mich selbst dabei überschätzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136820",
+      "en": "Sie sollten mehr Vertrauen in Ihren Assistenten haben. Haben Sie ihn nicht instruiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136822",
+      "en": "Wir sollten noch einmal Ihr Drogenproblem ansprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136823",
+      "en": "Keeler, Sie haben ein Problem. Sie brauchen Behandlung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136825",
+      "en": "Glauben Sie, dass eine Überdosis Stimulanzien und eine Verhaftung dafür der Menschheit helfen werden, Keeler?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136826",
+      "en": "Es werden wohl nicht alle Top-Verhandlungsführer um Hilfe bitten, mehr Stimulanzien als erlaubt zu bekommen, Keeler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136828",
+      "en": "Sie können der Menschheit nicht helfen, wenn Sie auf Überdosis durch die Verhandlungen torkeln. Sie brauchen sofort Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136829",
+      "en": "Keine Geschäftsverhandlung ist es wert, sein Leben zu riskieren. Vergessen Sie es und holen Sie sich Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136831",
+      "en": "Es ist keine Schande ein Problem zu haben, aber Sie brauchen eine Behandlung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136832",
+      "en": "Sie reden schon wie ein Junkie, Keeler. Was muss ich noch sagen, um Sie zu überzeugen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136834",
+      "en": "Die Beschaffung Ihres Mittels steht nicht ganz oben auf meiner Liste, Keeler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136836",
+      "en": "Sie sind ein unbelehrbarer Abhängiger. Ihr Assistent wird einen besseren Job machen als Sie. Sie brauchen Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136837",
+      "en": "Diese Verhandlungen sind zu wichtig, um Sie einem Drogenabhängigen zu überlassen. Sie brauchen Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136838",
+      "en": "Die Menschheit braucht keine drogenabhängige Verhandlungsführer. Ruhen Sie sich etwas aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136841",
+      "en": "Reden wir über Ihr Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136842",
+      "en": "Sie sind davon abhängig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136843",
+      "en": "Ich gehe dann mal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136844",
+      "en": "Nicht die Hoffnung aufgeben",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136845",
+      "en": "Nicht die Hoffnung aufgeben",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136846",
+      "en": "Wird schon gutgehen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136849",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136850",
+      "en": "Wie Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136852",
+      "en": "Wie Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136853",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136854",
+      "en": "Seien Sie kein Idiot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136855",
+      "en": "Falsches Spiel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136857",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136858",
+      "en": "Wie Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136859",
+      "en": "Nein. Sondern jetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136860",
+      "en": "Sie brauchen Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136862",
+      "en": "Wird schon werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136863",
+      "en": "Gehen Sie in Behandlung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136864",
+      "en": "Ihre Worte sagen alles.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136867",
+      "en": "Kein Risiko.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136868",
+      "en": "Sorry, Keeler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136869",
+      "en": "Kein Risiko.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136870",
+      "en": "Sorry, Keeler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136871",
+      "en": "Eine Lektion",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|77276",
+      "en": "Ja, was gibt's?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81636",
+      "en": "Doran hatte keine Ahnung, was ich gemacht habe. Er nahm an, dass ich betrügen würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81637",
+      "en": "Entweder Sie betrügen oder nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81638",
+      "en": "Ich habe meinem Glück nur nachgeholfen. Es war nur ein Experiment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81640",
+      "en": "Für Sie vielleicht. Aber dieses Gerät soll nur Situationen simulieren und Resultate aufzeichnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81642",
+      "en": "Das Aufzeichnen von Verlusten ist einfach. Die bemerkt niemand.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81654",
+      "en": "Hm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81655",
+      "en": "Wurden Sie rausgeworfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81656",
+      "en": "Dem Besitzer gefiel Ihre Spielweise wohl nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81659",
+      "en": "Das klingt für mich nach Betrügen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81676",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81677",
+      "en": "Was ist passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81678",
+      "en": "Sie haben betrogen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81679",
+      "en": "Nichts.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81682",
+      "en": "Erklären Sie das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81966",
+      "en": "Ich kümmere mich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81967",
+      "en": "Bitte sehr. Hoffentlich ist es das, was Sie haben wollten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81968",
+      "en": "Eigentlich habe ich Ihr Gerät Doran gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81969",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81970",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81971",
+      "en": "Ich hab's weggegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81972",
+      "en": "Natürlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81973",
+      "en": "Bald.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81974",
+      "en": "Es ist weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|85042",
+      "en": "Haben Sie Ihre Meinung geändert? Wollen Sie mir helfen, die Siege aufzuzeichnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|85043",
+      "en": "Sie schon wieder. Was wollen Sie jetzt schon wieder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88882",
+      "en": "Hey. Das System ist ein großer Erfolg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88883",
+      "en": "Vielen Dank dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88885",
+      "en": "[seufz] Was soll ich denn jetzt machen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88886",
+      "en": "Ich bin ruiniert. Ruiniert!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88887",
+      "en": "Wirklich großartig! Das wird mir unschätzbare Daten liefern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88888",
+      "en": "Genießen Sie Ihren Gewinn. Ich werde dieses System vervollständigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88889",
+      "en": "Aber da steckte jahrelange Arbeit drin. Was soll ich denn jetzt machen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88890",
+      "en": "Vielleicht könnten Sie Ihre Talente besser nutzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88891",
+      "en": "Sie sind mir aber keine Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88892",
+      "en": "Das ist der absolut schlimmste Tag meines Lebens.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88897",
+      "en": "Doran hat mich erwischt und es mir weggenommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88904",
+      "en": "Ich hab es verloren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88905",
+      "en": "Doran hat es rausgefunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|89539",
+      "en": "Warten Sie nicht zu lange.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|90368",
+      "en": "Haben Sie schon fünf Siege mit dem Gerät aufgezeichnet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101090",
+      "en": "Aber Sie haben betrogen, nicht wahr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101091",
+      "en": "Ich kenne Doran. Wenn er sagt, dass Sie betrügen, dann betrügen Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101092",
+      "en": "Aber Sie haben betrogen, nicht wahr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101093",
+      "en": "Und hier sind Sie, der Betrüger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104508",
+      "en": "Ah, jetzt kommen wir zum Kern der Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104509",
+      "en": "In den letzten fünf Jahren habe ich ein Gerät entwickelt, das sehr präzise Gewinne und Verluste beim Quasar berechnen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104510",
+      "en": "Ich muss nur noch einige Siege aufzeichnen, um den Algorithmus zu vervollständigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104511",
+      "en": "Es ist illegal mein System zu benutzen. Aber ich benutze es nicht, ich werde es verkaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104512",
+      "en": "Hmm. Sie könnten es ja mal versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104513",
+      "en": "Ich muss nur noch einige Siege aufzeichnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104514",
+      "en": "Aber Sie haben gesehen, was passiert, wenn Sie mit dem Gerät erwischt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104515",
+      "en": "Bitte sehr. Sie werden es merken, wenn Sie genug Siege aufgezeichnet haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104516",
+      "en": "Dann legen Sie los. Die Daten sammeln sich nicht selbst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104517",
+      "en": "Hmpf. Wie Sie wollen. Ich muss noch einige Berechnungen machen. Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104518",
+      "en": "Behalten Sie den Gewinn. Das sollte Bezahlung genug sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104519",
+      "en": "Das Gerät sendet eine Frequenz aus, die Ihre Chancen leicht verbessern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104520",
+      "en": "Nicht so wie mein System, aber es reicht, um Ihre Siege schneller aufzuzeichnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104521",
+      "en": "Was? Nein. Das Gerät ist einfach. Es nutzt brutale Gewalt, um sein Ziel zu erreichen. Und Sie haben gesehen, wie leicht es entdeckt werden kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104522",
+      "en": "Mein System wird viel effizienter und nicht zu entdecken sein, wenn es fertig ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104523",
+      "en": "Vielleicht könnten Sie Ihre Talente besser nutzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104524",
+      "en": "Suchen Sie sich einen Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104525",
+      "en": "Sie könnten Ihre Talente besser nutzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104526",
+      "en": "Sie sind clever. Reißen Sie sich zusammen. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104527",
+      "en": "Warum wollten Sie die Resultate aufzeichnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104530",
+      "en": "Können Sie das tun? Ist das nicht illegal?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104531",
+      "en": "Vielleicht kann ich Ihnen den Beweis besorgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104534",
+      "en": "Ich werde Ihnen helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104536",
+      "en": "Ich werde mein Glück auf die altmodische Art versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104537",
+      "en": "Was springt dabei für mich raus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104538",
+      "en": "Hilft mir das Gerät, zu gewinnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104540",
+      "en": "Warum verkaufen Sie das Gerät dann nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104551",
+      "en": "Vielleicht nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104552",
+      "en": "Experiment?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104554",
+      "en": "Warum haben Sie's gemacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104556",
+      "en": "Spielen Sie einfach das Spiel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104559",
+      "en": "Wie soll das funktionieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104560",
+      "en": "Interessant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104564",
+      "en": "Lassen Sie's mich tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104565",
+      "en": "Ich werde Ihnen nicht helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104566",
+      "en": "Bezahlung",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104567",
+      "en": "Gerät",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104570",
+      "en": "Sagen Sie einfach die Wahrheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|162904",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|162905",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|162906",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|166651",
+      "en": "Aber sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|166652",
+      "en": "Wäre das nicht trotzdem Betrügen?",
+      "tr": ""
+    }
+  ]
+}

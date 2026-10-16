@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "package": "BIOA_ICE50_13_PLC_LOC_DE.pcc",
+    "stem": "BIOA_ICE50_13_PLC_LOC",
+    "textLang": "DE",
+    "sets": 2
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE50_13_PLC_LOC|ice50_trig24_tram_60_D|97024",
+      "en": "Ankunft: Gipfel 15, Central Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_13_PLC_LOC|ice50_trig24_tram_60_D|97025",
+      "en": "Abfahrt Central Station. Richtung: Rift-Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_13_PLC_LOC|ice60_trig08_tram_D|80856",
+      "en": "Wir erreichen jetzt die BinHex-Forschungseinrichtung \"Rift-Station\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_13_PLC_LOC|ice60_trig08_tram_D|80857",
+      "en": "Wir verlassen jetzt die Rift-Station. Ziel: Central Station. ",
+      "tr": ""
+    }
+  ]
+}

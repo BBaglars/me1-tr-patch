@@ -1,0 +1,5025 @@
+{
+  "meta": {
+    "package": "BIOA_ICE20_08_DSG_LOC_INT.pcc",
+    "stem": "BIOA_ICE20_08_DSG_LOC",
+    "textLang": "DE",
+    "sets": 10
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152989",
+      "en": "Sie laden die Beweise von Loriks Computer herunter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152990",
+      "en": "Quarantänelabor ist verriegelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152991",
+      "en": "Kraftstoffleitungen repariert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152992",
+      "en": "Mira offline.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152993",
+      "en": "Landleitungen repariert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152995",
+      "en": "Diese Tür kann nur von Anoleis' Assistentin geöffnet werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|152996",
+      "en": "Sicherheitsbereich von SynIQ. Autorisation Kaira Stirling.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|156875",
+      "en": "Auf Befehl von Captain J. Ventralis wurde der Aufzug abgeschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|159157",
+      "en": "Reaktorenergie wiederhergestellt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|159158",
+      "en": "Nicht genug Energie für einen Neustart.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|159170",
+      "en": "Speicher-Umgehung erfolgreich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|159171",
+      "en": "Elektronische Schlösser offline. Bitte kontaktieren Sie die Virtuelle Intelligenz der Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|159173",
+      "en": "Verbindungsports außer Reihe. Datenmodul konnte nicht angedockt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|159946",
+      "en": "Speicherkern 1 beschädigt. Modulstapel zur Reaktivierung zu Kern 2 oder 3 transferieren. Verlassen mit ESC.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|160950",
+      "en": "Dieser Aufzug steht nur BinHex-Mitarbeitern zur Verfügung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|160959",
+      "en": "Aufzug ist gesperrt, bis Reinigungsfunktion aktiviert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|162700",
+      "en": "Nur Notausgang.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|162701",
+      "en": "Reinigungsfunktion aktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|162770",
+      "en": "Autorisation benötigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|164577",
+      "en": "Wartungstür ist verriegelt. Autorisation benötigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|165286",
+      "en": "Die Labore sind nicht zugänglich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|171751",
+      "en": "SynIQ-Sicherheit deaktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|172900",
+      "en": "Reparaturen unvollständig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice00_popup_text_D|172903",
+      "en": "Kern reaktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24639",
+      "en": "Was für ein Angebot haben sie Ihnen gemacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24640",
+      "en": "Ein gutes. Ich sollte lieber keine Zahlen nennen. Sie geben sie sowieso nur ungern heraus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24641",
+      "en": "Sämtliche Sonderleistungen natürlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24642",
+      "en": "Oh, sicher. \"Die Firma kümmert sich um ihre Mitarbeiter.\" Versicherung, bezahlter Urlaub, subventionierte Wohnung. Nach einem Jahr erhalte ich Aktienoptionen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24643",
+      "en": "Haben Sie von dem Ferienort hier gehört? Am Äquator? Fallschirmspringen, Tauchen, ein zugelassenes Asajura-Feld ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24644",
+      "en": "Wenn man solche Sachen mag. Ich genieße lieber die Aussicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24645",
+      "en": "Was halten Sie von der Sicherheit? All die Waffendetektoren, Wachen ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24646",
+      "en": "Ja. Haben Sie auf dem Hinweg die Geschütze gesehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24647",
+      "en": "Die was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24648",
+      "en": "Geschütze. Draußen. Große Schiffsabwehrwaffen. Sie sehen aus, als könnten sie einen Orbitalangriff abwehren. Einen kleinen zumindest.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24649",
+      "en": "Und die ganze Überwachung. Kameras und Wachen. Man fühlt sich unterdrückt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24650",
+      "en": "Wirklich? Bei all den Problemen hier - Piraten und wer weiß was noch - könnte dies einer der sichersten Orte in der Traverse sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24651",
+      "en": "Was haben Sie über Gipfel 15 gehört?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24652",
+      "en": "Das ist einer der Laborkomplexe. Und er wird abgeschirmt oder so.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24653",
+      "en": "Kommt mir seltsam vor. Dass der ganze Berg einfach so dunkel wird? Die Leute regen sich deswegen ziemlich auf. Nicht, dass das viel zu sagen hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24654",
+      "en": "Ich habe gehört, dort oben finden geheime Waffenforschungen statt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24655",
+      "en": "Das sagen die Leute über jeden Ort, zu dem sie keinen Zutritt haben. \"Dort gibt es ein großes, dunkles Geheimnis.\"  Wie ist der Hummer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24658",
+      "en": "Ziemlich gut. Er schmeckt fast echt. Die Struktur stimmt allerdings nicht ganz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24659",
+      "en": "Wissen Sie, was mir hier aufgefallen ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24660",
+      "en": "Was denn?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24661",
+      "en": "Dass die Leute nicht reden. Hören Sie. Hier sind etwa ein Dutzend Leute. Hören Sie irgendjemanden außer uns?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24662",
+      "en": "Der Salarianer spricht über Komm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24663",
+      "en": "Aber normalerweise hört man an einem Ort wie diesem ... ich weiß nicht, \"die üblichen Gespräche?\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24664",
+      "en": "Keiner kann über seine Arbeit reden - zumindest nicht, ohne verklagt zu werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24665",
+      "en": "Das ist irgendwie schaurig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24666",
+      "en": "Werden Sie den Job annehmen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24667",
+      "en": "Ich werde es mir überlegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24668",
+      "en": "Falls ja, äh, meinen Sie, wir könnten uns mal treffen? Sie wissen schon. Auf einen Kaffee?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24669",
+      "en": "Kaffee? Das ist altmodisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24670",
+      "en": "Oder zum Essen. Einen Film gucken. Ich weiß nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24671",
+      "en": "Sie wollen bei Elanus anfangen, richtig?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24672",
+      "en": "Ja, ich arbeite mit Supraleitern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24673",
+      "en": "Ich bewerbe mich bei BinHex. Wir würden uns nicht oft sehen ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24674",
+      "en": "... es sei denn, wir arbeiten beide auf Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24676",
+      "en": "Aber es war schön, Sie kennen zu lernen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_human_D|24677",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24795",
+      "en": "Nicht auflegen. Großer Bruder? Ich bin's. Ich bin jetzt auf Noveria.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24796",
+      "en": "Ich kann nicht lange reden. Dieser Anruf kostet mich 10 Credits pro Minute. Er findet in Echtzeit aus der Traverse statt. Glaubst du, das wäre preiswert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24797",
+      "en": "Ich brauche Informationen. Es gibt hier ein Problem. Mit SynIQ.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24798",
+      "en": "Der Manager Lorik Qui'in. Er wurde auf frischer Tat ertappt. Der Administrator von Hanshan hat das Büro geschlossen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24799",
+      "en": "Du musst etwas für mich herausfinden - kannst du den Namen aufschreiben. -- Bist du bereit für den Namen? -- Rannadril Ghan Swa Fulsoom Karaten Narr Eadi Bel Anoleis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24800",
+      "en": "Nein, das ist der Administrator. Der Hanshan-Administrator. Dann denk darüber nach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24801",
+      "en": "Ein Turianer riskiert nicht, dass man sein Büro schließt. Er gefährdet sein \"Team\" nicht. Das wird schon in der Grundausbildung gelehrt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24802",
+      "en": "Ich denke, der Administrator will diesem Qui'in seinen eigenen Mist in die Schuhe schieben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24803",
+      "en": "Natürlich passe ich auf mich auf! Denkst du, ich könnte über das Netzwerk von Noveria ungefilterte Daten bekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24804",
+      "en": "Außerdem würde es ewig dauern, bis eine Suche außerhalb des Systems wieder zurückkommt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24805",
+      "en": "Danke, großer Bruder. Ich muss gehen. Ja. Ich melde mich bald wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24806",
+      "en": "Nicht auflegen. Ist Luhara Chu Niafahl da? Hallo, Nia. Hier ist Rulamin. Ja. Ich bin auf Noveria. Vorstellungsgespräch bei SynIQ.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24807",
+      "en": "Lehrreich. Ich könnte schwören, dass jedes Unternehmen einen Ex-STG-Operator als Personalchef hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24808",
+      "en": "Das ist der ruhigste Ort jenseits der Heimatwelt. Überall hat man eine gute Aussicht, und es sind Sicherheitsbeamte an jeder Ecke. Sehr sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24811",
+      "en": "Können wir uns sehen, wenn ich hier fertig bin? Es ist Jahre her, dass wir uns mal persönlich getroffen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24812",
+      "en": "Bist du noch auf Ryskos? Genau. Ich werde mich heute Abend danach erkundigen und versuchen, einen Flug zu kriegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|24813",
+      "en": "Ich freue mich auch darauf, dich zu sehen. Ich melde mich, sobald ich mehr weiß.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25136",
+      "en": "Nein. Nein, die sind alle auf dem sicheren Server. Bis zum untersten Verzeichnis. Suche nach Finanzen - Entwürfe - 2704 - die neueste. Ja. Genau da.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25137",
+      "en": "Nun, ich weiß nicht, was ich sagen soll. Vielleicht hat Laeta sie gelöscht, als sie mein Büro bezogen hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25138",
+      "en": "Hör mal, ich hab gleich ein Vorstellungsgespräch. Noveria. Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25141",
+      "en": "Ja, danke. Zu dumm, dass Stoma das nicht erkannt hat, bevor er mich bei der Beförderung überging. Ja. Viel Glück mit den Finanzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25142",
+      "en": "Nicht auflegen. Ms. Ellison? Hier ist Rulamin. Ich stellte bei meiner Ankunft fest, dass SynIQ zu ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25144",
+      "en": "Eine kriminaltechnische Untersuchung. Ich möchte, dass Sie weiter nach offenen Stellen suchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25146",
+      "en": "Nein. Es ist mir egal, wie die Untersuchung ausgeht. Ich riskiere doch nicht meinen Ruf, weil ich für ein verdächtiges Büro arbeite.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25147",
+      "en": "Okay. Sagen Sie's meinem VI, wenn Sie was haben. Er sammelt alles für mich. Danke. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25148",
+      "en": "Nein, ich werfe Ihnen das nicht vor. Sie haben in der Vergangenheit gute Arbeit geleistet. Es ist nur ... Die lange Reise war völlig umsonst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25149",
+      "en": "Meine Reise könnte etwas länger dauern. Da ich schon mal hier bin, kümmere ich mich um einige Privatangelegenheiten. Ich melde mich wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25150",
+      "en": "Nicht auflegen. Ah? So grüßen sich Salarianer über den Komm-Kanal. Oh, schon bevor wir in den Weltraum flogen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25151",
+      "en": "Ich glaube, es ging darum, dass man die Stille vertreibt. So kann man dem Zuhörer versichern, dass es wichtig ist. Ich bin doch kein Anthropologe. Stört es dich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25152",
+      "en": "Ist schon in Ordnung. Ich brauche einen Flug von einem Raumhafen auf Noverias Oberfläche nach Ryskos. Morgen. Wirklich? Gar keiner?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25153",
+      "en": "Gehe ich recht in der Annahme, dass das aus Sicherheitsgründen so ist? Okay. Der erste ist in sechs Tagen? Ja, das macht Sinn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25154",
+      "en": "In Ordnung, ich werde sehen, was sich hier machen lässt. Danke für die Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25155",
+      "en": "Shakni! Hätte ich doch nur eher daran gedacht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_amb_interview_salarian_D|25156",
+      "en": "... Bin ganz Ohr. Apalon? Es ist einige Wochen her, was? Wie stehen die Dinge im Büro?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23474",
+      "en": "Jeder, der von Gipfel 15 zurückkam, wurde auf einen anderen Planeten geschickt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23475",
+      "en": "Die Aktien von BinHex gehen den Bach runter. Ein großes Projekt ist gescheitert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23477",
+      "en": "Ich kann nicht glauben, dass der Administrator tot ist. Auf Noveria sollte es keine Waffen geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23479",
+      "en": "SynIQ ist wieder offen. Warum sie wohl schließen mussten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23481",
+      "en": "Seit der Verhaftung des Administrators, verhören unsere Manager jeden, der mit Ihnen gesprochen hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23483",
+      "en": "Sie sind der Spectre, ja? Wir dürfen nicht mit Ihnen reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23484",
+      "en": "Angeblich hat es auf Gipfel 15 keinen Unfall gegeben, aber alle wissen es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23485",
+      "en": "Im Büro von SynIQ geht etwas Seltsames vor sich. Der Administrator hat es schließen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23486",
+      "en": "Auf Gipfel 15 gibt es Bio- und Cyberlabore. Wenn es ein Problem gibt, sollten sie's sprengen, bevor es sich ausbreitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23487",
+      "en": "Ich würde Sie ja auf einen Kaffee einladen, aber ich muss heute lange arbeiten. Und man könnte mich feuern, weil ich mit Ihnen rede. Außerdem schmeckt der Kaffee hier nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_business_male_1_D|23488",
+      "en": "Ich hätte liebend gern Ihren Job. Durch die Galaxis reisen, Leben retten - das wollte ich schon als Kind immer tun. Wieso bin ich nur Buchhalter geworden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_hotel_doorman_D|29778",
+      "en": "Tut mir Leid. Der Zutritt zum Hotel ist nur Firmenmitarbeitern gestattet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_hotel_doorman_D|29779",
+      "en": "Ich kann Sie nicht reinlassen. Sie können gern im Café Platz nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_hotel_doorman_D|29780",
+      "en": "Wir beschränken den Zugang, um die Privatsphäre unserer Gäste zu schützen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_ambient_hotel_doorman_D|29781",
+      "en": "Ziemlich kühl heute. Sie sollten einige Spiegel in den Orbit schicken. Wenn die das Sonnenlicht herleiten, wird es wärmer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21853",
+      "en": "Ich sagte doch, dass Sie verschwinden sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21856",
+      "en": "Wenn ich mich noch mal vorstellen dürfte. Parasini, Interne Ermittlungen aus Noveria.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21858",
+      "en": "Wie kann ich Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21859",
+      "en": "Einen Moment bitte. Mr. Anoleis?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21860",
+      "en": "Ja. Was? Was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21861",
+      "en": "Commander Shepard möchte Sie sehen, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21862",
+      "en": "Gut, okay. Kommen Sie rein!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21867",
+      "en": "Wir kennen die Gerüchte. Im Moment ist der Kontakt zur Anlage aufgrund des Wetters unterbrochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21868",
+      "en": "Mr. Anoleis ist nicht der Einzige, der Hanshan dank seines Passes verlassen darf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21869",
+      "en": "Qui'in ist im Hotel, da sein Büro geschlossen wurde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21870",
+      "en": "In Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21871",
+      "en": "Waffendetektoren. Ignorieren Sie den Alarm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21872",
+      "en": "Ich bin Gianna Parasini, Administrator Anoleis' Assistentin. Wir entschuldigen uns für den Zwischenfall an der Andockbucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21875",
+      "en": "Zu meinen Pflichten gehört die Einweisung von Neuankömmlingen. Haben Sie irgendwelche Fragen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21878",
+      "en": "Die Direktoren tun alles, was in ihrer Macht steht, um die Unternehmen unserer Klienten zu schützen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21879",
+      "en": "Dieser Planet untersteht nicht der Gerichtsbarkeit der Citadel. Hier ist Gesetz, was die Direktoren sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21880",
+      "en": "Wissen Sie, wie wertvoll dieser Planet ist? Wie viele Neuerungen in der Genetik und künstlichen Intelligenz hier begonnen haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21882",
+      "en": "Sehen Sie sich vor, sonst begraben die Direktoren Sie unter Anklagen. Dann werden Sie einen Asari-Anwalt brauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21887",
+      "en": "Etwas Ungewöhnliches? Eine Asari-Matriarchin kam vor einigen Tagen vorbei. Lady Benezia.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21888",
+      "en": "Sein Büro ist auf der Hauptebene. Oben links neben dem Fahrstuhl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21893",
+      "en": "Natürlich. Kommen Sie zu mir ins Büro des Administrators, wenn Sie Hilfe brauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21894",
+      "en": "Gern geschehen. Ihnen sollte klar sein, dass unsere Sicherheitschefin nur ihre Arbeit gemacht hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21896",
+      "en": "Sie nimmt ihren Job sehr ernst und ist sehr wichtig für die Firma.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21898",
+      "en": "Ich möchte mit Anoleis reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21904",
+      "en": "Erzählen Sie mir von den Firmen, die auf Noveria operieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21907",
+      "en": "Ich hörte, es gab einen Unfall auf Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21908",
+      "en": "Sie sagten, dass ich mit Lorik Qui'in reden soll.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21910",
+      "en": "Im Moment nicht, danke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21916",
+      "en": "Das ist ziemlich viel Sicherheit für so einen kleinen Raumhafen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21918",
+      "en": "Meine Untersuchungen dürfen nicht gestört werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21919",
+      "en": "Führen diese möglicherweise illegale Forschungen durch?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21928",
+      "en": "Ist hier vor kurzem etwas Ungewöhnliches passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21929",
+      "en": "Wo finde ich den Administrator?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21934",
+      "en": "Verstanden. Können wir jetzt reingehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21935",
+      "en": "Ich weiß Ihre Hilfe zu schätzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21937",
+      "en": "Hat heute jemand Ihrer Sicherheitschefin in den Kaffee gepisst?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|21941",
+      "en": "Ich habe hier etwas Dringendes zu erledigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22111",
+      "en": "Spectre. Haben Sie über mein Angebot nachgedacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22113",
+      "en": "Die Direktoren wissen von Anoleis' Korruption. Ich arbeite seit sechs Monaten undercover.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22114",
+      "en": "Ich will, dass Sie Qui'in überreden, vor den Direktoren auszusagen. Dank seiner Beweise kann dieser Planet wieder profitabel geführt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22115",
+      "en": "Ich bin Anoleis' Sekretärin. Denken Sie, er würde mir glauben? Mir in einer dunklen Gasse seine Beweise übergeben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22116",
+      "en": "Er ist ein Gauner, aber kein Dummkopf. Er hat keine Dateien im Computer, in denen steht: \"Ich habe drei Millionen Credits gestohlen.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22117",
+      "en": "Qui'ins Aussage und Beweise sind alles, was ich brauche, um Anoleis' Schuld beweisen zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22118",
+      "en": "Wenn Sie mir helfen, bekommen Sie alles, was Sie brauchen. Quid pro quo.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22121",
+      "en": "Bevor das Wetter schlechter wurde, schickten sie ein Code-Omega-Signal nach Hanshan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22122",
+      "en": "Code Omega steht für einen Bruch der Sicherheitsprotokolle. Bis die Crew ihr Okay gibt, bleibt der Zutritt verboten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22124",
+      "en": "Das sind meine Informationen. Niemand weiß, was dort oben vor sich geht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22127",
+      "en": "Es hat was mit Gipfel 15 zu tun. Sie traf ein, nachdem wir Code Omega erhielten - die automatische Warnung bei einem Eindämmungsbruch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22128",
+      "en": "Sie kam mit einer Eskorte aus Asari-Soldaten. Sie nahmen das letzte Shuttle zum Gipfel 15 und hatten einige Kisten bei sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22129",
+      "en": "Die Shuttles fliegen nicht, Sie müssen fahren. Wenn sie Qui'in zum Aussagen überreden, bekommen Sie Zugang zur Garage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22131",
+      "en": "Vielen Dank. Sie wissen, wo Sie mich finden. Sagen Sie mir Bescheid, wenn er mitspielen will.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22132",
+      "en": "Ich kann Ihnen eine Kopie von Anoleis' Pass geben, aber ich kann keine großen Summen verschieben, ohne dass man es merkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22133",
+      "en": "Wenn Sie noch an das Gesetz glauben, reden Sie für mich mit Qui'in. Enttäuschen Sie mich nicht. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22134",
+      "en": "Ja, ja. Das Schicksal von Milliarden und so. Ich kann wahrscheinlich nicht mal verstehen, wie wichtig Ihre Arbeit ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22136",
+      "en": "Benehmen Sie sich normal. Wollen Sie meine Tarnung auffliegen lassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22137",
+      "en": "Sie treffen sich mit einer schönen Frau. Lächeln Sie. Tun Sie so, als würden wir flirten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22138",
+      "en": "Wir sind befreundet und haben uns seit dem College nicht mehr gesehen. Können Sie sich noch an das und das erinnern? Ha ha!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22139",
+      "en": "Wir haben Labors an mehr als zweihundertfünfzig Hightechfirmen vermietet. Die meisten Aktien halten Schutz, Abwehr, Fürsorge Elanus, BinHex und SynIQ.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22140",
+      "en": "Die Direktoren bekommen einen Rabatt bei der Sicherheit. Elanus entwickelt auch tödliche und nichttödliche Waffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22141",
+      "en": "BinHex ist Markführer auf den Gebieten Genetik und Biotechnologie. Sie sind allerdings nicht sehr oft in den Medien.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22142",
+      "en": "Sie erforschen größtenteils Biotik-Modifikationen. Das verärgert viele Technikfeinde, organisch-orientierte und fundamentalistische Gruppen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22143",
+      "en": "Das ist eines der vier vom Citadel-Rat lizenzierten Unternehmen, die künstliche Intelligenz entwickeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22144",
+      "en": "Das führt zu vielen Protesten. Aber kein Demonstrant konnte je unsere Sicherheit durchbrechen. Darum investieren sie auch hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22146",
+      "en": "Ganz und gar nicht, Spectre. Das ist schließlich mein Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22147",
+      "en": "Alle Angestellten sollten ihre Vertraulichkeitsvereinbarungen beachten und keine Gerüchte in die Welt setzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22149",
+      "en": "BinHex hat den ganzen Komplex gemietet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22150",
+      "en": "Im Moment fegt ein Schneesturm über die Skadi-Berge hinweg. Aufgrund der Wolken und des Schneetreibens ist der Kontakt zu den Satelliten unterbrochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22152",
+      "en": "\"Ein loses Mundwerk senkt die Profite.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22153",
+      "en": "Sie sind weitaus offener, als es hier üblich ist, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22155",
+      "en": "Wir haben in den Bergen siebzehn Forschungskomplexe errichtet. Jeder versorgt sich selbst und beherbergt mehrere hundert Angestellte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22159",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22161",
+      "en": "Warum fragen Sie Qui'in nicht einfach?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22162",
+      "en": "Sie arbeiten für Anoleis. Können Sie nicht seine Aufzeichnungen nutzen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22164",
+      "en": "Ich brauche Qui'ins Garagenpass, um meine Mission beenden zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22167",
+      "en": "Sie haben mir die offizielle Geschichte über Gipfel 15 erzählt. Was ist wirklich passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22168",
+      "en": "Was ist auf Gipfel 15 passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22171",
+      "en": "Das sagt mir nicht viel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22174",
+      "en": "Wissen Sie, warum die Matriarchin hier ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22176",
+      "en": "Wie komme ich zu Gipfel 15?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22178",
+      "en": "Okay. Ich rede mit Qui'in und versuche, ihn zu überzeugen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22179",
+      "en": "Ich werde Qui'ins Beweise behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22180",
+      "en": "Qui'in hat mir Geld angeboten. Was ist mit Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22182",
+      "en": "Ich denke darüber nach und melde mich später bei Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22183",
+      "en": "Es ist nicht mein Problem, wenn Ihre Direktoren einige Millionen Credits verlieren. Ich habe eine eigene Mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22185",
+      "en": "Was will eine interne Ermittlerin hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22188",
+      "en": "Für Nettigkeiten habe ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22192",
+      "en": "Ihre Wachen arbeiten für SAFE, nicht wahr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22193",
+      "en": "BinHex? Ist das eine Genetikfirma?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22195",
+      "en": "War SynIQ nicht neulich in den Nachrichten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22198",
+      "en": "Ich habe Ihre Zeit genug in Anspruch genommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22202",
+      "en": "Welche Unternehmen arbeiten auf Gipfel 15?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22203",
+      "en": "Welches Wetter kann moderne Kommunikationsanlagen stören?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22205",
+      "en": "Also \"sollen alle den Mund und den Kopf gesenkt halten\"?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22208",
+      "en": "Wie groß sind die Laboranlagen hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22372",
+      "en": "Tja, Sie haben mich Lügen gestraft. Mein Mangel an Vertrauen in Spectres war nicht gerechtfertigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22373",
+      "en": "Verzeihen Sie, dass ich erwartet hatte, Sie würden Ihre Arbeit machen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22374",
+      "en": "Es ist schwer, so kurz vor dem Ende geduldig zu sein. Ich kann es kaum erwarten, endlich wieder vernünftige Kleidung zu tragen. Wissen Sie, wie sehr ich Röcke hasse?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22375",
+      "en": "Anoleis hat Dreck am Stecken. Es wäre besser, ihr zu helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22376",
+      "en": "Offenbar können wir noch anderen helfen, wenn wir tun, was sie will.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22377",
+      "en": "Auf lange Sicht ist es besser, die Quelle des Problems zu beseitigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22378",
+      "en": "Es ist Ihre Entscheidung, aber ich wäre dafür, ihr zu helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22379",
+      "en": "Lorik bietet sehr viel Geld. Ein Pass kann eine Tür öffnen, Credits hingegen viele.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22381",
+      "en": "Wo sind Sie gewesen? Haben Sie bei Qui'in Fortschritte gemacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22382",
+      "en": "Ich werde jetzt die Augen schließen und bis zehn zählen. Wenn ich nicht explodiere, will ich hören, dass Qui'in die Beweise aushändigt und aussagen will. Eins ... vierzehn ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22383",
+      "en": "Haben Sie Qui'ins Beweise noch? Wird er aussagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22384",
+      "en": "Sie haben was? [seufz] Ich hätte es wissen müssen. Spectres machen doch immer, was sie wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22385",
+      "en": "Dann haben Sie ja, was Sie brauchen. Haben Sie Qui'ins Beweise noch? Werden Sie an meiner Stelle mit ihm reden? Ich kann die Beweise noch immer den Direktoren vorlegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22386",
+      "en": "[seufz] Jetzt bin ich aber erleichtert. Ich werde die Beweise für den sicheren Transport vorbereiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22387",
+      "en": "Hätte nicht gedacht, dass Sie mir helfen. Wo Sie doch ein Spectre sind und so. Einige von Ihnen sind wohl doch ganz in Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22388",
+      "en": "Nicht so voreilig. Sie wollen doch in die Garage, oder nicht? Um zu Gipfel 15 zu kommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22389",
+      "en": "Ich bin überglücklich. Aber im Moment habe ich nur das Gefühl, etwas Schweres erledigt zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22390",
+      "en": "Während Sie Qui'in bearbeitet haben, hab ich Ihnen einen Garagenpass besorgt. Seien Sie da oben vorsichtig. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22391",
+      "en": "Ich muss jemanden verhaften. Hätte ich doch nur die Zeit, mich vorher umzuziehen. Ich hasse Röcke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22392",
+      "en": "Tut mir Leid. Ich bin daran gewöhnt, wachsam zu bleiben. Wenn rauskommt, dass ich Ermittlerin bin, behandelt man mich wie eine Verräterin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22395",
+      "en": "Das war die beste Gelegenheit seit ... Warum haben Sie sie verkauft?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22398",
+      "en": "Das ist eine gute Ausrede. Sie haben den Job, also sollten Sie ihn auch richtig machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22399",
+      "en": "Sie machen Witze. Haben Sie keine ... WAS HABEN SIE SICH DABEI GEDACHT?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22401",
+      "en": "Ich hätte Sie auch hingeschickt. Es hätte vielleicht länger gedauert, aber ist das ein Grund, einen Schuldigen laufen zu lassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22402",
+      "en": "Ich hätte von einem Spectre nicht zu viel erwarten sollen. Alles, was nicht mit Ihrem Auftrag zu tun hat, ist Ihnen völlig egal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22403",
+      "en": "Ja, genau. Qui'ins Beweise. Die habe ich ganz vergessen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22404",
+      "en": "Ich habe auf meine Weise bekommen, was ich brauche.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22405",
+      "en": "Ich muss zu Gipfel 15. Der direkte Weg war der kürzeste.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22407",
+      "en": "Ich muss zu Gipfel 15. Der direkte Weg war der kürzeste.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22408",
+      "en": "Passen Sie auf, was Sie sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22409",
+      "en": "Ihre selbstgerechte Haltung widert mich an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22411",
+      "en": "Ich brauche mehr Zeit. Haben Sie Geduld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22412",
+      "en": "Sie kommen zu spät. Ich habe Qui'in die Beweise bereits gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22413",
+      "en": "Sie kommen zu spät. Ich habe Anoleis die Beweise bereits gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22421",
+      "en": "Ich habe Qui'in vor kurzem die Beweise gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22422",
+      "en": "Ich habe Anoleis vor kurzem die Beweise gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22423",
+      "en": "Ich habe Anoleis mithilfe der Beweise \"überzeugt\", mich zu Gipfel 15 zu lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22425",
+      "en": "Ich werde ihn fragen. Haben Sie noch ein wenig Geduld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22426",
+      "en": "Qui'in hat sich dazu überreden lassen, auszusagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22428",
+      "en": "Ich überlasse Sie nun Ihrer Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22430",
+      "en": "Hilft Ihnen das nicht? Sie scheinen sich nicht sehr zu freuen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22432",
+      "en": "Lassen Sie mich dann in die Garage?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22434",
+      "en": "Das nenne ich doch mal Dankbarkeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22438",
+      "en": "Ich habe mich entschieden, Qui'ins Belohnung anzunehmen. Tut mir Leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22441",
+      "en": "Ich habe mich nie freiwillig als Spectre gemeldet. Ich wurde eingezogen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|22443",
+      "en": "Anoleis hat mich dafür bezahlt. Pech gehabt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40152",
+      "en": "Oh ja, das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40153",
+      "en": "Die Situation wurde geklärt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40154",
+      "en": "Anoleis hat die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40155",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40157",
+      "en": "Dann sind wir fertig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40158",
+      "en": "Dachte, Sie wären glücklicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40159",
+      "en": "Und die Garage?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40160",
+      "en": "Ja, gern geschehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40167",
+      "en": "Ich wolle kein Spectre werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40171",
+      "en": "Ich muss zu Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40172",
+      "en": "Ich muss zu Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40173",
+      "en": "Sie müssen nicht schreien. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40174",
+      "en": "Ich mag Sie nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40178",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40179",
+      "en": "Warum sind Sie hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40181",
+      "en": "Für so was hab ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40183",
+      "en": "Qui'in hat die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40184",
+      "en": "Anoleis hat die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40185",
+      "en": "Können Sie's nicht selbst tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40186",
+      "en": "Ihr Job",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40187",
+      "en": "Ich brauche Qui'ins Pass.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40188",
+      "en": "Sollte mich das interessieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40198",
+      "en": "Ich werde Ihnen helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40199",
+      "en": "Nein, ich helfe Ihnen nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40200",
+      "en": "Bezahlen Sie mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40201",
+      "en": "Ich denke darüber nach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40202",
+      "en": "Unfall auf Gipfel 15",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40203",
+      "en": "Unfall auf Gipfel 15",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40204",
+      "en": "Matriarchin Benezia",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40205",
+      "en": "Gipfel 15 erreichen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40209",
+      "en": "Mehr wissen Sie nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40219",
+      "en": "Wo ist Anoleis?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40220",
+      "en": "Lorik Qui'in",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40223",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40229",
+      "en": "Firmen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40231",
+      "en": "Gipfel 15",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40232",
+      "en": "Laboranlagen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40234",
+      "en": "Schutz, Abwehr, Fürsorge Elanus",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40235",
+      "en": "BinHex",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40236",
+      "en": "SynIQ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40240",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40244",
+      "en": "Wer arbeitet auf Gipfel 15?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40245",
+      "en": "Wetter? Sie machen Witze.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40246",
+      "en": "Sie ignorieren das Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40255",
+      "en": "Danke fürs Durchschleusen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40256",
+      "en": "Ja, auf sehr freundliche Weise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40258",
+      "en": "Wir haben es eilig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40261",
+      "en": "Warum sind hier so viele Wachen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40263",
+      "en": "Ich hörte, hier wären Geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40264",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40266",
+      "en": "Ich werde vielleicht lästig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40267",
+      "en": "Das klingt verdächtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40275",
+      "en": "Wo ist Anoleis?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40280",
+      "en": "Ich gab Qui'in die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40281",
+      "en": "Ich gab Anoleis die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40282",
+      "en": "Ich habe Anoleis erpresst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40284",
+      "en": "Geben Sie mir Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40285",
+      "en": "Ich habe Qui'in überzeugt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|40287",
+      "en": "Ich gab Qui'in die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68147",
+      "en": "Benezia...? Ist sie hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68149",
+      "en": "Benezia reiste vor einigen Tagen zum Komplex auf Gipfel 15. So weit ich weiß, ist sie immer noch dort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68150",
+      "en": "Sie brauchen Administrator Anoleis' Freigabe, um den Raumhafen verlassen zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68151",
+      "en": "Die Direktoren mögen es nicht, wenn Probleme von draußen hergebracht werden, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68152",
+      "en": "Sarens Helferin ist hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68153",
+      "en": "Sarens Stellvertreterin. Ist sie hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68154",
+      "en": "Sarens rechte Hand? Ist sie hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68155",
+      "en": "Sarens Lakai? Wo?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68159",
+      "en": "\"Kam vorbei?\" Wo ist sie jetzt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68160",
+      "en": "Dann muss ich auch dorthin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68161",
+      "en": "Können Sie mir sagen, wie ich da hinkomme?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68162",
+      "en": "Gut. Geben Sie uns die Koordinaten, dann brechen wir auf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68163",
+      "en": "Kann ich mit ihr reden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68164",
+      "en": "Sie bedroht den galaktischen Frieden. Ich bin hier, um sie zur Strecke zu bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68189",
+      "en": "Sie ist weg?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68190",
+      "en": "Ich muss mit ihr reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68191",
+      "en": "Sie ist eine tote Frau.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68192",
+      "en": "Dann muss ich dahin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68193",
+      "en": "Ich brauche die Koordinaten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68194",
+      "en": "Ich brauche Ihre Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68231",
+      "en": "Keine Ahnung. Die Soldaten ließen niemanden in ihre Nähe. Aber sie schienen schwer zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68232",
+      "en": "Die Regel lautet: \"Mach keinen Ärger.\" Egoismus wird toleriert, solange er nicht geschäftsschädigend ist. Anoleis vertreibt die Kunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68233",
+      "en": "Wissen Sie, was in den Kisten war?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68234",
+      "en": "Ich dachte, Korruption wäre auf Noveria üblich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68235",
+      "en": "Korruption",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|68236",
+      "en": "Was war in den Kisten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78739",
+      "en": "Dann entscheiden die Direktoren, ob die Anlage zerstört wird. Unser Antimateriesprengkopf kann dort alles vaporisieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78740",
+      "en": "Sie wissen, wo Sie mich finden. Kommen Sie wieder, wenn Sie Ihre Meinung geändert haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78741",
+      "en": "Das ist beruhigend.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78742",
+      "en": "Das ist unfassbar. Sie haben alles ruiniert ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78747",
+      "en": "Und wenn die Crew kein Okay gibt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78752",
+      "en": "Ich bin nicht hinter Firmengeheimnissen her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78758",
+      "en": "Und wenn kein Okay kommt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|78763",
+      "en": "Deswegen bin ich nicht hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|86632",
+      "en": "Hören Sie, Shepard. Mir gefällt das auch nicht. Spectres treiben Schindluder mit dem Gesetz. Das ist schlecht fürs Geschäft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|93784",
+      "en": "Solange ich noch jung bin, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|93795",
+      "en": "Schwei... Das hat man davon, einem Spectre zu vertrauen. Was haben Sie gemacht, ihm eine Waffe an den Kopf gehalten und es ihm befohlen? Gott.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|93796",
+      "en": "Verschwinden Sie von hier. Mal sehen, ob noch irgendetwas zu retten ist. Ich will dieses Outfit keine weiteren sechs Monate tragen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|93797",
+      "en": "Pff. Wissen Sie was? Vergessen Sie's. Ich hätte es besser wissen müssen. Spectres sind nur an ihrer Mission interessiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|93798",
+      "en": "Sie haben die Verschwiegenheit auf Noveria unterschätzt. Ganz egal welche Zusicherungen ich ihm auch gemacht habe, Qui'in wollte nicht aussagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|93802",
+      "en": "Er wollte nicht aussagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|95794",
+      "en": "Legen Sie mal einen Zahn zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|101702",
+      "en": "Ich habe viel zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|101703",
+      "en": "Hauen Sie ab und machen Sie woanders Ärger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|120696",
+      "en": "Sie ist hier. Ich kann es nicht glauben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|120698",
+      "en": "Commander? Vielleicht sollten wir Liara sagen, dass ihre Mutter hier ist. Oder sie mitnehmen. Eventuell kann sie Benezia überzeugen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|120699",
+      "en": "Commander? Vielleicht sollten wir Liara sagen, dass ihre Mutter hier ist. Oder sie mitnehmen. Das könnte Benezia überraschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|120700",
+      "en": "Commander, es könnte klug sein, Dr. T'Soni mitzunehmen. Sie kennt ihre Mutter besser als jeder von uns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|120701",
+      "en": "Wenn Lady Benezia hier ist, könnte es klug sein, Liara mitzunehmen. Sie kennt ihre Mutter besser als wir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|144938",
+      "en": "Okay. Ich rede mit Qui'in und versuche, ihn zu überzeugen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|144939",
+      "en": "Ich werde Ihnen helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145155",
+      "en": "Sie haben noch nie für ein Unternehmen gearbeitet, was, Commander? Bürokratie kann man nicht mit Gewalt bezwingen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145156",
+      "en": "Reden Sie mit Lorik Qui'in. Den finden Sie an der Hotelbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145157",
+      "en": "Mehr kann ich nicht sagen, nicht in Hörweite von Mr. Anoleis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145158",
+      "en": "Sieht ganz danach aus. Ich brauche eine Alternative.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145159",
+      "en": "Ich kann ziemlich fest zuschlagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145160",
+      "en": "Okay, okay. Was würden Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145163",
+      "en": "Das sehe ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145164",
+      "en": "Unterschätzen Sie mich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|145165",
+      "en": "Was schlagen Sie vor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|148267",
+      "en": "Ich würde Ihnen gern helfen, Miss Parasini, aber ich brauche Qui'ins Garagenpass. Er ist entscheidend für meine Mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|148269",
+      "en": "Ich habe eine eigene Mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|148325",
+      "en": "Ich rede mit ihm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|148326",
+      "en": "Lassen Sie mich in Ruhe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|158936",
+      "en": "Ich glaube nicht, dass Qui'in bereitwillig aussagen wird. Können Sie die Beweise nicht einfach nehmen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|158938",
+      "en": "Qui'in wird sicher nicht helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|162907",
+      "en": "Danke. Sie wissen, wo Sie mich finden. Sagen Sie mir Bescheid, wenn er mitspielen will.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|162909",
+      "en": "Ich musste zu Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|162910",
+      "en": "Ich muss zu Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|165243",
+      "en": "Ich habe Anoleis erpresst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|165244",
+      "en": "Ich gab Qui'in die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|165245",
+      "en": "Ich gab Anoleis die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|165246",
+      "en": "Wir reden später weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|165247",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|168050",
+      "en": "Dafür habe ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|168051",
+      "en": "Ich muss meine Mission beenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_giannaparasini_D|168061",
+      "en": "Ich hab' grade zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21730",
+      "en": "Sie haben dem Administrator mein Paket gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21731",
+      "en": "Nächstes Mal fragen Sie, wessen Eigentum Sie weggeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21732",
+      "en": "Ich bin nicht blöd. Ich hätte nichts zu gewinnen, wenn ich Sie jetzt angreifen würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21733",
+      "en": "Ich trage Ihnen nichts nach, ich hätte dasselbe getan. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21734",
+      "en": "Aber Opold und ich ... wir müssen uns unterhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21735",
+      "en": "Tun Sie das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21737",
+      "en": "Sie haben etwas, das mir gehört. Es wird Zeit, dass Sie mir das Paket geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21738",
+      "en": "Gut. Gehen Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21739",
+      "en": "Halten Sie mich für blöd? Die Wachen sind gleich da drüben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21741",
+      "en": "Hrr. Ist dem so? Wir werden sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21742",
+      "en": "Tun Sie das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21744",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21745",
+      "en": "Sollte mich das interessieren? Sind Sie sein Kurier oder was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21746",
+      "en": "Hrr. Setzen Sie sich. Ich möchte Ihnen einen Vorschlag machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21747",
+      "en": "Ich zahle dem Hanar, mehr als mir lieb ist. Und er Ihnen gewiss weniger, als Sie's gern hätten. Verkaufen Sie es direkt an mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21748",
+      "en": "Fünfhundert Credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21749",
+      "en": "Hrr. Die Jugend von heute weiß nicht, was eine gute Waffe wert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21750",
+      "en": "Ich gebe Ihnen 750.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21751",
+      "en": "Dito.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21752",
+      "en": "Jetzt verschwinden Sie. Die Wachen interessieren sich für Leute, die Pakete gegen Bargeld eintauschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21754",
+      "en": "Hrr. Ich könnte Ihnen schneller den Hals brechen, als Sie die Waffe ziehen. Aber Sie können gut verhandeln. Erinnert mich an meinen Vater.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21755",
+      "en": "Schön, dass Sie einen guten Deal zu schätzen wissen. Opold muss bald wieder Kaugummi und Zigaretten verkaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21756",
+      "en": "Ihnen ist wahrscheinlich nicht klar, wie viel Sie verdienen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21757",
+      "en": "Hrr. Kennen Sie ihn gut genug, um derart loyal zu sein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21758",
+      "en": "Ich bin hier, wenn Sie's sich anders überlegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21759",
+      "en": "Treffen Sie die richtige Entscheidung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21760",
+      "en": "Ich könnte der König des Weltraums sein. Verschwinden Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21762",
+      "en": "Wie Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21763",
+      "en": "Menschenblut. Mit Zimt. Belästigen Sie jemand anderen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21764",
+      "en": "Hmpf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21766",
+      "en": "Verschwinden Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21767",
+      "en": "Ich sagte, Sie sollen verschwinden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21768",
+      "en": "Beschäftigen Sie sich anderweitig. Dämliches Säugetier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21769",
+      "en": "Wenn Sie nicht damit aufhören, werfe ich Sie von diesem Balkon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21770",
+      "en": "Ich habe nicht gefragt, wem Opold es verkaufen wollte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21771",
+      "en": "Und? Was wollen Sie deswegen unternehmen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21773",
+      "en": "Meine eigenen Angelegenheiten haben Priorität. Ihr Paket war nur ein Mittel zum Zweck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21775",
+      "en": "Genau. Dann lasse ich Sie jetzt allein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21776",
+      "en": "Ich wollte es gerade abliefern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21777",
+      "en": "Große Worte. Werden denen Taten folgen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21779",
+      "en": "Was ist es Ihnen wert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21781",
+      "en": "Zu schade. Ich habe entschieden, es zu behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21782",
+      "en": "Ich kümmere mich später darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21783",
+      "en": "Ich hörte, dass Opold etwas für Sie hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21784",
+      "en": "Ich bin unterwegs, um es abzuliefern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21786",
+      "en": "Interessant. Und wie viel genau wäre Ihnen das wert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21787",
+      "en": "Wir sind doch beide Profis. Daher wissen Sie, dass es mehr wert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21789",
+      "en": "Abgemacht. War mir ein Vergnügen, mit Ihnen Geschäfte zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21792",
+      "en": "Machen Sie mir ein ernsthaftes Angebot, wenn Sie wirklich an dem Paket interessiert sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21794",
+      "en": "Die nehme ich. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21796",
+      "en": "Das reicht nicht. Ich bringe es zu Opold.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21797",
+      "en": "Tut mir Leid. Ich versprach, das für ihn zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21799",
+      "en": "Ich werde über Ihr Angebot nachdenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21800",
+      "en": "Nein, aber vielleicht bald.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21802",
+      "en": "Ich überlasse Sie nun Ihrem Drink.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21803",
+      "en": "Was haben Sie bestellt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21804",
+      "en": "Nichts. Verzeihen Sie die Störung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|21830",
+      "en": "Ich habe mein Paket. Verschwinden Sie, bevor uns die Wachen sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|35040",
+      "en": "Haben Sie mein Paket?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|35041",
+      "en": "Dann holen Sie es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|35042",
+      "en": "Ja, aber ich habe die Ware noch nicht abgeholt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|35043",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40288",
+      "en": "Es gehörte Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40289",
+      "en": "Tut mir Leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40290",
+      "en": "Was trinken Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40291",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40292",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40293",
+      "en": "Das werde ich sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40294",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40296",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40298",
+      "en": "Nennen Sie eine Summe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40299",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40300",
+      "en": "Möglicherweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40301",
+      "en": "Es ist mehr wert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40302",
+      "en": "Bleiben Sie ernst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40303",
+      "en": "Ich bin dabei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40304",
+      "en": "Kein Deal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40306",
+      "en": "Einverstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40313",
+      "en": "Bitter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40314",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40318",
+      "en": "Ich bin auf dem Weg zu Opold.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40319",
+      "en": "Ach ja?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40320",
+      "en": "Machen wir einen Deal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40321",
+      "en": "Ich werde es behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40322",
+      "en": "Allerdings.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40325",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|40326",
+      "en": "Über Opold reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|95406",
+      "en": "Ich komme später wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|102407",
+      "en": "Dumme auf der Zahl zehn basierende Mathematik. Das haben sie davon, dass sie mehr Finger haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|113813",
+      "en": "Wir haben nichts mehr zu besprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|113814",
+      "en": "Gehen Sie langsam weg und benehmen Sie sich normal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|144390",
+      "en": "Machen wir einen Deal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148092",
+      "en": "Ein verlockendes Angebot. Vielleicht sehen wir uns bald wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148093",
+      "en": "Das bin ich. Ich hielt es für besser, Sie direkt zu kontaktieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148094",
+      "en": "Ihr Ton gefällt mir nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148095",
+      "en": "Wir müssen uns unterhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148096",
+      "en": "Klingt gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148097",
+      "en": "Das reicht nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_inamorda_D|148098",
+      "en": "Das reicht nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22450",
+      "en": "Spectre. Schön, dass Sie wieder da sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22452",
+      "en": "Mein Büro wird schon bald wieder öffnen. Kann ich bis dahin irgendetwas für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22454",
+      "en": "Ich glaube, wir sprachen bereits über unsere verschiedenen Meinungen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22455",
+      "en": "Schön, Sie zu sehen, Spectre. Gibt es Neuigkeiten bezüglich der speziellen Angelegenheit?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22456",
+      "en": "Schon wieder da? Was kann ich heute für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22457",
+      "en": "Guten Tag. Setzen Sie sich und trinken Sie was. Was kann ich für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22458",
+      "en": "Sie sind der Spectre, der eben ankam, nicht wahr? Wie kann ein alter Turianer wie ich Ihnen denn helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22461",
+      "en": "Ihr Bild ging bereits an jeden Angestellten. Wir wurden gewarnt; wenn wir mit Ihnen reden, kann man uns kündigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22462",
+      "en": "Es ist zu spät für eine Tarnung, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22463",
+      "en": "Lorik Qui'in. Ich bin der momentane Leiter des Büros von SynIQ.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22466",
+      "en": "Mr. Anoleis hat mein Büro geschlossen. Er behauptet, Berichten über meine Korruption nachzugehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22467",
+      "en": "Der Administrator verlangt von den Firmen auf Noveria einen Prozentsatz der Miete.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22468",
+      "en": "Sie meinen, weil ich mich hier aufhalte? Wenn es doch nur aus Faulheit wäre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22471",
+      "en": "Es gibt einige Gerüchte, auch über etwas \"uraltes Böses\" und eine \"Plage von fernen Sonnen\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22472",
+      "en": "Lustig, was? Da guckt wohl jemand zu viele schlechte Horrorfilme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22473",
+      "en": "Sie sind viel zu direkt für Noveria. Hier sind eher Spitzfindigkeiten gefragt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22474",
+      "en": "Ja, sie hat für einen ziemlichen Aufruhr gesorgt. Es kommt nicht jeden Tag eine Matriarchin mit einer Horde Soldaten an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22476",
+      "en": "Sie behauptet, Sarens Assistentin zu sein und ein Projekt \"in Ordnung bringen\" zu müssen. Ich schätze, sie meinte Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22478",
+      "en": "Sie verlassen nur selten den Asari-Raum. Da ist es überraschend, eine so hochgestellte Persönlichkeit zu sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22479",
+      "en": "Lady Benezia war ihrer Position entsprechend gekleidet. Eine Asari in Nadelstreifenanzug lässt unter den jüngeren Männern Gerede aufkommen. Gewissermaßen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22480",
+      "en": "Jüngere Männer sind oft auf ungesunde Weise besessen von meiner Spezies.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22481",
+      "en": "Jüngere Männer haben komische Vorstellungen über Asari. Das liegt wohl am Extranet. Und den Computerspielen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22482",
+      "en": "Ich weiß nicht, ob sie entwaffnet wurden. Biotik-Kräfte kann man natürlich nicht konfiszieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22483",
+      "en": "Saren ist eine wichtige Person - und somit auch Benezia. Er ist ein Investor, der seine Aktien verkaufen könnte, wenn man ihm was verweigert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22488",
+      "en": "Menschen haben immerzu Fragen. Ich sollte mal ein Buch darüber schreiben, wenn ich Zeit dazu finde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22489",
+      "en": "Wirklich? Das könnte schwierig werden. Dort oben tobt ein schlimmer Sturm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22490",
+      "en": "Natürlich. Was könnte ich denn sonst meinen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22494",
+      "en": "Kein Wunder. Natürlich haben alle Manager Zugang, ich übrigens auch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22496",
+      "en": "\"Mich gehen lassen?\" Sehen die Menschen eine Unterhaltung als eine Art Gefangenschaft? Das würde erklären, warum sich so wenige hinsetzen und reden ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22498",
+      "en": "Der Job ist erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22499",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22500",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22501",
+      "en": "Ich habe den Job erledigt. Aber ich wurde von einer internen Ermittlerin kontaktiert. Sie möchte, dass Sie gegen Anoleis aussagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22502",
+      "en": "Anoleis hat jetzt Ihre Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22503",
+      "en": "Sind Sie Lorik Qui'in? Ich hörte, dass Sie mir vielleicht helfen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22507",
+      "en": "Wieso halten Sie mich für einen Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22510",
+      "en": "Ich bin Commander Shepard von der Allianz-Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22512",
+      "en": "Und wer sind Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22513",
+      "en": "Gab es Ärger in Ihrem Büro?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22516",
+      "en": "\"Momentan?\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22519",
+      "en": "Gönnen Sie sich zum Mittag drei Martini?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22528",
+      "en": "Haben Sie vor kurzem eine Asari-Matriarchin gesehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22529",
+      "en": "Wissen Sie, warum Benezia hier ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22532",
+      "en": "Ist es so ungewöhnlich, eine Matriarchin zu sehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22535",
+      "en": "Sind bewaffnete Soldaten auf Noveria erlaubt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22542",
+      "en": "Ich habe noch eine andere Frage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22543",
+      "en": "Ich muss zu Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22544",
+      "en": "Meinen Sie den Schneesturm?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22545",
+      "en": "Ich hörte, es hat einen Unfall gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22548",
+      "en": "Verarschen Sie mich nicht. Es hat einen Unfall gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22549",
+      "en": "Der Administrator lässt uns nicht in die Garage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|22552",
+      "en": "Ich sollte Sie gehen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23016",
+      "en": "Ich weiß Ihre Diskretion zu schätzen. Hoffentlich bin ich nie wieder so sorglos, um in eine solche Situation zu geraten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23017",
+      "en": "Ich glaube, Sie brauchen einen Garagenpass. Zusätzlich würde ich Ihnen 500 Credits anbieten. Wäre das okay für Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23018",
+      "en": "Sie haben Recht. Ich kann Ihnen 750 Credits anbieten. Mehr kann ich nicht bewegen, ohne dass die Firma was mitbekommt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23019",
+      "en": "Ich muss ein paar Leute anrufen, als Erstes Mr. Anoleis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23028",
+      "en": "Danke für Ihre Hilfe. Ich gehe davon aus, dass mein Büro demnächst noch profitabler sein wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23029",
+      "en": "Es gibt noch so viele Drinks, die ich probieren kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23030",
+      "en": "Nun, da Sie mein Eigentum haben, wollen Sie mir vorschreiben, was ich damit mache? Ich habe kein Interesse an einem öffentlichen Spektakel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23031",
+      "en": "Ohne das Wohlwollen der Direktoren können meine Arbeitgeber hier nicht operieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23032",
+      "en": "Die Direktoren ermitteln bereits gegen Anoleis. Sie werden auf ihn wütender sein als auf Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23033",
+      "en": "Die Direktoren ermitteln bereits gegen Anoleis. Sie werden auf ihn wütender sein als auf Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23034",
+      "en": "Die Direktoren ermitteln bereits gegen Anoleis. Sie werden auf ihn wütender sein als auf Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23035",
+      "en": "Die Direktoren ermitteln bereits gegen Anoleis. Sie sind besorgt, so jemanden in ihren Reihen zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23037",
+      "en": "Wenn sie Anoleis nicht die Schuld dafür geben, dies provoziert zu haben, sind sie Narren. Lassen Sie sich nicht einschüchtern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23038",
+      "en": "Schon gut, es ist klar, dass ich es Ihnen nicht ausreden kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23039",
+      "en": "Schön, das endlich alle Karten auf dem Tisch liegen. Leider haben Sie ein besseres Blatt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23040",
+      "en": "In Ordnung. Ich werde aussagen. Treffen Sie mit Ihrem Kontakt alle Vorbereitungen. Ich werde hier warten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23041",
+      "en": "Meine Entscheidung ist die richtige für mich und meinen Arbeitgeber.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23042",
+      "en": "Sie ... warum?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23044",
+      "en": "Anoleis wird gegen mich vorgehen. Ich sollte jetzt kündigen, bevor SynIQ mit hineingezogen wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23045",
+      "en": "Entschuldigen Sie mich. Ich muss mich jetzt betrinken, solange ich es mir noch leisten kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23046",
+      "en": "Was ist das denn für eine Logik?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23049",
+      "en": "Wirklich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23054",
+      "en": "Der Administrator ist ein interessanter Mann. Er ist ziemlich reich geworden, seitdem er die direkte Kontrolle über die Mieten hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23056",
+      "en": "Allerdings.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23059",
+      "en": "Ich habe Beweise für Anoleis Machenschaften. Er heuerte Schläger an, die in meinem Büro danach suchten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23060",
+      "en": "Ich bin für jede Art von Hilfe offen. Allerdings gibt es da noch ein kleines Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23061",
+      "en": "Er bezahlt sie insgeheim, Ms. Matsuo weiß nichts von dieser Nebenbeschäftigung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23062",
+      "en": "Das stimmt. Aber ich muss hinzufügen, dass Ms. Matsuo diese \"Nebenjobs\" missbilligt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23063",
+      "en": "Ich bin hier, falls Sie Ihre Meinung ändern. Ich wüsste nicht, was ich sonst tun könnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23064",
+      "en": "Danke, dass Sie mir zugehört haben. Ich habe sonst nichts zu tun als zu trinken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23065",
+      "en": "Ja. Sie wollen Zugang zur Garage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23066",
+      "en": "Wenn Sie mir die Beweise aus meinem Büro holen, erhalten Sie meinen Garagenpass und einige Credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23067",
+      "en": "Ich bin Manager. Die meisten leitenden Angestellten können nach Belieben kommen und gehen. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23068",
+      "en": "Warum sollte er? Da draußen gibt es nichts als Schnee und hungrige Nathak.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23069",
+      "en": "Ich will nur ein Druckmittel, um keine Schmiergelder mehr zahlen zu müssen. Wer im Geschäft bleiben will, sollte Kontroversen aus dem Weg gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23071",
+      "en": "Großartig! Hier ist mein Zugangspass fürs Büro. Er aktiviert den Fahrstuhl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23072",
+      "en": "Die Beweise sind in meinem Bürocomputer. Die OSD enthält einen Zugangscode, mit dem Sie darauf zugreifen können. Stecken Sie sie ins Laufwerk, der Rest geschieht automatisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23073",
+      "en": "Und vermeiden Sie Blutflecken auf dem Teppich, ja?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23074",
+      "en": "Dann werde ich nicht weiter fragen. Möchten Sie vielleicht noch etwas trinken? Ich arbeite mich momentan gerade durch die Hotelbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23075",
+      "en": "Ich vermute, dass Ihr Ziel außerhalb dieses Raumhafens liegt. Mr. Anoleis hätte was dagegen, Sie umherstreifen zu lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23083",
+      "en": "Ich habe mich entschieden, Ihnen die Beweise zu geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23085",
+      "en": "Ich hätte die Beweise den Behörden übergeben müssen, Mr. Qui'in. Sie sollten mir dankbar sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23089",
+      "en": "Hören Sie, ich habe Sie vor dem Gefängnis bewahrt. Überziehen Sie das Firmenkonto.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23098",
+      "en": "Das sollte reichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23100",
+      "en": "Jeder auf dieser Station hat unter Anoleis' Erpressung zu leiden. Sie könnten ein Held sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23109",
+      "en": "Wenn es nötig sein sollte. Tun Sie, was ich Ihnen sage, oder Anoleis findet, was er sucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23111",
+      "en": "Ich musste fragen. Wenn Sie nicht wollen, dann nehmen Sie die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23112",
+      "en": "Ich komme später wieder. Denken Sie noch mal darüber nach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23113",
+      "en": "Er gab mir, was ich brauchte, allerdings auch mehr Geld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23116",
+      "en": "Sie wollen nicht aussagen. Offenbar verabscheuen Sie Gerechtigkeit, daher verdienen Sie das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23118",
+      "en": "Er ist vielleicht korrupt, aber er hat hier noch immer das Sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23122",
+      "en": "Ich habe über Ihre Probleme mit Anoleis nachgedacht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23123",
+      "en": "Könnten Sie Ihre Probleme noch mal beschreiben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23128",
+      "en": "Da gibt es wohl einen Zusammenhang.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23133",
+      "en": "Kann ich irgendetwas tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23138",
+      "en": "Wenn er sie unter der Hand bezahlt, dann sind es Söldner, und Söldner kann ich töten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23139",
+      "en": "Eine traurige Geschichte. Viel Glück damit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23140",
+      "en": "Helfen Sie mir, wenn ich Ihnen helfe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23142",
+      "en": "Wie sind Sie an einen Pass gekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23143",
+      "en": "Warum hat Anoleis Ihre Karte nicht sperren lassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23144",
+      "en": "Was wollen Sie mit den Beweisen anfangen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23146",
+      "en": "Haben Sie einen Plan?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23149",
+      "en": "Ich werde über Ihr Angebot nachdenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23154",
+      "en": "Mit \"Miete\" meinen Sie Schmiergeld für Anoleis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23163",
+      "en": "Irgendwie schon. Das habe ich Ihnen zu verdanken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23164",
+      "en": "Mit den Beweisen, die Sie besorgt haben, konnte ich den Direktoren meinen Fall vortragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23165",
+      "en": "Mr. Anoleis wurde aufgefordert zu kündigen. Die Direktoren gaben mir seinen Job. Gewissermaßen aus Dankbarkeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23166",
+      "en": "Wenn Sie nichts dagegen haben, muss ich mich jetzt um einige Dinge kümmern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23169",
+      "en": "Ich wurde wegen unseres Arrangements noch nicht kontaktiert. Ist alles unter Kontrolle?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23170",
+      "en": "Beeilen Sie sich. Anoleis hat viele Spione.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23175",
+      "en": "Sind Sie jetzt der Administrator?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23179",
+      "en": "Was machen Sie hier?!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|23181",
+      "en": "Noch nicht. Ich muss mit meinem Kontakt reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|35540",
+      "en": "Sie brauchen einen Pass. Was für ein Zufall.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|35541",
+      "en": "Ich bin der Leiter des hiesigen Büros von SynIQ. Zumindest im Moment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|35543",
+      "en": "Ich muss in die Garage, um an andere Orte zu gelangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40384",
+      "en": "Neuer Job?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40385",
+      "en": "Was ist hier los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40386",
+      "en": "Ist erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40387",
+      "en": "[LÜGEN] Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40388",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40389",
+      "en": "Sagen Sie gegen Anoleis aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40390",
+      "en": "Ich habe einen Deal mit Anoleis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40392",
+      "en": "Sie schulden mir was.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40394",
+      "en": "Anoleis würde mehr zahlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40396",
+      "en": "Einverstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40407",
+      "en": "Sie wären ein Held.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40408",
+      "en": "Das werde ich auch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40409",
+      "en": "Dann nehmen Sie die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40410",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40420",
+      "en": "Es gab mir viel Geld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40421",
+      "en": "Sie wollen nicht aussagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40422",
+      "en": "Er hat das Sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40429",
+      "en": "Es geht um Ihr Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40430",
+      "en": "Gehen wir es noch mal durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40431",
+      "en": "Lorik Qui'in?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40432",
+      "en": "Wer sind Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40437",
+      "en": "Ich muss zu Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40440",
+      "en": "Spectre? Ich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40441",
+      "en": "Shepard, Allianz-Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40447",
+      "en": "Anoleis hat SynIQ geschlossen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40448",
+      "en": "Gibt es ein Problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40449",
+      "en": "Leiten Sie heute die Bar?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40464",
+      "en": "Ein interessanter Zufall.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40465",
+      "en": "Sie meinen eine Beteiligung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40473",
+      "en": "Wir brauchen einander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40474",
+      "en": "Sie haben ein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40475",
+      "en": "Das ist nicht mein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40477",
+      "en": "Das klingt doch gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40478",
+      "en": "Passausgabe",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40479",
+      "en": "Funktionierende Karte",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40480",
+      "en": "Erfolg",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40481",
+      "en": "Derzeit kein Interesse.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40489",
+      "en": "Sie wurden bestochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40496",
+      "en": "Matriarchin Benezia",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40497",
+      "en": "Hanshan verlassen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40498",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40503",
+      "en": "Was will sie hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40504",
+      "en": "Ist das so merkwürdig?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40505",
+      "en": "Sie lassen Soldaten rein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40507",
+      "en": "Andere Frage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40517",
+      "en": "Der Schneesturm?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40518",
+      "en": "Anoleis will uns nicht gehen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40520",
+      "en": "Einen Unfall.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40521",
+      "en": "Blödsinn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40532",
+      "en": "Ich arbeite daran.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|40539",
+      "en": "Ich gebe Ihnen die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|55911",
+      "en": "Jüngere Männer aller Spezies haben komische Vorstellungen über Asari.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|55912",
+      "en": "Das klingt nach Dingen, die man auf Fetischseiten im Extranet liest ... Was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|55913",
+      "en": "Ich weiß nicht, wie eine bekleidete Frau attraktiver sein kann als eine nackte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|79308",
+      "en": "Wenn Sie wollen. Ich widme mich derweil weiter der Bar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|79309",
+      "en": "Kommen Sie zu dem Teil, in dem Sie mir sagen, was Sie wollen und was ich dafür bekomme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|79310",
+      "en": "Mir ist nicht klar, wie mich das in die Garage bringt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|79313",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|79314",
+      "en": "Und die Garage?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|94481",
+      "en": "Den habe ich. Allerdings gibt es da noch ein ... wie sagen Sie Menschen doch gleich? \"Haar in der Soße?\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|94482",
+      "en": "Es könnte erforderlich sein, gewaltsam gegen Mr. Anoleis' Schläger vorzugehen. Mitglieder des Sicherheitsteams von Hanshan haben mein Büro durchsucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95976",
+      "en": "Ich muss mich jetzt meiner Arbeit widmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95977",
+      "en": "Sie finden ja selbst hinaus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95978",
+      "en": "Nehmen Sie sich ruhig ein Minzbonbon vom Tisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95979",
+      "en": "Ich denke, dass ich in einigen Tagen aussagen werde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95980",
+      "en": "Schon wieder da? Um mich auszulachen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95981",
+      "en": "Ich würde gern allein auf das Ende meiner Karriere warten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|95982",
+      "en": "Sehen Sie diesen Drink? Das ist mein EINZIGER FREUND.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101565",
+      "en": "Hallo, Spectre. Ich dachte, Sie würden diese unangenehme Sache mit Anoleis und seiner Sekretärin bereinigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101566",
+      "en": "Wohl nicht. Aber ich habe mein Ziel erreicht, Anoleis ist weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101567",
+      "en": "Ja, genau. Offenbar brauche ich sie nicht länger. Stimmen Sie mir da zu",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101568",
+      "en": "Hier geht es um Angebot und Nachfrage, Spectre. Und für Ihre Ware gibt es keine Nachfrage mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101569",
+      "en": "\"Ein mündlicher Vertrag ist das Papier nicht wert, auf dem er geschrieben ist.\" Aber ich habe in der Geschäftswelt einen guten Namen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101570",
+      "en": "Würde ihnen wohl nicht gefallen. Sie sind verschlagen für einen Menschen. Ich weiß das zu schätzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101571",
+      "en": "Ich kann Ihnen 250 Credits für, sagen wir, \"Dokumentenrecycling\" anbieten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101572",
+      "en": "Ich weiß Ihre Hilfe in dieser Angelegenheit zu schätzen. Trotz der unerwarteten Lösung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101573",
+      "en": "Dann werden Sie wohl nicht aussagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101574",
+      "en": "Wegen Ihrer Beweise ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101575",
+      "en": "Nicht so voreilig. Sie haben versprochen, mich zu bezahlen, wenn ich die Beweise hole.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101576",
+      "en": "Wir hatten einen Vertrag, Mr. Qui'in. Muss ich davon ausgehen, dass Sie Verträge immer brechen, wenn es Ihnen so passt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101578",
+      "en": "Wirklich? Denn ich frage mich, was die Direktoren dazu sagen, dass Sie den Administrator abgehört haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101581",
+      "en": "Dann ist unser Geschäft abgeschlossen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101582",
+      "en": "So viel zu Ihrer Aussage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101583",
+      "en": "Und ich habe noch die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101584",
+      "en": "Was ist mit meinem Geld?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101585",
+      "en": "Schätze schon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101586",
+      "en": "Wir hatten einen Deal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|101587",
+      "en": "Da irren Sie sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|102410",
+      "en": "Ich habe dafür gesorgt, dass bestimmte Geräte in seinem Büro platziert wurden. Natürlich nur aus eigenem Interesse. SynIQ würde so etwas nie tolerieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|102411",
+      "en": "Es wurden \"undokumentierte Credittransfers\" aufgezeichnet und die Daten in mein Büro übermittelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|102412",
+      "en": "Ms. Parasini hat mich vor ihrem Abflug kontaktiert. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|102413",
+      "en": "Die Direktoren werden mich in Schutzhaft nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|102414",
+      "en": "Wie sind Sie an diese Beweise gekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|102416",
+      "en": "Beweise",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|113955",
+      "en": "Ich muss Ihnen gar nichts erklären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|113956",
+      "en": "Meinen Glückwunsch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|113957",
+      "en": "Dann lief alles bestens für Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|113958",
+      "en": "Einverstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|113959",
+      "en": "Das geht Sie nichts an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|139385",
+      "en": "Ich habe Ihre Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|139386",
+      "en": "Anoleis hat die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|143713",
+      "en": "Ich wurde von einer internen Ermittlerin kontaktiert. Sie möchte, dass Sie gegen Anoleis aussagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|143714",
+      "en": "Ich musste fragen. Wenn Sie nicht wollen, dann nehmen Sie die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|143715",
+      "en": "Sagen Sie gegen Anoleis aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|143716",
+      "en": "Ich war wohl nicht überzeugend.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148047",
+      "en": "Da haben Sie wohl Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148048",
+      "en": "Ich hasse Zeitverschwendung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148049",
+      "en": "Wenn Sie Ihre Meinung nicht geändert haben, verschwinde ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148050",
+      "en": "Durchaus okay. Viel Glück, Mr. Qui'in.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148051",
+      "en": "Nicht so okay, wie ich es mir vorgestellt hatte, aber es wird reichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148052",
+      "en": "Sie wissen ja, dass es in Ihrem eigenen Interesse ist, Anoleis loszuwerden. Hier sind die Beweise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148053",
+      "en": "Klingt nach einem fairen Handel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148054",
+      "en": "So geht's mir immer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148055",
+      "en": "Stimmt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148056",
+      "en": "Na super.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148057",
+      "en": "Ich muss mit Gianna reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148058",
+      "en": "Immer noch so halsstarrig?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148059",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148060",
+      "en": "Wenn Sie nicht mehr haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148061",
+      "en": "Gut, nehmen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148062",
+      "en": "Seltsame Antwort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|148063",
+      "en": "Klingt gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|159085",
+      "en": "Wenn ich die Wachen töten muss, kann ich Ihnen nicht helfen. Sie sind hier immer noch das Gesetz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|159086",
+      "en": "Ich werde mich darauf konzentrieren, Ihnen die Beweise zu liefern. Wenn ich Glück habe, muss ich gegen niemanden kämpfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|159087",
+      "en": "Kann ich helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|159088",
+      "en": "Das kann ich nicht tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|159089",
+      "en": "Ich werde mir was überlegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|165240",
+      "en": "Ich habe es Anoleis gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|167081",
+      "en": "Ich würde Ihnen 500 Credits anbieten. Wäre das okay für Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|167082",
+      "en": "Wir haben noch was offen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|167083",
+      "en": "Kann ich helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|168049",
+      "en": "Einverstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_lorikquiin_D|168072",
+      "en": "Kann ich helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140457",
+      "en": "Irgendwelche Ergebnisse?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140458",
+      "en": "Und? Helfen Sie mir nun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140459",
+      "en": "Haben Sie Ihre Meinung geändert? Werden Sie für mich mit Vargas reden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140460",
+      "en": "Entschuldigung. Ich würde gern kurz mit Ihnen reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140463",
+      "en": "Der Mann an der Hotelbar. Sein Name ist Rafael Vargas und er ist Handelsvertreter bei BinHex. Ich möchte, dass Sie mit ihm reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140464",
+      "en": "Ich wünschte, ich könnte es. Aber ich hab's mir schon selbst versaut. Er hat gemerkt, dass ich keine echte Käuferin bin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140466",
+      "en": "Ich repräsentiere den Aramali-Stadtrat auf Thessia. Unsere Stadt ist bekannt für die Herstellung von biotischen Verstärkern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140467",
+      "en": "Wieso interessieren Sie sich für BinHex? Die arbeiten in der Genetik-Industrie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140468",
+      "en": "Wieso interessiert sich Ihre Stadt für BinHex? Die stellen keine Verstärkungen her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140469",
+      "en": "Wieso interessieren Sie sich für BinHex? Die arbeiten in der Genetik-Industrie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140470",
+      "en": "Wieso interessieren Sie sich für BinHex? Die arbeiten in der Genetik-Industrie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140471",
+      "en": "Wieso interessieren Sie sich für BinHex? Die arbeiten in der Genetik-Industrie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140472",
+      "en": "Die Arbeit von BinHex dreht sich zum großen Teil um Biotiken. Gerüchten zufolge hat sich der Noveria-Zweig auf Asari-Biotiken spezialisiert. Extrem starke Biotiken. Für das Militär, um genau zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140473",
+      "en": "Wir wollen alle möglichen Risiken für Asari-Rechte einschätzen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140474",
+      "en": "Jeder hier weiß, wer Sie sind, Witzbold.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140475",
+      "en": "Darum sind Sie ja auch ideal für den Job. Sie sind eine bekannte Größe. Jedenfalls wird Vargas das denken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140476",
+      "en": "Er wird annehmen, dass Sie hier sind, um die schmutzige Wäsche der Firma zu untersuchen. Und genau das wird ihn von Ihren ... ähm, meinen wahren Absichten ablenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140478",
+      "en": "Sie sollen sich als Käufer vorstellen. Im Namen der Allianz oder der Spectres. Ihre militärischen Erweiterungsprogramme diskutieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140479",
+      "en": "Ihre wahre Aufgabe ist es allerdings, ihn abzulenken. Ich werde Ihnen ein Gerät geben, mit dem Sie sich in sein persönliches drahtloses Netzwerk einklinken können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140480",
+      "en": "Es wird eine Reihe von Überwachungsviren hochladen, die dann BinHex infiltrieren, wenn er sich das nächste Mal in ihr Intranet einloggt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140481",
+      "en": "Spectres sind bekannt für ihre flexible Auffassung von Moral. Sie mehr als jeder andere.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140482",
+      "en": "Glauben Sie, dass sich BinHex an alle Gesetze hält? Dass sie keine anderen Firmen ausspionieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140483",
+      "en": "In Ordnung, Spectre. Ich verschwinde dann mal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140484",
+      "en": "Geld natürlich. Man würde mich für diese Arbeit großzügig entlohnen. Sie somit auch. 500 Credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140485",
+      "en": "Ausgezeichnet. Hier ist der Hacker. Wenn er piept, hat er seinen Job erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140486",
+      "en": "Ich hoffe, bald von Ihnen zu hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140487",
+      "en": "Lassen Sie mich wissen, wie Sie sich entschieden haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140488",
+      "en": "Mein Fehler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140494",
+      "en": "Ich weiß rein gar nichts über BinHex. Worüber soll ich mit Vargas reden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140495",
+      "en": "Er ist doch gleich da vorn. Warum reden Sie nicht selbst mit ihm?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140505",
+      "en": "Wissen Sie, wer ich bin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140508",
+      "en": "Seltsame Leute, die sich in Ecken rumdrücken, haben mir schon mal 'ne Menge Ärger eingebracht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140512",
+      "en": "Glauben Sie, diese Uniform sei nur Show? Meine Aufgabe ist es, das Gesetz zu schützen, nicht es zu brechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140513",
+      "en": "Wenn ich sehe, dass sie sich außerhalb des Gesetzes bewegen, ziehe ich sie aus dem Verkehr, wenn ich es für richtig halte. Und Sie versuchen gerade, einen Spectre zu bestechen ...!?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140514",
+      "en": "Nachrichten und Gerüchte nehmen dem Leben jeden Spaß. Okay, ich bin interessiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140515",
+      "en": "Was sie möglicherweise woanders machen, rechtfertigt nicht, was ich hier gegen sie unternehme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140517",
+      "en": "Nein, ich glaube auch nicht, dass sie clean sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140518",
+      "en": "Was springt für mich raus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140519",
+      "en": "Interessanter Plan. Ich bin dabei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140520",
+      "en": "Erzählen Sie mir, was Sie über Vargas wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140521",
+      "en": "Ich gehe jetzt zu ihm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140523",
+      "en": "Ich werde darüber nachdenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140525",
+      "en": "Was auch immer ich tun soll, fragen Sie jemand anderen. Ich bin beschäftigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140532",
+      "en": "Warum ich? Was ist hier los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140533",
+      "en": "Warum geht das nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140535",
+      "en": "Sind wir uns schon begegnet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140536",
+      "en": "Kann ich Ihnen vertrauen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140537",
+      "en": "Kein Interesse.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140551",
+      "en": "Das ist illegal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140552",
+      "en": "Was ist meine Belohnung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140553",
+      "en": "Ich tue es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140554",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140555",
+      "en": "Diesmal nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140556",
+      "en": "Ich tue es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140557",
+      "en": "Das ist keine Entschuldigung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140558",
+      "en": "Ich tue es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140560",
+      "en": "Klären Sie mich auf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140561",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140597",
+      "en": "Dann werde ich mir jemand anderen suchen. Ich möchte aber bezweifeln, dass Sie woanders 500 Credits nur dafür bekommen, einem Vertreter zuzuhören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140598",
+      "en": "Er hat keinerlei Geduld mit Leuten, die seine Zeit verschwenden. Ich wollte ihn mit Smalltalk ködern, aber er folgerte nur, dass ich nicht interessiert sei an den Diensten seiner Firma.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140599",
+      "en": "Mir ist aber eine Art \"Tick\" bei ihm aufgefallen: Wenn ihn ein Thema nervös macht oder wenn ihm etwas unangenehm ist, fängt er an, sich den Nacken zu reiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140600",
+      "en": "Wenn Sie das sehen, sollten Sie das Thema vertiefen. Das könnte ihn so weit verwirren, dass er weiter redet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140601",
+      "en": "Danke. Sie werden mich nicht wiedersehen, Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140602",
+      "en": "Sehr gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140603",
+      "en": "Ich würde mich über jede Hilfe freuen, die Sie anbieten können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140604",
+      "en": "Sehr gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140605",
+      "en": "Jemand muss mir helfen, einen BinHex-Handelsvertreter namens Rafael Vargas reinzulegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140606",
+      "en": "Ich habe Vargas erzählt, was Sie von mir verlangt haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140607",
+      "en": "Er fand heraus, was ich vorhatte und verschwand dann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140610",
+      "en": "Ihr Spielzeug hat's erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140612",
+      "en": "Ich arbeite noch an Vargas.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140613",
+      "en": "Alles ist nach Plan verlaufen. Sie sollten die Ergebnisse bald sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140614",
+      "en": "Ich habe noch anderes zu tun und werde Ihnen nicht helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140615",
+      "en": "Tut mir leid. Ich hätte mich da raushalten sollen. Hier ist Ihr Hacker zurück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140617",
+      "en": "Jetzt sprechen wir die gleiche Sprache. Ich werde es zu Ende bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140618",
+      "en": "Okay. Ich schätze, so beschäftigt bin ich doch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140619",
+      "en": "Wir sprechen später.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140621",
+      "en": "Was wollten Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140623",
+      "en": "Ich habe ihm von Ihnen erzählt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140624",
+      "en": "Vargas hat mich erwischt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140625",
+      "en": "Ist erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140627",
+      "en": "Noch keine Neuigkeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140628",
+      "en": "[LÜGEN] Ist schon erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140629",
+      "en": "Ich höre auf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140630",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140631",
+      "en": "Das stimmt so nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140632",
+      "en": "Das ist gutes Geld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140633",
+      "en": "Ich werde es zu Ende bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140636",
+      "en": "Der Job",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140691",
+      "en": "Verstehe. Dürfte ich fragen warum?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140692",
+      "en": "Sie haben eine interessante Sichtweise der Dinge. Fast schon link.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140693",
+      "en": "Kein Problem, ich hätte das Gleiche getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140694",
+      "en": "Ich schätze, ich sollte jetzt von dieser Welt verschwinden. Schnellstens.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140695",
+      "en": "Das werde ich jetzt auch, Spectre. Entschuldigen Sie mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140696",
+      "en": "Beeindruckend. Wochenlange Arbeit umsonst, und das völlig ohne Grund.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140697",
+      "en": "Bedauerlich. Aber ich kann Ihnen keine Vorwürfe machen, dass Sie ebenso erfolglos sind wie ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140698",
+      "en": "Ich werde mir einen anderen Zugang zu BinHex suchen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140699",
+      "en": "Keine Sorge, letzten Endes werde ich bekommen, was ich will.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140700",
+      "en": "Wofür denn? Dafür dass Sie die Beute verscheucht haben? Ich mache Ihnen keine Vorwürfe, aber erwarten Sie nicht zu viel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140701",
+      "en": "Glück ist kein Ersatz für Planung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140702",
+      "en": "Ausgezeichnet. Ich werde 500 Credits auf Ihr Konto überweisen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140703",
+      "en": "Sagte ich 500 Credits? Ich meinte 750.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140704",
+      "en": "Ich auch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140705",
+      "en": "Auf Wiedersehen, Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140706",
+      "en": "Das sagten Sie bereits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140707",
+      "en": "Sehr gut. Geben Sie Bescheid, wenn Sie fertig sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140708",
+      "en": "Sonst noch was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140709",
+      "en": "Ausgezeichnet. Ich werde 500 Credits auf Ihr Konto überweisen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140710",
+      "en": "Sie haben das Gesetz gebrochen, indem Sie mich ausspionierten und bestechen wollten. Er wird sich jetzt vor Ihnen in Acht nehmen. Schlimmer als eine Zurechtweisung, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140712",
+      "en": "Er fand heraus, dass ich ihn ausgetrickst habe. Nehmen Sie's nicht persönlich, aber ich werde nicht die Schuld auf mich nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140715",
+      "en": "Eine korrupte Firma ist so gut oder schlecht wie jede andere. Ziehen Sie Ihre Spielchen nächstes Mal woanders ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140717",
+      "en": "Ich brauche keinen Grund, ich bin ein Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140720",
+      "en": "Ich wünschte, ich hätte Ihnen eine größere Hilfe sein können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140722",
+      "en": "Moment mal. Was ist mit meinem Geld?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140723",
+      "en": "Ich bekomme gar keine Belohnung hierfür?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140725",
+      "en": "Viel Glück damit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140727",
+      "en": "Nur 500? Okay. Ich dachte, Sie wären vielleicht spendabler, da Sie's ja nicht selbst erledigen konnten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140728",
+      "en": "Ich könnte problemlos Mr. Vargas anrufen und ihm erzählen, was ich gerade getan habe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140735",
+      "en": "Sie sind ein Krimineller.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140736",
+      "en": "Er hat mich erwischt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140737",
+      "en": "Sie sind beide lästig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140738",
+      "en": "Warum nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140745",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140746",
+      "en": "Belohnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140747",
+      "en": "Belohnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140748",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140752",
+      "en": "Ist das alles?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140753",
+      "en": "Mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|140760",
+      "en": "Ich habe ein Dossier über Vargas angelegt. Wenn Sie möchten, kann ich Ihnen kurz was über seine Verhaltensmuster erzählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|147908",
+      "en": "War mir ein Vergnügen, mit Ihnen Geschäfte zu machen. Ich werde jetzt gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|147909",
+      "en": "Das sollte reichen. Ich muss jetzt los.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|147910",
+      "en": "Danke. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|147911",
+      "en": "Das sollte reichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|147912",
+      "en": "Gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|147913",
+      "en": "Danke. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|150059",
+      "en": "Was wissen Sie über Vargas?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|150060",
+      "en": "Was wissen Sie über Vargas?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|150061",
+      "en": "Was wissen Sie über Vargas?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_mallenecalis_D|150062",
+      "en": "Was wissen Sie über Vargas?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140845",
+      "en": "Wo waren wir stehen geblieben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140846",
+      "en": "Shepard, Sie haben meine Frage noch nicht beantwortet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140847",
+      "en": "Kann ich Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140849",
+      "en": "Korrekt. Rafael Vargas, Handelsvertreter. Sind Sie interessiert an unseren Diensten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140850",
+      "en": "Ich dachte eigentlich, dass die Allianz alle ihre Verbesserungen von MarsGene vornehmen lässt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140851",
+      "en": "Ich dachte eigentlich, dass die Citadel alle ihre Verbesserungen von einer salarianischen Firma vornehmen lässt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140852",
+      "en": "Eine vernünftige Geschäftspraxis. Verzeihen Sie bitte mein Zögern. Ich habe nur noch nie gehört, dass die Regierung einen guten Geschäftssinn beweist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140853",
+      "en": "Sie haben meine ungeteilte Aufmerksamkeit, Shepard. Ich versuche nur, meine Verhandlungsposition abzustecken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140854",
+      "en": "Ich ordne nur gerade meine Informationen. Wenn Sie uns noch eine zweite Chance geben wollen ... ich werde hier sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140855",
+      "en": "Aha.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140856",
+      "en": "Mr. Vargas? Commander Shepard vom Allianz-Militär. Ist es richtig, dass Sie für BinHex arbeiten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140858",
+      "en": "Mr. Vargas? Ich bin Commander Shepard, ein Spectre. Ist es richtig, dass Sie für BinHex arbeiten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140859",
+      "en": "Es ist bei uns üblich, bei der Verpflichtung kleinere genetische Upgrades vorzunehmen und ich wurde beauftragt, mich zu erkundigen, was BinHex anzubieten hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140860",
+      "en": "Dann wissen Sie sicher auch, dass wir jedes Geschäftsjahr ein neues Budget verabschieden. Wenn unsere Soldaten dadurch besser werden, können Verträge sich ändern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140861",
+      "en": "Mr. Vargas, ich bin hier, um mit Ihnen über Geschäfte zu reden. Wenn Sie lieber über Politik reden wollen, kann ich mir auch eine andere Gentechnik-Firma suchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140862",
+      "en": "Es ist offensichtlich, dass Sie derzeit nicht interessiert sind, übers Geschäft zu reden. Ich komme später noch mal wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140864",
+      "en": "Ich will nur etwas Zeit totschlagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140866",
+      "en": "Ich bin ein Allianz-Marine.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140867",
+      "en": "Ich bin ein Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140868",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140871",
+      "en": "Das bin ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140872",
+      "en": "Das ist korrekt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140873",
+      "en": "Das ist irrelevant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|140874",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141021",
+      "en": "Vielleicht. Das hängt davon ab, was für ein Angebot Ihre Firma macht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141024",
+      "en": "Wenn der Preis stimmt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141068",
+      "en": "Ich habe meine Firma über die Asari-Pläne in Kenntnis gesetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141069",
+      "en": "Shepard, in diesem Bereich sind Verbesserungen von 2% dramatisch genug, um sie patentieren zu lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141070",
+      "en": "Ich habe ein wenig Probleme damit zu glauben, dass man jemanden mit einem solch dürftigen Hintergrundwissen schickt, um das mit mir zu besprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141071",
+      "en": "Ich kann Ihnen diese Verbesserungen für 30.000 Credits pro Kopf besorgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141072",
+      "en": "Bei einem Großauftrag lege ich noch ein Paket zur Wahrnehmungsverbesserung dazu. Garantierte 20/15-Sicht und ein Gehör von 12 bis 22.000 Hertz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141073",
+      "en": "Ich schätze ja. Es ist ja schließlich auch mein Job, \"Erbsen zu zählen\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141074",
+      "en": "Es benötigt auch eine gewisse Zeit, einen Körper mit angepasster DNS zu behandeln. Hautzellen können innerhalb von zwei Wochen ersetzt werden, aber die Leber braucht über ein Jahr und das Skelett ein ganzes Jahrzehnt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141075",
+      "en": "Für Soldaten an der Front könnten wir den Prozess mit umfassenden Transfusionen und Injektionen zur Wachstumsstimulation beschleunigen. Es würde allerdings immer noch sechs Monate dauern, bevor man Ergebnisse sieht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141076",
+      "en": "Ich möchte Ihnen ein vorsichtiges \"Vielleicht\" anbieten. Es gibt einen Standard-Rabatt für Großaufträge, aber den kann ich nicht genehmigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141077",
+      "en": "Ich kann es aber nach oben weitergeben und ich bin mir sicher, jemand wird sich deshalb mit Ihnen in Verbindung setzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141078",
+      "en": "Absolut. Das ist unser Standard-Preis. Wenn die Regierung sich allerdings durchringen könnte, eine offizielle Anfrage zu tätigen, könnte es einen zusätzlichen Rabatt geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141079",
+      "en": "Ich muss zugeben, dass es mich überrascht hat, dass Sie geschäftlich hier sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141080",
+      "en": "Auf Noveria gibt es derzeit viele Forschungsprojekte, von denen nicht alle ganz legal sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141081",
+      "en": "Natürlich nicht! Der Ruf unserer Firma ist einwandfrei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141082",
+      "en": "Ich kann Ihnen versichern, dass alle BinHex-Operationen auf Noveria tadellos sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141084",
+      "en": "Ich werde das im Hinterkopf behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141085",
+      "en": "Natürlich sind sie das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141086",
+      "en": "Das habe ich schon mal gehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141087",
+      "en": "Ich werde das im Hinterkopf behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141088",
+      "en": "Wir werden das im Hinterkopf behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141089",
+      "en": "Ich werde das im Hinterkopf behalten. Natürlich spionieren wir unsere Mitbewerber nicht aus. Das wäre illegal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141090",
+      "en": "Verzeihung. Ich hätte nicht auf diesem Punkt rumreiten sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141091",
+      "en": "Das tue ich in der Tat. Es ist offensichtlich, dass Sie keine Ahnung von Genetik haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141092",
+      "en": "Es ist also höchst unwahrscheinlich, dass Sie von der Allianz geschickt wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141093",
+      "en": "Es ist also höchst unwahrscheinlich, dass Sie von der Citadel geschickt wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141094",
+      "en": "Ein Hacker. Voller Viren, schätze ich. Unsere IT-Leute können sie isolieren und dann benutzen, um die Asari mit falschen Daten zu füttern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141095",
+      "en": "Ich bin enttäuscht von Ihnen, Commander. Ich hatte gedacht, Ihre Rasse stünde über solchen Dingen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141096",
+      "en": "Bitte entschuldigen Sie mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141097",
+      "en": "Alles was ich weiß, ist, dass Sie meine Zeit verschwenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141098",
+      "en": "Dann sollten Sie in irgendeine Gen-Klinik gehen. Ich bin verantwortlich für Firmenabschlüsse in Millionenhöhe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141099",
+      "en": "Auf Wiedersehen, Commander. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141100",
+      "en": "Ich schätze ja. Verzeihen Sie mir, aber Ihre Manieren sind recht informell für ein Geschäftstreffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141102",
+      "en": "Selbstverständlich, Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141103",
+      "en": "Wir freuen uns darauf, von der Allianz zu hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141104",
+      "en": "Wir freuen uns darauf, mit der Citadel Geschäfte zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141105",
+      "en": "Sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141106",
+      "en": "Es ist besser, wenn niemand uns miteinander reden sieht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141107",
+      "en": "Jeder weitere Kontakt könnte den Verdacht der Asari erregen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141108",
+      "en": "Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141109",
+      "en": "Ein Hacker. Ich weiß Ihre Ehrlichkeit zu schätzen, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141110",
+      "en": "Da wir jetzt wissen, wonach wir suchen, werden sich unsere IT-Leute ein wenig mit den Asari amüsieren. Wir werden ihre Viren isolieren und sie mit falschen Daten füttern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141111",
+      "en": "Bitte entschuldigen Sie mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141112",
+      "en": "Zuerst das übliche Kleingedruckte: Wir können nicht garantieren, dass genetische Verbesserungen \"funktionieren\". Wir können die Chancen erhöhen, aber jeder DNS-Strang ist einzigartig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141113",
+      "en": "Unsere patentierten Techniken können für eine 8%ige Verbesserung der Adrenalin-Reaktion sorgen, für eine 12% schnellere Blutgerinnung und für einen messbaren Rückgang in Muskel-Degeneration.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141114",
+      "en": "Was? ... Na ja, ich schätze, wir könnten die Haut unempfindlicher machen. Komplette Körper-Taubheit sozusagen. Alle Nervenbahnen veröden. Innere Verletzungen würde man allerdings immer noch spüren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141115",
+      "en": "Aber das ist gefährlich nah an der Grenze zur Genmanipulation, Shepard. Das Gesetz erlaubt lediglich die Verbesserung natürlicher Funktionen. Wir können nichts hinzufügen oder entfernen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141116",
+      "en": "Es ist auch eine Neuheit. Das Aufkommen von Element-Zero-basierter künstlicher Schwerkraft machte diese Angelegenheit weniger dringlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141117",
+      "en": "Wir warten immer noch auf Tests, um eine durchschnittliche Verbesserung festlegen zu können. Wir rechnen mit einem 7- bis 11%igem Rückgang bei der Muskelschwundrate.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141118",
+      "en": "Ich sehe, dass Sie Ihre Hausaufgaben gemacht haben. Das ist jedenfalls das, was sie offiziell versprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141119",
+      "en": "Wir glauben allerdings, dass sie sich die besten Versuchsobjekte rausgepickt haben, um die bestmöglichen Ergebnisse zu zeigen. Unsere Angaben hingegen sind mathematisch errechnete Durchschnittswerte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141123",
+      "en": "Das sind keine besonders großen Verbesserungen. Ich schätze, jedes kleine bisschen kann helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141127",
+      "en": "Ich werde das in meinen Bericht aufnehmen. Die Erbsenzähler im Hauptquartier können sich um die Details kümmern. Verstehen Sie, was ich meine?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141129",
+      "en": "Wie würden Sie die Upgrades verabreichen? Retroviren zu spritzen würde ziemlich lange dauern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141132",
+      "en": "Das ist sicher der offizielle Verkaufspreis für Privatpersonen. Ich biete Ihnen millionenschwere Aufträge an, Mr. Vargas. Und das sollte einiges mehr wert sein als ein paar serienmäßige Wahrnehmungsverbesserungen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141135",
+      "en": "Sind Sie sicher, dass das der beste Preis ist, den Sie anbieten können?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141138",
+      "en": "Führt BinHex einige weniger lupenreine Projekte durch? Ich werde meine Quelle auch vertraulich behandeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141147",
+      "en": "Ich wäre für jeden Tipp dankbar. Und es würde positiv auf Sie und BinHex zurückfallen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141149",
+      "en": "Wenn sie mir nicht direkt ins Gesicht springen, werde ich nicht danach wühlen. Ich bin nicht hier, um Stichproben zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141151",
+      "en": "Ich habe vielerlei Aufgaben, Mr. Vargas. An manchen Tagen mache ich Kriminelle unschädlich, an anderen entschärfe ich Sprengköpfe, an wieder anderen fröne ich privaten Lastern. Verstehen Sie, was ich meine?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141153",
+      "en": "Ich möchte ehrlich zu Ihnen sein: Ich wurde angeheuert, um in Ihr Netzwerk einzudringen. Eine Agentin des Aramali-Rats gab mir das hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141157",
+      "en": "Nennen Sie mich einen Lügner, Vargas?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141159",
+      "en": "Vielleicht bin ich ja persönlich interessiert. Schon mal daran gedacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141163",
+      "en": "Hört sich an, als verlange meine Crew nach mir. Wir bleiben in Kontakt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141164",
+      "en": "Tut mir leid, Mr. Vargas, aber ich muss jetzt einen Anruf entgegennehmen. Vielen Dank für Ihre Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141168",
+      "en": "Tut mir leid, aber ich muss einen Anruf entgegennehmen. Würden Sie mich einen Moment entschuldigen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141172",
+      "en": "Eigentlich wollte ich Sie warnen. Eine Agentin des Aramali-Rats hat mich angeheuert, damit ich mich in Ihr Netzwerk einklinke. Sie hat mir das hier gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141177",
+      "en": "Ist es irgendwie möglich, das Schmerzempfinden zu unterdrücken?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141180",
+      "en": "Ich habe noch nie von einer Technologie gehört, die die Schwerelosigkeit erträglicher macht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141183",
+      "en": "Die Blutgerinnungs-Erweiterung von MarsGene verbessert die Geschwindigkeit um 16%.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141189",
+      "en": "Ich soll Sie ausspionieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141194",
+      "en": "Was ist mit Schmerz-Immunität?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141195",
+      "en": "Muskel-Degeneration?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141196",
+      "en": "Das reicht nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141197",
+      "en": "Kleinere Verbesserungen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141198",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141208",
+      "en": "Klingt vernünftig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141209",
+      "en": "Was ist mit der Verabreichung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141210",
+      "en": "Zocken Sie mich nicht ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141211",
+      "en": "Erscheint mir sehr hoch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141219",
+      "en": "Sie klingen schuldig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141220",
+      "en": "Wissen Sie von welchen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141221",
+      "en": "Das ist mir egal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141222",
+      "en": "Nicht alles, was ich tue, ist legal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141234",
+      "en": "Eine Asari hat mich angeheuert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141235",
+      "en": "Ich verbitte mir jede Kritik.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141236",
+      "en": "Ich will es wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141244",
+      "en": "Das ist meine Komm-Einheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141245",
+      "en": "Ich werde angepiept.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141246",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141934",
+      "en": "Wir hoffen, bald von Ihnen zu hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141935",
+      "en": "Ich werde einen Kostenvoranschlag einholen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|141936",
+      "en": "Denken Sie an unser Motto: \"Je besser das Fundament, desto robuster das Haus\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_08_DSG_LOC|ice20_rafaelvargas_D|147748",
+      "en": "Kann ich Ihnen helfen?",
+      "tr": ""
+    }
+  ]
+}

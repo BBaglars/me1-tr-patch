@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "package": "BIOA_ICE50_09_PLC_LOC_INT.pcc",
+    "stem": "BIOA_ICE50_09_PLC_LOC",
+    "textLang": "DE",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE50_09_PLC_LOC|ice50_trig27_elv_roof_D|150049",
+      "en": "Sie begeben sich jetzt zum Dach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_09_PLC_LOC|ice50_trig27_elv_roof_D|150050",
+      "en": "Warnmeldung! Landleitungs-Verbindungen sind deaktiviert. Die Passagierzüge sind außer Betrieb.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_09_PLC_LOC|ice50_trig27_elv_roof_D|150051",
+      "en": "Die Kommunikation innerhalb der Einrichtung funktioniert normal.",
+      "tr": ""
+    }
+  ]
+}

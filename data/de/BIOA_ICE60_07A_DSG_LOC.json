@@ -1,0 +1,985 @@
+{
+  "meta": {
+    "package": "BIOA_ICE60_07A_DSG_LOC_DE.pcc",
+    "stem": "BIOA_ICE60_07A_DSG_LOC",
+    "textLang": "DE",
+    "sets": 5
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81442",
+      "en": "[Der Wissenschaftler schläft friedlich.]",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81444",
+      "en": "Mnngh.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81445",
+      "en": "Unnngh.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81446",
+      "en": "Uh. Mnn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81435",
+      "en": "[Die Wissenschaftlerin schläft friedlich.]",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81437",
+      "en": "Unnngh.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81438",
+      "en": "Uh. Mnn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81439",
+      "en": "Mnngh.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80212",
+      "en": "Das System ist online und steht für medizinische Dienste bereit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80213",
+      "en": "Rufe Logs auf. Sie waren gerade mit einem Experiment beschäftigt, als der Shutdown einsetzte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80214",
+      "en": "Als du vom Netz genommen wurdest.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80216",
+      "en": "Ohne mein Programm für Eindämmungsprozeduren trat ein Quarantäneleck auf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80217",
+      "en": "Ich fürchte, eine Behandlung ist nicht möglich. Im Gewebe jedes einzelnen Patienten hat sich ein unbekanntes Toxin abgelagert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80219",
+      "en": "Ich verwalte die Systeme der verschiedenen Gipfel-15-Einrichtungen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80220",
+      "en": "Unser Arzt ... er weilt nicht mehr unter uns. Mira bedient die automatischen Systeme für uns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80222",
+      "en": "Ich bilde die Zentraleinheit aller automatischen Behandlungssysteme der Rift-Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80223",
+      "en": "Natürlich, Commander. Einen Augenblick bitte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80224",
+      "en": "Wie Sie meinen, Commander. Ich melde Sie ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80225",
+      "en": "Was haben diese Leute?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80229",
+      "en": "Welche Behandlungen wurden ausprobiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80231",
+      "en": "Was machst du hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80234",
+      "en": "Kannst du die Ausrüstung für uns bedienen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80236",
+      "en": "Wir brauchen im Moment nichts mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80238",
+      "en": "Kranke Wissenschaftler",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80239",
+      "en": "Ein Heilmittel",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80242",
+      "en": "Mira?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80243",
+      "en": "Wir brauchen erste Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80244",
+      "en": "Ausloggen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|99884",
+      "en": "Sie wurden einer neuen Form von Toxin ausgesetzt. Ein Gegenmittel wurde erfolgreich verabreicht. Die Prognosen sind gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80953",
+      "en": "Natürlich. Bitte sehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80955",
+      "en": "Ich muss das jetzt verabreichen. Danke nochmals.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80956",
+      "en": "Ja?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80957",
+      "en": "Sie wurden mit einem Toxin vergiftet. Es hat einen Unfall gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80958",
+      "en": "Ich ... ich habe eine Vertraulichkeitsvereinbarung unterschrieben. Ich sollte das nicht mit jemandem diskutieren, der nicht zur Firma gehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80959",
+      "en": "Ich hoffe, der Firma ist unser Leben wichtiger als ein paar Geheimnisse.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80960",
+      "en": "Kennen Sie Mira? Die virtuelle Intelligenz für Gipfel 15? Sie verwaltet die Sicherheitsprotokolle für unsere Experimente hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80961",
+      "en": "Sie waren das? Vielen Dank. Die automatische Ausrüstung funktioniert nämlich nur, wenn sie online ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80962",
+      "en": "Jeder Fortschritt erfordert ... Ist das jetzt wirklich der richtige Zeitpunkt für Ethikdebatten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80963",
+      "en": "Mitten in einem Experiment verloren wir die Verbindung zu Mira und die Quarantäne versagte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80964",
+      "en": "Diese drei hier wurden einem Toxin ausgesetzt. Etwas, an dem wir gearbeitet haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80965",
+      "en": "Nein! Warten Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80966",
+      "en": "Es ist eine Bio-Waffe basierend auf einer exotischen Lebensform, die im Grenzgebiet entdeckt wurde. Sie wollten etwas, das die Kreatur töten kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80967",
+      "en": "Aber mit etwas, das eine Spezies im Grenzgebiet tötet, ließ sich kein Geld machen. Wir arbeiteten weiter daran. Passten sie an, damit sie auch auf andere Spezies wirkte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80969",
+      "en": "Verdammte Salarianer. Sie spielen einfach zu gern mit Bakterien rum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80970",
+      "en": "Solche Sachen geraten nie außer Kontrolle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80971",
+      "en": "Thoros-B ist zwar hochansteckend, kann aber nicht von einer Person zur anderen weitergegeben werden. Wie ein Angriff mit einer Bio-Waffe, nur ohne anschließende Pandemie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80972",
+      "en": "Militär, Regierungen ... sie alle bekommen diese Art von Waffen so oder so. Wir betreiben hier Schadensbegrenzung. Ich weiß, dass Sie das nicht so sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80973",
+      "en": "Ich habe nicht erwartet, dass sie es verstehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80974",
+      "en": "Unsere oberste Priorität war, dass es funktionierte. Wir waren kurz davor, ein Gegenmittel zu finden, als Mira offline ging.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80975",
+      "en": "Unsere Aufzeichnungen und Ausrüstung sind im Quarantänelabor eingeschlossen. Captain Ventralis will keine weitere Kontamination riskieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80976",
+      "en": "Das denke ich mir. Es ist nicht gestattet, aber da ist auch nichts mehr. Wenn Sie diese Männer retten, erledige ich das für sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80977",
+      "en": "Nein! Das Toxin hat nur eine kurze Lebensfähigkeit. Danach zerfällt es in simple Eiweißketten. Aber er will ja nicht auf mich hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80978",
+      "en": "Natürlich nicht. Sie sehen nicht aus wie ein Biochemiker. Nehmen Sie's nicht persönlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80979",
+      "en": "Ich kann Sie nicht offiziell darum bitten. Aber wenn Sie etwas tun können, wäre ich Ihnen sehr dankbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80980",
+      "en": "Ich versuche nur, einen Zwischenfall zu vermeiden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80981",
+      "en": "Die Quarantänelabore sind in der Nähe der Quartiere des Wissenschaftsteams.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80982",
+      "en": "Sobald Sie drin sind, sehen Sie sich nach Aufzeichnungen um. Es geht nur darum, unsere Prozesse nachzuverfolgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80983",
+      "en": "Sie dürfen da zwar nicht rein, aber ich schätze, es schadet niemandem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80984",
+      "en": "Hier ist mein Pass. Aber sagen Sie's nicht den Wachen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80985",
+      "en": "Ich habe einen Pass, aber da hinten ist nichts. Nur Schnee. Na ja, Schnee und der Zugang zum Servicebereich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80986",
+      "en": "Habe ich Ihr Wort darauf?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80987",
+      "en": "Sie haben Recht. Nehmen Sie ihn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80988",
+      "en": "Sie sehen ja, dass meine Freunde krank sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80989",
+      "en": "Bringen Sie mir das Heilmittel, dann gebe ich Ihnen meinen Pass. Unter der Hand natürlich nur.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80990",
+      "en": "Ich bin \"ein\" Doktor, nicht \"der\" Doktor. Mein Spezialgebiet ist die Mikrobiologie, nicht erste Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80991",
+      "en": "Wir hatten einen Arzt. Dr. Saleh. Er ist to... Wir haben ihn verloren. Die Apparate können einfache Behandlungen durchführen. Mira bedient sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80992",
+      "en": "Besser als Ventralis' Wachen. Sie sind seit dem ersten Angriff kampfbereit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80993",
+      "en": "Ich habe ihnen auf ihren Wunsch Stims verabreicht, trotzdem muss jede Spezies mal schlafen. Sie werden nervös. Irrational.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80994",
+      "en": "Ich hoffe, Sie können etwas tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80995",
+      "en": "Mmmhmm. Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80999",
+      "en": "Was? Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81001",
+      "en": "Nein. Es liegt nicht an Ihnen. Ich bin nur etwas verwirrt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81004",
+      "en": "Sie scheinen wieder auf die Beine zu kommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81005",
+      "en": "Sie brauchen ein wenig Zeit, um sich zu erholen. Aber sie haben das Schlimmste überstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81007",
+      "en": "Natürlich. Seien Sie vorsichtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81008",
+      "en": "Ist das das Heilmittel? Sie haben es geschafft?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81010",
+      "en": "Sie wurden angegriffen? Da... darüber weiß ich nichts! Ich hasse Konflikte. Ich habe noch nie jemanden gefeuert. Das erledigt mein Sekretär für mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81012",
+      "en": "Sehen Sie sich die Wachen an. Sie sind noch gereizter, seit Sie hier sind. Ich glaube, die haben Sie erwartet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81013",
+      "en": "Im hinteren Teil sind noch mehr Labore. Die Wachen lassen nicht mal mich da rein. Nur Leute mit einer \"Sicherheitsbescheinigung\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81014",
+      "en": "Zum Servicebereich? Klar, nehmen Sie meinen Pass. Aber da hinten ist nur Schnee.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81015",
+      "en": "Damit will ich nichts zu tun haben. Ich versuche nur, meine Freunde zu retten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81016",
+      "en": "Lassen Sie mich die Ampulle mal sehen. Eine Erweiterung von Phelps' Arbeit? Ich dachte mir doch, dass er auf der richtigen Fährte war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81017",
+      "en": "Ich kann Ihnen gar nicht genug danken. Himmel! Was für ein Klischee. Sie haben ihnen das Leben gerettet, wussten Sie das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81019",
+      "en": "Die haben Sie aber nicht von mir. Ventralis wollte die für seine Leute haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81023",
+      "en": "Danke für die Warnung. Hier ist das Heilmittel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81024",
+      "en": "Jemand wird hier gleich eine Abreibung bekommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81029",
+      "en": "Könnten Sie vielleicht ein paar Medikits erübrigen? Hier oben sind die mit Gold nicht aufzuwiegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81031",
+      "en": "Und ich habe meins fast verloren. \"Danke\" ist alles, was ich bekomme? Wir müssen voll auf der Höhe sein, wenn wir gegen diese Aliens kämpfen. Geben Sie uns etwas Medigel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81033",
+      "en": "Dafür bin ich hier. Nicht der Rede wert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81035",
+      "en": "Was haben diese Leute?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81037",
+      "en": "Aber Sie sollten mit mir reden, denn ich kann Ihnen vielleicht helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81039",
+      "en": "Wir haben sie auf unserem Weg durch die Central Station reaktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81041",
+      "en": "Sie sollten über sicherere Experimente nachdenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81041|m",
+      "en": "Sie sollten über sichere Experimente nachdenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81043",
+      "en": "Das ergibt Sinn. Sie scheint hier auch alles andere zu verwalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81045",
+      "en": "Ich verstehe Ihre Sorge, aber ich muss die Details wissen. Was Sie mir erzählen, wird diesen Raum nicht verlassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81046",
+      "en": "Wenn ich helfen soll, erwarte ich komplette Kooperation. Wollen Sie, dass diese Leute leben? Wenn nicht, gehe ich direkt wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81054",
+      "en": "Sie haben das erschaffen, können es aber nicht heilen? Macht ihr Leute euch keine Notizen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81055",
+      "en": "Es gibt einen Grund, dass laut Citadel-Konventionen Bio-Waffen verboten sind, Doc.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81057",
+      "en": "Und Sie haben kein Gegengift?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81059",
+      "en": "Ich brauche Zugang zum Servicebereich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81060",
+      "en": "Ist es gerechtfertigt, dass keiner rein darf?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81061",
+      "en": "Ich kann für Sie mit Ventralis reden, aber ich bin für so was nicht ausgebildet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81062",
+      "en": "Ich werde mal mit ihm reden. Vielleicht kann ich ihn überzeugen, es mich versuchen zu lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81063",
+      "en": "Machen Sie, was Sie wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81064",
+      "en": "Was ist nötig, um das Heilmittel für diese Leute zu holen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81066",
+      "en": "Ich muss in den Servicebereich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81068",
+      "en": "Hier ist bald die Kacke am Dampfen. Geben Sie mir die Karte, dann sorge ich für die Sicherheit Ihres Teams.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81069",
+      "en": "Ich werde mir den Bereich da hinten so oder so ansehen. Und eigentlich müssen hier nicht noch mehr Kugeln die Luft verpesten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81070",
+      "en": "Was könnte Ihre Meinung dahingehend ändern?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81072",
+      "en": "Sind Sie der Doktor hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81074",
+      "en": "Wie schlägt sich das Wissenschaftsteam?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81076",
+      "en": "Wir reden später weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81083",
+      "en": "Wurden sie von den Aliens angegriffen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81085",
+      "en": "Entschuldigen Sie die Störung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81089",
+      "en": "Sie sehen nicht viel besser aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81092",
+      "en": "Gute Neuigkeiten. Man sieht sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81093",
+      "en": "Ich bin in dem Labor, in das Sie mich geschickt haben, in einen Hinterhalt geraten. Wenn Sie mich reingelegt haben ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81096",
+      "en": "Ich denke schon. Es war schwer, sich zu konzentrieren und gleichzeitig Feuersalven auszuweichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81102",
+      "en": "Was ist mit dem Servicebereich? Haben Sie da Zugang?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81109",
+      "en": "Was stimmt mit ihnen nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81110",
+      "en": "Tut mir Leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81115",
+      "en": "Die Patienten",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81116",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81119",
+      "en": "Sie haben mich reingelegt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81120",
+      "en": "Ich habe das Antitoxin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81128",
+      "en": "In den Servicebereich",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81129",
+      "en": "Danke für die Warnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81130",
+      "en": "Ich muss jemandem wehtun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81135",
+      "en": "Haben Sie Medigel?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81136",
+      "en": "Ich brauche mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81137",
+      "en": "Das ist meine Pflicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81142",
+      "en": "Sind diese Leute krank?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81143",
+      "en": "Wie kann ich ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81144",
+      "en": "Ich muss in den Servicebereich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81145",
+      "en": "Ihr Job",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81146",
+      "en": "Ihr Team",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81147",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81149",
+      "en": "Aber Sie wollen es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81150",
+      "en": "Ihre Bitte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81152",
+      "en": "Ich habe sie repariert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81153",
+      "en": "Hört sich gefährlich an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81154",
+      "en": "Ich kenne sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81158",
+      "en": "Ich brauche mehr Infos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81159",
+      "en": "Ich will alles darüber wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81160",
+      "en": "Sie haben kein Heilmittel?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81168",
+      "en": "Sie haben kein Heilmittel?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81169",
+      "en": "Da haben Sie verdammt Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81172",
+      "en": "Ich muss in den Servicebereich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81173",
+      "en": "Ist es da drinnen gefährlich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81174",
+      "en": "Ich bin kein Wissenschaftler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81175",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81178",
+      "en": "Ich kann Sie schützen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81179",
+      "en": "Mit Gewalt käme ich rein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81180",
+      "en": "Können wir verhandeln?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81206",
+      "en": "Ganz egal, wie \"sicher\" man es macht, biologische Waffen sind illegal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81207",
+      "en": "Glauben Sie, dass diese Unterscheidung die Sache ethischer macht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81208",
+      "en": "Ja. Tut mir Leid. Ich habe nicht viel geschlafen in letzter Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81210",
+      "en": "Alestia? Kaum zu glaub...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81211",
+      "en": "Ich ... ich weiß kaum etwas über sie. Sie kam erst vor einem Monat hier an. Einer der Aktionäre hat ein paar Fäden gezogen, um sie hierher zu bekommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81212",
+      "en": "Lassen Sie mich raten. Saren, der Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81213",
+      "en": "Lassen Sie mich raten. Saren, der Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81214",
+      "en": "Lassen Sie mich raten. Saren, der Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81215",
+      "en": "Lassen Sie mich raten. Saren, der Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81216",
+      "en": "Lassen Sie mich raten. Saren, der Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81217",
+      "en": "Ja. Ich glaube, das war sein Name. Ich beachte die anderen Forschungsteams kaum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81221",
+      "en": "Gibt es ein Heilmittel, Doc? Eine Behandlung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81222",
+      "en": "Ich hatte einen langen Tag. Machen Sie mich nicht sauer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81225",
+      "en": "Diese Asari-Wissenschaftlerin, die im Speisesaal war, hat versucht, uns zu töten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81235",
+      "en": "Eine Asari griff mich an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81247",
+      "en": "Kümmern Sie sich später darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81248",
+      "en": "Ihr Ton gefällt mir nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102862",
+      "en": "Hier drinnen sind keine Schießereien erlaubt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102863",
+      "en": "Aber sagen Sie's nicht den Wachen. Sie sind schon gereizt genug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102864",
+      "en": "Erledigen Sie das bitte draußen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102865",
+      "en": "Das ist ein Krankenhaus, verdammt nochmal!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|120385",
+      "en": "Ich könnte helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147336",
+      "en": "Nur als Mittel zum Zweck, Doktor. Ich muss meine Mission beenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147337",
+      "en": "Wenn Sie es erschaffen haben, müssen Sie auch eine Ahnung haben, wie es geheilt werden kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147338",
+      "en": "Meinen Glückwunsch. Sie haben eine illegale Biowaffe erschaffen. Haben Sie auch an ein Heilmittel gedacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147339",
+      "en": "Ich habe Grund zu glauben, dass sich da hinten etwas versteckt. Ich brauche Ihre Hilfe, Doktor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147340",
+      "en": "Doktor, selbst ein Elcor würde merken, dass diese Crew etwas verheimlicht. Warum wollen Sie mich nicht dort hinten haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147341",
+      "en": "Ich helfe immer gern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147342",
+      "en": "Lag auf dem Weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147343",
+      "en": "Sie haben es geschafft?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147344",
+      "en": "\"Gut gemacht.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147345",
+      "en": "Ich kann sehr überzeugend sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147346",
+      "en": "Da ist mehr als nur Schnee.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147347",
+      "en": "Verheimlichen Sie was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|158811",
+      "en": "Ich kann sehr überzeugend sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|172634",
+      "en": "Wo wir gerade von da hinten sprechen ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|172635",
+      "en": "Nehmen Sie einfach die Medizin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_trig05_talin_frets_D|80251",
+      "en": "Halte durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_trig05_talin_frets_D|80252",
+      "en": "Uhn ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_07A_DSG_LOC|ice60_trig05_talin_frets_D|80253",
+      "en": "Ich weiß, an meiner Stelle hättest du längst ein Heilmittel.",
+      "tr": ""
+    }
+  ]
+}

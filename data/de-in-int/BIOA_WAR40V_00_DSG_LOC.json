@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "package": "BIOA_WAR40V_00_DSG_LOC_INT.pcc",
+    "stem": "BIOA_WAR40V_00_DSG_LOC",
+    "textLang": "DE",
+    "sets": 3
+  },
+  "entries": [
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35485",
+      "en": "Diesen Viechern waren die Geth egal. Metall kann man nicht fressen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35486",
+      "en": "Die Varren haben die Geth nicht als Nahrung wahrgenommen. Wir dagegen könnten durchaus als Beute gelten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35487",
+      "en": "In den Xenogenetik-Feldhandbüchern wurde davor gewarnt, den Jagdinstinkt einheimischer Raubtiere zu provozieren. Aber uns bleibt wohl keine Wahl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35488",
+      "en": "Die Geth hatten keine Interesse an diesen Kreaturen. Sie hatten es nur auf die Kolonisten abgesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35490",
+      "en": "Damit sollten Fai Dan und die anderen in Sicherheit sein. Nach einem Gespräch mit ihm können wir uns jetzt um das Hauptlager der Geth kümmern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35491",
+      "en": "Nehmen wir uns jetzt die Geth vor? Wo immer sie stecken mögen. Wir sollten nochmal Fai Dan fragen, aber ich glaube, unser Job hier ist erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35492",
+      "en": "Jetzt können wir Fai Dan Bericht erstatten und ein Fahrzeug aus der Normandy entladen. Unser nächstes Missionsziel ist die Geth-Basis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35493",
+      "en": "Wir sollten noch einmal Fai Dan die Situation schildern, bevor wir uns zum Lager der Geth aufmachen. Wenn jemand uns nützliche Informationen geben kann, dann er.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35494",
+      "en": "Die Geth werden zurückkehren. Wir sollten kurz mit Fai Dan sprechen und dann unverzüglich ein Fahrzeug nehmen und herausfinden, wo die Geth sich verstecken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35496",
+      "en": "Zur Geth-Basis. Erwarten Ihre Befehle, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35497",
+      "en": "OK - auf zur Geth-Basis! Zeit für die Abrechnung!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35498",
+      "en": "Auf zur Geth-Basis. Das klingt wie ein geschmackloses Klischee ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35499",
+      "en": "Auf zur Geth-Basis. Klingt wie ein niveauloses Klischee ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35500",
+      "en": "Auf zur Geth-Basis. Mit Widerstand ist zu rechnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35512",
+      "en": "Guter Punkt, um zu sehen, wohin wir uns wenden müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35513",
+      "en": "Schöne Aussicht. Jetzt wissen wir, wohin es geht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35514",
+      "en": "Dieser Punkt gibt uns perfekte Aussicht auf die Zielrichtung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35515",
+      "en": "Von hier aus können wir optimal sehen, wohin wir müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35516",
+      "en": "Ein guter Ausgangspunkt, um unseren Weg zu bestimmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35518",
+      "en": "Vorsicht. Leichengestank. Organische Raubtiere hier, nicht Geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35519",
+      "en": "Was ist das für ein Gestank? Der stammt nicht von den Geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35520",
+      "en": "Mann ...! Das stinkt hier vielleicht ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35521",
+      "en": "Dieser viszerale Gestank kann niemals von den Geth stammen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35522",
+      "en": "Es riecht nach Aas. Nach einer Menge Aas.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|35524",
+      "en": "Die einheimischen Raubtiere haben die Geth wahrscheinlich ignoriert. Metall kann man nicht fressen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|65183",
+      "en": "Vielleicht sollten wir Fai Dan darüber informieren, dass es noch andere Überlebende gibt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|65184",
+      "en": "Wir sollten wohl Fai Dan von den anderen erzählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|65185",
+      "en": "Sollten wir Fai Dan nicht eine Information bezüglich der anderen Überlebenden zukommen lassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|65186",
+      "en": "Fai Dan sollte von den anderen Überlebenden erfahren. Er ist schließlich der örtliche Vorsteher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|65187",
+      "en": "Als Vorsteher sollte Fai Dan von den anderen Überlebenden erfahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73430",
+      "en": "Was ist das? Das kann kein infizierter Mensch sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73431",
+      "en": "Jawohl, Commander. Befehl wird ausgeführt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73432",
+      "en": "Alles klar, Commander. Kann losgehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73433",
+      "en": "Befehl verstanden, Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73434",
+      "en": "Wie Sie meinen, Commander. Gehen wir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73435",
+      "en": "Ganz wie Sie wünschen, Commander Shepard. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73437",
+      "en": "Warten Sie. Was ist mit diesen Nervengasgranaten? Können wir nicht damit die Kolonisten außer Gefecht setzen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73438",
+      "en": "Schon klar. Aber was ist mit den Nervengasgranaten, die wir mit Baynham zusammengebastelt haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73439",
+      "en": "Stellen die Nervengasgranaten von Dr. Baynham keine adäquate Alternative dar?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73440",
+      "en": "Wir haben doch die Nervengasgranaten von Dr. Baynham. Sollten wir nicht lieber die einsetzen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73441",
+      "en": "Könnten wir nicht die Nervengasgranaten verwenden, um die Kolonisten zur Räson zu bringen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73443",
+      "en": "Wie Sie meinen, Commander. Ihr Wort hat Vorrang vor jeder Meinung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73444",
+      "en": "In Ordnung. Schade, dass es nicht anders geht. Die Leute können ja nichts dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73445",
+      "en": "Ein bedauerlicher Umstand. Aber wenn Sie es für nötig halten, werden wir es so handhaben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73446",
+      "en": "Sehr wohl. Bedauerlich, aber es ist ja Ihre Entscheidung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73447",
+      "en": "Eine Tragödie, dass es keinen anderen Weg geben soll. Sie sind nicht frei in ihren Entscheidungen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73448",
+      "en": "Was zum Teufel war das? Ich habe keine Ahnung, was diese Pflanze mit den Leuten macht, aber das war kein Mensch!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73449",
+      "en": "Keinerlei Infektion hat das Potenzial, einen Menschen so zu verändern. Das ist ein absolut unbekanntes Phänomen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73450",
+      "en": "Was war das für eine Kreatur? Ganz sicher kein Mensch ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73451",
+      "en": "Dieses Wesen war kein Kolonist. Diese Veränderung war keine Folge einer Infektion.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73453",
+      "en": "Die Kolonisten dürfen keinen Schaden nehmen. Auch wenn der Thorianer sie zum Angriff auf uns zwingt. Dafür haben wir die Gasgranaten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73454",
+      "en": "Feuern Sie zurück, wenn es sein muss. Aber versuchen Sie, die Verluste auf ein Minimum zu reduzieren. Die Leute können ja nichts dafür. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73455",
+      "en": "Ich will eine Säuberungsaktion. Lassen Sie keine potenziellen Feinde am Leben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73457",
+      "en": "In Ordnung. Versuchen Sie, die Kolonisten zu verschonen. Aber verlieren Sie nie unser Missionsziel aus den Augen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73458",
+      "en": "Wir können unsere Zeit nicht mit diesen Leuten verschwenden. Die ganze Galaxie ist in Gefahr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73461",
+      "en": "Vorsicht. Auf die Kolonisten aufpassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73462",
+      "en": "Kolonisten bitte verschonen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73463",
+      "en": "Alles auslöschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73465",
+      "en": "Aber kein Risiko eingehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|73466",
+      "en": "Das Risiko ist zu groß.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76485",
+      "en": "Sie verteidigen ganz offensichtlich die Borealis. Wir müssen eines der Frachtmodule beiseite schaffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76486",
+      "en": "Es wimmelt von ihnen bei der Borealis. Wenn wir ein Frachtmodul wegschieben, werden wir ja sehen, was da alles rauskrabbelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76487",
+      "en": "Sie beschützen ganz offensichtlich die Borealis. Wir müssen eines der Frachtmodule beiseite schaffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76488",
+      "en": "Es ist offensichtlich, dass sie das Schiff beschützen wollen, Commander. Wir müssen eines der Frachtmodule beiseite schaffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76489",
+      "en": "Sie sind entschlossen, uns vom Schiff fern zu halten. Wir müssen eines der Frachtmodule beiseite schaffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76491",
+      "en": "Da ist der Kran. Können Sie ihn steuern, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76492",
+      "en": "Das ist die Kransteuerung, Commander. Beherrschen Sie diese Funktionalität?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76493",
+      "en": "Das ist die Kransteuerung, Commander Shepard. Beherrschen Sie diese Funktionalität?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76494",
+      "en": "Sehen Sie mal dort, Commander. Können Sie die Steuerung nachvollziehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|76495",
+      "en": "Da ist das Ziel, Shepard. Können Sie die Steuerung nachvollziehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|77150",
+      "en": "Sie haben um die Borealis herum Stellung bezogen. Wenn wir oben sind, muss eines der Frachtmodule weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|77151",
+      "en": "Sie lungern da oben bei der Borealis rum. Wenn wir oben sind, muss eines der Frachtmodule weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|77152",
+      "en": "Die Kolonistengruppe ist um die Borealis herum versammelt. Es könnte schwierig werden, eines der Frachtmodule zu entfernen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|77153",
+      "en": "Sie haben um die Borealis herum Stellung bezogen. Wenn wir oben sind, muss eines der Frachtmodule weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war20_trigger_D|77154",
+      "en": "Sie harren bei der Borealis aus. Sobald wir oben angekommen sind, sollten wir eines der Frachtmodule bewegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60771",
+      "en": "Die Letzten gingen nach Süden. Wonach suchen die?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60772",
+      "en": "Wir empfangen ein Komm-Signal. Es ist schwach, aber da draußen ist definitiv irgendwer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60773",
+      "en": "Ich habe hier ein Komm-Signal. Es ist zu schwach, um es zu lokalisieren, aber da ist definitiv jemand.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60774",
+      "en": "Wir empfangen ein schwaches Komm-Signal. Ich kann es aufgrund der Störungen nicht lokalisieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60775",
+      "en": "Ich empfange ein Komm-Signal. Es ist zu schwach, um es zu orten, aber hier ist definitiv noch jemand.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60776",
+      "en": "Wir empfangen ein schwaches Komm-Signal. Ich kann es aufgrund der Störungen der Geth nicht lokalisieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60778",
+      "en": "Da ist noch mehr, Commander Shepard. Ich kann es immer noch nicht orten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60779",
+      "en": "Da ist noch mehr, Commander, aber ich kann es noch nicht orten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60780",
+      "en": "Mehr Kommunikation, Commander, aber der Sender lässt sich nicht lokalisieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60781",
+      "en": "Da kommt noch was rein, Commander, immer noch keine Position.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60782",
+      "en": "Mehr Signale, Commander. Immer noch keine Position.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60783",
+      "en": "Passiert da was? Lizbeth könnte noch da drin sein. Es ist erst einige Tage her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60785",
+      "en": "Sie ist meine Tochter. Ich warte, so lange ich muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60787",
+      "en": "Da passiert etwas ... da ist eine Art Fahrzeug. Keins der Geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60788",
+      "en": "Sie können uns sehen. Wir müssen in der Nähe sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60789",
+      "en": "Die interessieren uns nicht. Wir müssen die Geth finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60791",
+      "en": "Sollten wir uns nicht lieber Sorgen wegen der Geth machen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60792",
+      "en": "Vergessen Sie sie. Wir müssen uns um die Geth kümmern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60793",
+      "en": "Wir müssen uns zuerst um die Geth kümmern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60794",
+      "en": "Die Geth haben oberste Priorität.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60795",
+      "en": "Sie haben uns gesehen. Sie müssen in der Nähe sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60796",
+      "en": "Offenbar haben sie uns entdeckt. Sie sind ganz in der Nähe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60797",
+      "en": "Sie müssen nah genug sein, um uns zu sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60798",
+      "en": "Wo immer das herkommt, sie müssen uns sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60800",
+      "en": "Sie kommen direkt auf uns zu. Verdammt! Ist die Komm geschützt? So ein Mist...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60801",
+      "en": "Wir haben sie alarmiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60802",
+      "en": "Wir scheinen für einige Aufregung zu sorgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60803",
+      "en": "Das ist ihnen nicht entgangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60804",
+      "en": "Das ist ihnen offenbar nicht entgangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60805",
+      "en": "Nun, wir werden sie jedenfalls nicht überraschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|60807",
+      "en": "Es bewegt sich von uns weg auf das ExoGeni-Hauptquartier zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|77157",
+      "en": "Weiter zu WAR40(Flüchtlingslager) oder WAR50(ExoGeni-Gebäude/Geth-Basis)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|77158",
+      "en": "WAR40 (Flüchtlingslager)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|77159",
+      "en": "WAR50(ExoGeni-Gebäude/Geth-Basis)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|77160",
+      "en": "WAR40 (Flüchtlingslager)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|77161",
+      "en": "WAR50(ExoGeni-Gebäude/Geth-Basis)",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|103324",
+      "en": "Vergessen Sie sie. Wir müssen die Geth finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|103325",
+      "en": "Diese Narren erwartet eine unangenehme Überraschung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|103986",
+      "en": "... irgendjemand. Hört mich irgendjemand?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|103987",
+      "en": "Gehen Sie von dem Funkgerät weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|103988",
+      "en": "[knister] Hier ist Juliana Baynham von der Feros-Kolonie. Bitte helfen Sie uns ... [knister]",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|103989",
+      "en": "Das ist meine Mutter. Stopp. Halten Sie an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|120019",
+      "en": "Das ist meine Mutter!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_radiochatter_D|120020",
+      "en": "Worum ging es denn da?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_trig_deadguys_D|151488",
+      "en": "Wir haben die Station erreicht. Keine Feinde in Sicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_trig_deadguys_D|151489",
+      "en": "Dafür schulden Sie uns was. Auf dem Skyway wimmelt es von Geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_trig_deadguys_D|151490",
+      "en": "Das Paket ist gesichert. Wir gehen jetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR40V_00_DSG_LOC|war40_trig_deadguys_D|151491",
+      "en": "Warten Sie, schalten Sie das Komm ab! Geth kommen auf uns zu! Mist, schalten Sie das Komm ab!",
+      "tr": ""
+    }
+  ]
+}

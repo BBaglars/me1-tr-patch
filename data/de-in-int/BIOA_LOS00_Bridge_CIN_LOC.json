@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "package": "BIOA_LOS00_Bridge_CIN_LOC_INT.pcc",
+    "stem": "BIOA_LOS00_Bridge_CIN_LOC",
+    "textLang": "DE",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|31483",
+      "en": "Verteidigungssysteme aktivieren! Station abriegeln!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|31484",
+      "en": "Die Stationsarme bewegen sich nicht! Das System reagiert nicht!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|31485",
+      "en": "Die Citadel verlassen! Den Rat evakuieren!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|99878",
+      "en": "Massenportale öffnen. Die Flotte braucht Verstärkung!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|99879",
+      "en": "Die Portale reagieren nicht! Sie sind blockiert! Jemand hat die Steuerung über alle Systeme übernommen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|134985",
+      "en": "Citadel-Kontrolle! Citadel-Kontrolle! Hören Sie mich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|134986",
+      "en": "Wir werden hier draußen angegriffen! Warum antworten Sie nicht? Citadel-Kontrolle? Citadel-Kontrolle! ",
+      "tr": ""
+    }
+  ]
+}

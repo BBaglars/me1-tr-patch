@@ -1,0 +1,2775 @@
+{
+  "meta": {
+    "package": "BIOA_STA30_02A_DSG_LOC_INT.pcc",
+    "stem": "BIOA_STA30_02A_DSG_LOC",
+    "textLang": "DE",
+    "sets": 4
+  },
+  "entries": [
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta00_popup_text_D|145642",
+      "en": "Sie müssen mit dem Rat reden, um Zugang zu den Bezirken zu erhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta00_popup_text_D|148499",
+      "en": "Der Keeper-Scan wurde in die Datenbank übertragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta00_popup_text_D|148500",
+      "en": "Sie verfügen nicht über die korrekte Schlüsselkarte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta00_popup_text_D|163019",
+      "en": "Warnen Sie die Quarianerin, bevor es zu spät ist!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83602",
+      "en": "Ja, Commander? Was kann ich für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83603",
+      "en": "Vor etwa zwanzig Jahren. Ich war Teil einer Mission im skyllianischen Randsektor. Ich arbeitete zu der Zeit mit Saren zusammen. Wir sollten einen Terroristenring aufspüren und vernichten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83604",
+      "en": "Saren hat das Ziel eliminiert. Aber es gab viele Opfer dabei. Unschuldige Zivilisten. Davon stand später natürlich nichts in den offiziellen Berichten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83605",
+      "en": "Aber ich hatte gesehen, wie er operiert. Ohne Gewissen. Ohne Zögern. Er würde ohne zu zögern tausende Zivilisten sterben lassen, um einen Krieg zu beenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83607",
+      "en": "Sehr richtig. Ich weiß, wie es läuft, Commander. Manchmal ist man gezwungen, unbequeme Entscheidungen zu treffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83608",
+      "en": "Aber nur, wenn es keine andere Möglichkeit gibt. Saren hat nicht einmal nach einer anderen Option geschaut. Er ist krank. Wahnsinnig. Er liebt die Gewalt und das Töten. Und er weiß, seine Spuren zu verbergen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83611",
+      "en": "Er ist nur frustriert. Der Rat wird nicht müde zu betonen, dass wir Teil der galaktischen Gemeinschaft sind. Allerdings mit vielen Pflichten und wenig Rechten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83612",
+      "en": "Sie verlangen von uns, dass wir unsichere Gebiete wie den Skyllianischen Randsektor und die Attika-Traverse besiedeln. Aber wenn es Ärger gibt, dürfen wir keine Hilfe von ihnen erwarten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83613",
+      "en": "Es ist allgemein bekannt, dass es nur eine Frage der Zeit ist, bis wir einen ständigen Sitz im Rat bekommen. Und der Botschafter ist der Meinung, dass dies bereits überfällig ist. Ich teile übrigens seine Meinung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83614",
+      "en": "Aber natürlich, kein Problem! Wenn wir alles täten, was sie von uns verlangen, würden wir sofort einen Sitz im Rat bekommen. Allerdings wäre das ein schlechtes Geschäft für uns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83616",
+      "en": "Ich kann ihre Seite ja verstehen. Sie wollen nicht, dass wir den Rat dominieren. Der Rat basiert schließlich auf Kooperation und Bündnissen. Aber wir müssen auch an unsere eigenen Interessen denken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83617",
+      "en": "Wenn der Rat eine Verfügung hinsichtlich interstellarer Angelegenheiten erlässt, müssen wir dem folgen. Wir verfügen nicht über die Flottengröße oder politische Verbündete, um uns zu widersetzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83618",
+      "en": "Wenn wir einen ständigen Sitz im Rat hätten, könnten wir Einfluss auf solche Verfügungen nehmen. Kurz gesagt: Wir würden nicht einfach mehr nach ihrer Pfeife tanzen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83625",
+      "en": "Er ist der Blutegel der galaktischen Politik. Der Kauf und Verkauf von Informationen ist Teil des politischen Spiels. Und der Shadow Broker ist der beste Spieler von allen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83626",
+      "en": "Er verkauft immer an den höchsten Bieter. Und er lässt sich nie persönlich involvieren. Er ergreift niemals Partei. Ein einfaches System. Aber es funktioniert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83627",
+      "en": "Er stellt keine Bedrohung dar. Zumindest keine direkte. Er ist nur eine Informationsquelle für alle. Oder sie ist es. Oder sie alle. Keiner kennt die wahre Identität.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83635",
+      "en": "Der Kerl ist vor zwanzig Jahren dem Citadel-Sicherheitsdienst beigetreten. Und seitdem hat er unser Volk ein ums andere Mal blamiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83636",
+      "en": "Er misshandelt Gefangene, besticht Zeugen, nimmt Alkohol und Drogen. Die Botschaft hat sich immer vor ihn gestellt, aber jetzt war das Maß wohl voll. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83637",
+      "en": "Er war einer der ersten menschlichen Offiziere bei der Citadel-Sicherheit. Es wäre wohl peinlich gewesen, ihn zu feuern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83638",
+      "en": "Es wurden eine Menge hässlicher Deals ausgehandelt, um ihn im Dienst zu halten. Politik kann manchmal ein richtig dreckiges Geschäft sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83639",
+      "en": "Aber seine Zeit scheint endlich gekommen zu sein. Es sind jetzt genug Menschen in der Citadel-Sicherheit. Er muss nicht mehr gedeckt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83640",
+      "en": "Harkin ist zwar ein Mensch, aber auch ein großes Arschloch. Er hatte mehr als genug Chancen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83641",
+      "en": "Wenn die Botschaft ihn nicht gedeckt hätte, wäre er schon vor fünfzehn Jahren gefeuert worden. Der Citadel-Sicherheitsdienst hat keine Verwendung mehr für ihn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83642",
+      "en": "Barla ist ein Experte im Verschieben von großen Geldmengen - ohne eine Spur zu hinterlassen. Er ist ein Finanzgenie. Er macht nichts ausdrücklich Illegales. Aber er kennt alle Schlupflöcher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83643",
+      "en": "Seine Kundenliste ist beeindruckend: Botschafter, Diplomaten und so weiter. Vermutlich deswegen hat der Shadow Broker mit ihm gearbeitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83655",
+      "en": "Sie kennen Saren schon länger. Was ist passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83659",
+      "en": "Manchmal müssen Tausend sterben, damit Millionen leben können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83660",
+      "en": "Das Töten von Unschuldigen beendet keine Kriege. Es verursacht sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83664",
+      "en": "Unser Botschafter scheint Probleme mit dem Rat zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83667",
+      "en": "Vielleicht würden sie uns den Sitz eher gewähren, wenn wir mehr mit den anderen Völkern kooperieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83670",
+      "en": "Was ist so wichtig daran, einen ständigen Sitz im Rat zu bekommen? Wozu die ganze Aufregung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83673",
+      "en": "Ich möchte mehr über die Spectres erfahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83678",
+      "en": "Erzählen Sie mir mehr vom Shadow Broker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83681",
+      "en": "Ich muss jetzt gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83687",
+      "en": "Sie scheinen nicht besonders viel von Harkin zu halten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83689",
+      "en": "Er ist ein schmieriger Mistkerl. Man hätte ihn schon vor langer Zeit außer Gefecht setzen sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83692",
+      "en": "Ich dachte, die Aufgabe der Botschaft sei, allen Menschen zu helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83694",
+      "en": "Erzählen Sie mir bitte mehr über Barla Von.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83712",
+      "en": "Harkin",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83713",
+      "en": "Barla Von",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83719",
+      "en": "Er wurde gedeckt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83720",
+      "en": "Sie lassen ihn fallen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83733",
+      "en": "Sie und Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83734",
+      "en": "Rat und Botschafter",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83735",
+      "en": "Spectres",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83736",
+      "en": "Shadow Broker",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83737",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83741",
+      "en": "Ich auch!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83742",
+      "en": "Er ist ein Monster.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83748",
+      "en": "Wir sind zu unabhängig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|83749",
+      "en": "Wozu ein Sitz?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84353",
+      "en": "Ich wusste, dass er Ärger machen würde. Aber Harkin ist nicht so clever, wie er denkt. Ich war niemals ein Spectre. Nicht direkt jedenfalls.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84354",
+      "en": "Der Rat schickte Saren, um mich zu beobachten und meine Leistung zu bewerten. Genauso wie er Nihlus geschickt hat, um Sie im Auge zu behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84355",
+      "en": "Ich bin nicht stolz auf diese Geschichte. Ich hatte die Chance, der erste menschliche Spectre zu werden, und bin gescheitert. Dafür hat Saren gesorgt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84356",
+      "en": "Kommen Sie einfach zur mir, wenn Sie Fragen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84358",
+      "en": "Ich habe Ihnen vertraut. Und Sie haben mich verraten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84359",
+      "en": "Ich glaube, ich habe ein Recht, die ganze Geschichte zu erfahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84361",
+      "en": "Harkin hat Ihr kleines Geheimnis verraten. Er hat mir erzählt, dass Sie ein Spectre waren!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84362",
+      "en": "Sie waren ein Spectre!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84364",
+      "en": "Sie haben mich angelogen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|84365",
+      "en": "Was ist passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85257",
+      "en": "Es erinnert mich an die Situation vor zwanzig Jahren. Damals war Botschafterin Goyle unsere Repräsentantin hier auf der Citadel. Und wie Udina wollte auch sie, dass ein Mensch bei den Spectres aufgenommen wird. Sie hatte mich dafür vorgesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85258",
+      "en": "Wir hatten Informationen über einen abtrünnigen Wissenschaftler, der von den Batarianern unterstützt wurde. Er wollte draußen im Randsektor eine Anlage bauen und illegale KI-Technologie entwickeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85259",
+      "en": "Wir fanden ihn in einer Raffinerie auf Camala. Er war irgendwo da drinnen, bewacht von einer Armee batarianischer Söldner.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85260",
+      "en": "Der Plan war einfach: Reinschleichen, den Wissenschaftler holen und wieder rausschleichen. Schnell, leise und ohne unnötiges Blutvergießen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85261",
+      "en": "Saren und ich trennten uns, um die Suche auszuweiten. Und irgendwann gab es dann diese mächtige Explosion im Raffineriekern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85265",
+      "en": "Von offizieller Seite wurde sie als Unfall deklariert. Aber ich denke, Saren hat diese Explosion ausgelöst, um die feindlichen Wachen abzulenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85266",
+      "en": "Die Explosion hat die Raffinerie in Stücke gerissen. Es stand alles in Flammen. Schwarze Chemierauchwolken stiegen auf. Drinnen gab es keine Überlebenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85267",
+      "en": "Ganz in der Nähe gab es ein Lager für die Arbeiter und ihre Familien. Durch das Feuer und diese Giftwolken starben mehr als fünfhundert Leute. Fast alle waren Zivilisten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85268",
+      "en": "Saren war es egal. Das Ziel war eliminiert. Mission erfüllt. Aber mir hat man die Schuld gegeben. Danach wollte niemand mehr, dass ich zu den Spectres gehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85269",
+      "en": "In seinem Bericht behauptete Saren, ich hätte seine Tarnung auffliegen lassen. Er sagte, es wäre meine Schuld gewesen, dass uns die Wachen erwartet hatten. Dass es aus diesem Grund zu einem Massaker geworden war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85270",
+      "en": "Sarens Bericht reichte dem Rat, und meine Chancen, jemals ein Spectre zu werden, waren dahin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85271",
+      "en": "Nein, ich werfe es Saren vor. Ich denke, er wollte, dass die Dinge außer Kontrolle geraten. Er suchte nach einem Grund, um diese Raffinerie in die Luft zu jagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85273",
+      "en": "Vielleicht findet er einfach Gefallen an Gewalt. Vielleicht wollte er mich nur schlecht aussehen lassen, damit ich nicht bei den Spectres aufgenommen werde. Jedenfalls hat es funktioniert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85274",
+      "en": "Wem, glauben Sie, würde der Rat mehr Glauben schenken. Mir? Oder seinem besten Agenten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85275",
+      "en": "Ich hatte von Anfang an ein ungutes Gefühl dabei. Ich hätte vorsichtiger sein sollen. Vielleicht hätte ich eingreifen können, bevor alles außer Kontrolle geriet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85276",
+      "en": "Sie haben Recht, Commander. Die Vergangenheit hilft uns nicht weiter. Wir müssen uns um Sarens aktuelle Verbrechen kümmern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85278",
+      "en": "Warum haben Sie mir nicht die Wahrheit gesagt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85287",
+      "en": "Klingt nach einer Überreaktion.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85290",
+      "en": "Aber Saren hat doch die Explosion verursacht. Warum gab man Ihnen die Schuld?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85292",
+      "en": "Sie müssen sich keine Vorwürfe machen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85295",
+      "en": "Warum haben Sie ihn damit davonkommen lassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85297",
+      "en": "Das Einzige, was jetzt zählt, ist, Saren aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85298",
+      "en": "Ich will die Wahrheit über Sie und Saren erfahren. Ich möchte etwas über die Mission hören, die Sie damals gemeinsam unternommen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85299",
+      "en": "Sie haben für die Spectres gearbeitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85301",
+      "en": "Warum so geheim?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85302",
+      "en": "Das ist egal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85313",
+      "en": "Eine extreme Maßnahme",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85316",
+      "en": "Ihre Schuld?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85319",
+      "en": "Das war nicht Ihre Schuld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85320",
+      "en": "Das ist nicht fair!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85321",
+      "en": "Vergessen Sie die Vergangenheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|85325",
+      "en": "Vergessen Sie die Vergangenheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87470",
+      "en": "Ja, Commander? ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87472",
+      "en": "Aber Sie sind der Einzige, der Saren aufhalten kann. Ich glaube an Sie, Shepard. Wenn das bedeutet, dass ich abdanken muss, tue ich es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87476",
+      "en": "Wie geht es Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87477",
+      "en": "Was können Sie mir über Noveria erzählen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87478",
+      "en": "Können Sie mir Informationen über unsere Kolonie auf Feros geben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87479",
+      "en": "Was wissen Sie über den Artemis-Tau-Cluster?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87480",
+      "en": "Wissen Sie etwas über Virmire?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87485",
+      "en": "Alles in Ordnung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87486",
+      "en": "Noveria",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87487",
+      "en": "Feros",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87488",
+      "en": "Artemis-Tau- Cluster",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|87489",
+      "en": "Virmire",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93807",
+      "en": "Wo haben Sie den Namen gehört? Ist auch egal ... Ich will es eigentlich gar nicht wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93810",
+      "en": "Banes ist tot. Und zwar schon ziemlich lange.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93815",
+      "en": "Ich weiß nicht viel darüber. Sie sollten mit Admiral Kahoku sprechen. Eine seiner Crews hat Banes Leiche entdeckt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93816",
+      "en": "Ich hörte, dass er im Turm sein soll, um den Rat zu überzeugen, Banes Tod zu untersuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93818",
+      "en": "Wenn Sie ihn wieder treffen, sollten Sie Banes erwähnen. Bin gespannt, was er Ihnen erzählen wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93819",
+      "en": "Kann ich noch etwas für Sie tun, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93820",
+      "en": "Wo kann ich Admiral Kahoku finden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93821",
+      "en": "Was können Sie mir über Armistan Banes erzählen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93825",
+      "en": "Die Leute, mit denen ich gesprochen habe, scheinen zu glauben, dass er noch lebt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93830",
+      "en": "Können Sie mir sagen, wo ich ihn finde?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93832",
+      "en": "Ich kümmere mich vielleicht später darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93834",
+      "en": "Ich habe bereits mit Kahoku gesprochen. Aber über diese Sache hat er nichts gesagt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93836",
+      "en": "Kahoku.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93838",
+      "en": "Banes?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93842",
+      "en": "Sicher?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93843",
+      "en": "Das ist seltsam.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93848",
+      "en": "Wo finde ich ihn?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93849",
+      "en": "Jetzt nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|93850",
+      "en": "Ich traf ihn bereits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94457",
+      "en": "Die Kolonie wurde auf den Resten der protheanischen Gebäude gegründet. Nach dem Angriff der Geth haben wir den Kontakt verloren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94458",
+      "en": "Nicht viel. Ich war noch nie dort. Eine Handvoll Systeme mit ein paar nicht verzeichneten Welten - aber keine richtigen Kolonien.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94460",
+      "en": "Das könnte schwierig werden, Dr. T'soni dort zu finden. Ich rate Ihnen, die Welt mit den protheanischen Ruinen aufzusuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94461",
+      "en": "Tut mir Leid, Shepard. Von dem Ort habe ich vorher noch nie gehört. Da müssen Sie sich schon selbst ein Bild machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94462",
+      "en": "Auf Noveria gibt es immer Ärger. Das hat schon Tradition. Der ganze Planet ist praktisch eine Spielwiese für Unternehmen, die illegale Forschung betreiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94464",
+      "en": "Seien Sie dort extrem vorsichtig, Shepard. Die einzige Citadel-Autorität, die Noveria anerkennt, sind die Spectres - aber sie sind nicht gerade beliebt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|94465",
+      "en": "Der ganze Planet war einmal eine gigantische protheanische Stadt. Jetzt sind fast nur noch Ruinen übrig, aber ein Teil der Infrastruktur ist noch intakt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104411",
+      "en": "Viel Glück, Shepard. Sie finden mich im Büro des Botschafters, falls Sie noch was brauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104694",
+      "en": "Sie sind keine typische Regierungsabteilung. Sie arbeiten allein und meistens im Verborgenen. Sie kümmern sich um die Probleme, die der Rat nicht lösen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104695",
+      "en": "Es ist nicht ganz einfach, für Frieden in der gesamten Galaxis zu sorgen. Der Rat bevorzugt die Mittel der Diplomatie und der Verhandlungen. Aber manchmal reichen diese nicht aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104696",
+      "en": "Man kann sich nicht einfach für diesen Job bewerben. Es gibt kein Trainingsprogramm. Man wird nicht zum Spectre ausgebildet, sondern geboren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104697",
+      "en": "Der Rat ist immer auf der Suche nach außergewöhnlichen Persönlichkeiten. Leute, die einen Job erledigen können - wie Sie. Auch Sie stehen vielleicht schon seit Jahren unter Beobachtung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104698",
+      "en": "Sie haben Ihr Talent erkannt. Deshalb will man Sie für die Spectres haben. Nihlus sollte eine letzte Beurteilung über Sie abgeben. Aber jetzt ist er tot, und keiner weiß, wie es weitergeht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104699",
+      "en": "Es gibt keine Kommandostruktur. Jeder Spectre ist direkt dem Rat verantwortlich. Manchmal werden sie auf Spezialmissionen geschickt. Und manchmal agieren sie auf eigene Verantwortung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104700",
+      "en": "Sie operieren oft hart an der Grenze des Gesetzes. Sie tun alles, um ihr Ziel zu erreichen. Und der Rat stellt sich in diesen Fällen blind. Die Spectres haben viel Macht, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104701",
+      "en": "Das passiert nicht allzu häufig. Der Rat wählt die Kandidaten sehr umsichtig aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104702",
+      "en": "Aber wenn etwas schiefläuft, gibt es üblicherweise nur eine Lösung: Sie senden einen anderen Spectre, um den außer Kontrolle geratenen Agenten auszuschalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104703",
+      "en": "Die ganze Organisation ist hoch geheim. Wir wissen noch nicht einmal, wie viele es von ihnen gibt. Nach neuester Schätzung der Allianz sind es weniger als Hundert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104704",
+      "en": "Aber der Rat ist auf sie angewiesen. Sie sind die Top-Agenten des Rates. Sie sind die Schlüsselfiguren in Krisenfällen. Die letzte Option vor einem offenen Krieg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104705",
+      "en": "Die gesamte Galaxie hat Angst und Respekt vor ihnen. Wo immer ein Spectre auftaucht, passiert irgendetwas von großer Bedeutung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104706",
+      "en": "Nehmen wir zum Beispiel einmal die aktuelle Situation: Wenn die Menschen einen Sitz im Rat hätten, würden wir einfach die Citadel-Flotte entsenden, um mit Saren und den Geth fertig zu werden. Und schon wäre das Problem gelöst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104708",
+      "en": "Wie legen sie fest, wer ein Spectre werden kann?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104711",
+      "en": "Wie sieht die Kommandostruktur aus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104713",
+      "en": "Was passiert, wenn ein Spectre außer Kontrolle gerät? So wie Saren ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104715",
+      "en": "Das klingt sehr nach einem Geheimdienst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104719",
+      "en": "Wie wird man ein Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104720",
+      "en": "Wie sind sie organisiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104721",
+      "en": "Und wenn einer zu weit geht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104722",
+      "en": "Ist das alles legal?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104729",
+      "en": "Weil es nicht allgemein bekannt ist. Das Militär hat die Sache unter Verschluss gehalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104730",
+      "en": "Banes hatte einen hoch geheimen Job für die Allianz erledigt. Nicht einmal ich wusste davon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104731",
+      "en": "Und eines Tages fand man ihn tot an Bord eines Spähschiffes. Jeder wusste, dass etwas faul an der Sache war. Aber es gab keine offizielle Untersuchung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104732",
+      "en": "Aber warum sprechen dann die Leute von ihm, als wäre er noch am Leben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104735",
+      "en": "Da wollte ganz sicher jemand etwas verbergen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104736",
+      "en": "Was können Sie mir über das Spähschiff erzählen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104737",
+      "en": "Ich glaube Ihnen nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104740",
+      "en": "Klingt verdächtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|104741",
+      "en": "Spähschiff",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106165",
+      "en": "Es geht so. So hatte ich mir mein Karriereende nicht vorgestellt. Dieser Papierkram geht mir auf die Nerven.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106166",
+      "en": "Sie haben Recht, Commander. Die Vergangenheit hilft uns nicht weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106168",
+      "en": "Erzählen Sie mir, was sich vor zwanzig Jahren zwischen Ihnen und Saren abgespielt hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106169",
+      "en": "Sie kennen Saren schon länger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106467",
+      "en": "Harkin betrinkt sich wahrscheinlich gerade in Choras Nest. Ein etwas fragwürdiger Club in der unteren Ebene der Zivilbezirke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106468",
+      "en": "Es könnte trotzdem nicht schaden, mit ihm zu sprechen. Aber seien Sie vorsichtig. Man kann sich nicht auf ihn verlassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106469",
+      "en": "Sie sollten mit Barla Von sprechen. Sie finden ihn im Finanzbezirk. Man sagt, dass er für den Shadow Broker arbeiten soll.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106470",
+      "en": "Shadow Broker?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106471",
+      "en": "Ein Informationshändler. Er kauft und verkauft Informationen an die Höchstbietenden. Ich habe gehört, dass Barla Von einer seiner Top-Mitarbeiter sein soll.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106472",
+      "en": "Vielleicht weiß er etwas über Saren. Aber diese Information dürfte nicht billig sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106473",
+      "en": "Sie sagten doch, dass er ein nutzloser Säufer sei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106474",
+      "en": "Vielleicht gibt es noch andere Möglichkeiten, Saren etwas nachzuweisen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106478",
+      "en": "Andere Spuren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106479",
+      "en": "Soll ich zu ihm gehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|106480",
+      "en": "Andere Spuren",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|127805",
+      "en": "Die Allianz hatte schon fast alles erledigt, aber der Rat wollte, dass ein Spectre sich die Sache ansieht. Wir schlossen einen Kompromiss: Ich bekam den Auftrag, Saren bei seinen Nachforschungen zu unterstützen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143702",
+      "en": "Das war nicht einfach nur ein Ablenkungsmanöver, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143703",
+      "en": "Klingt, als wäre es nicht nach Plan verlaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143704",
+      "en": "Gab es dabei viele Opfer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143705",
+      "en": "Keine schlechte Idee. Ein gutes Ablenkungsmanöver.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143707",
+      "en": "Aber etwas ging schief?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143708",
+      "en": "Wurde jemand verletzt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|143709",
+      "en": "Guter Plan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|158312",
+      "en": "Das ist nicht fair!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_captain_D|158313",
+      "en": "Es war nicht Ihre Schuld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83760",
+      "en": "Kroganer auf Virmire? Schwer zu glauben, Commander. Gut, dass die Salarianer da waren, um Ihren Bericht zu stützen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83764",
+      "en": "Da haben Sie Recht. Ich will auch keine telepathischen Rieseninsekten in meiner Galaxis haben. Aber Sie hätten etwas diskreter sein können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83765",
+      "en": "Ich kann's nicht glauben, dass Sie die Königin am Leben ließen. Es gibt einen Grund dafür, dass diese Spezies fast völlig ausgelöscht wurde. Sie hätten sie vernichten müssen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83766",
+      "en": "Wirklich? Ich wusste nicht, dass Sie ein Experte für eine Spezies sind, von der wir alle so gut wie nichts wissen. Ich hoffe, dass wir in fünfzig Jahren überprüfen können, ob Sie Recht hatten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83768",
+      "en": "Sicher. Ich werde einfach allen sagen, dass wir es für eine gute Idee hielten, eine fortpflanzungsfähige Rachni-Königin in die Wildnis von Noveria zu entlassen. Damit hat doch bestimmt niemand ein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83769",
+      "en": "Sie machen mir das Leben nicht leichter, Shepard. Kämpfe in den Bezirken? Ein Angriff auf Choras Nest? Wissen Sie, wie viele ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83771",
+      "en": "Das ist ein Skandal! Wäre eine turianische Kolonie angegriffen worden, würde der Rat reagieren!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83772",
+      "en": "Die Turianer gründen keine Kolonien am Rande des Terminus-Sektors, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83773",
+      "en": "Und Saren? Ein Spectre außer Kontrolle. Ich verlange eine entsprechende Reaktion!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83776",
+      "en": "Es steht Ihnen nicht zu, etwas vom Rat zu verlangen, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83780",
+      "en": "Wir werden uns in der nächsten Sitzung anhören, was die Citadel-Sicherheit zu den Anschuldigungen gegen Saren zu sagen hat. Aber nicht vorher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83781",
+      "en": "Captain Anderson. Sie haben ja Ihre halbe Crew mitgebracht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83783",
+      "en": "Sie waren nicht sehr glücklich. Saren ist ihr Top-Agent. Sie hören es nicht gern, dass er des Verrates beschuldigt wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83799",
+      "en": "Shepard, Sie und Ihre Crew können uns im Citadel-Turm treffen. Auf der obersten Ebene. Ich werde dafür sorgen, dass man Sie durchlässt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83806",
+      "en": "Ich habe Ihren Bericht über Feros gesehen. Wenn wir von dem Thorianer gewusst hätten, hätte ExoGeni nie die Erlaubnis erhalten, dort eine Kolonie zu gründen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83807",
+      "en": "Schade, dass Sie die Kolonie nicht retten konnten. Wir können uns in der Traverse keine großen Verluste leisten, das ist unsere wichtigste Expansionsregion.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83814",
+      "en": "Ein Glück, dass die Kolonie überlebt hat. Wir können uns in der Traverse nicht zu viele Fehlschläge erlauben. Das ist eine unserer bedeutendsten Expansionsregionen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83817",
+      "en": "Ich weiß, was da draußen im Artemis-Tau-Cluster passiert ist. Der Rat war nicht gerade begeistert über die Vernichtung der protheanischen Ruinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83823",
+      "en": "Ihr Bericht über Noveria hat für einige hochgezogene Augenbrauen gesorgt, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83824",
+      "en": "Ich weiß nicht, was komischer ist: Dass Sie eine Spezies entdeckt haben, die sie vor 2000 Jahren angeblich ausgelöscht hatten, oder ihre Reaktion auf die Nachricht, dass Sie dann den Job erledigt haben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83829",
+      "en": "Ich hatte keine andere Wahl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83830",
+      "en": "Die Rachni waren Monster. Ich konnte sie nicht am Leben lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83832",
+      "en": "Die Königin ist nicht wie die anderen. Sie ist nicht interessiert an Eroberungen oder Kriegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83834",
+      "en": "Sie waren nicht da, Botschafter. Es war meine Entscheidung. Ich habe das Richtige getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83886",
+      "en": "Alles zu seiner Zeit, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83887",
+      "en": "Ich allein habe den Thorianer vernichtet. Sie habe ich da nirgendwo gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83894",
+      "en": "An dem, was ich getan habe, ist nichts Komisches.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83912",
+      "en": "Das ist mein Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83913",
+      "en": "Wir? Sie waren nicht da.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83920",
+      "en": "Sie sind krank.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83921",
+      "en": "Es war notwendig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83922",
+      "en": "Sie mussten sterben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83926",
+      "en": "Keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|83927",
+      "en": "Es war meine Entscheidung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86585",
+      "en": "Ich war auf einer Pilgerreise - meinem Übergang in die Welt der Erwachsenen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86586",
+      "en": "Bei meinen Reisen habe ich Berichte über die Geth gehört. Seit sie mein Volk ins Exil getrieben haben, sind Geth immer im Nebel geblieben. Ich war neugierig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86587",
+      "en": "Ich verfolgte eine Geth-Patrouille zu einer nicht verzeichneten Welt. Dann wartete ich darauf, dass sich einer von seiner Einheit entfernt. Ich deaktivierte ihn und entfernte seinen Speicherkern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86588",
+      "en": "Mein Volk hat die Geth erschaffen. Mit etwas Geschick, Umsicht und Glück kann man manchmal kleine Datenspeicher sichern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86590",
+      "en": "Der Großteil des Kerns wurde gelöscht, aber es gelang mir, einen Teil des Audiospeichers zu retten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86599",
+      "en": "Davon habe ich ja noch nie gehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86601",
+      "en": "Wie ist es Ihnen gelungen, den Speicherkern zu erhalten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86614",
+      "en": "Pilgerreise?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86618",
+      "en": "Stimmt das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86730",
+      "en": "Eden Prime war ein bedeutender Sieg! Der Sender hat uns der Röhre einen Schritt näher gebracht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86896",
+      "en": "Mein Name ist Tali!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86897",
+      "en": "Die Pilgerreise beweist, dass wir uns für das Allgemeinwohl einbringen wollen. Was sagt es wohl über mich aus, wenn ich diese Sache ignoriere?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86898",
+      "en": "Saren ist eine Gefahr für die gesamte Galaxie. Meine Pilgerreise kann warten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86899",
+      "en": "Sie hat bereits eine Begegnung mit den Geth überlebt, Shepard. Und wir brauchen jede Hilfe, die wir kriegen können. Nehmen Sie sie mit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86902",
+      "en": "Vielen Dank. Sie werden es nicht bereuen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86905",
+      "en": "Ich dachte, Sie wären auf einer Pilgerreise?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86907",
+      "en": "Ich befürchte, dass das zu viel für Sie ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86912",
+      "en": "Mir ist jede Hilfe recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86916",
+      "en": "Was ist mit Ihrer Aufgabe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86917",
+      "en": "Sie sind nicht bereit dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|86918",
+      "en": "Schließen Sie sich uns an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87356",
+      "en": "Ich habe Neuigkeiten für Sie, Shepard. Captain Anderson gibt das Kommando über die Normandy ab. Das Schiff gehört jetzt Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87375",
+      "en": "Ich war vor zwanzig Jahren in Ihrer Situation, Shepard. Sie hatten mich als Spectre ausersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87376",
+      "en": "Was hätte ich denn sagen sollen? \"Ich war zu dumm, ein Spectre zu werden\"? Ich habe versagt, Commander. Und ich bin nicht gerade stolz darauf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87377",
+      "en": "Ich habe versagt. Ich hatte die Situation falsch eingeschätzt. Und ich bin nicht gerade stolz darauf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87379",
+      "en": "Fragen Sie mich später, dann erzähle ich Ihnen die ganze Geschichte. Vorerst müssen Sie nur wissen, dass ich zusammen mit Saren auf einer Mission war, und er dafür gesorgt hat, dass mich der Rat ablehnt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87394",
+      "en": "Warum haben Sie es nie erwähnt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87396",
+      "en": "Was ist damals geschehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87414",
+      "en": "Das haben Sie verschwiegen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|87415",
+      "en": "Was ist schief gegangen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103483",
+      "en": "Die Menschen waren sich der Gefahr sehr wohl bewusst, als sie die Traverse besiedelten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103484",
+      "en": "Nur das Landungsteam von Eden Prime. Falls Sie Fragen stellen möchten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103485",
+      "en": "Ich habe die Missionsberichte. Ich darf doch davon ausgehen, dass sie korrekt sind?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103486",
+      "en": "Natürlich. Ist es Ihnen gelungen, eine Anhörung vor dem Rat zu arrangieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103487",
+      "en": "Commander. Sie haben schon mehr als genug getan, um Ihre Kandidatur als Spectre zu gefährden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103489",
+      "en": "Das ist Sarens Schuld, nicht ihre!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103490",
+      "en": "Das ist Sarens Schuld, nicht seine!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103491",
+      "en": "Dann wollen wir hoffen, dass die Citadel-Sicherheits-Untersuchung Beweise für unsere Anschuldigungen findet. Ansonsten könnte der Rat die Sache als Ausrede nutzen, Sie aus den Rängen der Spectres rauszuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103492",
+      "en": "Kommen Sie, Captain. Ich möchte ein paar Dinge vor der Anhörung besprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103493",
+      "en": "Und genau darum hasse ich diese Politiker so.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103498",
+      "en": "Saren ist eine Bedrohung für alle menschlichen Kolonien. Wenn sie ihn nicht stoppen wollen, werde ich es tun!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|103513",
+      "en": "Es ist die Wahrheit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105941",
+      "en": "Sie ist schnell und leise, und Sie kennen die Crew. Das perfekte Schiff für einen Spectre. Behandeln Sie sie gut, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105942",
+      "en": "Wir können nicht alle Helden sein und die Galaxis retten, Commander. Jeder dient der Menschheit auf seine Weise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105943",
+      "en": "Der interstellaren Politik kann man nicht entkommen, sie gehört einfach dazu. Und das ist manchmal nicht sehr schön.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105944",
+      "en": "Manchmal beneide ich Sie, Commander. Sie fliegen durch die Galaxis, tun, was Sie wollen, und machen sich keine Sorgen über die Konsequenzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105945",
+      "en": "Nein, das überlassen Sie mir. Ich muss alles in Betracht ziehen, und das ist nicht immer so einfach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105946",
+      "en": "Ignorieren Sie ihn einfach, Shepard. Der Botschafter ist manchmal ein wenig verbittert. Das gehört zum Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105947",
+      "en": "Das ist kein Spiel, Botschafter. Commander Shepard versucht da draußen zu verhindern, dass Saren die Galaxis zerstört!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105948",
+      "en": "Ich weiß, ich weiß. Seien Sie einfach etwas vorsichtiger. Der Rat beobachtet Sie. Und wir werden alle anhand Ihres Benehmens beurteilt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105949",
+      "en": "Entspannen Sie sich, Shepard. Sie haben das Richtige getan. Ich will auch keine telepathischen Rieseninsekten in der Galaxis haben. Sie hätten nur etwas diskreter sein können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105950",
+      "en": "Der Rat wirft mit Worten wie \"Genozid\" um sich. Ich muss ihn beruhigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105951",
+      "en": "Der Genozid einer kompletten Spezies ist eine Tragödie, Botschafter. Shepard hat das Richtige getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105952",
+      "en": "Wer ist das? Eine Quarianerin? Was haben Sie vor, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105953",
+      "en": "Wirklich? Vielleicht fangen Sie lieber von vorn an, Miss ...?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105954",
+      "en": "Verzeihen Sie, Commander. Diese ganze Sache mit Saren setzt mir ziemlich zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105955",
+      "en": "Vielleicht fangen wir lieber von vorn an, Miss ...?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105956",
+      "en": "Mein Name ist Tali. Tali'Zorah nar Rayya.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105957",
+      "en": "Wir kriegen hier nur selten Quarianer zu sehen. Warum haben Sie die Flottille verlassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105958",
+      "en": "Es ist eine Tradition bei meinem Volk. Wenn wir erwachsen werden, lassen wir die Schiffe unserer Eltern und unseres Volkes zurück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105959",
+      "en": "Allein suchen wir nach den Sternen und kehren erst zur Flottille zurück, wenn wir etwas von Wert gefunden haben. So können wir beweisen, dass wir es wert sind, erwachsen zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105960",
+      "en": "Das können Ressourcen wie Nahrung oder Treibstoff sein, neue, nützliche Technologien oder Wissen, das der Flottille das Leben erleichtern kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105961",
+      "en": "Durch unsere Pilgerreise beweisen wir, dass wir etwas zur Gemeinschaft beitragen können und keine Last für unsere beschränkten Ressourcen sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105962",
+      "en": "Ich dachte, die Geth frieren ihren Speicherkern ein, wenn sie sterben. Eine Art Verteidigungsmechanismus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105963",
+      "en": "Und auch einen Schritt näher an die Rückkehr der Reaper.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105967",
+      "en": "Laut Speicherkerninformationen waren die Reaper ein hyperfortschrittliches Maschinenvolk, das vor 50.000 Jahren existierte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105968",
+      "en": "Die Reaper haben die Protheaner ausgelöscht, dann sind sie verschwunden. Zumindest glauben die Geth das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105969",
+      "en": "Klingt ziemlich weit hergeholt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105970",
+      "en": "Die Geth verehren die Reaper als Götter, als Gipfel des nichtorganischen Lebens. Und sie glauben, dass Saren weiß, wie man die Reaper zurückholen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105971",
+      "en": "Oh, das wird dem Rat gefallen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105972",
+      "en": "Wir müssen es ihnen sagen! Auch wenn sie es nicht glauben, so beweist es doch, dass Saren ein Verräter ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105973",
+      "en": "Was sie auch von dem Rest halten mögen: Diese Audio-Dateien beweisen, dass Saren ein Verräter ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105974",
+      "en": "Der Captain hat Recht. Wir werden es dem Rat vortragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105975",
+      "en": "Anderson und ich gehen voraus und bereiten beim Rat alles vor. Sie können sich kurz sammeln, dann treffen wir uns im Turm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105976",
+      "en": "Und was ist mit ihr? Der Quarianerin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105977",
+      "en": "Und was ist mit ihr? Der Quarianerin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105978",
+      "en": "Und was ist mit ihr? Der Quarianerin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105979",
+      "en": "Sie brauchen ein eigenes Schiff. Ein Spectre ist niemandem außer dem Rat Rechenschaft schuldig. Und es ist Zeit für mich, zurückzutreten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105980",
+      "en": "Ich hatte meine Chance, Shepard. Sie kam und ging. Jetzt haben Sie die Chance, meine Fehler wieder gutzumachen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105981",
+      "en": "Ich weiß, dass Sie das tun werden, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105982",
+      "en": "Saren ist weg. Versuchen Sie gar nicht erst, ihn zu finden. Aber wir wissen, was er will: die Röhre. Seine Geth suchen in der ganzen Traverse nach Hinweisen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105983",
+      "en": "Kurz bevor der Kontakt zu unserer Kolonie im Feros-System abbrach, wurden dort Geth gesichtet. Und sie sind auch in der Gegend von Noveria aufgetaucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105984",
+      "en": "Finden Sie heraus, was Saren auf Feros und Noveria gesucht hat. Vielleicht wissen Sie dann eher als er, wo die Röhre zu finden ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105985",
+      "en": "Da bin ich mit dem Rat einer Meinung, Shepard. Ich bin mir nicht mal sicher, dass sie existieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105986",
+      "en": "Aber wenn sie es tun, kann die Röhre sie wieder zurückbringen. Sorgen Sie dafür, dass Saren die Röhre nicht bekommt, und wir verhindern, dass die Reaper zurückkehren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105987",
+      "en": "Es gibt noch eine weitere Spur. Matriarchin Benezia, die andere Stimme auf der Aufzeichnung? Sie hat eine Tochter, eine auf die Protheaner spezialisierte Wissenschaftlerin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105988",
+      "en": "Wir wissen nicht, ob sie involviert ist. Aber vielleicht sollten wir sie suchen und selbst fragen. Vielleicht weiß sie etwas. Sie heißt Liara. Dr. Liara T'Soni.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105989",
+      "en": "Es ist Ihre Entscheidung, Commander. Sie sind jetzt ein Spectre und uns keine Rechenschaft mehr schuldig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105990",
+      "en": "Aber Ihre Taten werden stets auf uns Menschen zurückfallen. Wenn Sie Mist bauen, muss ich ihn beseitigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105991",
+      "en": "Das freut mich, Commander. Vergessen Sie nicht: Sie waren ein Mensch, bevor Sie ein Spectre wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105992",
+      "en": "Das war nicht gerade die Antwort, die ich erhofft hatte, Shepard. Vergessen Sie nicht: Sie waren ein Mensch, bevor Sie ein Spectre wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105993",
+      "en": "Ich muss zu einer Besprechung. Captain Anderson kann Ihnen alle weiteren Fragen beantworten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105994",
+      "en": "Aufgrund Ihrer Visionen und der Warnungen vor den Reapern glaubt der Rat langsam, dass Sie ziemlich labil sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105995",
+      "en": "Ich denke, Sie erzielen Resultate. Solange Sie den Job erledigen, müssen wir uns keine Sorgen machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105996",
+      "en": "Das habe ich. Wenn Sie weiterhin Ergebnisse vorweisen können, haben wir keine Probleme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105997",
+      "en": "Es ist nichts Persönliches, Shepard. Wenn Sie weiterhin Ergebnisse vorweisen können, lässt man Sie in Ruhe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|105999",
+      "en": "Das ist nicht richtig! Die Normandy gehört Ihnen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106000",
+      "en": "Ich will die Wahrheit wissen. Warum treten Sie zurück, Sir?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106001",
+      "en": "Kommen Sie, Captain. Sie sind es mir schuldig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106002",
+      "en": "Hat das etwas damit zu tun, dass Saren verhindert hat, dass Sie ein Spectre werden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106003",
+      "en": "Ich werde Sie nicht enttäuschen, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106004",
+      "en": "Dieses Mal kommt Saren nicht einfach davon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106005",
+      "en": "Ich passe gut auf sie auf, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106006",
+      "en": "Was für Hinweise haben wir?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106009",
+      "en": "Die Reaper sind die wahre Gefahr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106011",
+      "en": "Ich werde ihn aufhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106012",
+      "en": "Sonst noch was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106014",
+      "en": "Die Kolonisten auf Feros könnten noch am Leben sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106015",
+      "en": "Dann sollten wir vielleicht zum Artemis-Tau-Cluster.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106016",
+      "en": "Vielleicht kann ich vor den Geth nach Noveria gelangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106018",
+      "en": "Ich werde versuchen, Ihnen die Sache nicht noch schwerer zu machen, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106020",
+      "en": "Ich werde tun, was ich kann, um Saren aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106021",
+      "en": "Ich kümmere mich um Saren. Sie sind für die politische Seite verantwortlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106025",
+      "en": "Was ist mit Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106026",
+      "en": "Sagen Sie ihnen, sie müssen sich keine Sorgen machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106027",
+      "en": "Wie oft muss ich mich noch beweisen, bevor sie anfangen, auf mich zu hören?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106028",
+      "en": "Ich will Saren aufhalten. Um jeden Preis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106029",
+      "en": "Ich hätte die Kolonie gerettet, wenn ich gekonnt hätte, aber es ist weitaus wichtiger, Saren aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106030",
+      "en": "Die Kolonisten sind Ihnen völlig egal. Ihnen geht es allein um die Politik, nicht wahr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106039",
+      "en": "Ihnen den Tag retten. Sie hat Informationen, die Saren mit den Geth in Verbindung bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106040",
+      "en": "Sie wollten Beweise dafür, dass Saren ein Verräter ist. Hier sind sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106042",
+      "en": "Diese Quarianerin kann uns helfen, Saren zur Strecke zu bringen. Das hätte ich Ihnen gesagt, wenn Sie nicht gleich so hochgegangen wären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106048",
+      "en": "Nach was für Dingen suchen Sie denn?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106050",
+      "en": "Sagen Sie uns, was Sie gefunden haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106051",
+      "en": "Wo sind die versprochenen Beweise?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106052",
+      "en": "Was für Beweise haben Sie gefunden? Wie sind Sie da rangekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106054",
+      "en": "Was haben Sie herausgefunden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106057",
+      "en": "Diesmal kommt Saren nicht davon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106064",
+      "en": "Die Vision auf Eden Prime - jetzt verstehe ich sie. Ich sah, wie die Protheaner von den Reapern vernichtet wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106066",
+      "en": "Sie werden Ihnen sowieso nicht glauben. Halten Sie sie einfach da raus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106068",
+      "en": "Die Reaper sind eine Gefahr für jede Spezies im Citadel-Raum. Wir müssen es ihnen sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106069",
+      "en": "Das ist ein ziemlicher Hammer. Sie könnten einfach alles ignorieren, was wir ihnen sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106077",
+      "en": "Erzwungener Ruhestand?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106078",
+      "en": "Was ist los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106079",
+      "en": "Das werde ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106080",
+      "en": "Da steckt mehr dahinter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106081",
+      "en": "Wegen Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106082",
+      "en": "Sie hätten nicht lügen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106083",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106084",
+      "en": "Saren wird bezahlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106085",
+      "en": "Warum tun Sie das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106086",
+      "en": "Nachricht von Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106089",
+      "en": "Was ist mit den Reapern?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106090",
+      "en": "Noch mehr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106092",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106093",
+      "en": "Ich bin dran.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106095",
+      "en": "Ich fange auf Feros an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106096",
+      "en": "Ich werde dort anfangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106097",
+      "en": "Ich gehe nach Noveria.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106099",
+      "en": "Ich werde vorsichtig sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106100",
+      "en": "Das könnte passieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106101",
+      "en": "Das ist Ihr Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106106",
+      "en": "Was denken Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106107",
+      "en": "Mir geht es gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106108",
+      "en": "Das sind Idioten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106109",
+      "en": "Sie waren entbehrlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106110",
+      "en": "Ich habe mein Bestes gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106111",
+      "en": "Mehr interessiert Sie nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106118",
+      "en": "Sie haben dazugelernt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106121",
+      "en": "Sie kann uns helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106122",
+      "en": "Ich mach nur meinen Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106123",
+      "en": "Ruhe, dann erfahren Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106129",
+      "en": "Bitte fahren Sie fort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106130",
+      "en": "Zur Sache, bitte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106131",
+      "en": "Was ist mit Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106133",
+      "en": "Etwas von Wert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106134",
+      "en": "Und was haben Sie gefunden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106137",
+      "en": "Reden Sie weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106140",
+      "en": "Wir haben ihn!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106148",
+      "en": "Sie hat Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106149",
+      "en": "Das ist nicht weit hergeholt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106150",
+      "en": "Es ist wahr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106152",
+      "en": "Erzählen Sie es ihm nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106153",
+      "en": "Sie müssen es wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106154",
+      "en": "Werden sie es glauben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106162",
+      "en": "Sie könnten uns helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106163",
+      "en": "Sie könnten uns helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|106621",
+      "en": "Sie haben mich in der Gasse gesehen, Commander. Sie wissen, was ich kann. Lassen Sie mich mitkommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147348",
+      "en": "Das ist Sarens Stimme. Das beweist, dass er am Angriff beteiligt war!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147349",
+      "en": "Die Röhre muss irgendetwas mit dem Sender zu tun haben. Vielleicht geht es um protheanische Technologie ... wie eine Waffe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147350",
+      "en": "Moment ... Da ist noch etwas. Saren hat nicht alleine gearbeitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147351",
+      "en": "Eden Prime war ein bedeutender Sieg! Der Sender hat uns der Röhre einen Schritt näher gebracht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147352",
+      "en": "Ich kenne die andere Stimme nicht. Die über die Reaper spricht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147353",
+      "en": "Er sagte, Eden Prime hätte seine Suche nach der Röhre einen Schritt voran gebracht. Kann sich jemand vorstellen, was er damit meint?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147358",
+      "en": "Ist das eine neue Form Außerirdischer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147359",
+      "en": "Dieser Name kommt mir irgendwie bekannt vor ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147360",
+      "en": "Was ist die Röhre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147365",
+      "en": "Reaper? Was genau sind sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147366",
+      "en": "Reaper? Schon von gehört ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147387",
+      "en": "Die Mission auf Eden Prime war eine Chance zu beweisen, dass Sie Ihre Aufgaben erledigen können. Aber leider ist Nihlus jetzt tot und der Sender verloren!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147388",
+      "en": "Saren ist eine Bedrohung für alle menschlichen Kolonien. Man muss ihn stoppen. Der Rat muss auf uns hören!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147389",
+      "en": "Ich werde nicht einfach stillhalten, nur weil der Rat sich weigert, etwas zu unternehmen. Wenn sie Saren nicht aufhalten, werde ich es tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147391",
+      "en": "Er ist gefährlich!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|147392",
+      "en": "Sie sind blind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta20_human_ambassador_enter_D|149082",
+      "en": "Laut unseren Berichten hat sie eine archäologische Ausgrabungsstätte auf einer der nicht verzeichneten Welten im Artemis-Tau-Cluster untersucht. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137537",
+      "en": "Commander, ich bin nicht besonders glücklich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137539",
+      "en": "Gut. Dann ist dies eine inoffizielle Visite. Eine Art Höflichkeitsbesuch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137540",
+      "en": "Spitzfindigkeiten! Sie reden wie der Rat, benutzen das Gesetz, um die Allianz zu behindern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137541",
+      "en": "Wie Sie wollen, Commander. Aber Sie können auch davon ausgehen, dass ich hierüber einen Bericht einreichen werde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137542",
+      "en": "Da bin ich mir sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137543",
+      "en": "Warten Sie hier, es wird nicht lange dauern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137547",
+      "en": "Aaaachtung!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137548",
+      "en": "Aaaachtung!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137549",
+      "en": "Stehen Sie bequem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137550",
+      "en": "Rear Admiral Mikhailovich, 5. Flotte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137551",
+      "en": "Sparen Sie sich die Nettigkeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137552",
+      "en": "Stellen wir eins von vornherein klar, Shepard. Für die Aliens mögen Sie ja ein Spectre sein, aber für mich sind Sie nur ein Nachwuchs-Offizier. Ich möchte also um den nötigen Respekt bitten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137553",
+      "en": "Sie wissen nicht, wer ich bin, oder, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137554",
+      "en": "Ich habe das Kommando über die 63. Späherflottille. Nach dem Testflug sollten Sie und die Normandy mir unterstehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137555",
+      "en": "Dann streckte der Rat seine Hände ... Klauen ... Tentakeln ... was auch immer. Sie streckten sie nach unserem Schiff aus. Und nach Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137556",
+      "en": "Hmpf. Sie wissen aber schon noch, welche Farbe Ihr Blut hat, oder, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137557",
+      "en": "Lassen Sie sich den Titel nicht zu Kopfe steigen. Niemand steht über dem Gesetz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137558",
+      "en": "Denken Sie daran, wenn ich Ihnen befehle zu springen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137559",
+      "en": "Ich missbillige die Entscheidung der Politiker nicht unbedingt, Sie dem Rat zuzuweisen. Es ist eine ... Chance. Ich missbillige allerdings dieses überladene Stück Blech.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137560",
+      "en": "Sie ist eine Spielerei, Commander. In einem Kampf um Leben und Tod ist sie nutzlos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137561",
+      "en": "Das ist ja wohl übertrieben. Ich habe Ihre Berichte gelesen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137563",
+      "en": "Dieses Experiment hat unser Haushaltsbudget Milliarden gekostet. Für das gleiche Geld hätten wir einen schweren Kreuzer bekommen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137564",
+      "en": "Aber nein, wir mussten ja nett zu den Turianern sein und ein Heidengeld für einen gemeinschaftlich erbauten Schrotthaufen rauswerfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137565",
+      "en": "Ich bin wegen einer Inspektion hier, Commander. Die Normandy ist ein Kriegsschiff der Allianz. Ich erwarte, sie in Topform zu sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137566",
+      "en": "Ich muss wohl was an den Ohren haben. Haben Sie mir gerade widersprochen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137567",
+      "en": "Sie haben ein vorlautes Mundwerk, Commander",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137575",
+      "en": "Wir haben Sie nicht erwartet, Sir. Ich hätte sonst eine formellere Begrüßung angesetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137577",
+      "en": "Admiral, ich bin in dringenden Angelegenheiten für die Citadel unterwegs. Kann ich was für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137579",
+      "en": "Commander Shepard, SSV Normandy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137582",
+      "en": "Ich diene immer noch der Allianz, Sir. Und als Spectre kann ich unsere Interessen beim Rat vorantreiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137584",
+      "en": "Mir gefiel das auch nicht gerade. Aber es hat diverse Vorteile, über dem Gesetz zu stehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137586",
+      "en": "Captain Anderson hat sich unmissverständlich ausgedrückt, als er sagte, mein Auftrag käme von ganz oben. Sie sagen 'Spring!', ich sage 'Wie hoch?'.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137588",
+      "en": "Die Normandy ist ein gutes Schiff, Sir. Bisher hat sie uns treue Dienste geleistet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137590",
+      "en": "Das Schiff hat uns dutzende Male das Leben gerettet!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137592",
+      "en": "Sie missbilligen das Design der Normandy?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137598",
+      "en": "Wir würden uns geehrt fühlen, Sie Ihnen zu zeigen, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137599",
+      "en": "Die Normandy ist zwar ein Kriegsschiff der Allianz, aber gleichzeitig auch eine Leihgabe an die Citadel. Das wiederum bedeutet, dass sie nicht Ihrer Befehlsgewalt untersteht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137600",
+      "en": "Nein, Sir. Ich habe nur unsere besondere rechtliche Situation erwähnt. Sie können sich natürlich gern umsehen, allerdings kann das nicht als offizielle Inspektion angesehen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137603",
+      "en": "Dieses Schiff gehört jetzt dem Rat. Mit allem nötigen Respekt möchte ich Sie deshalb bitten, die Gangway zu räumen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137604",
+      "en": "Die Normandy gehört offiziell nicht mehr dem Allianz-Militär an. Ohne Erlaubnis der Abteilung 'Special Tactics and Reconnaissance' darf ich Sie nicht an Bord lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137607",
+      "en": "Ich bin mir sicher, dass Sie alles zufrieden stellend vorfinden werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137617",
+      "en": "Was für eine Überraschung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137618",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137619",
+      "en": "[Salutieren]",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137624",
+      "en": "Sehen Sie es als eine Chance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137625",
+      "en": "Das gefällt mir auch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137626",
+      "en": "Ich hatte meine Befehle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137630",
+      "en": "Sie ist nicht überladen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137631",
+      "en": "Beleidigen Sie nicht mein Schiff!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137632",
+      "en": "Das verstehe ich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137640",
+      "en": "Nur zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137641",
+      "en": "Lieber nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137642",
+      "en": "Ja, das ist sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137643",
+      "en": "Sie können sich umsehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137644",
+      "en": "Verdammt richtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137645",
+      "en": "Ich fürchte ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137856",
+      "en": "Commander, ich möchte Ihnen nahelegen, Ihre Zunge zu hüten. Sonst wird Ihnen das noch jede Menge Ärger einbringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137857",
+      "en": "Ich werde dem Militärstab des Rats einen Bericht schicken, der positiver ausfallen wird als ich es geplant hatte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137858",
+      "en": "Gut gemacht, Commander Shepard. Wir sind stolz auf Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137859",
+      "en": "Ihre Ansichten haben einige gute Ansätze, Commander. Ich werde sie in Betracht ziehen, wenn ich meinen Bericht an den Militärstab schreibe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137860",
+      "en": "Ich werde jetzt meinen Bericht sowie korrigierte Empfehlungen an den Militärstab schreiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137861",
+      "en": "Nicht dass ich irgendeine Reaktion darauf erwarten würde. Zu viele Interessengruppen haben zu viel Geld hier hinein investiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137862",
+      "en": "Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137863",
+      "en": "Wer hat diese Operationszentrale entworfen? Den Commander achtern von allen anderen zu platzieren, ist absolut ineffizient. Was passiert denn, wenn er etwas mit den Crewmitgliedern am Bug besprechen muss?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137864",
+      "en": "Hm. Durchaus nachvollziehbar. Aber das hätte man auch in einem Labor herausfinden können, statt auf einem Kriegsschiff in vorderster Linie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137865",
+      "en": "Guter Punkt. Ich schätze aber, dass sich das Design nicht durchsetzen wird. Heranwachsende Rekrutengenerationen werden dadurch nicht verkorkst werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137866",
+      "en": "Das geht aber auch nur solange gut, wie sie alle ein funktionierendes Funkgerät haben. Vielleicht sollten Sie in Ihrer Ausbildung auch die Zeichensprache erlernen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137867",
+      "en": "Ich habe mich sehr über Ihren Antriebskern gewundert. 120 Milliarden Credits Element Zero, nur um dieses Ding ungesehen in Bewegung zu setzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137868",
+      "en": "Sie können sich sicher vorstellen, dass man mit dem Geld Antriebskerne für 12.000 Jäger hätte herstellen können? Was für einen Sinn hat es überhaupt, sich für ein paar Stunden zu verstecken? Nutzlos!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137869",
+      "en": "Vielleicht. Aber das sind auch nicht die Aufgaben eines Kriegsschiffs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137870",
+      "en": "Unsere Aufgabe ist es, die feindliche Flotte zu finden und zu eliminieren, und nicht nachzuzählen, wie oft ihre Garnison ins Bad muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137871",
+      "en": "Sie wissen, dass ich das auch falsch auffassen könnte, Commander. Aber Sie haben Recht, die frühen U-Boote waren sicher nicht viel besser.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137872",
+      "en": "Eden Prime hat einen rauchenden Krater, Commander. Brechen Sie sich nicht den Arm, wenn Sie sich selbst zu sehr auf die Schulter klopfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137873",
+      "en": "Wir müssen auch über Ihre Crew sprechen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137874",
+      "en": "Kroganer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137875",
+      "en": "Asari?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137876",
+      "en": "Turianer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137877",
+      "en": "Was denken Sie sich eigentlich, Commander? Sie können doch Aliens keinen freien Zugang zu Allianz-Ausrüstungen gewähren!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137878",
+      "en": "Das würde voraussetzen, dass jene Herzen es wert sind, sie zu gewinnen. Und das muss noch bewiesen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137879",
+      "en": "Sie irren sich gewaltig, Commander, und Sie wissen, dass ich Recht habe. Wenn Sie sie unbedingt an Bord haben wollen, dann nur zu. Aber unterlassen Sie es, mir gegenüber die Vorschriften zu zitieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137880",
+      "en": "Der Rat verlangt eine Scheißmenge von der Allianz, Commander. Sie sollten lieber bald anfangen, auch mal was zurückzugeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137881",
+      "en": "Haben Sie sonst noch was zu sagen, Commander? Eine andere Rechtfertigung für den Zustand dieses Schiffes vielleicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137882",
+      "en": "Es ist Ihr Job, gut auszusehen, Commander. Die Allianzflotte hat Kriege zu gewinnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137883",
+      "en": "Das lässt vermuten, dass die Technologien der Normandy in der Zukunft brauchbar sein werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137884",
+      "en": "Sehr gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137885",
+      "en": "Ich bin noch nicht davon überzeugt, dass die Normandy keine Verschwendung von Steuergeldern ist. Aber ich bin jetzt überzeugt, dass Sie das anders sehen. Und dass Sie sie bestmöglich einsetzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137886",
+      "en": "Ich stimme nicht mit Ihnen überein. Aber Ihre Argumentation scheint stimmig zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137887",
+      "en": "Tut mir leid zu hören, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137888",
+      "en": "Klingt nach einer relativ gewöhnlichen Situation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137889",
+      "en": "Tatsache ist, dass ich jetzt auch zur Befehlskette des Rats gehöre. Sie erwarten eine Zusammenarbeit, ich liefere ihnen eine.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137891",
+      "en": "Ich halte die Normandy für ein gutes Schiff, Sir. Selbst wenn Sie anderer Meinung sind, müssen Sie zugeben, dass ihr gemeinschaftlicher Bau und die gemischtrassige Crew die Allianz besser aussehen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137893",
+      "en": "Mit unseren Trägerschiffen haben wir dem Rat etwas bewiesen, woran sie nicht geglaubt haben. Sie mögen das missbilligen, aber das ist nur ein anderer Weg, schlauer als sie zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137895",
+      "en": "Nein, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137906",
+      "en": "Was gibt es denn zu bemängeln?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137907",
+      "en": "Modifiziertes turianisches Design. Sie bevorzugen es, wenn ihre Commander ihre Untergebenen beaufsichtigen, statt in ihrer Mitte zu fungieren. Wir wollten abwarten, wie effektiv sie mit einer solchen Anordnung kommandieren können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137909",
+      "en": "In dieser Crew gibt es keine Amateure. Sie wissen, dass man in einem Kampf keine Pläuschchen hält. Ich habe nur die besten Leute unter mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137911",
+      "en": "Wir benutzen die Funkgeräte unseres Anzugs oder unserer Uniform. Wer mit mir reden möchte, funkt einfach meinen Kanal an. Es ist, als stünden sie direkt neben mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137914",
+      "en": "Wir können uns in ein feindliches System schleichen und den Verkehr beobachten oder Infiltrationsteams auf feindlichen Welten absetzen. Die Normandy ist um Längen effizienter als ein salarianisches STG.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137917",
+      "en": "Männer mit einer ähnlich begrenzten Sichtweise haben das Gleiche über frühe Flugzeuge, U-Boote und Panzer gesagt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137919",
+      "en": "Wir sind dadurch außerdem das schnellste Schiff der Flotte. Ohne den Tantalus-Antriebskern wäre Eden Prime jetzt nur noch ein rauchender Krater.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137925",
+      "en": "Wir haben neben Saren und den Geth noch genug Feinde da draußen. Wer andere Spezies mit Argwohn und Misstrauen begegnet, gewinnt sicher keine Herzen für sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137927",
+      "en": "Ich bin der befehlshabende Offizier der Normandy. Laut Vorschriften habe ich darüber zu entscheiden, wer an Bord kommt und wer nicht. Wenn Sie mit meiner Wahl nicht einverstanden sind, können Sie sich gern bei Ihren Vorgesetzten beschweren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137929",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137930",
+      "en": "Glaub ich gern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137931",
+      "en": "Worüber?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137933",
+      "en": "Das ist ein turianisches Design.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137934",
+      "en": "Wir sind dafür ausgebildet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137935",
+      "en": "Funkkontakt",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137940",
+      "en": "Es ist durchaus nützlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137941",
+      "en": "Sind Sie versiert in Geschichte?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137942",
+      "en": "Wir sind außerdem schnell.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137951",
+      "en": "Es sind Verbündete.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137952",
+      "en": "Diese Entscheidung treffe ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137953",
+      "en": "Nicht meine Aufgabe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137957",
+      "en": "Wir müssen Brücken bauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137958",
+      "en": "Wir müssen uns durchsetzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|137959",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143211",
+      "en": "Nein, Commander. So etwas darf erst gar nicht in Dienst genommen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143212",
+      "en": "Sie könnten es zumindest versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143213",
+      "en": "Wissen Sie was? Ich werde mich einfach in Ihrer Kabine einquartieren. Ich mache es mir dort gemütlich, bis Sie einen Kampf gefunden haben. Wie wär's?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143214",
+      "en": "Sie trifft natürlich überhaupt keine Schuld daran.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143215",
+      "en": "Ich stimme Ihnen zu, Sir. Aber ich wüsste nicht, was meine Crew daran ändern könnte. So etwas wird im Trockendock konstruiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143217",
+      "en": "Ich kann ja wohl schlecht die Operationszentrale rausreißen und sie umbauen, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143219",
+      "en": "Die Normandy war ein sehr teures Schiff, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143220",
+      "en": "Sie sollten das Schiff erst in Aktion sehen, bevor Sie Ihre Meinung äußern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143222",
+      "en": "Ich akzeptiere Ihren Unmut darüber, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143223",
+      "en": "Man sagte mir, dass ich mit dem Rat kooperieren solle. Wenn dadurch unsere Militärgeheimnisse verraten werden, liegt die Verantwortung bei der Militärführung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143225",
+      "en": "Nicht zu ändern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143226",
+      "en": "Und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143229",
+      "en": "Viel Geld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143230",
+      "en": "In Aktion sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143232",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_02A_DSG_LOC|sta30_snap_inspection_D|143233",
+      "en": "Welche Wahl?",
+      "tr": ""
+    }
+  ]
+}

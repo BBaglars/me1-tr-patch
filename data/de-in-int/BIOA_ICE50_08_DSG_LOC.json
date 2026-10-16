@@ -1,0 +1,855 @@
+{
+  "meta": {
+    "package": "BIOA_ICE50_08_DSG_LOC_INT.pcc",
+    "stem": "BIOA_ICE50_08_DSG_LOC",
+    "textLang": "DE",
+    "sets": 3
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152989",
+      "en": "Sie laden die Beweise von Loriks Computer herunter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152990",
+      "en": "Quarantänelabor ist verriegelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152991",
+      "en": "Kraftstoffleitungen repariert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152992",
+      "en": "Mira offline.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152993",
+      "en": "Landleitungen repariert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152995",
+      "en": "Diese Tür kann nur von Anoleis' Assistentin geöffnet werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|152996",
+      "en": "Sicherheitsbereich von SynIQ. Autorisation Kaira Stirling.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|156875",
+      "en": "Auf Befehl von Captain J. Ventralis wurde der Aufzug abgeschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|159157",
+      "en": "Reaktorenergie wiederhergestellt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|159158",
+      "en": "Nicht genug Energie für einen Neustart.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|159170",
+      "en": "Speicher-Umgehung erfolgreich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|159171",
+      "en": "Elektronische Schlösser offline. Bitte kontaktieren Sie die Virtuelle Intelligenz der Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|159173",
+      "en": "Verbindungsports außer Reihe. Datenmodul konnte nicht angedockt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|159946",
+      "en": "Speicherkern 1 beschädigt. Modulstapel zur Reaktivierung zu Kern 2 oder 3 transferieren. Verlassen mit ESC.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|160950",
+      "en": "Dieser Aufzug steht nur BinHex-Mitarbeitern zur Verfügung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|160959",
+      "en": "Aufzug ist gesperrt, bis Reinigungsfunktion aktiviert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|162700",
+      "en": "Nur Notausgang.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|162701",
+      "en": "Reinigungsfunktion aktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|162770",
+      "en": "Autorisation benötigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|164577",
+      "en": "Wartungstür ist verriegelt. Autorisation benötigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|165286",
+      "en": "Die Labore sind nicht zugänglich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|171751",
+      "en": "SynIQ-Sicherheit deaktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|172900",
+      "en": "Reparaturen unvollständig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice00_popup_text_D|172903",
+      "en": "Kern reaktiviert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29127",
+      "en": "Online. Wie kann ich Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29129",
+      "en": "Schwerer Fehler: Freie Gefahrenstoffe in den Dekontaminationskammern. Zugang zu den Passagierzügen nicht empfohlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29130",
+      "en": "Schwerer Fehler: Die Landleitungen sind nicht angeschlossen. Die Passagierzüge sind offline.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29131",
+      "en": "Bericht: Ende. Haben Sie noch weitere Fragen zum Systemstatus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29137",
+      "en": "Der Zugang wird zu Zeit nicht empfohlen. Die Schleuse kann nur mit korrekter Autorisierung geöffnet werden. Sie sind dazu autorisiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29138",
+      "en": "Die Steuerung der Absicherungssysteme befindet sich am Sicherheits-Kontrollpunkt außerhalb der Dekontaminationskammer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29140",
+      "en": "Die Hauptsysteme arbeiten im normalen Toleranzbereich. In den Untersystemen wurden 1 473 831 Fehler festgestellt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29145",
+      "en": "Natürlich, Commander. Ich melde Sie ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29146",
+      "en": "Sie scheinen die Station reparieren zu wollen. Benötigen Sie meine Hilfe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29148",
+      "en": "Dieses System ist darauf eingestellt, auf den Namen Mira zu reagieren. Würden Sie mir bitte auch Ihren Namen nennen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29149",
+      "en": "Einen Augenblick, bitte. Autorisierung bestätigt. Ihre Level-2-Autorisierung für alle Systeme ist bestätigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29150",
+      "en": "Bitte beachten Sie, dass Anfragen zu Forschungsarbeiten nur mit einer Level-3-Autorisierung beantwortet werden können. Eine Level-3-Autorisierung wird nur an die führenden Angestellten von BinHex vergeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29151",
+      "en": "Einen Augenblick, bitte. Dienstrang bestätigt. Aufgrund der Notfallsituation erhalten Sie eine Level-2-Autorisierung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29153",
+      "en": "Um Ihren Autorisierungslevel feststellen zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29167",
+      "en": "Das System ist jetzt bereit für Abfrageanwendungen. Sie können mich über alle holografischen Terminals in Gipfel 15 erreichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29172",
+      "en": "Ich möchte wissen, was hier passiert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29173",
+      "en": "Ich brauche einen Statusbericht. Welche Systeme sind deaktiviert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29182",
+      "en": "Was bedeuten diese freien Gefahrenstoffe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29183",
+      "en": "Du willst uns nicht durch die Dekontaminationsschleuse rauslassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29184",
+      "en": "Wie aktiviere ich das Absicherungssystem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29185",
+      "en": "Was sind die Landleitungen und warum wurden sie unterbrochen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29188",
+      "en": "Was ist nötig, damit die Dekontaminationsabsicherungen wieder funktionieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29190",
+      "en": "Dekontaminationskammer freigeben. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29192",
+      "en": "Kamen die Kreaturen, auf die wir hier gestoßen sind, aus den Laboren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29193",
+      "en": "Wie kann ich die Landleitungen wieder anschließen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29196",
+      "en": "Das ist alles, was ich jetzt wissen muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29197",
+      "en": "Bist du die virtuelle Intelligenz, die hier verantwortlich ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29199",
+      "en": "Commander Shepard. Ich arbeite für die Abteilung Special Tactics and Reconnaissance der Citadel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29202",
+      "en": "Commander Shepard von der Allianz-Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29206",
+      "en": "Wozu brauchst du diese Information?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29224",
+      "en": "Ja, ich könnte Hilfe dabei gebrauchen. Wer bist du?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29225",
+      "en": "Wie schalte ich das Ding aus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29319",
+      "en": "Verbindung wiederhergestellt. Daten werden geladen. Warnmeldung! Verbindung zum Sicherheitslabor konnte nicht hergestellt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29332",
+      "en": "Warnmeldung! Das Absicherungssystem steht zur Zeit nicht zur Verfügung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29356",
+      "en": "Tut mir leid. Aber ich brauche spezifischere Eingaben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29357",
+      "en": "Tut mir leid. Zu dieser Zeit war ich offline. Der Reaktor wird deaktiviert, wenn eine Reaktorüberlastung droht oder ein kritisches Sicherheitsproblem im Laborbereich auftritt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29360",
+      "en": "Gemäß der Sicherheitsrichtlinien werden alle biologischen Gefahrenstoffe durch die kalte Umgebung unschädlich gemacht. Mechanische Gefahrenobjekte könnten ebenfalls Schaden nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29363",
+      "en": "Wenn Gipfel 15 aus Sicherheitsgründen sterilisiert werden muss, werden mein Programm und meine Daten zurückgesetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29364",
+      "en": "Meine Systeme werden dauerhaft deaktiviert. Um getötet werden zu können, müsste ich zuvor leben. Ich bin nur ein Datenbank-Programm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29379",
+      "en": "Wie ist der Status der Rift-Station?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29384",
+      "en": "Ich möchte wissen, was unmittelbar vor deiner Deaktivierung geschehen ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29423",
+      "en": "Ich brauche einen Statusreport über die Hochsicherheitslabore.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29430",
+      "en": "Warum warst du offline?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29431",
+      "en": "Wenn irgendetwas schief läuft, wirst du getötet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29572",
+      "en": "Die Rift-Station wurde von der Besatzung geschlossen. Zurzeit gibt es keine Gefahrenstoffe in der Einrichtung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29573",
+      "en": "Ja, aber das Personal umfasst weniger als die offiziell vorgesehene Anzahl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29574",
+      "en": "Es tut mir leid. Die Netzwerkverbindungen zu den Laboren sind abgebrochen. Der Datenbestand ist limitiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29583",
+      "en": "Tut mir leid, Commander. Für Auskünfte über die Forschungsarbeiten benötigen Sie eine Level-3-Autorisierung. Solche Autorisierungslevels erhalten nur führende Mitarbeiter von BinHex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29584",
+      "en": "Einfach die Heizung abschalten und alles abtöten, was gefährlich werden könnte. Saubere Entsorgung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29585",
+      "en": "Dadurch soll alles abgetötet werden, was seiner Umwelt gefährlich werden könnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29586",
+      "en": "Einfach die Heizung abschalten und hoffen, dass die Kälte das einfriert, was auch immer man freigesetzt hat. Sauber.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29587",
+      "en": "Dadurch soll alles abgetötet werden, was seiner Umwelt gefährlich werden könnte. Saubere Entsorgung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29588",
+      "en": "Dadurch soll alles abgetötet werden, was seiner Umwelt gefährlich werden könnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29594",
+      "en": "In den Hochsicherheitslaboren gab es einen Stufe 1-Alarm. Aus dem Labortrakt Gamma sind Gefahrenstoffe entwichen. Die Notfallmaßnahmen wurden eingeleitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29595",
+      "en": "Der Stufe 2-Alarm betraf die Hochsicherheitslabore. Das Isolationsschott war gebrochen. Die Züge wurden außer Betrieb genommen. Die Landleitungen zu den Hochsicherheitslaboren wurden unterbrochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29596",
+      "en": "Der Stufe 3-Alarm betraf einen bestimmten Bereich. Es gab Gefahrenstoffe in den Tunneln. Die Station wurde geschlossen und sofort evakuiert. Es wurde ein Code Omega ausgesendet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29598",
+      "en": "Tut mir leid, Commander. Für Auskünfte über die Forschungsarbeiten benötigen Sie eine Level-3-Autorisierung. Solche Autorisierungslevels erhalten nur führende Mitarbeiter von BinHex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29603",
+      "en": "Dann ist das Personal noch am Leben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29620",
+      "en": "Was für Gefahrenstoffe wurden freigelassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29715",
+      "en": "Online. Verbunden mit dem Außenlabor. Wie kann ich Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29716",
+      "en": "Die Sicherheitsvorschriften sehen vor, dass Einrichtungen im Falle von Fremdkörperausbreitungen geschlossen werden müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29717",
+      "en": "Außerdem scheinen sich einige Angestellte in medizinischer Quarantäne zu befinden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29718",
+      "en": "Mit dem Personenzug gelangen Sie bis zur Einrichtung. Ob Sie dann hineinkommen, liegt im Ermessen der Sicherheitskräfte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29720",
+      "en": "Im Kontrollsystem gibt es einen Hardware-Fehler, der vor Ort mit dem Standard-Universalwerkzeug repariert werden kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29732",
+      "en": "Warnmeldung. Es wurden Gefahrenstoffe in den Dekontaminationskammern festgestellt. Zutritt ist nicht sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29733",
+      "en": "Sehr wohl, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29737",
+      "en": "Das Absicherungssystem ist zurzeit leider außer Betrieb.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29742",
+      "en": "Warum wurde die Rift-Station geschlossen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29744",
+      "en": "Komme ich dort trotz der Schließung rein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29756",
+      "en": "Warnmeldung ignorieren. Schleusentüren öffnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29758",
+      "en": "Wie werden wir die Gefahrenstoffe los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29760",
+      "en": "Wo liegt das Problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29762",
+      "en": "Wir haben keine Zeit. Warnmeldung ignorieren und Schleusentüren öffnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29765",
+      "en": "Leider nicht. Mein letzter Log-Eintrag datiert kurz nach Ausrufen der Stufe 2 Sicherheitswarnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|29768",
+      "en": "Gibt es noch mehr Informationen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|31433",
+      "en": "In den Hochsicherheitslaboren werden gefährliche biologische oder kybernetische Gefahrenstoffe in der Entwicklung isoliert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|31434",
+      "en": "Der Komplex liegt in einem Gletscher. Im Falle eines Unfalls kann er bestrahlt und im Eis versenkt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|31437",
+      "en": "Ich brauche einen Überblick über die Einrichtung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|35751",
+      "en": "Lady Benezia hat den Passagierzug zu den Außenlaboren der Rift-Station genommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|35753",
+      "en": "Warnmeldung! Warnmeldung! Das Zugsystem ist außer Betrieb.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|35756",
+      "en": "Ich muss die Matriarchin Benezia finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40918",
+      "en": "Rift-Station",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40919",
+      "en": "Hochsicherheitslabore",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40921",
+      "en": "Einrichtungsüberblick",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40923",
+      "en": "Interner Status",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40926",
+      "en": "Ich hab's eilig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40930",
+      "en": "Wie soll ich das reparieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40931",
+      "en": "Öffnen Sie sie einfach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40932",
+      "en": "Reparaturmöglichkeiten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40933",
+      "en": "Feindliche Kreaturen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40934",
+      "en": "Andere Themen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40935",
+      "en": "Warum kann ich nicht weg?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40937",
+      "en": "Log-out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40959",
+      "en": "Trotzdem freigeben",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40960",
+      "en": "Wie geht es weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40963",
+      "en": "Kann man das reparieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40964",
+      "en": "Warnmeldung ignorieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40968",
+      "en": "Offline",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40970",
+      "en": "Die letzten Log-Einträge",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40980",
+      "en": "Das heißt, du wirst getötet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|40996",
+      "en": "Gefahrenstoffe",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41004",
+      "en": "Freie Gefahrenstoffe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41005",
+      "en": "\"Landleitungen\"?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41011",
+      "en": "Wir wollen hier raus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41012",
+      "en": "Wie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41053",
+      "en": "Bist du die Stations-VI?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41054",
+      "en": "Ja",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41055",
+      "en": "Verdammt, ein Pop-up.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41057",
+      "en": "Ich bin ein Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41058",
+      "en": "Ich gehöre zur Allianz-Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41059",
+      "en": "Wozu?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41085",
+      "en": "Personal",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41086",
+      "en": "Geschlossen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|41087",
+      "en": "Wie komme ich da rein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|85570",
+      "en": "Eine Level-1-Autorisierung ist ausreichend für alle einfachen Anfragen. Eine Level-2-Autorisierung ist ausreichend für den Zugriff auf die meisten Systeme. Eine Level-3-Autorisierung ist den führenden Angestellten von BinHex vorbehalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|85571",
+      "en": "Ich muss erfahren, wie ich die Station reparieren kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|85573",
+      "en": "Schadensbericht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|94588",
+      "en": "Einen Augenblick, bitte. Diagnoseprozess aktiv.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|94589",
+      "en": "Wie lässt sich die Situation hier beschreiben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|94591",
+      "en": "Schadensbericht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|102729",
+      "en": "Bereich wird freigegeben. Zutritt auf eigene Gefahr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|118421",
+      "en": "Entsorgen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149336",
+      "en": "Was muss ich dazu tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149698",
+      "en": "Schwerer Fehler: Hauptreaktor wurde gemäß Notfall-Eindämmungsprozeduren abgeschaltet. Manueller Neustart erforderlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149700",
+      "en": "Die Landleitungen verbinden meine Mainframes hier in der Central Station mit den verschiedenen Nebenanlagen von Gipfel 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149701",
+      "en": "Dadurch kann die Crew aus der Geborgenheit und Sicherheit ihrer Labore auf meine Datenbanken zugreifen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149702",
+      "en": "In der Dekontaminationskammer befinden sich gefährliche biologische Wirkstoffe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149703",
+      "en": "Im Interesse der Crew-Sicherheit wurde die Bahnstation verriegelt. Vor dem Betreten müssen die abgesicherten Plasmadüsen aktiviert werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149705",
+      "en": "Weißt du, warum der Reaktor abgeschaltet wurde?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149708",
+      "en": "Was muss ich machen, um die Energiezuführung wiederherzustellen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149710",
+      "en": "Der Hauptreaktor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149719",
+      "en": "Öffne nur die Tür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149722",
+      "en": "Wie soll ich das beheben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149862",
+      "en": "Nach Einleitung der Sicherheitsmaßnahmen in den Sicherheitslaboren wurden die Kabelverbindungen automatisch gelöst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149865",
+      "en": "Die Ventile zur Helium-3-Kraftstoffleitung müssen über die Steuerung der Reaktoreinheit geöffnet werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149866",
+      "en": "Die Landleitungen dienen der schnelleren Wiederherstellung der Verbindung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149867",
+      "en": "Der Router der Landleitungen befindet sich auf dem Dach des Verwaltungstrakts. Aktivieren Sie einfach die Steuerung, dann stellt die Hardware die Verbindung automatisch wieder her und startet neu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|149868",
+      "en": "Die Kammer ist mit einem Absicherungssystem ausgestattet, das über 5000 Kelvin heißes Plasma in die Kammer leitet. Das reicht aus, um mögliche Gefahrenstoffe abzutöten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|158800",
+      "en": "Das ergibt Sinn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_mira_D|166993",
+      "en": "Wo ist Benezia?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_trig09_coolant_clue_D|28218",
+      "en": "Die He3-Kraftstoffleitung ist durchtrennt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_trig09_coolant_clue_D|28219",
+      "en": "Die He3-Kraftstoffleitung ist durchtrennt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_trig09_coolant_clue_D|28220",
+      "en": "Die He3-Kraftstoffleitung ist durchtrennt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_trig09_coolant_clue_D|28221",
+      "en": "Die He3-Kraftstoffleitung ist durchtrennt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_08_DSG_LOC|ice50_trig09_coolant_clue_D|28222",
+      "en": "Die He3-Kraftstoffleitung ist durchtrennt.",
+      "tr": ""
+    }
+  ]
+}

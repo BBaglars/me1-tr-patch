@@ -1,0 +1,2956 @@
+{
+  "packages": 491,
+  "tlkSets": 805,
+  "strings": 44268,
+  "words": 481403,
+  "chars": 3020826,
+  "maleDiffEntries": 18,
+  "perPackage": [
+    {
+      "package": "BIOA_CRD00_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 178,
+      "words": 2947
+    },
+    {
+      "package": "BIOA_CRD00_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_END00_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_END20_02_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 19,
+      "words": 193
+    },
+    {
+      "package": "BIOA_END20_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 37,
+      "words": 322
+    },
+    {
+      "package": "BIOA_END20_Bridge_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 191
+    },
+    {
+      "package": "BIOA_END70C_Bridge_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 191
+    },
+    {
+      "package": "BIOA_END70D_Bridge_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 191
+    },
+    {
+      "package": "BIOA_END70_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 18,
+      "words": 129
+    },
+    {
+      "package": "BIOA_END70_02A_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END70_02BSuicide_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END70_02B_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 72,
+      "words": 877
+    },
+    {
+      "package": "BIOA_END70_02C_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 275
+    },
+    {
+      "package": "BIOA_END70_02C_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 58,
+      "words": 857
+    },
+    {
+      "package": "BIOA_END70_02D_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 275
+    },
+    {
+      "package": "BIOA_END70_02E_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 191
+    },
+    {
+      "package": "BIOA_END70_02E_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 6,
+      "words": 105
+    },
+    {
+      "package": "BIOA_END80_01_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_04_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_05_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_06_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_07_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_08_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_10_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_13_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_END80_14_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_FRE31_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 42,
+      "words": 810
+    },
+    {
+      "package": "BIOA_FRE31_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_FRE32_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 64,
+      "words": 641
+    },
+    {
+      "package": "BIOA_FRE32_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_FRE33_00_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 87,
+      "words": 944
+    },
+    {
+      "package": "BIOA_FRE33_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_FRE34_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 73,
+      "words": 575
+    },
+    {
+      "package": "BIOA_FRE34_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_FRE35_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 33,
+      "words": 354
+    },
+    {
+      "package": "BIOA_FRE35_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_GLO00_A_Opening_Flyby_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_ICE00_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_ICE20_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 30,
+      "words": 326
+    },
+    {
+      "package": "BIOA_ICE20_01A_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 509,
+      "words": 4575
+    },
+    {
+      "package": "BIOA_ICE20_02_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 135,
+      "words": 2337
+    },
+    {
+      "package": "BIOA_ICE20_03A_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 387,
+      "words": 3294
+    },
+    {
+      "package": "BIOA_ICE20_03B_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 277,
+      "words": 2532
+    },
+    {
+      "package": "BIOA_ICE20_03D_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 158,
+      "words": 1117
+    },
+    {
+      "package": "BIOA_ICE20_03_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_ICE20_03_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 55,
+      "words": 809
+    },
+    {
+      "package": "BIOA_ICE20_03_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 24,
+      "words": 122
+    },
+    {
+      "package": "BIOA_ICE20_04_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 89,
+      "words": 794
+    },
+    {
+      "package": "BIOA_ICE20_05_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 1,
+      "words": 16
+    },
+    {
+      "package": "BIOA_ICE20_06_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 60,
+      "words": 543
+    },
+    {
+      "package": "BIOA_ICE20_06_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 24,
+      "words": 122
+    },
+    {
+      "package": "BIOA_ICE20_08_DSG_LOC_INT.pcc",
+      "tlkSets": 10,
+      "strings": 1003,
+      "words": 9410
+    },
+    {
+      "package": "BIOA_ICE20_09_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 44,
+      "words": 414
+    },
+    {
+      "package": "BIOA_ICE20_13_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 32
+    },
+    {
+      "package": "BIOA_ICE20_A_FlyBy_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 6,
+      "words": 76
+    },
+    {
+      "package": "BIOA_ICE25_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 116,
+      "words": 1444
+    },
+    {
+      "package": "BIOA_ICE25_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_ICE25_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_ICE50_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 18,
+      "words": 150
+    },
+    {
+      "package": "BIOA_ICE50_01_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 13,
+      "words": 73
+    },
+    {
+      "package": "BIOA_ICE50_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 10,
+      "words": 107
+    },
+    {
+      "package": "BIOA_ICE50_04_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 19,
+      "words": 124
+    },
+    {
+      "package": "BIOA_ICE50_06_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 175,
+      "words": 1444
+    },
+    {
+      "package": "BIOA_ICE50_06_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 24,
+      "words": 122
+    },
+    {
+      "package": "BIOA_ICE50_07_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 3,
+      "words": 21
+    },
+    {
+      "package": "BIOA_ICE50_08_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 169,
+      "words": 1363
+    },
+    {
+      "package": "BIOA_ICE50_09_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 3,
+      "words": 22
+    },
+    {
+      "package": "BIOA_ICE50_10_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 164,
+      "words": 1343
+    },
+    {
+      "package": "BIOA_ICE50_12_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 188,
+      "words": 1667
+    },
+    {
+      "package": "BIOA_ICE50_13_PLC_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 4,
+      "words": 24
+    },
+    {
+      "package": "BIOA_ICE50_15_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 3,
+      "words": 25
+    },
+    {
+      "package": "BIOA_ICE60_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 16,
+      "words": 132
+    },
+    {
+      "package": "BIOA_ICE60_02_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 186,
+      "words": 1906
+    },
+    {
+      "package": "BIOA_ICE60_03_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 24,
+      "words": 122
+    },
+    {
+      "package": "BIOA_ICE60_04A_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_ICE60_04_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 1,
+      "words": 4
+    },
+    {
+      "package": "BIOA_ICE60_06_DSG_LOC_INT.pcc",
+      "tlkSets": 8,
+      "strings": 162,
+      "words": 1228
+    },
+    {
+      "package": "BIOA_ICE60_06_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 24,
+      "words": 122
+    },
+    {
+      "package": "BIOA_ICE60_07A_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 195,
+      "words": 1748
+    },
+    {
+      "package": "BIOA_ICE60_07_DSG_LOC_INT.pcc",
+      "tlkSets": 8,
+      "strings": 145,
+      "words": 1274
+    },
+    {
+      "package": "BIOA_ICE60_10_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 22,
+      "words": 139
+    },
+    {
+      "package": "BIOA_ICE60_11_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 1,
+      "words": 4
+    },
+    {
+      "package": "BIOA_ICE60_12_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 228,
+      "words": 2733
+    },
+    {
+      "package": "BIOA_ICE60_13_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 24,
+      "words": 122
+    },
+    {
+      "package": "BIOA_ICE60_14_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_ICE60_14_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 184,
+      "words": 1594
+    },
+    {
+      "package": "BIOA_JUG00_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_JUG20_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 21,
+      "words": 74
+    },
+    {
+      "package": "BIOA_JUG20_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 49,
+      "words": 412
+    },
+    {
+      "package": "BIOA_JUG20_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG20_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG20_04_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG20_05_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG20_06_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 49,
+      "words": 412
+    },
+    {
+      "package": "BIOA_JUG20_07_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 49,
+      "words": 412
+    },
+    {
+      "package": "BIOA_JUG20_08_DSG_LOC_INT.pcc",
+      "tlkSets": 15,
+      "strings": 489,
+      "words": 4947
+    },
+    {
+      "package": "BIOA_JUG20_A_FlyBy_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 38
+    },
+    {
+      "package": "BIOA_JUG40_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 6,
+      "words": 93
+    },
+    {
+      "package": "BIOA_JUG40_01_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 34,
+      "words": 348
+    },
+    {
+      "package": "BIOA_JUG40_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 43,
+      "words": 444
+    },
+    {
+      "package": "BIOA_JUG40_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 293
+    },
+    {
+      "package": "BIOA_JUG40_04_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 293
+    },
+    {
+      "package": "BIOA_JUG40_05_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG40_06_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 293
+    },
+    {
+      "package": "BIOA_JUG40_07_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 16,
+      "words": 151
+    },
+    {
+      "package": "BIOA_JUG40_08_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 293
+    },
+    {
+      "package": "BIOA_JUG70_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 98
+    },
+    {
+      "package": "BIOA_JUG70_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 56,
+      "words": 840
+    },
+    {
+      "package": "BIOA_JUG70_04_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 56,
+      "words": 840
+    },
+    {
+      "package": "BIOA_JUG70_05_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG70_05_DSG_LOC_INT.pcc",
+      "tlkSets": 6,
+      "strings": 170,
+      "words": 2075
+    },
+    {
+      "package": "BIOA_JUG70_06_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 74,
+      "words": 1008
+    },
+    {
+      "package": "BIOA_JUG70_07_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG70_07_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 42,
+      "words": 441
+    },
+    {
+      "package": "BIOA_JUG70_08_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 56,
+      "words": 840
+    },
+    {
+      "package": "BIOA_JUG70_11_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG70_14_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 159,
+      "words": 1925
+    },
+    {
+      "package": "BIOA_JUG70_15_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 62,
+      "words": 704
+    },
+    {
+      "package": "BIOA_JUG70_16_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG80_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 98
+    },
+    {
+      "package": "BIOA_JUG80_00_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 69,
+      "words": 613
+    },
+    {
+      "package": "BIOA_JUG80_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 69,
+      "words": 613
+    },
+    {
+      "package": "BIOA_JUG80_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_JUG80_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 69,
+      "words": 613
+    },
+    {
+      "package": "BIOA_JUG80_05_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 69,
+      "words": 613
+    },
+    {
+      "package": "BIOA_JUG80_07_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 88,
+      "words": 1060
+    },
+    {
+      "package": "BIOA_JUG80_07_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 157,
+      "words": 1673
+    },
+    {
+      "package": "BIOA_JUG80_08_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 133,
+      "words": 1079
+    },
+    {
+      "package": "BIOA_JUG80_09_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 64,
+      "words": 466
+    },
+    {
+      "package": "BIOA_JUG80_13_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 88,
+      "words": 1060
+    },
+    {
+      "package": "BIOA_JUG80_13_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 88,
+      "words": 1060
+    },
+    {
+      "package": "BIOA_JUG80_14_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 69,
+      "words": 613
+    },
+    {
+      "package": "BIOA_JUG_80_X_Outrun_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 177,
+      "words": 1868
+    },
+    {
+      "package": "BIOA_LAV00_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 112,
+      "words": 1363
+    },
+    {
+      "package": "BIOA_LAV60_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 10,
+      "words": 97
+    },
+    {
+      "package": "BIOA_LAV60_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 2,
+      "words": 23
+    },
+    {
+      "package": "BIOA_LAV60_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV60_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 6,
+      "words": 78
+    },
+    {
+      "package": "BIOA_LAV60_04_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV60_05_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV60_06_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV70_00_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 56,
+      "words": 461
+    },
+    {
+      "package": "BIOA_LAV70_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 65
+    },
+    {
+      "package": "BIOA_LAV70_00_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 20,
+      "words": 225
+    },
+    {
+      "package": "BIOA_LAV70_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV70_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 40
+    },
+    {
+      "package": "BIOA_LAV70_05_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 64
+    },
+    {
+      "package": "BIOA_LAV70_06_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 122,
+      "words": 1362
+    },
+    {
+      "package": "BIOA_LAV70_07_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 120,
+      "words": 1338
+    },
+    {
+      "package": "BIOA_LAV70_08_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV70_08_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 20,
+      "words": 160
+    },
+    {
+      "package": "BIOA_LAV70_10_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LAV70_11_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS00_Bridge_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 7,
+      "words": 56
+    },
+    {
+      "package": "BIOA_LOS00_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 27,
+      "words": 243
+    },
+    {
+      "package": "BIOA_LOS10_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_03a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_04_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_05_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_06a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_09_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS10_11_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 15,
+      "words": 250
+    },
+    {
+      "package": "BIOA_LOS10_B_Landing_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS30_01_DSG_LOC_INT.pcc",
+      "tlkSets": 7,
+      "strings": 126,
+      "words": 1507
+    },
+    {
+      "package": "BIOA_LOS40_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 18,
+      "words": 291
+    },
+    {
+      "package": "BIOA_LOS40_01_PLC_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 30,
+      "words": 330
+    },
+    {
+      "package": "BIOA_LOS40_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 25,
+      "words": 320
+    },
+    {
+      "package": "BIOA_LOS40_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS40_04_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 15,
+      "words": 85
+    },
+    {
+      "package": "BIOA_LOS40_05_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 211,
+      "words": 3047
+    },
+    {
+      "package": "BIOA_LOS40_05_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 135,
+      "words": 2337
+    },
+    {
+      "package": "BIOA_LOS50_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS50_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS50_04_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS50_05_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_LOS50_06_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 15,
+      "words": 175
+    },
+    {
+      "package": "BIOA_NOR00_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_NOR10_00_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 20,
+      "words": 165
+    },
+    {
+      "package": "BIOA_NOR10_01escape_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_NOR10_01patton_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 99,
+      "words": 953
+    },
+    {
+      "package": "BIOA_NOR10_01_DS1_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 115,
+      "words": 1157
+    },
+    {
+      "package": "BIOA_NOR10_01_DS2_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 31,
+      "words": 228
+    },
+    {
+      "package": "BIOA_NOR10_01_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 144,
+      "words": 1713
+    },
+    {
+      "package": "BIOA_NOR10_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 104,
+      "words": 985
+    },
+    {
+      "package": "BIOA_NOR10_03_DS1_LOC_INT.pcc",
+      "tlkSets": 6,
+      "strings": 217,
+      "words": 2767
+    },
+    {
+      "package": "BIOA_NOR10_03_DSG_LOC_INT.pcc",
+      "tlkSets": 23,
+      "strings": 834,
+      "words": 9742
+    },
+    {
+      "package": "BIOA_NOR10_04A_DSG_LOC_INT.pcc",
+      "tlkSets": 9,
+      "strings": 837,
+      "words": 9099
+    },
+    {
+      "package": "BIOA_NOR10_04_DS1_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 124,
+      "words": 1376
+    },
+    {
+      "package": "BIOA_NOR10_04_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 90,
+      "words": 942
+    },
+    {
+      "package": "BIOA_NOR10_06A_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_NOR10_06kaidan_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 955,
+      "words": 10460
+    },
+    {
+      "package": "BIOA_NOR10_06lockera_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 1005,
+      "words": 10777
+    },
+    {
+      "package": "BIOA_NOR10_06lockerk_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 970,
+      "words": 10594
+    },
+    {
+      "package": "BIOA_NOR10_06lockerl_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 564,
+      "words": 6796
+    },
+    {
+      "package": "BIOA_NOR10_06locker_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 15,
+      "words": 134
+    },
+    {
+      "package": "BIOA_NOR10_06wake_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 260,
+      "words": 3033
+    },
+    {
+      "package": "BIOA_NOR10_07wake_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 114,
+      "words": 1218
+    },
+    {
+      "package": "BIOA_NOR10_07_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 113,
+      "words": 1512
+    },
+    {
+      "package": "BIOA_NOR10_08liara_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 549,
+      "words": 6662
+    },
+    {
+      "package": "BIOA_NOR10_08_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_NOR10_09ashley_DS2_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 990,
+      "words": 10643
+    },
+    {
+      "package": "BIOA_NOR10_09kaidan_DS2_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 955,
+      "words": 10460
+    },
+    {
+      "package": "BIOA_NOR10_09liara_DS2_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 549,
+      "words": 6662
+    },
+    {
+      "package": "BIOA_NOR10_09_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 97,
+      "words": 1141
+    },
+    {
+      "package": "BIOA_NOR10_11ash_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 990,
+      "words": 10643
+    },
+    {
+      "package": "BIOA_NOR10_11_DS1_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 20,
+      "words": 165
+    },
+    {
+      "package": "BIOA_NOR10_11_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 826,
+      "words": 7750
+    },
+    {
+      "package": "BIOA_NOR10_12tali_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 360,
+      "words": 4671
+    },
+    {
+      "package": "BIOA_NOR10_12_DS1_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 45,
+      "words": 588
+    },
+    {
+      "package": "BIOA_NOR10_12_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 45,
+      "words": 588
+    },
+    {
+      "package": "BIOA_NOR10_13_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 380
+    },
+    {
+      "package": "BIOA_PRO00_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 22,
+      "words": 109
+    },
+    {
+      "package": "BIOA_PRO10_00_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 52,
+      "words": 162
+    },
+    {
+      "package": "BIOA_PRO10_01_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 9,
+      "words": 66
+    },
+    {
+      "package": "BIOA_PRO10_02_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 13,
+      "words": 88
+    },
+    {
+      "package": "BIOA_PRO10_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 2,
+      "words": 22
+    },
+    {
+      "package": "BIOA_PRO10_04_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_PRO10_05_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 75,
+      "words": 775
+    },
+    {
+      "package": "BIOA_PRO10_06_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 14,
+      "words": 114
+    },
+    {
+      "package": "BIOA_PRO10_07_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 89,
+      "words": 934
+    },
+    {
+      "package": "BIOA_PRO10_08_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 172,
+      "words": 2021
+    },
+    {
+      "package": "BIOA_PRO10_11_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 6,
+      "words": 52
+    },
+    {
+      "package": "BIOA_PRO20_E_Asari_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 7,
+      "words": 53
+    },
+    {
+      "package": "BIOA_STA00_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 57,
+      "words": 187
+    },
+    {
+      "package": "BIOA_STA20_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 21,
+      "words": 258
+    },
+    {
+      "package": "BIOA_STA20_02A_DSG_LOC_INT.pcc",
+      "tlkSets": 7,
+      "strings": 272,
+      "words": 2498
+    },
+    {
+      "package": "BIOA_STA20_02B_DSG_LOC_INT.pcc",
+      "tlkSets": 7,
+      "strings": 212,
+      "words": 1495
+    },
+    {
+      "package": "BIOA_STA20_02C_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 48,
+      "words": 200
+    },
+    {
+      "package": "BIOA_STA20_02D_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 35,
+      "words": 53
+    },
+    {
+      "package": "BIOA_STA20_02statue_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 100,
+      "words": 922
+    },
+    {
+      "package": "BIOA_STA20_04A_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 162,
+      "words": 1863
+    },
+    {
+      "package": "BIOA_STA20_04C_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 96,
+      "words": 715
+    },
+    {
+      "package": "BIOA_STA20_05_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 62,
+      "words": 611
+    },
+    {
+      "package": "BIOA_STA20_06consort_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 87,
+      "words": 841
+    },
+    {
+      "package": "BIOA_STA20_06_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 28,
+      "words": 322
+    },
+    {
+      "package": "BIOA_STA20_07A_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 192,
+      "words": 2111
+    },
+    {
+      "package": "BIOA_STA20_08_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 8,
+      "words": 96
+    },
+    {
+      "package": "BIOA_STA20_09A_DSG_LOC_INT.pcc",
+      "tlkSets": 7,
+      "strings": 385,
+      "words": 3885
+    },
+    {
+      "package": "BIOA_STA20_10A_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 222,
+      "words": 2540
+    },
+    {
+      "package": "BIOA_STA20_10B_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_STA20_10C_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 229,
+      "words": 2666
+    },
+    {
+      "package": "BIOA_STA20_10D_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 152,
+      "words": 1564
+    },
+    {
+      "package": "BIOA_STA20_10E_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 229,
+      "words": 2666
+    },
+    {
+      "package": "BIOA_STA20_10udina_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 229,
+      "words": 2666
+    },
+    {
+      "package": "BIOA_STA20_A_Arrival_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 97
+    },
+    {
+      "package": "BIOA_STA30_00news_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA30_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 10,
+      "words": 166
+    },
+    {
+      "package": "BIOA_STA30_00_PLC_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA30_01_DSG_LOC_INT.pcc",
+      "tlkSets": 6,
+      "strings": 314,
+      "words": 2823
+    },
+    {
+      "package": "BIOA_STA30_02A_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 553,
+      "words": 6802
+    },
+    {
+      "package": "BIOA_STA30_02B_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 224,
+      "words": 2423
+    },
+    {
+      "package": "BIOA_STA30_02C_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_STA30_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 44,
+      "words": 150
+    },
+    {
+      "package": "BIOA_STA30_03A_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 216
+    },
+    {
+      "package": "BIOA_STA30_04A_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 289,
+      "words": 2077
+    },
+    {
+      "package": "BIOA_STA30_05a_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 4,
+      "words": 36
+    },
+    {
+      "package": "BIOA_STA30_06news_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA30_06_PLC_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA30_07A_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA30_07_PLC_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 328,
+      "words": 5778
+    },
+    {
+      "package": "BIOA_STA30_08_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 2,
+      "words": 28
+    },
+    {
+      "package": "BIOA_STA30_08_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 32
+    },
+    {
+      "package": "BIOA_STA60_00_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 22,
+      "words": 285
+    },
+    {
+      "package": "BIOA_STA60_01destiny_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 10,
+      "words": 114
+    },
+    {
+      "package": "BIOA_STA60_01nodest_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 135,
+      "words": 1281
+    },
+    {
+      "package": "BIOA_STA60_01scenic_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 955,
+      "words": 10460
+    },
+    {
+      "package": "BIOA_STA60_01_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 146,
+      "words": 1443
+    },
+    {
+      "package": "BIOA_STA60_02a_DSG_LOC_INT.pcc",
+      "tlkSets": 6,
+      "strings": 212,
+      "words": 1736
+    },
+    {
+      "package": "BIOA_STA60_02b_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 233,
+      "words": 1644
+    },
+    {
+      "package": "BIOA_STA60_03A_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 4,
+      "words": 36
+    },
+    {
+      "package": "BIOA_STA60_03quarian_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 22,
+      "words": 207
+    },
+    {
+      "package": "BIOA_STA60_04_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 84,
+      "words": 518
+    },
+    {
+      "package": "BIOA_STA60_05A_DSG_LOC_INT.pcc",
+      "tlkSets": 10,
+      "strings": 403,
+      "words": 3642
+    },
+    {
+      "package": "BIOA_STA60_05B_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 29,
+      "words": 176
+    },
+    {
+      "package": "BIOA_STA60_05women_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 41,
+      "words": 210
+    },
+    {
+      "package": "BIOA_STA60_05_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 46,
+      "words": 210
+    },
+    {
+      "package": "BIOA_STA60_06_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 105,
+      "words": 720
+    },
+    {
+      "package": "BIOA_STA60_07A_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 193,
+      "words": 1599
+    },
+    {
+      "package": "BIOA_STA60_07toss_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 88,
+      "words": 579
+    },
+    {
+      "package": "BIOA_STA60_07_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 35,
+      "words": 53
+    },
+    {
+      "package": "BIOA_STA60_08A_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_STA60_08A_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 199,
+      "words": 1564
+    },
+    {
+      "package": "BIOA_STA60_08B_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 38,
+      "words": 499
+    },
+    {
+      "package": "BIOA_STA60_08_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 39,
+      "words": 89
+    },
+    {
+      "package": "BIOA_STA60_09A_DSG_LOC_INT.pcc",
+      "tlkSets": 10,
+      "strings": 291,
+      "words": 2310
+    },
+    {
+      "package": "BIOA_STA60_09casino_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 56,
+      "words": 463
+    },
+    {
+      "package": "BIOA_STA60_11A_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 124,
+      "words": 1306
+    },
+    {
+      "package": "BIOA_STA60_11news_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA60_11_PLC_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 328,
+      "words": 5778
+    },
+    {
+      "package": "BIOA_STA70_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 8,
+      "words": 135
+    },
+    {
+      "package": "BIOA_STA70_01A_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA70_01_PLC_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 324,
+      "words": 5742
+    },
+    {
+      "package": "BIOA_STA70_02A_DSG_LOC_INT.pcc",
+      "tlkSets": 11,
+      "strings": 443,
+      "words": 3945
+    },
+    {
+      "package": "BIOA_STA70_02captain_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 4,
+      "words": 44
+    },
+    {
+      "package": "BIOA_STA70_02council_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 352,
+      "words": 4295
+    },
+    {
+      "package": "BIOA_STA70_02ground_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 39,
+      "words": 455
+    },
+    {
+      "package": "BIOA_STA70_02side_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 4,
+      "words": 36
+    },
+    {
+      "package": "BIOA_STA70_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 47,
+      "words": 232
+    },
+    {
+      "package": "BIOA_UNC10_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC10_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC10_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC10_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC11_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC11_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC11_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC11_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC11_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC13_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC13_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC13_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC17_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC17_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC17_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 36,
+      "words": 468
+    },
+    {
+      "package": "BIOA_UNC17_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC20_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC20_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC20_01_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 25,
+      "words": 281
+    },
+    {
+      "package": "BIOA_UNC20_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 20,
+      "words": 257
+    },
+    {
+      "package": "BIOA_UNC20_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC21_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC21_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 36,
+      "words": 468
+    },
+    {
+      "package": "BIOA_UNC21_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC21_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC24_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC24_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 52,
+      "words": 515
+    },
+    {
+      "package": "BIOA_UNC24_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC25_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC25_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 10,
+      "words": 108
+    },
+    {
+      "package": "BIOA_UNC25_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC30_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC30_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC30_02_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 11,
+      "words": 150
+    },
+    {
+      "package": "BIOA_UNC30_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC31_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC31_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 38,
+      "words": 421
+    },
+    {
+      "package": "BIOA_UNC31_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC42_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC42_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC42_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 74,
+      "words": 885
+    },
+    {
+      "package": "BIOA_UNC42_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC51_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC51_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC52_00main_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 3,
+      "words": 31
+    },
+    {
+      "package": "BIOA_UNC52_00survey_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 3,
+      "words": 48
+    },
+    {
+      "package": "BIOA_UNC52_00torch_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 38,
+      "words": 213
+    },
+    {
+      "package": "BIOA_UNC52_00_LAY_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 109,
+      "words": 1410
+    },
+    {
+      "package": "BIOA_UNC52_01_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 187,
+      "words": 1963
+    },
+    {
+      "package": "BIOA_UNC52_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 21,
+      "words": 139
+    },
+    {
+      "package": "BIOA_UNC52_03_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 75,
+      "words": 526
+    },
+    {
+      "package": "BIOA_UNC52_05_DSG_LOC_INT.pcc",
+      "tlkSets": 6,
+      "strings": 328,
+      "words": 3517
+    },
+    {
+      "package": "BIOA_UNC52_CIN_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 9,
+      "words": 98
+    },
+    {
+      "package": "BIOA_UNC52_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_UNC53_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC53_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC53_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 187
+    },
+    {
+      "package": "BIOA_UNC53_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 62,
+      "words": 501
+    },
+    {
+      "package": "BIOA_UNC53_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC54_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC54_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC54_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 38,
+      "words": 439
+    },
+    {
+      "package": "BIOA_UNC54_02_DSG_LOC_INT.pcc",
+      "tlkSets": 5,
+      "strings": 84,
+      "words": 1091
+    },
+    {
+      "package": "BIOA_UNC54_03_DSG_LOC_INT.pcc",
+      "tlkSets": 4,
+      "strings": 16,
+      "words": 183
+    },
+    {
+      "package": "BIOA_UNC54_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC55_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC55_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC55_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC55_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC61_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC61_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC61_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 200
+    },
+    {
+      "package": "BIOA_UNC61_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC62_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC62_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC62_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC62_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC71_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC71_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC71_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 18,
+      "words": 150
+    },
+    {
+      "package": "BIOA_UNC71_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC73_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC73_01_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 109,
+      "words": 1078
+    },
+    {
+      "package": "BIOA_UNC73_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC80_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC80_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC80_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC80_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 53,
+      "words": 624
+    },
+    {
+      "package": "BIOA_UNC80_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC81_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC81_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 273
+    },
+    {
+      "package": "BIOA_UNC81_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC81_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC81_04_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 30,
+      "words": 273
+    },
+    {
+      "package": "BIOA_UNC81_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC82_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC82_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC82_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC82_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 147,
+      "words": 1621
+    },
+    {
+      "package": "BIOA_UNC82_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC83_00_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC83_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC83_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 36,
+      "words": 468
+    },
+    {
+      "package": "BIOA_UNC83_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC84_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 174
+    },
+    {
+      "package": "BIOA_UNC84_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC84_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 174
+    },
+    {
+      "package": "BIOA_UNC84_02_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 174
+    },
+    {
+      "package": "BIOA_UNC84_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 174
+    },
+    {
+      "package": "BIOA_UNC84_04_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 27,
+      "words": 174
+    },
+    {
+      "package": "BIOA_UNC84_05_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 48,
+      "words": 380
+    },
+    {
+      "package": "BIOA_UNC84_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 54,
+      "words": 331
+    },
+    {
+      "package": "BIOA_UNC90_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC90_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC90_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC90_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_UNC92_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC92_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC92_02_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC92_03_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_UNC92_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 63,
+      "words": 370
+    },
+    {
+      "package": "BIOA_UNC93_00_LAY_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 100,
+      "words": 1312
+    },
+    {
+      "package": "BIOA_UNC93_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 36,
+      "words": 468
+    },
+    {
+      "package": "BIOA_UNC93_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 33,
+      "words": 125
+    },
+    {
+      "package": "BIOA_WAR00_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 51
+    },
+    {
+      "package": "BIOA_WAR20_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 159
+    },
+    {
+      "package": "BIOA_WAR20_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 11,
+      "words": 94
+    },
+    {
+      "package": "BIOA_WAR20_02a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_03a_DSG_LOC_INT.pcc",
+      "tlkSets": 14,
+      "strings": 801,
+      "words": 7778
+    },
+    {
+      "package": "BIOA_WAR20_03b_DSG_LOC_INT.pcc",
+      "tlkSets": 12,
+      "strings": 438,
+      "words": 4318
+    },
+    {
+      "package": "BIOA_WAR20_03c_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_03c_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 75,
+      "words": 929
+    },
+    {
+      "package": "BIOA_WAR20_03d_DSG_LOC_INT.pcc",
+      "tlkSets": 14,
+      "strings": 434,
+      "words": 4426
+    },
+    {
+      "package": "BIOA_WAR20_03e_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 51,
+      "words": 463
+    },
+    {
+      "package": "BIOA_WAR20_03f_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 164,
+      "words": 1475
+    },
+    {
+      "package": "BIOA_WAR20_04a_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 1,
+      "words": 10
+    },
+    {
+      "package": "BIOA_WAR20_04b_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_05a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_05_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 75,
+      "words": 929
+    },
+    {
+      "package": "BIOA_WAR20_07_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 11,
+      "words": 157
+    },
+    {
+      "package": "BIOA_WAR20_08_PLC_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 5,
+      "words": 32
+    },
+    {
+      "package": "BIOA_WAR20_10a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_10b_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 62,
+      "words": 407
+    },
+    {
+      "package": "BIOA_WAR20_10_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 15,
+      "words": 228
+    },
+    {
+      "package": "BIOA_WAR20_11a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_12a_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR20_13_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 130,
+      "words": 1150
+    },
+    {
+      "package": "BIOA_WAR30_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 12,
+      "words": 106
+    },
+    {
+      "package": "BIOA_WAR30_02A_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 227,
+      "words": 2856
+    },
+    {
+      "package": "BIOA_WAR30_02B_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 46,
+      "words": 502
+    },
+    {
+      "package": "BIOA_WAR30_02C_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR30_02D_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR30_02E_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR30_02F_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 46,
+      "words": 502
+    },
+    {
+      "package": "BIOA_WAR30_02G_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR30_02H_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 46,
+      "words": 502
+    },
+    {
+      "package": "BIOA_WAR30_02I_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR30_02I_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 181,
+      "words": 2354
+    },
+    {
+      "package": "BIOA_WAR40V_00_DSG_LOC_INT.pcc",
+      "tlkSets": 3,
+      "strings": 123,
+      "words": 1359
+    },
+    {
+      "package": "BIOA_WAR40_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 15,
+      "words": 152
+    },
+    {
+      "package": "BIOA_WAR40_01_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR40_05_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 44,
+      "words": 384
+    },
+    {
+      "package": "BIOA_WAR40_06_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR40_06_DSG_LOC_INT.pcc",
+      "tlkSets": 15,
+      "strings": 604,
+      "words": 5269
+    },
+    {
+      "package": "BIOA_WAR40_07_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR40_11_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 78,
+      "words": 946
+    },
+    {
+      "package": "BIOA_WAR50_00_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 6,
+      "words": 66
+    },
+    {
+      "package": "BIOA_WAR50_01_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 35,
+      "words": 393
+    },
+    {
+      "package": "BIOA_WAR50_02_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 169,
+      "words": 1523
+    },
+    {
+      "package": "BIOA_WAR50_03_CIN_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR50_03_DSG_LOC_INT.pcc",
+      "tlkSets": 1,
+      "strings": 134,
+      "words": 1130
+    },
+    {
+      "package": "BIOA_WAR50_05_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 130,
+      "words": 1217
+    },
+    {
+      "package": "BIOA_WAR50_07_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 50,
+      "words": 764
+    },
+    {
+      "package": "BIOA_WAR50_09_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR50_10_DSG_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOA_WAR50_13_DSG_LOC_INT.pcc",
+      "tlkSets": 2,
+      "strings": 63,
+      "words": 836
+    },
+    {
+      "package": "BIOG_Asari_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_Female_Player_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_HumanFemale_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_HumanMale_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_Krogan_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_Male_Player_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_Pilot_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_Quarian_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "BIOG_Turian_Hench_C_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "codex_dlc_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "Codex_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "EntryMenu_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "PlotManagerMap_LOC_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    },
+    {
+      "package": "Startup_INT.pcc",
+      "tlkSets": 0,
+      "strings": 0,
+      "words": 0
+    }
+  ]
+}

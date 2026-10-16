@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "package": "BIOA_ICE50_15_PLC_LOC_INT.pcc",
+    "stem": "BIOA_ICE50_15_PLC_LOC",
+    "textLang": "DE",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE50_15_PLC_LOC|ice50_trig28_elv_decon_D|150054",
+      "en": "Sie betreten jetzt den Dekontaminations- und Transport-Hub.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_15_PLC_LOC|ice50_trig28_elv_decon_D|150055",
+      "en": "Warnmeldung! Freie Gefahrenstoffe in der Dekontaminationskammer. Zugang zu den Passagierzügen nicht empfohlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_15_PLC_LOC|ice50_trig28_elv_decon_D|150056",
+      "en": "Keine gefährlichen oder unerlaubten Materialien festgestellt.",
+      "tr": ""
+    }
+  ]
+}

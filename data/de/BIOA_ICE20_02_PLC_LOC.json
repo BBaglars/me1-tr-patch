@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "package": "BIOA_ICE20_02_PLC_LOC_DE.pcc",
+    "stem": "BIOA_ICE20_02_PLC_LOC",
+    "textLang": "DE",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130860",
+      "en": "Außerdem leugnet ExoGeni noch immer Berichte, dass eines ihrer Erkundungsteams im Hades-Gamma-Cluster verschwunden ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130861",
+      "en": "Vorsitzender Burns vom Parlamentarischen Unterkomitee für transhumane Studien wurde von Biotikextremisten entführt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130864",
+      "en": "Präsidiumstechniker versuchen herauszufinden, warum sich ein Computersystem vor Kurzem auf katastrophale Weise überladen hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130866",
+      "en": "Allianz-Vertreter berichten, dass die Geth-Invasion im Armstrong-Cluster abgewehrt wurde, wobei die Geth schwere Verluste hinnehmen mussten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130867",
+      "en": "Eine Forschungsanlage im Hades-Gammacluster wurde von Biotikextremisten überfallen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130868",
+      "en": "Bergarbeiter im skyllianischen Randsektor wollen den Abbau von Element Zero auf einem Asteroiden wieder aufnehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130871",
+      "en": "Eine Forschungsstation auf Noveria wurde zerstört. Der genaue Grund dafür ist bis dato noch nicht bekannt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130872",
+      "en": "Ein salarianisches Ausgrabungsteam ist nach Freilegung einer protheanischen Ausgrabungsstätte auf ein unerwartetes Problem gestoßen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130873",
+      "en": "Francis Kitt sprach über seine Pläne, \"Hamlet\" mit Elcor-Darstellern zu verwirklichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|130874",
+      "en": "Die Vertragsverhandlungen zwischen der Allianz und der salarianischen Republik wurden endlich abgeschlossen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|134763",
+      "en": "Als wir uns erkundigten, warum die Kommunikation zum Erkundungsteam plötzlich abbrach, verweigerten Firmenvertreter jeden Kommentar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|134764",
+      "en": "ExoGeni hat vor Kurzem eine offizielle Erklärung in Bezug auf das im Hades-Gamma-Cluster vermisste Erkundungsteam abgegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|134765",
+      "en": "Laut dieser Erklärung wurden die Überreste des Erkundungsteams in der Nähe des verlassenen Lagers gefunden. Es gab keine Überlebenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|134766",
+      "en": "Man geht davon aus, dass die Forscher einem Angriff von Plünderern oder Söldnern zum Opfer gefallen sind. Ihre Namen werden veröffentlicht, sobald ihre Angehörigen informiert wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|135603",
+      "en": "Die Citadel-Sicherheit sieht davon ab, im Fall des toten Menschen Conrad Verner, der gestern Morgen nach einem Angriff auf eine Gruppe Turianer in einem Citadel-Restaurant in den Bezirken ums Leben kam, Anklage zu erheben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|136490",
+      "en": "Reporterin Khalisah al-Jilani hat vor Kurzem versucht, ein Interview mit Commander Shepard, dem ersten menschlichen Spectre, zu führen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|136493",
+      "en": "Commander Shepard soll, als diese Themen angesprochen wurden, die Kontrolle verloren und die Reporterin angegriffen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|136494",
+      "en": "Commander Shepard hat schwierige Fragen beantwortet und unter Beweis gestellt, dass in der militärischen Uniform ein wacher diplomatischer Geist steckt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|137652",
+      "en": "Der Kandidat der Trockenlandpartei, Charles Saracino, hat bestätigt, dass der erste menschliche Spectre seine Kandidatur unterstützt hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|138917",
+      "en": "Admiral Kahoku, ein angesehenes Mitglied des Allianz-Militärs, ist verstorben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|138918",
+      "en": "Da Verner den Angriff angezettelt hat, wird der Fall als Selbstverteidigung eingestuft. Botschafter Udina hat nicht vor, Einspruch zu erheben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|140921",
+      "en": "Allianz-Vertreter haben einen gefährlichen Kult, der vom früheren Allianz-Offizier Major Kyle angeführt wurde, zerschlagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143041",
+      "en": "Die Biotiker befanden sich auf einem Frachter und wurden zuletzt im Hades-Gammacluster gesehen. Es wurden bis jetzt noch keine Forderungen gestellt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143044",
+      "en": "Die Techniker sind sich bisher nicht sicher, wodurch die Fehlfunktion verursacht wurde, sie wissen auch nicht, wozu dieses System ursprünglich diente.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143045",
+      "en": "Der Citadel-Sicherheitsdienst untersucht den möglichen Vandalismus oder Missbrauch öffentlichen Eigentums.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143046",
+      "en": "Um zukünftige Geth-Aktivitäten eindämmen zu können, plant die Allianz, in dem Gebiet eine starke Präsenz aufrecht zu erhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143047",
+      "en": "Major Kyle und seine Kultisten weigerten sich, sich zu ergeben, und wurden beim darauf folgenden Schusswechsel getötet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143048",
+      "en": "Major Kyle ergab sich und ist nun wegen seiner ernsten posttraumatischen Stresssyndrome in Behandlung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143049",
+      "en": "Dieser Veteran, der sich während des Konflikts gegen die Batarianer die Liebe seiner Truppen erworben hatte, starb eines natürlichen Todes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143050",
+      "en": "Kahoku hinterlässt eine Frau und drei Kinder, die eine kleine, private Gedenkfeier planen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143051",
+      "en": "Bei einem wagemutigen Allianzeinsatz wurden die Biotiker neutralisiert. Auf wundersame Weise blieben alle Wissenschaftler unverletzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143052",
+      "en": "Forscher, die man unter Drogen gesetzt hatte, wurden als menschliche Schilde eingesetzt, und es hat beim nachfolgenden Allianzeinsatz zahlreiche zivile Verluste gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143053",
+      "en": "Es wird erwartet, dass die Anlage bald wieder öffnet, dann allerdings mit verschärften Sicherheitsmaßnahmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143054",
+      "en": "Die unter Drogen gesetzten Wissenschaftler griffen die Allianzsoldaten an, und die Rettungsmission wurde zu einem brutalen Massaker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143055",
+      "en": "Das Forschungszentrum wird wohl erst in einiger Zeit wieder eröffnet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143056",
+      "en": "Überfälle eines kriminellen Bandenchefs hatten den Abbau in diesem Gebiet für einige Zeit unterbrochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143057",
+      "en": "Nach Verhandlungen mit dem Allianzmilitär hat der Bandenchef jedoch zugestimmt, dass der Abbau fortgesetzt werden kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143058",
+      "en": "Der Bandenchef wurde zu einem späteren Zeitpunkt ermordet, und die Kämpfe unter seinen Vertretern lassen weitere Überfälle als eher unwahrscheinlich erscheinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143059",
+      "en": "Nonya Tombiri wurde verhaftet und ihres Postens als Administratorin der Caleston-Minenkolonie enthoben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143060",
+      "en": "Administratorin Nonya Tombiri von der Caleston-Minenkolonie ist verschwunden, und es wird vermutet, dass sie bei einer gewalttätigen Auseinandersetzung in ihrem Büro umgekommen ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143061",
+      "en": "Ansässige Behörden konnten keine weiteren Details nennen, aber Tombiri machte offenbar Geschäfte mit dem Caleston-Kartell, das mit Rotem Sand dealte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143062",
+      "en": "Administrator Tombiris Nachfolger wurde bis jetzt noch nicht ernannt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143063",
+      "en": "Administratorin Nonya Tombiri von der Caleston-Minenkolonie meldet, dass das Caleston-Kartell dem Gesetz übergeben wurde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143064",
+      "en": "Das Kartell, eine mächtige Gruppe, die mit Rotem Sand dealte, hat die Behörden jahrelang zum Narren gehalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143065",
+      "en": "EAE, dem die Caleston-Minenkolonie gehört, zeigte sich erfreut, dass das Kartell nicht länger auf seiner Station operiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143066",
+      "en": "ExoGeni-Vertreter haben die Schließung ihrer Forschungskolonie auf Feros angekündigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143067",
+      "en": "Aufgrund schwieriger Lebensbedingungen sowie mangelnder bedeutender Entdeckungen war der Fortbestand der Kolonie wirtschaftlich nicht mehr tragbar. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143068",
+      "en": "Nach Jahren schlechter wirtschaftlicher Ergebnisse hat ExoGeni verkündet, dass die Forschungskolonie auf Feros nun endlich Gewinn macht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143069",
+      "en": "Neue Entdeckungen sowie entschlossene Kolonisierungsbemühungen haben sich für ExoGeni endlich ausgezahlt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143070",
+      "en": "Nach der Ankündigung stiegen die Aktien von ExoGeni, und die Investoren zeigten sich erfreut über die guten Neuigkeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143249",
+      "en": "Angesichts der auf Noveria durchgeführten Forschungen geht man davon aus, dass die Zerstörung auf ein fehlgeschlagenes Experiment zurückzuführen ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143250",
+      "en": "Den Berichten zufolge ist Administrator Anoleis während des Unglücks ums Leben gekommen. Es wurde bis jetzt noch kein neuer Administrator ernannt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143251",
+      "en": "Administrator Anoleis wird als Resultat der Katastrophe einiger Verbrechen angeklagt, allerdings liegen uns diesbezüglich noch keine genauen Informationen vor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143252",
+      "en": "Administrator Anoleis hat nur wenige Details bekannt gegeben; bisher wissen wir nur, dass die Untersuchungen und Reparaturen vorangehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143253",
+      "en": "Hanar-Demonstranten blockieren die Ausgrabungsstätte und verlangen, dass die Artefakte der \"Entflammten\", wie sie die Hanar nennen, nicht gestört werden dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143254",
+      "en": "Das Ausgrabungsteam hat sich an die Hanar-Vertreter auf der Citadel gewandt, um eine diplomatische Lösung zu finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143255",
+      "en": "Die Produktion wird den Elcor das dramatische Theater näherbringen, wobei sich Hamlet der Elcor-Körpersprache und -Pheromone bedienen wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143256",
+      "en": "Kitt sagt, dass er einem menschlichen Publikum überdies die Chance geben möchte, Hamlet anhand seiner Taten und nicht seiner Emotionen zu beurteilen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143257",
+      "en": "BinHex hat sich außergerichtlich mit einer Kroganer-Gruppe geeinigt, die das Genetikunternehmen des Betrugs bezichtigt hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143258",
+      "en": "Die Kroganer hatten BinHex damit beauftragt, Studien durchzuführen, um ihre genetische Sterilisation auf lange Sicht heilen zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143259",
+      "en": "Später klagte die Gruppe auf die Rückzahlung ihres Geldes, als die Studie keine verwendbaren Ergebnisse hervorbrachte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143260",
+      "en": "Salarianische Vertreter hatten sich beschwert, dass die Allianz bei ihrer harten Verhandlungstaktik unvernünftige Forderungen gestellt habe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143261",
+      "en": "Das von Elias Keeler ausgehandelte Abkommen wird der Allianz Milliarden Credits einbringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143262",
+      "en": "Die Salarianer lobten die Offenheit und Flexibilität der Allianz-Unterhändler, die zu einem Abkommen führten, von dem beide Seiten profitieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143263",
+      "en": "Das Abkommen wurde vom Allianz-Unterhändler Thomas Kent ausgehandelt, nachdem sich sein Mentor Elias Keeler aus gesundheitlichen Gründen zurückziehen musste.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143264",
+      "en": "Leider weigerte sich Shepard, Fragen zu beantworten, was zu einer gewissen Besorgnis führte, ob sich der Spectre der Menschheit noch verpflichtet fühle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143265",
+      "en": "Später zeigen wir Ihnen einen Exklusivbericht zu diesem Thema.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143269",
+      "en": "In einem Bericht, den wir später senden werden, untersucht Emily Wong die Korruption auf der Citadel und enttarnt ein ausgewachsenes Verbrechersyndikat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143271",
+      "en": "Ist unsere Sicherheit durch den zunehmenden Verkehr auf der Citadel gefährdet? Emily Wong gibt Ihnen einen Einblick in die gefährliche Welt der Weltraumverkehrssteuerung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|143272",
+      "en": "Später gewährt Ihnen Emily Wong in einem Exklusivinterview einen Einblick in die rasante Welt der Weltraumverkehrssteuerung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147295",
+      "en": "Der Rat wird mir doch keine Fragen stellen, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147296",
+      "en": "Ich kann nicht glauben, dass der Rat alle Beweise, die gegen Saren vorliegen, ignoriert hat!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147299",
+      "en": "Willkommen im Hanshan-Raumhafen, dem angesehensten Ort der Galaxis für unabhängige wissenschaftliche Forschung und Entwicklung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147306",
+      "en": "Angesichts des kürzlich erfolgten Angriffs auf Eden Prime ziehen viele koloniale Investoren ihre Unterstützung für zukünftige Projekte zurück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147307",
+      "en": "Im Gedenken an Eden Prime bringen wir ein Portrait der mutigen Soldatin Nirali Bhatia.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147308",
+      "en": "Es kursieren Berichte, dass Allianz-Botschafter Udina einen Spectre beschuldigt, den Angriff auf Eden Prime inszeniert zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147309",
+      "en": "Im Verlauf der Eden-Prime-Untersuchung hat der Rat angeblich einem seiner Untergebenen den Spectre-Status wieder entzogen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147418",
+      "en": "Es werden Feiern geplant für den Tag, an dem sich das Ende der Rachni-Kriege jährt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147419",
+      "en": "Viele Ratswelten, insbesondere die Kolonien der Asari und Salarianer, werden Siegesparaden abhalten, um dem Triumph über die einfallenden Rachni zu gedenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|147420",
+      "en": "Als erstaunliches Schuldeingeständnis haben mehrere Asari-Kolonien Kroganer eingeladen, um sie für die Siege, die erhobene Kroganer ermöglicht haben, zu ehren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148929",
+      "en": "Soldatin Bhatia war eine hingebungsvolle Ehefrau und talentierte Köchin und schloss sich im Verlauf des Ausbildungsplans dem Allianz-Militär an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148930",
+      "en": "Nach Ende ihrer Dienstzeit wollte Frau Bhatia ein Restaurant eröffnen. Doch stattdessen verlor sie beim Schutz der Kolonisten auf Eden Prime ihr Leben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148931",
+      "en": "Weitere Kurzportraits mutiger Soldaten und freie Stellen beim Militär finden Sie beim Allianz-Militär im Extranet, wenn Sie das Keyword \"Mut\" eingeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148932",
+      "en": "Udina stützt seine Anschuldigungen angeblich auf Augenzeugenberichte, konnte aber keine Beweise vorlegen, die weitere Nachforschungen rechtfertigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148933",
+      "en": "Als er um einen Kommentar gebeten wurde, wollte ein Sprecher des Rates nur bestätigen, dass die Untersuchung der Angriffe auf Eden Prime noch andauert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148934",
+      "en": "Der Beschuldigte, dessen Namen bisher ungenannt bliebt, wurde noch nicht gestellt, aber ein Sprecher des Rates hat bestätigt, dass entsprechende Maßnahmen ergriffen wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148937",
+      "en": "Das bezweifle ich. Wir haben unsere Berichte angefertigt. Nun müssen wir Botschafter Udina nur noch vertrauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148938",
+      "en": "Nein, das müssen wir nicht, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148939",
+      "en": "Saren ist einer ihrer besten Untergebenen. Es ist nur natürlich, dass sie seinem Wort eher glauben als unserem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148940",
+      "en": "Also jagen wir jetzt Hinweisen hinterher, während ein eingebildeter Turianer mit seinen Geth-Truppen frei herumläuft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148941",
+      "en": "So läuft es in der Politik, Chief.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148942",
+      "en": "Ich hasse Politik.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148943",
+      "en": "Ich freue mich schon auf den Gesichtsausdruck der Ratsmitglieder, wenn sie Beweise vorgelegt bekommen, die sie nicht ignorieren können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148944",
+      "en": "Ich hoffe nur, dass es dann noch nicht zu spät ist. Die ganze Zeit, in der wir Beweise gesucht haben, konnte sich Saren einen netten Vorsprung herausarbeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148945",
+      "en": "Dieses Mal kann uns der Rat unmöglich ignorieren. Sarens Tage als Spectre sind gezählt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148946",
+      "en": "Hätten sie früher auf uns gehört, dann könnte Saren schon längst inhaftiert sein. Jedes Leben, das aufgrund dieser Verzögerung genommen wird, geht auf das Konto des Rates.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148947",
+      "en": "Dieses Mal kann uns der Rat unmöglich ignorieren. Sarens Tage als Spectre sind gezählt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148948",
+      "en": "Gratulieren Sie sich lieber noch nicht. Die ganze Zeit, in der wir Beweise gesucht haben, konnte Saren seinen Plan weiter verwirklichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148949",
+      "en": "Wenn die Beweise es wert sind, mich dafür zu töten, dann sollten sie auch ausreichen, um den Rat zu motivieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148950",
+      "en": "Ist Ihnen klar, dass Saren längst im Gefängnis sitzen könnte, wenn Sie mit Ihrer Information direkt zum Rat gegangen wären?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148951",
+      "en": "Ein Quarianer allein und ohne Fürsprecher? Der Rat hätte mich doch bloß ausgelacht. Falls mich Saren nicht vorher umgebracht hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148952",
+      "en": "Passen Sie da draußen auf sich auf. Fai Dan sagte, dass wir keine Deckung finden würden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148953",
+      "en": "Ich würde behaupten, dass ich in ebenso vielen Schützengräben gelegen habe wie Sie, Lieutenant ... wenn nicht in noch mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148954",
+      "en": "Ziehen Sie da unten lieber den Kopf ein. Fai Dan sagte, dass wir keine Deckung finden würden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148955",
+      "en": "Ich werde mich bemühen, Ihnen zu folgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148956",
+      "en": "Sind Sie sicher, dass das der richtige Weg ist? Fai Dan sagte, dass wir vor den Geth nicht in Deckung gehen könnten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148957",
+      "en": "Commander Shepard hat die beste Entscheidung getroffen. Wir werden mit den Geth fertig. Die Tunnel sind noch nicht erforscht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148958",
+      "en": "Zahlreiche Gegner und keine Deckung werden den Kampf erschweren. Seien Sie da unten vorsichtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148959",
+      "en": "Aber zumindest wissen wir über die Geth Bescheid. Wer weiß, was es in den Tunneln für Bestien gibt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148960",
+      "en": "Das wird doch nicht übel enden, oder? Fai Dan sagte, dass es da unten keine Deckung gibt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148961",
+      "en": "Um die Tunnel wird es wohl einen erbitterten Kampf geben. In einem Tunnel wissen die immer, wo man ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148962",
+      "en": "Zu Ihrer eigenen Sicherheit und um die Privatsphäre anderer zu schützen haben Sie allen Anweisungen des Sicherheitspersonals Folge zu leisten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148963",
+      "en": "Wenn Sie noch Fragen oder Bedenken haben, so stehen Ihnen unsere freundlichen Verwaltungsangestellten jederzeit zur Verfügung. Vielen Dank und einen angenehmen Aufenthalt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148964",
+      "en": "Ich habe die Protheaner jahrzehntelang studiert, aber ein derartiges Gefühl habe ich noch nie verspürt. Was werden wir da unten vorfinden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148965",
+      "en": "Was immer es auch sein mag, seien Sie vorsichtig. Wäre dies einfach nur eine automatische Falle, so hätte sie Saren ebenfalls ausgelöst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148966",
+      "en": "Wäre dies einfach nur eine automatische Falle, so hätte sie Saren ausgelöst. Wofür halten Sie es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148967",
+      "en": "Wir sollten vorsichtig sein, was immer es auch ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148968",
+      "en": "Was werden wir Ihrer Meinung nach da unten finden? Es muss nützlich sein, wenn es speziell für uns bestimmt ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148969",
+      "en": "Keine Ahnung. Ich hoffe nur, dass was immer da unten ist, friedlich gesinnt ist. Wir haben im Moment schon genug Feinde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148970",
+      "en": "Was immer da unten ist, es ist protheanisch, nicht wahr? Es muss auf unserer Seite und gegen die Reaper sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148971",
+      "en": "Ich vertraue nicht darauf, dass irgendjemand auf unserer Seite steht. Nicht mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148972",
+      "en": "Was zum Teufel ist da unten? Ist das nur eine weitere Falle oder haben wir endlich mal etwas Glück?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148973",
+      "en": "Erhoffen Sie sich nicht zu viel. Wir können uns jetzt nur auf uns selbst verlassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148976",
+      "en": "Befürworter der ausgedehnten menschlichen Kolonialisierung bestehen darauf, dass Eden Prime einen Einzelfall darstellt. Aber dennoch gehen die Anmeldungen der Kolonisten drastisch zurück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|148977",
+      "en": "Viele koloniale Angebote sind eingefroren, bis es eine Zusicherung gibt, dass menschliche Kolonien auch angemessen geschützt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149101",
+      "en": "All ihre Kultur, ihre fortschrittliche Technologie, und trotzdem wurden die Protheaner genau wie wir von den Reapern überrannt. Sie sind gescheitert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149102",
+      "en": "Genau wie mein Volk. Aber sie gaben uns auch die Möglichkeit, uns zu retten. Wir müssen uns beeilen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149103",
+      "en": "Es ist tragisch. Trotz ihrer großen Errungenschaften haben die Protheaner alles verloren, genau wie mein Volk. Sogar ihr letzter Plan ist gescheitert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149104",
+      "en": "Die Protheaner sind nicht gescheitert. Sie haben uns eine Chance gegeben. Es liegt an uns, das Beste daraus zu machen, daher sollten wir uns lieber beeilen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149105",
+      "en": "So viele Rassen sehen zu den Protheanern auf und sehen in ihnen den Gipfel der Zivilisation. Aber sie wurden ebenso von den Reapern reingelegt wie wir. Sie sind gescheitert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149106",
+      "en": "Nicht völlig. Sie haben uns eine Waffe gegeben. Sie haben uns eine Chance gegeben ... wenn wir rechtzeitig dort hinkommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149107",
+      "en": "So viele Tote für einen Plan, durch den nichts erreicht wurde. Saren gelangt durch die Röhre, die Reaper treffen ein und die Protheaner scheitern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149108",
+      "en": "Wir können es rechtzeitig schaffen. Ihr Plan scheitert nur, wenn wir es tun, und ich bin zu weit gekommen, um Saren siegen zu sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149109",
+      "en": "Ich kann es nicht glauben. So viele Tote, alles war umsonst. Die Protheaner sind den Reapern direkt in die Falle getappt, genau wie wir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE20_02_PLC_LOC|sp_news_vids_D|149110",
+      "en": "Gehen wir weiter. Ich habe nicht vor, wie sie zu enden.",
+      "tr": ""
+    }
+  ]
+}

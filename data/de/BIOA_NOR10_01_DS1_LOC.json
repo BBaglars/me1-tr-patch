@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "package": "BIOA_NOR10_01_DS1_LOC_DE.pcc",
+    "stem": "BIOA_NOR10_01_DS1_LOC",
+    "textLang": "DE",
+    "sets": 2
+  },
+  "entries": [
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|1502",
+      "en": "Schubwerke ... Check. Navigationssystem ... Check. Interner Emissionsspeicher aktiviert. Alle Systeme online. Abweichung ... etwas weniger als 1500 km.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|1519",
+      "en": "Joker! Statusbericht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|2718",
+      "en": "Sind gerade am Massenportal vorbei, Captain! Die Tarnsysteme sind aktiviert. Alles in Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|2719",
+      "en": "Gut. Dann finden Sie eine Komm-Bake und loggen uns ins Netzwerk ein. Ich will, dass die Missionsberichte an die Allianz übermittelt werden, bevor wir Eden Prime erreichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|2721",
+      "en": "Geben Sie nicht mir die Schuld. Der Captain ist immer schlecht gelaunt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|2723",
+      "en": "Ich kann mir gar nicht vorstellen, warum ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|3471",
+      "en": "Jawohl, Captain. Nur zur Info, Sir. Nihlus scheint Sie heimsuchen zu wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|53642",
+      "en": "Der Captain wartet im Kommunikationsraum auf Sie, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|53647",
+      "en": "Na super. Sie haben den Captain verärgert und ich darf es ausbaden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|53654",
+      "en": "Sie scheinen ihn verärgert zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|53672",
+      "en": "Commander Shepard soll zu einem Briefing in den Kommunikationsraum kommen. Richten Sie das aus. Jetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65190",
+      "en": "Das Arcturus-Prime-Massenportal ist in Reichweite. Starte die Transmissions-Sequenz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65192",
+      "en": "1500 ist in Ordnung. Ihr Captain wird zufrieden sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65198",
+      "en": "Ich kann den Typen nicht ausstehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65199",
+      "en": "Das ist Paranoia. Der Rat hat bei der Finanzierung dieses Projekts geholfen. Es ist ihr gutes Recht, jemanden abzustellen, der ihre Investition beurteilt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65200",
+      "en": "Das ist die offizielle Version. Aber nur Idioten glauben offizielle Versionen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65201",
+      "en": "Sehr richtig. Da steckt mehr dahinter als der Captain uns wissen lässt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65202",
+      "en": "Tut mir leid, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65217",
+      "en": "Sie schicken keine Spectres auf Testflüge. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65220",
+      "en": "Genug! Das reicht. Sie sind Soldaten. Also benehmen Sie sich auch wie Soldaten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65237",
+      "en": "Ganz meiner Meinung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|65239",
+      "en": "Schluss damit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|93207",
+      "en": "Gutes Timing, Commander. Ich wollte uns gerade in die Citadel bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|101470",
+      "en": "Ich habe uns gerade einen Sprung über die halbe Galaxie machen lassen und dabei ein Ziel von der Größe eines Knopfes getroffen! Das ist nicht nur \"in Ordnung\", sondern verdammt brillant!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|101556",
+      "en": "Alle Stationen sichern für Transit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|101557",
+      "en": "Grünes Licht. Annäherung eingeleitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|101558",
+      "en": "Portal-Kontakt in 3 ... 2 ... 1 ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|102169",
+      "en": "Nihlus hat Ihnen ein Kompliment gemacht. Und Sie hassen ihn ...?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|102170",
+      "en": "Außerdem bedeuten Spectres immer Ärger. Ich will ihn nicht an Bord haben. Nennen wir es Paranoia.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|102171",
+      "en": "Berufsrisiko. Wir gehen nirgendwohin, es sei denn es gäbe einen guten Grund dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|102174",
+      "en": "Sie gehen vom Schlimmsten aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|102178",
+      "en": "Sie übertreiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|102817",
+      "en": "Er ist schon hier, Lieutenant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|145136",
+      "en": "Alles klar, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|147242",
+      "en": "Verbunden. Berechne Transitmasse und Ziel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|147243",
+      "en": "Das Massenportal ist heiß. Zugriff auf Annäherungsvektor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|147251",
+      "en": "Commander. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148773",
+      "en": "Wenn der Captain mit mir spricht, klingt er immer so.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148774",
+      "en": "Schon 'mal bemerkt, dass der Captain immer genervt wirkt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148775",
+      "en": "Nur wenn er mit Ihnen spricht, Joker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148776",
+      "en": "Er klingt verärgert. Vielleicht ist irgendetwas bei dieser Mission schief gelaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148778",
+      "en": "Ich bin unterwegs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148780",
+      "en": "Verärgert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_joker_D|148781",
+      "en": "Habe verstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|53635",
+      "en": "Vielleicht sollten Sie den Captain lieber nicht warten lassen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93032",
+      "en": "Joker wartet auf der Brücke auf Sie, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93033",
+      "en": "Commander. Es freut mich zu sehen, dass Sie in Ordnung sind. Der Verlust von Jenkins war ein harter Schlag für die Crew. Gut, dass zumindest Sie wohlauf sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93034",
+      "en": "Ich hasse es, wenn es zivile Opfer gibt. Das scheint einfach nicht richtig zu sein. Aber zumindest konnten Sie Saren davon abhalten, die ganze Kolonie auszulöschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93037",
+      "en": "Wir sind Marines. Wir halten zusammen. Es tut mir sehr leid, dass wir Jenkins verloren haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93038",
+      "en": "Vielleicht haben Sie recht. Es ist schlecht gelaufen. Ganz schlecht. Wir hätten Jenkins nicht verlieren dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93039",
+      "en": "Ich weiß. Aber ich kann mich nur schwer damit abfinden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93040",
+      "en": "Ich war dabei. Sie haben alles richtig gemacht. Wir hatten einfach nur Pech.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93041",
+      "en": "Alles klar, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93042",
+      "en": "Gut zu sehen, dass Sie in Ordnung sind, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93044",
+      "en": "Es ging ganz schön zur Sache da unten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93046",
+      "en": "Ohne Sie hätten wir es nicht geschafft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93048",
+      "en": "Tote Marines. Tote Kolonisten. Und wir haben noch nicht einmal diesen Sender.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93049",
+      "en": "Es gab nichts, was wir hätten tun können, um ihn zu retten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93050",
+      "en": "Ich hätte vieles dafür gegeben, ihn zu retten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93051",
+      "en": "Ich muss mit Joker sprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93055",
+      "en": "Alles in Ordnung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93056",
+      "en": "Soldatentod",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93057",
+      "en": "Jenkins' Tod",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93058",
+      "en": "Wir sprechen später.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93060",
+      "en": "Guter Job",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|93061",
+      "en": "Mission gescheitert",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130146",
+      "en": "Das war keine Ausflugsfahrt. Unsere erste Mission endet damit, dass ein Spectre den anderen tötet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130147",
+      "en": "Der Citadel-Rat wird nicht sehr glücklich sein darüber. Wahrscheinlich werden sie diese Situation nutzen, um der Allianz mehr Zugeständnisse abzunötigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130148",
+      "en": "Ja. Wie viele Biotiker. Wir unterliegen keinen Beschränkungen, aber wir stehen unter besonderer Beobachtung. Man könnte uns eigentlich auch dafür bezahlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130149",
+      "en": "Außerdem hat auch schon mein Vater gedient. Machte ihn stolz auf mich, als ich mich verpflichtete. Letzten Endes. Das ist Ihre Motivation? Ihre Familie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130150",
+      "en": "Ah, verstehe ... Akuze. Danach haben Sie sich wahrscheinlich Ihre Position in der Flotte aussuchen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130151",
+      "en": "Ah, verstehe ... Der Skyllianische Angriff. Danach haben Sie sich wahrscheinlich Ihre Position in der Flotte aussuchen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130152",
+      "en": "Ah, verstehe ... Torfan. Üble Geschichte. Danach haben Sie sich wahrscheinlich Ihre Position in der Flotte aussuchen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130153",
+      "en": "So sind Sie also hierher gekommen? Ich habe von Akuze gehört. Ich wette, danach haben Sie sich Ihre Position aussuchen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130154",
+      "en": "So sind Sie also hierher gekommen? Ich hörte vom Skyllianischen Angriff. Ich wette, danach haben Sie sich Ihre Position aussuchen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130155",
+      "en": "Ich habe von Torfan gehört. Ich wette, danach haben Sie sich Ihre Position aussuchen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130156",
+      "en": "Ich hörte, dass wir zur Citadel reisen, Ma'am. Warum?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130157",
+      "en": "Das ergibt Sinn. Sie werden vielleicht noch gar nicht wissen, dass er nicht mehr für sie arbeitet. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130158",
+      "en": "Jawohl, Ma'am. Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130159",
+      "en": "Verstanden, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130160",
+      "en": "Was immer passieren soll. Wir sind bereit. Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130161",
+      "en": "Klar und deutlich, Ma'am. Gibt es noch etwas zu besprechen, bevor wir landen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130162",
+      "en": "Sehr wohl, Commander. Gibt es noch etwas zu besprechen, bevor wir landen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130163",
+      "en": "Einem Botschafter? Da brauchen Sie nur die Standardregeln zu befolgen. Gegenüber allen salutieren, die Sie nicht essen oder töten können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130164",
+      "en": "Viel Glück, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130165",
+      "en": "Jawohl, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130166",
+      "en": "Einige der Crewmitglieder könnten ihn gebrauchen. Commander",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130170",
+      "en": "Sie haben die Situation schnell erfasst. Sind Sie ein Karrieretyp?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130172",
+      "en": "Ich war ein ganz normaler Navy-Sprössling. Aber ich habe mich etwas besser entwickelt, als die meisten glaubten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130173",
+      "en": "Ich habe meine Eltern nie kennengelernt. Sie hätten mich nach der Sache vor ein paar Jahren kontaktieren können, wenn sie mich hätten sehen wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130174",
+      "en": "Meine Familie waren alle Farmer auf Mindoir. Jetzt gibt es nur noch mich. Aber ich bin darüber hinweg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130178",
+      "en": "Niemand hätte mich aufhalten können. Hinter einer Kanone ist immer noch der beste Weg, um die Galaxie zu erkunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130182",
+      "en": "Der Captain hofft, dass der Botschafter eine Anhörung beim Rat arrangieren kann. Um ihnen zu sagen, was Saren vorhat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130184",
+      "en": "Wenn der Captain Sie über seine Pläne unterrichten will, wird er das selbst tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130186",
+      "en": "Das Gespräch mit dem Captain war vertraulich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130189",
+      "en": "Wir sprechen ein anderes Mal. Bereiten Sie sich gut auf das Treffen mit dem Botschafter vor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130190",
+      "en": "Es stehen große Sachen an. Ich will nicht, dass es jemand vermasselt. Verstanden, Lieutenant?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130191",
+      "en": "Was auch immer passieren wird. Der Captain hat alles unter Kontrolle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130192",
+      "en": "Kennen Sie irgendwelche Benimmregeln, wie man sich gegenüber einem Botschafter zu benehmen hat? Ich treffe mich nicht allzu häufig mit Politikern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130195",
+      "en": "Behalten Sie Ihre Bedenken für sich. Sonst riskieren Sie einen Verweis für das Nichtbefolgen von Befehlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130197",
+      "en": "Wir sind auf dem Weg zur Citadel. Wenn wir unsere Angelegenheiten erledigt haben, sollten wir versuchen, einen Kurzurlaub einzulegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130203",
+      "en": "Viel rumgekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130204",
+      "en": "Im Vertrauen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130205",
+      "en": "Keine Sorge",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130207",
+      "en": "So ähnlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130208",
+      "en": "Ich habe keine.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130209",
+      "en": "Wir waren Bauern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130210",
+      "en": "Mir geht's um die Action.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130211",
+      "en": "Das ist jetzt nicht wichtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130218",
+      "en": "Wir müssen mit dem Rat reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130219",
+      "en": "Befolgen Sie nur die Befehle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130220",
+      "en": "Vertraulich",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130225",
+      "en": "Benimmregeln",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130226",
+      "en": "Mund halten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_01_DS1_LOC|nor10_kaiden_D|130227",
+      "en": "Nein.",
+      "tr": ""
+    }
+  ]
+}

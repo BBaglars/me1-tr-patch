@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "package": "BIOA_ICE50_07_PLC_LOC_DE.pcc",
+    "stem": "BIOA_ICE50_07_PLC_LOC",
+    "textLang": "DE",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE50_07_PLC_LOC|ice50_trig26_elv_reactor_D|150043",
+      "en": "Sie befinden sich jetzt im Hauptreaktor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_07_PLC_LOC|ice50_trig26_elv_reactor_D|150044",
+      "en": "Warnmeldung! Hauptreaktor wurde gemäß Notfall-Eindämmungsprozeduren abgeschaltet. Manueller Neustart erforderlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_07_PLC_LOC|ice50_trig26_elv_reactor_D|150046",
+      "en": "Alle Systeme funktionieren innerhalb der Toleranzgrenzen.",
+      "tr": ""
+    }
+  ]
+}

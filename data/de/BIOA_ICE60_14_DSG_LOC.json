@@ -1,0 +1,930 @@
+{
+  "meta": {
+    "package": "BIOA_ICE60_14_DSG_LOC_DE.pcc",
+    "stem": "BIOA_ICE60_14_DSG_LOC",
+    "textLang": "DE",
+    "sets": 2
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30522",
+      "en": "Online. Wie kann ich Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30523",
+      "en": "Das kann ich leider nicht ohne einen entsprechenden Autorisierungscode.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30524",
+      "en": "Lady Benezia, eine Vorstandssekretärin von BinHex, befindet sich auf dem Verwaltungsdeck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30525",
+      "en": "Yaroslev Tartakovsky, Verwaltungsleiter, befindet sich auf dem Verwaltungsdeck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30526",
+      "en": "Ich melde Sie ab, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30527",
+      "en": "Verbindung wird hergestellt. Ich habe vollen Zugang zur Einrichtung und stehe Ihnen zur Verfügung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30529",
+      "en": "Bestätigt. Code Omega wird in 120 Sekunden ausgeführt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30530",
+      "en": "Dieser Code war nicht richtig. Bitte melden Sie sich umgehend beim Sicherheitsdienst zwecks Arrest und Verhör.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30532",
+      "en": "Wer könnte diese Codes haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30533",
+      "en": "Wer könnte diese Codes haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30534",
+      "en": "Wer könnte diese Codes haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30535",
+      "en": "Wer könnte diese Codes haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30536",
+      "en": "Wer könnte diese Codes haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30537",
+      "en": " Verwaltungsleiter Yaroslev Tartakovsky oder jeder andere Verantwortliche von BinHex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30538",
+      "en": "Tut mir Leid. Das System ist zwar betriebsbereit, aber nicht scharfgeschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30539",
+      "en": "Die Reinigungssteuerung befindet sich auf dem Verwaltungsdeck. Ein Sicherheitsschlüssel von einem der leitenden Wissenschaftler wird benötigt, um das System scharfzuschalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30543",
+      "en": "Alarm! Neutronenreinigungssystem aktiviert. Es wird eine sofortige Räumung empfohlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30544",
+      "en": "Alarm! Neutronenreinigungssystem scharfgeschaltet. Die Aktivierung startet einen zweiminütigen Countdown bis zur Sterilisierung der Einrichtung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30545",
+      "en": "Mitarbeiter müssen einen Mindestsicherheitsabstand einhalten. Sollte die Räumung fehlschlagen, kann dies einen ernsthaften Genschaden zur Folge haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30546",
+      "en": "Kontaminationsleck im Labortrakt Gamma. Das Neutronenreinigungssystem ist betriebsbereit, wurde aber noch nicht scharfgeschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30548",
+      "en": "Laut meiner verbliebenen internen Sensoren sind keine Asari sichtbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30549",
+      "en": "Die Neutronenreinigung ist ein Absicherungssystem innerhalb des Isolationsbereichs. Im Falle eines unwiederbringlichen Eindämmungsverlustes, wird es eingesetzt, um die Situation zu klären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30550",
+      "en": "Tut mir Leid. Das Sensorennetzwerk ist zu beschädigt, um eine präzise Zählung durchführen zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30551",
+      "en": "\"Schätzen\" liegt außerhalb meiner vorgegebenen Parameter, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30553",
+      "en": "Aktiviere die Neutronenreinigung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30554",
+      "en": "Der Code lautet: 875-020-079. Code Omega, lokale Ausführung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30555",
+      "en": "Äh, sic semper tyran... hüstel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30563",
+      "en": "Wer könnte diese Codes haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30564",
+      "en": "Wie schalte ich es scharf?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30568",
+      "en": "Wie ist der Status der Einrichtung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30571",
+      "en": "Gibt es hier eine Asari?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30573",
+      "en": "Ich brauche Informationen über die Neutronenreinigung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30574",
+      "en": "Wie viele von den Viechern sind hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30575",
+      "en": "Lass mich deine präziseste Schätzung hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30576",
+      "en": "Gibt es hier Überlebende?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30578",
+      "en": "Wir rücken weiter vor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34837",
+      "en": "Ein Großteil der Energie wird in Hochgeschwindigkeitsneutronen umgewandelt. Die radioaktive Strahlung tötet sofort jede uns bekannte Lebensform innerhalb von 500 Metern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34839",
+      "en": " Wichtiger Sicherheitstipp: Finger weg vom roten Knopf!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34840",
+      "en": "Okay, das ist suboptimal. Wichtiger Sicherheitstipp: Finger weg vom roten Knopf!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34841",
+      "en": "Hmph. Für einen Kroganer nur ein netter Nachmittag in der Sonne.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34842",
+      "en": "Die Reinigung ist tödlich für alle bekannten Lebensf...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34843",
+      "en": "Halt die Klappe. Das Letzte, was ich jetzt brauche, ist eine virtuelle Schnecke, die meine Fitness anzweifelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34844",
+      "en": "Wir sollten besser keine der Steuerungen anfassen ohne die Anleitung gelesen zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34845",
+      "en": "Es ist immer eine gute Idee, das Handbuch zu lesen, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34846",
+      "en": "Ach ja?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34847",
+      "en": "Als ob wir noch 'nen Grund bräuchten, hier nichts anzufassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34848",
+      "en": "Eine Asari, die ich nicht identifizieren kann, steht neben Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34849",
+      "en": "Laut meiner verbliebenen internen Sensoren sind keine weiteren sichtbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34850",
+      "en": "Die Reinigung ist eine Neutronenexplosionswaffe. Zwei Einheiten spaltbarer Materialien werden zusammengeführt, um eine kritische Masse zu formen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34855",
+      "en": "Was genau macht dieses Ding?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34875",
+      "en": "Wie man virtuelle Intelligenzen tolerieren kann, die alles wörtlich nehmen, ist mir ein Rätsel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41822",
+      "en": "Neutronenreinigung starten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41825",
+      "en": "Matriarchin Benezia",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41826",
+      "en": "Die Neutronenreinigung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41827",
+      "en": "Feindliche Kreaturen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41828",
+      "en": "Überlebende der Crew",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41832",
+      "en": "\"Klären\" klingt final.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41839",
+      "en": "Schätze.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41848",
+      "en": "Lagebericht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41849",
+      "en": "Ausloggen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41850",
+      "en": "Ich habe den Code.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41851",
+      "en": "[Unverständliches Murmeln]",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41852",
+      "en": "Wo bekomme ich den?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41860",
+      "en": "Was muss ich tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85592",
+      "en": "Es ist immer eine gute Idee, das Handbuch zu lesen, Doc.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85593",
+      "en": "Das ist ratsam für alle Systeme innerhalb dieser Einrichtung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85596",
+      "en": "Wie viele Rachni sind hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85598",
+      "en": "Rachni",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|148911",
+      "en": "Im Laborgebäude gibt es kein anderes lebendes Crew-Mitglied mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30753",
+      "en": "Sind Sie hier, um die Situation zu sichern?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30754",
+      "en": "Ich bin Yaroslav Tartakovsky, Leiter der Verwaltung. Ich würde ja aufstehen und Ihnen die Hand schütteln, aber ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30755",
+      "en": "Nein! Hören Sie mir doch mal zu! Die Rachni sind eine intelligente Spezies. Sie waren Raumfahrer, keine Tiere.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30756",
+      "en": "Nein. Sie sind gefährlicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30757",
+      "en": "Nein. Sie sind weitaus gefährlicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30758",
+      "en": "Nein. Sie sind weitaus gefährlicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30762",
+      "en": "Das bin ich. Ich leite die Verwaltung. Obwohl ich im Moment herzlich wenig leite.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30763",
+      "en": "Ich bin mir sicher, dass Sie erregt sind. Aber was hier passiert ist, ist allein unsere Schuld. Verstanden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30765",
+      "en": "Sie müssen mir zuhören. Wenn wir unseren Fehler nicht rückgängig machen, werden wir von den Kampfstationen aus bombadiert werden. Verstanden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30766",
+      "en": "Ähh. Ich befolge nur meine Befehle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30767",
+      "en": "BinHex hat ein Ei gefunden. Es war auf einem verlassenen Schiff, das tausende von Jahren durch den Raum getrieben war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30768",
+      "en": "Es war ein Rachni-Schiff. Innen befanden sich zahlreiche Eier in einer Art Kälteschlaf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30769",
+      "en": "Ja. Und es war kompliziert, weil es so lange gefroren war. Dass es die Jahrhunderte überlebt hat ... war ein kleines Wunder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30770",
+      "en": "Ich weiß nicht, ob ich das als Wunder bezeichnen würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30772",
+      "en": "BinHex wollte Rachni klonen. Wollten sie massenproduzieren. Eine Armee erschaffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30773",
+      "en": "Aber als sie hier ankamen, bemerkten sie, dass es kein gewöhnliches Rachni-Ei war. Es war eine Königin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30776",
+      "en": "Königinnen werden mit dem genetischen Code ihrer Väter geboren. Die Eier werden aus der Kolonie gebracht, um allein zu schlüpfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30780",
+      "en": "Nachdem sie Eier gelegt hatte, brachten sie sie zur Rift-Station. Sie glaubten, sie könnten die Babys ohne sie aufziehen, damit sie gefügiger wären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30782",
+      "en": "Ich glaube, dass Rachni sich ohne eine Königin nicht richtig entwickeln können. Ihr Verstand formt den der Kinder. Diese Rachni sind unkontrollierbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30787",
+      "en": "Äh, Verzeihung, aber sie ist nichts, was man zum Begaffen ausstellen würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30788",
+      "en": "Ähh. Das war genau das Falsche.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30789",
+      "en": "Richtig, ich bin ein Spectre des Rats. Wer sind Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30791",
+      "en": "Sie haben die Viecher rausgelassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30793",
+      "en": "Bisher verstehe ich rein gar nichts. Was haben Sie hier gemacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30795",
+      "en": "Sie haben ein tausend Jahre altes Ei ausgebrütet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30815",
+      "en": "Dann müssen wir doch nur die Königin hierherbringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30816",
+      "en": "Das ist ja alles faszinierend, aber wir haben keine Zeit zum Plaudern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30818",
+      "en": "Wollen Sie mir sagen, ich soll diese Viecher nicht töten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30820",
+      "en": "Ich habe sie nicht gesehen, als ich dort war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30822",
+      "en": "Offensichtlich haben sie sich geirrt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30824",
+      "en": "Wir kümmern uns später um sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30829",
+      "en": "Sie brachten es hierher, um es aufzuwecken?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30831",
+      "en": "Sie hätten es vernichten sollen, statt es auszubrüten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30833",
+      "en": "Ich weiß, dass wir bald tot sein werden. Also beeilen Sie sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30835",
+      "en": "Mira sagte, es gäbe hier einen \"Tartakovsky\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30837",
+      "en": "Wenn Sie mit \"sichern\" meinen \"erschießt jedes Monster, das ihr seht\", dann ja. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30933",
+      "en": "Ich habe nicht mehr viel Zeit. Ich sterbe unter dem Eis. Nicht der schlechteste Tod. Ich kam in Sibirien zur Welt. So schließt sich der Kreis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30934",
+      "en": "Nee, nee. Was sollte ich wollen? Ein starker Wodka wäre toll, aber dazu bin ich zu perforiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30935",
+      "en": "Nach außen wirkt es sicher ganz schön übel. Vielleicht ist der Schock doch nicht so schlecht, was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30936",
+      "en": "Der Code lautet 875-020-079. Und dann sagen Sie Mira: \"Code Omega, lokale Ausführung\". Ab dann läuft alles automatisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30937",
+      "en": "Hauen Sie dann schnell ab, okay? Ich werde bald nur noch ein Haufen Gewebe sein, aber das macht mir nichts mehr aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30938",
+      "en": "Ähh. Das war's dann wohl für mich. Ich versuche, inspirierende letzte Worte zu finden. Vielleicht so was wie... Ahhhh ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30939",
+      "en": "Ich fühle mich gerade nicht so gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30942",
+      "en": "Nein. Das wird leider nicht funktionieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30944",
+      "en": "Diese Rachni können nicht mehr gerettet werden. Es ist zwar traurig, aber ihnen muss Sterbehilfe gewährt werden. Ich glaube, die Neutronenreinigung sollte aktiviert werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30949",
+      "en": "Ähh. Ich wäre auch lieber woanders. Aber das Mira-System wird Sie nicht gehen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30950",
+      "en": "Es ist pannensicher, verstehen Sie? Wenn Sie gehen, ohne die Rachni eliminiert zu haben, könnten sie sich verbreiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30951",
+      "en": "Sicher, sicher. Ich warte hier. Ich bin gerade nicht sehr gut im Suchen. Ha-ha.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30952",
+      "en": "Es erzeugt Explosionen aus Neutronenstrahlung. Tötet alles innerhalb der Station. Außerhalb der Station können Genschäden verschiedener Ausmaße entstehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30956",
+      "en": "Ähh. Ich wollte Ihnen gerade das Gegenteil empfehlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30961",
+      "en": "Können wir etwas für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30963",
+      "en": "Sie sehen nicht gut aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30965",
+      "en": "Ich brauche den Reinigungscode, Tartakovsky.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30979",
+      "en": "Dafür habe ich keine Zeit. Wenn die Matriarchin nicht hier ist, verschwinden wir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30981",
+      "en": "Sobald die Reinigung scharfgeschaltet ist, müssen wir uns unseren Fluchtweg freikämpfen. Geben Sie uns einen Moment, um zu Atem zu kommen und nachzuladen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30982",
+      "en": "Mir ist dieses Reinigungssystem nicht geläufig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30984",
+      "en": "Wie aktivieren wir die Reinigung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30991",
+      "en": "Wie schlagen Sie sich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|31053",
+      "en": "Asari? Ich habe keine gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|31054",
+      "en": "Moment. Ist hier eine Asari-Matriarchin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41861",
+      "en": "Können wir Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41862",
+      "en": "Haben Sie Schmerzen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41877",
+      "en": "Da war keine Königin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41878",
+      "en": "Aber das funktionierte nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41879",
+      "en": "Dann töten wir auch sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41886",
+      "en": "Wir können sie retten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41887",
+      "en": "Uns läuft die Zeit davon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41889",
+      "en": "Und jetzt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41895",
+      "en": "Neutronenreinigung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41896",
+      "en": "Sagen Sie mir, wie ich es anstellen soll.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41899",
+      "en": "Zum Teufel damit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41900",
+      "en": "Geben Sie uns eine Minute.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41920",
+      "en": "Der Reinigungscode.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41928",
+      "en": "Ich bin ein Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41929",
+      "en": "Alles in Ordnung bei Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41930",
+      "en": "Sind Sie Tartakovsky?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41931",
+      "en": "Wenn Sie \"Ausrottung\" meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41934",
+      "en": "Wo ist Benezia?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41935",
+      "en": "Sie haben sie freigelassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41936",
+      "en": "Was haben Sie getan?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41937",
+      "en": "Dann reden Sie schneller.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41941",
+      "en": "Das Ei war uralt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41942",
+      "en": "Sie haben es ausgebrütet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41943",
+      "en": "Ich hätte es zerschmettert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86031",
+      "en": "Mutter hat immer gesagt, mit mir würde es ein böses Ende nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86032",
+      "en": "Das stimmt auch. Milliarden Verluste waren in diesem Krieg zu beklagen, auf beiden Seiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86033",
+      "en": "Rachni? Die Kroganer haben sie vor tausend Jahren ausgelöscht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86043",
+      "en": "Die Rachni sind ausgestorben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86665",
+      "en": "Sie muss auf der Rift-Station sein, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86666",
+      "en": "Sie muss auf der Rift-Station sein, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86667",
+      "en": "Sie muss auf der Rift-Station sein, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86668",
+      "en": "Dann ist sie in Sicherheit. Auf der Rift-Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86669",
+      "en": "Dann muss sie auf der Rift-Station sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86670",
+      "en": "Das ist unwichtig. Sie müssen mir zuhören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102781",
+      "en": "Königinnen können dutzende Eier in ein paar Stunden legen und in ein paar Tagen eine Kolonie gründen. Auf diese Weise haben sie sich so schnell ausgebreitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102783",
+      "en": "Augenblick. Braucht man nicht auch ein Männchen, um Eier zu produzieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102784",
+      "en": "Sie von ihrer Mutter zu trennen, hat nicht funktioniert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102788",
+      "en": "Was ist mit einem Männchen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102789",
+      "en": "Die Rachni gehorchen nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102790",
+      "en": "Wir töten auch die Königin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|146270",
+      "en": "Moment! Warten Sie!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|148845",
+      "en": "Was bewirkt die Reinigung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|148846",
+      "en": "Wie löse ich die Reinigung aus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|155851",
+      "en": "Die Sicherheitssteuerung ist in der Nähe. Sie müssen nur den Schlüssel einstecken. Dann gebe ich Mira den Befehl ... Aaaahhhh!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166957",
+      "en": "Dafür habe ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166958",
+      "en": "Sie bekamen, was sie verdienten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166959",
+      "en": "Ihr Experiment ist gescheitert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166960",
+      "en": "Zum Teufel damit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171025",
+      "en": "Warten Sie bitte hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171026",
+      "en": "Geben Sie uns eine Minute zur Vorbereitung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171445",
+      "en": "Dafür habe ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171446",
+      "en": "Zum Teufel damit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|172286",
+      "en": "Wie aktivieren wir die Reinigung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|172288",
+      "en": "Sagen Sie mir, wie ich es anstellen soll.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|172584",
+      "en": "Wie löse ich die Reinigung aus?",
+      "tr": ""
+    }
+  ]
+}

@@ -1,0 +1,4140 @@
+{
+  "meta": {
+    "package": "BIOA_NOR10_11_DSG_LOC_INT.pcc",
+    "stem": "BIOA_NOR10_11_DSG_LOC",
+    "textLang": "DE",
+    "sets": 5
+  },
+  "entries": [
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87207",
+      "en": "Ich habe genug von diesem Ort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87208",
+      "en": "Von mir aus kann es weitergehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87209",
+      "en": "Ja?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87210",
+      "en": "Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87211",
+      "en": "Was gibt es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87212",
+      "en": "Ich bin bereit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87214",
+      "en": "Dieser Ort hat schon bessere Tage gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87216",
+      "en": "An die Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87217",
+      "en": "Bin bereit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87218",
+      "en": "Wohin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87220",
+      "en": "Ich hasse Kälte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87226",
+      "en": "Also hier hält sich Saren versteckt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87227",
+      "en": "Diese Salarianer haben mehr Widerstand geleistet als erwartet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87232",
+      "en": "Diese verdammten Geth sind überall.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87233",
+      "en": "Seltsamer Ort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87235",
+      "en": "Ich komme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87239",
+      "en": "Saren ist in der Nähe. Ich kann es spüren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|87240",
+      "en": "Bald haben wir ihn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122159",
+      "en": "Diebstahl eines Allianz-Schiffes. Gefährliche Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122161",
+      "en": "Aber Sie können auf mich zählen, Shepard. Sie haben mein Vertrauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122163",
+      "en": "Keine Verfolger in Sicht. Das ist gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122164",
+      "en": "Shepard. Was kann ich für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122165",
+      "en": "Schönes Schiff haben Sie, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122166",
+      "en": "Was kann ich für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122167",
+      "en": "Da gibt es nichts zu erzählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122168",
+      "en": "Gehen Sie zur Quarianerin, wenn Sie Geschichten wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122169",
+      "en": "Also ... Es gab einmal eine Zeit, wo die Turianer fast unser gesamtes Volk ausgelöscht haben. Wundervolle Geschichte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122170",
+      "en": "Das ist nicht das Gleiche.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122171",
+      "en": "Dann wurden Ihre Leute auch durch eine genetische Mutation infiziert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122172",
+      "en": "Einer Infektion, die dafür sorgt, dass nur eines von Tausend Babys die Geburt überlebt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122173",
+      "en": "Und auch Ihr Volk droht, dadurch auszusterben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122174",
+      "en": "Ich erwarte nicht, dass Sie das verstehen. Aber vergleichen Sie nicht das Schicksal der Kroganer mit dem der Menschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122175",
+      "en": "Ihre Ignoranz verletzt mich nicht, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122176",
+      "en": "Und die Kroganer habe ich schon vor langer Zeit aufgegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122177",
+      "en": "Wir leiden zwar an dieser Infektion. Aber nicht sie ist es, die uns tötet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122178",
+      "en": "Fragen Sie am besten die Salarianer. Sie haben uns das angetan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122179",
+      "en": "Jeder Kroganer ist infiziert. Jeder verdammte Einzelne. Und niemand ist daran interessiert, ein Heilmittel zu finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122180",
+      "en": "Wann haben Sie zum letzten Mal einen kroganischen Wissenschaftler gesehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122181",
+      "en": "So sind wir Kroganer, Shepard. Ich kann nichts daran ändern. Niemand kann das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122182",
+      "en": "Zumindest geht es uns nicht gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122183",
+      "en": "Wir sind zu weit verteilt. Niemand von uns ist daran interessiert, in unserem eigenen System zu bleiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122184",
+      "en": "Ja, aber nur wenn sie neue Welten kolonialisieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122185",
+      "en": "Wir sind keine Siedler. Wir sind Krieger. Wir wollen kämpfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122186",
+      "en": "Also ziehen wir los. Wir lassen uns anheuern. Und die meisten von uns kehren nie zurück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122187",
+      "en": "Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122188",
+      "en": "Was wollen Sie, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122189",
+      "en": "Dafür gibt es eine Menge Gründe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122190",
+      "en": "Ich musste zum Beispiel unser System verlassen. Ich musste essen. Ich musste überleben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122191",
+      "en": "Ich habe versucht zu helfen. Und darum musste ich gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122192",
+      "en": "Ich war der Anführer eines kleinen Stammes. Wir haben nach dem Krieg versucht, die Ordnung wieder herzustellen. Aber die anderen Stämme waren gegen uns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122193",
+      "en": "Er wollte den Krieg fortsetzen. Er wollte, dass wir gegen alle kämpfen: Turianer, Salarianer, gegeneinander. Ihm war egal, wie lange dieser Krieg dauern sollte. Solange wir nur kämpften ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122194",
+      "en": "Ich wollte nur Jarrod zum Schweigen bringen. Sein ewiges Geschwafel. Ich wollte, dass er aufhört, die Stämme in die Irre zu führen. Aber er konnte nicht verstehen, wie sehr sich die Zeiten geändert hatten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122195",
+      "en": "Wir hatten nicht genug Leute für einen Krieg. Und selbst wenn - die Infektion sorgte dafür, dass wir nicht ausreichend Nachwuchs produzieren konnten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122196",
+      "en": "Und für eine Weile schien es gut auszusehen. Einige der Stämme erholten sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122197",
+      "en": "Nein. Es gefiel ihm nicht. Er arrangierte ein Crush-Treffen mit den anderen Stämmen. Ein Treffen auf neutralem Boden. Er wollte sprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122198",
+      "en": "Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122199",
+      "en": "Ist zumindest nie langweilig mit Ihnen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122200",
+      "en": "Commander. Das war eine gefährliche Situation auf Virmire ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122201",
+      "en": "Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122208",
+      "en": "Bis dann, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122209",
+      "en": "Erzählen Sie mir von sich, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122212",
+      "en": "Kroganer werden Hunderte von Jahren alt. Sie können mir nicht weismachen, dass Sie nicht ein paar Abenteuer erlebt hätten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122213",
+      "en": "Das gleiche haben sie mit uns auch versucht. Aber wir haben sie besiegt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122214",
+      "en": "Ich habe davon gehört. Das Gleiche haben sie auch mit uns versucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122215",
+      "en": "Klingt verdammt ähnlich, finde ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122218",
+      "en": "Stimmt. Es ist nicht das Gleiche.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122219",
+      "en": "Sie sind immer noch hier. So schlimm kann es ja nicht sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122220",
+      "en": "Tut mir leid, Wrex. Ich wollte Sie nicht verletzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122221",
+      "en": "Ich wollte mich nur mit Ihnen unterhalten. Ich wollte Sie nicht verletzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122224",
+      "en": "Was für eine Infektion ist das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122226",
+      "en": "Warum versuchen die Kroganer nicht, ein Heilmittel zu finden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122228",
+      "en": "Dann stirbt Ihr Volk wirklich aus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122230",
+      "en": "Viele Völker haben ihr Zuhause verlassen und sich weiterentwickelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122233",
+      "en": "Bis dann, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122234",
+      "en": "Und warum sind Sie ein Söldner geworden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122235",
+      "en": "Nennen Sie einen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122236",
+      "en": "Warum sind Sie nicht geblieben und haben Ihrem Volk geholfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122239",
+      "en": "Was hatten Sie damals vor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122242",
+      "en": "Das dürfte dem Warlord nicht gefallen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122244",
+      "en": "Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122251",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122252",
+      "en": "Persönliche Frage",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122256",
+      "en": "Jetzt zieren Sie sich nicht so.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122257",
+      "en": "Nur ein paar Details.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122258",
+      "en": "Nicht so unfreundlich!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122259",
+      "en": "Große Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122260",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122261",
+      "en": "Tut mir leid zu hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122262",
+      "en": "Oh doch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122264",
+      "en": "Aber sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122267",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122268",
+      "en": "Gutes Argument.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122269",
+      "en": "Na und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122270",
+      "en": "Werde ich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122272",
+      "en": "Heikles Thema?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122275",
+      "en": "Infektion",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122276",
+      "en": "Auslöschung",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122277",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122279",
+      "en": "Was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122282",
+      "en": "Ja und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122285",
+      "en": "Persönliche Frage",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122286",
+      "en": "Zum Beispiel?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122287",
+      "en": "Sprechen Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122288",
+      "en": "Tatsächlich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122291",
+      "en": "Warum verlassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122294",
+      "en": "Und was war mit Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122296",
+      "en": "Und ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122301",
+      "en": "Was war mit Jarrod?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122303",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122581",
+      "en": "Ich hoffe, Sie wissen, was Sie tun, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122582",
+      "en": "Und manchmal muss man verrückt agieren, wenn man Erfolg haben will.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122583",
+      "en": "Ich hoffe nur, dass sie uns nicht erwischen, bevor wir Saren aufgehalten haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122584",
+      "en": "Sie werden es schon hinbekommen, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122585",
+      "en": "Ich würde es nicht ertragen, die Sache nicht zuende zu bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122586",
+      "en": "Ich traue Ihnen alles zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122587",
+      "en": "Ich hoffe, dass Sie recht behalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122588",
+      "en": "Sie haben getan, was Sie tun mussten. Ich respektiere Ihre Entscheidung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122589",
+      "en": "Es war keine einfache Entscheidung. Sorgen Sie dafür, dass ich sie nicht bedaure.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122590",
+      "en": "Und darum musste ich gehen. Und darum werde ich nie wieder zurückgehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122591",
+      "en": "Lang genug. Gleich nachdem ich mein Heimatsystem verlassen habe, bekam ich meinen ersten Auftrag.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122592",
+      "en": "Ein guter Job. Wenn man ihn überlebt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122593",
+      "en": "Sicher. Man wird dafür bezahlt, durch die ganze Galaxie zu reisen, und an den meisten Tagen gibt es einen guten Kampf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122594",
+      "en": "Ich habe auch schon in organisierten Kampfeinheiten gedient. Privatarmeen und ähnliche Sachen. Aber das ist viel zu kompliziert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122595",
+      "en": "Ich kämpfe am besten allein. Oder in sehr kleinen Gruppen. Ich kann es nicht leiden, wenn Leute auf mich angewiesen sind. Und ich kann es schon gar nicht leiden, auf andere Leute angewiesen zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122596",
+      "en": "Ich bin ein Krieger. Nicht mehr und nicht weniger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122597",
+      "en": "Was zum Teufel soll ich denn Ihrer Meinung nach machen, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122598",
+      "en": "Ich bin es leid, meinen Arsch in die Ziellinie zu halten und keinen Dank dafür zu bekommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122599",
+      "en": "Ich habe mich entschlossen, für Credits und nicht mehr für aussichtslose Ideen zu töten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122600",
+      "en": "Ich habe aufgegeben, für aussichtslose Ideen zu kämpfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122601",
+      "en": "Ich bin nicht wie Sie, Shepard. Ich bin kein Held.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122602",
+      "en": "Ich bin kein Held, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122603",
+      "en": "Kurz gesagt: Das Töten für Credits vereinfacht das Leben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122604",
+      "en": "Aber es gibt eine Menge kroganischer Söldner da draußen. Ich treffe andauernd auf sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122605",
+      "en": "Oft genug werde ich dafür bezahlt, sie zu töten. Aber das ist nur Teil des Jobs. Man kann sich seine Feinde nicht aussuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122606",
+      "en": "Wollen Sie mich zum Weinen bringen, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122607",
+      "en": "Ich habe noch ein paar Dinge mit meiner Familie zu klären. Und das ist alles.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122608",
+      "en": "[seufzt] Bevor ich fortging, habe ich dem Vater meines Vaters einen Schwur geleistet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122609",
+      "en": "Ich habe geschworen, die Kampfrüstung meiner Familie zu finden. Sie wurde ihm nach den Aufständen abgenommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122610",
+      "en": "Sie ist ein Relikt. Im Grunde wertlos. Aber vor dem Krieg wurde sie von fünf Generationen meiner Familie getragen. Also gehört sie rechtmäßig mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122616",
+      "en": "Ob ich die Welt schon einmal vor der sicheren Vernichtung retten durfte? Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122617",
+      "en": "Aber ich habe schon einige andere Abenteuer erlebt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122618",
+      "en": "Ja, ein paar. Ich erinnere mich zum Beispiel an diesen Volus-Diplomaten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122619",
+      "en": "Was für ein Arschloch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122620",
+      "en": "Ich sollte seine Vergangenheit auslöschen. Einen alten Freund beseitigen, der zu viel wusste.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122622",
+      "en": "Tja ... Sein \"alter Freund\" erwies sich als eine Asari-Commando-Kämpferin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122623",
+      "en": "Was? Nein. Aleena und ich waren alte Freunde. Sozusagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122624",
+      "en": "Ist ja auch egal. Als ich Aleena von dem Auftrag des Diplomaten erzählte, fanden wir die Sache todkomisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122625",
+      "en": "Ich wollte auf keinen Fall den Auftrag verlieren, aber ich schuldete Aleena Respekt. Also ließ ich sie den Ort aussuchen, wo wir kämpfen würden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122626",
+      "en": "Und dann gerieten die Dinge außer Kontrolle. Ich wollte sie mir gerade vornehmen, als der Stationskern instabil wurde. Ich habe es gerade noch zurück in mein Schiff geschafft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122627",
+      "en": "Ich habe die Station aus der Ferne beobachtet. Ich habe sie nicht entkommen sehen. Und als die Station hochging, blieb nichts übrig, das größer als ein Turianerhoden wäre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122628",
+      "en": "Dass Aleena überlebt hatte und mächtig sauer auf ihn war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122630",
+      "en": "Das war der einfachste Job, den ich je hatte. Vielleicht ein wenig zu langweilig. Aber Credits sind nunmal Credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122631",
+      "en": "Alle denken, dass ich verrückt geworden bin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122632",
+      "en": "Sie denken doch auch, dass ich verrückt geworden bin, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122633",
+      "en": "Ich bin nicht so verrückt, wie alle denken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122635",
+      "en": "Das gilt für uns beide.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122636",
+      "en": "Wir schaffen das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122638",
+      "en": "Ich weiß zu würdigen, was sie getan haben, Wrex. Ich werde Ihnen das nicht vergessen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122639",
+      "en": "Sorgen Sie dafür, dass ich nicht bedaure, Sie am Leben gelassen zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122640",
+      "en": "Wie lange sind Sie schon ein Söldner?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122642",
+      "en": "Ich habe das Gefühl, dass Ihnen Ihr Job gefällt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122645",
+      "en": "Sie ziehen es also vor, ein Söldner zu sein, anstelle Ihrem Volk zu helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122646",
+      "en": "Bereitet Ihnen das Schicksal der Kroganer keine Sorgen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122648",
+      "en": "Also haben Sie sich entschlossen, eigene Wege zu gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122649",
+      "en": "Also haben Sie Ihr Volk einfach aufgegeben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122653",
+      "en": "Sehr richtig. Darum habe ich Sie ja auch angeheuert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122654",
+      "en": "Haben Sie schon einmal daran gedacht, Ihrem Volk zu helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122656",
+      "en": "Sie müssen noch andere Angehörige als Ihren Vater haben. Vermissen Sie sie nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122658",
+      "en": "Was für Dinge?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122660",
+      "en": "Was ist so Besonderes an dieser Rüstung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122666",
+      "en": "Waren Sie schon einmal auf Missionen wie unseren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122668",
+      "en": "Gab es dabei einige besonders interessante Geschichten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122673",
+      "en": "Da könnte man ins Grübeln kommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122675",
+      "en": "Was haben Sie getan?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122677",
+      "en": "Die Asari-Commando-Kämpferin hat es wohl nicht rausgeschafft?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122678",
+      "en": "Was war mit dem Diplomaten? Sein Auftrag lautete doch, sie zu töten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122682",
+      "en": "Niemals.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122683",
+      "en": "Keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122684",
+      "en": "Gilt auch für Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122685",
+      "en": "Söldnertum",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122687",
+      "en": "Es gefällt ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122690",
+      "en": "Persönliche Frage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122693",
+      "en": "Und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122695",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122696",
+      "en": "Nicht Ihre Schuld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122697",
+      "en": "Das ist Ihr Grund?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122701",
+      "en": "Könnte schon sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122702",
+      "en": "Sehr klug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122703",
+      "en": "Manchmal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122705",
+      "en": "Familie",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122707",
+      "en": "Sprechen Sie weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122708",
+      "en": "Kommen Sie zum Punkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122709",
+      "en": "Tatsächlich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122711",
+      "en": "Rüstung",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122717",
+      "en": "Persönliche Frage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122719",
+      "en": "Abenteuer",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122724",
+      "en": "Aua.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122726",
+      "en": "Und dann?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122728",
+      "en": "Das war knapp.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122729",
+      "en": "Und der Volus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122732",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122733",
+      "en": "Danke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122734",
+      "en": "Was ist mit Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122735",
+      "en": "Denken Sie das auch?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122736",
+      "en": "Vertrauen schenken",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122737",
+      "en": "Keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122739",
+      "en": "Vertrauen Sie mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122740",
+      "en": "Im Ernst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|122741",
+      "en": "Keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123837",
+      "en": "Stellen Sie einfach sicher, dass diese Sache es wert war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123838",
+      "en": "Saren muss dafür bezahlen, was er getan hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123839",
+      "en": "Wenn es nach mir geht, wird er mehr als nur geradestehen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123840",
+      "en": "Das wusste ich gleich, als ich ihn das erste Mal traf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123841",
+      "en": "Hätte ich. Wenn ich es für wichtig gehalten hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123842",
+      "en": "Es ist schon eine ganze Weile her. Ein Haufen Söldner erzählte von einem Job am Rande des Terminus-Systems.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123843",
+      "en": "Sie sagten, dass sie gut bezahlt würden und der Boss nie vor Ort sei, um sie anzutreiben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123844",
+      "en": "Und sie sagten, dass er noch mehr Leute bräuchte. Also hab' ich mir die Sache angesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123845",
+      "en": "Es war auch nicht so offen. Er hat mich nur ein Mal sein Gesicht sehen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123848",
+      "en": "Ich hatte kein gutes Gefühl, was ihn betraf. Also machte ich, dass ich da raus kam. Ich hab' nicht 'mal darauf gewartet, bezahlt zu werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123849",
+      "en": "Es war ein Volus-Frachter. Und zwar ein großer. Mit vielen Wachen. Aber gegen uns hatten sie keine Chance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123850",
+      "en": "Keine Ahnung. An Bord habe ich nur Nahrungsmittel und Medizin gesehen. Es gab auch ein paar einfache Waffen. Aber nichts Besonderes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123851",
+      "en": "Darum habe ich die Sache auch nicht vorher erwähnt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123852",
+      "en": "Ja. Ich wusste nicht einmal, wer er war. Und ich hätte es auch nicht erfahren, wenn ich mich nicht Ihnen angeschlossen hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123853",
+      "en": "Aber ich tat gut daran, mich auf meine Instinkte zu verlassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123854",
+      "en": "Alle anderen Söldner dieser Mission kamen innerhalb einer Woche ums Leben. Jeder verdammte Einzelne.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123855",
+      "en": "Zeigen Sie her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123856",
+      "en": "Verdammt! Das ist sie. Kaum zu glauben, dass meine Vorfahren so einen Haufen Schrott getragen haben. Aber jetzt ist sie zumindest wieder dort, wo sie hingehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123857",
+      "en": "Danke, Shepard. Vielleicht werden Sie mir doch noch sympathisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123858",
+      "en": "Was? Nur weil ich sie sympathisch finde, heißt das nicht, das ich Sie nicht töten könnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123859",
+      "en": "Sie wurde damals von der turianischen Armee konfisziert. Nach dem Krieg war es uns nicht gestattet, Rüstungen oder Waffen zu tragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123860",
+      "en": "Er lagert seine Waren in verschiedenen Basen. Alle gut befestigt und bewacht. Und ich weiß nicht, in welcher Basis er meine Familienrüstung aufbewahrt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123861",
+      "en": "Ich werde die Daten in das Navigationssystem importieren. Eine Bitte, Commander. Ich möchte dabei sein, wenn Sie ihn finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123862",
+      "en": "Nein. Jetzt, wo ich meine Familienrüstung habe, gibt es nichts mehr zu tun für mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123863",
+      "en": "Das erwarte ich von allen meinen Leuten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123865",
+      "en": "Wir werden ihn bald haben. Dann wird er für seine Verbrechen geradestehen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123866",
+      "en": "Ich werde ihn jagen und töten - um jeden Preis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123868",
+      "en": "Es ist mir eigentlich völlig egal, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123869",
+      "en": "Warum haben Sie mir das nicht früher gesagt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123870",
+      "en": "Ich möchte mehr darüber erfahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123871",
+      "en": "Ich entscheide hier, was wichtig ist! Erzählen Sie mir, woher Sie Saren kennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123874",
+      "en": "Ich wusste nicht, dass Saren so offen Söldner anheuert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123878",
+      "en": "Wem gehörte das Schiff?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123879",
+      "en": "Was für eine Fracht war dort an Bord? Was hatte Saren dort gesucht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123881",
+      "en": "Und das war das einzige Mal, dass Sie ihn gesehen haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123884",
+      "en": "Ich glaube, ich habe sie schon gefunden, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123887",
+      "en": "Sie werden doch nicht am Ende noch Gefühle zeigen, Wrex?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123888",
+      "en": "Wer hat sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123890",
+      "en": "Sagen Sie mir, wo ich als erstes danach suchen könnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123891",
+      "en": "Ich habe diese Rüstung gefunden. Gehört sie Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123892",
+      "en": "Wrex, ich glaube, ich habe Ihre Rüstung gefunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123893",
+      "en": "Das hoffe ich auch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123894",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123895",
+      "en": "Danke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123897",
+      "en": "Einverstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123898",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123899",
+      "en": "Das wird er.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123902",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123903",
+      "en": "Sie kannten Saren bereits?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123904",
+      "en": "Nur weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123905",
+      "en": "In Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123906",
+      "en": "Meine Entscheidung!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123910",
+      "en": "Verdammt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123911",
+      "en": "Saren hat Sie rekrutiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123915",
+      "en": "Schiff",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123916",
+      "en": "Fracht",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123917",
+      "en": "Das ist alles?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123921",
+      "en": "Ich habe sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123922",
+      "en": "Wo ist sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123925",
+      "en": "Kein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123927",
+      "en": "Ich werde sie suchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123928",
+      "en": "Etwas gefunden",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|123929",
+      "en": "Ihre Rüstung gefunden",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124698",
+      "en": "Gebe Ihnen Deckung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124699",
+      "en": "Bin direkt hinter Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124700",
+      "en": "Ich wurde verraten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124701",
+      "en": "Und darum habe ich mich Ihnen angeschlossen. Damit ich mich nicht mit der anderen Sache befassen muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124702",
+      "en": "Ich verdränge diesen Gedanken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124703",
+      "en": "Für mich klingt es aber wie das Gleiche.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124704",
+      "en": "Was ist geschehen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124714",
+      "en": "Nein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124715",
+      "en": "Tatsächlich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124717",
+      "en": "Interessant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|124723",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125010",
+      "en": "Sie entschied sich für eine alte salarianische Raumstation voller Söldner und Schmuggler. Auf diese Weise mussten wir uns keine Sorgen über unschuldige Zivilistenopfer machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125011",
+      "en": "Ich erzählte ihm die Wahrheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125012",
+      "en": "Also bot ich mich gleich als sein Leibwächter an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125013",
+      "en": "[lacht] Er behielt mich sogar bis zu seinem Tod als persönlichen Leibwächter. Und er durfte eines natürlichen Todes sterben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125014",
+      "en": "Hatten Sie Angst vor ihr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125020",
+      "en": "Sie sind cleverer, als Sie aussehen, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125021",
+      "en": "Und das hat er Ihnen geglaubt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125027",
+      "en": "Aha.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125028",
+      "en": "Und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125032",
+      "en": "Ist Aleena entkommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125034",
+      "en": "Aber ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125038",
+      "en": "Sehr gerissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|125039",
+      "en": "Geglaubt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127099",
+      "en": "Wie Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127100",
+      "en": "Die Kolonie scheint wehrhafter als sie aussieht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127101",
+      "en": "Der Thorianer und die Geth haben einigen Schaden hier angerichtet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127102",
+      "en": "Was haben die Geth mit diesem Ort vor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127103",
+      "en": "Was machen wir immer noch hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127104",
+      "en": "Schon gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|127107",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129009",
+      "en": "Diese Art Sprache gefällt mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129010",
+      "en": "Ich weiß nur, dass sie die Fortpflanzung unmöglich macht. Tausende Babys sterben noch im Kindbett. Die meisten schaffen es nicht einmal bis dahin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129011",
+      "en": "Wenn Sie einen Kroganer fragen, ob er ein Heilmittel finden oder für sein Volk kämpfen will, wird er immer dieselbe Antwort geben. Er wird kämpfen wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129012",
+      "en": "Jetzt sind wir also Saren auf den Fersen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129013",
+      "en": "Gut? Er ist der letzte Dreck. Ein Wahnsinniger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129014",
+      "en": "Wir hatten in dieser Gegend schon monatelang Schiffe aufgebracht, bevor wir diesen riesigen Frachter abschießen konnten. Unsere bis dahin größte Beute.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129015",
+      "en": "Ich war an Bord, um die Leichen nach Wertgegenständen zu untersuchen und so ein paar extra Credits zu verdienen. Und da habe ich ihn gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129016",
+      "en": "Ein paar Söldner sprachen ihn mit Namen an, aber er reagierte nicht darauf. Er sprach mit niemanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129017",
+      "en": "Wenn auf diesem Schiff etwas Wertvolles gewesen ist, habe ich es nicht gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129018",
+      "en": "Wir trafen uns bei den Hollows, nahe den Gräbern unserer Vorfahren. Wir bewahren die Schädel unserer Toten sichtbar auf, damit wir immer wissen, woher wir kommen und wohin wir gehen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129019",
+      "en": "Es ist der heiligste Platz der Kroganer. Gewalt ist hier nicht erlaubt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129020",
+      "en": "Das war es auch. Aber wenn Ihr Vater Sie zu einem Crush-Treffen einlädt ... Sogar für uns gibt es einige heilige Gesetze.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129021",
+      "en": "Ja, das war er. Bis zu diesem Tage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129023",
+      "en": "Wir haben damals gesprochen. Aber wir wurden uns nicht einig. Als ihm klar wurde, dass ich mich ihm nicht anschließen würde, gab er das Signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129024",
+      "en": "Ich konnte fliehen. Aber zuvor konnte ich noch meinen Dolch tief in meines Vaters Brust versenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129025",
+      "en": "Jetzt hat sie Tonn Actus. Er ist ein turinanisches Schwein, das Kriegsrelikte sammelt. Er hat Millionen damit gemacht, kroganische Artefakte zu verkaufen, die meinem Volk gehören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129026",
+      "en": "Als wir uns trafen, hatten wir beide einen Auftrag erhalten, den gleichen Turianer zu töten. Und wir wollten beide nicht, dass der jeweils andere ihn zuerst ausschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129027",
+      "en": "Also haben wir mehr Zeit damit verbracht, uns gegenseitig zu bekämpfen, als den Turianer zu jagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129028",
+      "en": "Nennen wir es ein Unentschieden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129029",
+      "en": "Ich habe seinen Kopf zurückgebracht und sie den Rest von ihm. Soweit ich weiß, wurden wir beide bezahlt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129030",
+      "en": "Hm. Sie hatte immer diese seltsamen Skrupel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129031",
+      "en": "Zunächst nicht viel. Zwei Tage lang habe ich sie durch die Station gejagt. Ich hatte schon meine ganze Munition verschossen. Ich musste einen Haufen Söldner töten und ihre Schrottwaffen benutzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129032",
+      "en": "Sie hatte sich in der Krankenstation eingeschlossen. Sie versuchte, sich selbst zusammenzuflicken. Verdammt zähes Mädchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129036",
+      "en": "Es wird nicht mehr lange dauern. Saren ist gut. Aber ich bin besser.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129043",
+      "en": "Klingt für mich wie eine Falle. Das hätte Ihnen auch klar sein müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129044",
+      "en": "Jarrod war Ihr Vater?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129051",
+      "en": "Also scheinen auch Politiker manchmal Söldner anzuheuern?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129053",
+      "en": "Und wer von Ihnen hat ihn schließlich ausgeschaltet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129056",
+      "en": "Was ist dann auf der Station passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129061",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129068",
+      "en": "Riskante Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129069",
+      "en": "Hingegangen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129070",
+      "en": "Ihr Vater?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129078",
+      "en": "Volus-Diplomat?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129081",
+      "en": "Wer hat ihn gekriegt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129084",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129085",
+      "en": "Sprechen Sie weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129091",
+      "en": "Ich weiß nicht genau, was er dort wollte. Er ging nur so durch das Schiff. Er schien sich nur umzuschauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129092",
+      "en": "Sie schlossen sich Jarrod an - einen der wenigen Warlords, die den Krieg gegen die Turianer überlebt haben. Aber er war alt. Und seine Vorstellungen auch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129098",
+      "en": "Also bin ich zurück zu dem Diplomaten, um ihm die guten Neuigkeiten zu übermitteln und meine Bezahlung abzuholen. Aber auf halbem Wege zu ihm bekam ich eine Nachricht von Aleena. \"Viel Glück beim nächsten Mal\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129099",
+      "en": "Ich bin ja nicht abergläubisch, aber wenn jemand das überleben kann, dann hat er es auch verdient zu leben. Zumindest noch für eine kleine Weile.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129100",
+      "en": "Was für ein Interesse hatte Saren an dem Schiff?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129109",
+      "en": "Was hat er dort gemacht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129117",
+      "en": "Wie war der Kampf?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129120",
+      "en": "Ich sagte allen, dass sie den Krieg vergessen sollten. Wir mussten uns um das Nachwuchsproblem kümmern. Zumindest für die Dauer einer Generation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129121",
+      "en": "Seine Männer sprangen aus den Gräbern unserer Vorfahren - wie untote Kroganer! Meine wenigen loyalen Männer wurden schnell umgebracht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129122",
+      "en": "Ich hab's Ihnen bereits gesagt, Shepard. Ich habe geschworen, die Familienrüstung zu finden. Darüber hinaus habe ich dort nichts mehr verloren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129123",
+      "en": "Am dritten Tag war die ganze Station ein einziger Trümmerhaufen. Die Söldner waren tot oder geflohen und die Lebenserhaltungssysteme zusammengebrochen. Aber ich hatte sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|129128",
+      "en": "Was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|130351",
+      "en": "Ich würde es nicht als ungewöhnlich bezeichnen. Es gibt unterschiedlichste Arten von Söldnern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|130352",
+      "en": "Die Asari-Commando-Kriegerin war eine Söldnerin? Das ist eher ungewöhnlich, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|130354",
+      "en": "Sie war eine Söldnerin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|130358",
+      "en": "Manchmal? Ohne die Politiker hätte ich keinen Job mehr. Sie suchen immer nach einem Weg, ihre Interessen durchzusetzen. Und er war keine Ausnahme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|130360",
+      "en": "Was sollten Sie für ihn tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|130361",
+      "en": "Was war das für ein Job?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|151799",
+      "en": "Haben Sie sie nicht getötet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_krogan_wrex_D|171630",
+      "en": "Wie Sie wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124184",
+      "en": "Citadel",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124185",
+      "en": "Wir sollten weitergehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124186",
+      "en": "Ich freue mich darauf, von dieser Station runterzukommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124187",
+      "en": "Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124188",
+      "en": "Ja?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124189",
+      "en": "Bin direkt hinter Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124190",
+      "en": "Alles klar, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124191",
+      "en": "Feros",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124192",
+      "en": "Hier herrscht ja ein heilloses Chaos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124193",
+      "en": "Es ist unglaublich, dass die Kolonie so lange ausgehalten hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124194",
+      "en": "Bereit, wenn Sie es sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124195",
+      "en": "Los geht's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124196",
+      "en": "Noveria",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124197",
+      "en": "So viel Eis und Schnee auf einem Haufen habe ich selten gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124198",
+      "en": "Seltsam, dass die Geth dort auftauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124199",
+      "en": "Ich stehe Ihnen bei, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124202",
+      "en": "Virmire",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124203",
+      "en": "Saren ist hier irgendwo. Das kann ich spüren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124204",
+      "en": "Dieser Ort hat etwas an sich ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124208",
+      "en": "Ilos",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124209",
+      "en": "Was ist das für ein Ort?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124210",
+      "en": "Ich habe immer noch das Gefühl, dass wir beobachtet werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124215",
+      "en": "Spielende",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124216",
+      "en": "Saren kann nicht ewig weglaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124217",
+      "en": "Wir haben ihn fast eingeholt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124223",
+      "en": "Ich kann es kaum fassen. Wir haben die Normandy gestohlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124224",
+      "en": "Nach allem, was Sie mir erzählt haben, ist es ein wenig extrem, finden Sie nicht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124225",
+      "en": "Nach allem, was ich von Ihnen erfahren habe, bin ich nicht überrascht. Aber trotzdem ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124226",
+      "en": "Es war riskant, aber wird sich hoffentlich auszahlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124228",
+      "en": "Nun, offenbar sind wir frei und unbehelligt. Vorerst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124229",
+      "en": "Commander. Das war gute Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124230",
+      "en": "Danke, dass ich an Bord kommen durfte, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124247",
+      "en": "Commander. Schön, Sie zu sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124248",
+      "en": "Nun, nicht so viel wie Sie. Aber ich habe doch schon einige interessante Dinge gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124249",
+      "en": "Ich erinnere mich noch an diesen salarianischen Genetiker, gegen den ich ermittelte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124271",
+      "en": "Commander. Ich ... was kann ich für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124272",
+      "en": "Es geht um Saren. Ich frage mich langsam, ob wir ihn je finden werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124273",
+      "en": "Er ist uns immer einen Schritt voraus. Und er hat diese verdammten Geth ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124287",
+      "en": "Commander. Ich wollte Ihnen danken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124308",
+      "en": "Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124337",
+      "en": "Sie sind schon eine Weile bei der Citadel-Sicherheit. Haben Sie schon viel miterlebt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124338",
+      "en": "Das kann ich mir vorstellen. Gab es etwas Spezielles, das erwähnenswert wäre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124361",
+      "en": "Liegt Ihnen etwas auf dem Herzen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124439",
+      "en": "Persönliche Fragen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124442",
+      "en": "Was Besonderes?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124469",
+      "en": "Was ist los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124724",
+      "en": "Wohin geht es jetzt, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124725",
+      "en": "Ich erwarte Ihre Befehle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|124726",
+      "en": "Ich bin bereit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126666",
+      "en": "Ich wusste, dass die Zusammenarbeit mit einem Spectre besser ist als das Leben bei der Citadel-Sicherheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126667",
+      "en": "Nun, eigentlich nicht. Aber ich weiß, wie sie sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126669",
+      "en": "Spectres machen ihre eigenen Regeln. Sie können die Dinge auf ihre eigene Weise regeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126670",
+      "en": "Bei der Citadel-Sicherheit ertrinkt man in Vorschriften. Diese verdammten Bürokraten sitzen einem immer im Nacken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126671",
+      "en": "Mein Reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126672",
+      "en": "Möglicherweise. Aber manchmal habe ich das Gefühl, die Regeln sind nur da, um mich von meiner Arbeit abzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126673",
+      "en": "Wenn ich versuche, einen Verdächtigen zu verhaften, sollte es unwichtig sein, wie ich es tue, solange ich es überhaupt tue.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126674",
+      "en": "Aber die Citadel-Sicherheit will, dass es auf ihre Weise getan wird. Protokoll und Prozeduren stehen an erster Stelle. Und darum musste ich gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126678",
+      "en": "Anfangs war es bei der Citadel-Sicherheit gar nicht übel, aber je höher mein Rang wurde, desto mehr schränkte man mich ein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126681",
+      "en": "Und ohne die Citadel-Sicherheit, die mir über die Schulter sieht ... nun, vielleicht kann ich die Sache zur Abwechslung mal auf meine Weise regeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126682",
+      "en": "Ich wollte nicht ... Verstehe, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126683",
+      "en": "Danke, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126684",
+      "en": "Keine Sorge, Commander. Ich werde Sie nicht stören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126685",
+      "en": "Haben Sie schon mal mit einem Spectre zusammengearbeitet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126690",
+      "en": "Es hat seine Vorteile, ein Spectre zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126692",
+      "en": "Die meisten Regeln gibt es aus einem guten Grund.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126704",
+      "en": "Wenn das bedeutet, dass Sie Unschuldige in Gefahr bringen ... lautet die Antwort nein. Wir machen den Job richtig und nicht schnell. Verstanden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126705",
+      "en": "Solange Sie Ihren Job gut machen, können Sie Ihre Angelegenheiten auf Ihre Weise regeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126706",
+      "en": "Leisten Sie einfach gute Arbeit und kommen Sie mir nicht in die Quere, dann kommen wir gut miteinander aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126709",
+      "en": "Sie wussten es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126714",
+      "en": "Beschweren Sie sich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126715",
+      "en": "Das stimmt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126716",
+      "en": "So schlimm ist es nun auch wieder nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126731",
+      "en": "Das hängt davon ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126732",
+      "en": "Hört sich gut an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|126733",
+      "en": "Wie Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128207",
+      "en": "Er verabscheut Spectres. Er hasst den Gedanken, dass jemand unendliche Macht besitzt und niemandem Rechenschaft schuldig ist. Er würde Sie nicht mögen, Commander. Nehmen Sie's nicht persönlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128216",
+      "en": "Dieser Fall war ziemlich ... verstörend.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128230",
+      "en": "Gesprochen wie ein wahrer Offizier der Citadel-Sicherheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128232",
+      "en": "Ich kann seine Besorgnis sogar verstehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128234",
+      "en": "Nicht alle Spectres sind wie Saren, wissen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128257",
+      "en": "Typisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128258",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128259",
+      "en": "Zu schade.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128296",
+      "en": "Ich hatte die Aufgabe, den Schwarzmarkthandel auf der Citadel zu verfolgen. Der Großteil davon ist harmlos, nichts, was einer Untersuchung wert wäre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128297",
+      "en": "Aber im Verlauf meiner Nachforschungen fiel mir auf, dass der Handel mit Körperteilen zunehmend florierte. Hauptsächlich mit Organen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128298",
+      "en": "In geringem Ausmaß ist das durchaus üblich, aber diese Häufigkeit war doch ungewöhnlich. Wir waren uns nicht sicher, ob es ein neues Schwarzmarktlabor gab oder ob ein Irrer Organe von Bürgern verkaufte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128299",
+      "en": "Eigentlich beides. Aber wir brauchten eine Weile, um das herauszufinden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128300",
+      "en": "Zuerst fanden wir eine Probe und machten einen DNS-Test. Das Seltsame war, dass der uns zu einem Turianer führte, der noch am Leben und überzeugt davon war, nie eine Leber verloren zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128301",
+      "en": "Also ging ich in sein Labor, weil ich hoffte, dort Beweise für geklonte Organe zu finden. Aber da war nichts. Keine salarianischen Herzen, keine Turianer-Lebern, nicht mal ein Kroganerhoden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128302",
+      "en": "Einige Kroganer glauben, dass Hodentransplantationen ihre Männlichkeit steigern. Sie wirken den Effekten des Genophage entgegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128303",
+      "en": "Es nützt zwar nichts, was sie aber nicht davon abhält, sie trotzdem zu kaufen. Sie bezahlen bis zu 10.000 Credits pro Stück dafür. Das macht 40.000 für ein komplettes Set.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128305",
+      "en": "Irgendjemand da draußen macht damit ein Vermögen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128306",
+      "en": "Ich habe einige seiner Angestellten verhört. Ich wollte versuchen, sie zum Reden zu bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128307",
+      "en": "Während ich einen von ihnen befragte, stieß ich auf etwas Verdächtiges.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128308",
+      "en": "Genau. Aber in diesem Fall zahlte es sich auf andere Weise aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128309",
+      "en": "Möglicherweise. Eher nicht. Es hat sich auf jeden Fall ausgezahlt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128310",
+      "en": "Einer der Inhaftierten begann während der Befragung, stark zu bluten. Wir wollten ihn verarzten, aber da drehte er durch. Er flippte völlig aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128311",
+      "en": "Ich ordnete eine genaue Untersuchung an, um herauszufinden, was da vor sich geht. Unsere Mediziner fanden an seinem ganzen Körper zahlreiche Einschnitte. Einige waren noch nicht sehr alt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128312",
+      "en": "Das war der Durchbruch. Diese Leute waren nicht nur Dr. Saleons Angestellte, sie waren seine Laborversuche. Umherlaufende, lebendige Laborversuche.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128313",
+      "en": "Genau. Er klonte ihre Organe in ihrem eigenen Körper. Dann schnitt er sie heraus und verkaufte sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128314",
+      "en": "Die meisten Opfer waren sehr arm. Er zahlte ihnen einen kleinen Anteil des Verkaufspreises, aber nur, wenn die Organe auch gut waren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128317",
+      "en": "Er ist geflohen. Er sprengte sein Labor in die Luft und eilte mit einigen seiner Angestellten zum nächsten Raumdock.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128318",
+      "en": "Als ich es herausgefunden hatte, war das Schiff bereits abgeflogen. Er drohte, seine Geiseln zu töten, wenn wir versuchen würden, ihn aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128319",
+      "en": "Ich befahl der Verteidigung der Citadel, ihn abzuschießen, aber das Hauptquartier der Citadel-Sicherheit widerrief meinen Befehl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128320",
+      "en": "Ich sagte ihnen, dass die Geiseln so oder so dem Tod geweiht wären. Er würde sie nur benutzen, um weitere Organe zu erschaffen. Aber sie wollten mir einfach nicht zuhören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128322",
+      "en": "Nein. Aber dass er auf diese Weise entkommen konnte ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128323",
+      "en": "Sie haben ihm das Militär hinterhergeschickt, aber er ist trotzdem entkommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128325",
+      "en": "Ja, das haben sie. Ich ging zu Pallin und erzählte ihm, was ich von ihm und seiner Politik hielt. Er sagte, wenn mir das nicht passt, soll ich eben kündigen. Und das hätte ich auch beinahe getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128326",
+      "en": "Sie hätten dieses Schiff doch bloß lahmlegen müssen. Dann hätte er nicht mehr weggekonnt. Vielleicht sterben die Geiseln dabei, vielleicht aber auch nicht. Doch zumindest hätten wir den Bastard so aufhalten können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128327",
+      "en": "Ja. Vielleicht haben Sie Recht. Es macht die Sache zwar nicht leichter, aber ich verstehe Ihren Standpunkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128328",
+      "en": "Ja. Genau. Diese Geiseln wünschen sich jetzt wahrscheinlich sowieso nichts sehnlicher als den Tod.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128329",
+      "en": "Sieht ganz so aus. Ich kann jetzt keine Zeit mehr damit vergeuden, darüber nachzudenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128330",
+      "en": "Wenn ich nur Ihre Zuversicht hätte. Ich kann den Gedanken nicht ertragen, dass er mit dem, was er getan hat, durchkommen könnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128331",
+      "en": "Ich weiß, dass Sie tun, was Sie können. Und wenn ihn irgendjemand fangen kann, dann Sie, aber ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128332",
+      "en": "Wenn es irgendetwas gibt, womit ich Ihnen helfen kann. Irgendetwas. Sagen Sie mir einfach, was ich tun soll, und ich tue es.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128334",
+      "en": "Jawohl, Sir. Ich werde bereit sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128335",
+      "en": "Jawohl, Ma'am. Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128336",
+      "en": "Kann ich Sie etwas fragen, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128337",
+      "en": "Ich meine, weil sie sich vorher auch nicht gerade überschlagen haben. Was ist, wenn wir ihn finden und zurück zur Citadel bringen ... und sie dann nichts unternehmen wollen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128338",
+      "en": "Nun ... vielleicht sollten wir ihnen gar nicht erst die Gelegenheit dazu geben, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128339",
+      "en": "Meiner Meinung nach ist Saren viel zu gefährlich, um am Leben bleiben zu dürfen. Es könnte einfach zu viel passieren. Er könnte entkommen oder der Rat könnte ihn gehen lassen ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128340",
+      "en": "Wenn wir ihn finden ... falls wir ihn finden. Ich wollte vorschlagen, dass wir ihn aufhalten. Ein für alle Mal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128341",
+      "en": "In Ordnung. Ich bin jedenfalls auf Ihrer Seite, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128342",
+      "en": "Aber was bringt es, ihn am Leben zu lassen? Er bekommt nur die Gelegenheit, zu entkommen oder den Rat zu zwingen, ihn anzuhören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128344",
+      "en": "Und was ist mit den Geth? Sie könnten versuchen, ihn zu befreien ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128345",
+      "en": "Ja. Ich verstehe Sie. Denken Sie wirklich, dass noch mehr dahintersteckt außer der Tatsache, dass er ein durchgedrehter Irrer ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128346",
+      "en": "Ja, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128347",
+      "en": "Jawohl, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128348",
+      "en": "Gut. Das wird dem Rat nicht gefallen, aber er kann Sie auch nicht aufhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128349",
+      "en": "Wissen Sie, genau aus diesem Grund wollte ich ein Spectre werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128350",
+      "en": "Man muss sich keine Sorgen mehr machen, dass einem irgendwelche bürokratischen Idioten die Sache vermasseln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128353",
+      "en": "Was ist passiert? Warum haben Sie gegen ihn ermittelt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128357",
+      "en": "Und was war es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128358",
+      "en": "Wie haben Sie herausgefunden, was wirklich vor sich ging?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128360",
+      "en": "Sie machen Witze, oder? Was sollte denn jemand mit Kroganer-Hoden anfangen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128364",
+      "en": "Was haben Sie wegen des Genetikers unternommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128366",
+      "en": "Ja. Sprechen Sie weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128367",
+      "en": "Gute Idee. Lakaien lassen sich immer leichter einschüchtern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128369",
+      "en": "Sie meinen bedroht. War das wirklich notwendig?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128373",
+      "en": "Also ließ er die Ersatzteile in seinen eigenen Angestellten heranwachsen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128374",
+      "en": "Er ließ die Ersatzteile in diesen Leuten wachsen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128378",
+      "en": "Warum nicht? Was zum Teufel ist denn passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128381",
+      "en": "Aber Sie sind ihm doch gefolgt? Oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128384",
+      "en": "Tja, man kann halt nicht jeden fassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128385",
+      "en": "Das Risiko war viel zu groß. Man verfolgt das Schiff und legt es dann lahm - das ist der beste Weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128387",
+      "en": "Kein Wunder, dass Sie da weg wollten. Diese Idioten haben ihn einfach wegfliegen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128390",
+      "en": "Wenn Ihnen das Schicksal der Geiseln nichts bedeutet, dann sind Sie keinen Deut besser als er. Dann sind Sie bloß ein Terrorist mit einer Marke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128391",
+      "en": "Ein paar Verluste wären ein geringer Preis gewesen, um jemanden wie ihn aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128392",
+      "en": "Ich kann beide Seiten irgendwie verstehen. Aber was geschehen ist, ist geschehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128393",
+      "en": "Wir kommen ihm näher, Garrus. Wir werden ihn finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128396",
+      "en": "Ich verstehe Ihre Besorgnis, aber wir werden ihn finden. Seien Sie einfach bereit, wenn es soweit ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128398",
+      "en": "Danke, Garrus. Ich werde das nicht vergessen. Seien Sie einfach bereit, wenn wir ihn eingeholt haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128401",
+      "en": "Was gibt es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128402",
+      "en": "Ich habe das Gefühl, dass das gar keine Frage ist. Sagen Sie, was Sie denken, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128403",
+      "en": "Sie scheinen sich deswegen einige Gedanken gemacht zu haben. Sagen Sie, was Sie denken, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128406",
+      "en": "Das hängt von der Situation ab. Ich werde das erst entscheiden, wenn er in greifbarer Nähe ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128407",
+      "en": "Wenn sich Saren nicht einsichtig zeigt, wenn er mich dazu zwingt, dann werde ich ihn augenblicklich töten. Aber nur, wenn es absolut notwendig ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128410",
+      "en": "Wir wissen mehr über Sarens Pläne als jeder andere, aber was wissen wir wirklich? Wenn wir ihn einfach töten, haben wir keine Chance mehr, alles herauszufinden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128411",
+      "en": "Vielleicht, vielleicht aber auch nicht. Aber dieses Risiko werde ich nicht eingehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128412",
+      "en": "Dies steht nicht zur Debatte, Garrus. Und jetzt hören Sie auf damit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128413",
+      "en": "Ich bin froh, dass Sie es so sehen. Ich hatte nie vor, diesen Bastard lebendig zu fangen. Wenn ich ihn sehe, ist er so gut wie tot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128416",
+      "en": "Seien Sie einfach bereit, wenn es so weit ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128418",
+      "en": "Verstörend?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128419",
+      "en": "Wieso?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128424",
+      "en": "Wirklich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128425",
+      "en": "Was fanden Sie heraus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128427",
+      "en": "Kroganer-Hoden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128428",
+      "en": "Und.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128432",
+      "en": "Was ist mit dem Arzt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128434",
+      "en": "Was? ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128435",
+      "en": "Clever.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128436",
+      "en": "Befragt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128441",
+      "en": "Laborversuche?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128442",
+      "en": "Interessant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128443",
+      "en": "Das ist krank.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128448",
+      "en": "Was? ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128451",
+      "en": "Was? ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128454",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128455",
+      "en": "Ich muss ihnen Recht geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128456",
+      "en": "Diese Idioten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128460",
+      "en": "Da irren Sie sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128461",
+      "en": "Das stimmt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128462",
+      "en": "Eine schwere Entscheidung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128464",
+      "en": "Denken Sie, dass er entkommen wird?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128468",
+      "en": "Machen Sie sich Sorgen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128469",
+      "en": "Okay, okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128473",
+      "en": "Natürlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128475",
+      "en": "Was sagen Sie da?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128476",
+      "en": "Das ist möglich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128479",
+      "en": "Wir werden sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128480",
+      "en": "Letzter Ausweg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128481",
+      "en": "Einverstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128484",
+      "en": "Benutzen Sie Ihren Kopf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128485",
+      "en": "Denken Sie darüber nach!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128486",
+      "en": "Es reicht!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128487",
+      "en": "Keine Ahnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|128490",
+      "en": "Wegtreten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129627",
+      "en": "Ja, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129631",
+      "en": "Nach einigen Nachforschungen fand ich heraus, dass dieser Turianer kurz für Dr. Saleon, den Genetiker, gearbeitet hatte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129632",
+      "en": "Manchmal wuchs ein Organ nicht richtig, dann ließ er es einfach drin. Die meisten von ihnen waren völlig am Ende - aber nur innen ... gut versteckt, sodass es niemand sehen konnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129633",
+      "en": "Das ist das Schlimmste daran - wir haben ihn nie gefasst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129634",
+      "en": "Sie machten sich Sorgen um die Geiseln. Sie waren besorgt wegen der zivilen Verluste, wenn das Schiff so nahe an der Citadel abgeschossen würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129641",
+      "en": "Mir wurde klar, dass es nicht nur an dem lag, was er diesen Leuten angetan hatte. Das war nur teilweise der Grund. Aber ich wollte es wohl eher, weil es ihm gelungen war, mir zu entkommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129642",
+      "en": "Er ist während meiner Wache entkommen, und das gefiel mir nicht. Es war persönlich geworden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129644",
+      "en": "So wissen wir, dass er anderen nie wieder Schaden zufügen wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129645",
+      "en": "Für all das. Dass Sie mich mitgenommen haben. Dass ich Teil Ihres Teams sein durfte. Ich habe sehr viel gelernt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129646",
+      "en": "Ich, äh ... Danke, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129647",
+      "en": "Ich habe viel über das nachgedacht, was Sie gesagt haben. Darüber, dass die Gefahr sofort beseitigt werden muss, ungeachtet des Preises, der dafür zu zahlen ist. Sie hatten Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129648",
+      "en": "Ich wusste immer, dass die Methoden der Citadel-Sicherheit mangelhaft sind, aber das ist nicht alles. Jetzt ist mir klar geworden, wie gefährlich diese Denkweise sein kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129649",
+      "en": "Ich habe viel über das nachgedacht, was Sie gesagt haben. Dass man keine Unschuldigen opfern darf, um das Ziel zu erreichen. Und dass man den besten Weg finden muss, der nicht immer der schnellste ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129650",
+      "en": "Ich denke immer noch, dass die Citadel-Sicherheit ihre Mängel hat, aber jetzt verstehe ich, warum sie es so tun. Ich weiß jetzt, wie wichtig es ist, im Angesicht des Bösen standhaft zu bleiben. Dass man sich davon nicht verändern lassen darf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129651",
+      "en": "Keine Sorge, Commander. Das werde ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129657",
+      "en": "Wenn die Leute, die ich beschützen soll, mir nicht vertrauen ... dann habe ich es nicht verdient, sie zu beschützen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129658",
+      "en": "Im Vergleich zu der Gefahr, die Saren darstellt, ist es ein geringes Risiko, die Normandy zu stehlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129659",
+      "en": "Uns wird nichts passieren, Garrus. Seien Sie einfach bereit, wenn wir Saren finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129660",
+      "en": "Sie klingen besorgt, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129666",
+      "en": "Hoffentlich hat er bekommen, was er verdient hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129677",
+      "en": "Wofür, Garrus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129679",
+      "en": "Gern geschehen, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129682",
+      "en": "Ich bin froh, dass Sie es so sehen. Denken Sie daran, wenn wir Saren begegnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129683",
+      "en": "Worte bedeuten gar nichts, solange Sie keine Taten folgen lassen, Garrus. Was werden Sie deswegen unternehmen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129688",
+      "en": "Welche Wahl hatten wir denn?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129689",
+      "en": "Bis dann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129690",
+      "en": "Angst?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129696",
+      "en": "Haben Sie ihn befragt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129697",
+      "en": "Bastard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129698",
+      "en": "Sie haben ihn einfach gehen lassen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129710",
+      "en": "Mir danken?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129712",
+      "en": "Sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129715",
+      "en": "Sehr gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129716",
+      "en": "Noch mehr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129721",
+      "en": "Ja, da haben Sie wohl Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129722",
+      "en": "Nein, eigentlich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129723",
+      "en": "Wenn Sie sich irren, werden wir dafür bezahlen. Aber wenn Sie Recht haben und wir nichts unternehmen ... ich denke, dass wir das noch mehr bedauern würden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129724",
+      "en": "Ich hoffe nur, dass wir Saren finden, bevor sie merken, dass wir weg sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129725",
+      "en": "Oh. Leben Sie wohl, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129726",
+      "en": "Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129730",
+      "en": "Ab und zu verkaufen einige Labore überschüssige Teile auf dem Schwarzmarkt. Aber die sind nicht so schlimm wie die Psychos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129731",
+      "en": "Ich erinnere mich noch an diesen Elcor-Diplomaten, den wir in meinem ersten Amtsjahr schnappten. Er schlitzte Leute auf und verkaufte ihre Organe. Die ganze Station war in Panik.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129732",
+      "en": "In diesem Fall war das nicht so offensichtlich. Es stellte sich heraus, dass mehr dahinter steckte, als wir ursprünglich dachten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129733",
+      "en": "Ich wünschte nur, ich hätte ihn aufhalten können. Das ist alles. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129734",
+      "en": "Ich habe ab und zu meine Fühler ausgestreckt und gehofft, etwas herauszufinden. Vor einer Weile glaubte ich, ihn gefunden zu haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129735",
+      "en": "Er hatte ein anderes Schiff und seinen Namen in Dr. Heart geändert, was er wohl sehr witzig findet. Ich erzählte es dem Militär, aber sie waren nicht davon überzeugt, dass er es wirklich ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129736",
+      "en": "Ich habe die Transponderfrequenz seines neuen Schiffs, aber niemand will sich der Sache annehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129737",
+      "en": "Ich hatte gehofft, dass Sie das sagen würden. Aber, Commander, nehmen Sie mich mit, wenn Sie losfliegen. Wenn es wirklich Saleon ist, will ich dabeisein, wenn Sie ihn finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129738",
+      "en": "Danke, dass Sie mich angehört haben. Das weiß ich zu schätzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129739",
+      "en": "Sind Sie besorgt, dass der Rat Saren schützen könnte?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129744",
+      "en": "Wir kriegen ihn. Seien Sie einfach bereit, wenn es soweit ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129745",
+      "en": "Ich muss gehen. Bis dann, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129746",
+      "en": "Ich muss gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129749",
+      "en": "So etwas hat es auf der Citadel schon gegeben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129754",
+      "en": "Wissen Sie, was aus Dr. Saleon geworden ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129757",
+      "en": "Ich überprüfe die Koordinaten, sobald ich dazu komme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129760",
+      "en": "Für so etwas habe ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129765",
+      "en": "Keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129766",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129767",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129770",
+      "en": "Ist das üblich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129775",
+      "en": "Dr. Saleon",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129778",
+      "en": "Geben Sie es mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129779",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129833",
+      "en": "Commander. Ich hörte, Sie haben sich um Dr. Saleon gekümmert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129834",
+      "en": "Ich wäre sehr gern dabei gewesen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129835",
+      "en": "Das wusste ich bereits. Es ist nur ... ich habe Jahre darauf gewartet, ihn fertig zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129836",
+      "en": "Ja, ich bin ziemlich wütend. Ich habe lange darauf gewartet, ihn fertig zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129837",
+      "en": "Nun, zumindest ist er tot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129839",
+      "en": "Sie sind bestimmt froh zu hören, dass er tot ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129840",
+      "en": "Sind Sie sauer, dass ich ihn an Ihrer Statt getötet habe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129843",
+      "en": "Tut mir leid. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|129844",
+      "en": "Sind Sie wütend?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130440",
+      "en": "Es ist schwer zu begreifen, dass es vorbei ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130441",
+      "en": "Ich ... okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130443",
+      "en": "Sie kommen drüber hinweg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130444",
+      "en": "Sie machen sich zu viele Sorgen, Garrus. Wir werden ihn schon bald haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130445",
+      "en": "Ich muss gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130447",
+      "en": "Zu schade.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130448",
+      "en": "Entspannen Sie sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130449",
+      "en": "Hören Sie auf zu jammern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|130450",
+      "en": "Nein. Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146462",
+      "en": "So ist es also, mit einem Spectre zusammenzuarbeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146463",
+      "en": "Das werde ich wohl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146464",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146465",
+      "en": "Da haben Sie Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146467",
+      "en": "Denken Sie, Sie wüssten schon alles über uns Spectres?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146469",
+      "en": "Die Mission hat immer Priorität, Garrus. Ich wollte, dass mir hierbei jemand anderes Rückendeckung gibt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146471",
+      "en": "Manchmal laufen die Dinge nicht so, wie wir es wollen. So ist das Leben, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146474",
+      "en": "Sie haben doch noch gar nichts gesehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146476",
+      "en": "Zweifellos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146477",
+      "en": "Keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146478",
+      "en": "Ich brauche Sie nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146479",
+      "en": "Es ist nichts Persönliches.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146557",
+      "en": "Entspannen Sie sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146558",
+      "en": "Schon in Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146559",
+      "en": "Hören Sie auf, sich zu sorgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146646",
+      "en": "Sie hatten auch in Bezug auf Dr. Saleon Recht. Es war die beste Lösung, ihn zu töten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146647",
+      "en": "Langsam verstehe ich, warum Sie in Bezug auf Saleon so gehandelt haben. In einer solchen Situation ist Zögern das Schlimmste, was man machen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146648",
+      "en": "Das ist mir jetzt klar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146649",
+      "en": "Und ich habe auch über Dr. Saleon nachgedacht. Ich war überzeugt, dass er den Tod verdient hatte, aber dann begann ich, darüber nachzudenken, warum ich seinen Tod wollte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146651",
+      "en": "Saren wird mit seinem Leben dafür bezahlen! Dafür werde ich sorgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146652",
+      "en": "Wir werden Saren der Justiz übergeben. Er kann uns nicht ewig entwischen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146653",
+      "en": "Hoffentlich finden wir diesen Bastard Saren bald.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146654",
+      "en": "Wir müssen Saren aufhalten, bevor er noch jemand anderen verletzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146655",
+      "en": "Mir gefällt die Art, wie Sie die Dinge hier regeln, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146656",
+      "en": "Commander. Langsam verstehe ich, warum man Sie zum Spectre gemacht hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146660",
+      "en": "Das war ein netter Vortrag, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146662",
+      "en": "Bis später, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146666",
+      "en": "In Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146667",
+      "en": "Ausgezeichnet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146668",
+      "en": "Das ist schön, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146669",
+      "en": "In Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146670",
+      "en": "Danke. Denke ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146671",
+      "en": "Aber sicher.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146673",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146825",
+      "en": "Es steckte mehr dahinter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146826",
+      "en": "Die Art, wie die Citadel-Sicherheit mit Saren umging, war typisch. Ich konnte es nicht mehr ertragen. Ich gehe nur ungern...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146827",
+      "en": "Ja. Da haben Sie wahrscheinlich Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146828",
+      "en": "Ja. Da haben Sie wohl Recht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146829",
+      "en": "Tja, aus diesem Grund bin ich jetzt ja auch bei Ihnen. Dies ist meine Chance, von der Citadel wegzukommen und zu sehen, wie es außerhalb der Citadel-Sicherheit so läuft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146830",
+      "en": "Ich habe jedenfalls vor, das Beste aus der Situation zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146831",
+      "en": "Commander. Wie geht es Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146832",
+      "en": "Hm. Gute Frage. Ich hatte wohl mehrere Gründe dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146833",
+      "en": "Es waren wahrscheinlich dieselben wie bei den meisten anderen Offizieren. Ich wollte gegen die Ungerechtigkeit kämpfen und anderen helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146834",
+      "en": "Ich schätze, dass mein Vater auch etwas damit zu tun hatte. Er gehörte zur Citadel-Sicherheit. Er war einer der Besten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146835",
+      "en": "Als ich aufwuchs, hörte ich viel über seine Heldentaten oder sah sein Bild nach einer großen Verhaftung auf den Videos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146836",
+      "en": "Er hat meinen Rücktritt nicht gut verkraftet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146837",
+      "en": "Mein Vater hat sich durch und durch der Citadel-Sicherheit verschrieben. \"Mach eine Sache richtig oder mach sie gar nicht\", pflegt er zu sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146838",
+      "en": "Er denkt, ich hätte überstürzt gehandelt. Zu überhastet. Er macht sich Sorgen, dass ich so werde wie Saren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146839",
+      "en": "Er hat mir sogar ausgeredet, ein Spectre zu werden, als ich jünger war. Aus denselben Gründen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146840",
+      "en": "Ja, ich war als möglicher Spectre-Kandidat im Gespräch. Ich und etwa eintausend andere turianische Militärrekruten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146841",
+      "en": "Ich hätte eine Spezialausbildung machen können, aber mein Vater wollte das nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146842",
+      "en": "Sie gingen, weil Ihnen nicht gefiel, wie sie die Dinge regeln?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146845",
+      "en": "Sie haben das Richtige getan. Das Leben ist zu kurz, um rumzusitzen und darauf zu warten, dass etwas geschieht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146847",
+      "en": "Das ist nicht das Ende der Welt. Sie werden schon bald weitaus schwerere Entscheidungen treffen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146849",
+      "en": "Ich hoffe, Sie treffen die richtige Wahl. Es wäre traurig, wenn Sie sie später bereuen müssten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146852",
+      "en": "Warum wollten Sie überhaupt Offizier bei der Citadel-Sicherheit werden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146853",
+      "en": "Zum Beispiel?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146857",
+      "en": "Er ist nicht beeindruckt, dass Sie Saren verfolgen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146858",
+      "en": "Das ist hart. Aber man sollte doch annehmen, dass er beeindruckt ist, dass Sie Saren verfolgen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146861",
+      "en": "Sie hätten ein Spectre werden können?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146864",
+      "en": "Das war Ihr Grund?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146867",
+      "en": "Vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146868",
+      "en": "Sie kommen drüber hinweg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146869",
+      "en": "Es ist eine schwere Entscheidung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146874",
+      "en": "Sie und die Citadel-Sicherheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146875",
+      "en": "Nennen Sie einen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146880",
+      "en": "Tatsächlich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146881",
+      "en": "Warum?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146882",
+      "en": "Das verstehe ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|146886",
+      "en": "Ein Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147108",
+      "en": "Ja. Das habe ich schon viel zu oft gehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147109",
+      "en": "Können Sie das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147110",
+      "en": "Natürlich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147111",
+      "en": "Aber Saren wird nicht nach unseren Regeln spielen. Den Regeln der Citadel-Sicherheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147112",
+      "en": "Wer Saren festnageln will, der muss auch jemanden losschicken, der nicht durch Politik und Prozeduren behindert wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147113",
+      "en": "Ich verstehe, was Sie meinen, aber ... ich werde darüber nachdenken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147114",
+      "en": "Ich stehe hinter Ihnen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147115",
+      "en": "Gutes Argument.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147116",
+      "en": "Danke, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147117",
+      "en": "Ich werde mich erneut um die Ausbildung als Spectre bewerben. Das wird meinem Vater wahrscheinlich den Rest geben, aber ich muss es versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147118",
+      "en": "Wenn es nicht funktioniert, dann würde ich fast alles andere probieren ... außer zur Citadel-Sicherheit zurückzukehren. Mit denen bin ich fertig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147119",
+      "en": "Keine Einschränkungen mehr. Keine Politik mehr. Von jetzt an regle ich die Dinge auf meine Weise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147120",
+      "en": "Nun, ich werde zur Citadel-Sicherheit zurückgehen. Ich glaube, ich kann dort etwas bewirken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147121",
+      "en": "Ich werde mich außerdem um die Ausbildung als Spectre bewerben. Aber auf die richtige Weise. Ich werde mich nicht verbiegen, um dort hinzukommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147126",
+      "en": "Nur weil Sie die Regeln brechen können, heißt das noch lange nicht, dass Sie es auch tun sollten. Ich muss mich nicht auf Sarens Ebene begeben, um ihn aufzuhalten. Und Sie müssen es auch nicht, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147128",
+      "en": "Sie lernen schnell, Garrus. Wir werden ihn nach seinen eigenen Regeln schlagen. Das ist der einzige Weg, um jemanden wie ihn aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147129",
+      "en": "Verstricken Sie sich nicht in Details, Garrus. Wir werden ihn finden, und wir werden ihn aufhalten. Mehr müssen Sie nicht wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147137",
+      "en": "Das stimmt nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147138",
+      "en": "Genau.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|147139",
+      "en": "Vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|152004",
+      "en": "Verstehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|152005",
+      "en": "Im Ernst?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|152006",
+      "en": "Zweifellos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|165258",
+      "en": "Was haben Sie getan?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|165259",
+      "en": "Sagen Sie das nicht!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|165260",
+      "en": "Sicher, ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|165261",
+      "en": "Lassen Sie mich nicht hängen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|167875",
+      "en": "Commander. Schön, Sie zu sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|167876",
+      "en": "Commander. Wie geht es Ihnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|cha00_turian_garrus_D|167877",
+      "en": "Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152018",
+      "en": "Brauchen Sie Vorräte?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152020",
+      "en": "Was immer Sie wollen. Rüstung, Waffen, Mods ... Keine Standard-Allianz-Ware. Aber das muss kein Nachteil sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152021",
+      "en": "Aber zahlen müssen Sie natürlich trotzdem dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152022",
+      "en": "Meine Waren stammen nicht aus dem Allianz-Arsenal. Ich muss sie selbst kaufen. Und sie sind nicht billig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152023",
+      "en": "Allein die verdammten Lizenzen haben mich ein Vermögen gekostet. Aber ohne Lizenzen keine Waren. Und ohne Waren kein Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152025",
+      "en": "Kein Problem. Kommen Sie gerne wieder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152026",
+      "en": "Sehr gern, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152028",
+      "en": "Die Hersteller vergeben Lizenzen. Mit jeder Lizenz kann ich bestimmte Produkte kaufen und verkaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152029",
+      "en": "Ich habe ein paar Lizenzen für einfache Produkte. Aber wenn Sie andere Produkte wollen, müssen Sie andere Lizenzen kaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152030",
+      "en": "Viele der besten Lizenzen sind schwer zu bekommen. Aber sie rentieren sich immer, wenn man sie bekommt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152031",
+      "en": "Das hängt davon ab, wie viele Lizenzen Sie erworben haben. Aber ich habe eigentlich immer ein paar neue Produkte im Angebot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152032",
+      "en": "Und in jedem größeren Raumhafen kaufe, verkaufe und tausche ich möglichst viele Waren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152033",
+      "en": "Kommen Sie 'mal wieder vorbei. Ich muss meine Waren möglichst schnell verkaufen. Deshalb habe ich hier immer nur die einfachsten Produkte durchgehend auf Lager.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152036",
+      "en": "Hey, Commander. Brauchen Sie noch ein paar weitere Vorräte, bevor Sie starten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152038",
+      "en": "Was können Sie mir anbieten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152040",
+      "en": "Warum sollte ich für meine Waffen und Rüstungen zahlen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152043",
+      "en": "Danke. Jetzt nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152044",
+      "en": "Zeigen Sie mir Ihr Angebot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152045",
+      "en": "Was für Lizenzen? Wozu brauchen Sie die?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152048",
+      "en": "Wie häufig bekommen Sie neue Produkte rein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152054",
+      "en": "Vorräte?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152056",
+      "en": "Sie bezahlen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152057",
+      "en": "Wohl nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152060",
+      "en": "Vielleicht später.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152061",
+      "en": "Zeigen Sie her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152062",
+      "en": "Lizenzen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152063",
+      "en": "Neue Produkte",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152065",
+      "en": "Ja.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152071",
+      "en": "Es gibt so viele davon, dass ich sie nicht alle kenne. Aber jede Lizenz spezifiziert das betreffende Produkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152072",
+      "en": "Was haben die anderen Hersteller im Angebot?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_req_officer_D|152073",
+      "en": "Hersteller?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80607",
+      "en": "Es war eine Ehre mit Ihnen zu arbeiten, Commander Shepard. Trotz unserer Verluste war diese Mission ein Erfolg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80608",
+      "en": "Ich werde Lieutenant Alenkos Verdienste hervorheben. Sein Opfer wird den Menschen gebührend Respekt von meinem Volk einbringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80609",
+      "en": "Meine Vorgesetzen werden Chief Williams für Ihre Verdienste ehren. Ihr Opfer wird den Menschen gebührend Respekt von meinem Volk einbringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80610",
+      "en": "Ja, der Verlust eines guten Crewmitgliedes ist immer schwer zu akzeptieren. Eigentlich eine Schande, dass unsere besten Leute immer die ersten sind, die sich opfern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80611",
+      "en": "Natürlich. Ich habe davon gehört, dass Sie beide eine persönliche Beziehung unterhielten. Es ist besonders schwer, jemanden zu verlieren, der einem nahesteht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80612",
+      "en": "Natürlich. Das ist die grausame Realität des Soldatenlebens.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80613",
+      "en": "Commander. Ich kann Ihnen versichern, dass meine Männer und ich nie vergessen werden, was Sie für uns getan haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80614",
+      "en": "Es ist erstaunlich, dass wir mit so vielen Leuten entkommen konnten. Das spricht für Ihre Führungsqualitäten. Und für Ihre Offiziere.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80616",
+      "en": "Ich werde meinen Vorgesetzten Bericht erstatten. Sie haben sich als Verbündete der Salarianer bewiesen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80617",
+      "en": "Ich erweise Ihnen und Ihren Offizieren Respekt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80618",
+      "en": "Meine Leute hatten Bedenken gegen eine Zusammenarbeit mit Ihnen. Aber jetzt zollen auch sie Ihnen Respekt. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80619",
+      "en": "Ich bin mir sicher, dass wir wieder zusammenarbeiten werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80621",
+      "en": "Ein guter Officer ist mir mehr wert als Ihr Respekt. Ich würde ihn gerne dafür eintauschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80622",
+      "en": "Er kannte die Risiken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80623",
+      "en": "Eine gute Soldatin ist mir mehr wert als Ihr Respekt. Ich würde sie gerne dafür eintauschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80624",
+      "en": "Sie kannte die Risiken. Alle meine Offiziere hätten das gleiche getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80628",
+      "en": "Kein Respekt",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80629",
+      "en": "Harte Entscheidungen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80630",
+      "en": "Kein Respekt",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80631",
+      "en": "Harte Entscheidungen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80937",
+      "en": "Wir werden Ihr Schiff gleich am nächsten Zielort verlassen. Vielleicht haben wir wieder einmal die Gelegenheit zusammenzuarbeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80940",
+      "en": "Unter ungewöhnlichen Umständen sieht man sich manchmal gezwungen, ungewöhnliche Dinge zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80941",
+      "en": "Ich erledige immer meinen Job. Unter allen Umständen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80944",
+      "en": "Nur Job gemacht",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|80945",
+      "en": "Kein Versagen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|120394",
+      "en": "Kaidan war ein guter Officer. Er kannte die Risiken und tat dennoch, was er für seine Pflicht hielt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|120395",
+      "en": "Ash war eine verdammt gute Soldatin. Sie kannte die Risiken und tat dennoch, was sie für ihre Pflicht hielt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|120396",
+      "en": "Es wäre nicht so einfach gewesen, wenn Ihre Leute uns nicht geholfen hätten, Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|120397",
+      "en": "Ich vermisse ihn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|120398",
+      "en": "Ich vermisse sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_captainkirrahe_D|120399",
+      "en": "Dank Ihrer Hilfe",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80635",
+      "en": "Der Captain schätzt die Mission als Erfolg ein. Ich schließe mich seinem Urteil an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80636",
+      "en": "Wir haben viele Leute auf Virmire verloren. Ich hoffe, dass es das wert war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80637",
+      "en": "Danke für Ihren Einsatz, Commander. Ich bin sicher, dass Sie die gebührende Anerkennung bekommen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80638",
+      "en": "Ihr Einsatz auf Virmire war ein Erfolg. Dafür zolle ich Ihnen Respekt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80639",
+      "en": "Ich bin Ihnen zu Dank verpflichtet, Commander. Wohl jeder andere hätte unser Team aufgegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80640",
+      "en": "Der Verlust von Captain Kirrahe ist zutiefst bedauerlich. Aber ich gebe Ihnen keine Schuld daran. Ich weiß, dass auch Sie einen Verlust erlitten haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80641",
+      "en": "Ich weiß. Aber ich finde darin keinen Trost. Die Tragweite seines Verlustes wird für unsere Einheit für lange Zeit kaum einzuschätzen sein. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80642",
+      "en": "Die Mission war ein Erfolg. Nur das zählt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80643",
+      "en": "Das scheint wohl unser Schicksal zu sein. Aber irgendwann kommt es zu einem Punkt, wo so viele geopfert wurden, dass man nicht mehr entscheiden kann, wer gewonnen hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80646",
+      "en": "Sie haben auf Virmire einen großen Verlust hinnehmen müssen. Die Trauer über die Verluste eint uns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80647",
+      "en": "Captain Kirrahe war ein ehrenvoller Mann. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80650",
+      "en": "Lieutenant Alenko war sich der Risiken bewusst. Ebenso wie Ihr Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80652",
+      "en": "Er war nur ein einziger Mann. Durch das was er tat, hat er vielen das Leben gerettet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80657",
+      "en": "Harte Entscheidungen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80658",
+      "en": "Ein notwendiger Verlust",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80946",
+      "en": "Wir werden Ihnen keine Probleme mehr machen. Unsere Einheit wird aufgelöst, sobald wir abgerückt sind. Viel Glück, Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80948",
+      "en": "Chief Williams war sich der Risiken bewusst. Ebenso wie Ihr Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|80949",
+      "en": "Harte Entscheidungen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|120400",
+      "en": "Der Verlust von Captain Kirrahe ist sicher schmerzhaft. Aber er hat sich geopfert, damit viele andere leben können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|120401",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|169131",
+      "en": "Viel Glück, Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|169133",
+      "en": "Lassen Sie mal sehen, was Sie haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|169134",
+      "en": "Gern geschehen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|169136",
+      "en": "Was können Sie anbieten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_11_DSG_LOC|nor20_sal_comstore_D|169137",
+      "en": "Natürlich.",
+      "tr": ""
+    }
+  ]
+}

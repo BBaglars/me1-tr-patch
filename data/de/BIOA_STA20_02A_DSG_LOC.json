@@ -1,0 +1,1370 @@
+{
+  "meta": {
+    "package": "BIOA_STA20_02A_DSG_LOC_DE.pcc",
+    "stem": "BIOA_STA20_02A_DSG_LOC",
+    "textLang": "DE",
+    "sets": 7
+  },
+  "entries": [
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158682",
+      "en": "Es sind keine Ziele für den Citadel Rapid Transit verfügbar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158683",
+      "en": "Bitte wählen Sie ein Ziel für den Citadel Rapid Transit aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158686",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158687",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158688",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158690",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158692",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158694",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158696",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158700",
+      "en": "Botschaften",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158701",
+      "en": "Verlassen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158702",
+      "en": "Citadel-Turm",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158704",
+      "en": "Finanzdistrikt",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158706",
+      "en": "Medizinische Klinik",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158708",
+      "en": "Märkte",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158710",
+      "en": "Citadel-Sicherheitsdienst",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158852",
+      "en": "Präsidium",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158853",
+      "en": "Bezirke",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158854",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158855",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158856",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158857",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158858",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158859",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158860",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158861",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158862",
+      "en": "Präsidium",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158863",
+      "en": "Bezirke",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158864",
+      "en": "Zurück",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158865",
+      "en": "Gemächer der Konsortin",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158866",
+      "en": "Bezirkszugang",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158867",
+      "en": "Zurück",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158868",
+      "en": "Flux",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|158869",
+      "en": "Choras Nest",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta00_cab_D|159576",
+      "en": "Bitte wählen Sie ein Ziel für den Citadel Rapid Transit aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_hanar_religious_D|136455",
+      "en": "Mögen alle Völker künden vom Ruhm der Entflammten, die uns allen Erleuchtung gebracht haben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_hanar_religious_D|136456",
+      "en": "Wo es nur Dunkelheit gab, brachten uns die Entflammten Licht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_hanar_religious_D|136457",
+      "en": "Wo es nur Ignoranz gab, brachten uns die Entflammten Weisheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_hanar_religious_D|136458",
+      "en": "Wo es nur Stille gab, brachten uns die Entflammten die Gabe der Worte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_hanar_religious_D|136459",
+      "en": "Diese Station hier ist das Werk der Entflammten - ihre Gabe an all ihre Kinder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_religious_argue_D|135903",
+      "en": "Ich sagte Ihnen doch schon, dass Sie gar nicht hier sein dürfen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_religious_argue_D|135904",
+      "en": "Diese Person glaubt, dass sie das Recht hat, sich hier frei zu bewegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_religious_argue_D|135905",
+      "en": "Sie stellen ein öffentliches Ärgernis dar! Und Sie verstoßen gegen Citadel-Gesetze!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_amb_religious_argue_D|135906",
+      "en": "Diese Person ist sich nicht sicher, warum man nicht will, dass das Wort der Entflammten verbreitet wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25020",
+      "en": "Zu Ihrer Linken sehen Sie, wie einer der Keeper, die Verwalter von Citadel, ein Steuerfeld bedient.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25021",
+      "en": "Aber nur wenigen wurde bisher Zugang zu den Ratskammern selbst gewährt. In aller Regel vertreten die jeweiligen Botschafter die Interessen ihrer Bürger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25022",
+      "en": "Nur einer Handvoll Besucher von Citadel wurde dieses Privileg bis heute eingeräumt. Wenn es nicht außerhalb meiner Programmierung läge, wäre ich jetzt neidisch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25023",
+      "en": "Über diese Verwalter von Citadel ist nur wenig bekannt. Aber bei der Wartung und Steuerung der ganzen Station spielen sie eine entscheidende Rolle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25024",
+      "en": "Laut der Citadel-Bestimmungen dürfen die Keeper bei der Ausführung ihrer Arbeit niemals gestört werden. Wer diese Bestimmung missachtet, muss mit harten Strafen rechnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25026",
+      "en": "Danke, dass Sie sich für Avina entschieden haben. Ich wünsche Ihnen einen schönen Tag.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25028",
+      "en": "Sie werden vielleicht noch mehr Keeper bei der Ausführung diverser Tätigkeiten auf Citadel beobachten können. Wir müssen Sie aber bitten, die Keeper nicht bei der Arbeit zu stören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25030",
+      "en": "Die Keeper sorgen für den störungsfreien Betrieb von Citadel. Das Abhalten der Keeper von ihren Tätigkeiten zieht harte Strafen wie Gefängnisstrafen und Rehabilitationsmaßnahmen nach sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25037",
+      "en": "Willkommen im Präsidium-Tourismus-Terminal 2. Sie befinden sich gerade am Fuß des Citadel-Turms - einem der bedeutendsten und bekanntesten Bauwerke des Präsidiums.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25038",
+      "en": "Er beherbergt die Ratskammern und die Citadel-Kontrolle und ist eines der wichtigsten Gebäude auf der Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25039",
+      "en": "Zugang zu diesen Bereichen wird nur Personen mit autorisierter Berechtigung gewährt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25040",
+      "en": "Die Keeper kommunizieren nicht mit anderen Lebewesen. Man geht aber davon aus, dass das Hauptsteuerzentrum der Citadel sich im Turm befindet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25041",
+      "en": "Viele Systeme der Station, wie die Navigation und die Lebenserhaltung, arbeiten automatisch. Es wird angenommen, dass die Keeper diese Systeme von dem nicht zugänglichen Kern des Turms aus steuern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25042",
+      "en": "Die Keeper zeigen sich auch häufiger bei Sitzungen der Ratskammer, doch meist sieht es so aus, als würden sie dort nur auf dem Weg zu einem anderen Ziel vorbeikommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25047",
+      "en": "In diesem höchsten Raum des Turms führt der Rat seine Geschäfte - mit weit reichenden Entscheidungen für die gesamte galaktische Gemeinschaft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25048",
+      "en": "Die Ratskammern sind ein wahrhaft beeindruckender Anblick. Allerdings können nur wenige sie persönlich bewundern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25049",
+      "en": "Dort haben für gewöhnlich nur Ratsmitglieder, Botschafter, hochrangige Offizielle und die verschiedenen Assistenten Zutritt. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25050",
+      "en": "Durchschnittliche Bürger müssen die ausgewiesenen Kanäle kontaktieren, wenn sie eine Anhörung vor dem Rat wünschen. Dies wird in aller Regel durch die zuständigen Botschafter vermittelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25054",
+      "en": "Ich möchte mehr über die Ratskammern erfahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25057",
+      "en": "Wie kann man mit dem Rat Kontakt aufnehmen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25059",
+      "en": "Ich bin schon in den Ratskammern gewesen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25060",
+      "en": "Ich habe mir einen Termin beim Rat geben lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25061",
+      "en": "Ich möchte mehr über die Keeper wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25064",
+      "en": "Das ist vorerst alles.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25081",
+      "en": "Erzählen Sie mir von diesem Citadel-Turm.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|25083",
+      "en": "Gibt es einen besonderen Grund dafür, dass hier so viele Keeper sind?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46459",
+      "en": "Kein freier Zugang?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46460",
+      "en": "Ich war drin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46461",
+      "en": "Ich soll dorthin gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46480",
+      "en": "Citadel-Turm",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46481",
+      "en": "Keeper",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46482",
+      "en": "Ausloggen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46484",
+      "en": "Warum hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|46486",
+      "en": "Ratskammern",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|89782",
+      "en": "Dieses Terminal ist so programmiert, dass Sie sowohl Informationen über den Turm als auch über das Portal-Monument und die Keeper erhalten können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|106529",
+      "en": "Keeper sind in allen Sektionen von Citadel anzutreffen, aber die meisten halten sich im Turm oder dessen Umgebung auf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111672",
+      "en": "Willkommen im Präsidium. Mein Name ist Avina. Ich bin Ihre virtuelle Reiseleiterin auf der Tour durch diese Ebene der Citadel-Raumstation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111673",
+      "en": "Laut unseren Aufzeichnungen ist dies Ihr erster Besuch auf Citadel. In diesem Fall ist eine kurze Einführung angebracht. Bitte erlauben Sie mir, meine Arbeit zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111674",
+      "en": "Ich bin eine vollständig interaktive Virtuelle Intelligenz, die darauf programmiert ist, den Gästen in diesem Bereich der Citadel-Raumstation eine spontane Einführungstour anzubieten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111675",
+      "en": "Sie können mich auch über die Präsidium-VI-Terminals kontaktieren, wenn Sie Hilfe benötigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111676",
+      "en": "Sie stehen im Präsidium-Tourismus-Terminal 2 am Fuße des Citadel-Turms, eines der bemerkenswertesten und wichtigsten Gebäude des Präsidiums.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111677",
+      "en": "Es tut mir Leid, wenn Sie meine Serviceleistung nicht als zufriedenstellend empfunden haben. Bitte reichen Sie alle Beschwerden in schriftlicher Form bei der Citadel-Tourismus- und Besucherabteilung ein. Ich wünsche Ihnen einen schönen Tag.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111678",
+      "en": "Sind Sie eine Person oder ein Programm?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111679",
+      "en": "Was bedeutet das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111680",
+      "en": "Ich brauche keine Reiseleiterin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111683",
+      "en": "Dann mal los.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111685",
+      "en": "Ich verzichte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111686",
+      "en": "Sind Sie real?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111687",
+      "en": "Virtuelle Reiseleiterin?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111688",
+      "en": "Nein, danke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111691",
+      "en": "Klingt interessant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|111692",
+      "en": "Kein Interesse.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|145142",
+      "en": "Die Citadel-Kontrolle verwaltet alle ein- und ausgehenden Transitflüge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|145143",
+      "en": "Alle Schiffe im Umkreis von zweitausend Kilometern der Citadel unterstehen der Citadel-Kontrolle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|145144",
+      "en": "In Spitzenzeiten werden manchmal mehr als eintausend Schiffe verwaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|145145",
+      "en": "Was passiert in der Citadel-Kontrolle?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|145148",
+      "en": "Citadel-Kontrolle",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150978",
+      "en": "Hinter mir sehen Sie das spektakuläre Portal-Monument - ein Maßstabmodell eines protheanischen Massenportals.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150979",
+      "en": "Die Asari haben die Citadel als erste entdeckt. Das Portal-Monument ist eines der interessantesten und umstrittensten Bauwerke der Citadel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150980",
+      "en": "Was hat denn dieses Kunstwerk zu bedeuten? Vielleicht ist es nur eine Erinnerung an die protheanische Eitelkeit? Und daran, dass die Galaxie mit Hilfe der Massenportale erobert wurde?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150981",
+      "en": "Oder vielleicht ist es ein Symbol der Einheit - eine protheanische Vorhersehung, dass die Völker der Galaxie mit Hilfe der Massenportale hier zusammenfinden würden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150982",
+      "en": "Es gibt keine gesicherten Fakten darüber. Deswegen beschäftigen sich viele Akademiker und Historiker mit diesem Portal-Monument.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150984",
+      "en": "Erzählen Sie mir mehr über das Portal-Monument.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150989",
+      "en": "Portal-Monument",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|150993",
+      "en": "Citadel- Kontrolle",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_keeper_D|157621",
+      "en": "Sind Sie real?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_triggers_D|111694",
+      "en": "Willkommen im Präsidium. Ich bin Ihre Führerin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_triggers_D|111695",
+      "en": "Sehen Sie sich dieses Ding da drüben an. Was tut es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_avina_triggers_D|111696",
+      "en": "Bitte stören Sie die Keeper nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136346",
+      "en": "Der Officer ist fort und diese Person ist froh darüber, den Ruhm der Entflammten zu preisen. Diese Person möchte Ihnen danken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136347",
+      "en": "Diese Person würdigt die Weisheit Ihrer Worte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136348",
+      "en": "Die Entflammten wünschen, dass ihre Botschaft an alle bewusstseinsfähigen Völker weitergegeben wird!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136349",
+      "en": "Diese Person vernimmt die Weisheit in diesen Worten. Vielleicht hat ihr der Enthusiasmus den Verstand geblendet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136350",
+      "en": "Diese Person wird jetzt gehen und nicht wieder das Präsidium aufsuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136351",
+      "en": "Diese Person wird fortfahren, die Botschaft zu verkünden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136352",
+      "en": "Diese Person hat nicht viel Geld, aber kann Ihnen dies hier anbieten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136353",
+      "en": "Jetzt kann diese Person endlich ungehindert die Wahrheit verkünden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136354",
+      "en": "Hat sich der Zorn des Citadel-Sicherheits-Officers gelindert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136355",
+      "en": "Möchten Sie von den Entflammten erfahren? Oder agieren Sie als Verstärkung für den ehrenwerten Citadel-Sicherheits-Officer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136356",
+      "en": "Die Worte dieser unbedeutenden Person berichten nur von der offensichtlichen Wahrheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136357",
+      "en": "Der Citadel-Sicherheits-Officer verlangt, dass diese Person eine Evangelikanererlaubnis erwirbt, um die Wahrheit der Entflammten zu verkünden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136358",
+      "en": "Ihre Leute nennen sie die Protheaner. Sie sind die wahren Erschaffer des Volkes dieser Person.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136359",
+      "en": "Die Entflammten führten die Hanar von der Ignoranz zum Bewusstsein, indem Sie dem Volk dieser Person die Gabe der Sprache schenkten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136360",
+      "en": "Die Wahrheit der Entflammten ist allmächtig. Diese Person glaubt inständig daran, dass die Wahrheit nicht unterdrückt werden darf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136361",
+      "en": "Zahlungen als Mittel, die Verkündung der absoluten Wahrheit einzuschränken, empfindet diese Person als Einschränkung der religiösen Freiheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136362",
+      "en": "Der Citadel-Sicherheits-Officer sagt, dass das Predigen an diesem Ort verboten sei und das Predigen an anderen Orten der Citadel einer Erlaubnis bedürfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136363",
+      "en": "Diese Person möchte betonen, dass das Verkünden der Wahrheit der Entflammten kein Akt des Predigens darstellt und deshalb keiner Erlaubnis bedarf.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136364",
+      "en": "Diese Person wäre sehr dankbar für Ihre Hilfe. Bitte unterrichten Sie sie über Ihre Fortschritte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136365",
+      "en": "Der Glaube dieser Person lässt sich nicht unterdrücken. Andere mögen kommen und sich daran versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136366",
+      "en": "Die Wahrheit der Entflammten muss verkündet werden. Sie gaben den Hanar die Sprache und dem Universum die Massenportale.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136367",
+      "en": "Diese Person ist zu bescheiden, um zu behaupten, dass der Citadel-Sicherheits-Officer mit zweierlei Maß misst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136368",
+      "en": "Diese Person möchte nur die Worte der Wahrheit an alle richten, die zuhören möchten. Sie ist nicht an Ärger interessiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136369",
+      "en": "Der finanzielle Aspekt ist Teil der religiösen Einschränkung. Diese Person lehnt es ab, dass jemand zahlen sollte, um die Wahrheit verkünden zu dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136370",
+      "en": "Aber diese Person verfügt ohnehin nicht über die beim Kauf einer Erlaubnis anfälligen 150 Credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136371",
+      "en": "Eine sehr großmütige Geste. Sie sind kein Hanar, aber unterstützen uns dabei, die Wahrheit der Entflammten zu verkünden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136372",
+      "en": "Diese Person wird dem Citadel-Sicherheits-Officer keine Probleme mehr bereiten und dankt Ihnen vielmals.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136373",
+      "en": "Diese Person erwartet keine Gaben! Sie wünscht von der Wahrheit der Entflammten zu verkünden!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136374",
+      "en": "Diese Person wünscht nicht, dass die Zuhörenden Vorurteile gegenüber den Hanar hegen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136375",
+      "en": "Diese Person wird sich fügen, weil sie nicht möchte, dass andere Völker Vorurteile gegenüber den Hanar hegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136376",
+      "en": "Ich helfe immer gern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136377",
+      "en": "Das ist Ihre Chance zu zeigen, dass die Hanar keine verrückten Xenophobiker sind. Nutzen Sie sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136378",
+      "en": "Ich wusste es. Sie predigen nicht um der Sache willen, sondern wollen nur Geld!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136379",
+      "en": "Ihre Absichten sind mir egal. Aber Sie stellen die Hanar wie streitsüchtige Fanatiker dar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136380",
+      "en": "Wenn die Leute Sie respektieren sollen, müssen Sie die Regeln beachten. Kaufen Sie eine Erlaubnis und bleiben Sie weg von hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136381",
+      "en": "Ihr Hanar bekommt genau das, was ihr verdient! Ihr seid entweder zu arrogant oder zu dämlich, selbst die einfachsten Regeln zu befolgen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136383",
+      "en": "Glauben Sie, die Entflammten würden wollen, dass Sie ihre Gabe des Bewusstseins auf diese Weise nutzen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136384",
+      "en": "Wenn die Protheaner gewollt hätten, dass die Botschaft auch den Nicht-Interessierten zwangsweise vermittelt werden soll, hätten sie es wohl gesagt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136385",
+      "en": "Die Entflammten hätten bestimmt nicht gewollt, dass ihre Botschaft durch das Brechen der Gesetze verkündet wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136387",
+      "en": "Bis bald.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136391",
+      "en": "Ich arbeite noch daran.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136392",
+      "en": "Was ist hier los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136393",
+      "en": "Warum bedrängt Sie der Citadel-Sicherheits-Officer?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136394",
+      "en": "Ist es Ihnen gestattet, hier im Präsidium zu predigen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136396",
+      "en": "Entflammten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136398",
+      "en": "Wenn das alles ist, was der Citadel-Sicherheits-Officer verlangt, warum kaufen Sie dann keine Erlaubnis?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136400",
+      "en": "Also brechen Sie gerade die Gesetze, indem Sie hier ohne Erlaubnis predigen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136402",
+      "en": "Lassen Sie mich mit dem Citadel-Sicherheits-Officer reden. Vielleicht kann ich ihm die Situation erklären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136403",
+      "en": "Das hier ist das Präsidium, keine Kirche! Halten Sie Ihre Predigten woanders ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136404",
+      "en": "Und Sie glauben, dass dies der richtige Weg ist, die Entflammten zu repräsentieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136406",
+      "en": "Der Citadel-Sicherheits-Officer macht nur seinen Job. Und Sie machen nur Ärger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136408",
+      "en": "Wie wäre es, wenn ich Ihnen eine Evangelikanererlaubnis kaufen würde?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136410",
+      "en": "150 Credits? Können Sie haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136412",
+      "en": "Kein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136413",
+      "en": "Gern geschehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136414",
+      "en": "Nutzen Sie diese Chance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136418",
+      "en": "Noch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136419",
+      "en": "Was ist das Problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136420",
+      "en": "Gibt es Ärger?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136421",
+      "en": "Was machen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136422",
+      "en": "Das ist der falsche Weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136423",
+      "en": "Das ist gegen das Gesetz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136425",
+      "en": "Entflammten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136426",
+      "en": "Kaufen Sie eine Erlaubnis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136427",
+      "en": "Predigen und Gesetze",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136428",
+      "en": "Ich möchte helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136429",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136430",
+      "en": "Verschwinden Sie von hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136432",
+      "en": "Ich möchte helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136434",
+      "en": "Ich möchte helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136436",
+      "en": "Ich möchte helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136439",
+      "en": "Wenn ich eine Erlaubnis kaufe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136440",
+      "en": "Aber es gibt Probleme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136441",
+      "en": "Unter Ihrer Würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136442",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136444",
+      "en": "Jetzt schon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136445",
+      "en": "Noch ein Bettler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136447",
+      "en": "Aber Sie sorgen dafür.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136448",
+      "en": "Dann Erlaubnis kaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136449",
+      "en": "Nutzloses Pack!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136451",
+      "en": "So doch nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136452",
+      "en": "Sie beflecken die Erinnerung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|136453",
+      "en": "Das war nicht ihre Idee.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|159958",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_hanar_religious_D|159959",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135913",
+      "en": "Endlich ist der Hanar weg. Ich danke Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135914",
+      "en": "Sie haben Ihre Fähigkeiten bereits unter Beweis gestellt. Ich erkenne das an und werde mich an Ihnen orientieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135915",
+      "en": "Hier. Für Ihre Hilfe in dieser Angelegenheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135916",
+      "en": "Wenn Sie mich entschuldigen würden, ich muss mich bei meinen Vorgesetzten melden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135917",
+      "en": "Irgendwelche Fortschritte mit dem Hanar?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135918",
+      "en": "Es ist mir egal, was es ist, solange ich dadurch diesen Hanar loswerde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135919",
+      "en": "Dieser Hanar weigert sich, Vernunft anzunehmen! Warum kann er sich nicht auf anständige und gesetzmäßige Weise benehmen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135920",
+      "en": "Das Präsidium ist ein Ort der Kultur und des Respekts! Dort sollten keine Eiferer törichte Behauptungen herausposaunen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135921",
+      "en": "Ich hätte wissen müssen, dass ein Mensch die Gesetze der Citadel nicht respektiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135922",
+      "en": "Warum sollten die Wabbligen eine Sonderbehandlung bekommen? Jede andere Spezies versteht und beachtet die Gesetze!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135923",
+      "en": "Wie kann ich meinen Vorgesetzten davon überzeugen, dass ich eine Beförderung verdiene, wenn ich nicht mal diese nervige Qualle loswerde?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135924",
+      "en": "Ich bin nicht unvernünftig. Der Hanar kann seinen Unsinn frei verkünden, wenn er erst eine Evangelikalerlaubnis erworben hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135925",
+      "en": "Wenn religiöse Evangelikale gezwungen sind, sich eine Erlaubnis zu beschaffen, kann man unerwünschte Personen aussieben. So bleibt die Gegend sicherer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135926",
+      "en": "Die Citadel ist zu wichtig, um zum Schlachtfeld für Religionskriege zu werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135927",
+      "en": "Nein. Angemeldete Evangelikale müssen bestimmte Regeln befolgen. Es gibt bestimmte Gebiete, in denen das Predigen legal ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135928",
+      "en": "Wenn diese Regeln missachtet werden, dann wird die Lizenz widerrufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135929",
+      "en": "Ich könnte den Wabbligen verhaften, aber mein Vorgesetzter verlangt eine Lösung, die den Hanar nicht verärgert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135930",
+      "en": "Die Hanar werden ... laut, wenn sie das Gefühl haben, dass man ihre Religion unterdrückt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135931",
+      "en": "Ich habe mich den ganzen Nachmittag mit dem dickköpfigen Wabbligen gestritten. Sie können es gern auch mal versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135932",
+      "en": "Ich habe nicht um Ihre Hilfe gebeten, Mensch. Ich werde damit schon ganz allein fertig!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135933",
+      "en": "Ich helfe immer gern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135934",
+      "en": "Jemand musste die Sache in Ordnung bringen, und Sie waren dem offenbar nicht gewachsen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135938",
+      "en": "Tut mir leid. Ich werde Sie wissen lassen, wenn mir etwas einfällt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135940",
+      "en": "Ich denke, Sie sollten den Hanar im Präsidium predigen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135942",
+      "en": "Sie ignorieren die religiöse Freiheit der Hanar. Ich will, dass Sie damit aufhören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135944",
+      "en": "Werden hier irgendwelche Gesetze gebrochen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135945",
+      "en": "Sie sollten toleranter sein. Er versucht nur, seinem Glauben Ausdruck zu verleihen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135946",
+      "en": "Er ist bloß eine große, dumme Qualle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135948",
+      "en": "Was für ein Sinn steckt hinter der Evangelikalerlaubnis?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135950",
+      "en": "Und wenn der Hanar eine Erlaubnis hat, kann er auch predigen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135952",
+      "en": "Warum verhaften Sie den Hanar nicht einfach?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135954",
+      "en": "Ich könnte mit dem Hanar reden, wenn Sie möchten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135955",
+      "en": "Wenn Sie dieses Problem nicht lösen können, dann haben Sie ihren Posten nicht verdient.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135956",
+      "en": "Kein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135957",
+      "en": "Gern geschehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135958",
+      "en": "Es musste getan werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135964",
+      "en": "Noch nicht fertig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135966",
+      "en": "Lassen Sie den Hanar reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135967",
+      "en": "Lassen Sie den Hanar in Ruhe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135968",
+      "en": "Was ist das Problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135969",
+      "en": "Seien Sie etwas aufgeschlossener.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135970",
+      "en": "Er ist nicht clever genug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135974",
+      "en": "Grund für die Erlaubnis",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135975",
+      "en": "Regeln der Erlaubnis",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135976",
+      "en": "Verhaften Sie ihn.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135977",
+      "en": "Lassen Sie mich mit ihm reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135978",
+      "en": "Ich werde helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135979",
+      "en": "Sie sind erbärmlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135981",
+      "en": "Lassen Sie mich mit ihm reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135983",
+      "en": "Lassen Sie mich mit ihm reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|135985",
+      "en": "Lassen Sie mich mit ihm reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136468",
+      "en": "Solange alles in den freigegebenen Bereichen stattfindet und die Erlaubnis erteilt wurde - ja. Das würde das Problem lösen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136469",
+      "en": "Mein Problem sind keine diplomatischen Konflikte, sondern Gesetze, die gebrochen werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136470",
+      "en": "Noch nicht. Aber ein guter Citadel-Sicherheits-Officer kümmert sich eben um ein Problem, bevor es zum öffentlichen Ärgernis wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136471",
+      "en": "Zumindest kann ich meinem Vorgesetzten berichten, dass ich eine diplomatische Lösung vorgeschlagen habe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136472",
+      "en": "Von mir aus kann ein anderer Citadel-Sicherheits-Officer den Hanar verhaften. Ist nicht länger mein Problem. Danke für Ihre Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136473",
+      "en": "Ihre Angelegenheiten sind mir egal. Aber schaffen Sie einfach diesen Hanar von hier fort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136474",
+      "en": "Sie haben dem Hanar die Gesetze erklärt. Wenn er Probleme bekommt, hat er das selbst zu verantworten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136475",
+      "en": "Wenn Sie Karriere machen wollen, müssen Sie lernen, wofür es sich lohnt zu kämpfen. Also vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136477",
+      "en": "Bis bald.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136478",
+      "en": "Und wenn ich selbst eine Evangelikanererlaubnis erwerben würde? Würde das helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136478|m",
+      "en": "Und wenn ich selbst eine Evangelikalerlaubnis erwerben würde? Würde das helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136479",
+      "en": "Wenn wir den Hanar verärgern, wird es diplomatische Konflikte geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136480",
+      "en": "Hat sich denn überhaupt jemand über diesen Hanar beschwert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136481",
+      "en": "Genehmigung kaufen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136482",
+      "en": "Das ist gefährlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136483",
+      "en": "Macht keine Probleme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136484",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136485",
+      "en": "Die Hanar wurde gewarnt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136486",
+      "en": "Die Hanar wurde gewarnt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136487",
+      "en": "Nur den Job gemacht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|136488",
+      "en": "Vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|159964",
+      "en": "Nein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA20_02A_DSG_LOC|sta20_turian_religious_D|159965",
+      "en": "Ich werde es weiter versuchen.",
+      "tr": ""
+    }
+  ]
+}

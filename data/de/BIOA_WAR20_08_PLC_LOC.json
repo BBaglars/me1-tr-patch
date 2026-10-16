@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "package": "BIOA_WAR20_08_PLC_LOC_DE.pcc",
+    "stem": "BIOA_WAR20_08_PLC_LOC",
+    "textLang": "DE",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171638",
+      "en": "Bereithalten, Landungstrupp.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171639",
+      "en": "Innendruck wird Außenatmophäre angeglichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171640",
+      "en": "Logbuch: Kommandant ist an Land gegangen. Executive Officer Pressly hat das Kommando.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171641",
+      "en": "Dekontamination aktiv.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171642",
+      "en": "Logbuch: Kommandant ist an Bord. Executive Officer Pressly gibt das Kommando ab.",
+      "tr": ""
+    }
+  ]
+}

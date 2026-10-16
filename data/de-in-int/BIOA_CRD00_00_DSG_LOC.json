@@ -1,0 +1,900 @@
+{
+  "meta": {
+    "package": "BIOA_CRD00_00_DSG_LOC_INT.pcc",
+    "stem": "BIOA_CRD00_00_DSG_LOC",
+    "textLang": "DE",
+    "sets": 2
+  },
+  "entries": [
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146895",
+      "en": "Der Rat steht überdies tief in Ihrer Schuld, Commander. Wir werden sie nie zurückzahlen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146896",
+      "en": "Sie haben nicht nur unser Leben, sondern auch das von Milliarden anderer vor der Sovereign und den Reapern gerettet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146903",
+      "en": "Wir brauchen eine Liste potenzieller Kandidaten für den Sitz der Menschen im Rat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146904",
+      "en": "Nach allem, was geschehen ist, wird Ihre Empfehlung sicher viel Gewicht haben, Commander. Unterstützen Sie einen bestimmten Kandidaten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146905",
+      "en": "Nun, der Botschafter hat in der Vergangenheit mit dem Rat zusammengearbeitet, und wir sind mit seinem Stil und seinen Methoden vertraut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146906",
+      "en": "Ein wenig zu vertraut, könnte man sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146907",
+      "en": "Oh, Sie haben noch gar nichts gesehen. Ich habe mich bisher zurückgehalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146908",
+      "en": "Wir werden alle mit der Zeit lernen, gut zusammenzuarbeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146910",
+      "en": "Wollen Sie mich in Verlegenheit bringen, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146911",
+      "en": "Sind Sie sich da sicher, Commander? Der Captain ist Soldat, kein Politiker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146912",
+      "en": "Ich halte das für eine gute Wahl. Der Rat würde ihn mit offenen Armen empfangen, wenn er den Posten annimmt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146913",
+      "en": "Ich bin geehrt, Ratsherr. Als Vertreter der Menschen werde ich alles in meiner Macht Stehende tun, um den Rat wieder aufzubauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146914",
+      "en": "Ich stimme dem Commander zu. Das ist viel zu wichtig, um überstürzt zu handeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146915",
+      "en": "Natürlich, Botschafter. Wir nehmen Ihren Vertreter mit offenen Armen auf, wer immer es auch sein wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146930",
+      "en": "Ich will jemanden, der im Rat für die Menschen eintritt, der die Interessen unserer Spezies um jeden Preis vertritt. Ich will Udina.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146936",
+      "en": "Wir brauchen jemanden mit Mut, der für das gerade steht, an das er glaubt. Jemanden wie Captain Anderson.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146938",
+      "en": "Sie haben Recht. Wir brauchen jemanden mit diplomatischer Erfahrung. Jemanden wie Sie, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146939",
+      "en": "Ich hätte lieber den Captain im Rat als jeden Politiker, den ich kenne.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146940",
+      "en": "Es gibt bereits zu viele Politiker auf der Citadel. Der Captain wäre perfekt für diesen Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146943",
+      "en": "Das müssen die Politiker klären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146945",
+      "en": "Die Sovereign war nur die Vorhut. Die Reaper-Flotte wird trotzdem kommen. Hunderte von Schiffen, vielleicht sogar Tausende. Und ich werde einen Weg finden, sie aufzuhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146958",
+      "en": "Botschafter Udina",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146959",
+      "en": "Captain Anderson",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146960",
+      "en": "Das liegt nicht bei mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146967",
+      "en": "Dann wähle ich Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146968",
+      "en": "Sie wähle ich nicht!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146969",
+      "en": "Das ist der Punkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|146973",
+      "en": "Die Reaper werden zurückehren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147692",
+      "en": "Botschafter. Captain. Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147693",
+      "en": "Wir haben uns hier versammelt, um die gewaltigen Anstrengungen der Allianz-Streitkräfte im Krieg gegen die Sovereign und die Geth anzuerkennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147694",
+      "en": "Viele Menschen haben im Kampf ihr Leben verloren, um die Citadel zu retten, tapfere und mutige Soldaten, die ihr Leben bereitwillig hingaben, damit wir - der Rat - überleben konnten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147695",
+      "en": "Es gibt kein größeres Opfer, und wir teilen die Trauer über den tragischen Verlust so vieler großer Männer und Frauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147696",
+      "en": "Commander Shepard, Ihre heldenhaften und selbstlosen Taten dienen als Symbol für all das, für das die Menschheit und die Allianz stehen. \n",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147697",
+      "en": "Auch wenn wir diese tapferen Soldaten, die ihr Leben gegeben haben, um das unsere zu retten, nicht zurückholen können, so werden wir ihr Andenken durch unsere Taten in Ehren halten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147698",
+      "en": "Die Menschheit hat bewiesen, dass sie bereit ist, als Verteidiger und Beschützer unserer Galaxis aufzutreten. Sie haben ein für alle Mal bewiesen, dass Sie es wert sind, in unsere Reihen aufgenommen zu werden und mit uns dem Citadel-Rat zu dienen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147699",
+      "en": "Botschafter, im Namen der Menschheit und der Allianz danken wir Ihnen für diese Ehre, die wir demütig annehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147700",
+      "en": "Ihn? Sie machen wohl Witze. Anderson zieht es vor, seine Fäuste sprechen zu lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|147701",
+      "en": "Nur bei Ihnen, Botschafter. Nur bei Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148099",
+      "en": "Die Niederlage der Sovereign steht für den Beginn einer neuen Ära für die Menschheit und den Rat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148100",
+      "en": "Shepard hat Recht. Die Menschheit ist bereit, ihren Teil dazu beizutragen. Vereint mit dem Rest des Rates sind wir stark genug, jede Herausforderung zu bestehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148101",
+      "en": "Wenn die Reaper kommen, müssen wir Seite an Seite stehen. Wir müssen sie vereint bekämpfen. Und gemeinsam werden wir sie zurück in den Orkusnebel treiben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148102",
+      "en": "Shepard hat Recht. Die Menschheit ist bereit, ihren Teil dazu beizutragen. Vereint mit dem Rest des Rates sind wir stark genug, jede Herausforderung zu bestehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148103",
+      "en": "Wenn die Reaper kommen, müssen wir Seite an Seite stehen. Wir müssen sie vereint bekämpfen. Und gemeinsam werden wir sie zurück in den Orkusnebel treiben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148104",
+      "en": "Botschafter. Captain. Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148105",
+      "en": "Wir haben uns hier versammelt, um die gewaltigen Anstrengungen der Allianz-Streitkräfte im Krieg gegen die Sovereign und die Geth anzuerkennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148106",
+      "en": "Viele Menschen haben im Kampf ihr Leben verloren, um die Citadel zu retten, tapfere und mutige Soldaten, die ihr Leben bereitwillig hingaben, damit wir - der Rat - überleben konnten. \n",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148107",
+      "en": "Es gibt kein größeres Opfer, und wir teilen die Trauer über den tragischen Verlust so vieler großer Männer und Frauen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148108",
+      "en": "Der Rat steht überdies tief in Ihrer Schuld, Commander. Wir werden sie nie zurückzahlen können. Indem Sie die Sovereign besiegt haben, haben Sie Milliarden Leben gerettet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148109",
+      "en": "Sie besitzen dank Ihrer Überzeugungen Mut und eine rücksichtslose Entschlossenheit zu siegen. Durch Ihre Taten sind Sie zu einem Symbol für all die Werte geworden, für die die Menschheit steht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148110",
+      "en": "Ihre Spezies besitzt einen unbeugsamen Willen, einen grimmigen, grausamen Geist, der sich weder beugen noch brechen lässt. Wir dachten bisher, aus diesem Grund wären die Menschen dickköpfig, wenn nicht sogar gefährlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148111",
+      "en": "Aber nun ist uns klar geworden, dass es diese Eigenschaften sind, die Sie stark machen. Uns stehen dunkle Zeiten bevor; der Rat braucht die Menschheit und ihre Stärken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148112",
+      "en": "Als Botschafter der Allianz nehme ich Ihr Angebot an. Die Menschheit wird ihre Stärke mit der Ihren vereinen. Wir werden unseren Sitz im Rat einnehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148113",
+      "en": "Wir brauchen eine Liste potenzieller Kandidaten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148114",
+      "en": "Nach allem, was geschehen ist, wird Ihre Empfehlung sicher viel Gewicht haben, Commander. Unterstützen Sie einen bestimmten Kandidaten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148115",
+      "en": "Der Botschafter ist die logische Wahl. Uns stehen dunkle Zeiten bevor, und er ist ein Mann, der tun kann, was getan werden muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148116",
+      "en": "Ihn? Sie machen wohl Witze. Anderson zieht es vor, seine Fäuste sprechen zu lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148117",
+      "en": "Nur bei Ihnen, Botschafter. Nur bei Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148118",
+      "en": "Wollen Sie mich in Verlegenheit bringen, Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148119",
+      "en": "Sind Sie sich da sicher, Commander? Der Captain ist Soldat, kein Politiker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148120",
+      "en": "Der Schatten des Krieges verdunkelt unsere Zukunft; daher ist es weise, jemanden zu wählen, der militärische Erfahrung besitzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148121",
+      "en": "Ich bin geehrt, Ratsherr. Als Vertreter der Menschen werde ich alles in meiner Macht Stehende tun, um dem Rat beizustehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148122",
+      "en": "Ich stimme dem Commander zu. Das ist viel zu wichtig, um überstürzt zu handeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148123",
+      "en": "Natürlich, Botschafter. Wir nehmen Ihren Vertreter mit offenen Armen auf, wer immer es auch sein wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148124",
+      "en": "Der Kampf gegen die Sovereign hat unsere Illusionen in Bezug auf Frieden und Sicherheit zerstört. Nun wird die Galaxis erwarten, dass wir - der Rat - sie verteidigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148125",
+      "en": "Shepard hat Recht. Wir stehen kurz vor einem Krieg gegen einen Gegner, wie ihn die Galaxis noch nie gesehen hat; einem Krieg um den Fortbestand des Lebens, wie wir es kennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148126",
+      "en": "Die Menschheit ist bereit, ihren Teil dazu beizutragen. Wir werden nicht weichen. Wir werden nicht aufgeben. Wir führen Sie in den Kampf gegen die Reaper, und wir werden sie zurück in den Orkusnebel treiben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148127",
+      "en": "Shepard hat Recht. Wir stehen kurz vor einem Krieg gegen einen Gegner, wie ihn die Galaxis noch nie gesehen hat; einem Krieg um den Fortbestand des Lebens, wie wir es kennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148128",
+      "en": "Die Menschheit ist bereit, ihren Teil dazu beizutragen. Wir werden nicht weichen. Wir werden nicht aufgeben. Wir führen Sie in den Kampf gegen die Reaper, und wir werden sie zurück in den Orkusnebel treiben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148132",
+      "en": "Fangen Sie noch nicht damit an, sich auf den Rücken zu klopfen. Die Sovereign war nicht allein. Der Rest der Reaper ist immer noch da draußen. Und ich werde einen Weg finden, sie aufzuhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148145",
+      "en": "Ich will jemanden, der im Rat für die Menschen eintritt, der die Interessen unserer Spezies um jeden Preis vertritt. Ich will Udina.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148147",
+      "en": "Wir brauchen jemanden mit Mut, der für das gerade steht, an das er glaubt. Jemanden wie Captain Anderson.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148151",
+      "en": "Sie haben Recht. Wir brauchen jemanden mit diplomatischer Erfahrung. Jemanden wie Sie, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148152",
+      "en": "Ich hätte lieber den Captain im Rat als jeden Politiker, den ich kenne.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148153",
+      "en": "Es gibt bereits zu viele Politiker auf der Citadel. Der Captain wäre perfekt für diesen Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148156",
+      "en": "Das müssen die Politiker klären.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148159",
+      "en": "Die Sovereign war nur die Vorhut. Die Reaper-Flotte wird trotzdem kommen. Hunderte von Schiffen, vielleicht sogar Tausende. Und ich werde einen Weg finden, sie aufzuhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148160",
+      "en": "Die Sovereign allein hätte Sie beinahe ausgelöscht. Sie hätten keine Chance, wenn die gesamte Reaper-Flotte auftaucht. Es sei denn ich finde einen Weg, sie aufzuhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148166",
+      "en": "Es ist noch nicht vorbei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148167",
+      "en": "Ich habe noch zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148180",
+      "en": "Botschafter Udina",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148181",
+      "en": "Captain Anderson",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148182",
+      "en": "Das liegt nicht bei mir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148187",
+      "en": "Dann wähle ich Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148188",
+      "en": "Sie wähle ich nicht!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148189",
+      "en": "Das ist der Punkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148194",
+      "en": "Das wird nicht ganz einfach.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148195",
+      "en": "Es ist noch lange nicht vorbei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_alive_d|148196",
+      "en": "Sie sind nicht bereit dafür!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|146975",
+      "en": "Dies sind dunkle Zeiten, Captain. Der Kampf gegen die Sovereign hat alles geändert. Und wir müssen darüber reden, was mit dem Rat passiert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148508",
+      "en": "Wir haben Ihre Nachricht erhalten, Botschafter. Was ist los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148509",
+      "en": "Kein Grund, sich aufzuregen, Captain. Ich würde dieses Treffen gern mit allen Zähnen im Mund beenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148510",
+      "en": "Sie sollten mir für das, was ich getan habe, danken. Wäre die Normandy noch immer am Boden, dann wären wir jetzt alle tot!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148511",
+      "en": "Ich verstehe, Captain. Sie haben nur getan, was Sie tun mussten. Aber darum sind Sie nicht hier. Wir müssen dem Rat berichten, was geschehen ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148512",
+      "en": "Commander Shepard hat das Richtige getan. Wir mussten unsere Flotte zurückhalten, um der Sovereign folgen zu können. Es war der einzige Weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148513",
+      "en": "Das stimmt, aber dies eröffnet uns außerdem eine Möglichkeit. Der Rat ist tot. Die Galaxis braucht eine neue Führung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148514",
+      "en": "Die Flotte der Citadel wurde bei dem Angriff dezimiert. Dieser Verlust hat die Allianz stärker gemacht. Wenn wir jetzt vortreten, kann uns niemand aufhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148515",
+      "en": "Noble Worte, aber Ihre Taten sprechen eine ganz andere Sprache. Seitdem Sie ein Spectre wurden, habe ich Sie beobachtet, Shepard. Sie sind absolut rücksichtslos.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148516",
+      "en": "Großer Gott, Shepard! Wie können Sie so etwas auch nur sagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148517",
+      "en": "Tun Sie nicht so überrascht, Captain. Wir wissen doch alle, dass es wahr ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148518",
+      "en": "Die Opferung des Rates hat uns den Sieg über die Sovereign ermöglicht. Der Zweck hat die Mittel geheiligt. Wir Menschen verstehen das. Das ist es, was uns stärker macht als die anderen Rassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148519",
+      "en": "Was sagen Sie da?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148520",
+      "en": "Die Galaxis braucht eine Führung. Eine wahre Führung. Wenn es zu einer Krise kommt, dürfen wir uns nicht in Debatten verfangen, wie es der alte Rat getan hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148521",
+      "en": "Der neue Rat muss mit einer einzigen Stimme sprechen. Er muss aus einer einzigen Spezies zusammengesetzt werden - den Menschen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148522",
+      "en": "Die anderen Spezies haben Angst. Sie haben so etwas noch nie zuvor erlebt und wissen nicht, was sie tun sollen. Sie wollen, dass wir vortreten. Sie glauben an die Menschheit, und das ist Ihr Verdienst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148523",
+      "en": "Ihr rücksichtsloses Vorgehen gegen Saren und die Geth, Ihr Trotz gegenüber dem Rat - das ist es, wozu die Menschen in der Lage sind! So können wir die Reaper besiegen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148524",
+      "en": "Die anderen werden uns folgen, Shepard. Sie wissen, dass wir ihre einzige Hoffnung sind. Wir werden einen menschlichen Rat mit einem menschlichen Vorsitzenden haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148525",
+      "en": "Der Botschafter hat Recht. Auch wenn es mir nicht gefällt, so können wir die Wahrheit nicht leugnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148526",
+      "en": "Angesichts all der Dinge, die Sie getan haben, wird die Allianz wissen wollen, wer Ihrer Ansicht nach Vorsitzender werden soll, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148527",
+      "en": "Er ist die logische Wahl. Und wie geht es jetzt weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148528",
+      "en": "Sie haben überzeugende Argumente. Sind Sie bereit dafür, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148529",
+      "en": "Ich weiß nicht, ob überhaupt einer von uns bereit dafür ist. Aber ich werde mein Möglichstes tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148530",
+      "en": "Und wie geht es jetzt weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148531",
+      "en": "Shepard hat Recht. Uns steht ein Krieg gegen die Reaper bevor. Wenn wir verlieren, ist das das Ende allen Lebens, wie wir es kennen. Und keine andere Spezies der Galaxis versteht wirklich, was man zum Überleben braucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148532",
+      "en": "Die anderen Rassen müssen unserem Beispiel folgen. Wir müssen die Kontrolle übernehmen. Es wird Zeit, dass sich die Menschheit erhebt und ihr Schicksal in die eigene Hand nimmt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148533",
+      "en": "Shepard hat Recht. Uns steht ein Krieg gegen die Reaper bevor. Wenn wir verlieren, ist das das Ende allen Lebens, wie wir es kennen. Und keine andere Spezies der Galaxis versteht wirklich, was man zum Überleben braucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148534",
+      "en": "Die anderen Rassen müssen unserem Beispiel folgen. Wir müssen die Kontrolle übernehmen. Es wird Zeit, dass sich die Menschheit erhebt und ihr Schicksal in die eigene Hand nimmt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148535",
+      "en": "Wir haben Ihre Nachricht erhalten, Botschafter. Was ist los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148536",
+      "en": "Kein Grund, sich aufzuregen, Captain. Ich würde dieses Treffen gern mit allen Zähnen im Mund beenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148537",
+      "en": "Sie sollten mir für das, was ich getan habe, danken. Wäre die Normandy noch immer am Boden, dann wären wir jetzt alle tot!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148538",
+      "en": "Ich verstehe, Captain. Sie haben nur getan, was Sie tun mussten. Es gibt einen anderen Grund, warum Sie hier sind. Wir müssen dem Rat berichten, was geschehen ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148539",
+      "en": "Dies sind dunkle Zeiten, Captain. Der Kampf gegen die Sovereign hat alles geändert. Und wir müssen darüber reden, was mit dem Rat passiert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148540",
+      "en": "Commander Shepard hat das Richtige getan. Wir mussten unsere Flotte zurückhalten, um der Sovereign folgen zu können. Es war der einzige Weg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148541",
+      "en": "Das stimmt ... aber dies eröffnet uns außerdem eine Möglichkeit. Die Flotte der Citadel wurde bei dem Angriff dezimiert. Dieser Verlust hat die Allianz stärker gemacht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148542",
+      "en": "Sie können den Wiederaufbau nicht ohne uns schaffen. Wir müssen bei der Bildung eines neuen Rats die Führung übernehmen. Und er sollte einen menschlichen Vorsitzenden haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148543",
+      "en": "Die anderen Spezies haben Angst. Sie haben so etwas noch nie zuvor erlebt. Sie wissen nicht, was sie tun sollen. Sie wollen, dass wir vortreten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148544",
+      "en": "Sie glauben an uns, und das verdanken wir Ihnen, Shepard. Sie haben die Galaxis vor der Sovereign gerettet. Sie sind ein Symbol für alles, was an der Menschheit gut ist: für unseren Mut, unsere Stärke.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148545",
+      "en": "Der Botschafter hat Recht. Die anderen Rassen sehen jetzt zu uns auf. Sie werden uns nicht nur als Anführer akzeptieren, sie werden es sogar begrüßen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148546",
+      "en": "Angesichts all der Dinge, die Sie getan haben, wird die Allianz wissen wollen, wer Ihrer Ansicht nach Ratsvorsitzender werden soll, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148547",
+      "en": "Er ist die logische Wahl. Und wie geht es jetzt weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148548",
+      "en": "Sie haben überzeugende Argumente. Sind Sie bereit dafür, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148549",
+      "en": "Ich weiß nicht, ob überhaupt einer von uns bereit dafür ist. Aber ich werde mein Möglichstes tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148550",
+      "en": "Und wie geht es jetzt weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148551",
+      "en": "Shepard hat Recht. Uns steht ein Krieg gegen die Reaper bevor. Wenn wir verlieren, ist das das Ende allen Lebens, wie wir es kennen. Wir müssen dem Rest der Galaxis zeigen, wie man überleben kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148552",
+      "en": "Mit der Unterstützung der anderen Rassen können wir diesen Kampf gewinnen. Mit ihnen im Rücken können wir die Rückkehr der Reaper aufhalten ... und sie zurück in den Orkusnebel treiben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148553",
+      "en": "Shepard hat Recht. Uns steht ein Krieg gegen die Reaper bevor. Wenn wir verlieren, ist das das Ende allen Lebens, wie wir es kennen. Wir müssen dem Rest der Galaxis zeigen, wie man überleben kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148554",
+      "en": "Mit der Unterstützung der anderen Rassen können wir diesen Kampf gewinnen. Mit ihnen im Rücken können wir die Rückkehr der Reaper aufhalten ... und sie zurück in den Orkusnebel treiben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148562",
+      "en": "Dies war kein Plan, damit die Allianz die Macht an sich reißen kann! Wir müssen beim Wiederaufbau mit den anderen Rassen zusammenarbeiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148564",
+      "en": "Haben Sie einen Plan?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148565",
+      "en": "Der Rat hat uns doch nur zurückgehalten. Als sich die Gelegenheit bot, ihn loszuwerden, habe ich sie ergriffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148571",
+      "en": "Wir müssen mit den anderen Spezies zusammenarbeiten! Das ist der einzige Weg, um gegen die Reaper zu bestehen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148572",
+      "en": "Der Rest der Galaxis wird sich nicht einfach verbeugen, nur weil wir es ihm sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148577",
+      "en": "Wir brauchen jemanden, der weiß, wie es in der Politik wirklich läuft. Sie haben bewiesen, dass Sie wissen, wie dieses Spiel gespielt wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148578",
+      "en": "Wir sind dabei, in den Krieg zu ziehen. Wir brauchen jemanden mit militärischer Erfahrung. Jemanden wie Captain Anderson.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148581",
+      "en": "Die Reaper sind immer noch da draußen. Sie kommen. Und ich werde einen Weg finden, sie aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148582",
+      "en": "Sie beide können über Politik streiten, so viel Sie wollen. Aber die Reaper sind immer noch da draußen. Sie kommen. Und ich werde einen Weg finden, sie aufzuhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148583",
+      "en": "Das müssen die Politiker klären. Ich habe noch viel zu tun. Die Reaper sind immer noch da draußen. Und ich werde einen Weg finden, sie aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148593",
+      "en": "Dies war kein Plan, damit die Allianz die Macht an sich reißen kann! Wenn wir die anderen Rassen zwingen, uns als Anführer anzusehen, wird das zu Problemen führen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148594",
+      "en": "Ich gehe davon aus, dass uns die anderen Rassen einladen werden, uns dem Rat anzuschließen. Aber ihn anführen? Das ist eine ganz andere Geschichte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148595",
+      "en": "Den anderen Spezies wird das nicht gefallen. Wir brauchen die Flotte, um sie zum Einlenken zu zwingen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148599",
+      "en": "Wir brauchen jemanden, der weiß, wie Politik funktioniert. Jemanden, der den Umgang mit anderen Spezies gewohnt ist. Jemanden wie Sie, Botschafter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148600",
+      "en": "Wir sind dabei, in den Krieg zu ziehen. Wir brauchen jemanden mit militärischer Erfahrung. Jemanden wie Captain Anderson.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148603",
+      "en": "Die Reaper sind immer noch da draußen. Sie kommen. Und ich werde einen Weg finden, sie aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148604",
+      "en": "Sie beide können sich um das Politische kümmern. Aber die Reaper sind immer noch da draußen. Sie kommen. Und ich werde einen Weg finden, sie aufzuhalten!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148605",
+      "en": "Das müssen die Politiker klären. Ich habe noch viel zu tun. Die Reaper sind immer noch da draußen. Und ich werde einen Weg finden, sie aufzuhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148615",
+      "en": "Wir sollten den Rat wiederherstellen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148616",
+      "en": "Was schlagen Sie vor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148617",
+      "en": "Darum habe ich es getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148624",
+      "en": "Das ist nicht richtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148626",
+      "en": "Das wird ihnen nicht gefallen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148631",
+      "en": "Botschafter Udina",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148632",
+      "en": "Captain Anderson",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148633",
+      "en": "Das ist mir egal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148634",
+      "en": "Jetzt beginnt die richtige Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148637",
+      "en": "Jetzt beginnt die richtige Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148638",
+      "en": "Wir müssen anfangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148639",
+      "en": "Wir hören damit auf, Zeit zu verschwenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148649",
+      "en": "Das kommt mir alles nicht richtig vor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148650",
+      "en": "Werden sie das akzeptieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148651",
+      "en": "Wir müssen Gewalt anwenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148655",
+      "en": "Botschafter Udina",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148656",
+      "en": "Captain Anderson",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148657",
+      "en": "Das ist mir egal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148658",
+      "en": "Jetzt beginnt die richtige Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148661",
+      "en": "Jetzt beginnt die richtige Arbeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148662",
+      "en": "Wir müssen anfangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|148663",
+      "en": "Wir hören damit auf, Zeit zu verschwenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|152210",
+      "en": "Der Rest der Galaxis wird sich nicht einfach verbeugen, nur weil wir es ihm sagen. Wir werden die Flotte brauchen, um sie zum Einlenken zu zwingen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_CRD00_00_DSG_LOC|end90_council_dead_d|152211",
+      "en": "Wir werden Gewalt anwenden müssen.",
+      "tr": ""
+    }
+  ]
+}

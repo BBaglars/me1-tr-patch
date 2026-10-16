@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "package": "BIOA_NOR10_04_DS1_LOC_DE.pcc",
+    "stem": "BIOA_NOR10_04_DS1_LOC",
+    "textLang": "DE",
+    "sets": 3
+  },
+  "entries": [
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57498",
+      "en": "Wir sollten dem Commander jetzt erzählen, was wirklich vor sich geht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57507",
+      "en": "Wir werden eine geheime Bergungsoperation auf Eden Prime durchführen. Dafür brauchen wir funktionstüchtige Tarnsysteme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57509",
+      "en": "Ein Forschungsteam hat bei Ausgrabungen auf Eden Prime eine Art Sender entdeckt. Einen protheanischen Sender.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57512",
+      "en": "Hier geht es offensichtlich um mehr als die Interessen der Menschen, Commander. Diese Entdeckung könnte alle Völker im Rats-Sektor betreffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57513",
+      "en": "Mit Problemen muss man immer rechnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57514",
+      "en": "Es sei denn, etwas läuft schief.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57518",
+      "en": "Ich muss mir ein eigenes Bild Ihrer Fähigkeiten machen, Commander. Eden Prime wird die erste Station einer Reihe von Missionen sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57519",
+      "en": "Sie übernehmen das Kommando über das Bodenteam. Sichern Sie den Sender und bringen Sie ihn unverzüglich zurück zum Schiff. Nihlus wird Sie begleiten und die Mission beobachten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57520",
+      "en": "Eine friedliche Agrarwelt - aber sie steht für etwas viel Größeres. Eden Prime gehört zu unseren ältesten und erfolgreichsten Kolonien.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57521",
+      "en": "Dort haben wir bewiesen, dass wir neue Welten bevölkern und einen Lebensraum für die Menschheit fern der Erde schaffen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57522",
+      "en": "Das ist eine bedeutende Sache, Shepard. Das letzte Mal, als die Menschheit etwas Ähnliches entdeckte, machte die Technologie einen Entwicklungssprung von zweihundert Jahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57523",
+      "en": "Die Menschen haben nicht den besten Ruf. Einige Völker halten Sie für selbstsüchtig. Und unberechenbar. Und zu eigenständig. Oder sogar gefährlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57526",
+      "en": "Indem wir den Sender zur Verfügung stellen, verbessern wir die Beziehungen zum Rat. Außerdem brauchen wir ihr technisches Wissen. Sie wissen einfach mehr über die Protheaner als wir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57527",
+      "en": "Nur das, was sie an der Akademie gelehrt haben. Sie waren ein technologisch fortgeschrittenes Kulturvolk, das vor 50 000 Jahren die Galaxie beherrscht hat. Und dann sind sie verschwunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57529",
+      "en": "Die Citadel ist das Herz und die Seele der galaktischen Gesellschaft. Und ohne ihre Massenportale gäbe es keine interstellaren Reisen. Wir haben den Protheanern viel zu verdanken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57530",
+      "en": "Die Attika-Traverse ist einer der instabilsten Sektoren im Citadel-Sektor. In dieser Gegend gibt es unzählige Piraten und andere kriminelle Gruppen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57531",
+      "en": "Der Preis für einen protheanischen Sender könnte es ihnen wert sein, ein Schiff der Allianz anzugreifen. Außerdem befindet sich Eden Prime im Grenzbereich der Terminus-Systeme.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57533",
+      "en": "Technisch gesehen stimmt das. Aber einige Gruppierungen in den Terminus-Systemen würden vielleicht einen Krieg dafür in Kauf nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57534",
+      "en": "Und der Rat hat derzeit keinerlei Interesse an einem größeren Konflikt mit den Terminus-Systemen. Deswegen müssen wir die Mission diskret durchführen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57542",
+      "en": "Wir sind bald in--",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57555",
+      "en": "Dürfte ich Sie um eine Erklärung bitten, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57557",
+      "en": "Ich werde nicht gern im Unklaren gelassen, Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57558",
+      "en": "Es wird sicherlich einen Grund geben, warum Sie mir nichts davon erzählt haben, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57559",
+      "en": "Wie lautet unsere Mission, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57562",
+      "en": "Ich dachte, die Protheaner wären vor 50 000 Jahren verschwunden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57564",
+      "en": "Müssen wir mit Problemen rechnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57566",
+      "en": "Wir können die Sache auch ohne Hilfe erledigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57576",
+      "en": "Warum haben wir den Fund des Senders nicht für uns behalten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57583",
+      "en": "Was ist so besonders an diesem Sender?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57586",
+      "en": "Die Attika-Traverse steht unter dem Schutz der Citadel. Ein Angriff der Terminus-Systeme bedeutet Krieg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57588",
+      "en": "Was können Sie mir über die Protheaner sagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57591",
+      "en": "Vor der Landung möchte ich noch mehr über Eden Prime erfahren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57594",
+      "en": "Erwarte Ihre Befehle, Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57608",
+      "en": "Was ist hier los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57611",
+      "en": "Vorher informieren",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57612",
+      "en": "Warum so geheimnisvoll?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57613",
+      "en": "Was sollen wir bergen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57615",
+      "en": "Protheanisch?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57618",
+      "en": "Sie klingen besorgt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57619",
+      "en": "Wir brauchen Ihre Hilfe hier nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57629",
+      "en": "Sender",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57630",
+      "en": "Protheaner",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57631",
+      "en": "Eden Prime",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57632",
+      "en": "Bereit zu gehen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57635",
+      "en": "Warum dem Rat erzählt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|57643",
+      "en": "Terminus-Systeme?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|65555",
+      "en": "Ein bisschen Hilfe kann niemals schaden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|65557",
+      "en": "Ich bin froh, dass Sie helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78368",
+      "en": "Das kommt von ganz oben, Commander. Es sollten nicht mehr Informationen als unbedingt notwendig bekannt werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78369",
+      "en": "Das ist noch etwas, Shepard. Nihlus ist nicht nur wegen des Senders hier. Er soll Sie auch beurteilen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78370",
+      "en": "Sie sind klug genug, um zu wissen, wie die Dinge laufen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78371",
+      "en": "Die Allianz ist schon eine ganze Weile damit beschäftigt. Die Menschen wollen eine größere Rolle in der interstellaren Politik spielen. Wir wollen mehr Macht im Citadel-Rat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78373",
+      "en": "Darum habe ich Sie in die Kandidatenliste für die Spectres eingetragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78374",
+      "en": "Es geht nicht nur um Sie, Shepard. Es ist wichtig für die Menschheit. Wir zählen auf Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78375",
+      "en": "Es ist eine Chance für die Erde, Shepard. Wir verlassen uns auf Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78381",
+      "en": "Seit wann müssen wir uns vor den Spectres verantworten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78383",
+      "en": "Jetzt ist mir auch klar, warum er sich in letzter Zeit so häufig hier rumtreibt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78384",
+      "en": "Was ist hier los, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78387",
+      "en": "Und wenn ich gar kein Spectre werden will?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78389",
+      "en": "Es wäre eine gute Sache für die Allianz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78390",
+      "en": "Sagen Sie mir einfach, was ich tun soll.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78397",
+      "en": "Was soll das?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78398",
+      "en": "Ich hätte es wissen sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78399",
+      "en": "Warum?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78403",
+      "en": "Und wenn ich ablehne?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78404",
+      "en": "Auch Ihre Meinung, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|78405",
+      "en": "Wie geht es weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|93200",
+      "en": "Sprechen Sie mit Joker, wenn Sie soweit sind. Sagen Sie ihm, er soll die Normandy ins Dock bringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101441",
+      "en": "Der Grund dafür ist nicht bekannt. Aber es gibt unzählige Theorien darüber. Und die Fachleute sind sich einig, dass es ohne sie keine galaktische Zivilisation geben würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101446",
+      "en": "Ja, aber ihr Erbe ist noch da. Die Massenportale, die Citadel - das alles basiert auf protheanischer Technologie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101447",
+      "en": "Die Spectres repräsentieren die Macht und Autorität des Rates. Wenn sie einen Menschen aufnehmen, sagt das viel über den Fortschritt der Allianz aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101449",
+      "en": "Das habe ich mir auch schon zusammengereimt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101453",
+      "en": "Können Sie mir noch etwas mehr darüber sagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101457",
+      "en": "War ja klar.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101460",
+      "en": "Gibt es mehr Details?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101530",
+      "en": "Wenn wir nicht die protheanischen Ruinen auf dem Mars entdeckt hätten, säßen wir immer noch auf der Erde fest.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101531",
+      "en": "Und das damals war nur ein kleiner Datenspeicher. Wer weiß, welche Informationen dieser Sender bietet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101532",
+      "en": "Es könnte auch ein Waffenarchiv sein. Das dürfte auf keinen Fall in falsche Hände geraten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101535",
+      "en": "Wen meinen Sie damit?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101538",
+      "en": "Falsche Hände?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|101617",
+      "en": "Diese Mission wird alles andere als ein Testflug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|102256",
+      "en": "Auf Eden Prime gibt es keine Möglichkeit, mit so einer Sache fertigzuwerden. Der Sender muss für weitere Untersuchungen zur Citadel gebracht werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|102258",
+      "en": "Ich hatte mir schon gedacht, dass Sie uns nicht alles erzählt haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|102262",
+      "en": "Keine Überraschung",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145593",
+      "en": "Die Berichte über Ihren Einsatz auf Torfan waren beeindruckend. Ein harter Job ... Aber Sie haben ihn erledigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145594",
+      "en": "Sie haben eine ganze Angriffswelle während des Skyllianischen Angriffs aufgehalten. Sie haben nicht nur Courage, sondern auch Ihre Fähigkeiten bewiesen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145595",
+      "en": "Nicht viele, die auf Akuze dabei waren, haben überlebt. Sie haben einen unglaublichen Überlebenswillen gezeigt - ein sehr praktisches Talent.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145596",
+      "en": "Alle fortschrittlichen galaktischen Zivilisationen beruhen auf protheanischer Technologie. Auch Ihre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145597",
+      "en": "Sie zeigt die Entwicklung der Menschheit. Auch und vor allem als weltraumfahrendes Volk. Und bald wird sie als Welt bekannt sein, wo die Menschen eine Entdeckung von intergalaktischer Bedeutung gemacht haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145598",
+      "en": "Captain! Wir haben ein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|145599",
+      "en": "Was ist los, Joker?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|148833",
+      "en": "Der Sender ist nicht der einzige Grund, warum ich hier bin, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|148834",
+      "en": "Nihlus möchte Sie im Einsatz beobachten, Commander. Er soll Sie beurteilen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|148835",
+      "en": "Nicht alle Turianer haben Ressentiments gegenüber den Menschen. Einige von uns sehen sogar das Potenzial Ihres Volkes. Wir sehen, was Sie der Galaxie bieten können ... und den Spectres.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|148836",
+      "en": "Wir sind eine Elitetruppe. Es gibt nicht viele, die ausreichend Fähigkeiten für unsere Ansprüche haben. Es ist mir egal, dass Sie ein Mensch sind, Shepard. Was zählt, ist, dass Sie für den Job qualifiziert sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|148838",
+      "en": "Warum sollte ein Turianer wollen, dass ein Mensch zum Spectre ernannt wird?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_captain_d|148841",
+      "en": "Sie haben mich eingetragen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|57813",
+      "en": "Commander Shepard. Ich hoffte, Sie hier allein zu treffen. So können wir ungestört sprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145562",
+      "en": "Er ist auf dem Wege.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145563",
+      "en": "Ich habe ein besonderes Interesse an der vor uns liegenden Welt - Eden Prime. Es soll sehr schön dort sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145564",
+      "en": "Ja ... Ein Paradies. Friedlich. Ruhig. Sicher. Eden Prime ist für Ihr Volk eine Art Symbol geworden, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145565",
+      "en": "Aber Sie haben davon gehört. Der Ort ist für Ihr Volk eine Art Symbol geworden, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145566",
+      "en": "Aber dieser Planet ist mehr als ein Ausflugsort, nicht wahr, Shepard? Eden Prime ist ein Symbol für Sie: Eine perfekte kleine Welt am Rande Ihres Territoriums.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145567",
+      "en": "Der Beweis, dass die Menschheit in der Lage ist, Kolonien in der ganzen Galaxie zu gründen und zu schützen. Aber wie sicher ist es dort wirklich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145568",
+      "en": "Ist die Allianz wirklich bereit dafür?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145569",
+      "en": "Der Captain wollte mich hier treffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145571",
+      "en": "Worum geht es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145572",
+      "en": "Man hält es sogar für ein Paradies.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145574",
+      "en": "Ich war noch nie dort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145576",
+      "en": "Ich bin bei den Marines und nicht auf einem Ausflug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145578",
+      "en": "Wissen Sie etwas Besonderes?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145579",
+      "en": "Wenn Sie etwas zu sagen haben, dann raus mit der Sprache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145580",
+      "en": "Versuchen Sie, mich einzuschüchtern, Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145581",
+      "en": "Wo ist Captain Anderson?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145582",
+      "en": "Sprechen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145584",
+      "en": "Mehr als das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145585",
+      "en": "Weiß ich nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145586",
+      "en": "Na und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145590",
+      "en": "Was soll diese Frage?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145591",
+      "en": "Worauf wollen Sie hinaus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|145592",
+      "en": "Ist das eine Drohung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_comm_room_d|146058",
+      "en": "Ihre Leute gelten immer noch als Neuankömmlinge, Shepard. Die Galaxie kann ein sehr gefährlicher Ort sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_landing_bay_cutscene_d|92667",
+      "en": "Wir werden angegriffen! Erleiden schwere Verluste. Verschiedene Punkte - aahhh! ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_04_DS1_LOC|nor10_landing_bay_cutscene_d|147277",
+      "en": "Runter jetzt!",
+      "tr": ""
+    }
+  ]
+}

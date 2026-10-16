@@ -1,0 +1,4180 @@
+{
+  "meta": {
+    "package": "BIOA_NOR10_03_DSG_LOC_INT.pcc",
+    "stem": "BIOA_NOR10_03_DSG_LOC",
+    "textLang": "DE",
+    "sets": 23
+  },
+  "entries": [
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor00_popup_text_d|145633",
+      "en": "Nur der kommandierende Offizier darf eine Zielvorgabe für die Normandy vornehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55987",
+      "en": "Glückwunsch, Commander. Das scheint eine ruhige Aktion gewesen zu sein. Werden Sie jetzt unten den Captain treffen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55988",
+      "en": "Tut mir leid, Commander. Ich habe mich gerade mit Adams unterhalten. Ich wollte keine Probleme machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55989",
+      "en": "Bei allem Respekt, Sir, vielleicht wird er Ihnen ja dann endlich verraten, was wir hier eigentlich machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55991",
+      "en": "Wenn wir einfach nur unser IES-Tarnsystem testen sollen, wieso hat dann Captain Anderson das Kommando? Und die Anwesenheit von Nihlus ist auch merkwürdig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55992",
+      "en": "Viel Glück, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55993",
+      "en": "Was kann ich für Sie tun, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55994",
+      "en": "Ich denke, wir beide wissen Bescheid. Viele Dinge auf dieser Mission scheinen keinen Sinn zu ergeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55995",
+      "en": "Ich traue gar keinen Turianern. Liegt bei mir in der Familie. Mein Großvater hat im Krieg des Ersten Kontakts gekämpft. Er hat viele Freunde verloren, als die Turianer angriffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55998",
+      "en": "Nein, wohl nicht. Aber es macht mich trotzdem nervös, einen Spectre an Bord zu haben. Vor allem einen turianischen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56000",
+      "en": "Verstanden, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56001",
+      "en": "Jawohl, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56002",
+      "en": "Jawohl, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56008",
+      "en": "Sie scheinen unserem turianischen Gast nicht zu trauen, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56009",
+      "en": "Ich bin gerade auf dem Weg, um ihm einen Statusbericht zu geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56011",
+      "en": "Glauben Sie, dass die Allianz uns etwas vorenthält?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56012",
+      "en": "Ich werde den Captain danach fragen, wenn ich ihn sehe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56014",
+      "en": "Können Sie mir noch etwas erzählen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56015",
+      "en": "Sie trauen Nihlus nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56019",
+      "en": "Das war vor dreißig Jahren. Sie können kaum Nihlus dafür verantwortlich machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56021",
+      "en": "Haben Sie ein Problem mit dem Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56022",
+      "en": "Was können Sie mir über die IES-Tarnsysteme sagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56024",
+      "en": "Sie erhalten nur die notwendigsten Informationen, Pressly. Führen Sie einfach die Befehle aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56026",
+      "en": "Ich muss jetzt runter und den Captain treffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56027",
+      "en": "Gute Arbeit. Weitermachen, Pressly.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56033",
+      "en": "Streitgespräch",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56034",
+      "en": "Er will mich sehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56036",
+      "en": "Wovon sprechen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56037",
+      "en": "Ich sehe mir die Sache mal an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56039",
+      "en": "Ich habe ein paar Fragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56040",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56041",
+      "en": "Turianischer Spectre",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56042",
+      "en": "Captain",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56043",
+      "en": "IES-Tarnysteme",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56045",
+      "en": "Job machen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56046",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56048",
+      "en": "Das ist lange her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56333",
+      "en": "Wir sind ein Raumschiff der Allianz, des Militärs der Menschen. Aber Nihlus muss sich nicht wie wir gegenüber dem Captain verantworten. Spectres arbeiten außerhalb der normalen Befehlskette.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56335",
+      "en": "Und sie kommen nicht einfach, um Testflüge zu kontrollieren. Nihlus scheint größere Probleme zu erwarten. Und das gefällt mir nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56337",
+      "en": "Ich weiß nur, dass damit unsere Position vor Sensoren verborgen wird. Neueste Technologie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56338",
+      "en": "Die Normandy ist das einzige Schiff mit diesem Prototypen-Antrieb. Aber wozu die volle Besatzung? Eine Crew von nur ein paar Leuten wäre doch billiger. Dann gäbe es auch weniger Sicherheitslöcher ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56339",
+      "en": "Das mit Nihlus ist auch seltsam. Dieser Testflug ist offensichtlich nur eine Tarnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56340",
+      "en": "Ich habe keine Ahnung, Commander. Aber es gibt einen anderen Grund, warum wir hier sind. Und ich werde nicht gerne im Unklaren gelassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56341",
+      "en": "Vielleicht haben Sie recht, Commander. Aber ich habe trotzdem das Gefühl, dass wir aus anderen Gründen hier sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56342",
+      "en": "Captain Anderson ist einer der verdientesten Soldaten der Special Forces. Wenn er all seine Orden einschmelzen würde, könnte er eine lebensgroße Statue von sich selbst bauen lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56343",
+      "en": "Einen solchen Soldaten schickt man nicht einfach auf Vergnügungsfahrt. Und er nimmt diesen Testflug sehr ernst. Irgendetwas geht doch hier vor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56347",
+      "en": "Ich habe mich gleich nach dem Studium um eine Stelle als Navigator bei der Allianz beworben. Genau wie mein Großvater. Das liegt wohl in der Familie. Meine erste Station war auf der \"Agincourt\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56353",
+      "en": "Wir gehörten zu den ersten Verstärkungen, die nach dem skyllianischen Angriff in Elysium eingetroffen sind. Diese Piraten hatten keine Chance gegen die Fregatte der Allianz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56354",
+      "en": "Wir waren während des skyllianischen Angriffs auf Elysium. Die Kolonie wurde von einer riesigen Flotte Raumpiraten angegriffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56365",
+      "en": "Eine Tarnung für was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56366",
+      "en": "Eine volle Besatzung macht sehr wohl Sinn. Wenn irgendetwas schief läuft, können wir alle Leute gebrauchen. Und der Spectre ist nur als Beobachter hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56378",
+      "en": "Wie sind Sie auf die Normandy gekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56389",
+      "en": "Tarnung?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56390",
+      "en": "Falsch!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56401",
+      "en": "Was machen Sie hier?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56870",
+      "en": "Commander. Der Turianer wartet auf Sie und den Captain im Kommunikationsraum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92596",
+      "en": "Aber irgendetwas ist schon komisch an dieser Mission. Die ganze Crew hat etwas bemerkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92597",
+      "en": "Nein, Ma'am! Ich weiß nur nicht, was er hier macht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92598",
+      "en": "Nein, Sir! Ich weiß nur nicht, was er hier macht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92600",
+      "en": "Ich habe gehört, was Sie vorhin gesagt haben. Sie scheinen unserem turianischen Gast nicht zu trauen, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92604",
+      "en": "Es gab ein Streitgespräch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|93220",
+      "en": "Schön zu sehen, dass es Ihnen gut geht, Commander. Der Verlust von Jenkins war ein harter Schlag für die Crew.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101415",
+      "en": "Bei allem Respekt, Ma'am, vielleicht wird er Ihnen ja dann endlich verraten, was wir hier eigentlich machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101416",
+      "en": "Die Spectres sind Elite-Einheiten. Top-Undercover-Agenten. Warum sollten sie einen turianischen Spectre auf einen Testflug schicken? Das scheint keinen Sinn zu ergeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101417",
+      "en": "Das stimmt schon, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101419",
+      "en": "Nihlus ist kein gewöhnlicher Turianer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101423",
+      "en": "Und er ist ein Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111457",
+      "en": "Wenn schon jemand Captain Anderson ablösen muss, dann jedenfalls Sie. Allerdings weiß ich nicht, ob mir die Außerirdischen auf dem Schiff so recht sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111458",
+      "en": "Bei allem Respekt, Ma'am: Das hatte man auch über Nihlus gesagt. Und wir haben ja gesehen, was passiert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111459",
+      "en": "Bei allem Respekt, Sir: Das hatte man auch über Nihlus gesagt. Und wir haben ja gesehen, was passiert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111460",
+      "en": "Jawohl, Ma'am. Verstanden, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111461",
+      "en": "Jawohl, Sir! Verstanden, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111462",
+      "en": "Ja bitte, Commander? ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111463",
+      "en": "Ich vertraue Ihnen, Commander. Wenn Sie sagen, dass sie hier sein sollen, dann ist es so.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111464",
+      "en": "Das ist nicht das Problem, Commander. Die Menschen haben immer allein ihre Probleme gelöst. Saren hat eine unserer Kolonien angegriffen. Nur wir Menschen sollten ihn aufhalten. Wir brauchen die Hilfe anderer nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111465",
+      "en": "Kann schon sein. Wahrscheinlich folge ich noch den alten Denkmustern. Keine Sorge, Commander. Es wird deswegen keine Probleme geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111466",
+      "en": "Aber das die Kolonie überhaupt noch stand, war natürlich Ihr Verdienst, Commander. Das war einfach unglaublich, wie lange Sie durchgehalten haben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111467",
+      "en": "Sie waren zwar in der Überzahl, aber ihre Schiffe hatten keine Chance gegen eine Fregatte der Allianz. Es war ein einziges Blutbad. Sie verloren so viele Schiffe, dass wir sie nicht einmal zählen konnten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111468",
+      "en": "Nach Elysium bekam ich meine Beförderung zum Officer. Ich scheine auf die richtigen Leute Eindruck gemacht zu haben. Als der Captain die Crew zusammenstellte, hat er nach mir verlangt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111470",
+      "en": "Wir arbeiten alle zusammen als Team hier, Pressly.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111471",
+      "en": "Ich habe hier das Kommando, Pressly. Es ist allein meine Entscheidung, Außerirdische an Bord zu nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111472",
+      "en": "Ich möchte Ihre ehrliche Meinung hören, Pressly. Ich möchte wissen, ob Sie Probleme mit den Außerirdischen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111473",
+      "en": "Es gibt Leute, die es für Schwäche halten, wenn man Hilfe annimmt. Aber das ist nur dumm und selbstgefällig. Egal wie stark man ist: Verbündete kann man immer gebrauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111474",
+      "en": "Dies hier ist wichtiger als die Menschheit. Saren ist eine Gefahr für alle Völker der Galaxis. Und ich habe kein Problem damit, die Hilfe anderer bei der Jagd auf ihn anzunehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111475",
+      "en": "Wie sind Sie zu Ihrem Einsatz auf der Normandy gekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111477",
+      "en": "Auf unserer Seite",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111478",
+      "en": "Entscheidungen anzweifeln?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111479",
+      "en": "Außerirdische an Bord",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111480",
+      "en": "Persönliche Fragen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111481",
+      "en": "Hilfe ist immer gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111482",
+      "en": "Alle im Boot",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111483",
+      "en": "Ich kann es kaum fassen. Wir haben die Normandy gestohlen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111484",
+      "en": "Wenn der Plan nicht aufgeht, kommen wir alle vor das Kriegsgericht. Andererseits ist das mal richtig aufregend! ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|145139",
+      "en": "Meinen Glückwunsch, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90323",
+      "en": "Ich habe das Missions-Update an die Citadel übermittelt, Commander. Sie haben uns die Verstärkungen bestätigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90324",
+      "en": "Botschafter Udina wartet auf der Citadel auf unseren Bericht. Der Rat stellt eine große völkerübergreifende Flotte gegen Saren und die Geth zusammen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90326",
+      "en": "Jawohl, Sir!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90328",
+      "en": "Das wurde auch Zeit! Zurück zur Citadel, Joker. Ich will, dass die Normandy diese Flotte anführt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90329",
+      "en": "Zurück zur Citadel, Joker. Ich will, dass die Normandy diese Flotte anführt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90331",
+      "en": "Endlich!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90332",
+      "en": "Dann los.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|120323",
+      "en": "Ja, Ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|121956",
+      "en": "Ich wusste, dass sie reagieren würden. Zurück zur Citadel, Joker. Ich will, dass die Normandy diese Flotte anführt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|121957",
+      "en": "Gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90294",
+      "en": "Commander. Etwa noch eine Frage?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90295",
+      "en": "Bis dann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90297",
+      "en": "Ich muss gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90307",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|145711",
+      "en": "Neuer Nachrichteneingang. Stelle durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|149841",
+      "en": "Sie müssen umdrehen, Commander. Sie befinden sich außerhalb des Einsatzbereiches. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|149842",
+      "en": "Sie sind außerhalb der Scanner-Reichweite, Commander. Wir müssen Sie zurückholen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151815",
+      "en": "Ich hätte gerne Gold. Für meinen Orden, meine ich. Ich dachte, Sie würden mich vielleicht dafür vorschlagen. Wo ich doch Ihren A... ähm... Arm aus dem Feuer gezogen habe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151816",
+      "en": "Hab's kapiert. Ein einfaches \"Dankeschön\" und ein Stück Kuchen wären auch akzeptabel. Aber nicht mit Kokosnuss. Das Zeug kann ich nicht ausstehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151817",
+      "en": "Gutes Gegenargument. Wahrscheinlich müsste ich mich dann auch rasieren. Das ist mir kein Orden wert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151818",
+      "en": "Oh, verstehe. Es sollte eine Überraschung sein. Keine Sorge. Wenn Sie mir das Ding anstecken, tue ich so, als hätte ich von nichts gewusst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151819",
+      "en": "Also ... Worüber wollten Sie sprechen, Commander?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151820",
+      "en": "Ich bin froh, dass Noveria hinter uns liegt. Ich weiß gar nicht, was übler war - die Kälte oder diese Unternehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151821",
+      "en": "Man friert sich dort die Eier ab oder kriegt sie gleich als unfreiwillige Organspende abgeschnitten. Bei allem Respekt, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151822",
+      "en": "Hey, Commander. Bitte achten Sie beim nächsten Mal darauf, dass wir nicht mitten in einer Kolonie mit Mutantenzombies landen. Nur so am Rande erwähnt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151823",
+      "en": "Commander. Ich weiß, dass es für Sie da unten nicht einfach gewesen sein kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151824",
+      "en": "Die Entscheidung zwischen Alenko und Williams ... Das tut mir leid, Sir. Ich weiß nicht, ob ich das gekonnt hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151825",
+      "en": "Die Entscheidung zwischen Alenko und Williams ... Das tut mir leid, Ma'am. Ich weiß nicht, ob ich das gekonnt hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151826",
+      "en": "Ich gebe Ihnen keine Schuld, Commander. Es ist nur ... eine verdammt traurige Geschichte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151827",
+      "en": "Keine Angst. Ich werde Sie nicht enttäuschen. Ich will schließlich dabei sein, wenn dieser Hurensohn für seine Taten bezahlen muss!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151828",
+      "en": "Verdammt! Keine Verfolger in Sicht. Ich hatte gehofft, dass uns der Rat ein paar Schiffe hinterherschicken würde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151829",
+      "en": "Ich hätte die Normandy gerne einmal auf Herz und Nieren getestet. Um 'mal zu sehen, was dieses Schiff wirklich draufhat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151830",
+      "en": "So wie Sie es sagen, wird das keinen Spaß machen, Commander. Brauchen Sie was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151831",
+      "en": "Ich wette, Sie sind eine Bereicherung für jede Party, Commander. Brauchen Sie was?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151832",
+      "en": "Sicher, Commander. Nur zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151833",
+      "en": "Ich werde schon klarkommen, Commander. Ich brauche bloß etwas Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151834",
+      "en": "Weil es viel kürzer als \"Flight Lieutenant Jeff Moreau der Allianz\" ist. Und außerdem bringe ich so gerne kleine Kinder zum Lachen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151835",
+      "en": "Also gut: Ich hab' mir den Namen nicht ausgesucht. Eine meiner Flugausbilderinnen hat mich damit aufgezogen, dass ich nie lächeln würde. Also hat sie mich \"Joker\" genannt. Und dabei ist es geblieben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151836",
+      "en": "Ich habe mich voll in die Flugausbildung reingehängt, Commander. Man kommt in dieser Welt nicht voran, wenn man grinsend wie ein Idiot durch die Gegend läuft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151837",
+      "en": "Am Ende des Jahres war ich der beste Pilot der Akademie. Sogar besser als die Ausbilder. Und alle wussten das.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151838",
+      "en": "Das so kränklich wirkende Bürschchen mit den dünnen Beinchen hatte es allen gezeigt. Drei Mal dürfen Sie raten, wer bei der Abschlussfeier am breitesten gegrinst hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151839",
+      "en": "Natürlich. Es ist eine extrem seltene Krankheit. Niemand weiß genau, wodurch sie ausgelöst wird. Vielleicht genetisch bedingt. Man kann sie behandeln, aber nicht heilen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151840",
+      "en": "Ich weiß schon, worum es geht. Sie haben sich über mich informiert, nicht wahr? Ich werde Ihnen das Gleiche erzählen wie dem Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151841",
+      "en": "Sie wollen mich als Piloten. Ich bin nicht gut. Ich bin auch nicht großartig. Sondern der beste verdammte Kampfpilot der Allianz-Flotte!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151842",
+      "en": "Warum war ich wohl der Beste an der Flugakademie? Weil ich es mir erarbeitet habe. Woher kommen wohl die ganzen Belobigungen in meiner Akte? Weil ich sie mir alle verdient habe. Ich habe sie nicht erhalten, weil ich an dieser Krankheit leide.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151843",
+      "en": "Das heißt, Sie wussten gar nicht ...? Ach, Scheiße.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151844",
+      "en": "Die Crew anstecken? Ach, verdammt ...! Sie haben wirklich keine Ahnung, wovon ich spreche, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151845",
+      "en": "Okay ... Ich habe das Vrolik-Syndrom. Glasknochen. Die Knochen in meinen Beinen sind nicht voll entwickelt. Im Grunde sind sie hohl. Wenn sie zu sehr belastet werden, brechen sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151846",
+      "en": "Selbst mit den Krücken und Beinschienen kommt man nur mühsam voran. Ein falscher Schritt und ... KNACK! Aber ich habe gelernt, damit umzugehen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151847",
+      "en": "Geben Sie mir die Normandy und ich lasse sie tanzen. Bitten Sie mich nur nicht, aufzustehen und zu tanzen - es sei denn, Sie stehen auf das Geräusch brechender Schienbeinknochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151849",
+      "en": "Meinen \"Arm\" aus einem brennenden Lavameer zu retten, ist Ihr Job, Joker. Dafür, dass Soldaten ihren Job erledigen, bekommen sie keine Orden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151851",
+      "en": "Wenn wir Ihnen einen Orden geben, müssen Sie sich mit Politikern und stundenlangen Podiumsdiskussionen herumschlagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151853",
+      "en": "Ich möchte jetzt über etwas anderes sprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151857",
+      "en": "In einer solchen Situation gibt es keine richtige Entscheidung. Ich kann nur hoffen, so etwas nie wieder erleben zu müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151858",
+      "en": "Der Erfolg einer Mission hängt manchmal von harten Entscheidungen ab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151859",
+      "en": "Es gab keine andere Möglichkeit. Die Mission ist wichtiger als ein einzelner Soldat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151861",
+      "en": "Saren ist immer noch da draußen, Joker. Reißen Sie sich zusammen. Wir brauchen Sie noch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151863",
+      "en": "Saren ist noch da draußen. Vielleicht werden wir ja noch mit der Sovereign Verstecken spielen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151864",
+      "en": "Wir spielen nicht Fangen, Joker. Wenn sie uns erwischen, hat Saren gewonnen. Und wir werden alle sterben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151865",
+      "en": "Ich möchte Ihnen ein paar Fragen stellen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151866",
+      "en": "Warum nennen Sie alle \"Joker\"?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151867",
+      "en": "Sie weichen meiner Frage aus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151868",
+      "en": "Sie erinnern mich irgendwie an den Weihnachtsmann ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151869",
+      "en": "Warum haben Sie denn nie gelächelt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151872",
+      "en": "Ich muss mehr über dieses Vrolik-Syndrom wissen, wenn ich Ihnen mein Schiff anvertraue.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151873",
+      "en": "Ich möchte über meine Crew Bescheid wissen. Kann ich Ihnen ein paar Fragen stellen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151876",
+      "en": "Tut mir leid, Joker. Ich wusste gar nicht, dass Sie krank sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151877",
+      "en": "Wovon reden Sie da? Sie sind krank?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151879",
+      "en": "Wenn die Crew sich anstecken könnte, haben Sie nichts auf diesem Schiff zu suchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151883",
+      "en": "Wie sind Sie zur Allianz gekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151884",
+      "en": "Wie macht sich die Normandy? Ist sie so gut, wie alle sagten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151886",
+      "en": "Orden sind nicht alltäglich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151887",
+      "en": "Sicher?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151888",
+      "en": "Deswegen bin ich nicht hier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151894",
+      "en": "Nicht wünschenswert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151895",
+      "en": "So ist mein Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151896",
+      "en": "Ich musste es tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151898",
+      "en": "Es muss weitergehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151900",
+      "en": "Die Mission ist noch nicht vorbei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151901",
+      "en": "Das ist kein Spiel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151902",
+      "en": "Wir müssen uns unterhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151903",
+      "en": "Woher kommt Ihr Spitzname?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151904",
+      "en": "Was für eine Krankheit?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151905",
+      "en": "Wollte nur mit Ihnen reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151906",
+      "en": "Persönliche Vergangenheit",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151907",
+      "en": "Schiff-Statusbericht",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151908",
+      "en": "Keine Antwort.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151909",
+      "en": "Schon klar ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151910",
+      "en": "Unglücklich gewesen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151915",
+      "en": "Ich wollte Sie nicht beleidigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151916",
+      "en": "Was für eine Krankheit?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151917",
+      "en": "Etwas Ansteckendes?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152074",
+      "en": "Ich gelte als mittelschwerer bis schwerer Fall. Bei meiner Geburt hatte ich mehr als ein Dutzend Brüche: Hüften, Oberschenkel, Sprunggelenk ... Schon in der Gebärmutter brachen meine Knochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152075",
+      "en": "Noch vor einhundert Jahren hätte ich das erste Lebensjahr nicht überlebt. Aber dank der modernen Medizinwissenschaft darf ich mich ein nützliches Mitglied der Gesellschaft nennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152076",
+      "en": "Nur zu, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152077",
+      "en": "Ich fliege nicht mit meinen Füßen, Commander. Alles kein Problem, solange ich in diesem Stuhl sitze. Ich muss nur sehr vorsichtig sein, wenn ich aufstehen und pissen muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152079",
+      "en": "Ich kann meinen Job so gut wie jeder andere auf dem Schiff erledigen. Und sogar besser. Also keine Sorge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152081",
+      "en": "Es gibt ein paar Schwierigkeiten mit der Trimmung. Man muss sich erst einmal an den riesigen Antriebskern im Heck des Schiffes gewöhnen. Ist manchmal nicht so einfach, diese Kräfte zu handeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152084",
+      "en": "Ich wollte Sie nicht vor den Kopf stoßen. Lassen Sie uns über etwas anderes sprechen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152085",
+      "en": "Es besteht aber nicht die Gefahr, dass Sie sich nur durch das Fliegen des Schiffs die Knochen brechen, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152090",
+      "en": "Anderes Thema.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152091",
+      "en": "Wie geht es im Job?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152094",
+      "en": "Anderes Thema.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152162",
+      "en": "Wenn Sie die Geschichte von dem kranken Jungen, der sein Schicksal besiegt hat, hören wollen, muss ich Sie leider enttäuschen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152163",
+      "en": "Meine Mutter hat als Zivilberaterin in der Allianz gearbeitet. Ich wuchs quasi auf der Arcturus-Station auf. Zu dieser Zeit gründeten sie gerade die Flotten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152164",
+      "en": "Ich hab' meine ganze Jugend auf den Schiffen der Allianz verbracht. Also war es kein Wunder, dass ich zur Akademie ging.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152165",
+      "en": "Sie ist das beste Schiff der Flotte. Aber sie braucht einen Piloten, der sie auch beherrscht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152166",
+      "en": "Ein gewöhnlicher Allianz-Pilot würde wohl echte Probleme mit dem Schiff bekommen, Commander. Aber zum Glück bin ich ja kein gewöhnlicher Pilot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152171",
+      "en": "Ist bei Ihnen alles okay?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|159701",
+      "en": "Sie sind gleich außerhalb der Scanner-Reichweite, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136527",
+      "en": "Commander. Die Story von Ms. Al-Jilani über Sie wurde gerade veröffentlicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136528",
+      "en": "Ich kann Ihre Zurückweisung verstehen. Sie hätte sich mit ihrer Anfrage an die offiziellen Stellen wenden sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136529",
+      "en": "Ich bin auf Ihrer Seite, Commander. Vergessen Sie das nicht. Das alles kommt vom Obersten Militärkommando.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136530",
+      "en": "Ziemlich. Aber machen Sie sich keine allzu großen Sorgen, Commander. Sie ärgern sich ja immer über uns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136531",
+      "en": "Ich wollte Ihnen nur von den Reaktionen zu Hause erzählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136532",
+      "en": "Aber ich will Sie nicht länger aufhalten. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136533",
+      "en": "Ich habe ein paar PR-Leute, die sich um solche Sachen kümmern. Ein paar memetische Korrekturen und die Leute haben alles in einer Woche vergessen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136534",
+      "en": "Ich kann verstehen, dass Sie sich nicht mit ihr eingelassen haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136535",
+      "en": "Die Befehlshaber sind mit Ihrer Reaktion nicht einverstanden. Das kommt direkt aus dem Obersten Militärkommando.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136536",
+      "en": "Vermutlich haben Sie recht. Das hätte noch viel schlimmer ausgehen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136537",
+      "en": "Es gab andere Wege, diese Sache zu handhaben, als sie vor den Kopf zu stoßen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136538",
+      "en": "Auch, wenn ich es ihr gönne.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136539",
+      "en": "Stimmt. Sie hat fast nach Schlägen gefragt. Aber Sie haben das Richtige getan und sind einfach weggegangen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136540",
+      "en": "Commander, wäre das ganze in einer Bar geschehen, wäre sie im Krankenwagen nach Hause gefahren. Aber ich bin angehalten, das klar zu stellen: Wir behandeln die Presse mit Respekt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136541",
+      "en": "Sie hätte Sie nicht so überfallen dürfen. Aber Sie haben sich gut aus der Affäre gezogen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136542",
+      "en": "Ich bin nicht mit allem einverstanden, was Sie gesagt haben. Aber zumindest haben Sie sie überzeugt. Ich hoffe nur, dass diese Sache nicht die Beziehungen zum Rat gefährdet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136543",
+      "en": "Sie haben es sich einfach gemacht, aber unsere Verbündeten sind vielleicht anderer Meinung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136544",
+      "en": "Wenn Sie diese Uniform tragen, repräsentieren Sie das Allianz-Militär. Und als Spectre repräsentieren Sie die gesamte Menschheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136545",
+      "en": "Vor ein paar Wochen hätte das auch noch gestimmt. Aber ab jetzt wird man die Menschen an Ihnen messen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136546",
+      "en": "Sie hätte Sie nicht so überfallen dürfen. Aber Sie haben sich korrekt verhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136547",
+      "en": "Das ist ja auch nicht Ihr Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136548",
+      "en": "Aber Sie waren zumindest klug genug, dies nicht zu sagen. Sie wissen, wie man mit der Presse umgehen muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136549",
+      "en": "Das war sie. Aber das dürfen wir nicht sagen. Es ist eine echte Kunst, mit den Medien umgehen zu können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136550",
+      "en": "Sie haben sich sehr gut verhalten, Commander. Sie hat sich unmöglich benommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136551",
+      "en": "Das wird nicht wieder vorkommen, Commander. Wir haben eine Presseabteilung, damit sich unsere Leute nicht mit diesem Presse-Bullshit abgeben müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136552",
+      "en": "Sie haben schlecht ausgesehen dabei. Sie hat Sie mit Worten nur so eingewickelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136553",
+      "en": "Aber da ist noch eine andere Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136554",
+      "en": "Die Citadel hat versucht, es runterzuspielen, dass Saren außer Kontrolle ist. Keine gute Werbung für die Spectres.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136555",
+      "en": "Ihn zu erwähnen, war politisch nicht klug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136556",
+      "en": "Zumindest wäre ich Ihnen dafür dankbar, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136562",
+      "en": "Ich war mir dessen nicht bewusst. Ich werde ihn nicht wieder erwähnen, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136564",
+      "en": "Saren hat auch nicht gerade \"politisch klug\" gehandelt, als er die Leute auf Eden Prime umbrachte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136566",
+      "en": "War denn der Rat sehr verärgert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136571",
+      "en": "Sir, sie hatte nur vor, mich zu diskreditieren. Egal, was ich gesagt hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136575",
+      "en": "Ich habe keine Zeit, mich mit Presseschmierfinken abzugeben, die sich für große Journalisten halten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136576",
+      "en": "Sie wollte nichts von Fakten hören, die nicht in ihre schöne Story gepasst hätten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136579",
+      "en": "Wir waren verschiedener Meinung, Sir. Ich hoffe aber, dass sie von meiner Aufrichtigkeit überzeugt ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136580",
+      "en": "Ich habe ihr nur erzählt, was sie hören wollte, Sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136582",
+      "en": "Der Rat kann mich mal. Ich habe ein Recht auf meine eigene Meinung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136584",
+      "en": "Sie werden sich schon wieder beruhigen. Ich bin für sie nicht bedeutend genug.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136586",
+      "en": "Ich hatte zuvor noch nie mit der Presse zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136588",
+      "en": "Um ehrlich zu sein: Ich halte sie für ein verdammtes Miststück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136591",
+      "en": "Sie war nicht gerade eine aufmerksame Zuhörerin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136597",
+      "en": "Hatte keinen Sinn zu reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136598",
+      "en": "Hat nur meine Worte verdreht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136599",
+      "en": "Scheißegal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136600",
+      "en": "Reine Zeitverschwendung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136606",
+      "en": "Habe getan, was ich konnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136607",
+      "en": "Sie hat gar nicht zugehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136608",
+      "en": "Habe ihr nicht alles erzählt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136609",
+      "en": "Ich scheiß auf die.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136610",
+      "en": "Werden sich wieder beruhigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136614",
+      "en": "Das hoffe ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136615",
+      "en": "Sie nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136616",
+      "en": "Sie wollte nicht zuhören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136625",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136626",
+      "en": "Sowas von egal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136627",
+      "en": "Was ist passiert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139966",
+      "en": "Das hätte sich vielleicht gut angefühlt, aber das Problem auch nicht gelöst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139967",
+      "en": "Sie hätte Sie nicht so überfallen dürfen. Für solche Sachen haben wir eine Presseabteilung. Wir geben Ihnen keine Schuld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139968",
+      "en": "Bei allem Respekt, Admiral. Wir Soldaten sind nicht ausgebildet, um schöne Reden zu halten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139969",
+      "en": "Ich hätte sie erschießen und in einem verglühenden Stern entsorgen sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139971",
+      "en": "Ich konnte ja nicht einfach weggehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139973",
+      "en": "Politik ist nicht mein Job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139974",
+      "en": "Ich hätte sie töten sollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139975",
+      "en": "Was hätte ich denn tun sollen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90236",
+      "en": "Gutes Timing, Commander. Wir kriegen gerade eine Übertragung von der Citadel rein. Höchste Dringlichkeitsstufe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90237",
+      "en": "Das ist nicht seine Signatur. Ich denke, sie kommt vom Rat. Ich übertrage sie an den Kommunikationsraum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90238",
+      "en": "Commander Shepard. Wir haben Informationen, die für die Mission gegen Saren von größter Bedeutung sein könnten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90239",
+      "en": "Der Rat hat sich Ihrer Meinung angeschlossen, dass Saren gefährlich ist. Darum haben wir Sie zum Spectre ernannt. Wir haben nur gezögert, die gesamte Macht der Citadel-Flotte gegen ihn einzusetzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90240",
+      "en": "Der gesamte Rat hofft darauf, dass Sie erfolgreich sein werden. Deswegen wollen wir Ihnen die neuesten Informationen mitteilen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90241",
+      "en": "Wir haben eine Notmeldung von einer unserer Infiltrationseinheiten in der Traverse bekommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90242",
+      "en": "Spectres lenken viel Aufmerksamkeit auf sich, Commander. Aber sie sind nur ein Teil unserer Abwehrmechanismen. Oft sind die Sondereinheiten die bessere Option bei der Beurteilung von besonderen Situationen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90243",
+      "en": "Zur Zeit haben wir mehrere Infiltrationseinheiten an den Grenzbereichen des Citadel-Sektors eingesetzt. Diese erwähnte Einheit sollte Informationen über Saren liefern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90244",
+      "en": "Es wäre Zeitverschwendung, Sie falsche Spuren durch die ganze Galaxie verfolgen zu lassen, Commander. Wir haben Sie kontaktiert, weil wir glauben, dass diese Informationen wichtig sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90245",
+      "en": "Leider war die Übertragung nicht besonders deutlich. Das Infiltrationsteam muss in einer Situation gewesen sein, die es nicht erlaubt hat, ordnungsgemäße interstellare Kommunikationsmittel zu nutzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90246",
+      "en": "Aber die Nachricht wurde auf einem Kanal gesendet, der für besonders wichtige Missionsinformationen reserviert war. Was immer sie uns mitteilen wollten: Es muss etwas Wichtiges gewesen sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90247",
+      "en": "Sie sind auf der Suche nach Saren. Vielleicht wollen Sie diese Sache näher untersuchen. Finden Sie heraus, was mit unserem Team geschehen ist. Das Signal kam vom Planeten Virmire.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90248",
+      "en": "Diese Einheit hat vielleicht ihr Leben riskiert, um diese Nachricht zu senden. Saren hat irgendetwas auf Virmire vor! Und wenn Sie nicht so menschlich verbohrt wären, würden Sie es auch verstehen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90249",
+      "en": "Der Rat mischt sich im Allgemeinen nicht in die Aktivitäten der Spectres ein. Wir wollten Ihnen nur alle Optionen zukommen lassen. Dazu zählt auch Virmire.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90250",
+      "en": "Viel Glück, Commander Shepard. Wir werden Sie wissen lassen, wenn wir Neuigkeiten haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90251",
+      "en": "Ist sie vom Botschafter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90253",
+      "en": "Ich nehme sie im Kommunikationsraum an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90254",
+      "en": "Was für Informationen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90255",
+      "en": "Vorher schienen Sie ja nicht unbedingt gewillt zu sein, mir zu helfen. Warum haben Sie Ihre Einstellung geändert?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90258",
+      "en": "Sie meinen Spione.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90260",
+      "en": "Und weiter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90261",
+      "en": "Ich werde nicht gern im Unklaren gelassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90263",
+      "en": "Welche Informationen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90266",
+      "en": "Das fehlende Infiltrationsteam ist nicht mein Problem. Kümmern Sie sich um Ihre eigenen Angelegenheiten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90267",
+      "en": "Ich bitte um Vergebung, Botschafter. Ich kümmere mich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90268",
+      "en": "Ich werde Saren finden. Aber auf meine Weise!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90269",
+      "en": "Ich kümmere mich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90272",
+      "en": "Von wem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90273",
+      "en": "Übertragen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90275",
+      "en": "Was ist es?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90276",
+      "en": "Hilfe? Auf einmal?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90279",
+      "en": "Infiltrationseinheiten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90280",
+      "en": "Bitte weiter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90282",
+      "en": "Keine Info für mich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90283",
+      "en": "Und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90287",
+      "en": "Keine Zeit",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90288",
+      "en": "Verstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90289",
+      "en": "Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90290",
+      "en": "Ich habe verstanden. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90291",
+      "en": "Das ist meine Mission!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120424",
+      "en": "Ich kann jede Hilfe gebrauchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120425",
+      "en": "Gut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120426",
+      "en": "Klingt dringlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120427",
+      "en": "Danke für die Info.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp102_transmission_D|134855",
+      "en": "Normandy, hier ist das Allianz-Kommando. Wir haben Ihre Präsenz im attikanischen Beta-Cluster entdeckt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp102_transmission_D|134856",
+      "en": "Eine unserer Überwachungsdrohnen sammelte Informationen über Geth-Aktivitäten in der Region, als sie entdeckt und abgeschossen wurde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp102_transmission_D|134857",
+      "en": "Sie müssen landen und das Datenmodul der Drohne bergen, bevor die Geth sie finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|134991",
+      "en": "Commander, wir empfangen eine wichtige Nachricht des Allianz-Kommandos. Ich stelle sie durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|134992",
+      "en": "Shepard, hier spricht Admiral Hackett vom Allianz-Kommando.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|134993",
+      "en": "Wir haben hier ein Problem, und nur Sie können sich darum kümmern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135093",
+      "en": "Sie sind ein Spectre, Shepard. Und dies ist keine gewöhnliche Mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135094",
+      "en": "Es gibt einen Allianz-Ausbildungsstützpunkt, an dem wir Waffen und Technologie in realen Situationen testen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135095",
+      "en": "Eines der VI-Module, mit denen wir feindliche Taktiken simulieren, reagiert nicht mehr auf unsere Abschaltbefehle. Es ist durchgedreht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135096",
+      "en": "Was soll ich für Sie tun, Admiral?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135097",
+      "en": "Wieso rufen Sie immer mich, wenn es ein Problem gibt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135100",
+      "en": "Wie viele Todesopfer gibt es bisher?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135101",
+      "en": "Sagen Sie mir einfach, wie ich sie aufhalten kann, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135102",
+      "en": "Synthetische Intelligenz ist eine gefährliche Technologie, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135103",
+      "en": "Was kann ich tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135104",
+      "en": "Was ist denn?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135105",
+      "en": "Das habe ich schon mal gehört.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135108",
+      "en": "Wurde jemand verletzt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135109",
+      "en": "Was soll ich tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135110",
+      "en": "Sie hätten es besser wissen müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135126",
+      "en": "Wir sind nicht blöd, Shepard. Das ist eine virtuelle Intelligenz, keine echte KI. Sie hat kein Selbstbewusstsein und kann nicht auf externe Systeme zugreifen. Wir haben hier nichts Illegales getan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135127",
+      "en": "Die Unterstützung durch virtuelle Intelligenz ist für unseren militärischen Erfolg unerlässlich. VIs bearbeiten Tausende Statusberichte und können in Nanosekunden reagieren, schneller als jeder Mensch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135128",
+      "en": "Bevor wir erkannten, was dort vor sich ging, wurden siebzehn Marines bei der Simulation getötet. Darum haben wir Sie kontaktiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135129",
+      "en": "Die Unterstützung durch virtuelle Intelligenz ist für unseren militärischen Erfolg unerlässlich. Sie bearbeiten Tausende Statusberichte und können in Nanosekunden reagieren, schneller als jeder Mensch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135130",
+      "en": "Aber so fortschrittlich sie in militärischer Strategie auch sein mögen, so ist es immer noch eine VI. Sie hat kein Selbstbewusstsein und ist an kein Netzwerk angeschlossen. Und da kommen Sie ins Spiel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135131",
+      "en": "Sie müssen sich bis zum Kern der VI durchschlagen und sie manuell deaktivieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135132",
+      "en": "Unsere Notfallsysteme reagieren nicht. Die VI operiert in einem geschlossenen Netzwerk. Sie kann nicht auf externe Systeme zugreifen, aber wir haben auch keinen direkten Zugriff auf ihre Prozesse.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135133",
+      "en": "Wir könnten sie vom Orbit aus bombardieren, aber Schäden an der Anlage wären katastrophal. Daher wäre es uns lieber, wenn jemand den Kern herunterfährt. Jemand wie Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135134",
+      "en": "Mir ist klar, dass Spectres dem Rat unterstehen, aber Sie sind immer noch ein Mensch. Sie gehören zum Allianz-Militär, und jetzt brauchen wir Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135135",
+      "en": "Die VI kontrolliert alle Waffen, Drohnen und automatischen Verteidigungssysteme der Anlage. Sie sind der Einzige, der das schaffen kann, Shepard. Viel Glück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135136",
+      "en": "Wollen Sie damit sagen, dass dieser Computer nun selbstständig denkt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135142",
+      "en": "Können Sie sie nicht aus der Ferne deaktivieren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135145",
+      "en": "Keine Sorge, Admiral. Ich werde das Ding ausschalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135148",
+      "en": "Es ist durchgedreht?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135154",
+      "en": "Ist das die einzige Option?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135155",
+      "en": "Ich kümmere mich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp105_trig01_distress_D|139173",
+      "en": "Wir empfangen ein Notsignal, Commander. Ich stelle es durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp105_trig01_distress_D|139174",
+      "en": "Mayday Mayday Mayday. Hier spricht Lieutenant Marie Durand, 3-14. Infanterie, 10. Frontdivision der Allianz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp105_trig01_distress_D|139175",
+      "en": "Der Horchposten wurde von unidentifizierten feindlichen Lebensformen überrannt. Erbitte sofortige Evakuierung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130364",
+      "en": "Commander Shepard, mein Name ist Nassana Dantius. Ich habe einen Job für Sie. Über ungesicherte Kommunikationswege möchte ich jetzt keine Details nennen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130365",
+      "en": "Wenn Sie an meinem Angebot interessiert sind, kommen Sie bitte auf die Citadel, damit wir uns unter vier Augen unterhalten können. Ich werde in der Diplomaten-Lounge im Präsidium auf Sie warten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130366",
+      "en": "Commander Shepard, ich bin Nassana Dantius.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130367",
+      "en": "Ich bin froh, dass Sie hier sind. Ich muss mit Ihnen über meine Schwester Dahlia reden. Sie wurde von Sklavenhändlern entführt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130368",
+      "en": "Wie ich sehe, haben Sie meine Nachricht erhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130369",
+      "en": "Ja. Meine Schwester Dahlia ist auf einem Frachtschiff stationiert, das jenseits des Rands der Traverse operiert. Ihr Schiff wurde angegriffen, und es gibt keine Berichte über Überlebende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130370",
+      "en": "Und da wird die Sache kompliziert: Letzte Woche erhielt ich eine Nachricht mit ihrer Stimme! Dahlia ist am Leben!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130371",
+      "en": "Der Rest der Mannschaft wurde getötet, aber sie hat man gefangen genommen. Die Sklavenhändler verlangen ein immenses Lösegeld von mir, wenn ich sie wohlbehalten zurückhaben möchte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130372",
+      "en": "Meine Schwester hat ihnen bestimmt gesagt, wer sie ist. Meine Familie ist sehr reich, Shepard. Ihnen ist bestimmt klar geworden, dass sie lebendig mehr wert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130373",
+      "en": "Das habe ich auch gedacht. Ich habe getan, was sie wollten, und das Geld auf das angegebene Konto überwiesen. Aber sie haben sie nicht freigelassen. Sie haben sich seitdem nicht mal mehr gemeldet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130374",
+      "en": "Ich habe das Geld bereits auf das angegebene Konto überwiesen. Aber sie haben sie nicht freigelassen. Sie haben sich seitdem nicht mal mehr gemeldet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130375",
+      "en": "Es ist zu spät. Ich habe das Geld bereits auf das angegebene Konto überwiesen. aber sie haben sie nicht freigelassen. Sie haben sich seitdem nicht mal mehr gemeldet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130376",
+      "en": "Ich habe einen schrecklichen Fehler gemacht, Shepard. Ich bin eine diplomatische Abgesandte und gesetzlich verpflichtet, jede versuchte Erpressung sofort der Citadel-Sicherheit zu melden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130377",
+      "en": "Aber ich hatte solche Angst um Dahlia, dass ich das Lösegeld stillschweigend bezahlt habe. Jetzt wird sie immer noch vermisst, und wenn jemand herausfindet, was ich getan habe, könnte ich ins Gefängnis kommen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130378",
+      "en": "Es ist Regierungsvertretern auf der Citadel verboten, mit Terroristen zu verhandeln. Es ist einfach zu gefährlich. Ein Lösegeld zu bezahlen, würde Kriminelle ermutigen und zu weiteren Entführungen führen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130379",
+      "en": "Theoretisch unterstütze ich das Gesetz ja, aber als ich die Nachricht erhielt, konnte ich nur an Dahlias Sicherheit denken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130380",
+      "en": "Ich bezweifle, dass sie mich für das, was ich getan habe, ins Gefängnis schicken würden, aber sie würden mich meines Postens entheben und Dahlia wäre noch immer in den Händen der Sklavenhändler.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130381",
+      "en": "Sie müssen sie nur zurückbringen. Ich habe sie bereits für Sie gefunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130382",
+      "en": "Das ist doch leicht verdientes Geld für Sie, Shepard. Ich habe sie schon gefunden, Sie müssen sie nur noch zurückbringen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130383",
+      "en": "Und, Shepard? Haben Sie meine Schwester gefunden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130384",
+      "en": "Ich kenne Sie doch. Sie sind Commander Shepard. Der menschliche Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130387",
+      "en": "Dahlia ist tot, Nassana. Und ich weiß, dass sie Sie erpresst hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130388",
+      "en": "Ich habe sie höchstpersönlich umgebracht. Und ich weiß, dass sie Sie erpresst hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130389",
+      "en": "Es klang, als bräuchten Sie Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130390",
+      "en": "Sie sagten, Sie hätten ein Job-Angebot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130391",
+      "en": "Das tut mir aufrichtig leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130392",
+      "en": "Sie wollen, dass ich die Leute jage, die sie getötet haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130394",
+      "en": "Warum wurde Dahlia nicht wie alle anderen getötet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130395",
+      "en": "Dahlias Sicherheit können Sie wohl am besten gewährleisten, wenn Sie das Lösegeld zahlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130397",
+      "en": "Soll ich das Lösegeld übergeben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130399",
+      "en": "Mit Kriminellen kann man nicht verhandeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130402",
+      "en": "Warum sollten sie Sie ins Gefängnis stecken? Sie sind doch hier das Opfer!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130405",
+      "en": "Sie wollen, dass ich sie finde und zurückbringe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130406",
+      "en": "Sie stecken bis zum Hals im Schlamassel und jetzt soll ich Sie da rausholen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130407",
+      "en": "Dahlia ist tot. Und ich weiß, dass sie Sie erpresst hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130408",
+      "en": "Dahlia ist tot. Ich habe sie höchstpersönlich umgebracht. Wenn Sie nicht wie sie enden wollen, sollten Sie jetzt lieber anfangen zu reden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130412",
+      "en": "Ich kenne die Wahrheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130413",
+      "en": "Lügen Sie mich nicht an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130414",
+      "en": "Sie ist tatsächlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130415",
+      "en": "Haben Sie Ärger?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130416",
+      "en": "Kommen Sie zur Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130417",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130418",
+      "en": "Das tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130419",
+      "en": "Und jetzt wollen Sie Rache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130420",
+      "en": "Langsam verstehe ich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130422",
+      "en": "Ihre Schwester wurde verschont?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130423",
+      "en": "Sie sollten lieber bezahlen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130424",
+      "en": "Was wäre meine Aufgabe?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130425",
+      "en": "Sie sollten nicht bezahlen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130430",
+      "en": "Was für ein dämliches Gesetz!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130431",
+      "en": "Sie brauchen meine Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130432",
+      "en": "Deshalb kamen Sie auf mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130433",
+      "en": "Sehe ich so blöd aus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130436",
+      "en": "Deshalb kamen Sie auf mich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130437",
+      "en": "Ich habe sie gefunden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130438",
+      "en": "Sie haben mich belogen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130528",
+      "en": "Und ich war kurz davor, Sie zu manipulieren und auf ihre Spur anzusetzen. Aber das wird jetzt nicht mehr nötig sein, oder?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130529",
+      "en": "Ich habe das Lösegeld über mehrere Konten nachverfolgt. Letztendlich führte es mich zu einer kleinen Söldnergruppe, die vom Artemis-Tau-Cluster aus operiert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130530",
+      "en": "Ich möchte, dass Sie zu der Söldnerbasis fliegen, die Söldner ausschalten und meine Schwester zurückbringen. Ich werde Sie reich belohnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130531",
+      "en": "Danke, Shepard. Ich wusste, dass Sie der Richtige für diesen Job sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130532",
+      "en": "Danke, Shepard. Ich wusste, dass Sie die Richtige für diesen Job sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130533",
+      "en": "Kommen Sie bitte wieder her, wenn Sie den Job erledigt haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130534",
+      "en": "Sie sind der Einzige, der mir helfen kann, Shepard! Außerdem habe ich die Koordinaten bereits an Ihr Schiff übermittelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130535",
+      "en": "Bitte unternehmen Sie alles, was in Ihrer Macht steht. Ich werde hier auf Ihre Rückkehr warten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130536",
+      "en": "So kommt die Wahrheit ans Licht. Ich hoffe, Sie sind mir nicht böse. Sie verstehen doch gewiss, warum ich Sie belogen habe, nicht wahr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130537",
+      "en": "Sie müssen nicht laut werden, Commander. Sie können doch sicher verstehen, warum ich Sie belogen habe, nicht wahr?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130538",
+      "en": "Wenn man herausgefunden hätte, dass meine Schwester eine Kriminelle ist, wäre ich als Sicherheitsrisiko eingestuft worden. Bis zu ihrer Festnahme hätten sie mir meine Sicherheitsbescheinigung weggenommen oder mich in Zwangsurlaub geschickt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130539",
+      "en": "Darum habe ich Sie in die Irre geführt. Ich konnte nicht riskieren, dass Sie mich bloßstellen. Aber nun ist das kein Problem mehr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130540",
+      "en": "Vielleicht haben Sie Recht. Es tut mir leid. In meiner Familie vertrauen wir anderen nicht gerade schnell.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130541",
+      "en": "Verzeihen Sie, dass ich nicht ehrlich zu Ihnen war. In meiner Familie vertrauen wir anderen nicht gerade schnell.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130542",
+      "en": "Sie haben völlig Recht. Sie war zwar meine Schwester, aber ich werde ihr keine Träne nachweinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130543",
+      "en": "Als Zeichen meiner Dankbarkeit werde ich Ihnen eine Kleinigkeit auf Ihr Konto überweisen. Sie werden gewiss zufrieden sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130544",
+      "en": "Sie haben Recht, Credits kann jeder aufbringen. Aber ich bin die Einzige, die Sie autorisieren kann, Asari-Mod-Prototypen zu kaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130545",
+      "en": "Das stimmt, aber ich bin die Einzige, die Sie autorisieren kann, Asari-Mod-Prototypen zu kaufen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130546",
+      "en": "Ich sorge dafür, dass Sie auf die Liste der bevorzugten Kunden unseres Herstellers kommen. Sie werden das, was er anzubieten hat, gewiss sehr interessant finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130547",
+      "en": "Leben Sie wohl, Shepard. Es war mir ein Vergnügen, mit Ihnen Geschäfte zu machen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130548",
+      "en": "Ich stehe nicht gern bei anderen in der Kreide. Wenn es Ihnen dann besser geht, können Sie es als eine Art Gebühr dafür ansehen, dass Sie Ihrer Bürgerpflicht nachgekommen sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130549",
+      "en": "Oder spenden Sie es für einen wohltätigen Zweck, mir ist es egal. Das Geld ist bereits unterwegs und jetzt Ihr Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130550",
+      "en": "Verstanden, Shepard. Ich werde Sie nicht mehr belästigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130551",
+      "en": "So dumm bin ich nicht. Sie bekommen einen fairen Deal. Einen sehr fairen Deal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130552",
+      "en": "Wiedersehen, Shepard. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130553",
+      "en": "Ich will nicht mit dem Leben meiner Schwester spielen. Ich brauche einen Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130554",
+      "en": "Außerdem operieren Sie außerhalb der offiziellen Kanäle. Meine Vorgesetzten dürfen nicht erfahren, dass ich das Lösegeld bezahlt habe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130555",
+      "en": "Ich habe meine Quellen. Kontakte und Credits können lange Wege zurücklegen, besonders wenn man gewillt ist, die Regeln zu verbiegen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130556",
+      "en": "Ich habe das Gesetz bereits gebrochen, als ich das Lösegeld zahlte. Die Sache kann nicht mehr schlimmer werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130557",
+      "en": "Im Prinzip das, was man erwarten würde: derbe, gefährlich und gut bewaffnet. Also nichts, womit ein Spectre nicht fertig wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130558",
+      "en": "Kommen Sie bitte wieder her, wenn Sie den Job erledigt haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130559",
+      "en": "Kann ich was für Sie tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130560",
+      "en": "Was? Wollen Sie sagen, dass Sie ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130561",
+      "en": "Ich habe Ihnen gegeben, was Sie wollten, Shepard. Wir haben nichts mehr zu bereden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130562",
+      "en": "Vielen Dank für Ihre Hilfe, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130563",
+      "en": "Ich habe keine Zeit für einen Schwatz. Ich bin sehr beschäftigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130568",
+      "en": "Behalten Sie Ihre Belohnung. Ich werde Ihre Schwester zurückbringen. Versprochen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130569",
+      "en": "Keine Sorge. Ich werde Ihre Schwester zurückbringen. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130572",
+      "en": "Ich habe Wichtigeres zu tun, als Ihre Schwester zu suchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130577",
+      "en": "Ich hätte Ihnen geholfen, wenn Sie mir die Wahrheit gesagt hätten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130579",
+      "en": "Machen Sie Ihre Drecksarbeit demnächst selbst!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130581",
+      "en": "Ihre Schwester war ein Sklavenhändler. Sie hat bekommen, was sie verdient hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130583",
+      "en": "Sie sind eine aufstrebende Diplomatin. Es könnte für Sie irgendwann nützlich sein, dass Ihnen ein Spectre einen Gefallen schuldet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130585",
+      "en": "Ich bin ein Spectre, kein verdammter Söldner. Credits bekomme ich überall.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130588",
+      "en": "Ich will Ihr Blutgeld nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130590",
+      "en": "Ich will die ganze Sache einfach nur hinter mich lassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130591",
+      "en": "Wenn Sie versuchen, mich zu besch...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130593",
+      "en": "Können Sie niemand anderen dafür anheuern?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130595",
+      "en": "Wie haben Sie herausgefunden, wer dahinter steckt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130597",
+      "en": "Können Sie mir sonst noch was sagen über die Söldner, die Ihre Schwester entführt haben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130598",
+      "en": "Ich muss jetzt gehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130600",
+      "en": "Sie sind Nassana, nicht wahr? Ich bin auf Ihre Schwester Dahlia gestoßen und es ging nicht gut aus für sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130601",
+      "en": "Schon okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130606",
+      "en": "Ich nehme keine Bezahlung an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130607",
+      "en": "Ich tu's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130608",
+      "en": "Vergessen Sie's. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130612",
+      "en": "Warum ich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130613",
+      "en": "Das Lösegeld nachverfolgen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130614",
+      "en": "Entführer",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130615",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130619",
+      "en": "Sie hätten nicht lügen dürfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130620",
+      "en": "Ich werde nicht gern benutzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130621",
+      "en": "Sie hatte den Tod verdient.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130625",
+      "en": "Ich weiß was Besseres.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130626",
+      "en": "Credits reichen nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130627",
+      "en": "Nicht nötig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130628",
+      "en": "In Ordnung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130629",
+      "en": "Das ist auch besser für Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130638",
+      "en": "Ich traf Ihre Schwester.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130639",
+      "en": "Auf Wiedersehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130640",
+      "en": "Ich kenne die Wahrheit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130641",
+      "en": "Ja, das ist sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130642",
+      "en": "Ich habe sie umgebracht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130645",
+      "en": "Sie wollten, dass Ihre Schwester stirbt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130646",
+      "en": "Moment mal ... Sie wollten, dass Ihre Schwester stirbt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130647",
+      "en": "Sie wollten, dass Ihre Schwester stirbt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130648",
+      "en": "Sie wollten, dass Ihre Schwester stirbt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130649",
+      "en": "Sie wollten, dass Ihre Schwester stirbt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130650",
+      "en": "Sie wollten, dass Ihre Schwester stirbt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130651",
+      "en": "Offensichtlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130652",
+      "en": "Offensichtlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130653",
+      "en": "Offensichtlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130654",
+      "en": "Offensichtlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130655",
+      "en": "Offensichtlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130656",
+      "en": "Bin ich froh, dass Sie nicht meine Schwester sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130657",
+      "en": "Was für eine tödliche Geschwisterrivalität.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130658",
+      "en": "Saubere Familie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130659",
+      "en": "Glücklicherweise sind Sie nicht meine Schwester.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130660",
+      "en": "Glücklicherweise sind Sie nicht meine Schwester.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp110_distress_call_D|136886",
+      "en": "Offenbar gibt es auf dem Planeten unter uns einen aktiven Notsender, Commander. Keine Nachricht, nur ein Ortungssignal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139021",
+      "en": "Danke, dass Sie sich um die Geiselnahme gekümmert haben, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139022",
+      "en": "Der Tod des Vorsitzenden Burns ist bedauerlich, aber Sie haben gewiss alles in Ihrer Macht Stehende getan, um ihn zu retten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139023",
+      "en": "Der Vorsitzende Burns hat Ihre Bemühungen gelobt und sagt, er hätte es Ihnen zu verdanken, dass er noch lebt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139024",
+      "en": "Der Vorsitzende Burns war sehr beeindruckt, wie Sie die Situation auf friedliche Weise gelöst haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139025",
+      "en": "Ihre Hilfe auch außerhalb Ihrer formalen Pflichten wurde zur Kenntnis genommen, Commander. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139026",
+      "en": "Schön, Sie wiederzusehen, Commander. Wir haben ein Problem, bei dem wir Ihre Hilfe benötigen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139027",
+      "en": "Eine Gruppe fanatischer Biotiker hat den Vorsitzenden des Parlamentarischen Unterkomitees für transhumane Studien entführt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139028",
+      "en": "Der Frachter wurde beschädigt und treibt im All. Fliegen Sie dorthin und kümmern Sie sich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139029",
+      "en": "Ich würde es vorziehen, wenn Sie ihn retten, aber wir müssen deutlich machen, dass diese Taktiken nicht ziehen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139030",
+      "en": "Ihre oberste Priorität ist, die Biotiker zu neutralisieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139031",
+      "en": "Die Biotiker wurden beim Beladen des Frachters beobachtet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139032",
+      "en": "Rechnen Sie mit Fallen und Kampfdrohnen. Nichts, womit Sie nicht fertig werden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139033",
+      "en": "Es sind L2-Biotiker, und die meisten leiden unter starken Nebenwirkungen der Implantate.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139034",
+      "en": "Das Unterkomitee des Vorsitzenden hat vor Kurzem entschieden, dass keinem L2-Biotiker eine Entschädigung gewährt wird.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139035",
+      "en": "Offenbar wollen sie, dass es sich der Vorsitzende noch einmal überlegt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139037",
+      "en": "Sie unterstehen jetzt der Citadel-Jurisdiktion, Shepard, aber die Menschen brauchen Sie immer noch. Denken Sie darüber nach. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139038",
+      "en": "Ich weiß das wirklich zu schätzen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139039",
+      "en": "Ich übermittle Ihnen die letzten bekannten Koordinaten des Frachters. Viel Glück. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139046",
+      "en": "Welche Priorität hat die Rettung des Vorsitzenden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139048",
+      "en": "Mit welchem Widerstand muss ich rechnen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139050",
+      "en": "Was wollen die Biotiker?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139053",
+      "en": "Ich habe andere Prioritäten, Admiral. Ich habe keine Zeit für eine Rettungsmission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139055",
+      "en": "Verstanden, Admiral. Ich werde sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139063",
+      "en": "Priorität des Vorsitzenden",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139064",
+      "en": "Stärke des Feindes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139065",
+      "en": "Forderungen der Biotiker. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139066",
+      "en": "Für so was hab ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139067",
+      "en": "Ich kümmere mich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139068",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139070",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139072",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139075",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136497",
+      "en": "Eine Nachricht von den hohen Tieren auf Arcturus. Ich stelle sie durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136498",
+      "en": "Normandy? Hier spricht Admiral Hackett. Wir wurden gewarnt, dass es im skyllianischen Randsektor verstärkt zu Geth-Aktivitäten kommt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136499",
+      "en": "Überwachungsdrohnen haben Geth-Außenposten auf vier verschiedenen Planeten im Armstrong-Cluster entdeckt. Wir brauchen jemanden, der sie ausschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136500",
+      "en": "Das ist schwer zu sagen. Sie könnten einfach nur Informationen über uns sammeln. Oder sie machen sich bereit, um Kolonien der Menschen zu attackieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136501",
+      "en": "Hoffentlich nicht. Wir brauchen jemanden, der dem nachgeht, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136502",
+      "en": "Sie mögen jetzt ein Spectre sein, Shepard, aber Sie sind immer noch Teil der Allianz. Wenden Sie uns jetzt nicht den Rücken zu.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136503",
+      "en": "Saren zu finden bleibt Ihre oberste Priorität, aber Sie haben bereits gegen die Geth gekämpft. Sie sind die logische Wahl, um diese Außenposten auszuschalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136504",
+      "en": "Wir übermitteln die Positionen aller bekannten Geth-Außenposten im Armstrong-Cluster jetzt an die Normandy. Admiral Hackett Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136507",
+      "en": "Wissen wir denn, was sie wollen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136508",
+      "en": "Es könnte die erste Welle einer Invasion sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136510",
+      "en": "Ich kümmere mich darum, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136511",
+      "en": "Es ist weitaus wichtiger, Saren aufzuhalten, als einige Geth-Außenposten zu vernichten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136517",
+      "en": "Gibt es weitere Informationen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136518",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136519",
+      "en": "Verstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136520",
+      "en": "Für so etwas habe ich keine Zeit!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136521",
+      "en": "Oder Schlimmeres.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136522",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136687",
+      "en": "Eine Nachricht von Admiral Hackett, Commander. Ich stelle durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136688",
+      "en": "Wir haben eben Ihren Bericht erhalten. Offenbar waren diese Geth-Aktivitäten doch größer als erwartet. Möglicherweise haben sie sogar eine Großoffensive in diesem System vorbereitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136689",
+      "en": "Wir werden jetzt vermehrt Patrouillen im Armstrong-Cluster fliegen, damit sie sich hier nicht erneut festsetzen können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136690",
+      "en": "Gut gemacht, Shepard. Sie haben bei dieser Mission das Leben vieler Menschen gerettet. Hackett Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131159",
+      "en": "... allgemeiner Notruf ... Medizinischer Transporter Sacred Angel ...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131160",
+      "en": "... kritisches Systemversagen ... verlieren Energie ... Notlandung ... --gos Rho ...  ... wiederhole ... Argos\u00A0...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131161",
+      "en": "Kommunikation fällt aus ... Lebenserhaltung ... Notfalltransponder ... fällt aus ... bitte beeilen Sie sich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131163",
+      "en": "Da ist das Wrack. Aber ich sehe keine Überlebenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131164",
+      "en": "Offenbar kommt das Signal aus diesem Wrack.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131165",
+      "en": "Da ist das abgestürzte Schiff. Das muss der richtige Ort sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131166",
+      "en": "Das Signal kommt aus dem abgestürzten Schiff.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131167",
+      "en": "Da ist das Wrack. Das Signal muss von dort kommen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131168",
+      "en": "Vorsicht, Shepard. Ich habe ein ganz ungutes Gefühl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131169",
+      "en": "Vorsicht, Commander. Ich habe ein ganz ungutes Gefühl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131170",
+      "en": "Vorsicht, Commander. Ich habe ein ganz ungutes Gefühl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131171",
+      "en": "Vorsicht, Commander. Ich habe ein ganz ungutes Gefühl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131172",
+      "en": "Vorsicht, Shepard. Ich habe ein ganz ungutes Gefühl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131174",
+      "en": "Geth! Das ist eine Falle!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131175",
+      "en": "Geth! Das ist eine Falle!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131176",
+      "en": "Geth! Das ist eine Falle!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131177",
+      "en": "Geth! Das ist eine Falle!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131178",
+      "en": "Geth! Das ist eine Falle!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139451",
+      "en": "Da kommt eine Nachricht, Commander. Welch Überraschung - die Allianz braucht Sie erneut.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139452",
+      "en": "Hier spricht Admiral Hackett, Commander. Ihr Pilot hat uns Ihren Bericht über Major Kyle übermittelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139828",
+      "en": "Shepard? Hier spricht Admiral Hackett vom Allianz-Kommando. Wir haben eine Mission für Sie.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139829",
+      "en": "Major Kyle, der auf Torfan Ihr kommandierender Offizier war, hat im Hawking-Eta-Cluster einen kleinen Komplex errichtet und einige biotische Anhänger um sich versammelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139830",
+      "en": "Ein Allianz-Offizier namens Major Kyle hat im Hawking-Eta-Cluster einen kleinen Komplex errichtet und einige biotische Anhänger um sich versammelt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139831",
+      "en": "Er steht der Allianz nun ausgesprochen kritisch gegenüber, und wir glauben, dass er mental instabil geworden ist. Das könnte Ärger geben, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139832",
+      "en": "Vor drei Tagen haben wir zwei Allianz-Abgesandte zu seinem Komplex geschickt. Sie sind verschwunden. Wir gehen davon aus, dass Kyle und seine Anhänger sie ermordet haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139833",
+      "en": "Dieser Komplex ist ein Kult, Shepard. Sie nennen ihn jetzt 'Vater Kyle'. Er hat sich als eine Art religiöser Anführer etabliert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139834",
+      "en": "Er ist nicht mehr derselbe Mann wie der, unter dem Sie gedient haben. Er fühlt sich für alle Allianz-Soldaten, die auf Torfan starben, verantwortlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139835",
+      "en": "Einst war er ein vorbildlicher Soldat. Aber auf Torfan ist irgendetwas mit ihm passiert. Unter seinem Kommando sind zu viele Soldaten gefallen. Er konnte die Schuldgefühle nicht ertragen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139836",
+      "en": "Seine psychischen Auswertungen zeigten, dass er den Stress eines Kommandos nicht länger ertragen konnte. Er bekam einen ehrenvollen Abschied und ging in den vorzeitigen Ruhestand.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139837",
+      "en": "Wir hatten gehofft, dass es sich mit der Zeit bessern würde, aber wir haben unterschätzt, wie sehr ihn das alles mitgenommen hat. Und jetzt scheint es zu spät zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139838",
+      "en": "Ja. Aber Major Kyle selbst hat nie irgendwelche biotischen Tendenzen gezeigt. Ich glaube, er schloss sich nur einer Gruppe an, mit der er sich identifiziert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139839",
+      "en": "Viele Biotiker fühlen sich von der Gesellschaft nicht anerkannt oder ausgegrenzt. Kyle sieht sie wahrscheinlich als Opfer, die seinen Schutz brauchen. Und sie sehen ihn als jemanden an, der sich für sie einsetzt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139840",
+      "en": "Allerdings hat er sie leider davon überzeugen können, dass die Allianz irgendwie für all ihre Probleme verantwortlich ist. Das können wir nicht zulassen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139841",
+      "en": "Sie wollten ihn in eine Allianz-Anlage bringen, wo er behandelt werden sollte. Major Kyle hat uns viele Jahre treu gedient. Wir wollten ihn nicht aufgeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139842",
+      "en": "Aber angesichts seines Geisteszustands hat er sie wohl als Bedrohung angesehen. Wir sind uns ziemlich sicher, dass seine Anhänger sie getötet haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139843",
+      "en": "Sie haben mit ihm gedient, vielleicht hört er auf Sie. Aber er hat bereits zwei Allianz-Abgesandte getötet. Ich überlasse die Sache Ihrem Urteilsvermögen. Hackett Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139844",
+      "en": "Das ist vielleicht nicht möglich, Commander. Wir wollen kein Blutbad, aber Kyle ist gefährlich. Ich überlasse die Sache Ihrem Urteilsvermögen. Hackett Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139845",
+      "en": "Wir wollen nicht, dass es in ein Massaker ausartet, Commander, aber Kyle ist gefährlich. Ich überlasse die Sache Ihrem Urteilsvermögen. Hackett Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139846",
+      "en": "Wir wollten zwar keine zivilen Verluste, aber uns war wohl allen klar, wie das enden würde. Mir ist klar, dass Sie getan haben, was getan werden musste.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139847",
+      "en": "Diese Geschichte landet bestimmt in den Nachrichten, aber wir werden Ihre Namen da raushalten, Shepard. Hackett Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139848",
+      "en": "Wir haben wie abgemacht ein Team hingeschickt. Kyles Anhänger zerstreuten sich, und der Major hat sich widerstandslos ergeben. Wir werden dafür sorgen, dass er die benötigte Hilfe erhält.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139849",
+      "en": "Ich hatte damit gerechnet, dass die Sache in einem Blutbad endet. Ich weiß nicht, wie Ihnen das gelungen ist, Commander, aber Sie haben viele Leben gerettet. Meinen Glückwunsch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139854",
+      "en": "Welchen Beweis haben Sie dafür, dass der Major gefährlich ist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139855",
+      "en": "Ich sehe mir die Sache mal an.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139858",
+      "en": "Was können Sie mir noch über Major Kyle sagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139862",
+      "en": "Sie sagten, seine Anhänger seien Biotiker?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139865",
+      "en": "Worüber wollten diese Allianz-Abgesandten mit Major Kyle reden?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139867",
+      "en": "Ich werde mich um Major Kyle kümmern, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139868",
+      "en": "Möglicherweise kann ich die Sache gewaltlos beenden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139869",
+      "en": "Wie dauerhaft soll die von Ihnen angestrebte Lösung sein?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139877",
+      "en": "Ist das nicht übertrieben?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139878",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139881",
+      "en": "Major Kyle",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139882",
+      "en": "Kyles Anhänger",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139883",
+      "en": "Vermisste Allianz-Offiziere",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139884",
+      "en": "Ich kümmere mich darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139885",
+      "en": "Zur Vernunft bringen",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139886",
+      "en": "Soll ich ihn töten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141443",
+      "en": "Ich erhielt einige Informationen, die Sie gewiss interessieren werden, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141444",
+      "en": "Ich erhielt einige beunruhigende Informationen, Commander. Wir brauchen Ihre Hilfe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141445",
+      "en": "Jemand bringt frühere Allianz-Wissenschaftler um. Es hat im letzten Monat vier Todesfälle gegeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141446",
+      "en": "Wir haben eine Verbindung gefunden, zwischen den Wissenschaftlern ... und Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141447",
+      "en": "Sie haben alle vor einigen Jahren an einem Geheimprojekt gearbeitet. Auf Akuze.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141448",
+      "en": "Ich bekomme allerdings keine Informationen darüber, woran sie gearbeitet haben. Alle Projektdaten stehen unter Verschluss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141449",
+      "en": "Diese Dreschschlunde haben Dutzende von Soldaten getötet. Wenn das kein Unfall war, müssen wir es wissen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141450",
+      "en": "Commander ... Shepard. Was Sie damit anfangen, liegt ganz bei Ihnen. Ich dachte nur, dass Sie es wissen sollten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141451",
+      "en": "Alle vier Wissenschaftler haben an einem Geheimprojekt auf Akuze gearbeitet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141452",
+      "en": "Dort fand vor einigen Jahren ein brutales Massaker statt. Eine ganze Einheit wurde von Dreschschlunden getötet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141453",
+      "en": "Es wurde als Naturkatastrophe eingestuft, aber die Projektdaten fallen mit den Angriffen zusammen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141454",
+      "en": "Ich weiß nicht genau, was ich davon halten soll. Aber es ist einige Nachforschungen wert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141455",
+      "en": "An dem Projekt war noch ein weiterer Wissenschaftler beteiligt: Dr. Wayne. Ich übermittle Ihnen seine letzten bekannten Koordinaten. Viel Glück. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141456",
+      "en": "Verstanden, Commander. Entschuldigen Sie die Störung. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141459",
+      "en": "Früherer Wissenschaftler? Das klingt, als gäbe es da ein Projekt, das jemand gern geheim halten möchte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141460",
+      "en": "Ich kümmere mich gern darum, Admiral. Was können Sie mir darüber sagen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141462",
+      "en": "Akuze ... Ich habe dort meine ganze Einheit verloren. Wollen Sie andeuten, dass diese Wissenschaftler etwas damit zu tun hatten?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141464",
+      "en": "Das kann nichts mit dem zu tun haben, was mir auf Akuze passiert ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141469",
+      "en": "Denken Sie, diese Wissenschaftler hatten etwas mit dem Angriff zu tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141471",
+      "en": "Das kann kein Zufall sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141472",
+      "en": "Ich habe andere Prioritäten als Wissenschaftler im Ruhestand, Admiral. Suchen Sie sich jemand anders.\n",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141472|m",
+      "en": "Ich habe andere Prioritäten als Wissenschaftler im Ruhestand, Admiral. Suchen Sie sich jemand anderen.\n",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141475",
+      "en": "Klingt nach Vertuschung.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141476",
+      "en": "Woran haben sie gearbeitet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141477",
+      "en": "Was kann ich tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141479",
+      "en": "Diese Bastarde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141480",
+      "en": "Am Ort des Massakers.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141481",
+      "en": "Das muss ein Zufall sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141487",
+      "en": "Sie hatten damit zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141488",
+      "en": "Das klingt verdächtig.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141489",
+      "en": "Für so was hab ich keine Zeit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141768",
+      "en": "Ich habe Ihren Lagebericht gelesen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141771",
+      "en": "Sie haben gut daran getan, den Doktor zu retten. Wir werden wohl nie erfahren, was Toombs dazu getrieben hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141772",
+      "en": "Es ist ausgesprochen traurig, dass sowohl der Doktor als auch Toombs ums Leben kamen, aber ich weiß, dass Sie Ihr Möglichstes getan haben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141773",
+      "en": "Es ist sehr schade, dass Dr. Wayne dabei umgekommen ist. Angesichts Ihres Berichts waren Ihre Taten durchaus verständlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141775",
+      "en": "Ich bin froh, dass Sie Dr. Wayne bei lebendigem Leib festnehmen konnten. Nun können wir ihn vor Gericht stellen und einige Antworten erhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141776",
+      "en": "Ich wünschte nur, wir hätten Corporal Toombs ebenfalls retten können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141777",
+      "en": "Corporal Toombs scheint seinen Frieden gefunden zu haben. Hoffentlich kann ihm die Therapie wieder ein normales Leben ermöglichen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141778",
+      "en": "Hoffentlich hilft Ihnen das auch, etwas Frieden zu finden, Commander. Danke. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141779",
+      "en": "Danke nochmals für Ihre Hilfe, Commander. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141990",
+      "en": "Commander, wir empfangen ein Signal vom Hauptquartier der Fünften Flotte auf der Citadel. Ich stelle es durch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141991",
+      "en": "Commander Shepard. Etwas Unangenehmes ist geschehen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141992",
+      "en": "Während des Erstkontakt-Krieges haben wir zahlreiche Spionagesonden in den turianischen Raum geschickt. Eine von ihnen schickte uns eben die Nachricht: \"Mission ausgeführt\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141993",
+      "en": "Ich habe keine Ahnung. Unterwegs. Diese Sonden wurden nach dem Erstkontakt in aller Eile gefertigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141994",
+      "en": "Als diese Sonden gestartet wurden, wussten wir nicht, mit wem wir es zu tun hatten. Wir wollten nicht riskieren, dass Aliens unsere Technologie untersuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141995",
+      "en": "In der Sonde ist eine Atombombe eingebaut. Ein taktischer Sprengkopf von 20 Kilotonnen. Ungefähr vergleichbar mit der Bombe, die man im 20. Jahrhundert über Hiroshima zündete.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141996",
+      "en": "Wenn jemand diese Sonde findet und damit herumspielt ... ich muss wohl nicht weiterreden, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141997",
+      "en": "Ich weiß. Ich würde Sie auch nicht darum bitten, wenn es nicht wichtig wäre. Diese Sonden sind seit 26 Jahren als geheim eingestuft.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141998",
+      "en": "Der Rat würde Fusionsbomben als \"gefährlich und verantwortungslos\" bezeichnen. Wenn man die Sonde findet, stünde die Allianz in der Kritik.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141999",
+      "en": "Ich bitte Sie, weil die Normandy schnell und leise vor Ort sein kann. Sie müssen in den Voyager-Cluster.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142000",
+      "en": "Ich weiß es nicht. Es ist möglich, dass jemand sie geborgen und dort hingebracht hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142001",
+      "en": "Es könnte auch sein, dass sie sich bloß verflogen hat. Dass sie seit dem Krieg durch das Portalnetzwerk fliegt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142002",
+      "en": "Okay, okay. Ich werde versuchen, jemand anderen für diese Aufgabe zu finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142003",
+      "en": "Das weiß ich zu schätzen, Commander. Viel Glück.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142004",
+      "en": "Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142007",
+      "en": "Und warum ist das so \"unangenehm?\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142008",
+      "en": "Wo ist sie die ganze Zeit gewesen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142009",
+      "en": "Und warum ist das ein Problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142010",
+      "en": "Der Krieg ist vorüber. Welchen Unterschied macht das schon?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142013",
+      "en": "Mir ist klar, dass man sich darum kümmern muss, aber ich habe niemanden, der für so etwas ausgebildet ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142014",
+      "en": "Nur weil ich Eden Prime gerettet habe, bin ich noch lange kein Experte für Nuklearsprengstoffe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142015",
+      "en": "Sollte sich nicht lieber ein Bombenbeseitigungsteam darum kümmern? Wir haben niemanden, der dafür ausgebildet ist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142018",
+      "en": "In den Voyager-Cluster? Das ist von den Turianern aus am anderen Ende des Allianz-Raums. Wie ist sie da hingekommen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142020",
+      "en": "Bis wir unsere aktuelle Mission beendet haben, kann bereits jemand anderes vor Ort sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142022",
+      "en": "Wir fliegen sofort dorthin. Admiral. Und wir gehen diskret vor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142029",
+      "en": "Ziemlich direkt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142030",
+      "en": "Das hat lange gedauert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142031",
+      "en": "Na und?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142032",
+      "en": "Das dürfte doch egal sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142035",
+      "en": "Das ist allerdings ernst.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142036",
+      "en": "Warum ich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142037",
+      "en": "Rufen Sie Bombenbeseitiger.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142040",
+      "en": "Wir kümmern uns darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142041",
+      "en": "Da sollte es nicht sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142042",
+      "en": "Wir sind beschäftigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142043",
+      "en": "Wo ist sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142045",
+      "en": "Wir kümmern uns darum.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp122_distress_D|150479",
+      "en": "Commander - ich empfange ein Signal von der Planetenoberfläche. Scheint ein automatisches Notsignal zu sein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138491",
+      "en": "Eine Nachricht für Sie, Commander. Sie kam eben über den sicheren Kanal rein.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138492",
+      "en": "Shepard, hier spricht Admiral Kahoku. Ich habe herausgefunden, wer meine Männer in die Falle gelockt hat. Die, die vom Dreschschlund getötet wurden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138493",
+      "en": "Verdammt, hoffentlich erhalten Sie diese Nachricht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138494",
+      "en": "Es war eine Gruppe namens Cerberus. Eine Geheimorganisation der Allianz. Streng geheim, allerhöchste Sicherheitsstufe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138495",
+      "en": "Sie verschwanden vor einigen Monaten. Waren einfach weg. Niemand weiß, wo sie hingegangen sind oder was sie vorhaben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138496",
+      "en": "Sie sind völlig durchgedreht, Shepard. Sie führen illegale Experimente durch und versuchen, eine Art Supersoldaten zu erschaffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138497",
+      "en": "Ich habe keine Beweise, aber ich habe die Koordinaten einer ihrer Forschungswelten gefunden. Ich schicke sie Ihnen mit dieser Nachricht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138498",
+      "en": "Sie sind völlig außer Kontrolle. Jemand muss sie aufhalten. Ich habe meinen Teil getan, jetzt liegt es an Ihnen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138499",
+      "en": "Das ... das ist wahrscheinlich meine letzte Nachricht an Sie, Shepard. Cerberus ist hinter mir her. Ich muss verschwinden, bevor sie mich finden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138692",
+      "en": "Wir empfangen eine Transmission, Commander. Das sollten Sie hören.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138693",
+      "en": "Seien Sie gegrüßt, Commander Shepard. Ich repräsentiere eine Gruppe, die gern mehr Informationen über die Aktivitäten von Cerberus hätte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138694",
+      "en": "Wer ich bin ist ohne Belang. Es reicht, wenn Sie wissen, dass ich ein Agent des Shadow Brokers bin.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138695",
+      "en": "Ich vermute, dass ich weniger über Cerberus weiß als Sie. Ich bin bloß ein Agent des Shadow Brokers.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138696",
+      "en": "Wissen Sie, Admiral Kahoku kontaktierte meinen Auftraggeber, weil er Informationen über die Standorte der Cerberus-Stützpunkte suchte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138697",
+      "en": "Wir gaben ihm die Informationen unter der Bedingungen, dass er uns Kopien aller Dateien aus den Cerberus-Systemen aushändigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138698",
+      "en": "Informationen sind unser Geschäft, Commander. Durch unsere Kontakte konnten wir herausfinden, dass die Cerberus-Gruppe im Voyager-Cluster aktiv war.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138699",
+      "en": "Leider konnten wir nicht mehr in Erfahrung bringen. Darum sind wir auch so interessiert daran, die Kopien der Dateien von Ihnen zu erhalten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138700",
+      "en": "Wir hatten keinen Grund, ihm zu schaden. Er wollte uns mit Informationen über Cerberus versorgen. Informationen, die nun in Ihrem Besitz sind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138701",
+      "en": "Seien Sie vernünftig, Commander. Cerberus operierte außerhalb der Zuständigkeit der Allianz. Sie schulden ihnen keine Loyalität.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138702",
+      "en": "Die Allianz wird diese Informationen einfach in einem Archiv verschwinden lassen. Aber kein Geheimnis bleibt ewig geheim. Letztendlich wird es irgendjemand irgendwann in unsere Hände geben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138703",
+      "en": "Das können genauso gut Sie tun. Geben Sie uns die Dateien, dann werden Sie entschädigt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138704",
+      "en": "Informationen sind eine Ware. Sie können ver- und gekauft oder eingetauscht werden. Es geht mich nichts an, was mein Auftraggeber damit vorhat. Ich bin nur der Käufer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138705",
+      "en": "Jammerschade, Commander. Mein Arbeitgeber wird das nicht vergessen haben, wenn Sie das nächste Mal etwas von uns wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138706",
+      "en": "Ich wusste, dass Sie eine vernünftige Frau sind, Commander. Mein Arbeitgeber wird das nicht vergessen, wenn Sie das nächste Mal etwas von uns wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138707",
+      "en": "Ich wusste, dass Sie ein vernünftiger Mann sind, Commander. Mein Arbeitgeber wird das nicht vergessen, wenn Sie das nächste Mal etwas von uns wollen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138709",
+      "en": "Wer sind Sie? Und wen repräsentieren Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138711",
+      "en": "Wenn Sie etwas über Cerberus wissen, dann sollten Sie es mir lieber sagen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138714",
+      "en": "Sie müssen Verbindungen zu Cerberus haben, wenn Sie Kahoku sagen konnten, wo er sie finden kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138716",
+      "en": "Hatten Sie irgendetwas mit Kahokus Tod zu tun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138717",
+      "en": "Das sind geheime Allianz-Dateien. Ich werde sie Ihnen nicht übergeben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138719",
+      "en": "Sie hatten einen Deal mit Kahoku. Warum sollte ich Ihnen helfen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138721",
+      "en": "Was haben Sie mit diesen Informationen vor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138722",
+      "en": "Meine Loyalität gilt der Allianz, nicht dem Shadow Broker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138723",
+      "en": "Sie kriegen die Dateien.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138725",
+      "en": "Wie war Ihr Name?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138726",
+      "en": "Was wollen Sie?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138727",
+      "en": "Kommen Sie zur Sache.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138731",
+      "en": "Standort des Stützpunkts",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138732",
+      "en": "Kahokus Tod",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138733",
+      "en": "Das ist Verrat!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138734",
+      "en": "Vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138735",
+      "en": "Was springt für mich raus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138737",
+      "en": "Vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138738",
+      "en": "Vergessen Sie's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138741",
+      "en": "Was wollen Sie mit den Dateien?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138742",
+      "en": "Ich vertraue Ihnen nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138743",
+      "en": "Kommt nicht in Frage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138744",
+      "en": "Klingt gut. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138745",
+      "en": "Kommt nicht in Frage.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139457",
+      "en": "Ich bin froh, dass Sie in der Gegend waren, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139458",
+      "en": "Wir haben einen Notfall, und Sie sind der Einzige, dem ich diesen Job anvertrauen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139460",
+      "en": "Wie kann ich helfen, Admiral?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139461",
+      "en": "Tut mir leid, Admiral, aber ich habe im Moment zu viel zu tun.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139463",
+      "en": "Was ist los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139464",
+      "en": "Ich bin dabei.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139465",
+      "en": "Ich kann nicht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139725",
+      "en": "Ich hätte nicht gedacht, dass Sie das schaffen, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139726",
+      "en": "Sie konnten die Basis sichern und die Biotiker neutralisieren, ohne dass es zivile Verluste gab.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139727",
+      "en": "Ich wünschte, jeder Soldat hätte Ihre Auffassung von \"Ich mache nur meinen Job\".",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139728",
+      "en": "Das wird er.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139729",
+      "en": "Sie sind es wahrlich wert, diese Uniform zu tragen, Shepard. Wir stehen in Ihrer Schuld. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139730",
+      "en": "Gute Arbeit, Commander. Sie haben die Biotiker mit minimalem Kollateralschaden ausgeschaltet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139731",
+      "en": "Die Biotiker hatten jeden Vorteil, darunter auch menschliche Schilde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139732",
+      "en": "Sie haben eine Handvoll Zivilisten verloren. Jede andere Einheit hätte Dutzende Unschuldiger abschreiben müssen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139733",
+      "en": "Niemand hätte da rauskommen können, ohne einige Unschuldige zu opfern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139734",
+      "en": "Sie haben eine Menge Leben gerettet, Commander. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139735",
+      "en": "Was zum Teufel ist da draußen passiert, Commander? Sie flogen da hin, um ein Blutbad zu vermeiden!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139736",
+      "en": "Sie waren schon in schwereren Situationen. Man hat immer eine Wahl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139737",
+      "en": "Ihnen wird absolut nichts vorgeworfen. Die Neutralisation der Biotiker hatte oberste Priorität.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139738",
+      "en": "Ich hatte gehofft, dass es weniger Opfer gibt, aber auf dem Papier ist die Mission trotz allem ein Erfolg.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139739",
+      "en": "Ihre Hilfe in dieser Angelegenheit wurde zur Kenntnis genommen, Commander. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139740",
+      "en": "Verdammt! Ich bitte Sie nicht darum, weil es mir gerade so passt! Das kann niemand sonst erledigen!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139741",
+      "en": "Ich kann es Ihnen nicht befehlen, aber ich flehe Sie an, es sich noch einmal zu überlegen. Wenn Sie uns nicht helfen, müssen Hunderte Unschuldiger sterben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139742",
+      "en": "Danke, Commander. Ich weiß das zu schätzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139743",
+      "en": "Biotische Fanatiker haben eine medizinische Forschungsstation mit einer psychotropischen Droge angegriffen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139744",
+      "en": "Die Drogen haben die Forscher vorübergehend verrückt gemacht, und die Biotiker nutzen sie nun als menschliche Schilde.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139745",
+      "en": "Genau. ein normales Team würde mit den Biotikern fertig, aber dann würden bei der Operation viele Forscher ihr Leben verlieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139746",
+      "en": "Darum habe ich an Sie gedacht. Ich hoffe, dass Sie die Verluste minimal halten können.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139747",
+      "en": "Ich weiß, dass Sie das tun werden, Commander. Ich schicke Ihnen jetzt die Koordinaten der Station, Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139748",
+      "en": "Verstehe, Commander. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139751",
+      "en": "Ich mache nur meinen Job, Admiral. Ich wollte keine Unschuldigen opfern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139753",
+      "en": "Jeder biotische Extremist wird es sich zweimal überlegen, bevor er so etwas erneut versucht.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139755",
+      "en": "Ich habe heute Unschuldige getötet, Admiral. Die Biotiker haben es angezettelt, aber ich habe den Abzug gedrückt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139758",
+      "en": "Ich bedauere, dass wir einige Forscher verloren haben, Admiral. Die Biotiker wussten, was sie taten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139760",
+      "en": "Die Biotiker hatten die Forscher an strategischen Punkten platziert, Admiral. ich hatte keine andere Wahl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139762",
+      "en": "Ich tat, was ich konnte, aber es war nicht genug. Ich übernehme die volle Verantwortung, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139766",
+      "en": "Wenn es so wichtig ist, nehme ich mir die Zeit. Was ist los?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139769",
+      "en": "Wenn ich auf alles schieße, was sich bewegt, müssen also viele Forscher sterben.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139771",
+      "en": "Ich werde mich um die Biotiker kümmern, Admiral, und versuchen, die Verluste zu minimieren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139772",
+      "en": "Ich tue alles, was in meiner Macht steht, um diese Forscher zu retten, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139773",
+      "en": "Und wenn ich Ihnen helfe, könnten Millionen sterben. Tut mir leid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139776",
+      "en": "Schön, dass ich helfen konnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139777",
+      "en": "Das war kein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139778",
+      "en": "Ich tat, was getan werden musste.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139781",
+      "en": "Die Biotiker machten's schwer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139782",
+      "en": "Das war meine Schuld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139783",
+      "en": "Ich tat, was ich konnte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139787",
+      "en": "Ich hatte keine Wahl.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139788",
+      "en": "Es war nicht meine Schuld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139789",
+      "en": "Ich habe versagt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139794",
+      "en": "Ich werde helfen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139795",
+      "en": "Ich bin ganz Ohr.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139796",
+      "en": "Das ist nicht mein Problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139799",
+      "en": "Ich kann da nicht reinstürmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139800",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139801",
+      "en": "Verstanden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139802",
+      "en": "Sie können auf mich zählen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139804",
+      "en": "Mal sehen, was ich tun kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142222",
+      "en": "Commander, die Tatsache, dass Sie diesen Vertrag ausgehandelt haben, ist ... beeindruckend.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142223",
+      "en": "Ich muss gestehen, dass ich angesichts Ihrer früheren Taten mit einem anderen Ergebnis gerechnet hatte, aber die Allianz wird sich an den Vertrag halten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142224",
+      "en": "Ich bedauere, dass Sie mit Darius nicht auf friedliche Weise verhandeln konnten. Sein Tod ist höchst bedauerlich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142225",
+      "en": "Dennoch wird das daraus resultierende Chaos ein Machtvakuum entstehen lassen, das weitere Überfälle auf unsere Bergarbeiter unwahrscheinlich werden lässt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142226",
+      "en": "Zuweilen muss man zu extremen Mitteln greifen, um die Sicherheit der Menschheit zu gewährleisten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142227",
+      "en": "Oder dachten Sie, Sie wären der Einzige, der bereit ist, die Regeln zu brechen, um seine Mission zu erfüllen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142228",
+      "en": "Die Allianz kann Mord nicht gutheißen. Wir hätten Ihnen nie einen solchen Befehl erteilt.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142229",
+      "en": "Und es hat sich ja herausgestellt, dass eine friedliche Verhandlung durchaus möglich war. Das ist fraglich.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142230",
+      "en": "Darius zu töten war allein Ihre Entscheidung. Und da Sie ein Spectre sind, könnten wir Sie nicht einmal zur Rechenschaft ziehen, wenn wir es wollten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142231",
+      "en": "Danke für Ihre Hilfe in dieser Angelegenheit, Commander. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142232",
+      "en": "Ich habe einen schweren Auftrag für Sie, Commander. Sie sind der Einzige, der das vollbringen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142233",
+      "en": "Im skyllianischen Randsektor gibt es einen mächtigen Kriminellen namens Darius, der den Großteil der Aktivitäten dort kontrolliert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142234",
+      "en": "Ich möchte, dass Sie mit ihm einen Waffenstillstand aushandeln.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142235",
+      "en": "Darius würde einen Unterhändler der Allianz nicht respektieren. Er hat sein Imperium aufgebaut, indem er seine Rivalen beseitigt hat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142236",
+      "en": "Genau aus diesem Grund habe ich Sie ausgewählt, Commander. Darius ist ein Krieger. Er würde einen Unterhändler der Allianz nicht ernst nehmen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142237",
+      "en": "Aber bei all dem, was Sie vollbracht haben, sind Sie eine Persönlichkeit, die Darius ernst nehmen muss.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142238",
+      "en": "Zeigen Sie ihm, dass die Allianz nicht nachgibt. Zeigen Sie ihm, dass er lieber mit uns Frieden schließen sollte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142239",
+      "en": "Hervorragend, Commander. Ich weiß Ihre Hilfe zu schätzen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142240",
+      "en": "Sie unterstehen nicht meinem Kommando, aber ... wir brauchen Sie für diesen Job, Commander. Sie sind der Einzige, der das richtig machen kann.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142241",
+      "en": "Das Treffen findet auf einem abgelegenen öden Planeten statt. Ich übermittle Ihnen jetzt die Koordinaten.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142242",
+      "en": "Sie erhalten auch alle Hintergrundinformationen für die Verhandlungen. Fünfte Flotte Ende.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142246",
+      "en": "Sie haben nicht damit gerechnet, dass ich mit ihm verhandle. Wollten Sie, dass ich ihn töte?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142249",
+      "en": "Sie haben Darius mächtig gemacht, aber er wurde zu gierig. Sie wollten, dass ich ihn töte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142255",
+      "en": "Würde sich ein Unterhändler der Allianz nicht besser für diese Aufgabe eignen?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142257",
+      "en": "Sie machen Witze. Admiral, ich bin die letzte Person, die einen Waffenstillstand aushandeln sollte.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142260",
+      "en": "Wenn Sie das für eine gute Idee halten, gebe ich mir Mühe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142262",
+      "en": "Ich halte das für einen Fehler, Admiral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142267",
+      "en": "Das war abgekartert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142269",
+      "en": "Das war abgekartert.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142270",
+      "en": "Moment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142271",
+      "en": "Darius war Ihr schmutziges Geheimnis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142279",
+      "en": "Sind Sie sicher?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142280",
+      "en": "Warum ich?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142281",
+      "en": "Das ist ein schlechter Witz.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142285",
+      "en": "Ich werd's versuchen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142286",
+      "en": "Wenn Sie meinen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142287",
+      "en": "Das ist eine schlechte Idee.",
+      "tr": ""
+    }
+  ]
+}
