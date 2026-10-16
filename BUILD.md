@@ -21,3 +21,11 @@ Build core (use the full path to the local dotnet, PATH override is not picked u
 
 Oodle: loaded from the game's Binaries\Win64\oo2core_8_win64.dll (override with env ME1_OODLE). Import refuses an --out inside --src.
 JSON: {meta, entries:[{key,en,tr}]}, key = `<pkg stem w/o _INT>|<tlk set path>|<stringId>[|m]`; `|m` entries only where tlk_M differs from tlk. Empty tr = keep original.
+
+## Staging, install, uninstall (PowerShell; install/uninstall are dry-run unless -Apply)
+
+    scripts\build-staging.ps1 -Json translated -Staging staging [-Pkgs DE|INT] [-Target DE[,INT]]   # patched pcc + updated PCConsoleTOC.bin
+    scripts\install.ps1 [-Apply]      # backs up originals once to backup\original (SHA-256 manifest), then copies staging into BioGame
+    scripts\uninstall.ps1 [-Apply]    # restores from the manifest, verifying hashes
+    tools\dotnet10\dotnet.exe $T toc --toc <PCConsoleTOC.bin> --staged <dir> --out <new TOC>   # TOC = 9112 entries, resave is byte-identical
+    python tools\mapping.py           # INT<->DE mapping report -> docs/mapping-report.md, data/mapping-report.json

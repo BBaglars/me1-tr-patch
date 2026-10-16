@@ -25,6 +25,7 @@ switch (args[0])
     case "export": return Export(args);
     case "import": return Import(args);
     case "inspect": return Inspect(args);
+    case "toc": return Toc(args);
     default: Usage(); return 1;
 }
 
@@ -44,7 +45,10 @@ static void Usage()
   import  --src <dir with original packages> --json <dir with translated JSON> --out <staging dir>
           [--pkgs DE|INT] [--target DE[,INT]] [--only <substr>]
           Opens COPIES of <src>/<stem>_<pkgs>.pcc, writes tr into the tlk_<target>/tlk_M_<target> exports (default DE), saves to <out>.
-  inspect <package.pcc>   Lists BioTlkFile exports.");
+  inspect <package.pcc>   Lists BioTlkFile exports.
+  toc     --toc <original PCConsoleTOC.bin> --staged <dir with patched packages> --out <new PCConsoleTOC.bin>
+          Copies the TOC, setting the size of every entry whose file name exists in <staged> to that file's length.
+          With no --staged, only checks that the TOC re-serializes byte-identical.");
 }
 
 static JsonSerializerOptions JOpts() => new() { WriteIndented = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping };
@@ -236,4 +240,34 @@ static int Inspect(string[] a)
         Console.WriteLine($"{e.UIndex} {e.InstancedFullPath} refs={t.StringRefs.Count} first={f?.StringID} [{f?.Data}]");
     }
     return 0;
+}
+
+static int Toc(string[] a)
+{
+    string toc = Arg(a, "--toc"), staged = Arg(a, "--staged"), outp = Arg(a, "--out");
+    if (toc == null) { Usage(); return 1; }
+    var orig = File.ReadAllBytes(toc);
+    var tbf = new LegendaryExplorerCore.Unreal.TOCBinFile(toc);
+    if (staged == null)
+    {
+        var re = tbf.Save().ToArray();
+        Console.WriteLine($"entries={tbf.GetAllEntries().Count} identicalAfterResave={re.AsSpan().SequenceEqual(orig)} (orig {orig.Length}, resaved {re.Length})");
+        return 0;
+    }
+    if (outp == null) { Usage(); return 1; }
+    var files = Directory.GetFiles(staged).ToDictionary(f => Path.GetFileName(f), f => new FileInfo(f).Length, StringComparer.OrdinalIgnoreCase);
+    int changed = 0, same = 0, notInToc = 0;
+    var seen = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+    foreach (var e in tbf.GetAllEntries())
+    {
+        var n = Path.GetFileName(e.name.Replace((char)92, '/'));
+        if (!files.TryGetValue(n, out var len)) continue;
+        seen.Add(n);
+        if (e.size == (int)len) same++; else { Console.WriteLine($"  {e.name}: {e.size} -> {len}"); e.size = (int)len; changed++; }
+    }
+    foreach (var f in files.Keys) if (!seen.Contains(f)) { notInToc++; Console.Error.WriteLine($"  warning: {f} has no TOC entry"); }
+    Directory.CreateDirectory(Path.GetDirectoryName(Path.GetFullPath(outp))!);
+    File.WriteAllBytes(outp, tbf.Save().ToArray());
+    Console.WriteLine($"TOC written: sizeChanged={changed} sizeUnchanged={same} stagedFilesWithoutEntry={notInToc}");
+    return notInToc > 0 ? 3 : 0;
 }
