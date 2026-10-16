@@ -9,7 +9,7 @@
   {
    "key": "u18891",
    "en": "Nassana Dantius has hired you to rescue her sister Dahlia from a mercenary group working out in the Artemis Tau Cluster.",
-   "tr": "",
+   "tr": "Nassana Dantius, kız kardeşi Dahlia'yı Artemis Tau Kümesi'nde faaliyet gösteren bir paralı asker grubundan kurtarmanız için sizi tuttu.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u18892",
    "en": "Go to the Macedon System in the Artemis Tau cluster and infiltrate the mercenary base.",
-   "tr": "",
+   "tr": "Artemis Tau kümesindeki Macedon Sistemi'ne gidin ve paralı asker üssüne sızın.",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u18893",
    "en": "Find Dahlia",
-   "tr": "",
+   "tr": "Dahlia'yı Bul",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u18894",
    "en": "Go to the Embassy Lounge on the Presidium level of the Citadel and tell Nassana Dantius that her sister Dahlia is dead.",
-   "tr": "",
+   "tr": "Citadel'in Presidium katındaki Büyükelçilik Salonu'na gidin ve Nassana Dantius'a kız kardeşi Dahlia'nın öldüğünü söyleyin.",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u18895",
    "en": "Inform Nassana",
-   "tr": "",
+   "tr": "Nassana'yı Bilgilendir",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u18896",
    "en": "You informed Nassana Dantius that Dahlia was dead. With her blackmailing sister out of the way, Nassana can now look forward to a long and promising political career.",
-   "tr": "",
+   "tr": "Nassana Dantius'a Dahlia'nın öldüğünü bildirdiniz. Şantajcı kız kardeşi yolundan çekildiğine göre Nassana artık uzun ve gelecek vaat eden bir siyasi kariyeri bekleyebilir.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u18897",
    "en": "You've received a distress call from a downed med ship located in the Hydra System of the Argos Rho Cluster.",
-   "tr": "",
+   "tr": "Argos Rho Kümesi'ndeki Hydra Sistemi'nde düşmüş bir sağlık gemisinden imdat çağrısı aldınız.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u18898",
    "en": "The distress call from the downed med ship turned out to be a trap set by the geth. Fortunately, you were able to survive the ambush.",
-   "tr": "",
+   "tr": "Düşen sağlık gemisinden gelen imdat çağrısının geth'lerin kurduğu bir tuzak olduğu ortaya çıktı. Neyse ki pusudan sağ çıkmayı başardınız.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u18899",
    "en": "Profile Reconstruction",
-   "tr": "",
+   "tr": "Profil Yeniden Oluşturma",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u18900",
    "en": "Quick Character",
-   "tr": "",
+   "tr": "Hızlı Karakter",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u18901",
    "en": "Enter New ID",
-   "tr": "",
+   "tr": "Yeni Kimlik Gir",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u18902",
    "en": "Start New Career",
-   "tr": "",
+   "tr": "Yeni Kariyere Başla",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u18903",
    "en": "Achievements",
-   "tr": "",
+   "tr": "Başarımlar",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u18904",
    "en": "Credits",
-   "tr": "",
+   "tr": "Emek Verenler",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u18905",
    "en": "New Career",
-   "tr": "",
+   "tr": "Yeni Kariyer",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u18906",
    "en": "Delete Career",
-   "tr": "",
+   "tr": "Kariyeri Sil",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u18907",
    "en": "Resume",
-   "tr": "",
+   "tr": "Devam Et",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u18908",
    "en": "Character Select",
-   "tr": "",
+   "tr": "Karakter Seç",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u18909",
    "en": "Time Played:",
-   "tr": "",
+   "tr": "Oynama Süresi:",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u18910",
    "en": "Last Played:",
-   "tr": "",
+   "tr": "Son Oynanma:",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u18911",
    "en": "Commander Shepard",
-   "tr": "",
+   "tr": "Komutan Shepard",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u18912",
    "en": "Mark as Current",
-   "tr": "",
+   "tr": "Geçerli Olarak İşaretle",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u18913",
    "en": "Sort by Name",
-   "tr": "",
+   "tr": "İsme Göre Sırala",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u18914",
    "en": "Sort by Newest",
-   "tr": "",
+   "tr": "En Yeniye Göre Sırala",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u18915",
    "en": "Sort by Oldest",
-   "tr": "",
+   "tr": "En Eskiye Göre Sırala",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u18916",
    "en": "View Entries",
-   "tr": "",
+   "tr": "Kayıtları Görüntüle",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u18917",
    "en": "Experience",
-   "tr": "",
+   "tr": "Tecrübe",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u18918",
    "en": "Richard L. Jenkins",
-   "tr": "",
+   "tr": "Richard L. Jenkins",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u18919",
    "en": "Ashley",
-   "tr": "",
+   "tr": "Ashley",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u18920",
    "en": "Kaidan",
-   "tr": "",
+   "tr": "Kaidan",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u18921",
    "en": "Liara",
-   "tr": "",
+   "tr": "Liara",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u18922",
    "en": "Wrex",
-   "tr": "",
+   "tr": "Wrex",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u18923",
    "en": "Garrus",
-   "tr": "",
+   "tr": "Garrus",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u18924",
    "en": "Tali",
-   "tr": "",
+   "tr": "Tali",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u18925",
    "en": "Jenkins",
-   "tr": "",
+   "tr": "Jenkins",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u18926",
    "en": "Damage Per Second",
-   "tr": "",
+   "tr": "Saniyedeki Hasar",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u18927",
    "en": "Range",
-   "tr": "",
+   "tr": "Menzil",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u18928",
    "en": "Accuracy Rating",
-   "tr": "",
+   "tr": "İsabet Oranı",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u18929",
    "en": "Damage Protection",
-   "tr": "",
+   "tr": "Hasar Koruması",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u18930",
    "en": "Tech/Biotic Protection",
-   "tr": "",
+   "tr": "Teknoloji/Biyotik Koruması",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u18931",
    "en": "Shields",
-   "tr": "",
+   "tr": "Kalkanlar",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u18932",
    "en": "Duration Bonus",
-   "tr": "",
+   "tr": "Süre Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u18933",
    "en": "Power Bonus",
-   "tr": "",
+   "tr": "Güç Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u18934",
    "en": "Cooldown Bonus",
-   "tr": "",
+   "tr": "Bekleme Süresi Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u18935",
    "en": "Shield Bonus",
-   "tr": "",
+   "tr": "Kalkan Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u18936",
    "en": "Tech Cooldown Bonus",
-   "tr": "",
+   "tr": "Teknoloji Bekleme Süresi Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u18937",
    "en": "Med Recharge Bonus",
-   "tr": "",
+   "tr": "Medi Dolum Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u18938",
    "en": "[empty]",
-   "tr": "",
+   "tr": "[empty]",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u18939",
    "en": "Health",
-   "tr": "",
+   "tr": "Sağlık",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u18940",
    "en": "Log entries indicate the research team discovered something in the nearby excavation site. Go there and find out what happened.",
-   "tr": "",
+   "tr": "Kayıt girdileri, araştırma ekibinin yakındaki kazı alanında bir şey keşfettiğini gösteriyor. Oraya gidin ve neler olduğunu öğrenin.",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u18941",
    "en": "Explore Excavation Site",
-   "tr": "",
+   "tr": "Kazı Alanını Keşfet",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u18942",
    "en": "Exahertz Processor Gear",
-   "tr": "",
+   "tr": "Exahertz İşlemci Donanımı",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u18943",
    "en": "MM Stabilizer Gear",
-   "tr": "",
+   "tr": "MM Dengeleyici Donanımı",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u18944",
    "en": "Electrical Boost Gear",
-   "tr": "",
+   "tr": "Elektrik Güçlendirici Donanımı",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u18945",
    "en": "Genetics Database Gear",
-   "tr": "",
+   "tr": "Genetik Veri Tabanı Donanımı",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u18946",
    "en": "Trojan Horse Gear",
-   "tr": "",
+   "tr": "Truva Atı Donanımı",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u18947",
    "en": "Resources",
-   "tr": "",
+   "tr": "Kaynaklar",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u18948",
    "en": "Husk",
-   "tr": "",
+   "tr": "Husk",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u18949",
    "en": "Thorian Creeper",
-   "tr": "",
+   "tr": "Thorian Sarmaşığı",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u18950",
    "en": "Terminus Marine",
-   "tr": "",
+   "tr": "Terminus Denizcisi",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u18951",
    "en": "Terminus Soldier",
-   "tr": "",
+   "tr": "Terminus Askeri",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u18952",
    "en": "Terminus Sniper",
-   "tr": "",
+   "tr": "Terminus Keskin Nişancısı",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u18953",
    "en": "Asari Commando",
-   "tr": "",
+   "tr": "Asari Komando",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u18954",
    "en": "Terminus Adept",
-   "tr": "",
+   "tr": "Terminus Usta",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u18955",
    "en": "Rachni Worker",
-   "tr": "",
+   "tr": "Rachni İşçisi",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u18956",
    "en": "Rachni Soldier",
-   "tr": "",
+   "tr": "Rachni Askeri",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u18957",
    "en": "Citadel: The Fan",
-   "tr": "",
+   "tr": "Citadel: Hayran",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u18958",
    "en": "Gemini Sigma",
-   "tr": "",
+   "tr": "Gemini Sigma",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u18959",
    "en": "Styx Theta",
-   "tr": "",
+   "tr": "Styx Theta",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u18960",
    "en": "Kepler Verge",
-   "tr": "",
+   "tr": "Kepler Verge",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u18961",
    "en": "Hawking Eta",
-   "tr": "",
+   "tr": "Hawking Eta",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u18962",
    "en": "Argos Rho",
-   "tr": "",
+   "tr": "Argos Rho",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u18963",
    "en": "Maroon Sea",
-   "tr": "",
+   "tr": "Maroon Sea",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u18964",
    "en": "Armstrong Nebula",
-   "tr": "",
+   "tr": "Armstrong Bulutsusu",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u18965",
    "en": "Artemis Tau",
-   "tr": "",
+   "tr": "Artemis Tau",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u18966",
    "en": "Voyager Cluster",
-   "tr": "",
+   "tr": "Voyager Kümesi",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u18967",
    "en": "Pangaea Expanse",
-   "tr": "",
+   "tr": "Pangaea Expanse",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u18968",
    "en": "Attican Beta",
-   "tr": "",
+   "tr": "Attican Beta",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u18969",
    "en": "Sentry Omega",
-   "tr": "",
+   "tr": "Sentry Omega",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u18970",
    "en": "Hades Gamma",
-   "tr": "",
+   "tr": "Hades Gamma",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u18971",
    "en": "Horse Head Nebula",
-   "tr": "",
+   "tr": "Horse Head Bulutsusu",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u18972",
    "en": "Exodus Cluster",
-   "tr": "",
+   "tr": "Exodus Kümesi",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u18973",
    "en": "Batarian Annex",
-   "tr": "",
+   "tr": "Batarian Annex",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u18974",
    "en": "Savian Abyssal",
-   "tr": "",
+   "tr": "Savian Abyssal",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u18975",
    "en": "Serpent Nebula",
-   "tr": "",
+   "tr": "Serpent Bulutsusu",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u18976",
    "en": "Milky Way Galaxy",
-   "tr": "",
+   "tr": "Samanyolu Galaksisi",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u18977",
    "en": "Ming",
-   "tr": "",
+   "tr": "Ming",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u18978",
    "en": "Herschel",
-   "tr": "",
+   "tr": "Herschel",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u18979",
    "en": "Han",
-   "tr": "",
+   "tr": "Han",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u18980",
    "en": "Acheron",
-   "tr": "",
+   "tr": "Acheron",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u18981",
    "en": "Erebus",
-   "tr": "",
+   "tr": "Erebus",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u18982",
    "en": "Asteroid Belt",
-   "tr": "",
+   "tr": "Asteroid Belt",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u18983",
    "en": "Corporate investment in the belt dried up when mass effect drive was discovered. The ability to cheaply lift resources into space from habitable worlds made asteroid mining unprofitable in comparison. Iconoclasts and independent miners still settle in the belt.\n\nOrbital Distance: 1.8 to 4.5 AU\nPopulation: 11,000\n",
-   "tr": "",
+   "tr": "Kuşaktaki kurumsal yatırım, kütle etkisi sürücüsünün keşfiyle kurudu. Kaynakları yaşanabilir dünyalardan uzaya ucuza taşıyabilmek, asteroit madenciliğini kıyasla kârsız hale getirdi. Aykırı düşünürler ve bağımsız madenciler hâlâ kuşakta yaşıyor.\n\nYörünge Mesafesi: 1.8 - 4.5 AU\nNüfus: 11,000\n",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u18984",
    "en": "Gorgon",
-   "tr": "",
+   "tr": "Gorgon",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u18985",
    "en": "Styx Theta 15044",
-   "tr": "",
+   "tr": "Styx Theta 15044",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u18986",
    "en": "Newton",
-   "tr": "",
+   "tr": "Newton",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u18987",
    "en": "Kepler Iota 10394",
-   "tr": "",
+   "tr": "Kepler Iota 10394",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u18988",
    "en": "Kepler Iota 10395",
-   "tr": "",
+   "tr": "Kepler Iota 10395",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u18989",
    "en": "Kepler Iota 10396",
-   "tr": "",
+   "tr": "Kepler Iota 10396",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u18990",
    "en": "Century",
-   "tr": "",
+   "tr": "Century",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u18991",
    "en": "Hawking Eta 24410",
-   "tr": "",
+   "tr": "Hawking Eta 24410",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u18992",
    "en": "Phoenix",
-   "tr": "",
+   "tr": "Phoenix",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u18993",
    "en": "Hydra",
-   "tr": "",
+   "tr": "Hydra",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u18994",
    "en": "Argos Rho 20303",
-   "tr": "",
+   "tr": "Argos Rho 20303",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u18995",
    "en": "Argos Rho 20304",
-   "tr": "",
+   "tr": "Argos Rho 20304",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u18996",
    "en": "Vostok",
-   "tr": "",
+   "tr": "Vostok",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u18997",
    "en": "Caspian",
-   "tr": "",
+   "tr": "Caspian",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u18998",
    "en": "Matano",
-   "tr": "",
+   "tr": "Matano",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u18999",
    "en": "Abaddon Upsilon 26706",
-   "tr": "",
+   "tr": "Abaddon Upsilon 26706",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u19000",
    "en": "Gagarin",
-   "tr": "",
+   "tr": "Gagarin",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u19001",
    "en": "Tereshkova",
-   "tr": "",
+   "tr": "Tereshkova",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u19002",
    "en": "Grissom",
-   "tr": "",
+   "tr": "Grissom",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u19003",
    "en": "Vamshi",
-   "tr": "",
+   "tr": "Vamshi",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u19004",
    "en": "Macedon",
-   "tr": "",
+   "tr": "Macedon",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u19005",
    "en": "Athens",
-   "tr": "",
+   "tr": "Athens",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u19006",
    "en": "Sparta",
-   "tr": "",
+   "tr": "Sparta",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u19007",
    "en": "Knossos",
-   "tr": "",
+   "tr": "Knossos",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u19008",
    "en": "Artemis Tau 13096",
-   "tr": "",
+   "tr": "Artemis Tau 13096",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u19009",
    "en": "Amazon",
-   "tr": "",
+   "tr": "Amazon",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u19010",
    "en": "Yangtze",
-   "tr": "",
+   "tr": "Yangtze",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u19011",
    "en": "Columbia",
-   "tr": "",
+   "tr": "Columbia",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u19012",
    "en": "Voyager Xi 18412",
-   "tr": "",
+   "tr": "Voyager Xi 18412",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u19013",
    "en": "Voyager Xi 18413",
-   "tr": "",
+   "tr": "Voyager Xi 18413",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u19014",
    "en": "Refuge",
-   "tr": "",
+   "tr": "Refuge",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u19015",
    "en": "Theseus",
-   "tr": "",
+   "tr": "Theseus",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u19016",
    "en": "Attican Beta 25010",
-   "tr": "",
+   "tr": "Attican Beta 25010",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u19017",
    "en": "Hercules",
-   "tr": "",
+   "tr": "Hercules",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u19018",
    "en": "Attican Beta 25012",
-   "tr": "",
+   "tr": "Attican Beta 25012",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u19019",
    "en": "Attican Beta 25013",
-   "tr": "",
+   "tr": "Attican Beta 25013",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u19020",
    "en": "Hoc",
-   "tr": "",
+   "tr": "Hoc",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u19021",
    "en": "Sentry Omega 25944",
-   "tr": "",
+   "tr": "Sentry Omega 25944",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u19022",
    "en": "Sentry Omega 25945",
-   "tr": "",
+   "tr": "Sentry Omega 25945",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u19023",
    "en": "Ankyra",
-   "tr": "",
+   "tr": "Ankyra",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u19024",
    "en": "Plutus",
-   "tr": "",
+   "tr": "Plutus",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u19025",
    "en": "Dis",
-   "tr": "",
+   "tr": "Dis",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u19026",
    "en": "Farinata",
-   "tr": "",
+   "tr": "Farinata",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u19027",
    "en": "Hades Gamma 12510",
-   "tr": "",
+   "tr": "Hades Gamma 12510",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u19028",
    "en": "Cacus",
-   "tr": "",
+   "tr": "Cacus",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u19029",
    "en": "Antaeus",
-   "tr": "",
+   "tr": "Antaeus",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u19030",
    "en": "Pax",
-   "tr": "",
+   "tr": "Pax",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u19031",
    "en": "Strenuus",
-   "tr": "",
+   "tr": "Strenuus",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u19032",
    "en": "Fortuna",
-   "tr": "",
+   "tr": "Fortuna",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u19033",
    "en": "Palaven System",
-   "tr": "",
+   "tr": "Palaven Sistemi",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u19034",
    "en": "Noveria Omicron 18035",
-   "tr": "",
+   "tr": "Noveria Omicron 18035",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u19035",
    "en": "Hanar Yarstrid 9094",
-   "tr": "",
+   "tr": "Hanar Yarstrid 9094",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u19036",
    "en": "Hanar Yarstrid 9095",
-   "tr": "",
+   "tr": "Hanar Yarstrid 9095",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u19037",
    "en": "Hanar Yarstrid 9096",
-   "tr": "",
+   "tr": "Hanar Yarstrid 9096",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u19038",
    "en": "Utopia",
-   "tr": "",
+   "tr": "Utopia",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u19039",
    "en": "Skyllian Verge",
-   "tr": "",
+   "tr": "Skyllian Verge",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u19040",
    "en": "Hadoram",
-   "tr": "",
+   "tr": "Hadoram",
    "ctx": [
     "Startup"
    ]
