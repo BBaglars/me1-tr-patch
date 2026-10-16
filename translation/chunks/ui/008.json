@@ -9,7 +9,7 @@
   {
    "key": "u19491",
    "en": "Tertiary",
-   "tr": "",
+   "tr": "Üçüncül",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u19492",
    "en": "Set Primary",
-   "tr": "",
+   "tr": "Birincil Yap",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u19493",
    "en": "Set Secondary",
-   "tr": "",
+   "tr": "İkincil Yap",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u19494",
    "en": "Origin",
-   "tr": "",
+   "tr": "Köken",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u19495",
    "en": "Reputation",
-   "tr": "",
+   "tr": "İtibar",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u19496",
    "en": "Select Origin",
-   "tr": "",
+   "tr": "Köken Seç",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u19497",
    "en": "Select Reputation",
-   "tr": "",
+   "tr": "İtibar Seç",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u19498",
    "en": "Head to Noveria to investigate reports of geth on the world.",
-   "tr": "",
+   "tr": "Dünyadaki geth raporlarını araştırmak için Noveria'ya gidin.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u19499",
    "en": "Go To Noveria",
-   "tr": "",
+   "tr": "Noveria'ya Git",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u19500",
    "en": "Investigate Feros to see why the colony was attacked by geth.",
-   "tr": "",
+   "tr": "Kolonin geth'ler tarafından neden saldırıya uğradığını öğrenmek için Feros'u araştırın.",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u19501",
    "en": "Go to Feros",
-   "tr": "",
+   "tr": "Feros'a Git",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u19502",
    "en": "Explore the uncharted worlds of the Artemis Tau cluster to find Liara T'Soni.",
-   "tr": "",
+   "tr": "Liara T'Soni'yi bulmak için Artemis Tau kümesindeki keşfedilmemiş dünyaları keşfedin.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u19503",
    "en": "Go To Artemis Tau",
-   "tr": "",
+   "tr": "Artemis Tau'ya Git",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u19504",
    "en": "Virmire Critical Path",
-   "tr": "",
+   "tr": "Virmire Ana Hat",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u19505",
    "en": "You've received word that a salarian reconnaissance team on Virmire has information about Saren. The message was unclear and the Council fears the team is in danger.",
-   "tr": "",
+   "tr": "Virmire'daki bir salarian keşif ekibinin Saren hakkında bilgisi olduğuna dair haber aldınız. Mesaj belirsizdi ve Konsey ekibin tehlikede olmasından endişe ediyor.",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u19506",
    "en": "Head to Virmire and rendezvous with the salarian team.",
-   "tr": "",
+   "tr": "Virmire'a gidin ve salarian ekibiyle buluşun.",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u19507",
    "en": "Go to Virmire",
-   "tr": "",
+   "tr": "Virmire'a Git",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u19508",
    "en": "Saren and his troops have disappeared into a sealed bunker beneath the surface of Ilos, sealing the doors behind them.",
-   "tr": "",
+   "tr": "Saren ve birlikleri, arkalarındaki kapıları mühürleyerek Ilos'un yüzeyinin altındaki mühürlü bir sığınağa kayboldu.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u19509",
    "en": "Ilos: Find the Conduit",
-   "tr": "",
+   "tr": "Ilos: Conduit'i Bul",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u19510",
    "en": "The Conduit is actually a small mass relay that will let you bypass the Citadel's defenses. Saren and his troops have already gone through; you have to follow them before it's too late.",
-   "tr": "",
+   "tr": "Conduit aslında Citadel'in savunmalarını atlamanızı sağlayacak küçük bir kütle rölesi. Saren ve birlikleri çoktan geçti; çok geç olmadan onları takip etmelisiniz.",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u19511",
    "en": "You need to find a security control room to open the sealed doors leading into the underground archive.",
-   "tr": "",
+   "tr": "Yeraltı arşivine açılan mühürlü kapıları açmak için bir güvenlik kontrol odası bulmanız gerekiyor.",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u19512",
    "en": "Override the Security",
-   "tr": "",
+   "tr": "Güvenliği Atlat",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u19513",
    "en": "The security system is disabled. Return to your vehicle and follow Saren into the underground archives.",
-   "tr": "",
+   "tr": "Güvenlik sistemi devre dışı. Aracınıza dönün ve Saren'i yeraltı arşivlerine kadar takip edin.",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u19514",
    "en": "Enter the Archives",
-   "tr": "",
+   "tr": "Arşivlere Gir",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u19515",
    "en": "Take the Mako and find the AA tower. Disable the guns so the Normandy can land.",
-   "tr": "",
+   "tr": "Mako'yla uçaksavar kulesini bulun. Normandy'nin inebilmesi için silahları devre dışı bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u19516",
    "en": "Disable the AA Tower",
-   "tr": "",
+   "tr": "Uçaksavar Kulesini Devre Dışı Bırak",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u19517",
    "en": "The AA guns are down and the Normandy can land at the salarian camp. Continue on and meet them there.",
-   "tr": "",
+   "tr": "Uçaksavar silahları devre dışı ve Normandy salarian kampına inebilir. İlerleyin ve orada onlarla buluşun.",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u19518",
    "en": "Head to the Salarian Camp",
-   "tr": "",
+   "tr": "Salarian Kampına Git",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u19519",
    "en": "Go to the main geth base. Try to slow the geth defenses.",
-   "tr": "",
+   "tr": "Ana geth üssüne gidin. Geth savunmasını yavaşlatmaya çalışın.",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u19520",
    "en": "Infiltrate Saren's Base",
-   "tr": "",
+   "tr": "Saren'in Üssüne Sız",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u19521",
    "en": "Disable the AA guns so the Normandy can drop off the nuke.",
-   "tr": "",
+   "tr": "Normandy'nin nükleer bombayı bırakabilmesi için uçaksavar silahlarını devre dışı bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u19522",
    "en": "Disable AA Guns",
-   "tr": "",
+   "tr": "Uçaksavar Silahlarını Devre Dışı Bırak",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u19523",
    "en": "Kirrahe's team has destroyed the final AA gun. The Normandy is on its way in. Get the bomb and set it in place.",
-   "tr": "",
+   "tr": "Kirrahe'nin ekibi son uçaksavar silahını yok etti. Normandy yolda. Bombayı alıp yerine yerleştirin.",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u19524",
    "en": "Get the Bomb into Place",
-   "tr": "",
+   "tr": "Bombayı Yerine Yerleştir",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u19525",
    "en": "Kaidan's team is under heavy fire. Head to the second AA tower to provide support while Ashley secures the bomb at the landing pad.",
-   "tr": "",
+   "tr": "Kaidan'ın ekibi yoğun ateş altında. Ashley iniş pistinde bombayı güvence altına alırken destek vermek için ikinci uçaksavar kulesine gidin.",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u19526",
    "en": "Provide Backup for Kaidan",
-   "tr": "",
+   "tr": "Kaidan'a Destek Ver",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u19527",
    "en": "Ashley's team is under heavy fire. Head to the second AA tower to provide support while Kaidan secures the bomb at the landing pad.",
-   "tr": "",
+   "tr": "Ashley'nin ekibi yoğun ateş altında. Kaidan iniş pistinde bombayı güvence altına alırken destek vermek için ikinci uçaksavar kulesine gidin.",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u19528",
    "en": "Provide Backup for Ashley",
-   "tr": "",
+   "tr": "Ashley'ye Destek Ver",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u19529",
    "en": "You've ordered the Normandy back to bomb site. Fight your way there and clear the landing area.",
-   "tr": "",
+   "tr": "Normandy'ye bomba bölgesine dönmesini emrettiniz. Oraya savaşarak ulaşın ve iniş alanını temizleyin.",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u19530",
    "en": "Get back to the Bomb Site",
-   "tr": "",
+   "tr": "Bomba Bölgesine Geri Dön",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u19531",
    "en": "You've ordered the Normandy to pick you up at the AA tower. Fight your way there and clear the landing area.",
-   "tr": "",
+   "tr": "Normandy'ye sizi uçaksavar kulesinden almasını emrettiniz. Oraya savaşarak ulaşın ve iniş alanını temizleyin.",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u19532",
    "en": "Keep Going to the AA Tower",
-   "tr": "",
+   "tr": "Uçaksavar Kulesine Devam Et",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u19533",
    "en": "You found the salarian camp and spoke with their leader, Captain Kirrahe. He's told you that Saren has cured the krogan genophage and is breeding an army of krogan warriors. He and his men are working on a plan to infiltrate the base.",
-   "tr": "",
+   "tr": "Salarian kampını bulup liderleri Kaptan Kirrahe ile konuştunuz. Size Saren'in krogan genophage'ını iyileştirdiğini ve bir krogan savaşçı ordusu yetiştirdiğini söyledi. O ve adamları üsse sızma planı üzerinde çalışıyor.",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u19534",
    "en": "Virmire: Saren's Plan",
-   "tr": "",
+   "tr": "Virmire: Saren'in Planı",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u19535",
    "en": "You destroyed Saren's base at Virmire, but at a terrible cost. Kaidan is dead.\n\nHis sacrifice was not in vain, however. The cure for the krogan genophage was destroyed. Saren's alliance with the Reapers was revealed. And most importantly... you now know that Sovereign is in fact a Reaper itself.",
-   "tr": "",
+   "tr": "Saren'in Virmire'daki üssünü yok ettiniz, ama korkunç bir bedelle. Kaidan öldü.\n\nAncak fedakârlığı boşuna değildi. Krogan genophage'ının tedavisi yok edildi. Saren'in Biçicilerle ittifakı açığa çıktı. Ve en önemlisi... artık Sovereign'ın aslında kendisinin de bir Biçici olduğunu biliyorsunuz.",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u19536",
    "en": "Virmire: Base Destroyed",
-   "tr": "",
+   "tr": "Virmire: Üs Yok Edildi",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u19537",
    "en": "Based on what the refugees told you, the geth are indeed at ExoGeni. Go there to investigate them, and be on the lookout for Lizbeth Baynham, as well.",
-   "tr": "",
+   "tr": "Mültecilerin size anlattıklarına göre geth'ler gerçekten de ExoGeni'de. Onları araştırmak için oraya gidin ve Lizbeth Baynham'a da dikkat edin.",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u19538",
    "en": "Investigate ExoGeni Headquarters",
-   "tr": "",
+   "tr": "ExoGeni Karargâhını Araştır",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u19539",
    "en": "Floor Lamp",
-   "tr": "",
+   "tr": "Ayaklı Lamba",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u19540",
    "en": "Aeroculture Plant Bed",
-   "tr": "",
+   "tr": "Hava Tarımı Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u19541",
    "en": "Upgrade Kit",
-   "tr": "",
+   "tr": "Yükseltme Kiti",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u19542",
    "en": "Anthid Lodge",
-   "tr": "",
+   "tr": "Anthid Lodge",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u19543",
    "en": "Anti-Personnel Mine",
-   "tr": "",
+   "tr": "Piyade Karşıtı Mayın",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u19544",
    "en": "Anti-Vehicle Mine",
-   "tr": "",
+   "tr": "Araç Karşıtı Mayın",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u19545",
    "en": "Financial Services Terminal",
-   "tr": "",
+   "tr": "Mali Hizmetler Terminali",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u19546",
    "en": "Table",
-   "tr": "",
+   "tr": "Masa",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u19547",
    "en": "Bench",
-   "tr": "",
+   "tr": "Bank",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u19548",
    "en": "Fluid Container",
-   "tr": "",
+   "tr": "Sıvı Kabı",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u19549",
    "en": "Bunk Bed",
-   "tr": "",
+   "tr": "Ranza",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u19550",
    "en": "Cargo Container",
-   "tr": "",
+   "tr": "Kargo Konteyneri",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u19551",
    "en": "Stool",
-   "tr": "",
+   "tr": "Tabure",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u19552",
    "en": "Chair",
-   "tr": "",
+   "tr": "Sandalye",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u19553",
    "en": "Terminal",
-   "tr": "",
+   "tr": "Terminal",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u19554",
    "en": "Monitor",
-   "tr": "",
+   "tr": "Monitör",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u19555",
    "en": "Pipe",
-   "tr": "",
+   "tr": "Boru",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u19556",
    "en": "Containment Cell",
-   "tr": "",
+   "tr": "Tutuklama Hücresi",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u19557",
    "en": "Cryo Containment Cell",
-   "tr": "",
+   "tr": "Kriyo Tutuklama Hücresi",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u19558",
    "en": "Fusion Containment Cell",
-   "tr": "",
+   "tr": "Füzyon Tutuklama Hücresi",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u19559",
    "en": "Ion Containment Cell",
-   "tr": "",
+   "tr": "İyon Tutuklama Hücresi",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u19560",
    "en": "Plasma Containment Cell",
-   "tr": "",
+   "tr": "Plazma Tutuklama Hücresi",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u19561",
    "en": "Containment Tank",
-   "tr": "",
+   "tr": "Tutuklama Tankı",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u19562",
    "en": "Cot",
-   "tr": "",
+   "tr": "Portatif Yatak",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u19563",
    "en": "Couch",
-   "tr": "",
+   "tr": "Kanepe",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u19564",
    "en": "Crate",
-   "tr": "",
+   "tr": "Sandık",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u19565",
    "en": "Storage Unit",
-   "tr": "",
+   "tr": "Depolama Birimi",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u19566",
    "en": "Locked Crate",
-   "tr": "",
+   "tr": "Kilitli Sandık",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u19567",
    "en": "Cargo Crate",
-   "tr": "",
+   "tr": "Kargo Sandığı",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u19568",
    "en": "Cup",
-   "tr": "",
+   "tr": "Bardak",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u19569",
    "en": "Debris",
-   "tr": "",
+   "tr": "Enkaz",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u19570",
    "en": "Networked Sensor",
-   "tr": "",
+   "tr": "Ağ Bağlantılı Sensör",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u19571",
    "en": "Demolition Charge",
-   "tr": "",
+   "tr": "Yıkım Yükü",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u19572",
    "en": "Desk",
-   "tr": "",
+   "tr": "Masa",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u19573",
    "en": "Lamp",
-   "tr": "",
+   "tr": "Lamba",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u19574",
    "en": "Satellite",
-   "tr": "",
+   "tr": "Uydu",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u19575",
    "en": "Rotary Drill",
-   "tr": "",
+   "tr": "Döner Matkap",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u19576",
    "en": "Beverage Container",
-   "tr": "",
+   "tr": "İçecek Kabı",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u19577",
    "en": "Escape Pod",
-   "tr": "",
+   "tr": "Kurtarma Kapsülü",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u19578",
    "en": "Fire Containment System",
-   "tr": "",
+   "tr": "Yangın Söndürme Sistemi",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u19579",
    "en": "Food Dispenser",
-   "tr": "",
+   "tr": "Yemek Dağıtıcı",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u19580",
    "en": "Locker",
-   "tr": "",
+   "tr": "Dolap",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u19581",
    "en": "Fuel Tank",
-   "tr": "",
+   "tr": "Yakıt Tankı",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u19582",
    "en": "Gaming Terminal",
-   "tr": "",
+   "tr": "Oyun Terminali",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u19583",
    "en": "Gaming Table",
-   "tr": "",
+   "tr": "Oyun Masası",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u19584",
    "en": "Generator",
-   "tr": "",
+   "tr": "Jeneratör",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u19585",
    "en": "Assault Platform",
-   "tr": "",
+   "tr": "Taarruz Platformu",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u19586",
    "en": "Geth Terminal",
-   "tr": "",
+   "tr": "Geth Terminali",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u19587",
    "en": "Beverage Cylinder",
-   "tr": "",
+   "tr": "İçecek Silindiri",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u19588",
    "en": "Harvester Egg",
-   "tr": "",
+   "tr": "Harvester Yumurtası",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u19589",
    "en": "Keeper Console",
-   "tr": "",
+   "tr": "Keeper Konsolu",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u19590",
    "en": "Lab Equipment",
-   "tr": "",
+   "tr": "Laboratuvar Ekipmanı",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u19591",
    "en": "Server Node",
-   "tr": "",
+   "tr": "Sunucu Düğümü",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u19592",
    "en": "Weapon Locker",
-   "tr": "",
+   "tr": "Silah Dolabı",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u19593",
    "en": "Meal Tray",
-   "tr": "",
+   "tr": "Yemek Tepsisi",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u19594",
    "en": "Mainframe",
-   "tr": "",
+   "tr": "Ana Bilgisayar",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u19595",
    "en": "Robotic Arm",
-   "tr": "",
+   "tr": "Robotik Kol",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u19596",
    "en": "Medical Bed",
-   "tr": "",
+   "tr": "Tıbbi Yatak",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u19597",
    "en": "Diagnostic Station",
-   "tr": "",
+   "tr": "Teşhis İstasyonu",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u19598",
    "en": "Map Terminal",
-   "tr": "",
+   "tr": "Harita Terminali",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u19599",
    "en": "Medical Station",
-   "tr": "",
+   "tr": "Tıbbi İstasyon",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u19600",
    "en": "Computer Console",
-   "tr": "",
+   "tr": "Bilgisayar Konsolu",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u19601",
    "en": "Pallet",
-   "tr": "",
+   "tr": "Palet",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u19602",
    "en": "Pleasure Pod",
-   "tr": "",
+   "tr": "Zevk Kapsülü",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u19603",
    "en": "Service Platform",
-   "tr": "",
+   "tr": "Servis Platformu",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u19604",
    "en": "Power Junction",
-   "tr": "",
+   "tr": "Güç Bağlantı Noktası",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u19605",
    "en": "Ration Pack",
-   "tr": "",
+   "tr": "Erzak Paketi",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u19606",
    "en": "Rachni Egg",
-   "tr": "",
+   "tr": "Rachni Yumurtası",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u19607",
    "en": "Rachni Hive",
-   "tr": "",
+   "tr": "Rachni Kovanı",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u19608",
    "en": "Shelving Unit",
-   "tr": "",
+   "tr": "Raf Ünitesi",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u19609",
    "en": "Sludge Canister",
-   "tr": "",
+   "tr": "Çamur Kutusu",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u19610",
    "en": "Food Supplement",
-   "tr": "",
+   "tr": "Gıda Takviyesi",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u19611",
    "en": "Solar Panel",
-   "tr": "",
+   "tr": "Güneş Paneli",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u19612",
    "en": "Secure Storage Locker",
-   "tr": "",
+   "tr": "Güvenli Depolama Dolabı",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u19613",
    "en": "Barricade",
-   "tr": "",
+   "tr": "Barikat",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u19614",
    "en": "Tire",
-   "tr": "",
+   "tr": "Lastik",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u19615",
    "en": "Tool",
-   "tr": "",
+   "tr": "Alet",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u19616",
    "en": "Defense Turret",
-   "tr": "",
+   "tr": "Savunma Taretti",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u19617",
    "en": "Transmitter Tower",
-   "tr": "",
+   "tr": "Verici Kulesi",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u19618",
    "en": "Vehicle Jack",
-   "tr": "",
+   "tr": "Araç Krikosu",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u19619",
    "en": "VI Terminal",
-   "tr": "",
+   "tr": "VI Terminali",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u19620",
    "en": "Wall Safe",
-   "tr": "",
+   "tr": "Duvar Kasası",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u19621",
    "en": "Disposal Canister",
-   "tr": "",
+   "tr": "İmha Kutusu",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u19622",
    "en": "Due to your covert N7 status, ID records are incomplete. Please confirm identity from the records below, or register manually.",
-   "tr": "",
+   "tr": "Gizli N7 statünüz nedeniyle kimlik kayıtları eksik. Lütfen aşağıdaki kayıtlardan kimliğinizi doğrulayın veya elle kaydolun.",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u19623",
    "en": "John Shepard",
-   "tr": "",
+   "tr": "John Shepard",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u19624",
    "en": "Confirm your ID as CDR. John Shepard, Alliance Marine.",
-   "tr": "",
+   "tr": "Kimliğinizi Komutan John Shepard, İttifak Denizcisi olarak doğrulayın.",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u19625",
    "en": "Manually enter career info and physical stats into the Normandy crew database.",
-   "tr": "",
+   "tr": "Kariyer bilgilerinizi ve fiziksel özelliklerinizi Normandy mürettebat veri tabanına elle girin.",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u19626",
    "en": "Gender",
-   "tr": "",
+   "tr": "Cinsiyet",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u19627",
    "en": "Pre-service History",
-   "tr": "",
+   "tr": "Hizmet Öncesi Geçmiş",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u19628",
    "en": "Psychological Profile",
-   "tr": "",
+   "tr": "Psikolojik Profil",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u19629",
    "en": "Soldier - Combat specialist trained to use a wide variety of weapons and armor, ideal for the front lines of a firefight.",
-   "tr": "",
+   "tr": "Asker - Çok çeşitli silah ve zırhları kullanmak üzere eğitilmiş, çatışmanın ön saflarına ideal bir muharebe uzmanı.",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u19630",
    "en": "Engineer - Technology specialist, skilled at manipulating environment and enemies through decryption and electronics.",
-   "tr": "",
+   "tr": "Mühendis - Şifre çözme ve elektronikle çevreyi ve düşmanları manipüle etmekte yetenekli bir teknoloji uzmanı.",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u19631",
    "en": "Infiltrator - Combat technologist, trained to fight using weapons and armor as well as tech skills.",
-   "tr": "",
+   "tr": "Sızma Uzmanı - Silahlar ve zırhın yanı sıra teknoloji becerileriyle de savaşmak üzere eğitilmiş bir muharebe teknoloğu.",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u19632",
    "en": "Sentinel - Biotic technologist, supporting the squad using biotic powers and tech skills.",
-   "tr": "",
+   "tr": "Nöbetçi - Biyotik güçleri ve teknoloji becerileriyle takıma destek veren bir biyotik teknoloğu.",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u19633",
    "en": "Adept - Biotic specialist, able to manipulate mass effect fields and perform biotic feats quickly and effectively.",
-   "tr": "",
+   "tr": "Usta - Kütle etkisi alanlarını manipüle edip biyotik başarılarını hızlı ve etkili biçimde gerçekleştirebilen bir biyotik uzmanı.",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u19634",
    "en": "Vanguard - Biotic warrior, trained to brutally take down enemies with both weapons and offensive biotics.",
-   "tr": "",
+   "tr": "Öncü - Düşmanları hem silahlarla hem de saldırgan biyotiklerle acımasızca alt etmek üzere eğitilmiş bir biyotik savaşçı.",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u19635",
    "en": "Confirm Primary Training",
-   "tr": "",
+   "tr": "Birincil Eğitimi Onayla",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u19636",
    "en": "Stamina:\nIncreases health\n\nRecommended for:\nSoldier, Vanguard, Engineer",
-   "tr": "",
+   "tr": "Dayanıklılık:\nSağlığı artırır\n\nŞunlar için önerilir:\nAsker, Öncü, Mühendis",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u19637",
    "en": "Focus:\nImproves rate of fire for weapons and abilities by increasing accuracy restoration\n\nRecommended for:\nSentinel, Soldier, Engineer",
-   "tr": "",
+   "tr": "Odak:\nİsabet geri kazanımını artırarak silah ve yeteneklerin atış hızını iyileştirir\n\nŞunlar için önerilir:\nNöbetçi, Asker, Mühendis",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u19638",
    "en": "Coordination:\nIncreases maximum accuracy of all weapons and abilities\n\nRecommended for:\nInfiltrator, Adept, Sentinel",
-   "tr": "",
+   "tr": "Koordinasyon:\nTüm silah ve yeteneklerin azami isabetini artırır\n\nŞunlar için önerilir:\nSızma Uzmanı, Usta, Nöbetçi",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u19639",
    "en": "Precision:\nIncreases damage/duration of all weapons and abilities\n\nRecommended for:\nInfiltrator, Vanguard, Adept",
-   "tr": "",
+   "tr": "Hassasiyet:\nTüm silah ve yeteneklerin hasarını/süresini artırır\n\nŞunlar için önerilir:\nSızma Uzmanı, Öncü, Usta",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u19640",
    "en": "Select Your First Name",
-   "tr": "",
+   "tr": "Adınızı Seçin",
    "ctx": [
     "Startup"
    ]
