@@ -9,7 +9,7 @@
   {
    "key": "u19191",
    "en": "Refugee",
-   "tr": "",
+   "tr": "Mülteci",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u19192",
    "en": "Missions",
-   "tr": "",
+   "tr": "Görevler",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u19193",
    "en": "Assignments",
-   "tr": "",
+   "tr": "Görevlendirmeler",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u19194",
    "en": "Pistols have low recoil and high accuracy and are easy to use while moving. They are only effective at close range and inflict limited damage.",
-   "tr": "",
+   "tr": "Tabancaların geri tepmesi düşük, isabeti yüksektir ve hareket halindeyken kullanımı kolaydır. Yalnızca yakın mesafede etkilidirler ve sınırlı hasar verirler.",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u19195",
    "en": "Shotguns have a slow rate of fire and high recoil, but can inflict massive damage to multiple targets at close range.",
-   "tr": "",
+   "tr": "Pompalı tüfeklerin atış hızı yavaş, geri tepmesi yüksektir; ancak yakın mesafede birden fazla hedefe muazzam hasar verebilirler.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u19196",
    "en": "Assault rifles are the standard armament of most soldiers, offering a good balance between firepower, range, and accuracy.",
-   "tr": "",
+   "tr": "Taarruz tüfekleri çoğu askerin standart silahıdır; atış gücü, menzil ve isabet arasında iyi bir denge sunar.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u19197",
    "en": "Sniper rifles have long range and high accuracy, inflicting significant damage. However, they have a limited rate of fire and are virtually useless at close range.",
-   "tr": "",
+   "tr": "Keskin nişancı tüfeklerinin menzili uzun, isabeti yüksektir ve ciddi hasar verirler. Ancak atış hızları sınırlıdır ve yakın mesafede neredeyse işe yaramazlar.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u19198",
    "en": "The explosive charge of Alliance grenades can be modified in the field to produce a variety of damaging and lethal effects.",
-   "tr": "",
+   "tr": "İttifak el bombalarının patlayıcı yükü, sahada değiştirilerek çeşitli hasar verici ve ölümcül etkiler elde edilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u19199",
    "en": "Amplifiers increase biotic abilities by synchronizing the element zero nodes within the user's central nervous system.",
-   "tr": "",
+   "tr": "Amplifikatörler, kullanıcının merkezi sinir sistemindeki element sıfır düğümlerini senkronize ederek biyotik yetenekleri güçlendirir.",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u19200",
    "en": "Omni-tools are multipurpose diagnostic and minifacturing tools used for a variety of battlefield tasks.",
-   "tr": "",
+   "tr": "Omni-aletler, çeşitli savaş alanı görevlerinde kullanılan çok amaçlı teşhis ve mini üretim aletleridir.",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u19201",
    "en": "Lightweight, comfortable armor affords basic protection from enemy attacks and minimizes movement penalties affecting weapon accuracy.",
-   "tr": "",
+   "tr": "Hafif ve rahat zırh, düşman saldırılarına karşı temel koruma sağlar ve silah isabetini etkileyen hareket cezalarını en aza indirir.",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u19202",
    "en": "Medium armor offers an increased level of protection, but also increases movement penalties affecting weapon accuracy. Soldiers need extra training to wear it.",
-   "tr": "",
+   "tr": "Orta zırh daha yüksek koruma sağlar, ancak silah isabetini etkileyen hareket cezalarını da artırır. Askerlerin giyebilmesi için ek eğitim gerekir.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u19203",
    "en": "Heavy armor offers maximum protection against enemy fire but has the highest movement penalties affecting weapon accuracy. Only specially-trained frontline soldiers can wear it.",
-   "tr": "",
+   "tr": "Ağır zırh düşman ateşine karşı azami koruma sağlar, ancak silah isabetini etkileyen en yüksek hareket cezalarına sahiptir. Yalnızca özel eğitimli cephe askerleri giyebilir.",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u19204",
    "en": "Body armor can be improved with a variety of field upgrade kits.",
-   "tr": "",
+   "tr": "Vücut zırhı, çeşitli saha yükseltme kitleriyle geliştirilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u19205",
    "en": "Accuracy, damage, and recoil for all direct-fire weapons can be improved through upgrades.",
-   "tr": "",
+   "tr": "Tüm doğrudan atış silahlarının isabeti, hasarı ve geri tepmesi yükseltmelerle iyileştirilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u19206",
    "en": "Modified ammunition can increase damage or disable enemies with highly-specialized effects.",
-   "tr": "",
+   "tr": "Değiştirilmiş mühimmat, hasarı artırabilir veya yüksek derecede özelleşmiş etkilerle düşmanları etkisiz hale getirebilir.",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u19207",
    "en": "Biotic Amplifiers can be upgraded to improve performance in specific areas.",
-   "tr": "",
+   "tr": "Biyotik Amplifikatörler, belirli alanlardaki performansı artırmak için yükseltilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u19208",
    "en": "The standard omni-tool can be modified to excel at a specific task.",
-   "tr": "",
+   "tr": "Standart omni-alet, belirli bir görevde üstün olacak şekilde değiştirilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u19209",
    "en": "Scorpion",
-   "tr": "",
+   "tr": "Scorpion",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u19210",
    "en": "Predator",
-   "tr": "",
+   "tr": "Predator",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u19211",
    "en": "Lenskaya Materials WinterCamo Light Armor",
-   "tr": "",
+   "tr": "Lenskaya Materials WinterCamo Hafif Zırh",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u19212",
    "en": "Lenskaya Materials WinterCamo Medium Armor",
-   "tr": "",
+   "tr": "Lenskaya Materials WinterCamo Orta Zırh",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u19213",
    "en": "Ursa",
-   "tr": "",
+   "tr": "Ursa",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u19214",
    "en": "Mantis",
-   "tr": "",
+   "tr": "Mantis",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u19215",
    "en": "Onyx",
-   "tr": "",
+   "tr": "Onyx",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u19216",
    "en": "Champion",
-   "tr": "",
+   "tr": "Champion",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u19217",
    "en": "Guardian",
-   "tr": "",
+   "tr": "Guardian",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u19218",
    "en": "Survivor",
-   "tr": "",
+   "tr": "Survivor",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u19219",
    "en": "Explorer",
-   "tr": "",
+   "tr": "Explorer",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u19220",
    "en": "Liberator",
-   "tr": "",
+   "tr": "Liberator",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u19221",
    "en": "Gladiator",
-   "tr": "",
+   "tr": "Gladiator",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u19222",
    "en": "Duelist",
-   "tr": "",
+   "tr": "Duelist",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u19223",
    "en": "Assassin",
-   "tr": "",
+   "tr": "Assassin",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u19224",
    "en": "Mercenary",
-   "tr": "",
+   "tr": "Mercenary",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u19225",
    "en": "Solaris Amp",
-   "tr": "",
+   "tr": "Solaris Amp",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u19226",
    "en": "Savant",
-   "tr": "",
+   "tr": "Savant",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u19227",
    "en": "Prodigy",
-   "tr": "",
+   "tr": "Prodigy",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u19228",
    "en": "Gemini Amp",
-   "tr": "",
+   "tr": "Gemini Amp",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u19229",
    "en": "Polaris",
-   "tr": "",
+   "tr": "Polaris",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u19230",
    "en": "Bluewire Tool",
-   "tr": "",
+   "tr": "Bluewire Tool",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u19231",
    "en": "Logic Arrest Tool",
-   "tr": "",
+   "tr": "Logic Arrest Tool",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u19232",
    "en": "Nexus",
-   "tr": "",
+   "tr": "Nexus",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u19233",
    "en": "Bit Ghost Tool",
-   "tr": "",
+   "tr": "Bit Ghost Tool",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u19234",
    "en": "Cipher Tool",
-   "tr": "",
+   "tr": "Cipher Tool",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u19235",
    "en": "Crossfire",
-   "tr": "",
+   "tr": "Crossfire",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u19236",
    "en": "Brawler",
-   "tr": "",
+   "tr": "Brawler",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u19237",
    "en": "Avalanche",
-   "tr": "",
+   "tr": "Avalanche",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u19238",
    "en": "Punisher",
-   "tr": "",
+   "tr": "Punisher",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u19239",
    "en": "Raptor",
-   "tr": "",
+   "tr": "Raptor",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u19240",
    "en": "Stinger",
-   "tr": "",
+   "tr": "Stinger",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u19241",
    "en": "Firestorm",
-   "tr": "",
+   "tr": "Firestorm",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u19242",
    "en": "Striker",
-   "tr": "",
+   "tr": "Striker",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u19243",
    "en": "Avenger",
-   "tr": "",
+   "tr": "Avenger",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u19244",
    "en": "Edge",
-   "tr": "",
+   "tr": "Edge",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u19245",
    "en": "Scimitar",
-   "tr": "",
+   "tr": "Scimitar",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u19246",
    "en": "Reaper",
-   "tr": "",
+   "tr": "Reaper",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u19247",
    "en": "Lancer",
-   "tr": "",
+   "tr": "Lancer",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u19248",
    "en": "Kessler",
-   "tr": "",
+   "tr": "Kessler",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u19249",
    "en": "Storm",
-   "tr": "",
+   "tr": "Storm",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u19250",
    "en": "These are all the various sections and pages of the Codex in the game.",
-   "tr": "",
+   "tr": "Bunlar, oyundaki Kodeks'in tüm çeşitli bölümleri ve sayfalarıdır.",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u19251",
    "en": "The technologies of space travel and surface mobility",
-   "tr": "",
+   "tr": "Uzay yolculuğu ve yüzey hareketliliği teknolojileri",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u19252",
    "en": "Ships and Vehicles",
-   "tr": "",
+   "tr": "Gemiler ve Araçlar",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u19253",
    "en": "The Normandy is a prototype starship, developed by the human Systems Alliance with the assistance of the Citadel Council. It is optimized for scouting and reconnaissance missions in unstable regions, using state-of-the-art stealth technology.\n\nFor most ships, the heat generated through standard operations is easily detectable against the absolute-zero background of space. The Normandy, however, is able to temporarily sink this heat within the hull. Combined with refrigeration of the exterior hull, the ship can travel undetected for hours, or drift passively for days of covert observation. This is not without risk. The stored heat must eventually be radiated, or it will build to levels capable of cooking the crew alive.\n\nAnother component of the stealth system is the Normandy’s revolutionary Tantalus drive, a mass effect core twice the standard size. The Tantalus drive generates mass concentrations that the Normandy 'falls into', allowing it to move without the use of heat-emitting thrusters.\n\n",
-   "tr": "",
+   "tr": "Normandy, insan Sistemler İttifakı tarafından Citadel Konseyi'nin yardımıyla geliştirilen bir prototip yıldız gemisidir. En gelişmiş gizlilik teknolojisini kullanarak istikrarsız bölgelerde keşif ve gözetleme görevleri için optimize edilmiştir.\n\nÇoğu gemide standart operasyonlarla üretilen ısı, uzayın mutlak sıfır arka planında kolayca tespit edilebilir. Ancak Normandy bu ısıyı geçici olarak gövdesinin içinde depolayabilir. Dış gövdenin soğutulmasıyla birlikte gemi saatlerce fark edilmeden seyahat edebilir ya da günlerce gizli gözlem için pasif biçimde sürüklenebilir. Bu risksiz değildir. Depolanan ısı eninde sonunda dışarı verilmelidir; aksi halde mürettebatı canlı canlı pişirecek seviyelere ulaşır.\n\nGizlilik sisteminin bir diğer bileşeni, Normandy'nin devrim niteliğindeki Tantalus sürücüsüdür; standart boyutun iki katı büyüklüğünde bir kütle etkisi çekirdeği. Tantalus sürücüsü, Normandy'nin içine 'düştüğü' kütle yoğunlaşmaları üretir ve ısı yayan iticiler kullanmadan hareket etmesini sağlar.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u19254",
    "en": "The three most politically important species in the galaxy",
-   "tr": "",
+   "tr": "Galaksideki siyasi açıdan en önemli üç tür",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u19255",
    "en": "Aliens: Council Races",
-   "tr": "",
+   "tr": "Uzaylılar: Konsey Irkları",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u19256",
    "en": "The asari were the first species to discover the Citadel. When the salarians arrived, it was the asari who proposed the establishment of the Citadel Council to maintain peace throughout the galaxy. Since then, the asari have served as the mediators and centrists of the Council.\n\nAn all-female race, the asari reproduce through a form of parthenogenesis. Each asari can attune her nervous system to that of another individual of any gender, and of any species, to reproduce. This capability has led to unseemly and inaccurate rumors about asari promiscuity.\n\nAsari can live for over 1000 years, passing through three stages of life. In the Maiden stage, they wander restlessly, seeking new knowledge and experience. When the Matron stage begins, they 'meld' with interesting partners to produce their offspring. This ends when they reach the Matriarch stage, where they assume the roles of leaders and councilors.\n\n",
-   "tr": "",
+   "tr": "Citadel'i keşfeden ilk tür asari'ler oldu. Salarian'lar geldiğinde, galakside barışı sürdürmek için Citadel Konseyi'nin kurulmasını öneren de asari'ler oldu. O günden beri asari'ler Konsey'in arabulucuları ve merkezcileri olarak hizmet etti.\n\nTamamı dişilerden oluşan bir ırk olan asari'ler, partenogenez benzeri bir yolla çoğalır. Her asari, çoğalmak için sinir sistemini herhangi bir cinsiyetten ve herhangi bir türden başka bir bireyin sinir sistemiyle uyumlayabilir. Bu yetenek, asari'lerin sözde sefahati hakkında yakışıksız ve yanlış söylentilere yol açmıştır.\n\nAsari'ler 1000 yıldan fazla yaşayabilir ve üç yaşam evresinden geçer. Maiden evresinde huzursuzca dolaşıp yeni bilgi ve deneyim ararlar. Matron evresi başladığında, yavrularını doğurmak için ilgi çekici partnerlerle 'kaynaşırlar'. Bu evre, lider ve danışman rollerini üstlendikleri Matriarch evresine ulaşmalarıyla sona erer.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u19257",
    "en": "Asari",
-   "tr": "",
+   "tr": "Asari",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u19258",
    "en": "Captain Kirrahe",
-   "tr": "",
+   "tr": "Kaptan Kirrahe",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u19259",
    "en": "Commander Rentola",
-   "tr": "",
+   "tr": "Komutan Rentola",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u19260",
    "en": "Scientist",
-   "tr": "",
+   "tr": "Bilim İnsanı",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u19261",
    "en": "Doctor Droyas",
-   "tr": "",
+   "tr": "Doktor Droyas",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u19262",
    "en": "Lab Technician",
-   "tr": "",
+   "tr": "Laboratuvar Teknisyeni",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u19263",
    "en": "Crewman",
-   "tr": "",
+   "tr": "Mürettebat Üyesi",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u19264",
    "en": "Indoctrinated",
-   "tr": "",
+   "tr": "Zihni Kontrol Altına Alınmış",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u19265",
    "en": "A turian C-Sec officer and a religious hanar are arguing about whether the hanar has the right to preach in the Presidium. Evidently the hanar is supposed to buy an evangelical permit, but has refused to do so.",
-   "tr": "",
+   "tr": "Turian bir C-Sec görevlisi ile dindar bir hanar, hanar'ın Presidium'da vaaz verme hakkı olup olmadığı konusunda tartışıyor. Görünen o ki hanar'ın bir evanjelik izin satın alması gerekiyor, ama reddetmiş.",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u19266",
    "en": "You have convinced the C-Sec officer to allow the hanar to preach in the Presidium.",
-   "tr": "",
+   "tr": "C-Sec görevlisini, hanar'ın Presidium'da vaaz vermesine izin vermeye ikna ettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u19267",
    "en": "You have helped the C-Sec officer and convinced the hanar to preach in a more appropriate location.",
-   "tr": "",
+   "tr": "C-Sec görevlisine yardım ettiniz ve hanar'ı daha uygun bir yerde vaaz vermeye ikna ettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u19268",
    "en": "Speak with the C-Sec officer in the Presidium. Find out why he is harassing the hanar.",
-   "tr": "",
+   "tr": "Presidium'daki C-Sec görevlisiyle konuşun. Hanar'a neden sorun çıkardığını öğrenin.",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u19269",
    "en": "Speak with the C-Sec Officer",
-   "tr": "",
+   "tr": "C-Sec Görevlisiyle Konuş",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u19270",
    "en": "Speak with the hanar preacher in the Presidium. Convince it to purchase an evangelical permit and find someplace else to preach.",
-   "tr": "",
+   "tr": "Presidium'daki hanar vaizle konuşun. Onu bir evanjelik izin satın almaya ve vaaz vermek için başka bir yer bulmaya ikna edin.",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u19271",
    "en": "Speak with the Hanar",
-   "tr": "",
+   "tr": "Hanar'la Konuş",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u19272",
    "en": "You've spoken with both the hanar and the C-Sec officer in the Presidium, but you still need to either get rid of the hanar or convince the C-Sec officer to back off.",
-   "tr": "",
+   "tr": "Presidium'da hem hanar'la hem de C-Sec görevlisiyle konuştunuz, ama yine de ya hanar'dan kurtulmanız ya da C-Sec görevlisini geri adım atmaya ikna etmeniz gerekiyor.",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u19273",
    "en": "Resolve the Dispute",
-   "tr": "",
+   "tr": "Anlaşmazlığı Çöz",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u19274",
    "en": "Mr. Keeler, an Alliance negotiator, has asked you to get him a legal but regulated stimulant in order to improve his performance in an important upcoming treaty negotiation.",
-   "tr": "",
+   "tr": "İttifak arabulucusu Bay Keeler, yaklaşan önemli bir antlaşma müzakeresinde performansını artırmak için kendisine yasal ama kontrollü bir uyarıcı getirmenizi istedi.",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u19275",
    "en": "You have convinced Mr. Keeler to seek treatment for his drug addiction. The negotiation will be handled by his assistant.",
-   "tr": "",
+   "tr": "Bay Keeler'ı uyuşturucu bağımlılığı için tedavi aramaya ikna ettiniz. Müzakereyi yardımcısı yürütecek.",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u19276",
    "en": "You got Mr. Keeler the drug he needed. He should be in fine form for the upcoming treaty negotiation.",
-   "tr": "",
+   "tr": "Bay Keeler'a ihtiyaç duyduğu ilacı getirdiniz. Yaklaşan antlaşma müzakeresi için formunda olmalı.",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u19277",
    "en": "You gave Mr. Keeler a depressant rather than a stimulant. He is in no condition to handle the treaty negotiation now, and his assistant will take over.",
-   "tr": "",
+   "tr": "Bay Keeler'a uyarıcı yerine bir yatıştırıcı verdiniz. Artık antlaşma müzakeresini yürütecek durumda değil ve yardımcısı devralacak.",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u19278",
    "en": "Go to the Med Clinic in the Upper Wards and purchase the drug that Keeler needs for his treaty negotiation.",
-   "tr": "",
+   "tr": "Upper Wards'taki Sağlık Kliniği'ne gidin ve Keeler'ın antlaşma müzakeresi için ihtiyaç duyduğu ilacı satın alın.",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u19279",
    "en": "Get the Drug",
-   "tr": "",
+   "tr": "İlacı Al",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u19280",
    "en": "You have purchased the drug for Keeler. Meet him outside Flux in the Upper Wards to deliver it to him.",
-   "tr": "",
+   "tr": "Keeler için ilacı satın aldınız. Teslim etmek üzere onunla Upper Wards'taki Flux'un dışında buluşun.",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u19281",
    "en": "Deliver the Drug",
-   "tr": "",
+   "tr": "İlacı Teslim Et",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u19282",
    "en": "You have discovered a signal being used to funnel money from gambling machines to a private account. If you can trace the system, you can find out where that money is going, and why.",
-   "tr": "",
+   "tr": "Kumar makinelerinden özel bir hesaba para aktarmak için kullanılan bir sinyal keşfettiniz. Sistemi izleyebilirseniz, paranın nereye ve neden gittiğini öğrenebilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u19283",
    "en": "The signal seems to be coming from the Wards Access corridor.",
-   "tr": "",
+   "tr": "Sinyal Wards Access koridorundan geliyor gibi görünüyor.",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u19284",
    "en": "Track the Signal",
-   "tr": "",
+   "tr": "Sinyali Takip Et",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u19285",
    "en": "The signal now seems to be relayed through a terminal in the Financial District of the Presidium.",
-   "tr": "",
+   "tr": "Sinyal artık Presidium'un Mali Bölge'sindeki bir terminal üzerinden aktarılıyor gibi görünüyor.",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u19286",
    "en": "Follow Signal to the Presidium",
-   "tr": "",
+   "tr": "Sinyali Presidium'a Kadar Takip Et",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u19287",
    "en": "The last communication relay shows that the signal's final destination is in the back room of the Emporium in the Financial District of the Presidium.",
-   "tr": "",
+   "tr": "Son iletişim rölesi, sinyalin nihai varış noktasının Presidium'un Mali Bölge'sindeki Emporium'un arka odası olduğunu gösteriyor.",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u19288",
    "en": "Continue Tracking",
-   "tr": "",
+   "tr": "İzlemeye Devam Et",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u19289",
    "en": "You discovered that money was being funneled from gambling machines into an account controlled by a rogue AI. You disabled and destroyed the AI before it could overload and take you with it.",
-   "tr": "",
+   "tr": "Paranın kumar makinelerinden başıboş bir yapay zekânın kontrolündeki bir hesaba aktarıldığını keşfettiniz. Yapay zekâyı aşırı yüklenip sizi de yanına almadan önce devre dışı bırakıp yok ettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u19290",
    "en": "Samesh Bhatia, the husband of a soldier who died on Eden Prime, has asked you to convince the Alliance to return his wife's body.",
-   "tr": "",
+   "tr": "Eden Prime'da ölen bir askerin kocası Samesh Bhatia, İttifak'ı karısının cenazesini iade etmeye ikna etmenizi istedi.",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u19291",
    "en": "Citadel: Homecoming",
-   "tr": "",
+   "tr": "Citadel: Eve Dönüş",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u19292",
    "en": "You have made it clear to Mr. Bhatia that you will not be helping him recover his wife's body.",
-   "tr": "",
+   "tr": "Bay Bhatia'ya karısının cenazesini geri almasına yardım etmeyeceğinizi açıkça belirttiniz.",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u19293",
    "en": "You have convinced Mr. Bhatia to allow the military to keep his wife's body in order to continue their tests. In the long run, this will hopefully save human lives.",
-   "tr": "",
+   "tr": "Bay Bhatia'yı, testlerine devam edebilmeleri için ordunun karısının cenazesini elinde tutmasına izin vermeye ikna ettiniz. Uzun vadede bunun insan hayatlarını kurtarması umuluyor.",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u19294",
    "en": "You convinced Mr. Bosker to release the body of Nirali Bhatia to her husband, so that her remains may be treated with the proper respect.",
-   "tr": "",
+   "tr": "Bay Bosker'ı Nirali Bhatia'nın cenazesini kocasına teslim etmeye ikna ettiniz; böylece kalıntıları gereken saygıyla ele alınabilecek.",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u19295",
    "en": "A reporter named Emily Wong has asked you for help uncovering corruption on the Citadel.",
-   "tr": "",
+   "tr": "Emily Wong adlı bir muhabir, Citadel'deki yolsuzluğu ortaya çıkarmak için sizden yardım istedi.",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u19296",
    "en": "Citadel: Reporter's Request",
-   "tr": "",
+   "tr": "Citadel: Muhabirin Talebi",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u19297",
    "en": "You gave Emily Wong the information you found in Fist's hideout. The reporter was extremely grateful, and now has what she needs to expose criminal syndicates on the Citadel.",
-   "tr": "",
+   "tr": "Emily Wong'a Fist'in sığınağında bulduğunuz bilgiyi verdiniz. Muhabir son derece minnettar kaldı ve artık Citadel'deki suç örgütlerini ifşa etmek için ihtiyaç duyduğu şeye sahip.",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u19298",
    "en": "You refused to give Emily Wong the information she wanted.",
-   "tr": "",
+   "tr": "Emily Wong'un istediği bilgiyi vermeyi reddettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u19299",
    "en": "As you investigate the Citadel, be on the lookout for information that might help Ms. Wong.",
-   "tr": "",
+   "tr": "Citadel'i araştırırken Bayan Wong'a yardımcı olabilecek bilgilere dikkat edin.",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u19300",
    "en": "Look for Information",
-   "tr": "",
+   "tr": "Bilgi Ara",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u19301",
    "en": "The information you found in Fist's hideout will help Ms. Wong with her report on corruption. Go to the Upper Wards to deliver it to her.",
-   "tr": "",
+   "tr": "Fist'in sığınağında bulduğunuz bilgi, Bayan Wong'un yolsuzluk haberine yardımcı olacak. Ona teslim etmek için Upper Wards'a gidin.",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u19302",
    "en": "Deliver Information",
-   "tr": "",
+   "tr": "Bilgiyi Teslim Et",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u19303",
    "en": "You have informed Ms. Wong that you will not help her plant bugs in the space traffic control station.",
-   "tr": "",
+   "tr": "Bayan Wong'a, uzay trafik kontrol istasyonuna dinleme cihazı yerleştirmesine yardım etmeyeceğinizi bildirdiniz.",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u19304",
    "en": "You tricked Emily into believing you had planted the bugs in the control room. She shouldn't bother you again.",
-   "tr": "",
+   "tr": "Emily'yi, dinleme cihazlarını kontrol odasına yerleştirdiğinize inandırdınız. Sizi bir daha rahatsız etmemeli.",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u19305",
    "en": "You convinced Emily not to publish a story about overworked space traffic controllers.",
-   "tr": "",
+   "tr": "Emily'yi aşırı çalışan uzay trafik kontrolörleri hakkında haber yayımlamamaya ikna ettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u19306",
    "en": "Go to Citadel Security and plant a bug in the Citadel Traffic Control Center near the back of C-Sec.",
-   "tr": "",
+   "tr": "Citadel Güvenliği'ne gidin ve C-Sec'in arka tarafındaki Citadel Trafik Kontrol Merkezi'ne bir dinleme cihazı yerleştirin.",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u19307",
    "en": "Plant the Bugs",
-   "tr": "",
+   "tr": "Dinleme Cihazlarını Yerleştir",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u19308",
    "en": "Tevos",
-   "tr": "",
+   "tr": "Tevos",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u19309",
    "en": "Executor",
-   "tr": "",
+   "tr": "Executor",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u19310",
    "en": "Valern",
-   "tr": "",
+   "tr": "Valern",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u19311",
    "en": "Sparatus",
-   "tr": "",
+   "tr": "Sparatus",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u19312",
    "en": "Diplomat",
-   "tr": "",
+   "tr": "Diplomat",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u19313",
    "en": "The Citadel (Main Story Arc)",
-   "tr": "",
+   "tr": "Citadel (Ana Hikâye)",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u19314",
    "en": "Radio Chatter",
-   "tr": "",
+   "tr": "Telsiz Konuşmaları",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u19315",
    "en": "Level Up",
-   "tr": "",
+   "tr": "Seviye Atla",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u19316",
    "en": "Date Created:",
-   "tr": "",
+   "tr": "Oluşturulma Tarihi:",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u19317",
    "en": "Hollow Point Ammo",
-   "tr": "",
+   "tr": "Dumdum Mermi",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u19318",
    "en": "Hammerhead Ammo",
-   "tr": "",
+   "tr": "Hammerhead Mühimmat",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u19319",
    "en": "Lizbeth Baynham",
-   "tr": "",
+   "tr": "Lizbeth Baynham",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u19320",
    "en": "You have to prove to the Citadel Council that Saren, one of their Spectre agents, has gone rogue.",
-   "tr": "",
+   "tr": "Citadel Konseyi'ne, Spectre ajanlarından Saren'in hain çıktığını kanıtlamalısınız.",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u19321",
    "en": "Citadel: Expose Saren",
-   "tr": "",
+   "tr": "Citadel: Saren'i Ortaya Çıkar",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u19322",
    "en": "Go to the Citadel Tower on the Presidium for an audience with the Council.",
-   "tr": "",
+   "tr": "Konsey ile görüşmek için Presidium'daki Citadel Tower'a gidin.",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u19323",
    "en": "Go to the Tower",
-   "tr": "",
+   "tr": "Tower'a Git",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u19324",
    "en": "Hex Barrier",
-   "tr": "",
+   "tr": "Altıgen Bariyer",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u19325",
    "en": "Damping Beam",
-   "tr": "",
+   "tr": "Sönümleme Işını",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u19326",
    "en": "Disruption Rocket",
-   "tr": "",
+   "tr": "Bozucu Roket",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u19327",
    "en": "Pulse Blast",
-   "tr": "",
+   "tr": "Darbe Patlaması",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u19328",
    "en": "Overload Beam",
-   "tr": "",
+   "tr": "Aşırı Yükleme Işını",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u19329",
    "en": "Siege Pulse",
-   "tr": "",
+   "tr": "Kuşatma Darbesi",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u19330",
    "en": "Sabotage Beam",
-   "tr": "",
+   "tr": "Sabotaj Işını",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u19331",
    "en": "Entrench",
-   "tr": "",
+   "tr": "Siper Al",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u19332",
    "en": "Rake",
-   "tr": "",
+   "tr": "Tırmık",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u19333",
    "en": "Vomit",
-   "tr": "",
+   "tr": "Kusmuk",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u19334",
    "en": "Whip Strike",
-   "tr": "",
+   "tr": "Kırbaç Darbesi",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u19335",
    "en": "Acid Spit",
-   "tr": "",
+   "tr": "Asit Tükürüğü",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u19336",
    "en": "Explosion",
-   "tr": "",
+   "tr": "Patlama",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u19337",
    "en": "Tesla Blast",
-   "tr": "",
+   "tr": "Tesla Patlaması",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u19338",
    "en": "Krogan Regeneration",
-   "tr": "",
+   "tr": "Krogan Yenilenmesi",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u19339",
    "en": "Geth Networked Intelligence",
-   "tr": "",
+   "tr": "Geth Ağ Zekâsı",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u19340",
    "en": "View Tasks",
-   "tr": "",
+   "tr": "Görevleri Görüntüle",
    "ctx": [
     "Startup"
    ]
