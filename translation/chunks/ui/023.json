@@ -9,7 +9,7 @@
   {
    "key": "u21293",
    "en": "While comm buoys allow rapid transmission, there is a finite amount of bandwidth available. Given that trillions of people may be trying to pass a message through a given buoy at any one time, access to the network is parceled out on priority tiers.\n\nThe Citadel Council and the Spectres have absolute priority; if they are using all the bandwidth, everyone else must wait. Individual governments and their militaries enjoy the next-highest tier. During wartime, civilian communication can suffer hours or even days of lag. Intelligence agencies study ping time through various systems to predict military buildups.\n\nBelow the governments and militaries, bandwidth priority is sold to the highest bidder. Media conglomerates, particularly headline news networks, purchase higher priority to provide their viewers with timely information. Corporations that require timely information and response capability (for example, financial institutions and investment firms) also invest heavily in priority access. The funds acquired through sales of bandwidth are used to maintain and expand the communications infrastructure.\n\nWhile everyone with a computer has guaranteed free and unlimited access to the galactic extranet, they are last in line for bandwidth and may have to wait for their requests to be processed. Bandwidth resale corporations use investment capital to purchase blocks of high priority access, made available by paid subscription.\n\n",
-   "tr": "",
+   "tr": "İletişim şamandıraları hızlı iletimi mümkün kılsa da kullanılabilir bant genişliği sınırlıdır. Aynı anda trilyonlarca insanın belirli bir şamandıradan mesaj geçirmeye çalışıyor olabileceği düşünüldüğünde ağa erişim öncelik kademelerine göre paylaştırılır.\n\nCitadel Konseyi ve Spectre'lar mutlak önceliğe sahiptir; tüm bant genişliğini kullanıyorlarsa herkes beklemek zorundadır. Bireysel hükümetler ve orduları bir sonraki en yüksek kademeden yararlanır. Savaş zamanında sivil iletişim saatlerce hatta günlerce gecikme yaşayabilir. İstihbarat servisleri, askerî birikimleri tahmin etmek için çeşitli sistemlerdeki ping sürelerini inceler.\n\nHükümetlerin ve orduların altında bant genişliği önceliği en yüksek teklif verene satılır. Medya holdingleri, özellikle son dakika haber ağları, izleyicilerine güncel bilgi sunmak için daha yüksek öncelik satın alır. Zamanında bilgi ve tepki yeteneği gerektiren şirketler (örneğin finans kuruluşları ve yatırım firmaları) de öncelikli erişime ağır yatırım yapar. Bant genişliği satışlarından elde edilen fonlar iletişim altyapısını sürdürmek ve genişletmek için kullanılır.\n\nBilgisayarı olan herkes galaktik ekstranete ücretsiz ve sınırsız erişim garantisine sahip olsa da bant genişliği sırasında en sonda yer alırlar ve isteklerinin işlenmesini beklemek zorunda kalabilirler. Bant genişliği yeniden satış şirketleri yatırım sermayesini yüksek öncelikli erişim blokları satın almak için kullanır ve bunları ücretli abonelikle sunar.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u21294",
    "en": "Communications: Adminstration",
-   "tr": "",
+   "tr": "İletişim: İdare",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u21295",
    "en": "The standard credit was established by the Citadel's Unified Banking Act as the currency of interstellar trade. The credit has a managed floating exchange rate, calculated in real time by the central bank to maintain the average value of all participating currencies. Some regional currencies are worth more than a credit, and some less. \n\nHard currency can be stolen or counterfeited, so electronic fund transfers are the norm. More importantly, physical transactions cannot be easily tracked, making them ideal for tax evasion or the purchase of illegal goods.\n\nWhen the Alliance joined the Citadel, its various national treasuries were linked into the credit network. A human with a bank account of Mexican pesos, Japanese yen, or Indian rupees can purchase any item priced in credits at fair market value. All economies that participate in the credit network are required to price items in both local currency and credits.\n\n",
-   "tr": "",
+   "tr": "Standart kredi, Citadel'in Birleşik Bankacılık Yasası tarafından yıldızlararası ticaretin para birimi olarak belirlendi. Kredinin yönetilen dalgalı bir döviz kuru vardır; merkez bankası tarafından tüm katılımcı para birimlerinin ortalama değerini korumak için gerçek zamanlı hesaplanır. Bazı bölgesel para birimleri bir krediden daha değerli, bazıları daha az değerlidir. \n\nNakit para çalınabilir veya sahte olarak basılabilir, bu yüzden elektronik fon transferi olağandır. Daha da önemlisi, fiziksel işlemler kolayca izlenemez; bu da onları vergi kaçırma veya yasa dışı mal alımı için ideal kılar.\n\nİttifak Citadel'e katıldığında çeşitli ulusal hazineleri kredi ağına bağlandı. Meksika pesosu, Japon yeni veya Hindistan rupisi cinsinden banka hesabı olan bir insan, kredi cinsinden fiyatlandırılan herhangi bir ürünü adil piyasa değerinden satın alabilir. Kredi ağına katılan tüm ekonomilerin ürünleri hem yerel para birimi hem de kredi cinsinden fiyatlandırması gerekir.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u21296",
    "en": "Credits (\"Creds\")",
-   "tr": "",
+   "tr": "Krediler (\"Kred\")",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u21297",
    "en": "Grenades are hand-tossed explosive charges, useful against organic and synthetic targets. The Alliance's standard Mark 14 grenade is designed with retractable stabilizing fins. If the fins are extended, the grenade can be tossed like a discus, and glides long distances. With the fins retracted, the grenade can be lobbed over walls and other obstacles. Most grenades have a 10-second fuse. They can be triggered earlier by a signal from any military hardsuit's built-in communications gear.\n\nThe Mark 14 grenade can be modified in the field for special purposes. Common modifications include high explosive, flashbang, and thermite paste incendiary charges. More exotic varieties include charged particle proton charges, Bose-Einstein \"cryo\" condensates, and cobalt-salted micro-nukes.\n\n\n",
-   "tr": "",
+   "tr": "El bombaları, organik ve sentetik hedeflere karşı yararlı, elle atılan patlayıcı yüklerdir. İttifak'ın standart Mark 14 el bombası, geri çekilebilir dengeleyici kanatçıklarla tasarlanmıştır. Kanatçıklar açıldığında bomba disk gibi atılabilir ve uzun mesafeler süzülür. Kanatçıklar kapalıyken bomba duvarların ve diğer engellerin üzerinden fırlatılabilir. Çoğu el bombasının 10 saniyelik bir fitili vardır. Herhangi bir askerî sert giysinin yerleşik iletişim donanımından gelen bir sinyalle daha erken tetiklenebilirler.\n\nMark 14 el bombası sahada özel amaçlar için değiştirilebilir. Yaygın değişiklikler arasında yüksek patlayıcı, şok bombası ve termit macunlu yangın çıkarıcı yükler yer alır. Daha egzotik çeşitler arasında yüklü parçacıklı proton yükleri, Bose-Einstein \"kriyo\" yoğuşukları ve kobalt tuzlu mikro nükleer bombalar bulunur.\n\n\n",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u21298",
    "en": "Cabins give each individual ten cubic meters of space. On larger vessels private rooms are common. As ships get smaller, the number of crew packed into a single wardroom increases. Asari prefer shared spaces even on large vessels, while krogan territorial instincts make it impossible for them to cohabitate even on the smallest ships.\n\nOn smaller vessels, 'hot bunking' is the norm. Crew members assigned to different watches share the same bunk. When one gets off-duty, he wakes up the person in the bunk. While that crewman is on duty, the first gets his rack time.\n\nSpacecraft compartments can be isolated by air-tight doors in case of decompression. The cinematic vision of explosive decompression is fiction; holed compartments either take enough damage that occupants are killed instantly, or leak slowly enough that they are able to reach protective gear.\n\nCompartments are equipped with Emergency Life Support Apparatus: fireproof plastic bubbles with air bottles. Small when stowed, ELSA comfortably accommodate one individual inflated. Damage control procedure cuts off ventilation to burning compartments. Without oxygen to consume, fires die in seconds. The compartment is re-pressurized afterwards for crew recovery.\n\nMass effect fields create an artificial gravity (a-grav) plane below the decks, preventing muscle atrophy and bone loss in zero-gee. Large vessels arrange their decks perpendicular to their thrust axis. The 'highest' decks are at the bow, and the 'lowest' at the engines. This allows a-grav to work with the inertial effects of thrust. Ships that can land arrange their decks laterally, so the crew can move about while the vessel is on the ground.\n\nWarships normally turn off their a-grav systems during combat, reducing the heat generated by systems and increasing combat endurance. To provide a point of reference for navigating in zero-gee, floors are painted a different color from the walls and ceiling.\n\n",
-   "tr": "",
+   "tr": "Kabinler her bireye on metreküp alan sağlar. Daha büyük gemilerde özel odalar yaygındır. Gemiler küçüldükçe tek bir subay yemekhanesine sıkıştırılan mürettebat sayısı artar. Asari'ler büyük gemilerde bile paylaşımlı alanları tercih ederken krogan'ın bölgesel içgüdüleri en küçük gemilerde bile birlikte yaşamalarını imkânsız kılar.\n\nKüçük gemilerde \"sıcak ranza\" olağandır. Farklı nöbetlere atanan mürettebat aynı ranzayı paylaşır. Biri görevden çıktığında ranzadaki kişiyi uyandırır. O mürettebat görevdeyken ilk kişi ranza süresini kullanır.\n\nUzay aracı bölmeleri basınç kaybı halinde hava geçirmez kapılarla izole edilebilir. Patlayıcı basınç kaybı sinematik görüntüsü kurgudur; delinen bölmeler ya içindekileri anında öldürecek kadar hasar alır ya da koruyucu donanıma ulaşmalarına yetecek kadar yavaş sızdırır.\n\nBölmeler Acil Yaşam Destek Cihazı ile donatılmıştır: hava tüplü, yanmaz plastik baloncuklar. Depolandığında küçük olan ELSA şişirildiğinde bir kişiyi rahatça barındırır. Hasar kontrol prosedürü yanan bölmelerin havalandırmasını keser. Tüketecek oksijen olmadan yangınlar saniyeler içinde söner. Bölme, mürettebatın toparlanması için sonrasında yeniden basınçlandırılır.\n\nKütle etkisi alanları güverteler altında yapay yerçekimi (a-grav) düzlemi oluşturur ve sıfır yerçekiminde kas erimesini ve kemik kaybını önler. Büyük gemiler güvertelerini itme eksenlerine dik yerleştirir. \"En yüksek\" güverteler pruvada, \"en alçak\" olanlar motorlardadır. Bu, a-grav'ın itmenin eylemsizlik etkileriyle çalışmasını sağlar. İnebilen gemiler güvertelerini yanlamasına yerleştirir; böylece gemi yerdeyken mürettebat dolaşabilir.\n\nSavaş gemileri çatışma sırasında genellikle a-grav sistemlerini kapatır; bu, sistemlerin ürettiği ısıyı azaltır ve çatışma dayanıklılığını artırır. Sıfır yerçekiminde gezinmek için bir referans noktası sağlamak üzere zeminler duvarlardan ve tavandan farklı renge boyanır.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u21299",
    "en": "Starships: Crew Considerations",
-   "tr": "",
+   "tr": "Yıldız Gemileri: Mürettebat Hususları",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u21300",
    "en": "As the population of the galaxy increases and new worlds are settled, timely access for home users and frontier settlements with underdeveloped communication infrastructures is a growing problem. To ameliorate bandwidth issues, a sophisticated array of data caches and virtual intelligence search agent programs are available.\n\nWhen a user submits a query, it is first routed to the data cache on their colony or star system. At the cache, the user's search agent VI collates mountains of locally-stored data to find the desired material. If the information is not available locally, the query is passed along to neighboring systems, and then outward in an expanding network. VI search agents in those systems replicate the search. If the desired information is found, it is compressed into a 'burst' file and queued for transmission to the source system. The burst is assigned a priority based on the number of queries for it; the greater the number of queries, the higher the priority.\n\nWhen a new solar system is first connected to the net, a selection of the most popular data is installed locally. Though storage hardware is cheap, the capacity required to hold all the data produced every day by trillions of people on hundreds of worlds is not trivial. It’s not economical to store local copies of all the data available on obscure topics 'just in case'.\n\nAs colonies mature, older and less-popular chunks of data filter into them as a result of queries and are placed in the local archive. Searches for obscure topics are increasingly likely to produce instant results as the archive grows.\n\n",
-   "tr": "",
+   "tr": "Galaksinin nüfusu arttıkça ve yeni dünyalara yerleşildikçe, ev kullanıcıları ve gelişmemiş iletişim altyapısına sahip sınır yerleşimleri için zamanında erişim büyüyen bir sorun. Bant genişliği sorunlarını hafifletmek için gelişmiş bir veri önbelleği dizisi ve sanal zekâ arama ajanı programları mevcut.\n\nBir kullanıcı sorgu gönderdiğinde bu önce kendi kolonisi veya yıldız sistemindeki veri önbelleğine yönlendirilir. Önbellekte kullanıcının arama ajanı VI, istenen materyali bulmak için yerel olarak depolanan veri dağlarını derler. Bilgi yerelde mevcut değilse sorgu komşu sistemlere, ardından genişleyen bir ağda dışarıya aktarılır. Bu sistemlerdeki VI arama ajanları aramayı çoğaltır. İstenen bilgi bulunursa \"patlama\" dosyasına sıkıştırılıp kaynak sisteme iletilmek üzere kuyruğa alınır. Patlamaya, onun için yapılan sorgu sayısına göre öncelik atanır; sorgu ne kadar çoksa öncelik o kadar yüksektir.\n\nYeni bir güneş sistemi ağa ilk bağlandığında en popüler verilerden bir seçki yerel olarak yüklenir. Depolama donanımı ucuz olsa da yüzlerce dünyada trilyonlarca insanın her gün ürettiği tüm verileri tutacak kapasite önemsiz değildir. Belirsiz konulardaki tüm verilerin yerel kopyalarını \"her ihtimale karşı\" saklamak ekonomik değildir.\n\nKoloniler olgunlaştıkça daha eski ve daha az popüler veri yığınları sorgular sonucunda onlara süzülüp yerel arşive yerleştirilir. Arşiv büyüdükçe belirsiz konular için aramaların anında sonuç vermesi giderek daha olasıdır.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u21301",
    "en": "Communications: Methodology",
-   "tr": "",
+   "tr": "İletişim: Yöntem",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u21302",
    "en": "The krogan evolved in a lethal ecology. Over millions of years, the grim struggle to survive larger predators, virulent disease, and resource scarcity on their homeworld, Tuchanka, turned the lizards into quintessential survivors. Perhaps the most telling indicator of Tuchanka's lethality is the krogan eyes. Although they are a predator species by any standard definition, their eyes evolved to be wide-set, as in Earth prey species like deer and cattle. Krogan eyes have a 240-degree arc of vision, better suited for spotting enemies sneaking up on them than for pursuit.\n\nPhysically, the krogan are nigh-indestructible, with a tough hide impervious to any melee weapon short of a molecular blade. While they feel pain, it does not affect their ability to concentrate. They have multiple functioning examples of all major organs, and can often survive the loss of one or two of any type. Rather than a nervous system, they have an electrically conductive second circulatory system. A krogan can never be paralyzed – they may lose some of this fluid, but it can be replaced by the body in time.\n\nThe hump on a krogan’s back stores water and fats that help the krogan survive lean times. Large humps are a point of pride; being well-fed implies the krogan is a superior predator.\n\nThe most widely-known biological feature of the krogan is their incredible birth rate and rapid maturity. Once freed from the hostile cauldron of Tuchanka, the krogan population swelled into a numberless horde. Only the genophage kept them from out-breeding the combined Council races. Now the rare krogan females capable of bringing a child to term are treated like strategic resources; warlords will trade them at diplomacy or (more frequently) fight wars over them.\n\n",
-   "tr": "",
+   "tr": "Krogan öldürücü bir ekolojide evrildi. Milyonlarca yıl boyunca ana gezegenleri Tuchanka'da daha büyük yırtıcılara, ölümcül hastalığa ve kaynak kıtlığına karşı verilen acımasız hayatta kalma mücadelesi, kertenkeleleri tipik hayatta kalanlara dönüştürdü. Belki de Tuchanka'nın ölümcüllüğünün en anlamlı göstergesi krogan gözleridir. Herhangi bir standart tanıma göre yırtıcı bir tür olsalar da gözleri, Dünya'daki geyik ve sığır gibi av türlerinde olduğu gibi geniş aralıklı evrildi. Krogan gözlerinin 240 derecelik görüş açısı vardır; bu, takip etmekten çok sinsice yaklaşan düşmanları fark etmek için daha uygundur.\n\nFiziksel olarak krogan neredeyse yok edilemezdir; moleküler bıçak dışında hiçbir yakın dövüş silahının delemediği sert bir derisi vardır. Acı hissetseler de bu, konsantre olma yeteneklerini etkilemez. Tüm büyük organların birden fazla işlevsel örneğine sahiptirler ve çoğu zaman her türden bir veya ikisini kaybedip hayatta kalabilirler. Sinir sistemi yerine elektriksel iletken ikinci bir dolaşım sistemleri vardır. Bir krogan asla felç olamaz; bu sıvının bir kısmını kaybedebilirler, ama beden zamanla yerine koyabilir.\n\nBir krogan'ın sırtındaki kambur, krogan'ın kıt zamanlarda hayatta kalmasına yardımcı olan su ve yağları depolar. Büyük kamburlar gurur kaynağıdır; iyi beslenmiş olmak krogan'ın üstün bir yırtıcı olduğunu ima eder.\n\nKrogan'ın en yaygın bilinen biyolojik özelliği inanılmaz doğum oranı ve hızlı olgunlaşmasıdır. Tuchanka'nın düşmanca kazanından kurtulunca krogan nüfusu sayısız bir sürüye dönüştü. Yalnızca genophage, onların birleşik Konsey ırklarından daha çok üremesini engelledi. Şimdi bir çocuğu vadesine kadar taşıyabilen nadir krogan dişileri stratejik kaynak gibi muamele görüyor; savaş lordları onlarla diplomasi yapacak ya da (daha sık) onlar için savaş verecek.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u21303",
    "en": "Krogan: Biology",
-   "tr": "",
+   "tr": "Krogan: Biyoloji",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u21304",
    "en": "The harsh krogan homeworld conditioned the krogan psychology for toughness just as it did the body. Krogan have always had a tendency to be selfish, unsympathetic, and blunt. They respect strength and self-reliance and are neither surprised nor offended by treachery. The weak and selfless do not live long. In their culture, 'looking out for number one' is simply a matter of course.\n\nAfter their defeat in the Rebellions, the very concept of krogan leadership was discredited. Where a warlord could once command enough power to bring entire solar systems to heel and become Overlord, these days it is rare for a single leader to have more than 1000 warriors swear allegiance to him. Most krogan trust and serve no one but themselves.\n\nThis solitary attitude stems in part from a deep sense of fatalism and futility, a profound social effect of the genophage that caused krogan numbers to dwindle to a relative handful. Not only are they angry that the entire galaxy seems out to get them, the krogan are also generally pessimistic about their race's chances of survival. The surviving krogan see no point to building for the future; there will be no future. The krogan live with an attitude of 'kill, pillage, and be selfish, for tomorrow we die'.\n\n",
-   "tr": "",
+   "tr": "Sert krogan ana gezegeni, bedeni olduğu gibi krogan psikolojisini de sertliğe alıştırdı. Krogan her zaman bencil, duygusuz ve açık sözlü olma eğiliminde olmuştur. Güce ve kendine güvene saygı duyarlar ve ihanet karşısında ne şaşırır ne gücenirler. Zayıflar ve özverili olanlar uzun yaşamaz. Kültürlerinde \"kendi çıkarını gözetmek\" yalnızca olağan bir meseledir.\n\nİsyanlardaki yenilgilerinin ardından krogan liderliği kavramı bile itibarını yitirdi. Bir zamanlar bir savaş lordunun bütün güneş sistemlerini dize getirecek ve Overlord olacak kadar güç toplayabildiği yerde bugünlerde tek bir liderin 1000'den fazla savaşçısının ona bağlılık yemini etmesi nadirdir. Çoğu krogan kendinden başkasına güvenmez ve hizmet etmez.\n\nBu yalnızcı tutum kısmen, krogan sayılarının nispeten bir avuca düşmesine yol açan genophage'ın derin toplumsal etkisi olan derin bir kaderciliğe ve boşunalık duygusuna dayanır. Yalnızca tüm galaksinin kendilerini hedef aldığı için öfkeli değiller; krogan ayrıca ırklarının hayatta kalma şansı konusunda genel olarak kötümserdir. Hayatta kalan krogan gelecek için inşa etmenin anlamını görmüyor; gelecek olmayacak. Krogan \"öldür, yağmala ve bencil ol, çünkü yarın öleceğiz\" tavrıyla yaşar.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u21305",
    "en": "Krogan: Culture",
-   "tr": "",
+   "tr": "Krogan: Kültür",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u21306",
    "en": "Citadel Security is a volunteer police service answering to the Citadel Council. The 200,000 constables of C-Sec are responsible for maintaining public order in the densely populated Citadel. They also provide pirate suppression, customs enforcement, and search-and-rescue throughout the Citadel cluster. \n\nC-Sec has six divisions:\n\nENFORCEMENT – Uniformed officers who patrol the Citadel and respond to emergencies.\n\nINVESTIGATION – Detectives who puzzle out the truth behind crimes and bring perpetrators to justice.\n\nCUSTOMS – Screens the thousands of passengers and cargo containers that pass through the Citadel's ports every day.\n\nNETWORK – Deals with \"cybercrimes\" like identity and copyright theft, hacking and viral attacks, and illegal artificial intelligence.\n\nSPECIAL RESPONSE – Deals with hostage situations, bombs, and heavily armed criminals. In the unlikely event that attackers board the Citadel, they are also the front line of defense, armed with military grade equipment.\n\nPATROL – Naval arm, with ships stationed throughout the Citadel cluster. Unlike the other divisions, they are rarely seen at the Citadel, nor do they stay in one place long. \n\nJoining C-Sec is prestigious; applications must be sponsored by a Citadel Councilor or the ambassador of an associate Council race. Generally, applicants have many years of distinguished service in the military or police forces of their nation, but an inexperienced applicant with demonstrable talent will be fairly considered.\n\nC-Sec and the Spectres are often at odds. Many C-Sec members, notably current Executor Venari Pallin, believe that allowing Spectres to be 'above the law' is a dangerous practice; the actions of Saren Arterius lend credence to this position. The Spectres, in turn, are aggravated when C-Sec’s dedication to procedure and due process hampers their investigations.\n\n",
-   "tr": "",
+   "tr": "Citadel Güvenliği, Citadel Konseyi'ne karşı sorumlu gönüllü bir polis hizmetidir. C-Sec'in 200.000 polisi, yoğun nüfuslu Citadel'de kamu düzenini korumaktan sorumludur. Ayrıca Citadel kümesi genelinde korsan bastırma, gümrük denetimi ve arama kurtarma hizmeti verirler. \n\nC-Sec'in altı bölümü vardır:\n\nUYGULAMA – Citadel'de devriye gezen ve acil durumlara müdahale eden üniformalı memurlar.\n\nSORUŞTURMA – Suçların ardındaki gerçeği çözüp failleri adalete teslim eden dedektifler.\n\nGÜMRÜK – Citadel'in limanlarından her gün geçen binlerce yolcu ve kargo konteynerini tarar.\n\nAĞ – Kimlik ve telif hakkı hırsızlığı, hackleme ve virüs saldırıları ve yasa dışı yapay zekâ gibi \"siber suçlarla\" ilgilenir.\n\nÖZEL MÜDAHALE – Rehine durumları, bombalar ve ağır silahlı suçlularla ilgilenir. Saldırganların Citadel'e girmesi gibi olası olmayan bir durumda askerî sınıf ekipmanla silahlanmış ilk savunma hattıdırlar.\n\nDEVRİYE – Citadel kümesi genelinde konuşlanmış gemileri olan deniz koludur. Diğer bölümlerin aksine Citadel'de nadiren görülürler, bir yerde uzun süre de kalmazlar. \n\nC-Sec'e katılmak prestijlidir; başvurular bir Citadel Konsey Üyesi veya ortak bir Konsey ırkının büyükelçisi tarafından desteklenmelidir. Genellikle başvuranların ulusal ordu veya polis güçlerinde uzun yıllara dayanan seçkin hizmeti vardır, ancak yeteneği kanıtlanabilir tecrübesiz bir başvuru da adil biçimde değerlendirilir.\n\nC-Sec ve Spectre'lar sıklıkla anlaşmazlık içindedir. Mevcut İcra Memuru Venari Pallin başta olmak üzere birçok C-Sec üyesi, Spectre'ların \"yasaların üstünde\" olmasına izin vermenin tehlikeli bir uygulama olduğuna inanıyor; Saren Arterius'un eylemleri bu görüşe güven veriyor. Spectre'lar ise C-Sec'in prosedüre ve usule bağlılığı soruşturmalarını engellediğinde öfkeleniyor.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u21307",
    "en": "Citadel Station: Citadel Security Services (C-Sec)",
-   "tr": "",
+   "tr": "Citadel İstasyonu: Citadel Güvenlik Hizmetleri (C-Sec)",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u21308",
    "en": "Citadel Defense Turret",
-   "tr": "",
+   "tr": "Citadel Savunma Taretti",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u21309",
    "en": "Power Cells",
-   "tr": "",
+   "tr": "Enerji Hücreleri",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u21310",
    "en": "Test Plot",
-   "tr": "",
+   "tr": "Deneme Hikâyesi",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u21311",
    "en": "Test Plot Description",
-   "tr": "",
+   "tr": "Deneme Hikâyesi Açıklaması",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u21312",
    "en": "you have completed 488 goal",
-   "tr": "",
+   "tr": "you have completed 488 goal",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u21313",
    "en": "488goal",
-   "tr": "",
+   "tr": "488goal",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u21314",
    "en": "you have completed 488task",
-   "tr": "",
+   "tr": "you have completed 488task",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u21315",
    "en": "488tasktitle",
-   "tr": "",
+   "tr": "488tasktitle",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u21316",
    "en": "Alliance grenades are metal disks capable of sticking to any flat surface. They can be triggered remotely after attaching to a target, or will detonate automatically after 10 seconds.",
-   "tr": "",
+   "tr": "İttifak el bombaları, herhangi bir düz yüzeye yapışabilen metal disklerdir. Bir hedefe yapıştıktan sonra uzaktan tetiklenebilir veya 10 saniye sonra otomatik patlar.",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u21317",
    "en": "Mission Summary",
-   "tr": "",
+   "tr": "Görev Özeti",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u21318",
    "en": "Task Details",
-   "tr": "",
+   "tr": "Görev Ayrıntıları",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u21319",
    "en": "Assignment Summary",
-   "tr": "",
+   "tr": "Görevlendirme Özeti",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u21320",
    "en": "Plot Items",
-   "tr": "",
+   "tr": "Hikâye Eşyaları",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u21321",
    "en": "Mark All Entries Viewed",
-   "tr": "",
+   "tr": "Tüm Girdileri Görüldü Olarak İşaretle",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u21322",
    "en": "Quarian lost in:",
-   "tr": "",
+   "tr": "Quarian'ın kaybolduğu yer:",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u21323",
    "en": "Pupil Size",
-   "tr": "",
+   "tr": "Gözbebeği Boyutu",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u21324",
    "en": "EyeLid_Mass",
-   "tr": "",
+   "tr": "EyeLid_Mass",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u21325",
    "en": "Brow Depth",
-   "tr": "",
+   "tr": "Kaş Derinliği",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u21326",
    "en": "Brow Height",
-   "tr": "",
+   "tr": "Kaş Yüksekliği",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u21327",
    "en": "Cheek Width",
-   "tr": "",
+   "tr": "Yanak Genişliği",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u21328",
    "en": "Cheek Bones",
-   "tr": "",
+   "tr": "Elmacık Kemikleri",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u21329",
    "en": "Cheek Gaunt",
-   "tr": "",
+   "tr": "Çökük Yanaklar",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u21330",
    "en": "Ears Height",
-   "tr": "",
+   "tr": "Kulak Yüksekliği",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u21331",
    "en": "Ears Size",
-   "tr": "",
+   "tr": "Kulak Boyutu",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u21332",
    "en": "Ears Orientation",
-   "tr": "",
+   "tr": "Kulak Yönü",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u21333",
    "en": "Mouth Lip Size",
-   "tr": "",
+   "tr": "Dudak Boyutu",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u21334",
    "en": "Mouth Bite",
-   "tr": "",
+   "tr": "Ağız Isırığı",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u21335",
    "en": "Nose Tip Height",
-   "tr": "",
+   "tr": "Burun Ucu Yüksekliği",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u21336",
    "en": "Nose Bridge Width",
-   "tr": "",
+   "tr": "Burun Kökü Genişliği",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u21337",
    "en": "Nose Bridge Depth",
-   "tr": "",
+   "tr": "Burun Kökü Derinliği",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u21338",
    "en": "Nose Tip Width",
-   "tr": "",
+   "tr": "Burun Ucu Genişliği",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u21339",
    "en": "Nose Nostril Width",
-   "tr": "",
+   "tr": "Burun Kanadı Genişliği",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u21340",
    "en": "Nose Top Depth",
-   "tr": "",
+   "tr": "Burun Üst Derinliği",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u21341",
    "en": "Cheeks",
-   "tr": "",
+   "tr": "Yanaklar",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u21342",
    "en": "Neck Thickness",
-   "tr": "",
+   "tr": "Boyun Kalınlığı",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u21343",
    "en": "Adam's apple",
-   "tr": "",
+   "tr": "Adem elması",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u21344",
    "en": "you have completed 490_quest",
-   "tr": "",
+   "tr": "you have completed 490_quest",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u21345",
    "en": "490_quest",
-   "tr": "",
+   "tr": "490_quest",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u21346",
    "en": "you have completed 490_task",
-   "tr": "",
+   "tr": "you have completed 490_task",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u21347",
    "en": "490_task",
-   "tr": "",
+   "tr": "490_task",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u21348",
    "en": "Accelerate",
-   "tr": "",
+   "tr": "Hızlan",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u21349",
    "en": "Verify this is your facial appearance.",
-   "tr": "",
+   "tr": "Bunun yüz görünümünüz olduğunu doğrulayın.",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u21350",
    "en": "Create a different facial appearance.",
-   "tr": "",
+   "tr": "Farklı bir yüz görünümü oluşturun.",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u21351",
    "en": "Confirm Facial Identification",
-   "tr": "",
+   "tr": "Yüz Kimliğini Onayla",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u21352",
    "en": "Confirm Appearance",
-   "tr": "",
+   "tr": "Görünümü Onayla",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u21353",
    "en": "Change Appearance",
-   "tr": "",
+   "tr": "Görünümü Değiştir",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u21354",
    "en": "Storage Shelf",
-   "tr": "",
+   "tr": "Depo Rafı",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u21355",
    "en": "Gameplay",
-   "tr": "",
+   "tr": "Oynanış",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u21356",
    "en": "Gameplay options allow you to customize your game experience. Gameplay mechanics such as difficulty and dialog mode can be found here.",
-   "tr": "",
+   "tr": "Oynanış seçenekleri oyun deneyiminizi özelleştirmenize olanak tanır. Zorluk ve diyalog modu gibi oynanış mekanikleri burada bulunabilir.",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u21357",
    "en": "Play as a previously created character.",
-   "tr": "",
+   "tr": "Daha önce oluşturulmuş bir karakter olarak oyna.",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u21358",
    "en": "End Mission",
-   "tr": "",
+   "tr": "Görevi Bitir",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u21359",
    "en": "Continue Mission",
-   "tr": "",
+   "tr": "Göreve Devam Et",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u21360",
    "en": "Return To Normandy",
-   "tr": "",
+   "tr": "Normandy'ye Dön",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u21361",
    "en": "Continue Exporing",
-   "tr": "",
+   "tr": "Keşfetmeye Devam Et",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u21362",
    "en": "Investigate cell",
-   "tr": "",
+   "tr": "Hücreyi Araştır",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u21363",
    "en": "Combat Difficulty",
-   "tr": "",
+   "tr": "Muharebe Zorluğu",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u21364",
    "en": "Adjust the difficulty of combat across the game.\n",
-   "tr": "",
+   "tr": "Oyun boyunca muharebenin zorluğunu ayarlayın.\n",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u21365",
    "en": "Casual",
-   "tr": "",
+   "tr": "Kolay",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u21366",
    "en": "All enemies, including bosses, are scaled down relative to the player's level. Most enemies have no special protection or immunities.",
-   "tr": "",
+   "tr": "Patronlar dahil tüm düşmanlar oyuncunun seviyesine göre küçültülür. Çoğu düşmanın özel koruması veya bağışıklığı yoktur.",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u21367",
    "en": "Normal",
-   "tr": "",
+   "tr": "Normal",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u21368",
    "en": "Bosses scaled up based on the player's level. Some enemies have special protection.",
-   "tr": "",
+   "tr": "Patronlar oyuncunun seviyesine göre büyütülür. Bazı düşmanların özel koruması vardır.",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u21369",
    "en": "Veteran",
-   "tr": "",
+   "tr": "Gazi",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u21370",
    "en": "Bosses and sub-bosses scaled up based on player level. Most enemies have special protection.",
-   "tr": "",
+   "tr": "Patronlar ve alt patronlar oyuncunun seviyesine göre büyütülür. Çoğu düşmanın özel koruması vardır.",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u21371",
    "en": "Hardcore",
-   "tr": "",
+   "tr": "Çetin",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u21372",
    "en": "Most enemies scaled up based on the player's level. All enemies have protection. Bosses have immunities.\n",
-   "tr": "",
+   "tr": "Çoğu düşman oyuncunun seviyesine göre büyütülür. Tüm düşmanların koruması vardır. Patronların bağışıklıkları vardır.\n",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u21373",
    "en": "Insanity",
-   "tr": "",
+   "tr": "Delilik",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u21374",
    "en": "All enemies scaled up relative to player level. Bosses and sub-bosses scale radically. All enemies have protection. Bosses and sub-bosses have immunities.\n",
-   "tr": "",
+   "tr": "Tüm düşmanlar oyuncu seviyesine göre büyütülür. Patronlar ve alt patronlar köklü biçimde büyür. Tüm düşmanların koruması vardır. Patronların ve alt patronların bağışıklıkları vardır.\n",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u21375",
    "en": "Dialog",
-   "tr": "",
+   "tr": "Diyalog",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u21376",
    "en": "Switch between normal dialog and movie mode.",
-   "tr": "",
+   "tr": "Normal diyalog ile film modu arasında geçiş yapın.",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u21377",
    "en": "Dialog advanced through player selections.",
-   "tr": "",
+   "tr": "Diyalog oyuncu seçimleriyle ilerler.",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u21378",
    "en": "Movie Mode",
-   "tr": "",
+   "tr": "Film Modu",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u21379",
    "en": "Dialog advances automatically for a fully cinematic experience. Player responses are selected with no player input.",
-   "tr": "",
+   "tr": "Diyalog tam sinematik bir deneyim için otomatik ilerler. Oyuncu yanıtları, oyuncu girdisi olmadan seçilir.",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u21380",
    "en": "Auto Level-Up",
-   "tr": "",
+   "tr": "Otomatik Seviye Atlama",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u21381",
    "en": "Adjust whether points are automatically or manually assigned each time a character advances in level.",
-   "tr": "",
+   "tr": "Bir karakter seviye atladığında puanların otomatik mi yoksa elle mi atanacağını ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u21382",
    "en": "Off",
-   "tr": "",
+   "tr": "Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u21383",
    "en": "Points must be manually assigned using the SQUAD screen each time Shepard or any squad member gains a level.",
-   "tr": "",
+   "tr": "Shepard veya herhangi bir takım üyesi seviye atladığında puanlar TAKIM ekranı kullanılarak elle atanmalıdır.",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u21384",
    "en": "Squad only",
-   "tr": "",
+   "tr": "Yalnızca takım",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u21385",
    "en": "Points automatically assigned to appropriate talents each time a squad member gains a level. Points must be manually assigned using the SQUAD screen whenever Shepard gains a level.",
-   "tr": "",
+   "tr": "Bir takım üyesi seviye atladığında puanlar uygun yeteneklere otomatik atanır. Shepard seviye atladığında puanlar TAKIM ekranı kullanılarak elle atanmalıdır.",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u21386",
    "en": "Squad and Player",
-   "tr": "",
+   "tr": "Takım ve Oyuncu",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u21387",
    "en": "Points automatically assigned to appropriate talents each time Shepard or any squad member gains a level.",
-   "tr": "",
+   "tr": "Shepard veya herhangi bir takım üyesi seviye atladığında puanlar uygun yeteneklere otomatik atanır.",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u21388",
    "en": "Auto-Equip",
-   "tr": "",
+   "tr": "Otomatik Kuşanma",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u21389",
    "en": "Adjust whether weapons, armor and items are automatically equipped for Shepard and the squad.",
-   "tr": "",
+   "tr": "Shepard ve takım için silah, zırh ve eşyaların otomatik kuşanılıp kuşanılmayacağını ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u21390",
    "en": "All weapons, armor and items for Shepard and the squad must be manually equipped using the EQUIPMENT screen.",
-   "tr": "",
+   "tr": "Shepard ve takım için tüm silah, zırh ve eşyalar TEÇHİZAT ekranı kullanılarak elle kuşanılmalıdır.",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u21391",
    "en": "Appropriate weapons, armor and items for all squad members will be automatically equipped. All weapons, armor and items for Shepard must be manually equipped using the EQUIPMENT screen.\n",
-   "tr": "",
+   "tr": "Tüm takım üyeleri için uygun silah, zırh ve eşyalar otomatik kuşanılır. Shepard için tüm silah, zırh ve eşyalar TEÇHİZAT ekranı kullanılarak elle kuşanılmalıdır.\n",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u21392",
    "en": "Appropriate weapons, armor and items for Shepard and all squad members will be automatically equipped.",
-   "tr": "",
+   "tr": "Shepard ve tüm takım üyeleri için uygun silah, zırh ve eşyalar otomatik kuşanılır.",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u21393",
    "en": "Invert Y Axis",
-   "tr": "",
+   "tr": "Y Eksenini Ters Çevir",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u21394",
    "en": "Invert vertical control for the camera",
-   "tr": "",
+   "tr": "Kamera için dikey kontrolü ters çevirin",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u21395",
    "en": "Invert Y Axis On",
-   "tr": "",
+   "tr": "Y Eksenini Ters Çevir Açık",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u21396",
    "en": "Invert Y Axis Off",
-   "tr": "",
+   "tr": "Y Eksenini Ters Çevir Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u21397",
    "en": "Follow Camera",
-   "tr": "",
+   "tr": "Takip Kamerası",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u21398",
    "en": "Camera will automatically center on and follow the player in exploration mode.",
-   "tr": "",
+   "tr": "Kamera, keşif modunda oyuncuyu otomatik olarak ortalar ve takip eder.",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u21399",
    "en": "Follow Camera On",
-   "tr": "",
+   "tr": "Takip Kamerası Açık",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u21400",
    "en": "Follow Camera Off",
-   "tr": "",
+   "tr": "Takip Kamerası Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u21401",
    "en": "Tutorials",
-   "tr": "",
+   "tr": "Eğitimler",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u21402",
    "en": "Adjust tutorial options.",
-   "tr": "",
+   "tr": "Eğitim seçeneklerini ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u21403",
    "en": "Enable Tutorials",
-   "tr": "",
+   "tr": "Eğitimleri Etkinleştir",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u21404",
    "en": "Enable pop-up tutorials.",
-   "tr": "",
+   "tr": "Açılır eğitimleri etkinleştirin.",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u21405",
    "en": "Tutorials On",
-   "tr": "",
+   "tr": "Eğitimler Açık",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u21406",
    "en": "Tutorials Off",
-   "tr": "",
+   "tr": "Eğitimler Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u21407",
    "en": "Subtitles",
-   "tr": "",
+   "tr": "Altyazılar",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u21408",
    "en": "Enable or disable subtitles. Subtitle size is adjustable for all titles in the Launcher settings.",
-   "tr": "",
+   "tr": "Altyazıları etkinleştirin veya devre dışı bırakın. Altyazı boyutu, Başlatıcı ayarlarında tüm oyunlar için ayarlanabilir.",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u21409",
    "en": "Subtitles On",
-   "tr": "",
+   "tr": "Altyazılar Açık",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u21410",
    "en": "Subtitles Off",
-   "tr": "",
+   "tr": "Altyazılar Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u21411",
    "en": "Auto-Pause",
-   "tr": "",
+   "tr": "Otomatik Duraklatma",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u21412",
    "en": "Adjust when the game will automatically pause.",
-   "tr": "",
+   "tr": "Oyunun ne zaman otomatik duraklayacağını ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u21413",
    "en": "Enemy Sighted",
-   "tr": "",
+   "tr": "Düşman Görüldü",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u21414",
    "en": "Auto-Pause when enemies sighted.",
-   "tr": "",
+   "tr": "Düşmanlar görüldüğünde otomatik duraklat.",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u21415",
    "en": "Enemy Sighted Auto-Pause On",
-   "tr": "",
+   "tr": "Düşman Görüldü Otomatik Duraklatma Açık",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u21416",
    "en": "Enemy Sighted Auto-Pause Off",
-   "tr": "",
+   "tr": "Düşman Görüldü Otomatik Duraklatma Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u21417",
    "en": "Squad Member Down",
-   "tr": "",
+   "tr": "Takım Üyesi Düştü",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u21418",
    "en": "Pause whenever a squad member goes down.",
-   "tr": "",
+   "tr": "Bir takım üyesi düştüğünde duraklat.",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u21419",
    "en": "Squad Member Down Auto-Pause On",
-   "tr": "",
+   "tr": "Takım Üyesi Düştü Otomatik Duraklatma Açık",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u21420",
    "en": "Squad Member Down Auto-Pause Off",
-   "tr": "",
+   "tr": "Takım Üyesi Düştü Otomatik Duraklatma Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u21421",
    "en": "Graphics",
-   "tr": "",
+   "tr": "Grafikler",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u21422",
    "en": "Adjust graphics options.",
-   "tr": "",
+   "tr": "Grafik seçeneklerini ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u21423",
    "en": "Brightness",
-   "tr": "",
+   "tr": "Parlaklık",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u21424",
    "en": "Increase or Decrease Brightness",
-   "tr": "",
+   "tr": "Parlaklığı Artırın veya Azaltın",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u21425",
    "en": "Display Setting",
-   "tr": "",
+   "tr": "Ekran Ayarı",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u21426",
    "en": "Adjust Display Settings",
-   "tr": "",
+   "tr": "Ekran Ayarlarını Düzenleyin",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u21427",
    "en": "Default Setting",
-   "tr": "",
+   "tr": "Varsayılan Ayar",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u21428",
    "en": "Cinematic Image, Higher Contrast",
-   "tr": "",
+   "tr": "Sinematik Görüntü, Yüksek Kontrast",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u21429",
    "en": "Radiant Setting",
-   "tr": "",
+   "tr": "Parlak Ayar",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u21430",
    "en": "Brighter Image, Lower Contrast",
-   "tr": "",
+   "tr": "Daha Parlak Görüntü, Düşük Kontrast",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u21431",
    "en": "Intermediate Setting",
-   "tr": "",
+   "tr": "Ara Ayar",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u21432",
    "en": "Softer Image, Medium Contrast",
-   "tr": "",
+   "tr": "Daha Yumuşak Görüntü, Orta Kontrast",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u21433",
    "en": "Sound",
-   "tr": "",
+   "tr": "Ses",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u21434",
    "en": "Adjust music, sound effects, and dialog levels.",
-   "tr": "",
+   "tr": "Müzik, ses efektleri ve diyalog seviyelerini ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u21435",
    "en": "Music Volume",
-   "tr": "",
+   "tr": "Müzik Ses Düzeyi",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u21436",
    "en": "Increase or decrease music volume.",
-   "tr": "",
+   "tr": "Müzik ses düzeyini artırın veya azaltın.",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u21437",
    "en": "Sound Effects Volume",
-   "tr": "",
+   "tr": "Ses Efektleri Ses Düzeyi",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u21438",
    "en": "Increase or decrease sound effects volume.",
-   "tr": "",
+   "tr": "Ses efektleri ses düzeyini artırın veya azaltın.",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u21439",
    "en": "Dialog Volume",
-   "tr": "",
+   "tr": "Diyalog Ses Düzeyi",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u21440",
    "en": "Increase or decrease dialog volume.",
-   "tr": "",
+   "tr": "Diyalog ses düzeyini artırın veya azaltın.",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u21441",
    "en": "Quit Game",
-   "tr": "",
+   "tr": "Oyundan Çık",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u21442",
    "en": "Return to Main Menu",
-   "tr": "",
+   "tr": "Ana Menüye Dön",
    "ctx": [
     "Startup"
    ]
