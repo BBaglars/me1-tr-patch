@@ -9,7 +9,7 @@
   {
    "key": "u27090",
    "en": "As you gain levels, use the Squad screen to improve your team's abilities.\nPress %PAUSEMENU to access the Squad screen.",
-   "tr": "",
+   "tr": "Seviye atladıkça takımınızın yeteneklerini geliştirmek için Takım ekranını kullanın.\nTakım ekranına erişmek için %PAUSEMENU tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u27091",
    "en": "Important locations are marked on your map. \nPress %MAPMENU to access it.",
-   "tr": "",
+   "tr": "Önemli konumlar haritanızda işaretlenir. \nHaritaya erişmek için %MAPMENU tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u27092",
    "en": "Hold %ABILITIESWHEEL to bring up the Power wheel. \nThe Power wheel lets you use the powers and special abilities of your squad.",
-   "tr": "",
+   "tr": "Güç çarkını açmak için %ABILITIESWHEEL tuşunu basılı tutun. \nGüç çarkı, takımınızın güçlerini ve özel yeteneklerini kullanmanızı sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u27093",
    "en": "Hold the right mouse button and move the mouse to aim at a target.\nLeft-click on a power icon to use it.",
-   "tr": "",
+   "tr": "Bir hedefe nişan almak için sağ fare tuşunu basılı tutup fareyi hareket ettirin.\nBir gücü kullanmak için simgesine sol tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u27094",
    "en": "Use %ORDERSWHEEL to issue orders to your squad, or use:\n%ORDERSSQUADATTACK: Attack your target.\n%ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2: Have a specific squadmate move to a point or attack the targetted enemy.\n%ORDERSSQUADFOLLOW: Regroup and follow you.",
-   "tr": "",
+   "tr": "Takımınıza emir vermek için %ORDERSWHEEL tuşunu kullanın veya şunlardan birini kullanın:\n%ORDERSSQUADATTACK: Hedefinize saldırın.\n%ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2: Belirli bir takım arkadaşının bir noktaya gitmesini veya hedeflenen düşmana saldırmasını sağlayın.\n%ORDERSSQUADFOLLOW: Yeniden toplanıp sizi takip etsinler.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u27095",
    "en": "Press %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 to send a squadmate ahead.\nPress %ORDERSSQUADFOLLOW to call them back.",
-   "tr": "",
+   "tr": "Bir takım arkadaşını ileri göndermek için %ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2 tuşuna basın.\nOnu geri çağırmak için %ORDERSSQUADFOLLOW tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u27096",
    "en": "The Squad screen lets you view your team's talents. \nMouse over a talent or its rank to view it.\nClick on a talent to spend a Talent Point to gain a rank in it.\nAs you gain levels, you will acquire Talent Points and unlock higher ranks.",
-   "tr": "",
+   "tr": "Takım ekranı, takımınızın yeteneklerini görmenizi sağlar. \nBir yeteneği veya rütbesini görmek için üzerine gelin.\nBir yeteneğe Yetenek Puanı harcayıp rütbe kazanmak için üzerine tıklayın.\nSeviye atladıkça Yetenek Puanı kazanır ve daha yüksek rütbelerin kilidini açarsınız.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u27097",
    "en": "Hold %STORM while moving to storm forward rapidly while in combat.",
-   "tr": "",
+   "tr": "Savaşta hareket ederken hızla ileri atılmak için %STORM tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u27098",
    "en": "Use %ZOOM to aim. \nAiming increases your accuracy.",
-   "tr": "",
+   "tr": "Nişan almak için %ZOOM tuşunu kullanın. \nNişan almak isabetinizi artırır.",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u27099",
    "en": "Press %GRENADE to throw a grenade, and press it again to detonate it.",
-   "tr": "",
+   "tr": "El bombası atmak için %GRENADE tuşuna basın; patlatmak için tekrar basın.",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u27100",
    "en": "In the Mako:\n%VEHICLECANNON fires the main cannon.\n%VEHICLEMACHINEGUN fires the coaxial machinegun.\n%VEHICLEZOOM zooms.\n%VEHICLEJETS fires the jump jets.\n%VEHICLERETURN returns you to the Normandy from an Uncharted World.",
-   "tr": "",
+   "tr": "Mako'da:\n%VEHICLECANNON ana topu ateşler.\n%VEHICLEMACHINEGUN eş eksenli makineli tüfeği ateşler.\n%VEHICLEZOOM yakınlaştırır.\n%VEHICLEJETS jet motorlarını ateşler.\n%VEHICLERETURN sizi Keşfedilmemiş Dünya'dan Normandy'ye döndürür.",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u27101",
    "en": "Press %VEHICLEREPAIR to repair the Mako using omni-gel.",
-   "tr": "",
+   "tr": "Mako'yu omni-jel ile onarmak için %VEHICLEREPAIR tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u27102",
    "en": "Hold %TACTICSHUD to switch weapons for your squad.",
-   "tr": "",
+   "tr": "Takımınızın silahlarını değiştirmek için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u27103",
    "en": "To change weapons, hold %WEAPONSWHEEL.\nLeft-click on a weapon's icon to equip it.",
-   "tr": "",
+   "tr": "Silah değiştirmek için %WEAPONSWHEEL tuşunu basılı tutun.\nKuşanmak için bir silahın simgesine sol tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u27104",
    "en": "Cannot save because the 1 GB data size limit has been reached. Please delete or overwrite an existing saved game to continue.",
-   "tr": "",
+   "tr": "1 GB veri boyutu sınırına ulaşıldığı için kaydedilemiyor. Devam etmek için lütfen mevcut bir kayıtlı oyunu silin veya üzerine yazın.",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u27105",
    "en": "Infiltrators combine combat and tech talents. Use the Power Wheel to access their special abilities as you unlock them.",
-   "tr": "",
+   "tr": "Sızma Uzmanları savaş ve teknoloji yeteneklerini birleştirir. Özel yeteneklerinin kilidini açtıkça onlara erişmek için Güç Çarkı'nı kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u27106",
    "en": "Sentinels combine biotic and tech talents. Use the Power Wheel to access their special abilities as you unlock them.",
-   "tr": "",
+   "tr": "Bekçiler biyotik ve teknoloji yeteneklerini birleştirir. Özel yeteneklerinin kilidini açtıkça onlara erişmek için Güç Çarkı'nı kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u27107",
    "en": "Vanguards combine biotic and combat talents. Use the Power Wheel to access their special abilities as you unlock them.",
-   "tr": "",
+   "tr": "Öncüler biyotik ve savaş yeteneklerini birleştirir. Özel yeteneklerinin kilidini açtıkça onlara erişmek için Güç Çarkı'nı kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u27108",
    "en": "Marksman will only appear on the Power Wheel for squad members armed with pistols.",
-   "tr": "",
+   "tr": "Nişancılık yalnızca tabancayla donanmış takım üyeleri için Güç Çarkı'nda görünür.",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u27109",
    "en": "Carnage will only appear on the Power Wheel for squad members armed with shotguns.",
-   "tr": "",
+   "tr": "Katliam yalnızca pompalı tüfekle donanmış takım üyeleri için Güç Çarkı'nda görünür.",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u27110",
    "en": "Overkill will only appear on the Power Wheel for squad members armed with assault rifles.",
-   "tr": "",
+   "tr": "Ezici Güç yalnızca taarruz tüfeğiyle donanmış takım üyeleri için Güç Çarkı'nda görünür.",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u27111",
    "en": "Assassination will only appear on the Power Wheel for squad members armed with sniper rifles.",
-   "tr": "",
+   "tr": "Suikast yalnızca keskin nişancı tüfeğiyle donanmış takım üyeleri için Güç Çarkı'nda görünür.",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u27112",
    "en": "Squad members with Stasis can use the Power Wheel to temporarily disable a single opponent. Enemies trapped in Stasis are immune to all other attacks.",
-   "tr": "",
+   "tr": "Stazis yeteneğine sahip takım üyeleri, Güç Çarkı ile tek bir rakibi geçici olarak devre dışı bırakabilir. Stazis'e hapsolan düşmanlar diğer tüm saldırılara karşı bağışıktır.",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u27113",
    "en": "Unity uses medi-gel to revive fallen squad members during combat. You must spend points in Spectre Training to unlock Unity on the Power Wheel.",
-   "tr": "",
+   "tr": "Birlik, savaşta düşen takım üyelerini canlandırmak için medi-jel kullanır. Birliğin Güç Çarkı'nda açılması için Spectre Eğitimi'ne puan harcamalısınız.",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u27114",
    "en": "Unlock the Sabotage ability then use the Power Wheel to launch it against your enemies. This will temporarily disable their weapons.",
-   "tr": "",
+   "tr": "Sabotaj yeteneğinin kilidini açın, ardından düşmanlarınıza karşı kullanmak için Güç Çarkı'nı kullanın. Bu, silahlarını geçici olarak devre dışı bırakır.",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u27115",
    "en": "Squad members with biotic Lift can use the Power Wheel to lift enemies high into the air, hampering their ability to fight and damaging them when they fall back to the floor.",
-   "tr": "",
+   "tr": "Biyotik Kaldırma yeteneğine sahip takım üyeleri, Güç Çarkı ile düşmanları havaya kaldırabilir; bu, savaşma yeteneklerini azaltır ve yere düşerken hasar almalarına yol açar.",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u27116",
    "en": "Unlock the Overload ability, then use the Power Wheel to launch it against your foes. This will temporarily damage their shields and armor.",
-   "tr": "",
+   "tr": "Aşırı Yükleme yeteneğinin kilidini açın, ardından düşmanlarınıza karşı kullanmak için Güç Çarkı'nı kullanın. Bu, kalkanlarına ve zırhlarına geçici olarak hasar verir.",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u27117",
    "en": "Squad members with biotic Throw can use the Power Wheel to toss opponents backwards, violently slamming them into objects and walls.",
-   "tr": "",
+   "tr": "Biyotik Fırlatma yeteneğine sahip takım üyeleri, Güç Çarkı ile rakipleri geriye savurup nesnelere ve duvarlara şiddetle çarptırabilir.",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u27118",
    "en": "Squad members with biotic Barrier can use the Power Wheel to make them virtually immune to enemy gunfire.",
-   "tr": "",
+   "tr": "Biyotik Bariyer yeteneğine sahip takım üyeleri, Güç Çarkı ile kendilerini düşman ateşine karşı neredeyse bağışık hale getirebilir.",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u27119",
    "en": "Saving content. Please don't turn off your computer.",
-   "tr": "",
+   "tr": "İçerik kaydediliyor. Lütfen bilgisayarınızı kapatmayın.",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u27120",
    "en": "Melee",
-   "tr": "",
+   "tr": "Yakın Dövüş",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u27121",
    "en": "Exit to Launcher",
-   "tr": "",
+   "tr": "Başlatıcıya Çık",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u27122",
    "en": "UNBOUND",
-   "tr": "",
+   "tr": "ATANMAMIŞ",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u27123",
    "en": "Press (%MELEE) to melee attack.",
-   "tr": "",
+   "tr": "Yakın dövüş saldırısı için (%MELEE) tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u27124",
    "en": "Principled",
-   "tr": "",
+   "tr": "İlkeli",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u27125",
    "en": "Accumulate 75% of total possible Paragon or Renegade points",
-   "tr": "",
+   "tr": "Toplam olası Paragon veya Renegade puanlarının %75'ini biriktir",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u27126",
    "en": "Antialiasing",
-   "tr": "",
+   "tr": "Kenar Yumuşatma",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u27127",
    "en": "Enable antialiasing to smooth the edges of in-game graphics.",
-   "tr": "",
+   "tr": "Oyun içi grafiklerin kenarlarını yumuşatmak için kenar yumuşatmayı etkinleştirin.",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u27128",
    "en": "Window Mode",
-   "tr": "",
+   "tr": "Pencere Modu",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u27129",
    "en": "Windowed",
-   "tr": "",
+   "tr": "Pencereli",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u27130",
    "en": "Borderless",
-   "tr": "",
+   "tr": "Çerçevesiz",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u27131",
    "en": "Fullscreen",
-   "tr": "",
+   "tr": "Tam Ekran",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u27132",
    "en": "Switch between Windowed, Borderless, or Fullscreen windows. Running the game in Borderless may resemble fullscreen, depending on your resolution. It is faster to Alt-Tab from the game while in this mode than when running in fullscreen mode.",
-   "tr": "",
+   "tr": "Pencereli, Çerçevesiz veya Tam Ekran pencereler arasında geçiş yapın. Oyunu Çerçevesiz modda çalıştırmak, çözünürlüğünüze bağlı olarak tam ekrana benzeyebilir. Bu modda oyundan Alt-Tab ile çıkmak, tam ekran modundakinden daha hızlıdır.",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u27133",
    "en": "Standard stick configuration.",
-   "tr": "",
+   "tr": "Standart çubuk yapılandırması.",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u27134",
    "en": "Left-handed stick configuration.",
-   "tr": "",
+   "tr": "Solak çubuk yapılandırması.",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u27135",
    "en": "Shooting Configuration",
-   "tr": "",
+   "tr": "Ateş Etme Yapılandırması",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u27136",
    "en": "Standard shooting configuration.",
-   "tr": "",
+   "tr": "Standart ateş etme yapılandırması.",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u27137",
    "en": "Left-handed shooting configuration.",
-   "tr": "",
+   "tr": "Solak ateş etme yapılandırması.",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u27138",
    "en": "Default Swapped",
-   "tr": "",
+   "tr": "Varsayılan Yer Değiştirmeli",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u27139",
    "en": "Swaps [UI_XBoxB_Btn_LB] with [UI_XBoxB_Btn_LT] and [UI_XBoxB_Btn_RB] with [UI_XBoxB_Btn_RT].",
-   "tr": "",
+   "tr": "[UI_XBoxB_Btn_LB] ile [UI_XBoxB_Btn_LT] ve [UI_XBoxB_Btn_RB] ile [UI_XBoxB_Btn_RT] tuşlarının yerini değiştirir.",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u27140",
    "en": "Southpaw Swapped",
-   "tr": "",
+   "tr": "Solak Yer Değiştirmeli",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u27141",
    "en": "Left-handed shooting configuration. Also swaps [UI_XBoxB_Btn_LB] with [UI_XBoxB_Btn_LT] and [UI_XBoxB_Btn_RB] with [UI_XBoxB_Btn_RT].",
-   "tr": "",
+   "tr": "Solak ateş etme yapılandırması. Ayrıca [UI_XBoxB_Btn_LB] ile [UI_XBoxB_Btn_LT] ve [UI_XBoxB_Btn_RB] ile [UI_XBoxB_Btn_RT] tuşlarının yerini değiştirir.",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u27142",
    "en": "Stick Configuration",
-   "tr": "",
+   "tr": "Çubuk Yapılandırması",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u27143",
    "en": "<CUSTOM0> has been unbound.",
-   "tr": "",
+   "tr": "<CUSTOM0> ataması kaldırıldı.",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u27144",
    "en": "Quick Load",
-   "tr": "",
+   "tr": "Hızlı Yükle",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u27145",
    "en": "In the Menus",
-   "tr": "",
+   "tr": "Menülerde",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u27146",
    "en": "Playing the game",
-   "tr": "",
+   "tr": "Oyun sırasında",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u27147",
    "en": "Saving content. Please do not turn off your system.",
-   "tr": "",
+   "tr": "İçerik kaydediliyor. Lütfen sisteminizi kapatmayın.",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u27148",
    "en": "One or more saved games is corrupted and is no longer available. Do you want to delete the corrupted save game(s)?",
-   "tr": "",
+   "tr": "Bir veya daha fazla kayıtlı oyun bozuk ve artık kullanılamıyor. Bozuk kayıtlı oyunlar silinsin mi?",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u27149",
    "en": "The display settings have been changed. Keep these settings?",
-   "tr": "",
+   "tr": "Ekran ayarları değiştirildi. Bu ayarlar korunsun mu?",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u27150",
    "en": "Deleting data. Please do not turn off your console.",
-   "tr": "",
+   "tr": "Veriler siliniyor. Lütfen konsolunuzu kapatmayın.",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u27151",
    "en": "Deleting data. Please do not turn off your system.",
-   "tr": "",
+   "tr": "Veriler siliniyor. Lütfen sisteminizi kapatmayın.",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u27152",
    "en": "Deleting data. Please do not turn off your computer.",
-   "tr": "",
+   "tr": "Veriler siliniyor. Lütfen bilgisayarınızı kapatmayın.",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u27153",
    "en": "ESC to Cancel",
-   "tr": "",
+   "tr": "İptal için ESC",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u27154",
    "en": "Advance to the central core. \nUse [UI_XBoxB_Btn_LS] to move around the ring.\nPress [UI_XBoxB_Btn_A] and [UI_XBoxB_Btn_B] to move inward and outward.\nAvoid the security programs.",
-   "tr": "",
+   "tr": "Merkez çekirdeğe ilerleyin. \nHalka üzerinde dolaşmak için [UI_XBoxB_Btn_LS] kullanın.\nİçeri ve dışarı gitmek için [UI_XBoxB_Btn_A] ve [UI_XBoxB_Btn_B] tuşlarına basın.\nGüvenlik programlarından kaçının.",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u27155",
    "en": "Choose between a Standard stick configuration and a Left-handed stick configuration.",
-   "tr": "",
+   "tr": "Standart çubuk yapılandırması ile Solak çubuk yapılandırması arasında seçim yapın.",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u27156",
    "en": "Choose between a Standard or Left-handed shooting configuration and if you want [XBoxB_Btn_RB]/[XBoxB_Btn_LB] to be swapped with [XBoxB_Btn_RT]/[XBoxB_Btn_LT].",
-   "tr": "",
+   "tr": "Standart veya Solak ateş etme yapılandırması arasında seçim yapın ve [XBoxB_Btn_RB]/[XBoxB_Btn_LB] tuşlarının [XBoxB_Btn_RT]/[XBoxB_Btn_LT] ile yer değiştirmesini isteyip istemediğinizi belirleyin.",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u27157",
    "en": "Access Hatch",
-   "tr": "",
+   "tr": "Erişim Kapağı",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u27158",
    "en": "<CUSTOM1> <CUSTOM0>",
-   "tr": "",
+   "tr": "<CUSTOM1> <CUSTOM0>",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u27159",
    "en": "<CUSTOM2> <CUSTOM1> <CUSTOM0>",
-   "tr": "",
+   "tr": "<CUSTOM2> <CUSTOM1> <CUSTOM0>",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u27160",
    "en": "<CUSTOM3> <CUSTOM2> <CUSTOM1> <CUSTOM0>",
-   "tr": "",
+   "tr": "<CUSTOM3> <CUSTOM2> <CUSTOM1> <CUSTOM0>",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u27161",
    "en": "The key '<CUSTOM0>' is a constant key and cannot be rebound. Please bind to a different key.",
-   "tr": "",
+   "tr": "'<CUSTOM0>' tuşu sabit bir tuştur ve yeniden atanamaz. Lütfen farklı bir tuş atayın.",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u27162",
    "en": "Key bound successfully.",
-   "tr": "",
+   "tr": "Tuş başarıyla atandı.",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u27163",
    "en": "Last Weapon",
-   "tr": "",
+   "tr": "Son Silah",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u27164",
    "en": "Aim (HOLD)",
-   "tr": "",
+   "tr": "Nişan Al (BASILI TUT)",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u27165",
    "en": "Exit Vehicle",
-   "tr": "",
+   "tr": "Araçtan Çık",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u27166",
    "en": "Boosters",
-   "tr": "",
+   "tr": "Güçlendiriciler",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u27167",
    "en": "HDR Calibration",
-   "tr": "",
+   "tr": "HDR Kalibrasyonu",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u27168",
    "en": "Calibration",
-   "tr": "",
+   "tr": "Kalibrasyon",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u27169",
    "en": "Enable HDR",
-   "tr": "",
+   "tr": "HDR'yi Etkinleştir",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u27170",
    "en": "Auto will enable HDR when it is available. Off will disable HDR completely.",
-   "tr": "",
+   "tr": "Otomatik, HDR kullanılabilir olduğunda onu etkinleştirir. Kapalı, HDR'yi tamamen devre dışı bırakır.",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u27171",
    "en": "Auto",
-   "tr": "",
+   "tr": "Otomatik",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u27172",
    "en": "HDR Brightness",
-   "tr": "",
+   "tr": "HDR Parlaklığı",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u27173",
    "en": "Calibrates peak brightness for your output device. Adjust the slider until the logo is no longer visible.",
-   "tr": "",
+   "tr": "Çıkış cihazınız için tepe parlaklığı kalibre eder. Logo artık görünmeyene kadar kaydırıcıyı ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u27174",
    "en": "HDR Contrast",
-   "tr": "",
+   "tr": "HDR Kontrastı",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u27175",
    "en": "Adjust the game's HDR contrast until the logo is no longer visible.",
-   "tr": "",
+   "tr": "Logo artık görünmeyene kadar oyunun HDR kontrastını ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u27176",
    "en": "Binding <CUSTOM0> will unbind <CUSTOM1>. Are you sure?",
-   "tr": "",
+   "tr": "<CUSTOM0> atamak, <CUSTOM1> atamasını kaldıracak. Emin misiniz?",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u27177",
    "en": "Resolution Mode",
-   "tr": "",
+   "tr": "Çözünürlük Modu",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u27178",
    "en": "Favor Quality",
-   "tr": "",
+   "tr": "Kaliteyi Öncele",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u27179",
    "en": "Favor Framerate",
-   "tr": "",
+   "tr": "Kare Hızını Öncele",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u27180",
    "en": "Favor Quality offers increased resolution at reduced FPS. Favor Framerate adjusts resolution to obtain higher FPS where applicable. Quality and performance will vary depending on your hardware.",
-   "tr": "",
+   "tr": "Kaliteyi Öncele, düşük FPS pahasına daha yüksek çözünürlük sunar. Kare Hızını Öncele, uygun yerlerde daha yüksek FPS elde etmek için çözünürlüğü ayarlar. Kalite ve performans donanımınıza göre değişir.",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u27181",
    "en": "Ambient Occlusion",
-   "tr": "",
+   "tr": "Ortam Tıkanıklığı",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u27182",
    "en": "Adds shading to areas of the game that should be receiving less ambient light, creating depth and realism. Turning this feature off may improve performance on some systems.",
-   "tr": "",
+   "tr": "Oyunun daha az ortam ışığı alması gereken alanlarına gölgelendirme ekleyerek derinlik ve gerçekçilik yaratır. Bu özelliği kapatmak bazı sistemlerde performansı artırabilir.",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u27183",
    "en": "Framerate Cap",
-   "tr": "",
+   "tr": "Kare Hızı Sınırı",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u27184",
    "en": "30",
-   "tr": "",
+   "tr": "30",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u27185",
    "en": "60",
-   "tr": "",
+   "tr": "60",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u27186",
    "en": "120",
-   "tr": "",
+   "tr": "120",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u27187",
    "en": "144",
-   "tr": "",
+   "tr": "144",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u27188",
    "en": "240",
-   "tr": "",
+   "tr": "240",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u27189",
    "en": "Set a limit to the number of frames per second. Note that if VSYNC is ON, your monitor's refresh rate will be your maximum framerate.",
-   "tr": "",
+   "tr": "Saniyedeki kare sayısına bir sınır koyun. VSYNC AÇIKSA monitörünüzün yenileme hızının en yüksek kare hızınız olacağını unutmayın.",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u27190",
    "en": "Set Code",
-   "tr": "",
+   "tr": "Kodu Ayarla",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u27191",
    "en": "IDENTITY CODE: <CUSTOM0>",
-   "tr": "",
+   "tr": "KİMLİK KODU: <CUSTOM0>",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u27192",
    "en": "The Avenger is a common, versatile military-grade assault rifle made by Elkoss Combine. It is accurate when fired in controlled bursts, but suffers from low accuracy during sustained fire.",
-   "tr": "",
+   "tr": "Avenger, Elkoss Combine yapımı yaygın, çok yönlü, askeri sınıf bir taarruz tüfeğidir. Kontrollü seri atışlarda isabetlidir ancak sürekli ateşte isabeti düşer.",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u27193",
    "en": "The Banshee is a common battle rifle from Elanus Risk Control. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
-   "tr": "",
+   "tr": "Banshee, Elanus Risk Control yapımı yaygın bir savaş tüfeğidir. Yüksek atış hızına sahiptir, üçlü seri ateş eder ve isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u27194",
    "en": "The Lancer is a standard issue rifle for the Systems Alliance Navy. It is accurate when fired in controlled bursts, but suffers from low accuracy during sustained fire.",
-   "tr": "",
+   "tr": "Lancer, Systems Alliance Donanması'nın standart tüfeğidir. Kontrollü seri atışlarda isabetlidir ancak sürekli ateşte isabeti düşer.",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u27195",
    "en": "The Terminator is a basic heavy assault rifle made by Batarian State Arms. It has a high rate of fire and suffers from low accuracy during sustained fire.",
-   "tr": "",
+   "tr": "Terminator, Batarian State Arms yapımı temel bir ağır taarruz tüfeğidir. Yüksek atış hızına sahiptir ve sürekli ateşte isabeti düşer.",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u27196",
    "en": "The Thunder is a standard issue rifle for Turian infantry. It is a semi-automatic rifle with better accuracy than most standard rifles in its class.",
-   "tr": "",
+   "tr": "Thunder, Turian piyadesinin standart tüfeğidir. Kendi sınıfındaki çoğu standart tüfekten daha isabetli, yarı otomatik bir tüfektir.",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u27197",
    "en": "The Raptor is an advanced military-grade assault rifle made by Devlon Industries. It has average accuracy when compared to other assault rifles of its class.",
-   "tr": "",
+   "tr": "Raptor, Devlon Industries yapımı gelişmiş, askeri sınıf bir taarruz tüfeğidir. Kendi sınıfındaki diğer taarruz tüfekleriyle kıyaslandığında isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u27198",
    "en": "The Tsunami is an advanced battle rifle from Ariake Technologies. It features a high rate of fire, fires in five-round bursts and has average accuracy.",
-   "tr": "",
+   "tr": "Tsunami, Ariake Technologies yapımı gelişmiş bir savaş tüfeğidir. Yüksek atış hızına sahiptir, beşli seri ateş eder ve isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u27199",
    "en": "The Breaker is a state-of-the-art battle rifle made by Kassa Fabrication. It features a high rate of fire, fires in five-round bursts and has average accuracy.",
-   "tr": "",
+   "tr": "Breaker, Kassa Fabrication yapımı son teknoloji bir savaş tüfeğidir. Yüksek atış hızına sahiptir, beşli seri ateş eder ve isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u27200",
    "en": "The Crossfire is a state-of-the-art precision rifle favored by elite Turian military units. It is a semi-automatic rifle with excellent accuracy compared to other rifles in its class.",
-   "tr": "",
+   "tr": "Crossfire, elit Turian askeri birliklerinin tercih ettiği son teknoloji bir hassas tüfektir. Kendi sınıfındaki diğer tüfeklere kıyasla mükemmel isabete sahip, yarı otomatik bir tüfektir.",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u27201",
    "en": "The Kovalyov is a state-of-the-art heavy assault rifle. Its accuracy suffers slightly due to the larger size of the rounds when compared to other assault rifles in its class.",
-   "tr": "",
+   "tr": "Kovalyov, son teknoloji bir ağır taarruz tüfeğidir. Kendi sınıfındaki diğer taarruz tüfeklerine göre daha büyük mermi kullandığından isabeti biraz düşer.",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u27202",
    "en": "A prototype assault rifle, only available to Spectres. Its accuracy and damage are unmatched.",
-   "tr": "",
+   "tr": "Yalnızca Spectre'lara özel prototip bir taarruz tüfeği. İsabeti ve hasarı eşsizdir.",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u27203",
    "en": "A recovered Geth energy weapon. These exotic weapons are very accurate and feature a ramping rate of fire.",
-   "tr": "",
+   "tr": "Ele geçirilmiş bir Geth enerji silahı. Bu egzotik silahlar çok isabetlidir ve giderek artan bir atış hızına sahiptir.",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u27204",
    "en": "The Edge is a common, versatile military-grade sidearm made by Elkoss Combine. Its heavier design allows for increased power by sacrificing accuracy.",
-   "tr": "",
+   "tr": "Edge, Elkoss Combine yapımı yaygın, çok yönlü, askeri sınıf bir yan silahtır. Daha ağır tasarımı, isabetten ödün vererek daha fazla güç sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u27205",
    "en": "The Kessler is a standard issue sidearm for the Systems Alliance Navy. It is reliable and moderately accurate when compared to others sidearms in its class.",
-   "tr": "",
+   "tr": "Kessler, Systems Alliance Donanması'nın standart yan silahıdır. Güvenilirdir ve kendi sınıfındaki diğer yan silahlara kıyasla orta düzeyde isabetlidir.",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u27206",
    "en": "The Stiletto is a heavy sidearm from Haliat Armory. It fires larger than normal rounds and  is one of the more powerful and accurate basic sidearms.",
-   "tr": "",
+   "tr": "Stiletto, Haliat Armory yapımı ağır bir yan silahtır. Normalden büyük mermi atar ve temel yan silahların en güçlü ve isabetlilerinden biridir.",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u27207",
    "en": "The Striker is a common auto pistol from Elanus Risk Control. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
-   "tr": "",
+   "tr": "Striker, Elanus Risk Control yapımı yaygın bir otomatik tabancadır. Yüksek atış hızına sahiptir, üçlü seri ateş eder ve isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u27208",
    "en": "The Raikou is an advanced auto pistol from Ariake Technologies. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
-   "tr": "",
+   "tr": "Raikou, Ariake Technologies yapımı gelişmiş bir otomatik tabancadır. Yüksek atış hızına sahiptir, üçlü seri ateş eder ve isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u27209",
    "en": "The Stinger is an advanced military-grade sidearm made by Devlon Industries. It has average accuracy when compared to other sidearms of its class.",
-   "tr": "",
+   "tr": "Stinger, Devlon Industries yapımı gelişmiş, askeri sınıf bir yan silahtır. Kendi sınıfındaki diğer yan silahlarla kıyaslandığında isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u27210",
    "en": "The Brawler is a state-of-the-art heavy sidearm favored by elite Turian military units. It has high accuracy and stopping power compared to others in its class.",
-   "tr": "",
+   "tr": "Brawler, elit Turian askeri birliklerinin tercih ettiği son teknoloji bir ağır yan silahtır. Kendi sınıfındakilere kıyasla yüksek isabete ve durdurma gücüne sahiptir.",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u27211",
    "en": "The Karpov is a state-of the-art military-grade sidearm from Elkoss Combine. Its accuracy suffers slightly due to the larger size of the rounds when compared to other sidearms in its class.",
-   "tr": "",
+   "tr": "Karpov, Elkoss Combine yapımı son teknoloji, askeri sınıf bir yan silahtır. Kendi sınıfındaki diğer yan silahlara göre daha büyük mermi kullandığından isabeti biraz düşer.",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u27212",
    "en": "The Razer is a state-of-the-art auto pistol made by Kassa Fabrication. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
-   "tr": "",
+   "tr": "Razer, Kassa Fabrication yapımı son teknoloji bir otomatik tabancadır. Yüksek atış hızına sahiptir, üçlü seri ateş eder ve isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u27213",
    "en": "A prototype sidearm, only available to Spectres. Its accuracy and damage are unmatched.",
-   "tr": "",
+   "tr": "Yalnızca Spectre'lara özel prototip bir yan silah. İsabeti ve hasarı eşsizdir.",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u27214",
    "en": "The Hurricane is an automatic shotgun made by Elanus Risk Control. A favourite of mercenaries and private security groups alike, it has a high rate of fire and poor accuracy.",
-   "tr": "",
+   "tr": "Hurricane, Elanus Risk Control yapımı otomatik bir pompalı tüfektir. Paralı askerlerin ve özel güvenlik gruplarının gözdesidir; atış hızı yüksek, isabeti zayıftır.",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u27215",
    "en": "The Scimitar is a heavy shotgun from Elkoss Combine. It fires larger than normal rounds, and sacrifices accuracy for increased power.",
-   "tr": "",
+   "tr": "Scimitar, Elkoss Combine yapımı ağır bir pompalı tüfektir. Normalden büyük mermi atar ve daha fazla güç için isabetten ödün verir.",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u27216",
    "en": "The Storm is a standard issue shotgun for the Systems Alliance Navy. It is reliable and accurate when compared to other shotguns in its class.",
-   "tr": "",
+   "tr": "Storm, Systems Alliance Donanması'nın standart pompalı tüfeğidir. Güvenilirdir ve kendi sınıfındaki diğer pompalı tüfeklere kıyasla isabetlidir.",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u27217",
    "en": "The Tornado is a heavy shotgun from Haliat Armory. It rewards precision aiming, as it only fires a single large slug. It is more accurate and powerful than other shotguns in its class.",
-   "tr": "",
+   "tr": "Tornado, Haliat Armory yapımı ağır bir pompalı tüfektir. Yalnızca tek bir büyük kurşun attığı için hassas nişan almayı ödüllendirir. Kendi sınıfındaki diğer pompalı tüfeklerden daha isabetli ve güçlüdür.",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u27218",
    "en": "The Firestorm is an advanced military-grade shotgun made by Devlon Industries. It has average accuracy when compared to other shotguns of its class.",
-   "tr": "",
+   "tr": "Firestorm, Devlon Industries yapımı gelişmiş, askeri sınıf bir pompalı tüfektir. Kendi sınıfındaki diğer pompalı tüfeklerle kıyaslandığında isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u27219",
    "en": "The Katana is an advanced heavy shotgun from Ariake Technologies.  It fires larger than normal rounds, and sacrifices accuracy for increased power.",
-   "tr": "",
+   "tr": "Katana, Ariake Technologies yapımı gelişmiş ağır bir pompalı tüfektir. Normalden büyük mermi atar ve daha fazla güç için isabetten ödün verir.",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u27220",
    "en": "The Armageddon is a state-of-the-art automatic shotgun from Kassa Fabrication. It has a high rate of fire and average damage when compared to other shotguns of its class.",
-   "tr": "",
+   "tr": "Armageddon, Kassa Fabrication yapımı son teknoloji otomatik bir pompalı tüfektir. Yüksek atış hızına sahiptir ve kendi sınıfındaki diğer pompalı tüfeklere kıyasla hasarı ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u27221",
    "en": "The Avalanche is a state-of-the-art heavy shotgun from Armax Arsenal. Like the Tornado, it fires a single large slug. It rewards precision aiming and is among the more accurate shotguns in its class.",
-   "tr": "",
+   "tr": "Avalanche, Armax Arsenal yapımı son teknoloji ağır bir pompalı tüfektir. Tornado gibi tek bir büyük kurşun atar. Hassas nişan almayı ödüllendirir ve kendi sınıfındaki en isabetli pompalı tüfeklerden biridir.",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u27222",
    "en": "The Sokolov is a state-of-the-art heavy shotgun made by Rosenkov Materials. It is slow firing and sacrifices accuracy for increased power.",
-   "tr": "",
+   "tr": "Sokolov, Rosenkov Materials yapımı son teknoloji ağır bir pompalı tüfektir. Atış hızı düşüktür ve daha fazla güç için isabetten ödün verir.",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u27223",
    "en": "A prototype shotgun, only available to Spectres. Its accuracy and damage are unmatched.",
-   "tr": "",
+   "tr": "Yalnızca Spectre'lara özel prototip bir pompalı tüfek. İsabeti ve hasarı eşsizdir.",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u27224",
    "en": "The Avenger is a common sniper rifle made by Hahne-Kedar. Primarily used by police and planetary militia groups. A versatile and reliable weapon, it has average accuracy compared to other sniper rifles in its class.",
-   "tr": "",
+   "tr": "Avenger, Hahne-Kedar yapımı yaygın bir keskin nişancı tüfeğidir. Başlıca polis ve gezegen milis grupları tarafından kullanılır. Çok yönlü ve güvenilir bir silahtır; kendi sınıfındaki diğer keskin nişancı tüfeklerine kıyasla isabeti ortalamadır.",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u27225",
    "en": "The Equalizer is a common sniper rifle from Haliat Armory. It is more accurate than most other sniper rifles in its class and features a high manual rate of fire.",
-   "tr": "",
+   "tr": "Equalizer, Haliat Armory yapımı yaygın bir keskin nişancı tüfeğidir. Kendi sınıfındaki çoğu keskin nişancı tüfeğinden daha isabetlidir ve yüksek bir manuel atış hızına sahiptir.",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u27226",
    "en": "The Hammer is a common sniper rifle from Elanus Risk Control. Designed to overwhelm active defenses, it fires in three-round bursts and has low accuracy.",
-   "tr": "",
+   "tr": "Hammer, Elanus Risk Control yapımı yaygın bir keskin nişancı tüfeğidir. Aktif savunmaları boğmak için tasarlanmıştır; üçlü seri ateş eder ve isabeti düşüktür.",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u27227",
    "en": "The Reaper is a heavy sniper rifle made by Elkoss Combine. This entry-level weapon is powerful, slow firing, and has lower accuracy than other sniper rifles in its class.",
-   "tr": "",
+   "tr": "Reaper, Elkoss Combine yapımı ağır bir keskin nişancı tüfeğidir. Bu giriş seviyesi silah güçlüdür, atış hızı düşüktür ve kendi sınıfındaki diğer keskin nişancı tüfeklerinden daha az isabetlidir.",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u27228",
    "en": "The Naginata is an advanced heavy sniper rifle from Ariake Technologies. It is slow firing and the most powerful sniper rifle in its class.",
-   "tr": "",
+   "tr": "Naginata, Ariake Technologies yapımı gelişmiş ağır bir keskin nişancı tüfeğidir. Atış hızı düşüktür ve kendi sınıfındaki en güçlü keskin nişancı tüfeğidir.",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u27229",
    "en": "The Striker is an advanced military-grade sniper rifle from Devlon Industries. It has good accuracy compared to other sniper rifles in its class.",
-   "tr": "",
+   "tr": "Striker, Devlon Industries yapımı gelişmiş, askeri sınıf bir keskin nişancı tüfeğidir. Kendi sınıfındaki diğer keskin nişancı tüfeklerine kıyasla isabeti iyidir.",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u27230",
    "en": "The Harpoon is a state-of-the-art sniper rifle from Kassa Fabrication. It fires in three-round bursts and has low accuracy compared to others in its class.",
-   "tr": "",
+   "tr": "Harpoon, Kassa Fabrication yapımı son teknoloji bir keskin nişancı tüfeğidir. Üçlü seri ateş eder ve kendi sınıfındakilere kıyasla isabeti düşüktür.",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u27231",
    "en": "The Punisher is a state-of-the-art heavy sniper rifle made by Armax Arsenal. This sniper rifle has average accuracy and high damage compared to others in its class.",
-   "tr": "",
+   "tr": "Punisher, Armax Arsenal yapımı son teknoloji ağır bir keskin nişancı tüfeğidir. Kendi sınıfındakilere kıyasla isabeti ortalama, hasarı yüksektir.",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u27232",
    "en": "A prototype sniper rifle, only available to Spectres. Its accuracy and damage are unmatched.",
-   "tr": "",
+   "tr": "Yalnızca Spectre'lara özel prototip bir keskin nişancı tüfeği. İsabeti ve hasarı eşsizdir.",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u27233",
    "en": "The Volkov is a state-of-the-art sniper rifle from Rosenkov Materials. It features a high manual rate of fire and is less accurate than other sniper rifles in its class.",
-   "tr": "",
+   "tr": "Volkov, Rosenkov Materials yapımı son teknoloji bir keskin nişancı tüfeğidir. Yüksek bir manuel atış hızına sahiptir ve kendi sınıfındaki diğer keskin nişancı tüfeklerinden daha az isabetlidir.",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u27234",
    "en": "Sensory Tentacle",
-   "tr": "",
+   "tr": "Duyu Dokunacı",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u27235",
    "en": "Monitor Selection",
-   "tr": "",
+   "tr": "Monitör Seçimi",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u27236",
    "en": "Select which monitor to display the game when two or more are present.",
-   "tr": "",
+   "tr": "İki veya daha fazla monitör varken oyunun hangisinde görüntüleneceğini seçin.",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u27237",
    "en": "Adjust your display's image.",
-   "tr": "",
+   "tr": "Ekranınızın görüntüsünü ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u27238",
    "en": "Level Scaling",
-   "tr": "",
+   "tr": "Seviye Ölçekleme",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u27239",
    "en": "In classic mode, the original 1-60 level range will be used instead of the new 1-30 level range. XP and talent points progression remains the same, but the number of levels is doubled.",
-   "tr": "",
+   "tr": "Klasik modda yeni 1-30 seviye aralığı yerine orijinal 1-60 seviye aralığı kullanılır. XP ve yetenek puanı ilerlemesi aynı kalır, ancak seviye sayısı iki katına çıkar.",
    "ctx": [
     "Startup"
    ]
