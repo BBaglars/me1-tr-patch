@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/046",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u24595",
+   "en": "Renegade Weapon Bonus\n\nReduces the cooldown on Marksman, Carnage, Overkill,  and Assassination by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24596",
+   "en": "Renegade Weapon Bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24597",
+   "en": "Renegade Regeneration Bonus\n\nRegenerates 1 health per second",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24598",
+   "en": "Renegade Regeneration Bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24599",
+   "en": "Renegade Power Bonus\n\nIncreases the damage and duration of your powers by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24600",
+   "en": "Renegade Power Bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24601",
+   "en": "Use [XBoxB_Btn_DPad] to issue orders to your squad. [XBoxB_Btn_DPadU] to attack your target; [XBoxB_Btn_DPadD] to regroup and follow you; [XBoxB_Btn_DPadL] or [XBoxB_Btn_DPadR] for a single squadmate to attack your target or move to a point.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24602",
+   "en": "Probe Hardpoint",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24603",
+   "en": "Bouncer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24604",
+   "en": "Press and hold [XBoxB_Btn_RB] to bring up the Power Wheel and pause the game. The Power Wheel lets you use the powers and special abilities of your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24605",
+   "en": "While holding [XBoxB_Btn_RB], use [XBoxB_Btn_RS] to aim at a target and [XBoxB_Btn_LS] to highlight an ability on the Power Wheel. Press [XBoxB_Btn_A] to select. You may have 1 power or ability selected for each squad member. Release [XBoxB_Btn_RB] to unpause the game and use selected powers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24606",
+   "en": "Hold [XBoxB_Btn_RB] to bring up the Power Wheel. Press [XBoxB_Btn_X] to quick-map 1 of Shepard's powers. Tap [XBoxB_Btn_RB] to use the quick-mapped power.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24607",
+   "en": "Haliat went through a lot of trouble to draw you here. A pity it ended like this. For him, at least.\n\nNow that you're above ground, your suit radio has reestablished connection with the Normandy. Time to get the hell out of here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24608",
+   "en": "Dr. Michel was being blackmailed by a guy who said he worked for Banes. Nobody seems to know much about this guy, but he's obviously very powerful.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24609",
+   "en": "Citadel: Banes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24610",
+   "en": "Quasar\n200 credits to play\nGet closest to 20 without going over.\n\nPayouts\n14 or less: 0 credits\n    15:  50 credits\n    16: 100 credits\n    17: 200 credits\n    18: 250 credits\n    19: 300 credits\n    20: 400 credits\n21 or more: 0 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24611",
+   "en": "Credits Won",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24612",
+   "en": "Play Again",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24613",
+   "en": "Would you like to play again for 20 credits?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24614",
+   "en": "Would you like to play again for 200 credits?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24615",
+   "en": "Records of the Rachni War suggest brood warriors - the male-gendered rachni - only fight when a hive is severely pressed. It's safe to say you've eliminated the rachni on Nepmos.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24616",
+   "en": "Press [XBoxB_Btn_X] to throw grenades. Wait for timed detonation or press [XBoxB_Btn_X] again to detonate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24617",
+   "en": "Press the [XBoxB_Btn_Start] button to access the Mission Computer, then go to the Squad screen to spend talent points for new squad members.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24618",
+   "en": "To Wards",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24619",
+   "en": "Benezia's Power Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24620",
+   "en": "Disconnecting the Mako will deactivate the defense turrets.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24621",
+   "en": "Directions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24622",
+   "en": "Disconnect the Mako",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24623",
+   "en": "Leave the Mako Hooked up",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24624",
+   "en": "The generator has been ripped apart by rachni claws, leaving the defensive turrets inoperative. It would be possible to power the turrets off the Mako's engine - but this would make it impossible to drive or fire the Mako's own weapons.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24625",
+   "en": "Connect the Mako to the generator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24626",
+   "en": "Wards Access\n\nThe elevator at the end of this hallway leads to the Wards. There you will find Chora’s Den, Flux, the Markets, and the Medical Center.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24627",
+   "en": "Citadel Tower Elevator\n\nThis elevator leads up to the Citadel Tower, where the Council convenes to pass judgement on interstellar matters.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24628",
+   "en": "To C-Sec Academy\n\nThe elevator down to C-Sec Academy is far past the Emporium to your right and across the lake.  You will also find the Consort Chambers in this direction.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24629",
+   "en": "To Citadel Tower\n\nThe Citadel Tower is the tall white structure across the lake and to the left.  It houses the Council and is the heart of Citadel politics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24630",
+   "en": "To Wards\n\nThe elevator down to the Wards is located across the plaza on the other side of the lake.  There you will find Chora’s Den, Flux, the Markets, and the Medical Center.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24631",
+   "en": "To C-Sec Academy\n\nThe elevator to C-Sec Academy is located down this ramp and past the small plaza.  The Alliance docking bay can be found there.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24632",
+   "en": "To C-Sec Academy\n\nThe elevator to the C-Sec Academy is located down the ramp just past the embassies to your right. The Alliance docking bay can be found there.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24633",
+   "en": "To Citadel Tower\n\nThe Citadel Tower is the tall white structure far to your left across the plaza.  It houses the Council and is the heart of Citadel politics.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24634",
+   "en": "To Wards\n\nThe elevator down to the Wards is located across the plaza far to your left. There you will find Chora’s Den, Flux, the Markets, and the Medical Center.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24635",
+   "en": "To C-Sec Academy\n\nThis elevator leads down to C-Sec Academy.  The Alliance docking bay can be found there.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24636",
+   "en": "To C-Sec and Embassies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24637",
+   "en": "To C-Sec Academy and Embassies\n\nThe Embassies are located at the end of this bridge just to the right.  Continue past the Embassies and down the ramp to find the elevator down to C-Sec Academy.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24638",
+   "en": "To C-Sec Academy\n\nThe elevator at the end of this hallway leads up to C-Sec Academy.  The Alliance docking bay can be found there.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24639",
+   "en": "To Presidium\n\nThis elevator leads up to the Presidium.  There you will find the Embassies, the Citadel Tower, the Emporium, the Bank, and the Consort Chambers.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24640",
+   "en": "To C-Sec Academy\n\nThis elevator leads up to C-Sec Academy.  The Alliance docking bay can be found there.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24641",
+   "en": "To Presidium\n\nThis elevator leads up to the Presidium.  There you will find the Embassies, the Citadel Tower, the Emporium, the Bank, and the Consort Chambers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24642",
+   "en": "To Wards\n\nThis elevator leads down to the Wards.  There you will find Chora’s Den, Flux, the Markets, and the Medical Center.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24643",
+   "en": "To Presidium\n\nThis elevator leads down to the Presidium.  There you will find the Embassies, the Citadel Tower, the Emporium, the Bank, and the Consort Chambers.\n\nBehind you is the Citadel Tower.  The Council convenes at the far end.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24644",
+   "en": "Mr. Bhatia was most grateful for your efforts in getting his wife's body returned.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24645",
+   "en": "This old, disabled vehicle was more willing to part with its still functioning power cell than one would expect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24646",
+   "en": "You saved the quarian, and she gave you evidence linking Saren to the geth. Ambassador Udina is going to present this evidence to the Council.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24647",
+   "en": "Codex entries provide additional but nonessential information about topics of interest in Mass Effect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24648",
+   "en": "Whenever you become lost, look to your Journal or Map for guidance.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24649",
+   "en": "Fire in short, controlled bursts to keep your weapon from overheating.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24650",
+   "en": "You lose accuracy as you fire your weapon. Fire in controlled bursts for maximum effect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24651",
+   "en": "Use Zoom [XBoxB_Btn_LT] to improve your accuracy during combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24652",
+   "en": "Use the Equipment screen to equip or upgrade weapons, armor and other gear. Equipped items will not show up in the SELL window when you visit stores. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24653",
+   "en": "Weapons, ammo and other items can be customized by adding special mod upgrades to their mod slots.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24654",
+   "en": "Weapons have 2 upgrade slots. Armor and grenades each have 1 upgrade slot.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24655",
+   "en": "The squad screen lets you spend talent points to improve your skill with weapons, tech and biotics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24656",
+   "en": "You get extra talent points every time you earn enough experience to gain a level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24657",
+   "en": "Increasing your rank in certain talents unlocks powerful new abilities.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24658",
+   "en": "The Mako can evade incoming rockets using its jump jets",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24659",
+   "en": "The Mako has two weapons: a heavy artillery cannon ([XBoxB_Btn_RB]) and an automatic chain gun ([XBoxB_Btn_RT]).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24660",
+   "en": "While in the Mako, you can look through the turret scope by holding [XBoxB_Btn_LT].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24661",
+   "en": "You can use your Repair skill to fix the Mako.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24662",
+   "en": "You can return to the Normandy from any uncharted world by going to the Map Screen and pressing [UI_XBoxB_Btn_X].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24663",
+   "en": "Critical Mission Failure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24664",
+   "en": "Squad Member Fatality",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24665",
+   "en": "Equipping Item",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24666",
+   "en": "Switching Item",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24667",
+   "en": "Accessing Squad Member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24668",
+   "en": "Conduit Closing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24669",
+   "en": "Mako must be parked on level terrain and not moving for you to exit.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24670",
+   "en": "Important locations are marked on your map.\nFor active missions, key locations may be marked as a destination.\nYour radar will indicate the direction of a destination in exploration mode.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24671",
+   "en": "Follow the pulsing arrow on your radar to the Citadel Tower.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24672",
+   "en": "Airlock Exit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24673",
+   "en": "Exit To Normandy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24674",
+   "en": "Crew Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24675",
+   "en": "Play Logs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24676",
+   "en": "Medical Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24677",
+   "en": "Cockpit Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24678",
+   "en": "To Hanshan Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24679",
+   "en": "Tarrus IV",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24680",
+   "en": "Gorgon System Depot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24681",
+   "en": "Enter Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24682",
+   "en": "Exit Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24683",
+   "en": "JAMMED",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24684",
+   "en": "Shifty Looking Cow...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24685",
+   "en": "To Security Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24686",
+   "en": "If you are too slow making your responses in the mini-game, or make a wrong response, you will fail.\nIf you fail the mini-game you will need to click on the object again and use omni-gel to open or access it.\nIf nobody in your squad has a high enough rank in the required talent, you cannot access or open the object.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24687",
+   "en": "Turn this on to automatically save the game at set intervals. Autosaves always overwrite the same autosave file.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24688",
+   "en": "Are you certain you wish to leave? The situation in the hotlabs has not yet been resolved.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24689",
+   "en": "Return to Normandy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24690",
+   "en": "Liara's Dig Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24691",
+   "en": "Armax Arsenal License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24692",
+   "en": "Aldrin Labs License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24693",
+   "en": "Ariake Technologies License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24694",
+   "en": "Armali Council License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24695",
+   "en": "Devlon Industries License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24696",
+   "en": "Elanus Risk Control License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24697",
+   "en": "Elkoss Combine License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24698",
+   "en": "Geth Armory License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24699",
+   "en": "Haliat Armory License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24700",
+   "en": "Hahne-Kedar License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24701",
+   "en": "Kassa Fabrication License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24702",
+   "en": "Rosenkov Materials License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24703",
+   "en": "Serrice Council License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24704",
+   "en": "Sirta Foundation License",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24705",
+   "en": "Armax Arsenal License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24706",
+   "en": "Aldrin Labs License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24707",
+   "en": "Ariake Tech License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24708",
+   "en": "Armali Council License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24709",
+   "en": "Devlon Industries License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24710",
+   "en": "Elanus Risk Control License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24711",
+   "en": "Elkoss Combine License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24712",
+   "en": "Geth Armory License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24713",
+   "en": "Haliat Armory License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24714",
+   "en": "Hahne-Kedar License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24715",
+   "en": "Kassa Fabrication License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24716",
+   "en": "Rosenkov Materials License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24717",
+   "en": "Serrice Council License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24718",
+   "en": "Sirta Foundation License for the Normandy Quarter Master",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24719",
+   "en": "Mysterious Globe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24720",
+   "en": "Downed Probe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24721",
+   "en": "Odd Trinket",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24722",
+   "en": "To Central Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24723",
+   "en": "Plaza",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24724",
+   "en": "Trench",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24725",
+   "en": "Courtyard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24726",
+   "en": "Noveria: Peak 15 Administration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24727",
+   "en": "Landing Zone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24728",
+   "en": "Security Room",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24729",
+   "en": "Armature Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24730",
+   "en": "Defensive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24731",
+   "en": "Squad AI will only use defensive powers to protect themselves or others.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24732",
+   "en": "Ariake Weapon Mfc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24733",
+   "en": "Rosen Weapon Mfc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24734",
+   "en": "Kassa Weapon Mfc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24735",
+   "en": "Ariake Weapon Mfc Desc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24736",
+   "en": "Rosen Weapon Mfc Desc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24737",
+   "en": "Kassa Weapon Mfc Desc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24738",
+   "en": "Tsunami",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24739",
+   "en": "Raikou",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24740",
+   "en": "Katana",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24741",
+   "en": "Naginata",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24742",
+   "en": "Kovalyov",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24743",
+   "en": "Karpov",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24744",
+   "en": "Sokolov",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

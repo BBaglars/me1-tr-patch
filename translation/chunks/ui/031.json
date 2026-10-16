@@ -1,0 +1,778 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/031",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u22399",
+   "en": "A small rock and ice planet, Sybin has an extremely thin atmosphere of hydrogen sulfide and ethane. Its frozen surface is mainly composed of magnesium and silicates with deposits of iron.\n\nSybin's crust contains significant deposits of green serpentine, a mineral formed by volcanic activity. This suggests Sybin was a more geologically active world in the distant past.\n \nOrbital Period: 15.1 Earth Years\nRadius: 4645 km\nDay Length: 62.6 Earth Hours\nAtmospheric Pressure: 0.18 Earth Atmospheres\nSurface Temperature: -169 Celsius\nSurface Gravity: 0.5 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22400",
+   "en": "Tamahera",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22401",
+   "en": "Tamahera has a thin atmosphere of carbon dioxide and xenon. The surface is icy, and composed of sodium oxide with deposits of calcium. It contains a few unremarkable metals, but mainly consists of rock. The presence of canyons and flood plains indicates that liquid water once existed, suggesting Tamahera had a thicker insulating atmosphere in the past. \n \nOrbital Period: 1.4 Earth Years\nRadius: 6302 km\nDay Length: 40.1 Earth Hours\nAtmospheric Pressure: 0.34 Earth Atmospheres\nSurface Temperature: -30 Celsius\nSurface Gravity: 0.66",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22402",
+   "en": "Canctra",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22403",
+   "en": "A terrestrial world of average size, Canctra's atmosphere is composed of nitrogen and argon. Its frozen surface is mainly composed of tin with deposits of calcium. Aside from some spectacular formations of water-ice at the poles, the planet has little to recommend it.\n\nOrbital Distance: 14.3 AU\nOrbital Period: 60.6 Earth Years\nRadius: 5471 km\nDay Length: 66.7 Earth Hours\nAtmospheric Pressure: 0.83 Earth Atmospheres\nSurface Temperature: -175 Celsius\nSurface Gravity: 0.7 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22404",
+   "en": "Tharopto",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22405",
+   "en": "Tharopto is a typical hydrogen-helium gas giant with traces of chlorine and sulphur in its atmosphere. It has over 100 moons and an extensive ring system composed of pulverized rock, presumably the debris from shattered moons.\n \nOrbital Period: 128.2 Earth Years\nRadius: 68,714 km\nDay Length: 17.5 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22406",
+   "en": "Loromer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22407",
+   "en": "This planet will be going away.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22408",
+   "en": "Benda",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22409",
+   "en": "Benda has a dense atmosphere of sulphur dioxide and chlorine. Though technically classified as a \"terrestrial\" world, but the surface of the planet has never cooled enough for a crust to form. It is a global sea of molten rock. Like Zaherux, its atmosphere is being blasted away by the solar wind. Once its thick atmosphere is gone, Benda’s surface will be a \"mere\" 400 degree C.\n \nOrbital Period: 812.3 Earth Years\nRadius: 6788 km\nDay Length: 41.2 Earth Hours\nAtmospheric Pressure: 26.35 Earth Atmospheres\nSurface Temperature: 3151 Celsius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22410",
+   "en": "Zaherux",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22411",
+   "en": "Zaherux's nitrogen-argon atmosphere is being blasted away by the solar wind of the blue giant Grissom. Its surface consists of \"seas\" of loose silica dust, some kilometers deep, which periodically swirl into global sandstorms. \n \nMany unmanned probes to Zaherux have been lost over the years. Though investigation has attributed all to mechanical failure or computational error, a popular extranet meme insists the entire planet is composed of dormant nanotechnology, created millennia ago by a race even more advanced than the Protheans.\n\nAccording to the story, Zaherux's silica dust is actually \"disassembler\" robots which periodically awaken to defend themselves. Though discounted by every reputable scientist, this theory has been popularized by a series of sensationalistic texts by asari author Delsae Orthysa.\n\nOrbital Period: 266.8 Earth Years\nRadius: 6729 km\nDay Length: 51.5 Earth Hours\nAtmospheric Pressure: 0.32 Earth Atmospheres\nSurface Temperature: 959 Celsius\nSurface Gravity: 0.61 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22412",
+   "en": "Notanban",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22413",
+   "en": "Notanban is a hydrogen-helium gas giant with traces of ammonia. Molecular nitrogen is present in the highest levels of the atmosphere, giving the planet its odd violet tint.\n\nThe upper levels of Notanban's atmosphere are inhabited by \"shoals\" of tiny ammonia-based lifeforms, no larger or more complex than the plankton of Earth's oceans. Held aloft by air pressure and wind, these bioluminescent creatures constantly flee from the approach of the terminator. Should they be exposed to the light and heat of Grissom, they die.\n\nOrbital Period: 990.5 Earth Years\nRadius: 73,314 km\nDay Length: 16.9 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22414",
+   "en": "Patashi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22415",
+   "en": "Patashi is a sun-blasted terrestrial world whose atmosphere was blasted away millennia ago by the star Phoenix. The surface is scorching hot, and mainly composed of iron with deposits of tin.\n\nDue to its relatively low density, Patashi is tidally locked to Phoenix. Seas of molten light metals cover much of the sunward side. \n \nOrbital Period: 0.3 Earth Years\nRadius: 7082 km\nDay Length: 0.3 Earth Years\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: 546 Celsius\nSurface Gravity: 0.75 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22416",
+   "en": "Sylsalto",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22417",
+   "en": "Sylsalto is a standard hydrogen-helium gas giant. It has no remarkable features.\n \nOrbital Period: 36.0 Earth Years\nRadius: 56,621 km\nDay Length: 13.6 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22418",
+   "en": "Vebinok",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22419",
+   "en": "Vebinok is a small terrestrial world with a thin atmosphere of krypton and xenon. Its frozen surface is mainly composed of carbonaceous material, water ice, and low-density silicates. Rare but concentrated lodes of light metals have been deposited by asteroid impacts.\n\nOne hemisphere of Vebinok is covered by surface deposits of oxidized copper. Approximately 270 years ago a turian bulk gas transport was attacked by pirates in the Phoenix system. Damaged, it made a rough landing on Vebinok. The heat of the landing melted significant quantities of surface ice, and ruptured shipping containers spilled LOX across the surface. Before this evaporated and escaped Vebinok’s weak gravity, it reacted to cause the widespread rust.\n \nOrbital Period: 94.5 Earth Years\nRadius: 3379 km\nDay Length: 68.3 Earth Hours\nAtmospheric Pressure: 0.27 Earth Atmospheres\nSurface Temperature: -154 Celsius\nSurface Gravity: 0.28 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22420",
+   "en": "Clojiia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22421",
+   "en": "Clojiia is a \"hothouse\" terrestrial world with a dense atmosphere of nitrogen and sulphur dioxide. The surface is scorching hot, and mainly composed of iron with deposits of gold.\n\nThe core of Clojiia is very hot and tectonically active. Volcanic eruptions are common, and outgassing continues to add to the density of the atmosphere. The largest active volcano has a caldera nearly 100 kilometers in diameter, and its basalt floods have covered an area roughly the size of the Earth continent of Australia.\n \nOrbital Period: 0.3 Earth Years\nRadius: 7074 km\nDay Length: 47.6 Earth Hours\nAtmospheric Pressure: 18.33 Earth Atmospheres\nSurface Temperature: 312 Celsius\nSurface Gravity: 1.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22422",
+   "en": "Alrumter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22423",
+   "en": "Alrumter is a small, rocky terrestrial planet with a trace atmosphere of nitrogen and krypton. Its frigid surface is mainly composed of light metals with deposits areas of frozen ammonia. \n \nOrbital Period: 35.2 Earth Years\nRadius: 3718 km\nDay Length: 39.5 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -96 Celsius\nSurface Gravity: 0.39 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22424",
+   "en": "Gromar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22425",
+   "en": "Gromar is a rocky terrestrial world with a trace atmosphere of krypton and xenon. The frozen surface is mainly composed of copper with deposits of calcium.\n\nPrior to the Alliance's expansion into the Voyager Cluster, Gromar hosted one half of a turian interferometric telescope array. Connected with similar telescope in the Attican Beta cluster by an expensive chain of FTL comm buoys, the two functioned as a single virtual \"lens\" with an effective aperture equal to the thousands of light years between them. The turians used this to chart the Terminus Systems with great accuracy.\n \nOrbital Period: 115.6 Earth Years\nRadius: 4911 km\nDay Length: 30.3 Earth Hours\nAtmospheric Pressure: 0.13 Earth Atmospheres\nSurface Temperature: -218 Celsius\nSurface Gravity: 0.28 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22426",
+   "en": "Clomarthu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22427",
+   "en": "Clomarthu has a reducing atmosphere of methane and nitrogen. The surface is hot, and mainly composed of sodium with deposits of uranium. In terms of size and orbit, Clomarthu is a virtual twin of Earth, but utterly lacks life.\n \nOrbital Period: 1 Earth Year\nRadius: 6028 km\nDay Length: 18.8 Earth Hours\nAtmospheric Pressure: 0.9 Earth Atmospheres\nSurface Temperature: 95 Celsius\nSurface Gravity: 0.9 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22428",
+   "en": "Alko",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22429",
+   "en": "The geological properties of Alko have been scanned from orbit, but little else is known about it. A fairly typical mix outer system terrestrial of rock and ice, Alko has a trace atmosphere of krypton and xenon. Its crust is composed of silicates and water ice with deposits of aluminum. Unregistered starship traffic has been recorded in the vicinity of this planet. Travel is not advised.\n \nOrbital Period: 28.7 Earth Years\nRadius: 4949 km\nDay Length: 45.2 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -167 Celsius\nSurface Gravity: 0.5 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22430",
+   "en": "Pataiton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22431",
+   "en": "A rather small hydrogen-helium gas giant, Pataiton’s atmosphere contains large quantities of chlorine.\n\nOrbital Period: 110.2 Earth Years\nRadius: 16,622 km\nDay Length: 18.6 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22432",
+   "en": "Inti",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22433",
+   "en": "Inti is a terrestrial planet with an atmosphere composed of ammonia and helium. Its surface is mainly composed of sodium oxide with deposits of magnesium. Its density is rather low, leaving the planet tide-locked to Matano.\n\nInti is an unremarkable world, drawing little more than a cursory scan for surface pirate anchorages when Alliance patrols enter the system.\n \nOrbital Period: 0.6 Earth Years\nRadius: 9032 km\nDay Length: 0.6 Earth Years\nAtmospheric Pressure: 0.56 Earth Atmospheres\nSurface Temperature: 157 Celsius\nSurface Gravity: 0.99 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22434",
+   "en": "Apo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22435",
+   "en": "A craggy world of igneous and basaltic mountains, Apo is wracked by constant geologic activity. While volcanic hotspots are rare, continental plates are constantly piling up new mountains, subducting old ones, or causing slips along transform faults.\n\nApo has a dense atmosphere composed of nitrogen and carbon monoxide. Due to the constant earthquakes and landslide activity, surface exploration is not advised. The rubble-covered wrecks of a half-dozen expeditionary ships stand in mute testament to the planet’s instability.\n \nOrbital Period: 29.7 Earth Years\nRadius: 6843 km\nDay Length: 56.7 Earth Hours\nAtmospheric Pressure: 1.2 Earth Atmospheres\nSurface Temperature: -116 Celsius\nSurface Gravity: 1.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22436",
+   "en": "Illapa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22437",
+   "en": "Illapa is a hydrogen-helium gas giant with an unusual ruby color caused by contaminants in the atmosphere. The world has over 120 moons, one of the highest totals of all known systems.\n\nOnce full development of Chasca colony begins, a helium-3 refining infrastructure will be developed in the Illapa system, concentrated on the large ice moon of Coniraya.\n\nOrbital Period: 74.1 Earth Years\nRadius: 72,820 km\nDay Length: 15.7 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22438",
+   "en": "Supay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22439",
+   "en": "Supay has the composition of an ice dwarf planet, but is unusually large for such a body. It has a trace atmosphere of krypton and xenon. The frozen surface is dotted with deposits composed of potassium and light metals, brought to the surface by cryovolcanic processes.\n\nSupay's icy surface was often used as a source of potable water by passing merchant vessels. Since the Alliance claimed the inner system world of Chasca, satellites placed in orbit automatically bill any vessel landing on the world for the mass of water removed from the surface.\n\nExoGeni has had a difficult time keeping these satellites operational; they often meet with \"accidents\" caused by impact with jettisoned ship debris.\n \nOrbital Period: 275.5 Earth Years\nRadius: 4317 km\nDay Length: 63.4 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -216 Celsius\nSurface Gravity: 0.25 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22440",
+   "en": "Klencory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22441",
+   "en": "Klencory is a rock and ice planet with an atmosphere composed of chlorine and argon. The frozen surface is mainly composed of potassium with deposits of Iron.\n\nKlencory is famously claimed by the eccentric volus billionaire Kumun Shol. He claims that a vision of a higher being told him to seek on Klencory the \"lost crypts of beings of light\". These entities were supposedly created at the dawn of time to protect organic life from synthetic \"machine devils.\"\n\nShol has been excavating on Klencory's toxic surface for two decades, at great expense. No government has valued the world enough to evict his small army of mercenaries.\n \nOrbital Period: 20.6 Earth Years\nRadius: 7677 km\nDay Length: 18.3 Earth Hours\nAtmospheric Pressure: 1.01 Earth Atmospheres\nSurface Temperature: -109 Celsius\nSurface Gravity: 0.82 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22442",
+   "en": "Sesmose",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22443",
+   "en": "Sesmose is an ice dwarf world, its surface composed almost entirely of frozen water. Normally a planetoid this small would not rate inclusion on the system’s charts, but Sesmose's unusually large and beautiful ring of ice crystals has made it a popular subject for visual artists.\n\nThe ring is the result of a glancing equatorial impact, which left a large \"trench,\" and threw a great deal of melted water into the atmosphere. The rings are a temporary feature that will completely decay in a few thousand years.\n \nOrbital Period: 272.2 Earth Years\nRadius: 3111 km\nDay Length: 23.9 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -188 Celsius\nSurface Gravity: 0.09 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22444",
+   "en": "Weirrus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22445",
+   "en": "With strange visual features that can be seen from orbit, Weirrus is a rock and ice planet with an extremely thin atmosphere composed of carbon dioxide and ethane. Its frozen surface is mainly composed of iron with deposits of nickel. Surface gravity is comfortable at 1.5 standard G's. Anomalous radiation emissions from the surface have been detected. \n \nOrbital Period: 179.0 Earth Years\nRadius: 7158 km\nDay Length: 31.8 Earth Hours\nAtmospheric Pressure: 0.07 Earth Atmospheres\nSurface Temperature: -210 Celsius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22446",
+   "en": "Juncro",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22447",
+   "en": "Juncro is a hydrogen-helium gas giant with traces of chlorine and sodium in its upper atmosphere. Like Uranus in the Sol system, it is \"tipped on its side,\" its north pole facing the star Newton.\n \nOrbital Period: 60.0 Earth Years\nRadius: 66,642 km\nDay Length: 16.8 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22448",
+   "en": "Pomal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22449",
+   "en": "Pomal is an enormous terrestrial planet, with a very dense atmosphere of carbon dioxide and sodium. The surface is scorching hot, and mainly composed of sodium oxides and deposits of nickel. There is evidence that Pomal was once covered with broad, shallow seas. Should a probe ever be sent to the surface, a check for ancient fossil life might prove valuable. \n \nOrbital Period: 0.5 Earth Years\nRadius: 9616 km\nDay Length: 47.0 Earth Hours\nAtmospheric Pressure: 31.59 Earth Atmospheres\nSurface Temperature: 492 Celsius\nSurface Gravity: 1.2 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22450",
+   "en": "Matar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22451",
+   "en": "Matar is terrestrial planet with a thick atmosphere composed of nitrogen and krypton. Its frigid surface is mainly composed of sodium oxide with deposits of copper. Because of noxious surface gases, explorers are warned to use extreme caution.\n\nMatar lacks a magnetic field. This makes it useless for discharging FTL drive cores in orbit. The energetic particles of solar wind from Hong strike the upper atmosphere directly, ionizing the krypton. This gives the planet its distinctive \"minty\" green-white hue.\n \nOrbital Period: 29.8 Earth Years\nRadius: 4599 km\nDay Length: 54.5 Earth Hours\nAtmospheric Pressure: 3.72 Earth Atmospheres\nSurface Temperature: -64 Celsius\nSurface Gravity: 0.57 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22452",
+   "en": "Theshaca",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22453",
+   "en": "Theshaca is a standard hydrogen-helium gas giant. In the past, it was often used as a drive discharge point for pirates raiding human settlements from the Terminus Systems. In 2178 the Alliance set up a network of covert sensing devices on Thesaca's moons. Recordings of pirate FTL exit vectors over the course of six months led the Alliance Navy to eight major pirate anchorages. Since the \"Theshaca Raids,\" no ships from the Terminus have been reported in the Hong system.\n \nOrbital Period: 84.4 Earth Years\nRadius: 65,976 km\nDay Length: 14.0 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22454",
+   "en": "Treagir",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22455",
+   "en": "Treagir is a tiny \"ice dwarf,\" with a trace atmosphere of xenon and krypton. The frozen surface is mainly composed of water ice and ammonia. Cryovolcanic processes are gradually repaving the surface with sheets of fresh ice.\n \nOrbital Period: 238.8 Earth Years\nRadius: 1402 km\nDay Length: 30.2 Earth Hours\nAtmospheric Pressure: 0.04 Earth Atmospheres\nSurface Temperature: -211 Celsius\nSurface Gravity: 0.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22456",
+   "en": "Syided",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22457",
+   "en": "The proximity of the energetic star Hercules causes constant blue and violet aurorae in Syided's nitrogen-argon atmosphere. During periods of increased solar flares, the aurorae are bright enough to read by on the surface, and can be seen with off-the-shelf optics from a distance of several AU.\n\nSyided's scorching hot surface is mainly composed of magnesium with deposits of iron. A surprising variety of simple carbon-based life flourishes in a complex network of cave systems that wind through the crust, protected from Hercules' heat and radiation.\n\nOrbital Period: 0.4 Earth Years\nRadius: 7702 km\nDay Length: 67.0 Earth Hours\nAtmospheric Pressure: 1.18 Earth Atmospheres\nSurface Temperature: 523 Celsius\nSurface Gravity: 1.3 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22458",
+   "en": "Xathorron",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22459",
+   "en": "Xathorron is a small rock planet, with a thin atmosphere of carbon dioxide and hydrogen sulfide. The surface is scorching hot, and mainly composed of sulfur with deposits of boron.\n \nOrbital Period: 9.5 Earth Years\nRadius: 3537 km\nDay Length: 64.9 Earth Hours\nAtmospheric Pressure: 0.37 Earth Atmospheres\nSurface Temperature: 388 Celsius\nSurface Gravity: 0.39 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22460",
+   "en": "Zatorus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22461",
+   "en": "Zatorus is a hydrogen-helium gas giant, with high-level decks of sulphur clouds. A layer of hydrocarbons has formed deeper in the atmosphere. Vast electrical storm fronts can be seen flickering across the dark side.\n\nOrbital Period: 113.1 Earth Years\nRadius: 52,290 km\nDay Length: 17.2 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22462",
+   "en": "Porolan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22463",
+   "en": "Porolan is an enormous terrestrial planet, half again the size of Earth. Despite its thick atmosphere, the weak output of the red dwarf Macedon leaves its surface biting cold. The crust is mainly composed of silica, but significant deposits of iron and other industrial metals are present. These lodes may prove rich enough to be profitably mined despite the heavy gravity.\n \nOrbital Period: 21.0 Earth Years\nRadius: 9749 km\nDay Length: 45.4 Earth Hours\nAtmospheric Pressure: 1.4 Earth Atmospheres\nSurface Temperature: -197 Celsius\nSurface Gravity: 1.5 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22464",
+   "en": "Patavig",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22465",
+   "en": "Patavig is the second of the Macedon system's giant terrestrial planets, and by far the more interesting. Most of the surface is covered by a vast sea of liquid ammonia, in which a unique aquatic ammonia-based biosphere has developed. While the frozen continents are largely bereft of life, a rich bounty of complex organisms - many larger than a human - flourish in the chilly, toxic seas.\n\nWhile dreadfully inhospitable to humans, Patavig is suitable for colonization by the volus. Negotiations between the Systems Alliance and the volus' patrons, the Turian Hierarchy, have made good progress.\n\nOrbital Distance: 11.3 AU\nOrbital Period: 69.8 Earth Years\nRadius: 10,529 km\nDay Length: 30.4 Earth Hours\nAtmospheric Pressure: 22.4 Earth Atmospheres\nSurface Temperature: -130 Celsius\nSurface Gravity: 1.6 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22466",
+   "en": "Fargeluse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22467",
+   "en": "Fargeluse is a standard hydrogen-helium gas giant with an abundance of airborne hydrocarbons.\n \nOrbital Period: 111.7 Earth Years\nRadius: 40,394 km\nDay Length: 19.1 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22468",
+   "en": "Renshato",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22469",
+   "en": "Renshato is a close-orbiting “Hot Jupiter” with traces of sulphur its hydrogen-helium atmosphere. The disruptive gravity well of the gas giant prevented any planets from forming nearby.\n \nOrbital Period: 0.5 Earth Years\nRadius: 25,957 km\nDay Length: 18.1 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22470",
+   "en": "Dregir",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22471",
+   "en": "Dregir is a small, barren rock world with a trace atmosphere of krypton and xenon. The surface is frigid, and mainly composed of silicates with deposits of magnesium, aluminum, and other light metals. Dregir has a weak magnetic field, making it unsuitable for drive discharge operations.\n \nOrbital Period: 23.7 Earth Years\nRadius: 2843 km\nDay Length: 34.0 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -96 Celsius\nSurface Gravity: 0.28 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22472",
+   "en": "Ontaheter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22473",
+   "en": "Ontaheter is an unusually large ice world, with a core of silicate rock and light metals, and a trace atmosphere of krypton and xenon. The crust is mainly composed of water ice. Ontaheter’s ice sheets show obvious signs of large scale fracture and refreezing, centered on a massive crater near the south pole.\n\nA recent extranet meme suggests that a Prothean ship crashed through the crust of the planet before the collapse of their empire, and might still be recovered from the planetary core. This is purportedly the source of the planet’s unusually high mass. Careful mapping of Ontaheter's gravity field by orbiting satellites have proved that the planetary core is entirely normal. \n \nOrbital Period: 5.2 Earth Years\nRadius: 3718 km\nDay Length: 56.3 Earth Hours\nAtmospheric Pressure: 0.06 Earth Atmospheres\nSurface Temperature: -124 Celsius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22474",
+   "en": "Patajiri",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22475",
+   "en": "Patajiri has a thin atmosphere composed of neon and chlorine. Its frozen surface is mainly composed of silica with deposits of copper. During the long, cold night, the chlorine in the atmosphere falls to the ground in the form of frost.\n \nOrbital Period: 123.6 Earth Years\nRadius: 7304 km\nDay Length: 57.7 Earth Hours\nAtmospheric Pressure: 0.42 Earth Atmospheres\nSurface Temperature: -118 Celsius\nSurface Gravity: 0.99 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22476",
+   "en": "Almos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22477",
+   "en": "Almos is a hydrogen-helium gas giant with traces of sodium darkening its atmosphere.\n\nOrbital Period: 46.7 Earth Years\nRadius: 60,948 km\nDay Length: 67.1 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22478",
+   "en": "Pregel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22479",
+   "en": "Pregel is an enormous terrestrial world with an atmosphere of chlorine and ethane. Its surface is mainly composed of sulphur with deposits of aluminum. No landing has ever been attempted.\n \nOrbital Period: 17.8 Earth Years\nRadius: 10,510 km\nDay Length: 49.8 Earth Hours\nAtmospheric Pressure: 1.0 Earth Atmospheres\nSurface Temperature: -131 Celsius\nSurface Gravity: 1.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22480",
+   "en": "Antiroprus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22481",
+   "en": "Antiroprus is a hydrogen-helium gas giant that formed in the outer regions of Ming's system, and is in the process of migrating inwards. In a few million years, the planet's atmosphere will begin to \"boil away\" into space.\n\nThere is a sizeable temperature difference between the side of Antiroprus facing the energetic blue giant primary and the side facing the cold of deep space. This variance powers massive cyclonic wind systems. The intense heat it absorbs from the sun, in addition to its own internal heat engine, causes the planet's dark side to radiate faintly in the infrared.\n\nOrbital Period: 284.2 Earth Years\nRadius: 57,948 km\nDay Length: 10.8 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22482",
+   "en": "Parag",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22483",
+   "en": "Parag is a large rock planet, with an atmosphere composed of nitrogen and argon. Despite lying over 600 AU from Ming, its surface is scorching hot, and mainly composed of alumina with deposits of silver. Due to the radiation and heat, landing on Parag's sunward side with anything less than warship-grade shielding will likely be fatal. Parag rotates at a retrograde to the rest of the Ming system, indicating it is likely a captured body.\n\nOrbital Period: 1930.3 Earth Years\nRadius: 7979 km\nDay Length: 22.4 Earth Hours\nAtmospheric Pressure: 1.58 Earth Atmospheres\nSurface Temperature: 1117 Celsius\nSurface Gravity 2.0 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22484",
+   "en": "Altanorch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22485",
+   "en": "Altanorch is a small but typical hydrogen-helium gas giant with no outstanding features. Its combination of strong magnetic field and relatively shallow gravity well make it a popular \"stopover\" world for discharging FTL drive cores.\n \nOrbital Period: 4005.7 Earth Years\nRadius: 32,605 km\nDay Length: 16.3 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22486",
+   "en": "Clotanca",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22487",
+   "en": "Clotanca is a large but low-density terrestrial world with an atmosphere of nitrogen and carbon monoxide. Its crust is composed of sulphur and unremarkable silicates. Occasional deposits of heavy metals, usually the result of meteor strikes, dot the surface.\n\nHigh-speed winds, powered by the hot blue star Caspian, present a constant hazard. Atmospheric entry is hazardous, and EVAs are discouraged. \n\nOrbital Period: 124.7 Earth Years\nRadius: 7810 km\nDay Length: 19.7 Earth Hours\nAtmospheric Pressure: 0.73 Earth Atmospheres\nSurface Temperature: 92 Celsius\nSurface Gravity: 0.78 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22488",
+   "en": "Almarcrux",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22489",
+   "en": "Almarcrux has an atmosphere of methane and ethane. Despite its great distance from Caspian, the energetic young star heats the surface almost temperate levels. Thick ground fogs are common at the terminator, where water ice frozen during the long dark side night meets the warm air masses from the day side. The crust is mainly composed of copper with deposits of sodium.\n\nAlmarcrux's abundant water and relatively mild temperature and gravity have placed it on the short list of terraforming candidate worlds. However, there is significant opposition from eco-ethics groups, who assert that Almarcrux's primitive methanotrophic bacteria may be a precursor to a full-fledged native ecology.\n \nOrbital Period: 584.1 Earth Years\nRadius: 4715 km\nDay Length: 64.7 Earth Hours\nAtmospheric Pressure: 0.76 Earth Atmospheres\nSurface Temperature: 31 Celsius\nSurface Gravity: 0.78 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22490",
+   "en": "Farnuri",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22491",
+   "en": "Farnuri has a trace atmosphere of carbon dioxide and helium. The surface is mainly composed of silica laced with iron oxides, indicating the world had an oxygenated atmosphere at some time in the past. Given the relative youth of the blue star Caspian and the significant gravity well of Farnuri, this must have occurred with astonishing swiftness, perhaps a result of some cataclysmic event. Further research is required.\n \nOrbital Period: 352.7 Earth Years\nRadius: 8968 km\nDay Length: 67.8 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -98 Celsius\nSurface Gravity: 1.2 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22492",
+   "en": "Antida",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22493",
+   "en": "Antida is a standard hydrogen-helium gas giant. Its atmosphere is darkened by traces of sodium. It is one of relatively few planets known with an orbital period of more than a millennium.\n \nOrbital Period: 1296.1 Earth Years\nRadius: 29,657 km\nDay Length: 12.8 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22494",
+   "en": "Phaistos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

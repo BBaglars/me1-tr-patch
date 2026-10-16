@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/006",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u19191",
+   "en": "Refugee",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19192",
+   "en": "Missions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19193",
+   "en": "Assignments",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19194",
+   "en": "Pistols have low recoil and high accuracy and are easy to use while moving. They are only effective at close range and inflict limited damage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19195",
+   "en": "Shotguns have a slow rate of fire and high recoil, but can inflict massive damage to multiple targets at close range.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19196",
+   "en": "Assault rifles are the standard armament of most soldiers, offering a good balance between firepower, range, and accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19197",
+   "en": "Sniper rifles have long range and high accuracy, inflicting significant damage. However, they have a limited rate of fire and are virtually useless at close range.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19198",
+   "en": "The explosive charge of Alliance grenades can be modified in the field to produce a variety of damaging and lethal effects.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19199",
+   "en": "Amplifiers increase biotic abilities by synchronizing the element zero nodes within the user's central nervous system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19200",
+   "en": "Omni-tools are multipurpose diagnostic and minifacturing tools used for a variety of battlefield tasks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19201",
+   "en": "Lightweight, comfortable armor affords basic protection from enemy attacks and minimizes movement penalties affecting weapon accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19202",
+   "en": "Medium armor offers an increased level of protection, but also increases movement penalties affecting weapon accuracy. Soldiers need extra training to wear it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19203",
+   "en": "Heavy armor offers maximum protection against enemy fire but has the highest movement penalties affecting weapon accuracy. Only specially-trained frontline soldiers can wear it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19204",
+   "en": "Body armor can be improved with a variety of field upgrade kits.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19205",
+   "en": "Accuracy, damage, and recoil for all direct-fire weapons can be improved through upgrades.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19206",
+   "en": "Modified ammunition can increase damage or disable enemies with highly-specialized effects.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19207",
+   "en": "Biotic Amplifiers can be upgraded to improve performance in specific areas.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19208",
+   "en": "The standard omni-tool can be modified to excel at a specific task.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19209",
+   "en": "Scorpion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19210",
+   "en": "Predator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19211",
+   "en": "Lenskaya Materials WinterCamo Light Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19212",
+   "en": "Lenskaya Materials WinterCamo Medium Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19213",
+   "en": "Ursa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19214",
+   "en": "Mantis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19215",
+   "en": "Onyx",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19216",
+   "en": "Champion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19217",
+   "en": "Guardian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19218",
+   "en": "Survivor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19219",
+   "en": "Explorer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19220",
+   "en": "Liberator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19221",
+   "en": "Gladiator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19222",
+   "en": "Duelist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19223",
+   "en": "Assassin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19224",
+   "en": "Mercenary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19225",
+   "en": "Solaris Amp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19226",
+   "en": "Savant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19227",
+   "en": "Prodigy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19228",
+   "en": "Gemini Amp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19229",
+   "en": "Polaris",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19230",
+   "en": "Bluewire Tool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19231",
+   "en": "Logic Arrest Tool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19232",
+   "en": "Nexus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19233",
+   "en": "Bit Ghost Tool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19234",
+   "en": "Cipher Tool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19235",
+   "en": "Crossfire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19236",
+   "en": "Brawler",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19237",
+   "en": "Avalanche",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19238",
+   "en": "Punisher",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19239",
+   "en": "Raptor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19240",
+   "en": "Stinger",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19241",
+   "en": "Firestorm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19242",
+   "en": "Striker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19243",
+   "en": "Avenger",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19244",
+   "en": "Edge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19245",
+   "en": "Scimitar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19246",
+   "en": "Reaper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19247",
+   "en": "Lancer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19248",
+   "en": "Kessler",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19249",
+   "en": "Storm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19250",
+   "en": "These are all the various sections and pages of the Codex in the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19251",
+   "en": "The technologies of space travel and surface mobility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19252",
+   "en": "Ships and Vehicles",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19253",
+   "en": "The Normandy is a prototype starship, developed by the human Systems Alliance with the assistance of the Citadel Council. It is optimized for scouting and reconnaissance missions in unstable regions, using state-of-the-art stealth technology.\n\nFor most ships, the heat generated through standard operations is easily detectable against the absolute-zero background of space. The Normandy, however, is able to temporarily sink this heat within the hull. Combined with refrigeration of the exterior hull, the ship can travel undetected for hours, or drift passively for days of covert observation. This is not without risk. The stored heat must eventually be radiated, or it will build to levels capable of cooking the crew alive.\n\nAnother component of the stealth system is the Normandy’s revolutionary Tantalus drive, a mass effect core twice the standard size. The Tantalus drive generates mass concentrations that the Normandy 'falls into', allowing it to move without the use of heat-emitting thrusters.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19254",
+   "en": "The three most politically important species in the galaxy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19255",
+   "en": "Aliens: Council Races",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19256",
+   "en": "The asari were the first species to discover the Citadel. When the salarians arrived, it was the asari who proposed the establishment of the Citadel Council to maintain peace throughout the galaxy. Since then, the asari have served as the mediators and centrists of the Council.\n\nAn all-female race, the asari reproduce through a form of parthenogenesis. Each asari can attune her nervous system to that of another individual of any gender, and of any species, to reproduce. This capability has led to unseemly and inaccurate rumors about asari promiscuity.\n\nAsari can live for over 1000 years, passing through three stages of life. In the Maiden stage, they wander restlessly, seeking new knowledge and experience. When the Matron stage begins, they 'meld' with interesting partners to produce their offspring. This ends when they reach the Matriarch stage, where they assume the roles of leaders and councilors.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19257",
+   "en": "Asari",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19258",
+   "en": "Captain Kirrahe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19259",
+   "en": "Commander Rentola",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19260",
+   "en": "Scientist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19261",
+   "en": "Doctor Droyas",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19262",
+   "en": "Lab Technician",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19263",
+   "en": "Crewman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19264",
+   "en": "Indoctrinated",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19265",
+   "en": "A turian C-Sec officer and a religious hanar are arguing about whether the hanar has the right to preach in the Presidium. Evidently the hanar is supposed to buy an evangelical permit, but has refused to do so.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19266",
+   "en": "You have convinced the C-Sec officer to allow the hanar to preach in the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19267",
+   "en": "You have helped the C-Sec officer and convinced the hanar to preach in a more appropriate location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19268",
+   "en": "Speak with the C-Sec officer in the Presidium. Find out why he is harassing the hanar.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19269",
+   "en": "Speak with the C-Sec Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19270",
+   "en": "Speak with the hanar preacher in the Presidium. Convince it to purchase an evangelical permit and find someplace else to preach.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19271",
+   "en": "Speak with the Hanar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19272",
+   "en": "You've spoken with both the hanar and the C-Sec officer in the Presidium, but you still need to either get rid of the hanar or convince the C-Sec officer to back off.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19273",
+   "en": "Resolve the Dispute",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19274",
+   "en": "Mr. Keeler, an Alliance negotiator, has asked you to get him a legal but regulated stimulant in order to improve his performance in an important upcoming treaty negotiation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19275",
+   "en": "You have convinced Mr. Keeler to seek treatment for his drug addiction. The negotiation will be handled by his assistant.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19276",
+   "en": "You got Mr. Keeler the drug he needed. He should be in fine form for the upcoming treaty negotiation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19277",
+   "en": "You gave Mr. Keeler a depressant rather than a stimulant. He is in no condition to handle the treaty negotiation now, and his assistant will take over.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19278",
+   "en": "Go to the Med Clinic in the Upper Wards and purchase the drug that Keeler needs for his treaty negotiation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19279",
+   "en": "Get the Drug",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19280",
+   "en": "You have purchased the drug for Keeler. Meet him outside Flux in the Upper Wards to deliver it to him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19281",
+   "en": "Deliver the Drug",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19282",
+   "en": "You have discovered a signal being used to funnel money from gambling machines to a private account. If you can trace the system, you can find out where that money is going, and why.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19283",
+   "en": "The signal seems to be coming from the Wards Access corridor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19284",
+   "en": "Track the Signal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19285",
+   "en": "The signal now seems to be relayed through a terminal in the Financial District of the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19286",
+   "en": "Follow Signal to the Presidium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19287",
+   "en": "The last communication relay shows that the signal's final destination is in the back room of the Emporium in the Financial District of the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19288",
+   "en": "Continue Tracking",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19289",
+   "en": "You discovered that money was being funneled from gambling machines into an account controlled by a rogue AI. You disabled and destroyed the AI before it could overload and take you with it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19290",
+   "en": "Samesh Bhatia, the husband of a soldier who died on Eden Prime, has asked you to convince the Alliance to return his wife's body.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19291",
+   "en": "Citadel: Homecoming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19292",
+   "en": "You have made it clear to Mr. Bhatia that you will not be helping him recover his wife's body.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19293",
+   "en": "You have convinced Mr. Bhatia to allow the military to keep his wife's body in order to continue their tests. In the long run, this will hopefully save human lives.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19294",
+   "en": "You convinced Mr. Bosker to release the body of Nirali Bhatia to her husband, so that her remains may be treated with the proper respect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19295",
+   "en": "A reporter named Emily Wong has asked you for help uncovering corruption on the Citadel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19296",
+   "en": "Citadel: Reporter's Request",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19297",
+   "en": "You gave Emily Wong the information you found in Fist's hideout. The reporter was extremely grateful, and now has what she needs to expose criminal syndicates on the Citadel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19298",
+   "en": "You refused to give Emily Wong the information she wanted.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19299",
+   "en": "As you investigate the Citadel, be on the lookout for information that might help Ms. Wong.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19300",
+   "en": "Look for Information",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19301",
+   "en": "The information you found in Fist's hideout will help Ms. Wong with her report on corruption. Go to the Upper Wards to deliver it to her.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19302",
+   "en": "Deliver Information",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19303",
+   "en": "You have informed Ms. Wong that you will not help her plant bugs in the space traffic control station.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19304",
+   "en": "You tricked Emily into believing you had planted the bugs in the control room. She shouldn't bother you again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19305",
+   "en": "You convinced Emily not to publish a story about overworked space traffic controllers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19306",
+   "en": "Go to Citadel Security and plant a bug in the Citadel Traffic Control Center near the back of C-Sec.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19307",
+   "en": "Plant the Bugs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19308",
+   "en": "Tevos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19309",
+   "en": "Executor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19310",
+   "en": "Valern",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19311",
+   "en": "Sparatus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19312",
+   "en": "Diplomat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19313",
+   "en": "The Citadel (Main Story Arc)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19314",
+   "en": "Radio Chatter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19315",
+   "en": "Level Up",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19316",
+   "en": "Date Created:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19317",
+   "en": "Hollow Point Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19318",
+   "en": "Hammerhead Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19319",
+   "en": "Lizbeth Baynham",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19320",
+   "en": "You have to prove to the Citadel Council that Saren, one of their Spectre agents, has gone rogue.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19321",
+   "en": "Citadel: Expose Saren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19322",
+   "en": "Go to the Citadel Tower on the Presidium for an audience with the Council.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19323",
+   "en": "Go to the Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19324",
+   "en": "Hex Barrier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19325",
+   "en": "Damping Beam",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19326",
+   "en": "Disruption Rocket",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19327",
+   "en": "Pulse Blast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19328",
+   "en": "Overload Beam",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19329",
+   "en": "Siege Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19330",
+   "en": "Sabotage Beam",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19331",
+   "en": "Entrench",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19332",
+   "en": "Rake",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19333",
+   "en": "Vomit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19334",
+   "en": "Whip Strike",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19335",
+   "en": "Acid Spit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19336",
+   "en": "Explosion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19337",
+   "en": "Tesla Blast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19338",
+   "en": "Krogan Regeneration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19339",
+   "en": "Geth Networked Intelligence",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19340",
+   "en": "View Tasks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

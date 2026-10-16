@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/041",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u23845",
+   "en": "Target\n16 Damage/sec for 5 sec\n-16% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23846",
+   "en": "+40% Toxic Damage\n5 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23847",
+   "en": "+45% Toxic Damage\n6 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23848",
+   "en": "+50% Toxic Damage\n7 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23849",
+   "en": "+55% Toxic Damage\n8 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23850",
+   "en": "+40% Shield Bypass\n-20% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23851",
+   "en": "+45% Shield Bypass\n-20% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23852",
+   "en": "+50% Shield Bypass\n-20% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23853",
+   "en": "+55% Shield Bypass\n-20% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23854",
+   "en": "+25% Damage vs. Organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23855",
+   "en": "+30% Damage vs. Organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23856",
+   "en": "+33% Damage vs. Organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23857",
+   "en": "+37% Damage vs. Organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23858",
+   "en": "+40% Damage vs. Organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23859",
+   "en": "+25% Damage vs. Synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23860",
+   "en": "+30% Damage vs. Synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23861",
+   "en": "+33% Damage vs. Synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23862",
+   "en": "+37% Damage vs. Synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23863",
+   "en": "+40% Damage vs. Synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23864",
+   "en": "400 cm Blast Radius\n+500% Heat Generation\n+500% Weapons Force\n+20% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23865",
+   "en": "410 cm Blast Radius\n+500% Heat Generation\n+500% Weapons Force\n+24% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23866",
+   "en": "420 cm Blast Radius\n+500% Heat Generation\n+500% Weapons Force\n+28% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23867",
+   "en": "Target\n15 Damage/sec for 5 sec\n-20% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23868",
+   "en": "Target\n18 Damage/sec for 5 sec\n-24% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23869",
+   "en": "Target\n21 Damage/sec for 5 sec\n-28% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23870",
+   "en": "-20% Heat Absorption\n\nTarget\n+40% Weapons Force\n+40% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23871",
+   "en": "-20% Heat Absorption\n\nTarget\n+45% Weapons Force\n+45% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23872",
+   "en": "-20% Heat Absorption\n\nTarget\n+50% Weapons Force\n+50% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23873",
+   "en": "+20% Damage\n-40% Rate of Fire\n\nTarget\n-20% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23874",
+   "en": "+24% Damage\n-40% Rate of Fire\n\nTarget\n-24% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23875",
+   "en": "+28% Damage\n-40% Rate of Fire\n\nTarget\n-28% Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23876",
+   "en": "4 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23877",
+   "en": "5 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23878",
+   "en": "6 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23879",
+   "en": "7 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23880",
+   "en": "+15% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23881",
+   "en": "+18% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23882",
+   "en": "+21% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23883",
+   "en": "+24% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23884",
+   "en": "+20% Damage\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23885",
+   "en": "+23% Damage\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23886",
+   "en": "+26% Damage\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23887",
+   "en": "+29% Damage\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23888",
+   "en": "+15% Max Accuracy\n8 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23889",
+   "en": "+18% Max Accuracy\n9 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23890",
+   "en": "+21% Max Accuracy\n10 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23891",
+   "en": "8 Level Detection\n+15% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23892",
+   "en": "9 Level Detection\n+18% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23893",
+   "en": "10 Level Detection\n+21% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23894",
+   "en": "The scavengers who made this camp are gone. They seem to have abandoned it abruptly some time ago.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23895",
+   "en": "+5% Damage\n+20% Heat Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23896",
+   "en": "+6% Damage\n+24% Heat Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23897",
+   "en": "+7% Damage\n+28% Heat Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23898",
+   "en": "Abandoned Scavenger Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23899",
+   "en": "+5% Damage\n+20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23900",
+   "en": "+6% Damage\n+24% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23901",
+   "en": "+7% Damage\n+28% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23902",
+   "en": "+20% Damage\n-10% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23903",
+   "en": "+23% Damage\n-10% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23904",
+   "en": "+26% Damage\n-10% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23905",
+   "en": "DISCOVERY\nThe burnt corpses - evidently a \"mom and pop\" independent salvage team - show signs of close range hits from geth heavy particle beams.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23906",
+   "en": "Scavenger Corpses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23907",
+   "en": "There is no way to reverse this action. Are you sure you wish to reset the tutorials?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23908",
+   "en": "PERSON OF INTEREST\nC-Sec is investigating a woman named Helena Blake. There's no hard evidence against her, but if these reports are correct, she's a powerful criminal element on the Citadel. She was last seen near the Emporium on the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23909",
+   "en": "MISSING PERSON REPORT\nTo the attention of Administrator Anoleis:\nA man named Garoth is looking for information on the whereabouts of one of our freighters. He believes his brother's ship may have been attacked by privateers while traveling through the Strenuus system. Investigation pending.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23910",
+   "en": "GETH MOVEMENT\nAccording to these files, the geth are planning a massive assault. Saren has given orders that they begin in the Armstrong Nebula, away from \"prying eyes\".",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23911",
+   "en": "Water Valves",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23912",
+   "en": "PERSONAL LOG\n\"I don't care what the authorities say! Something's happened to them. Entire colonies don't just stop responding for no good reason. If the administrator won't do something, then I'll take a shuttle to the Hades Gamma cluster and deal with this myself!\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23913",
+   "en": "ALLIANCE PATROL REPORT\n\"Captain Hendrickson reported some unusual energy readings during a patrol of the Argos Rho cluster. She had particular concerns about the Hydra System but was recalled before her team could investigate further. No patrols are scheduled for that sector. Do we want to send in a recon team?\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23914",
+   "en": "EXOGENI CORPORATE ALERT\n\"Please be advised: several colonies have reported minor conflicts with fanatics bent on stopping human colonization. Our most recent intel suggests they're planning something in the Athens System of the Artemis Tau cluster. However, their movements and motives are unpredictable. Suggest raising alert to Level Orange for all corporately-funded colonies.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23915",
+   "en": "CARGO LOGS\nWhile decrypting these logs, you found something suspicious. Several months' worth of human rations were delivered to an uncharted world in the Voyager cluster. The logs aren't clear, but it appears they maybe have been dropped off somewhere in the Amazon system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23916",
+   "en": "DIPLOMATIC ADVISORY WARNING\nThe following message was transmitted from an untraceable account to multiple recipients across the extranet. Further monitoring of the situation is warranted.\n\"My fellow biotic: You have been selected to receive this transmission because of our shared plight. Few understand us, fewer tolerate us. We must stand together. We must build our own new world. Come. Join us in the Hawking Eta cluster. Only as one body can we right the wrongs done to our kind.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23917",
+   "en": "Close to the transmitter, your comms pick up a recording of a wistful string quartet. You power the system down. Whoever lived here, they haven't been back for some time. The crates are covered with Chohe's chalky dust, and the status lights of the shack indicate its atmosphere ran out long ago.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23918",
+   "en": "CONFIDENTIAL\n\"The test samples were due to arrive three days ago, but we haven't heard anything from the colony or the cargo vessel. We suspect the samples became volatile and recommend cutting off all further contact with the Nodacrux colony. Even if the colony is discovered, no one should be able to trace the events there back to us.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23919",
+   "en": "Opold's Package",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23920",
+   "en": "Repair Mira",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23921",
+   "en": "Unlock Decon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23922",
+   "en": "Connect Fuel Lines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23923",
+   "en": "Connect Landlines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23924",
+   "en": "Create a Cure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23925",
+   "en": "Dr. Cohen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23926",
+   "en": "Anomalous Signal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23927",
+   "en": "Salvager Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23928",
+   "en": "PRIVATE LOG OF DR. GAMORLE\n\"I don't trust this Cerberus group. They may pay us well, but if this gets out before we've developed an antidote... it's just not smart. They won't tell us what they want the samples for or why they wanted them delivered to the Matano system. My records show nothing of interest out there.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23929",
+   "en": "This person must have died while attempting to salvage a crashed satellite.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23930",
+   "en": "Salvager Corpse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23931",
+   "en": "SECURITY LOGS: UNAUTHORIZED TRANSMISSION\n\"Not sure if you will receive this, Doctor, but it is imperative you make your way to the safe location. Your history with our organization has been leaked. Your base in the Newton system is no longer secure. I repeat, make your way to the safe location immediately.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23932",
+   "en": "PERSONAL LOGS: ADMINISTRATOR TARTAKOVSKY\n\"That is last time. No more will I use that transport carrier. Three shipments we lose in Macedon system in ONE month. They are too stupid or too slow. If only Gregor still ran his shipments. He would get what I need and no mercenaries would dare to stop him.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23933",
+   "en": "Take the contents.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23934",
+   "en": "Judging by the footprints in the ash, the two mercenaries were facing each other over the crate when they died. Both suffered single gunshot wounds and have a rifle close beside them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23935",
+   "en": "Connect to Database",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23936",
+   "en": "Reconstruct Profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23937",
+   "en": "Admiral Kahoku",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23938",
+   "en": "Prophet Dispute",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23939",
+   "en": "Bosker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23940",
+   "en": "Mr. Bhatia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23941",
+   "en": "Girl",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23942",
+   "en": "Meeting Place",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23943",
+   "en": "Pickup",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23944",
+   "en": "Gambling Machine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23945",
+   "en": "To Flux",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23946",
+   "en": "Fist's Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23947",
+   "en": "Keeler",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23948",
+   "en": "Pistols Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23949",
+   "en": "Assault Rifles Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23950",
+   "en": "Shotguns Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23951",
+   "en": "Sniper Rifles Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23952",
+   "en": "Fitness Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23953",
+   "en": "Assault Training Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23954",
+   "en": "Throw Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23955",
+   "en": "Lift Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23956",
+   "en": "Warp Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23957",
+   "en": "Singularity Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23958",
+   "en": "Barrier Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23959",
+   "en": "Stasis Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23960",
+   "en": "Electronics Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23961",
+   "en": "Damping Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23962",
+   "en": "Hacking Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23963",
+   "en": "Decryption Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23964",
+   "en": "First Aid Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23965",
+   "en": "Medicine Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23966",
+   "en": "Light Armor Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23967",
+   "en": "Tactical Armor Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23968",
+   "en": "Combat Armor Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23969",
+   "en": "Morlan's Store",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23970",
+   "en": "Expat's Store",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23971",
+   "en": "Requisitions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23972",
+   "en": "Marksman\n\nIncreases pistol damage and accuracy, purges weapon heat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23973",
+   "en": "Advanced Marksman\n\nIncreases Marksman damage bonuses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23974",
+   "en": "Master Marksman\n\nFurther increases Marksman damage bonuses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23975",
+   "en": "Overkill\n\nAllows long bursts of assault rifle fire without overheating",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23976",
+   "en": "Advanced Overkill\n\nFurther reduces heat generation and increases damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23977",
+   "en": "Master Overkill\n\nEliminates heat generation and further increases damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23978",
+   "en": "Carnage\n\nTurns the next shotgun blast into an explosive ball of particles that can damage multiple enemies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23979",
+   "en": "Advanced Carnage\n\nIncreases damage done by blast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23980",
+   "en": "Master Carnage\n\nFurther increases damage done and size of impact point",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23981",
+   "en": "Carnage\n\nTurns next shotgun blast into an explosive ball of particles that can damage multiple enemies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23982",
+   "en": "Advanced Carnage\n\nIncreases blast radius and damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23983",
+   "en": "Master Carnage\n\nFurther increases blast radius and damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23984",
+   "en": "DISCOVERY\nBrushing away the carbonization on the door of the contragravity speeder, you see the Nezo brand name. Judging by the charring, the wreckage has been here since the star's last variable peak. The corpse is wearing the remains of an expensive suit, and what appear to be melted antique aviator goggles.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23985",
+   "en": "Crashed Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23986",
+   "en": "Assassination\n\nIncreases damage done by your next sniper rifle shot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23987",
+   "en": "Advanced Assassination\n\nIncreases Assassination damage bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23988",
+   "en": "Master Assassination\n\nFurther increases Assassination damage bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23989",
+   "en": "Shield Boost\n\nRestores a portion of your shields even while you are under fire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23990",
+   "en": "Advanced Shield Boost\n\nRestores bigger portion of shield",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23991",
+   "en": "Master Shield Boost\n\nRestores even bigger portion of shield",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23992",
+   "en": "Adrenaline Burst\n\nRecharges all talents so they can be used immediately",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23993",
+   "en": "Advanced Adrenaline Burst\n\nReduces recharge time so Adrenaline Burst can be used more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23994",
+   "en": "Master Adrenaline Burst\n\nFurther reduces recharge time so Adrenaline Burst can be used more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

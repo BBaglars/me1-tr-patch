@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/055",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u25945",
+   "en": "Press any Quick Slot key to activate a mapped power without bringing up the Tactics HUD.  ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25946",
+   "en": "The Tactics HUD lets you switch weapon types in combat. Press %WEAPONSWHEEL to bring up the Tactics HUD.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25947",
+   "en": "Firing from a crouched position improves accuracy. Press %CROUCH to crouch or stand.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25948",
+   "en": "Press (%MELEE) to rifle-butt enemies at close range. Be careful: enemies can do the same to you, and some of them are far stronger than humans!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25949",
+   "en": "Use the Power Wheel to set up combos for your squad. Have one squad member Lift a target while another one uses Throw to hurl your enemy across the room.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25950",
+   "en": "Set up combos for your squad with the Power Wheel. Use Singularity to draw enemies into a tight group, then finish them off with a grenade!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25951",
+   "en": "Remember to press %WEAPONSWHEEL to bring up the Tactics HUD if you want to switch weapons.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25952",
+   "en": "Use Zoom (%ZOOM) to improve your accuracy during combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25953",
+   "en": "Use the Equipment screen to equip or upgrade weapons, armor and other gear. Equipped items will not show up in the SELL window when you visit stores.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25954",
+   "en": "The Mako has two weapons: a heavy artillery cannon (%VEHICLECANNON) and an automatic chain gun (%VEHICLEMACHINEGUN).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25955",
+   "en": "While in the Mako, you can look through the turret scope by pressing %VEHICLEZOOM.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25956",
+   "en": "You can return to the Normandy from any uncharted world by entering the Mako and pressing %VEHICLERETURN.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25957",
+   "en": "Press %FIRSTAID to use medi-gel and regain health during combat. Put points into the First Aid skill to increase the amount of health regained from each medi-gel use.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25958",
+   "en": "The Tactics HUD lets you use your special abilities. Press %TACTICSHUD to bring up the Tactics HUD during combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25959",
+   "en": "Press %NEXTWEAPON to equip your next weapon without bringing up the Tactics HUD.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25960",
+   "en": "You've found the body of Montoya.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25961",
+   "en": "You've found the body of Mendel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25962",
+   "en": "Human cultures remain linguistically divided. Some converse in Spanish, others in Mandarin, Arabic, Swahili, etc. Every alien race has their own equally broad panoply of languages and dialects.\n\nMost individuals know only their mother tongue, and rely on machine translation. Modern portable computers allow anyone with a few hundred credits of equipment to enjoy seamless real-time translation of alien languages, courtesy of handheld PDAs, computers in clothing or jewelry, or sub-dermal implants. Without fast and accurate translation, galactic trade and culture could not exist.\n\nGovernments provide subsidized software, updated through the public extranet \"on the fly,\" often as users approach spaceport customs facilities. Even the batarians, who isolated themselves from galactic society nearly two decades ago, take pains to provide up-to-date glossaries and linguistic rules, though most suspect this is only so they can continue exporting propaganda.\n\n\nIt is still considered broad-minded and practical to be able to speak without machine aid. Children often take courses in alien language, and most races can speak the simplified artificial \"trade tongue\" with little difficulty.\n\nSome species must rely on machine translation to interact with the rest of the galaxy. Hanar, for example, cannot reproduce the spoken language of any humanoid species, and other races cannot reproduce hanar bioluminescence without mechanical aid. Newly discovered or obscure races don't have  machine translation available until the linguists have had time to study them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25963",
+   "en": "Technology: Translation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25964",
+   "en": "Mass Effect Team:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25965",
+   "en": "Brian Bloom",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25966",
+   "en": "Simon Atwell\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25967",
+   "en": "Test",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25968",
+   "en": "Transmission Tower Fixed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25969",
+   "en": "Repair Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25970",
+   "en": "There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.\n\nYou've found the bodies of Hymes and Mendel; only Montoya needs to be found.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25971",
+   "en": "X57: One Missing Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25972",
+   "en": "There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.\n\nYou've found the bodies of Hymes and Montoya; only Mendel needs to be found.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25973",
+   "en": "There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.\n\nYou've found the bodies of Mendel and Montoya; only Hymes needs to be found.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25974",
+   "en": "There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.\n\nYou've found the body of Hymes, but Mendel and Montoya are still missing.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25975",
+   "en": "X57: Two Missing Engineers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25976",
+   "en": "There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.\n\nYou've found the body of Mendel, but Hymes and Montoya are still missing.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25977",
+   "en": "There are three engineers missing on the surface of X57: Hymes, Mendel, and Montoya. If they're alive, they need to be rescued. If they're not, someone should be told where they are.\n\nYou've found the body of Montoya, but Hymes and Mendel are still missing.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25978",
+   "en": "Security lockdown has been engaged. You cannot open the door at this time.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25979",
+   "en": "Vehicle Wreckage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25980",
+   "en": "To Holding Cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25981",
+   "en": "Attempting to Repair Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25982",
+   "en": "Bypass using 50 omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25983",
+   "en": "It looks like he died from a single shot through his helmet, likely from a sniper.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25984",
+   "en": "Exit Program",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25985",
+   "en": "Toggle\nHelmet",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25986",
+   "en": "Quick\nSlots\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25987",
+   "en": "Invalid Quick Slot Key",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25988",
+   "en": "You will gain medi-gel and omni-gel throughout the game by defeating enemies and opening containers.\nMedi-gel is necessary to heal injured squad members.\nOmni-gel can facilitate the use of Decryption and Electronics on objects in the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25989",
+   "en": "You can activate Shepard's powers quickly by assigning them to Quick Slots.\nPress %ABILITIESWHEEL to open the power wheel.\nLeft click and drag one of Shepard's powers into one of the quick slots on the left.\nPress %ABILITIESWHEEL to close the power wheel.\nPress any quick slot hotkey to activate the power in that slot.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25990",
+   "en": "Left Click or press Enter to cue up your responses during dialog. You will reply as soon as the other person finishes talking.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25991",
+   "en": "Press Spacebar to skip immediately to the next line of dialog during a conversation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25992",
+   "en": "You can issue orders to your squad.\n%ORDERSSQUADATTACK: Attack your target.\n%ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2: Have a specific squadmate move to a point or attack the targetted enemy.\n%ORDERSSQUADFOLLOW: Regroup and follow you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25993",
+   "en": "By assigning them to Quick Slots, you can activate Shepard's powers without bringing up the Power Wheel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25994",
+   "en": "Your radar will show the direction to a destination waypoint set on your map. Right Click on the Map screen to set a destination waypoint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25995",
+   "en": "Order your entire squad to attack a targeted enemy by pressing %ORDERSSQUADATTACK.\nYou can also order specific squadmates to attack by pressing %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 instead.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25996",
+   "en": "Press %ORDERSMOVE to send your squad forward to a targeted location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25997",
+   "en": "You can set your own destination waypoint on your Map with Right Click. This waypoint will show up on your radar. Note: you can only have one active waypoint on any given map.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25998",
+   "en": "Press %TACTICSHUD to bring up the Tactics HUD and use the Shield Boost ability during combat to restore lost shields.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25999",
+   "en": "Press %ORDERSSQUADATTACK to have your entire squad attack the highlighted target.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26000",
+   "en": "Press %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 to have a squadmate move to a location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26001",
+   "en": "You can only have one destination waypoint set on a map at any given time. Right Click on the Map screen to set a destination waypoint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26002",
+   "en": "Press %ORDERSSQUADFOLLOW to rally your squad and have them regroup around you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26003",
+   "en": "Send your squad forward to a targeted location by pressing %ORDERSMOVE.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26004",
+   "en": "Order your entire squad to attack a targeted enemy by pressing %ORDERSSQUADATTACK.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26005",
+   "en": "Have a squadmate move to a position by pressing %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26006",
+   "en": "While driving the mako, press %VEHICLEREPAIR to repair any damage it may have sustained. This uses omnigel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26007",
+   "en": "Rally your squad and have them regroup around you by pressing %ORDERSSQUADFOLLOW.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26008",
+   "en": "You can climb up on some ledges by approaching them and pressing %INTERACT.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26009",
+   "en": "You can return to the Normandy from any uncharted world by pressing %VEHICLERETURN while in the Mako.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26010",
+   "en": "You can spend talent points on the Sniper Rifle talent in the Squad Screen to steady your aim when zoomed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26011",
+   "en": "The Mako's jump jets (%VEHICLEJETS) can be used to jump over incoming missiles.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26012",
+   "en": "Selected Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26013",
+   "en": "Equipped Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26014",
+   "en": "Quick Save Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26015",
+   "en": "Blasting Caps Disarmed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26016",
+   "en": "Failure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26017",
+   "en": "Attempting to Disarm Blasting Caps",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26018",
+   "en": "Disarm Blasting Caps",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26019",
+   "en": "Bypass using 25 omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26020",
+   "en": "Michael Trottier\nNeil Valeriano",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26021",
+   "en": "Casey Hudson\nRay Muzyka\nGreg Zeschuk\nCookie Everman\nDavid Falkner\nYanick Roy\nPreston Watamaniuk\n\n\nThe Mass Effect Team\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26022",
+   "en": "Localization Tools Programmer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26023",
+   "en": "Chris Christou",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26024",
+   "en": "X57 Radio",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26025",
+   "en": "Batarian Soldier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26026",
+   "en": "Parrish Ley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26027",
+   "en": "Hostages",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26028",
+   "en": "Logs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26029",
+   "en": "Radio Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26030",
+   "en": "This computer is filled with operation logs and personal journals for a small pirate music station operated by X57’s engineers. It includes scripts for several promotional messages, none of which appear to have been recorded.\n\nRadio X57: Rocking This Rock Since 2182\n\nRadio X57: When Your World Seems Hollow, We Help You Touch the Sky\n\nRadio X57: Talk Hard\n\nRadio X57: Your Last, Best Hope for ROCK within 300,000 Kilometers\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26031",
+   "en": "You notice an open text file, the personal journal of the station operator. It reads in part: \"Project director wants to shut us down. Says our music is too 'extreme', that we're inciting the younger workers to riot and sleep with aliens. I asked him if he'd listened to us. He said he talked to someone who'd heard about what we play.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26032",
+   "en": "Grenade Storage Box",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26033",
+   "en": "Audrey Wasilewski",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26034",
+   "en": "Override using 25 omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26035",
+   "en": "The computer lists a complete cargo manifest of the containers outside. It is mostly uninteresting -- excavation equipment and parts for prefabricated work shacks. A footnote catches your eye: ‘Explosives moved to grid reference 32-4-16 for safety.’ ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26036",
+   "en": "The computer lists a complete cargo manifest of the containers outside. It is mostly uninteresting -- excavation equipment and parts for prefabricated work shacks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26037",
+   "en": "Construction Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26038",
+   "en": "Explosives Cache",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26039",
+   "en": "Character Artist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26040",
+   "en": "Visual Effects Artist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26041",
+   "en": "Cinematic Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26042",
+   "en": "Assistant Producer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26043",
+   "en": "Quality Assurance Analyst",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26044",
+   "en": "A new data file is available for the Galactic Codex.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26045",
+   "en": "UPDATE: Bring Down the Sky",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26046",
+   "en": "Toggle Walk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26047",
+   "en": "Requirement: Complete Playthrough with All Squad Members Alive\nReward: Health increases by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26048",
+   "en": "Requirement: Complete Playthrough\nReward: Unlock Hardcore Difficulty\nUnlock Character Levels 51-60",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26049",
+   "en": "Requirement: Complete Hardcore Playthrough\nReward: Unlock Insanity Difficulty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26050",
+   "en": "Requirement: Log 150 Shotgun Kills\nReward: Unlock Shotguns Talent for all future characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26051",
+   "en": "Requirement: Log 150 Assault Rifle Kills\nReward: Unlock Assault Rifles Talent for all future characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26052",
+   "en": "Requirement: Log 150 Sniper Rifle Kills\nReward: Unlock Sniper Rifles Talent for all future characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26053",
+   "en": "Requirement: Use Biotic Lift 75 Times\nReward: Unlock Lift Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26054",
+   "en": "Requirement: Use Biotic Throw 75 Times\nReward: Unlock Throw Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26055",
+   "en": "Requirement: Use Biotic Warp 75 Times\nReward: Unlock Warp Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26056",
+   "en": "Requirement: Use Biotic Singularity 75 Times\nReward: Unlock Singularity Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26057",
+   "en": "Requirement: Use Biotic Barrier 75 Times\nReward: Unlock Barrier Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26058",
+   "en": "Requirement: Use Biotic Stasis 75 Times\nReward: Unlock Stasis Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26059",
+   "en": "Requirement: Use Damping Field 75 Times\nReward: Unlock Damping Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26060",
+   "en": "Requirement: Use AI Hacking 75 Times\nReward: Unlock Hacking Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26061",
+   "en": "Requirement: Use Overload 75 Times\nReward: Unlock Overload Talent for all subsequent characters on this profile\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26062",
+   "en": "Requirement: Use Sabotage 75 Times\nReward: Unlock Sabotage Talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26063",
+   "en": "Requirement: Use Medi-gel 150 Times\nReward: Unlock First Aid Talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26064",
+   "en": "Requirement: Use Neural Shock 75 Times\nReward: Unlock Medicine Talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26065",
+   "en": "Requirement: Complete the majority of the game\nReward: Experience rewards increase by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26066",
+   "en": "Requirement: Exceed 1,000,000 Credits\nReward: Access Spectre Gear through Normandy Requisitions Officer and C-Sec Requisitions Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26067",
+   "en": "Requirement: Complete Majority of the Game with Alliance Soldier Squad Member\nReward: Damage Reduction improves by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26068",
+   "en": "Requirement: Complete Majority of the Game with Alliance Sentinel Squad Member\nReward: Lift and Throw recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26069",
+   "en": "Requirement: Complete Majority of the Game with Krogan Squad Member\nReward: Regenerate 1 health per second",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26070",
+   "en": "Requirement: Complete Majority of the Game with Turian Squad Member\nReward: Damping and Overload recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26071",
+   "en": "Requirement: Complete Majority of the Game with Quarian Squad Member\nReward: Sabotage and AI Hacking recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26072",
+   "en": "Requirement: Complete Majority of the Game with Asari Squad Member\nReward: Stasis and Barrier recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26073",
+   "en": "Squad Orders can be used to tactically maneuver your squadmates in combat. The Squad Orders Wheel can be brought up by pressing %ORDERSWHEEL. With the Orders Wheel open, right click and drag the mouse to look around. Click on an order to select it. Squad mates will follow their orders when the orders wheel is closed by pressing %ORDERSWHEEL.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26074",
+   "en": "Orders can also be given to your squad on the fly\n%ORDERSSQUADATTACK: Attack your target.\n%ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2: Have a specific squadmate move to a point or attack the targetted enemy.\n%ORDERSSQUADFOLLOW: Regroup and follow you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26075",
+   "en": "Press %ABILITIESWHEEL to pause and access the Power Wheel. Holding down the right mouse button to aim, then click a power to use it on the target. Press %ABILITIESWHEEL again to resume playing.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26076",
+   "en": "Shepard's powers can be activated in combat without going to the power wheel by pressing a Quick Slot key. To assign a power to a quick slot, open the Power Wheel and click and drag one of Shepard's powers into a quick slot.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26077",
+   "en": "Holster Weapon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26078",
+   "en": "Changes have not been applied. Do you wish to continue?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26079",
+   "en": "Use the movement keys %FORWARD, %MOVELEFT, %MOVERIGHT, and %BACKWARD to advance to the central core. Avoid the security programs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26080",
+   "en": "Are you sure you want to exit Mass Effect?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26081",
+   "en": "On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26082",
+   "en": "Shane White",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26083",
+   "en": "Daland Davis\nTim Duzmal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26084",
+   "en": "Melanie Henry",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26085",
+   "en": "Trevor Laupmanis\nBill Wagner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26086",
+   "en": "Guy Welch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26087",
+   "en": "Greg \"Porkfry\" Hjertager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26088",
+   "en": "Alex Emmet \nCarolyn Gold \nChris Liu \nJeff Kafer \nMatt Shimabuku \nMichael McCormack \nSarah Stewart",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26089",
+   "en": "Brandt Massman (Volt) \nBrian McGee (Excell Data) \nBrian Noonan (Excell Data) \nBryce Pinkston (Volt) \nCahlen Lee (Volt) \nDavid Locke (Excell Data) \nDevin Prutsman (Volt) \nJared Barnhill (Excell Data) \nJohn Thomas (Volt) \nLenny Lim (Volt) \nMark Neiderer (Volt) \nMatt Antonellis (Excell Data) \nMatt Wolff (Excell Data) \nMichael Durkin (Volt) \nRobert Colling (Volt) \nScott Shields (Volt)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26090",
+   "en": "Alan Davis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26091",
+   "en": "Jean-Philippe Chassagne",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26092",
+   "en": "Steve Belton\nTerry McManus (CPL Solutions)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26093",
+   "en": "Bruno Besutti",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26094",
+   "en": "Martin Graf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

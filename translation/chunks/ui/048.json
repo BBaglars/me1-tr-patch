@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/048",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u24895",
+   "en": "Every piece of equipment you have not already assigned to a squad member is available on the inventory screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24896",
+   "en": "There are equipment lockers for every member of your crew in the cargo bay of the Normandy. These allow you to change current equipped weapons, armor, and upgrades for each squad member.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24897",
+   "en": "Hammerhead ammunition does little damage, can knock targets down. Use it to keep enemies on the floor and helpless.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24898",
+   "en": "Drive diagonally up steep slopes in the mako, using switchback turns to traverse difficult terrain.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24899",
+   "en": "While driving the mako, press [XBoxB_Btn_Y] to repair any damage it may have sustained. This uses omnigel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24900",
+   "en": "You can set your own destination waypoint on your Map by pressing [UI_XBoxB_Btn_A]. This waypoint will show up on your radar. Note: you can only have one active waypoint on any given map.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24901",
+   "en": "Your radar will show the direction to a destination waypoint set on your map. Press [UI_XBoxB_Btn_A] on the Map screen to set a destination waypoint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24902",
+   "en": "You can only have one destination waypoint set on a map at any given time. Press [UI_XBoxB_Btn_A] on the Map screen to set a destination waypoint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24903",
+   "en": "Your Specialization Class will replace your base class in the Talents on the SQUAD screen.\nTalent Ranks in your base class transfer over to your Specialization Class.\nGo to your SQUAD screen to view the bonuses you gain with each rank in your Specialization Class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24904",
+   "en": "Associate Audio Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24905",
+   "en": "Michael Kent",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24906",
+   "en": "Additional Music",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24907",
+   "en": "Richard Jacques\nDavid Kates",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24908",
+   "en": "Credit Music",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24909",
+   "en": "m4 part II\nWritten and Performed by Faunts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24910",
+   "en": "Additional Dialogue Editing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24911",
+   "en": "Dave Chan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24912",
+   "en": "Audio Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24913",
+   "en": "Test Leads",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24914",
+   "en": "User Research Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24915",
+   "en": "UX Lead / Writer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24916",
+   "en": "Documentation Design Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24917",
+   "en": "Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24918",
+   "en": "International Project Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24919",
+   "en": "Global Product Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24920",
+   "en": "Global PR Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24921",
+   "en": "Producers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24922",
+   "en": "Director of Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24923",
+   "en": "Additional Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24924",
+   "en": "XNA GPX",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24925",
+   "en": "Design Directors",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24926",
+   "en": "Lead Design Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24927",
+   "en": "Director of Art",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24928",
+   "en": "Video Editor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24929",
+   "en": "Assistant Video Editors",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24930",
+   "en": "Audio Design Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24931",
+   "en": "Sound Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24932",
+   "en": "Senior Audio Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24933",
+   "en": "Test Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24934",
+   "en": "Core Test Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24935",
+   "en": "SDE Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24936",
+   "en": "Reserves Team Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24937",
+   "en": "Reserves Testers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24938",
+   "en": "Additional User Research",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24939",
+   "en": "UX Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24940",
+   "en": "Documentation Design Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24941",
+   "en": "Group UX Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24942",
+   "en": "Additional UX",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24943",
+   "en": "Microsoft Ireland Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24944",
+   "en": "Program Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24945",
+   "en": "Test Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24946",
+   "en": "Lead Tester",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24947",
+   "en": "Documentation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24948",
+   "en": "Keywords International Ltd.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24949",
+   "en": "Testing Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24950",
+   "en": "Team Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24951",
+   "en": "Keywords Italian Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24952",
+   "en": "Keywords German Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24953",
+   "en": "Keywords French Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24954",
+   "en": "Keywords Polish Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24955",
+   "en": "Keywords Spanish team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24956",
+   "en": "Microsoft Taiwan Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24957",
+   "en": "Localization PM",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24958",
+   "en": "Microsoft Korea Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24959",
+   "en": "Microsoft Legal/Business Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24960",
+   "en": "Group Business Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24961",
+   "en": "Director of Business Management",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24962",
+   "en": "Senior Director Business Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24963",
+   "en": "Attorney",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24964",
+   "en": "Microsoft Global Marketing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24965",
+   "en": "Group Product Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24966",
+   "en": "Director of Global Product Marketing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24967",
+   "en": "Visual Brand ID",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24968",
+   "en": "Advertising",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24969",
+   "en": "Microsoft Public Relations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24970",
+   "en": "Senior Group Manager, PR",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24971",
+   "en": "Info",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24972",
+   "en": "Tim Dean",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24973",
+   "en": "Shane White\nChris Liu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24974",
+   "en": "John Sutherland",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24975",
+   "en": "Heidi Hendricks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24976",
+   "en": "Chris Lassen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24977",
+   "en": "Carol Walter (The Lux Group)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24978",
+   "en": "Lief Thompson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24979",
+   "en": "Rob Semsey",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24980",
+   "en": "Shannon Loftis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24981",
+   "en": "Leon Pryor\nSam Charchian\nPeter Connelly\nGordon Hee\nRavi Mehta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24982",
+   "en": "Brian Stone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24983",
+   "en": "Brandon Burlison\nGreg Hermann\nTom Holmes\nChuck Noble\nKutta Srinivasan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24984",
+   "en": "Marwan Jubran\nMike Ruete\nAleks Gershaft\nJon Yip\nJon Burns",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24985",
+   "en": "William Hodge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24986",
+   "en": "Chris Esaki\nThomas Zuccotti",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24987",
+   "en": "Stephen McLaughlin (Excell Data)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24988",
+   "en": "Jonas Norberg",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24989",
+   "en": "Kevin Brown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24990",
+   "en": "Doug McBride\nMichael Cahill\nJeff McCrory\nRyan Wilkerson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24991",
+   "en": "Curtis Neal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24992",
+   "en": "Aaron Bear\nColin McLoughlin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24993",
+   "en": "Ken Kato",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24994",
+   "en": "Keith Sjoquist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24995",
+   "en": "Guy Whitmore",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24996",
+   "en": "Microsoft Game Studios Extended Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24997",
+   "en": "Microsoft Game Studios Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24998",
+   "en": "Microsoft Game Studios Design Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24999",
+   "en": "Microsoft Game Studios Art",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25000",
+   "en": "Microsoft Game Studios Audio",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25001",
+   "en": "Microsoft Game Studios Test Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25002",
+   "en": "Microsoft Game Studios UX Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25003",
+   "en": "Decoy Transmitter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25004",
+   "en": "Kyle Shannon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25005",
+   "en": "Brandon Anthony (Volt)\nBrett Dupree (Volt)\nTim Duzmal\nCarolyn Gold\nGreg \"Porkfry\" Hjertager\nJeff Kafer\nPeter Kugler\nMatt Shimabuku\nSarah Stewart\nJohn Thomas (Volt)\nRandy Wood\nBrian Yu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25006",
+   "en": "Mark Amos\nMatthew Call\nEric Lee\nJustin McBride\nDan Price\nBrant Schweigert",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25007",
+   "en": "Craig Marshall\nMark McAllister",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25008",
+   "en": "Adam Wojewidka (Volt)\nAlex Gray (Excell Data)\nAmanda Robinson (Volt)\nBob Mowery (Excell Data)\nBrandon McCurry (Volt)\nBrandt Massman (Volt)\nBrian Noonan (Excell Data)\nBryce Pinkston (Volt)\nCahlen Lee (Volt)\nChad Hale (Volt)\nChris Burke (Excell Data)\nCorigan Bemis (Excell Data)\nCraig Prothman (Volt)\nDalrek Davis (Volt)\nDan Osborn (Volt)\nDavid Foster (Volt)\nDavid Hoar (Excell Data)\nDevin Prutsman (Volt)\nDevon Carver (Excell Data)\nDoug Gorman (Excell Data)\nEric Anderson (Volt)\nJa Tsang (Excell Data)\nJakob Pederson (Volt)\nJason Hall (Excell Data)\nJeff Carmon (Excell Data)\nJeff Hines (Excell Data)\nJennifer Wilson-Parenti (Volt)\nJeremy Powers (Volt)\nJohn Thomas (Volt)\nJordan Harrison (Volt)\nJosh Hansen (Volt)\nJosh McCullough (Volt)\nJosiah Colborn (Volt)\nKarl McLain (Volt)\nKevin Sherard (Volt)\nKyle Jacobsen (Volt)\nLawrence Lai (Excell Data)\nLucas Myers (Volt)\nMatt Giddings (Volt)\nMatt Wolff (Excell Data)\nMichael Corrado (Excell Data)\nMichael Durkin (Volt)\nNoah McGary (Volt)\nPat Moening (Excell Data)\nPaul Orsborn (Excell Data)\nPeter DuBois (Volt)\nPhilip Brown (Volt)\nPhoebe Spencer (Volt)\nRebekka Shipway (Excell Data)\nRobert Colling (Volt)\nRobert Maddux (Excell Data)\nRobert Shearon (Excell Data)\nRoderic Ponce (Excell Data)\nRyan Crowell (Excell Data)\nScott Lindberg (Volt)\nScott Shields (Volt)\nSean Thompson (Volt)\nShaun Jones (Volt)\nStephen Bonikowsky (Excell Data)\nTed Lockwood (Excell Data)\nTom Wollam (Excell Data)\nTrevor Berlin (Volt)\nTyler Cooper (Excell Data)\nTyler Johnston (Volt)\nWade Davis (Volt)\nWill Timmins (Excell Data)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25009",
+   "en": "Kevin Keeker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25010",
+   "en": "Ramon Romero\nDrew Voegele\nJohn P. Davis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25011",
+   "en": "Laura Hamilton\nDana Fos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25012",
+   "en": "JoAnne Williams",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25013",
+   "en": "Matt Whiting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25014",
+   "en": "Andrea Roberts (Sakson & Taylor)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25015",
+   "en": "John Byrne",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25016",
+   "en": "Alan Davis\nJohn O'Sullivan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25017",
+   "en": "Brian Fox",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25018",
+   "en": "Steve Belton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25019",
+   "en": "Jean-Philippe Chassagne\nJulien Chergui",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25020",
+   "en": "Ben Cahill",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25021",
+   "en": "Paul Vigneron",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25022",
+   "en": "Nicolas Hermant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25023",
+   "en": "Emanuele Guidetti\nRaffaele La Gala\nClaudio Perazzo\nCamilla Miliacca",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25024",
+   "en": "Patrick Lampert\nJürgen Röder\nManuel Tants\nAchim Unland",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25025",
+   "en": "Julien Bourgeat\nJean-Philippe Mathieu\nBenoît de Ruyter\nFrançois Tarrida",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25026",
+   "en": "Magdalena Cakala \nAdam Dawidziuk\nTomasz Krupa\nTomasz Wilczek",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25027",
+   "en": "Sergio Sampalo Álvarez\nJulián Cid Bautista\nJosé María Parrondo Martín\nAurora Cano Ubiña",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25028",
+   "en": "Robert Lin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25029",
+   "en": "Aha Chiu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25030",
+   "en": "Eva Lin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25031",
+   "en": "Jae Youn Kim",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25032",
+   "en": "Jee Hoon Oh",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25033",
+   "en": "Nick Dimitrov",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25034",
+   "en": "Todd Stevens",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25035",
+   "en": "Frank Pape",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25036",
+   "en": "Don McGowan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25037",
+   "en": "Dan Amdur",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25038",
+   "en": "Craig Davison",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25039",
+   "en": "Justin Kirby\nHenry Liu (Kelly Services)\nAaron Travis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25040",
+   "en": "Ryan Crosby\nAaron Elliot\nTaylor Smith",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25041",
+   "en": "Genevieve Waldman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25042",
+   "en": "Muffy Bryan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25043",
+   "en": "Kyoung Han Yoon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25044",
+   "en": "Daland Davis, Dan Cawdrey, Dave Luehman, David C. Holmes, David Hufford, Frank Pape, Greg B. Jones, Jeff Bell, Jo Clowes, Kevin Browne, Melissa Gruenstein, Mike Fischer, Peter Moore, Phil Spencer, Phil Teschner, Randy Blum, Raja Subramoni, Rick Lockyear, Robert Dekker, Shane Kim, Steve Beinner, Tara Brannigan, Tobin Buttram, and EEDC / Edm Tourism.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

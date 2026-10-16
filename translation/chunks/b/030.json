@@ -1,0 +1,532 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/030",
+  "family": "LAV60"
+ },
+ "entries": [
+  {
+   "key": "u05062",
+   "en": "At least it's a dry heat.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05063",
+   "en": "Hell of a place.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05064",
+   "en": "Like an oven here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05065",
+   "en": "I think my eyeballs are dried out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05066",
+   "en": "Remember to stay hydrated.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05067",
+   "en": "I thought Palaven was hot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05068",
+   "en": "Nothing but rocks, dirt, and lava. Reminds me of home.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05069",
+   "en": "Fifty degrees hotter and I might start to feel uncomfortable. How are you mammals doing, Shepard?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05070",
+   "en": "My people have searched many generations for a world to call home. If we landed here, we'd just keep searching.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05071",
+   "en": "Even the geth wouldn't want to live in this heat.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_00_DSG_LOC",
+    "BIOA_LAV70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05072",
+   "en": "Commander, I'm picking up some strange readings. Really strange. Like, off the damn charts.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05073",
+   "en": "It looks like it's coming from an underground complex a few klicks away from the drop zone.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05074",
+   "en": "Only a fool punches a nathak in the mouth. We should sneak around and pull its tail.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05075",
+   "en": "This route's a no-go. They have height and cover.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05076",
+   "en": "The Chief's right. In this terrain, we might be able to sneak into their flank.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05077",
+   "en": "I don't think we can take that strongpoint head-on.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05078",
+   "en": "The L-T's right. We should bypass, see if we can take them in flank.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05079",
+   "en": "Trying to knock down the front door seems stupid. Maybe we could find a side window?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV60_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05080",
+   "en": "The focusing lenses are still intact. I bet we can get this working again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_LAY_LOC"
+   ]
+  },
+  {
+   "key": "u05081",
+   "en": "Looks like this could be reactivated. It was probably too expensive to pull out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_LAY_LOC"
+   ]
+  },
+  {
+   "key": "u05082",
+   "en": "This would make a hell of a weapon. Anything that can vaporize rock could maul an armored column.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_LAY_LOC"
+   ]
+  },
+  {
+   "key": "u05083",
+   "en": "You hear that hum? I think the power plant is still active.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_LAY_LOC"
+   ]
+  },
+  {
+   "key": "u05084",
+   "en": "Think this would work if I kicked it?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_LAY_LOC"
+   ]
+  },
+  {
+   "key": "u05085",
+   "en": "I-- I still cannot believe all this. Why would the geth come after me? Do you think Benezia's involved?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05086",
+   "en": "Saren's looking for the Conduit. You're a Prothean expert. He probably wants you to help him find it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05087",
+   "en": "Saren's looking for the Conduit. Think fast, Ms. Prothean Expert.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05088",
+   "en": "Saren's looking for the Conduit. You're a Prothean expert. Obviously he wants you to help him find it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05089",
+   "en": "The Conduit? But I don't know--",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05090",
+   "en": "What the hell was that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05091",
+   "en": "What the hell was that? ",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05092",
+   "en": "These ruins aren't stable. That mining laser must have triggered a seismic event.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05093",
+   "en": "Joker! Get the Normandy airborne and lock in on my signal. On the double, mister!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05094",
+   "en": "We need an escape plan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05095",
+   "en": "We have to hurry. The whole place is caving in!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05096",
+   "en": "Aye, aye, Commander. Secure and aweigh. ETA eight minutes.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05097",
+   "en": "He needs to move faster.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05098",
+   "en": "Gonna be close, skipper.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05099",
+   "en": "If I die in here, I'll kill him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05100",
+   "en": "Not much margin for error.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05101",
+   "en": "We're getting out of here!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_00_DSG_LOC",
+    "BIOA_LAV70_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05102",
+   "en": "It looks like this cavern formed around the ruin. After it was built.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05103",
+   "en": "I've never visited a Prothean ruin before. Aside from the Citadel, I mean.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05104",
+   "en": "Dare you to spit over the side.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05105",
+   "en": "Long way down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05106",
+   "en": "Lot of dark corners in here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05107",
+   "en": "Sterile white. Protheans sure build things homey.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05108",
+   "en": "The tiles in those holes remind me of a bathroom floor.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05109",
+   "en": "Protheans built to last. Looks like a lava flow poured in here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05110",
+   "en": "I wonder what Liara's looking for in here. Most Prothean ruins have nothing more than dead instrumentation.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05111",
+   "en": "This is fascinating. It is not like the Citadel's architecture at all.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05112",
+   "en": "Now I am hallucinating that you are inside the tower. I must be getting worse. Earlier, I even imagined I heard thunder.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05113",
+   "en": "Yes, you're right. I've seen enough of them to last a lifetime. That button should shut down my containment field.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05114",
+   "en": "I am sorry, but I am in no mood to keep talking to a hallucination.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05115",
+   "en": "Of course. What good is a hallucination if it doesn't give false hope?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05116",
+   "en": "I am still trapped. And hungry. Please. Could we talk after you release me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05117",
+   "en": "It's not like I'm going anywhere, but could you please hurry?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05118",
+   "en": "Are you-- Are you real? Oh no, don't be stupid, Liara. Humans do not come here. You're hallucinating.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05119",
+   "en": "You're oddly lucid for a hallucination. They don't usually claim to be real.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05120",
+   "en": "A Spectre? Ha. That's good. What else would I conjure up? A protector figure. Yes, perfect. Comforting.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05121",
+   "en": "Can you hear me out there? I am trapped. I need help!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC"
+   ]
+  }
+ ]
+}

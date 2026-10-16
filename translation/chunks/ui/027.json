@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/027",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21893",
+   "en": "Bridge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21894",
+   "en": "Combat Information Center",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21895",
+   "en": "You have completed 507_goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21896",
+   "en": "507_goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21897",
+   "en": "You have completed 507_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21898",
+   "en": "507_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21899",
+   "en": "Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21900",
+   "en": "Stairs down to Tunnels",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21901",
+   "en": "Tunnels",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21902",
+   "en": "Collapsed Bridge Section",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21903",
+   "en": "Geth Transmitter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21904",
+   "en": "VII",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21905",
+   "en": "VIII",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21906",
+   "en": "IX",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21907",
+   "en": "To Presidium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21908",
+   "en": "To Citadel Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21909",
+   "en": "To Wards Access",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21910",
+   "en": "To C-Sec Academy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21911",
+   "en": "To Normandy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21912",
+   "en": "To Docking Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21913",
+   "en": "Elevator to Zhu's Hope",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21914",
+   "en": "Refugee Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21915",
+   "en": "Forcefield",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21916",
+   "en": "Shuttle Bay Door Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21917",
+   "en": "To Lower Wards",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21918",
+   "en": "Citadel: Wards Access Corridor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21919",
+   "en": "To Upper Wards",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21920",
+   "en": "To Lower Markets",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21921",
+   "en": "Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21922",
+   "en": "To Upper Markets",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21923",
+   "en": "Lower Markets",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21924",
+   "en": "Medal of Honor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21925",
+   "en": "Medal of Heroism",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21926",
+   "en": "Distinguished Service Medal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21927",
+   "en": "Council Legion of Merit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21928",
+   "en": "Honorarium of Corporate Service",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21929",
+   "en": "Long Service Medal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21930",
+   "en": "Distinguished Combat Medal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21931",
+   "en": "Medal of Valor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21932",
+   "en": "Pistol Expert",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21933",
+   "en": "Shotgun Expert",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21934",
+   "en": "Assault Rifle Expert",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21935",
+   "en": "Sniper Expert",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21936",
+   "en": "Lift Mastery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21937",
+   "en": "Throw Mastery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21938",
+   "en": "Warp Mastery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21939",
+   "en": "Singularity Mastery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21940",
+   "en": "Barrier Mastery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21941",
+   "en": "Stasis Mastery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21942",
+   "en": "Damping Specialist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21943",
+   "en": "AI Hacking Specialist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21944",
+   "en": "Overload Specialist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21945",
+   "en": "Sabotage Specialist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21946",
+   "en": "First Aid Specialist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21947",
+   "en": "Neural Shock Specialist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21948",
+   "en": "Survivalist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21949",
+   "en": "Archivist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21950",
+   "en": "Completionist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21951",
+   "en": "Tactician",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21952",
+   "en": "Medal of Exploration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21953",
+   "en": "Rich",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21954",
+   "en": "Dog of War",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21955",
+   "en": "Geth Hunter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21956",
+   "en": "Soldier Ally",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21957",
+   "en": "Sentinel Ally",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21958",
+   "en": "Krogan Ally",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21959",
+   "en": "Turian Ally",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21960",
+   "en": "Quarian Ally",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21961",
+   "en": "Asari Ally",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21962",
+   "en": "Power Gamer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21963",
+   "en": "Extreme Power Gamer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21964",
+   "en": "Paramour",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21965",
+   "en": "Complete the game on any difficulty\n\nReward: Unlocks Assault Rifle, Shotgun and Sniper Rifle Talents for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21966",
+   "en": "Requirement: Complete Feros",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21967",
+   "en": "Requirement: Complete Eden Prime",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21968",
+   "en": "Requirement: Complete Virmire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21969",
+   "en": "Requirement: Complete Noveria",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21970",
+   "en": "Requirement: Complete Two Playthroughs\nReward: Weapon damage increased by 5%\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21971",
+   "en": "Requirement: Complete Hardcore Playthrough",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21972",
+   "en": "Requirement: Complete Insanity Playthrough",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21973",
+   "en": "Requirement: Log 150 Pistol Kills\nReward: Marksman duration increases by 25%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21974",
+   "en": "Requirement: Log 150 Shotgun Kills\nReward: Unlock Shotguns Talent for all future characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21975",
+   "en": "Requirement: Log 150 Assault Rifle Kills\nReward: Unlock Assault Rifles Talent for all future characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21976",
+   "en": "Requirement: Log 150 Sniper Rifle Kills\nReward: Unlock Sniper Rifles Talent for all future characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21977",
+   "en": "Use biotic Lift 25 times \n\nReward: Unlock Lift talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21978",
+   "en": "Use biotic Throw 25 times\n\nReward: Unlock Throw talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21979",
+   "en": "Use biotic Warp 25 times\n\nReward: Unlock Warp talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21980",
+   "en": "Use biotic Singularity 25 times\n\nReward: Unlock Singularity talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21981",
+   "en": "Use biotic Barrier 25 times\n\nReward: Unlock Barrier talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21982",
+   "en": "Use biotic Stasis 25 times\n\nReward: Unlock Stasis talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21983",
+   "en": "Use Damping Field 25 times\n\nReward: Unlock Damping talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21984",
+   "en": "Use AI Hacking 25 times\n\nReward: Unlock AI Hacking talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21985",
+   "en": "Use Overload 25 times\n\nReward: Unlock Overload talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21986",
+   "en": "Use Sabotage 25 times\n\nReward: Unlock Sabotage talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21987",
+   "en": "Use medi-gel 50 times\n\nReward: Unlock First Aid talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21988",
+   "en": "Use Neural Shock 25 times\n\nReward: Unlock Neural Shock talent for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21989",
+   "en": "Requirement: Find all primary Alien: Council Races, Extinct Races and Non-Council Races codex entries",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21990",
+   "en": "Complete the majority of the game\n\nReward: Experience rewards increase by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21991",
+   "en": "Requirement: Complete Playthrough with Shield Damage Greater than Health Damage\nReward: Shield strength increases by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21992",
+   "en": "Requirement: Land on an Uncharted World",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21993",
+   "en": "Requirement: Exceed 1,000,000 Credits \nReward: Access Spectre Gear through Normandy Requisitions Officer and C-Sec Requisitions Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21994",
+   "en": "Requirement: Log 150 Organic Enemy Kills\nReward: Increase health by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21995",
+   "en": "Requirement: Log 250 Synthetic Enemy Kills\nReward: Increase shield strength by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21996",
+   "en": "Complete 5 missions with the Alliance soldier squad member\n\nReward: Damage Reduction improves by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21997",
+   "en": "Complete 5 missions with the Alliance sentinel squad member\n\nReward: Lift and Throw recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21998",
+   "en": "Complete 5 missions with the krogan squad member\n\nReward: Regenerate 1 health per second",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21999",
+   "en": "Complete 5 missions with the turian squad member\n\nReward: Damping and Overload recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22000",
+   "en": "Complete 5 missions with the quarian squad member\n\nReward: Sabotage and AI Hacking recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22001",
+   "en": "Complete 5 missions with the asari squad member\n\nReward: Stasis and Barrier recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22002",
+   "en": "Requirement: Reach Level 50\nReward: All experience rewards increase by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22003",
+   "en": "Requirement: Reach Level 60\nReward: All experience rewards improve by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22004",
+   "en": "Requirement: Earn 75% of Total Possible Renegade Points",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22005",
+   "en": "Requirement: Earn 75% of Total Possible Paragon Points",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22006",
+   "en": "Requirement: Complete Romance Subplot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22007",
+   "en": "Complete the game on any difficulty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22008",
+   "en": "Complete Feros",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22009",
+   "en": "Complete Eden Prime",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22010",
+   "en": "Complete Virmire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22011",
+   "en": "Complete Noveria",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22012",
+   "en": "Requirement:\nComplete 2 Mass Effect playthroughs on any level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22013",
+   "en": "Requirement:\nComplete 1 Mass Effect playthrough on the Hardcore difficulty setting. Do not change the setting.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22014",
+   "en": "Requirement:\nComplete 1 Mass Effect playthrough on the Insanity difficulty setting. Do not change the setting. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22015",
+   "en": "Requirement:\nKill 150 enemies with your pistol",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22016",
+   "en": "Requirement:\nKill 150 enemies with your shotgun",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22017",
+   "en": "Requirement:\nKill 150 enemies with your assault rifle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22018",
+   "en": "Requirement:\nKill 150 enemies with your sniper rifle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22019",
+   "en": "Use biotic Lift 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22020",
+   "en": "Use biotic Throw 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22021",
+   "en": "Use biotic Warp 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22022",
+   "en": "Use biotic Singularity 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22023",
+   "en": "Use biotic Barrier 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22024",
+   "en": "Use biotic Stasis 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22025",
+   "en": "Use Damping Field 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22026",
+   "en": "Use AI Hacking 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22027",
+   "en": "Use Overload 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22028",
+   "en": "Use Sabotage 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22029",
+   "en": "Use Medi-gel 50 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22030",
+   "en": "Use Neural Shock 25 times",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22031",
+   "en": "Find all primary Alien: Council Races, Extinct Races and Non-Council Races codex entries",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22032",
+   "en": "Complete the majority of the game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22033",
+   "en": "Requirement:\nComplete a full playthrough of Mass Effect having taken more total damage to your shields than to your health",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22034",
+   "en": "Land on an uncharted world",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22035",
+   "en": "Requirement:\nObtain more than 1,000,000 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22036",
+   "en": "Requirement:\nKill 150 organic opponents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22037",
+   "en": "Requirement:\nKill 250 synthetic opponents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22038",
+   "en": "Complete 5 missions with the Alliance soldier squad member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22039",
+   "en": "Complete 5 missions with the Alliance sentinel squad member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22040",
+   "en": "Complete 5 missions with the krogan squad member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22041",
+   "en": "Complete 5 missions with the turian squad member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22042",
+   "en": "Complete 5 missions with the quarian squad member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

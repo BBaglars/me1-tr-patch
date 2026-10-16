@@ -1,0 +1,1272 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/038",
+  "family": "UNC52"
+ },
+ "entries": [
+  {
+   "key": "u15857",
+   "en": "At its current rate of acceleration, the asteroid will collide with Terra Nova in approximately four hours.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15858",
+   "en": "Analysis: Torches must be disabled to cease the acceleration.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15859",
+   "en": "Hello? Hello? I heard your transmission. Can you hear me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15860",
+   "en": "They haven't found me yet, but I can't talk long. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15861",
+   "en": "Please. Shut down the fusion torches or we're all going to die.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15862",
+   "en": "God, I hope you're hearing this.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15863",
+   "en": "Warning: Approaching operational boundary limits. Recall imminent.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15864",
+   "en": "Warning: Boundaries exceeded. Commencing recall.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00_LAY_LOC",
+    "BIOA_UNC52_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u15865",
+   "en": "You're heading in the wrong direction. You've got to get to those torches.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00main_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15866",
+   "en": "Can you hear me? The main facility is locked down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00main_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15867",
+   "en": "Please. You've got to get those torches offline before it's too late.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00main_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15868",
+   "en": "This is Dr. Hymes. They found me. Damn batarians.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00survey_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15869",
+   "en": "I can hear them out there, prowling around. Trying to find a way in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00survey_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15870",
+   "en": "It sounds like they're attaching something to the door. If I don't make it, tell my family I love them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00survey_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15871",
+   "en": "Warning: ground-penetrating radar detects anti-vehicle demolitions nearby. Proceed on foot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15872",
+   "en": "Warning: approaching explosives. Proceed with caution.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15873",
+   "en": "Warning: anti-vehicle demolitions detected. Please proceed on foot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15874",
+   "en": "Warning: pressure-sensitive mines detected. Recommend proceeding on foot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15875",
+   "en": "Warning: anti-vehicle demolitions detected by ground-penetrating radar. Please proceed on foot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15876",
+   "en": "Warning: pressure sensitive demolitions detected. Exit from vehicle and proceed on foot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15877",
+   "en": "Warning: ground-penetrating radar detects pressure-sensitive demolitions. Recommend proceeding on foot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15878",
+   "en": "Are you there? You've got to hurry. You've really pissed them off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15879",
+   "en": "Their leader's setting charges everywhere. I think he's going to blow this whole facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15880",
+   "en": "Get away from there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15881",
+   "en": "Don't shoot. Please.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15882",
+   "en": "You're headed in the right direction.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15883",
+   "en": "I don't know who you are, but I'm-- Damn it! Got to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15884",
+   "en": "Can you hear me? I'm getting all kinds of interference.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15885",
+   "en": "Damn this thing. Sorry, there's a lot of feedback.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15886",
+   "en": "I'll see if I can fix it. In the meantime, just keep doing what you're doing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15887",
+   "en": "Release the varren!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15888",
+   "en": "Take cover.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15889",
+   "en": "Fresh meat.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15890",
+   "en": "Harak. Chekt! Chekt!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15891",
+   "en": "Perimeter breached!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15892",
+   "en": "Arm the drones!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15893",
+   "en": "Send the drones in!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15894",
+   "en": "Humans! Take 'em out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15895",
+   "en": "Balak wants them all dead!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15896",
+   "en": "Alliance military!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15897",
+   "en": "Die, human!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15898",
+   "en": "Filthy human scum!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15899",
+   "en": "Balak's down!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15900",
+   "en": "They got Charn!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15901",
+   "en": "D...d...d...die, human!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15902",
+   "en": "Fall back to base!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15903",
+   "en": "Go! Go! Go!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15904",
+   "en": "Move it!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15905",
+   "en": "Hold the line!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15906",
+   "en": "Death before surrender!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15907",
+   "en": "Attack!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_00torch_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15908",
+   "en": "I'm reading that the torch is offline.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15909",
+   "en": "Was that you? Can you hear me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15910",
+   "en": "My name's Kate Bowman. I'm an engineer. I was part of the team assigned to bring this asteroid to Terra Nova.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15911",
+   "en": "We were attacked yesterday by batarian extremists. I've been hiding since they arrived.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15912",
+   "en": "I think they know the torch went out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15913",
+   "en": "Thanks. I'll contact you when I can.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15914",
+   "en": "I don't know. But if this asteroid isn't slowed, millions of people on Terra Nova are going to die.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15915",
+   "en": "If I find out anything I'll-- I've got to go. Good luck.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15916",
+   "en": "Who are you? What's going on?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15917",
+   "en": "I hear you. What's going on? Who are you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15918",
+   "en": "Stay put. I'll get those other torches offline as soon as I can.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15919",
+   "en": "Why are they doing this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15920",
+   "en": "Who is this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15921",
+   "en": "I should keep moving.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15922",
+   "en": "What do they want?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15923",
+   "en": "They were running checks on our perimeter equipment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15924",
+   "en": "Yeah, you're right. Saving Terra Nova's more important than my team.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15925",
+   "en": "I heard a couple of them talking, they mentioned a \"Balak.\" It sounded like he's the one in charge.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15926",
+   "en": "I did see groups head out to each of the torch stations. Couldn't say how many, though. Enough to give you a fight.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15927",
+   "en": "They didn't seem convinced this was a good idea, but they were scared of the guy. Scared enough to do what he wanted.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15928",
+   "en": "The idea was to drag it into Terra Nova's orbit, mine it out, and in the end you'd have a basic structure for an orbital station.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15929",
+   "en": "It's a lot cheaper than getting everything up in to orbit from the planet's surface. The minerals we extract almost cover the costs.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15930",
+   "en": "Evacu--? Shepard, it took 30 years for the population to grow that large.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15931",
+   "en": "I'm sure they're moving people to remote areas, but they'd never be able to get more than a few thousand off-world.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15932",
+   "en": "We just don't have enough ships. No one does. Well, maybe the quarians. But I don't see them suddenly showing up and offering us a ride.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15933",
+   "en": "She's one of my best engineers. She signed on with her brother. Aaron, I think his name is. He's part of the security detail. I hope they're okay.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15934",
+   "en": "Smart as a whip and bold as they come. I hope she keeps hidden. If they find her...",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15935",
+   "en": "Ah, Katie. Don't do anything stupid.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15936",
+   "en": "I think I'll make myself scarce in case any batarians come back. Good luck, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15937",
+   "en": "Listen --  we don't have much time. The batarians fired up the fusion torches. You've got to shut them down before we hit Terra Nova!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15938",
+   "en": "There are four million people down there, Shepard. I-- my family. They live in Aronas. My kids and grandkids. Nice community. Good schools...",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15939",
+   "en": "We set them up when we arrived at Terra Nova. We use them for excavating. When the batarians landed, I rigged them with proximity detectors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15940",
+   "en": "Caught a few of those sons-of-bitches by surprise.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15941",
+   "en": "Thanks. I wish I could have done more.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15942",
+   "en": "Sorry about that. I wasn't expecting reinforcements. I just rigged them up, then ran off to hide.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15943",
+   "en": "One of the torches is surrounded by live blasting caps. We were set up to excavate when we arrived at Terra Nova. I rigged them with proximity detectors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15944",
+   "en": "That tank of yours will set them off, so you'll have to go in on foot. Even then, they'll explode if you get too close. Just go slow and easy and you should be fine.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15945",
+   "en": "Look, you can disable them. Just not remotely. I didn't have the equipment to set it up differently.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15946",
+   "en": "Not from here, no.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15947",
+   "en": "There are manual controls by the entrance to the torch facility, inside the blast zone. You can disarm the caps there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15948",
+   "en": "One last thing: I had a crew working off-site when the attack hit. I'm worried about them. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15949",
+   "en": "But if you see them while-- No. You're right. Focus on the torches. Sorry.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15950",
+   "en": "Time's running short.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15951",
+   "en": "Four-and-a-half million people are going to die in a few hours. Don't make me trot out some tired platitude about the needs of many versus few.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15952",
+   "en": "I'll look for them. But the torches have to be my priority.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15953",
+   "en": "If I run into your people, I'll do what I can, but the torches have to come first.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15954",
+   "en": "Any idea who's behind this? Who's leading them? That might provide a clue.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15955",
+   "en": "Why were you moving this thing in the first place?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15956",
+   "en": "Give me a worst case scenario. We can't stop the asteroid. Could the colony be evacuated?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15957",
+   "en": "What can you tell me about Kate?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15958",
+   "en": "Time's running short. I better get moving.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15959",
+   "en": "I'm impressed. That was a clever bit of improvisation.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15960",
+   "en": "The last thing I needed to deal with was a bunch of explosives. The batarians are bad enough.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15961",
+   "en": "Should I requisition a cow to walk through ahead of me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15962",
+   "en": "You set them up. Can you disable them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15963",
+   "en": "Can you shut them off?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15964",
+   "en": "I better get moving.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15965",
+   "en": "They're not a priority.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15966",
+   "en": "I'll do what I can.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15967",
+   "en": "If there's time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15968",
+   "en": "Batarian leader",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15970",
+   "en": "Evacuate Terra Nova",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15971",
+   "en": "That's all I need to know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15973",
+   "en": "Good thinking.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15974",
+   "en": "Made things tougher for me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15975",
+   "en": "Simon. Simon Atwell. I'm the chief engineer on this rock.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15976",
+   "en": "X57 is 22 kilometers long. Twice the size of the asteroid that wiped out the Earth's dinosaurs. It would be like millions of fusion bombs striking at once. Millions.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15977",
+   "en": "The heat of the blast... a thousand kilometers away, clothes will ignite. There'll be global wildfires. Air shock will flatten everything for hundreds of kilometers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15978",
+   "en": "Terra Nova will die, Shepard. Not just our colony -- the planet. There'll be a climate shift. Mass extinctions. The ecosystem won't recover for thousands of years. Millions, maybe.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15979",
+   "en": "That would be even worse! Tsunamis would sweep inland at hundreds of kilometers per hour.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15980",
+   "en": "Millions of tons of water would be vaporized at the point of impact. Global cloud coverage. The plants could all die. And if they go, the whole ecosystem rolls over.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15981",
+   "en": "I-- I'd have to run the numbers, but take my word for it: it'd be bad.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15982",
+   "en": "I've heard all the stories. Slave rings ranching people like animals. Pirate bands burning colonies to the ground.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15983",
+   "en": "But this is.... The Citadel Conventions forbid asteroid drops. I never thought the batarians would go this far.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15984",
+   "en": "I know you're scared. But I'm here to help. Commander Shepard, with the Alliance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15985",
+   "en": "I'm here to help. Commander Shepard, of the Alliance frigate Normandy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15986",
+   "en": "I don't have time to do the math in my head. What happens if we don't stop this rock?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15987",
+   "en": "Is there any chance it'll land in the oceans?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15988",
+   "en": "The people back on Earth haven't been paying attention. Again. The batarians burned my home to the ground twenty years ago. They don't change.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15989",
+   "en": "I guess batarians are as bad as they say.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15990",
+   "en": "This doesn't make any sense. Batarians run criminal gangs. Unethical, but profitable. They don't destroy worlds. What does this gain them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15991",
+   "en": "Just be more careful.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15992",
+   "en": "I'm on your side.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15993",
+   "en": "How bad is this going to be?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15994",
+   "en": "What if it lands in the water?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15995",
+   "en": "Typical batarian move.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15996",
+   "en": "Alien bastards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15997",
+   "en": "Why would they do this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15998",
+   "en": "Yeah, I guess you're right. Is there anything else I can tell you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15999",
+   "en": "These batarians are ruthless. I saw them smash the faceplates of guys working vacuum. And those varren... I don't think they always wait for a corpse before feeding.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16000",
+   "en": "Easiest thing would be to tap into the transmission tower out on the surface. The equipment stations will show up on your sensors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16001",
+   "en": "Oh. I-- I see. Well, then. I guess it's better than not knowing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC",
+    "BIOA_UNC52_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16002",
+   "en": "I-- I see. Well. Maybe the last is still out there. We can hope, right?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16003",
+   "en": "I-- I see. Well. Maybe the other two are still out there. You never know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16004",
+   "en": "There were a bunch of engineers over at the main facility, but they're probably all dead. That, or being held hostage by the batarians.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16005",
+   "en": "Katie's alive?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16006",
+   "en": "Yeah, I know. It's just-- this isn't how I expected the world to be when I rolled out of bed this morning.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16007",
+   "en": "They landed at the main facility. It's locked down now; they changed the pass codes. No idea what's going on inside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16008",
+   "en": "The batarians aren't stupid. If they made a policy of this, the Council would declare war on them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  }
+ ]
+}

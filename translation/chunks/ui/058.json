@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/058",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u26395",
+   "en": "${ProductName}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26396",
+   "en": "Save ${ProductName} settings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26397",
+   "en": "Undo any changes to ${ProductName} settings since they were last saved",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26398",
+   "en": "Reset ${ProductName} to their defaults.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26399",
+   "en": "Visit the ${ProductName} website",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26400",
+   "en": "${HelpMassEffectSupportMenuItem}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26401",
+   "en": "Ultra High",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26402",
+   "en": "Welcome",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26403",
+   "en": "Welcome to the ${ProductName} configuration utility.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26404",
+   "en": "Details:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26405",
+   "en": "Video",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26406",
+   "en": "This page contains the ${ProductName} video settings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26407",
+   "en": "&Aspect Ratio",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26408",
+   "en": "Normal (4:3)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26409",
+   "en": "Widescreen (16:9)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26410",
+   "en": "Widescreen (16:10)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26411",
+   "en": "Film &Grain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26412",
+   "en": "&Filtering Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26413",
+   "en": "&Motion Blur",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26414",
+   "en": "&Particle Effects",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26415",
+   "en": "&Resolution",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26416",
+   "en": "Dynamic &Shadows",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26417",
+   "en": "&Texture Detail",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26418",
+   "en": "&VSync",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26419",
+   "en": "&Windowed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26420",
+   "en": "Game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26421",
+   "en": "This page contains the ${ProductName} game settings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26422",
+   "en": "Version Information",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26423",
+   "en": "This page displays the ${ProductName} repair options.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26424",
+   "en": "Create &Start Menu Shortcuts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26425",
+   "en": "Create &Desktop Shortcut",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26426",
+   "en": "Create &Quick Launch Shortcut",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26427",
+   "en": "Add &Firewall Exception",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26428",
+   "en": "Firewall Exception added successfully.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26429",
+   "en": "Firewall is not enabled. Firewall exception was not added.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26430",
+   "en": "File not found. Firewall exception was not added.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26431",
+   "en": "Unknown error %1%. Firewall exception was not added.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26432",
+   "en": "Save Settings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26433",
+   "en": "Reset to Defaults",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26434",
+   "en": "Visit the &${ProductName} website",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26435",
+   "en": "Tech Support",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26436",
+   "en": "Save changes to ${ProductName} settings?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26437",
+   "en": "MassEffectConfigReport",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26438",
+   "en": "The drivers for your monitor have not been installed.  Your monitor may not support all of the video options presented to you. You can permanently damage your monitor by selecting a video option that your monitor does not support. You must install a proper monitor driver to correct this problem. Please see your hardware vendor's website for further information on obtaining the required monitor drivers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26439",
+   "en": "${ProductName} will not run properly because the driver for your display adapter is too old. You must update your driver to correct this problem. Please see your hardware vendor's website for further information on obtaining the required drivers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26440",
+   "en": "There is a newer driver available for your display adapter. ${ProductName} may perform better if you update your driver to the newest version. Please see your hardware vendor's website for further information on obtaining the required drivers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26441",
+   "en": "The driver for your audio device is known to cause some software to crash. You must update your driver to correct this problem. A newer driver that resolve this issue have been provided on Disk 1 in the folder \"Software\\CreativeX-Fi\", or you can obtain the latest driver from your hardware vendor's website.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26442",
+   "en": "The desktop color quality is set to \"Medium (16 bit)\". Some video drivers might cause ${ProductName} to perform poorly when the desktop color quality is set this way.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26443",
+   "en": "You do not have the correct version of DirectX installed to play this game. Please download the latest DirectX from here: http://www.microsoft.com/windows/directx/default.mspx",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26444",
+   "en": "docs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26445",
+   "en": "${ProductName}.lnk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26446",
+   "en": "${CSIDL_COMMON_PROGRAMS}\\${ProductName}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26447",
+   "en": "${MEStartMenuFolder}\\${MEShortcutName}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26448",
+   "en": "${MEStartMenuFolder}\\Uninstall ${ProductName}.lnk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26449",
+   "en": "${MEStartMenuFolder}\\View Readme.txt.lnk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26450",
+   "en": "${MEStartMenuFolder}\\${DeveloperName} Website.lnk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26451",
+   "en": "${MEStartMenuFolder}\\${ProductName} Website.lnk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26452",
+   "en": "${CSIDL_COMMON_DESKTOPDIRECTORY}\\${MEShortcutName}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26453",
+   "en": "${CSIDL_APPDATA}\\Microsoft\\Internet Explorer\\Quick Launch\\${MEShortcutName}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26454",
+   "en": "MassEffectLauncher.exe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26455",
+   "en": "%windir%\\Uninstall Mass Effect.exe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26456",
+   "en": "${MEDocsFolder}\\readme_${SELECTED_LANGUAGE}.txt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26457",
+   "en": "${MEDocsFolder}\\${DeveloperName} Website.url",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26458",
+   "en": "${MEDocsFolder}\\${ProductName} Website.url",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26459",
+   "en": "http://www.bioware.com/",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26460",
+   "en": "http://masseffect.bioware.com/",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26461",
+   "en": "http://support.bioware.com/",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26462",
+   "en": "The installation of ${PRODUCT_NAME} has been cancelled. To run the installer again, please run Setup.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26463",
+   "en": "Available Space: %1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26464",
+   "en": "%1 is not a folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26465",
+   "en": "Required Space: %1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26466",
+   "en": "%1 GB",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26467",
+   "en": "%1 MB",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26468",
+   "en": "%1 KB",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26469",
+   "en": "%1 TB",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26470",
+   "en": "%.1f",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26471",
+   "en": "Select a download folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26472",
+   "en": "Allow temporary files to be deleted when free space is needed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26473",
+   "en": "${dirSelect::Strings::indeterminateSpaceValue}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26474",
+   "en": "Do not automatically create a product folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26475",
+   "en": "Show all drives.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26476",
+   "en": "Use an alternate download folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26477",
+   "en": "%1, %2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26478",
+   "en": "${dirSelect::Format::availableSpace}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26479",
+   "en": "${dirSelect::Format::installPathNotFolder}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26480",
+   "en": "${dirSelect::Format::requiredSpace}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26481",
+   "en": "${dirSelect::Format::spaceGB}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26482",
+   "en": "${dirSelect::Format::spaceValue}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26483",
+   "en": "Advanced",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26484",
+   "en": "Disk Space Warning",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26485",
+   "en": "Warning: The available space on the disk selected for downloaded files could not be determined.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26486",
+   "en": "Warning: The available space on the disk selected for product installation could not be determined.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26487",
+   "en": "The install folder specified is not empty.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26488",
+   "en": "The current permissions are insufficient to write to the selected install folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26489",
+   "en": "There is not enough available space on the disk selected for downloaded files.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26490",
+   "en": "There is not enough available space on the disk selected for product installation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26491",
+   "en": "The install folder specified is not valid.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26492",
+   "en": "The selected install folder path is too long.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26493",
+   "en": "The install folder specified is in or is a folder reserved for special files.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26494",
+   "en": "Select the folder where you want ${ProductName} to be installed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26495",
+   "en": "${dirSelect::Format::spaceKB}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26496",
+   "en": "${dirSelect::Format::spaceMB}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26497",
+   "en": "${dirSelect::Format::spaceTB}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26498",
+   "en": "%I64u",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26499",
+   "en": "Extract: %2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26500",
+   "en": "Extracting %1 (%3 - %2)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26501",
+   "en": "%3.1f%%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26502",
+   "en": "Use a biotic power on the lamp.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26503",
+   "en": "Reset hex bridge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26504",
+   "en": "Activate hex bridge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26505",
+   "en": "Activate drrone shield",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26506",
+   "en": "Settings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26507",
+   "en": "Hardware Audio",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26508",
+   "en": "Toggles audio hardware acceleration. Mass Effect must be restarted for this change to take effect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26509",
+   "en": "Adjust graphics settings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26510",
+   "en": "Gameplay settings allow you to customize your game experience. Gameplay mechanics such as difficulty and dialog mode can be found here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26511",
+   "en": "Adjust tutorial settings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26512",
+   "en": "Quick Save Complete",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26513",
+   "en": "Unlock Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26514",
+   "en": "CONVERSATION: Liara talks to the player and unlocks the door to the dig stie.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26515",
+   "en": "CUTSCENE: The Armature walks out blocking the exit. The catwalk the player entered on is blocked off as well.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26516",
+   "en": "CUTSCENE: Liara runs into the tower, pursued by mercs. One is about to fire at her, but another stops him and warns they have to take Liara alive. Liara escapes into the tower and activates the shields/defenses, trapping herself inside. The mercs then notice the player.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26517",
+   "en": "CONVERSATION: Liara calls out to the player from the tower.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26518",
+   "en": "CONVERSATION: Liara talks to the player and then unlocks the tower.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26519",
+   "en": "Joker: \"Okay, commander. The base camp is about half a klick down the canyon. And stick to the shade, or you'll get yourself cooked pretty fast down there.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26520",
+   "en": "Mercenary Leader: \"Heads up, they're trying to flank!\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26521",
+   "en": "[AMBIENT CUTSCENE]: A geth dropship buzzes overhead, firing rockets which miss Shepard. It then drops geth into cover in front of Shepard, and continues to drop more squads to replace losses.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26522",
+   "en": "[AMBIENT CUTSCENE]: A geth dropship buzzes the gatehouse and ocntinues further down the canyon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26523",
+   "en": "It worked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26524",
+   "en": "CUTSCENE: Liara and the player jump from the tower as the purge activates.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26525",
+   "en": "This door console appears to be unpowered. You will have to restore power before the door can be opened.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26526",
+   "en": "Over a radio in the shed, Shepard overhears a conversation between SCIENTIST and the rest of the expedition where SCIENTITST refuses to evacuate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26527",
+   "en": "MassEffect.exe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26528",
+   "en": "MassEffectConfig.exe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26529",
+   "en": "Uninstall Mass Effect.exe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26530",
+   "en": "${USERDATA_DIR}\\Config\\InitialSettings.ini",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26531",
+   "en": "This page contains the ${ProductName} audio settings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26532",
+   "en": "&Audio",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26533",
+   "en": "Instructions and tips on how to play Mass Effect for the PC.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26534",
+   "en": "Player Tutorials",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26535",
+   "en": "This is a codex!\nPlease do what you're told!\nThis is a bucket\nOf water, ice-cold!\n\nPlease take this bucket\nAnd pour it on me.\nDon't hesitate,\nDo it A.S.A.P!\n\nHere's a string token. It should display the button currently mapped to fire your active weapon: %FIRE\n\nDid it work? Let's try the one for opening the orders wheel: %ORDERSWHEEL",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26536",
+   "en": "Test Codex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26537",
+   "en": "Press %PAUSEMENU to access the Codex, your galactic encyclopedia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26538",
+   "en": "TUTORIAL: Overheat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26539",
+   "en": "Change Zoom Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26540",
+   "en": "Tactics HUD (HOLD)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26541",
+   "en": "Tutorial: Overheat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26542",
+   "en": "Fire in short bursts to avoid weapon overheat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26543",
+   "en": "Approach a squad member and press %INTERACT to hear brief comments on the current situation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26544",
+   "en": "To talk to an ally, approach and press %INTERACT.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

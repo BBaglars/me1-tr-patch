@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/068",
+  "family": "UNC52"
+ },
+ "entries": [
+  {
+   "key": "u15969",
+   "en": "Asteroid X57",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u15972",
+   "en": "Kate Bowman",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_01_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u16230",
+   "en": "Batarians",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC52_05_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u17055",
+   "en": "The Matriarch",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03a_DSG_LOC",
+    "BIOA_WAR30_02A_DSG_LOC",
+    "BIOA_WAR30_02I_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17451",
+   "en": "Zhu's Hope",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03a_DSG_LOC",
+    "BIOA_WAR40_06_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u17539",
+   "en": "Thorian",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03a_DSG_LOC",
+    "BIOA_WAR40_06_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18084",
+   "en": "Name",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC",
+    "Startup"
+   ]
+  }
+ ]
+}

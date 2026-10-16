@@ -1,0 +1,1333 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/017",
+  "family": "NOR10"
+ },
+ "entries": [
+  {
+   "key": "u05824",
+   "en": "This mission isn't about personal glory, Corporal! We have a job to do. Don't do anything stupid to mess it up!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05825",
+   "en": "You're from Eden Prime, aren't you Jenkins? What's it like?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05826",
+   "en": "Any idea why Eden Prime was chosen as our destination?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05827",
+   "en": "Relax, Jenkins.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05828",
+   "en": "The doctor's right.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05829",
+   "en": "You'll do fine.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05830",
+   "en": "It's just another mission.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05831",
+   "en": "There's no rush.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05832",
+   "en": "Be careful.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05833",
+   "en": "Don't play the hero!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05835",
+   "en": "Why are we going there?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05836",
+   "en": "Spectres sound dangerous.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05837",
+   "en": "Sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05838",
+   "en": "Ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05839",
+   "en": "Congratulations, Commander. Looks like we had a smooth run. You heading down to see the captain?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05840",
+   "en": "Sorry, Commander. Just having a chat with Adams down in engineering. Didn't mean to cause any trouble.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05841",
+   "en": "With all due respect, sir, maybe he'll finally tell you what we're really doing out here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05842",
+   "en": "If all we're supposed to do is test out the stealth system, why is Captain Anderson in charge? And then there's Nihlus.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05843",
+   "en": "Good luck, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_PRO10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05844",
+   "en": "Something I can do for you, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_12_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05845",
+   "en": "You and me both. Like I said before, too many things don't add up on this mission. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05846",
+   "en": "I don't like turians in general. Runs in my family. My grandfather fought in the First Contact War; lost a lot of friends when the turians hit us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05847",
+   "en": "No, I guess not. But it still makes me nervous to have a Spectre on board, especially a turian.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05848",
+   "en": "Understood, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05849",
+   "en": "Sounds like you don't trust our turian guest.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05850",
+   "en": "I'm on my way to give him a status update right now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05851",
+   "en": "You think the Alliance brass is holding out on us?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05852",
+   "en": "I'll see if I can get some answers when I see him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05853",
+   "en": "I was curious about a few things.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05854",
+   "en": "You don't trust Nihlus.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05855",
+   "en": "That was thirty years ago. You can't blame Nihlus for that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05856",
+   "en": "Do you have a problem with the captain?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05857",
+   "en": "What do you know about the stealth systems?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05858",
+   "en": "Info's on a need-to-know basis, Pressly. Just follow the orders you're given.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05859",
+   "en": "I better head down and see the captain.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05860",
+   "en": "Carry on, Pressly.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05861",
+   "en": "I heard you arguing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05862",
+   "en": "He wants to see me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05863",
+   "en": "I'll look into it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05864",
+   "en": "I have questions.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_PRO10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05865",
+   "en": "Turian Spectre",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05867",
+   "en": "Stealth systems",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05868",
+   "en": "Just do your job.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05869",
+   "en": "That was long ago.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05870",
+   "en": "We're an Alliance vessel, human military. But Nihlus doesn't answer to the captain like the rest of us. Spectres operate outside the normal chain of command.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05871",
+   "en": "And they don't come along just to observe shakedown runs. Nihlus looks like he's expecting some heavy action. I don't like it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05872",
+   "en": "I just know it masks our location from scans and sensors. Cutting edge technology.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05873",
+   "en": "The Normandy's the only ship with this prototype drive. But why are we fully staffed? A skeleton crew would be cheaper. Less chance of security leaks, too.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05874",
+   "en": "Plus, there's Nihlus. It's pretty obvious this shakedown run is just a cover.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05875",
+   "en": "Damned if I know, Commander. We're out here on false pretenses. I'm not a fan of being left in the dark.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05876",
+   "en": "Maybe you're right, Commander. But I just can't shake the feeling that we're out here on false pretenses.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05877",
+   "en": "Captain Anderson is one of the most decorated Special Forces officers in the service. If he melted down all his medals, he could make a life-size statue of himself.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05878",
+   "en": "You don't send a soldier like that on a do-nothing mission. He's treating this shakedown run too seriously. Something big is going on.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05879",
+   "en": "I signed up with the Alliance as a navigator right out of school. Following in my grandfather's footsteps, I guess. My first posting was on the Agincourt.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05880",
+   "en": "We were one of the first reinforcements to arrive at Elysium after the Blitz hit. Those raiders were no match for an Alliance frigate.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05881",
+   "en": "We were at Elysium during the Skyllian Blitz. A massive fleet of alien raiders hit the colony, trying to wipe it out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05882",
+   "en": "For what?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05883",
+   "en": "A full crew makes sense. We need the extra hands in case anything goes wrong. And the Spectre is just here as an observer.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05884",
+   "en": "How'd you end up on the Normandy?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05885",
+   "en": "A cover?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05886",
+   "en": "You're wrong.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05887",
+   "en": "Now you're here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05888",
+   "en": "Commander. The turian's waiting for you and the captain in the comm room.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05889",
+   "en": "But you have to admit, something's odd about this mission. The whole crew feels it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05890",
+   "en": "No, ma'am! But I can't figure out what he's doing here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05891",
+   "en": "No, sir! But I can't figure out what he's doing here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05892",
+   "en": "I overheard you before. Sounds like you don't trust our turian guest.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05893",
+   "en": "You were arguing earlier.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05894",
+   "en": "I'm glad you're okay, Commander. Losing Jenkins was hard enough on the crew.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05895",
+   "en": "With all due respect, ma'am, maybe he'll finally tell you what we're really doing out here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05896",
+   "en": "Spectres are elite operatives. Top covert agents. Why send a Spectre--a turian Spectre--on a shakedown run? It doesn't add up.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05897",
+   "en": "You've got that right, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05898",
+   "en": "Nihlus is no ordinary turian.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05899",
+   "en": "Plus, he's a Spectre.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05900",
+   "en": "If anyone has to take over for Captain Anderson, I'm glad it's you. Not sure about having non-humans on our ship, though.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05901",
+   "en": "With all due respect, ma'am, that's what they said about Nihlus. Look how that turned out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05902",
+   "en": "With all due respect, sir, that's what they said about Nihlus. Look how that turned out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05903",
+   "en": "Yes, ma'am. Understood, ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05904",
+   "en": "Yes, sir! Understood, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05905",
+   "en": "Yes, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_STA20_10A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05906",
+   "en": "I trust you, Commander. If you think they belong here, then so do I.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05907",
+   "en": "It's not that, Commander. Humanity has always handled its own problems. Saren attacked one of our colonies. We should be the ones to stop him. We don't need their help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05908",
+   "en": "I guess so. Maybe I'm just stuck in the old ways of thinking. Don't worry, Commander. This won't be a problem.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05909",
+   "en": "Of course, the only reason the colony was still standing was because of you, Commander. I can't believe you held out as long as you did.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05910",
+   "en": "They had the numbers, but their ships were no match for an Alliance frigate. It was a slaughter. We couldn't even keep track of how many ships they lost.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05911",
+   "en": "I got my officer's commission after Elysium. Must have made an impression on the right people. Captain asked for me when he was picking his crew.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05912",
+   "en": "We're all on the same team here, Pressly.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05913",
+   "en": "I'm in charge here, Pressly. I decide if we have non-humans on this vessel.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05914",
+   "en": "Speak freely, Pressly. I want to know if you have a problem with non-humans.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05915",
+   "en": "Some people think asking for help is a sign of weakness. That's just being stupid and stubborn. No matter how strong you are, allies can make you stronger.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05916",
+   "en": "This is bigger than humanity. Saren's a threat to every species in the galaxy. And I'll welcome anyone who wants to help me bring him down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05917",
+   "en": "How did you end up assigned to the Normandy?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05918",
+   "en": "They're on our side.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05919",
+   "en": "You doubt my decisions?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05920",
+   "en": "Aliens on the ship",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05921",
+   "en": "Never turn away help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05922",
+   "en": "It's not just our problem.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05923",
+   "en": "I can't believe we stole the Normandy!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05924",
+   "en": "I know we'll all be court-martialed if this doesn't work out. But part of me loves this!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05925",
+   "en": "Congratulations, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_STA70_02council_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05926",
+   "en": "I forwarded the mission update to the Citadel, Commander. We've got confirmation on those reinforcements.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05927",
+   "en": "Ambassador Udina wants us to report back to the Citadel. The Council is massing a joint-species fleet to deal with Saren and his geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05928",
+   "en": "Took them long enough. Back to the Citadel, Joker. I want the Normandy at the head of that fleet!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05929",
+   "en": "Back to the Citadel, Joker. I want the Normandy at the head of that fleet!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05930",
+   "en": "About time!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05931",
+   "en": "I knew they'd come around. Back to the Citadel, Joker. I want the Normandy at the head of that fleet!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05932",
+   "en": "Commander. Ms. Al-Jilani's story on you just aired.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05933",
+   "en": "I don't blame you for blowing her off. She should have made a request through channels.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05934",
+   "en": "I'm on your side, Commander. Remember that. This comes from the Joint Military Command.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05935",
+   "en": "About what you'd expect. Don't worry too much about it, Commander. They're always angry with us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05936",
+   "en": "Just wanted to let you know what the response was back home.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05937",
+   "en": "I won't keep you any longer. Fifth Fleet out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05938",
+   "en": "I have PR people doing spin control. A little memetic engineering, people will forget about this in a week.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05939",
+   "en": "I don't blame you for walking out on her.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05940",
+   "en": "The brass isn't happy with the way you treated her. This comes straight from the Joint Military Command.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05941",
+   "en": "You're probably right. I guess it could have gone a lot worse.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05942",
+   "en": "There were better ways to handle it than knocking her on her ass.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05943",
+   "en": "As satisfying as that was to see.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05944",
+   "en": "Agreed. Most people would be tempted to punch her. But you did the right thing -- you walked away.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05945",
+   "en": "Commander, if she'd done that at a bar, she'd go home in an ambulance. But they want me to make this clear. We can't mistreat the press.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05946",
+   "en": "She shouldn't have ambushed you like that. But you handled her pretty well.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05947",
+   "en": "I don't agree with everything you said. But at least you got her on your side. I just hope it doesn't damage relations with the Council.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05948",
+   "en": "Convenient for you, but our allies may not think the same.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05949",
+   "en": "When you wear that uniform, you represent the Systems Alliance Military. As a Spectre, you represent humanity.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05950",
+   "en": "That would have been true a few weeks ago. Now you're above most humans in their regard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05951",
+   "en": "She shouldn't have ambushed you like that. But you handled it the right way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05952",
+   "en": "You shouldn't have to.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05953",
+   "en": "But you were smart enough not to say that. You've got a knack for handling the press.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05954",
+   "en": "She was. But we can't say that. There's an art to dealing with the media.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05955",
+   "en": "You handled yourself pretty well, Commander. She came across like a raving idiot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05956",
+   "en": "This won't happen again, Commander. We have a press corps so personnel don't have to deal with her kind of B.S.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05957",
+   "en": "You don't come off very well. She talked rings around you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05958",
+   "en": "There is one other matter, however.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05959",
+   "en": "The Citadel has been trying to play down Saren going rogue. It makes the Spectres look bad.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05960",
+   "en": "Your mention of him was politically inconvenient.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05961",
+   "en": "I wasn't aware of that. I won't discuss him again, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05962",
+   "en": "I'm sure Saren \"inconvenienced\" the people he killed on Eden Prime, too.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05963",
+   "en": "How angry was the Council?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05964",
+   "en": "Sir, she was going to make me look bad no matter what I said.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05965",
+   "en": "I don't have the patience to deal with tabloid gadflies who think they're great journalists.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05966",
+   "en": "She wasn't going to let the facts get in the way of the story she wanted to write.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05967",
+   "en": "We had differences of opinion, sir. I hope she at least believed my sincerity.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05968",
+   "en": "I just told her what she wanted to hear, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05969",
+   "en": "The Council can kiss my ass. I'm entitled to my opinions.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05970",
+   "en": "I'm not important enough for them to get hysterical over.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05971",
+   "en": "I've never had to deal with the press before.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05972",
+   "en": "To be honest, I thought she was full of crap.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05973",
+   "en": "She wasn't the most sympathetic audience.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05974",
+   "en": "I was talking to a wall.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05975",
+   "en": "She was distorting my words.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  }
+ ]
+}

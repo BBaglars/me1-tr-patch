@@ -1,0 +1,552 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/035",
+  "family": "LOS50"
+ },
+ "entries": [
+  {
+   "key": "u05507",
+   "en": "Hang on. Things are going to get a little rough!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS50_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05508",
+   "en": "There! The Conduit! It is incredible!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS50_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05509",
+   "en": "There! The Conduit! It's incredible!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS50_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05510",
+   "en": "We don't have time to admire the view. We have to get through that relay... and these geth aren't going to make it easy on us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS50_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15681",
+   "en": "Three more of these outposts left to clear out? This should be fun!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15682",
+   "en": "This is odd. I would have expected one of these outposts to be a main base of operations for the geth incursion into this region.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15683",
+   "en": "Weird. I expected one of these outposts to be the main base of operations for this incursion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15684",
+   "en": "Hold on. This receiver's picking up some kind of transmission. Based on the signal strength, I'd say it's coming from inside this star cluster.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15685",
+   "en": "One moment. This receiver appears to be picking up some kind of transmission. Based on the signal strength, I would say it is coming from inside this star cluster.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15686",
+   "en": "Hold up. This receiver's picking up some kind of transmission. Based on the signal strength, I'd say it's coming from inside this star cluster.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15687",
+   "en": "It's gotta be the main base. We can use the signal to lock onto its location and go take it out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15688",
+   "en": "It must be a message from the primary geth base. We can use the signal to lock onto its location and take them out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15689",
+   "en": "The main geth base. Use the signal to lock onto its location and go take it out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15690",
+   "en": "It must be a message from the primary geth base. We can use the signal to lock onto its location and go eliminate them!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15691",
+   "en": "Three more outposts to go. The first step in a long journey.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15692",
+   "en": "One down, three to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15693",
+   "en": "Three more outposts to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15694",
+   "en": "That's number two. Let's hit the next base!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15695",
+   "en": "We're halfway to driving these synthetic bastards out of this system.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15696",
+   "en": "Two outposts done. We're halfway there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15697",
+   "en": "Two outposts done. We are halfway there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15698",
+   "en": "Just one outpost left. I'm going to miss slaughtering geth like this.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15699",
+   "en": "One more outpost left. The sooner we get rid of it, the sooner this cluster's secure.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15700",
+   "en": "Just one more outpost left.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15701",
+   "en": "I'm surprised. I figured one of these outposts would be the main base of operations for this incursion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15702",
+   "en": "Strange. I expected one of these outposts to be the main base of operations for this incursion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15703",
+   "en": "Hmph. I thought one of these outposts would be a major base of operations.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15704",
+   "en": "Strange. I thought one of these outposts would be the main base of operations for this incursion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC17_01_DSG_LOC",
+    "BIOA_UNC21_01_DSG_LOC",
+    "BIOA_UNC83_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15705",
+   "en": "Looks like nobody's home.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15706",
+   "en": "Where is everybody?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC81_01_DSG_LOC",
+    "BIOA_UNC81_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15707",
+   "en": "This place looks abandoned.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15708",
+   "en": "Nobody's been here for a while.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15709",
+   "en": "It's deserted.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15710",
+   "en": "According to these data logs, the survey team unearthed some kind of alien technology.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15711",
+   "en": "Could be answers at the excavation site.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15712",
+   "en": "Guess we should head to the excavation site then.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15713",
+   "en": "Perhaps we will find more answers at the excavation site.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15714",
+   "en": "We should check out the excavation site. Could be some answers there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15715",
+   "en": "I've heard of this. Machine cultists. The survey team must have unearthed some alien technology that turned them into mindless fanatics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15716",
+   "en": "I've seen this before. Machine cultists. The survey team must have unearthed some alien technology that turned them into mindless fanatics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15717",
+   "en": "I have heard of this before. Whatever alien technology the survey team unearthed must have turned them into mindless fanatics. Machine cultists.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15718",
+   "en": "I've heard of this. Machine cultists. They unearth some kind of alien technology, and it turns them into mindless fanatics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15719",
+   "en": "Whatever they found, it's long gone now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15720",
+   "en": "Whatever they found, it is long gone now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC20_01_DSG_LOC",
+    "BIOA_UNC20_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15721",
+   "en": "According to this, they received a supply ship just two days ago. The rachni must have attacked since then.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15722",
+   "en": "Commander, you see this? They just received a supply run two days ago. The rachni worked fast.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15723",
+   "en": "Shepard. Their logs say they received a supply run two days ago. The rachni worked fast.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15724",
+   "en": "One moment. These things are drones, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15725",
+   "en": "Hang on. Seems these things are drones, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15726",
+   "en": "I'll need a moment. This base is supplied by drone freighters, dispatched at irregular intervals from different depots to reduce the likelihood of tracking.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15727",
+   "en": "Checking. This base is supplied by drone freighters, dispatched at irregular intervals from different depots. To reduce the likelihood of tracking.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15728",
+   "en": "I have it. This one came from Argos Rho.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15729",
+   "en": "Got it. It came from Argos Rho.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15730",
+   "en": "Whoever programmed that freighter didn't take any pains to scrub or alter their data.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15731",
+   "en": "Whoever programmed that freighter did not take any pains to scrub or alter their data.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15732",
+   "en": "Right.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC",
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15733",
+   "en": "Very well, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15734",
+   "en": "Where'd that supply ship come from?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15735",
+   "en": "Two worlds with sudden rachni infestations? This isn't a coincidence. Tell me about that supply ship.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u15736",
+   "en": "Tell me about that supply ship. This planet is supposed to be uninhabited. The rachni didn't come from nowhere.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  }
+ ]
+}

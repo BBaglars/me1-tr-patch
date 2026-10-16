@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/061",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u26790",
+   "en": "You killed three enemies with one gernade.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26791",
+   "en": "You completed Time Attack using only melee.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26792",
+   "en": "Capturing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26793",
+   "en": "Pinnacle Station: Simulator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26794",
+   "en": "Earn the Old Man's Respect",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26795",
+   "en": "Requirement:\nComplete the conversation with Ahern after winning his challenge in all Paragon mode.   ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26796",
+   "en": "You earned the Old Man's respect as a Paragon.   ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26797",
+   "en": "Requirement:\nComplete the conversation with Ahern after winning his challenge in all Renegade mode.   ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26798",
+   "en": "You earned the Old Man's respect as a Renegade.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26799",
+   "en": "UPDATE: Pinnacle Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26800",
+   "en": "Pinnacle Station is a turian space station that has been retrofitted as a military training facility by the Council. Invitees participate in a series of simulated combat encounters and compete against other participants.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26801",
+   "en": "Technology: Pinnacle Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26802",
+   "en": "Pinnacle Station has a combat simulator in which you can engage in various combat missions and compare your scores against other combatants.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26803",
+   "en": "Pinnacle Station: Combat Missions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26804",
+   "en": "Ochren has eight missions available for you. Get the top score in all of them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26805",
+   "en": "Get top score in eight missions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26806",
+   "en": "Ahern has offered you a special scenario of his own design. Talk to Ochren to start it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26807",
+   "en": "Survive Ahern's challenge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26808",
+   "en": "Ahern has told you to talk to Ochren to start a simulator mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26809",
+   "en": "Talk to Ochren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26810",
+   "en": "Guard Captain Vidinos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26811",
+   "en": "Pinnacle Station: Command Center",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26812",
+   "en": "Tech Officer Ochren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26813",
+   "en": "Human Guard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26814",
+   "en": "Admiral Ahern",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26815",
+   "en": "Khel Burrum",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26816",
+   "en": "Scoreboard Display",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26817",
+   "en": "Station Guard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26818",
+   "en": "Asari Guard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26819",
+   "en": "C'Sell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26820",
+   "en": "Minket",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26821",
+   "en": "Thaidi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26822",
+   "en": "Rayla Sanai",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26823",
+   "en": "Lieutenant Bryant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26824",
+   "en": "Krogan Guard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26825",
+   "en": "Tahoka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26826",
+   "en": "Salarian Guard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26827",
+   "en": "Chior",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26828",
+   "en": "Fre Natha",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26829",
+   "en": "Sergeant Dahga",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26830",
+   "en": "Mimanox",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26831",
+   "en": "Prochor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26832",
+   "en": "Sophomin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26833",
+   "en": "Ochren has four more difficult scenarios available for you. Get the top score in all of them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26834",
+   "en": "Get top score in last four missions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26835",
+   "en": "You've gotten the top score in the twelve missions. Report to Ahern.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26836",
+   "en": "Talk to Ahern",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26837",
+   "en": "Vidinos has accused Bryant of tampering with the simulator; he doesn't think there's any other way a human can beat a turian's scores.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26838",
+   "en": "Pinnacle Station: Vidinos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26839",
+   "en": "Beat Vidinos's score in the eight missions.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26840",
+   "en": "Beat Vidinos's scores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26841",
+   "en": "Pinnacle Station has a combat simulator in which you can engage in various combat missions and compare your scores against other combatants. The simulator has multiple scenarios and courses available. Your mission is to make the top ranking score in all available scenarios. Talk to Ochren to start a mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26842",
+   "en": "Pinnacle Station has a combat simulator in which you can engage in various combat missions and compare your scores against other combatants. You have made the top ranking in all the normal scenarios, but Ahern has told you about a special mission of his own design. If you can survive it, you will receive the deed to Ahern's apartment. Talk to Ochren to start a mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26843",
+   "en": "You successfully beat Vidinos's scores in eight missions. He is still in disbelief, but has no reason to accuse Bryant of tampering with the simulator.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26844",
+   "en": "Docking Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26845",
+   "en": "Scoreboard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26846",
+   "en": "Capture Point",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26847",
+   "en": "Objectives Remaining:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26848",
+   "en": "Hostiles Remaining:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26849",
+   "en": "Mike Garon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26850",
+   "en": "Ken Clary\nMike Garon\nAndy Hendrickson\nKwasi Mensah\nKurt Reiner\nKevin Teich",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26851",
+   "en": "Quality Assurance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26852",
+   "en": "Dan Chretien\nAndrew Cormier\nTim Crosby\nDave Elder\nDave Flamburis\nAndrea Fonger\nJosh Glavine\nLiang Li\nTom Lin\nChris Linder\nJustin Lokey\nEvan Nikolich\nLes Nelken\nAlbert Reed\nBill Reed\nAlex Rice\nAdam Rosenfield\nEddie Scholtz\nBritt Snyder\nHarley White-Wiedow ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26853",
+   "en": "Microsoft Japan Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26854",
+   "en": "Asako Kido",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26855",
+   "en": "SDET",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26856",
+   "en": "Hiroyasu Mimura",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26857",
+   "en": "Software Test Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26858",
+   "en": "Satoru Komiya",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26859",
+   "en": "Software Design Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26860",
+   "en": "Atsushi Horiuchi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26861",
+   "en": "Content Editor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26862",
+   "en": "Mihoko Yamazawa\nChika Koyanagi\nRika Kurokawa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26863",
+   "en": "Product Marketing Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26864",
+   "en": "Isao Murayama",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26865",
+   "en": "Print Production",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26866",
+   "en": "Eiichi Ogawa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26867",
+   "en": "MGS-A Test",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26868",
+   "en": "Kensuke Hayashi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26869",
+   "en": "Yoichiro Kataoka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26870",
+   "en": "Test Lead Assistant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26871",
+   "en": "Tadachika Kanawa\nTakami Kuramochi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26872",
+   "en": "Technical Tester",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26873",
+   "en": "Hideaki Sawada\nKei Setoguchi\nMitsuru Ogata\nYoshiteru Nishikawa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26874",
+   "en": "Tester",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26875",
+   "en": "Hirotoyo Yoshikawa\nShinya Utsumi\nTakahiro Murata\nYosuke Fujiwara\nYusuke Nonaka\nYutaka Ushikubo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26876",
+   "en": "Nanica, Inc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26877",
+   "en": "Translation Supervisor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26878",
+   "en": "Haruhiko Inaba",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26879",
+   "en": "Translation PM",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26880",
+   "en": "Masayuki Suzuki",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26881",
+   "en": "Japanese Writing team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26882",
+   "en": "Masayoshi Serizawa\nNorihiko Nakajima",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26883",
+   "en": "Ochren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26884",
+   "en": "Ahern",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26885",
+   "en": "164018",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26886",
+   "en": "The combat simulator has multiple scenarios and courses available. You have made top ranking in all missions, but can still return to improve your scores. Talk to Ochren to start a mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26887",
+   "en": "Hostiles Killed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26888",
+   "en": "Albert Reed\nBill Reed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26889",
+   "en": "Intai'sei",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26890",
+   "en": "An atmosphere similar to Earth's made Intai'sei an early candidate for human colonization. However, prohibitively high temperatures and an arid climate have proven a hinderance to terraforming and agriculture. A few human cities were founded, but the majority of the human population on Intai'sei remains scattered across the vast deserts, operating wind farms and geological research stations.\n\nColony Founded: 2166\nPopulation: 150000\nCapital: Thoreau Mesa\n\nOrbital Period: 47.8 Earth Years\nRadius: 5897 km\nDay Length: 27.6 Earth Hours\nAtmospheric Pressure: 0.95 Earth Atmospheres\nSurface Temperature: 46 Celsius\nSurface Gravity: 0.8 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26891",
+   "en": "From: *******\nTo: Admiral Tadius Ahern\n\nAdmiral, the convoy will be positioned in the Phoenix system for the next week or so. I have spoken with the captains regarding our arrangement. As usual, if you are willing to pay the delivery fee, we can get you a sample from our weapons shipments.\nIf not, no problem, these remote colonies can use all the guns they can afford. Goodness knows the alliance is taking its sweet time to offer any military support.\n\nRegards,\nHood",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26892",
+   "en": "You do not have enough credits to pay the convoy's minimum delivery fee (5000 credits).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26893",
+   "en": "[Courier Device]",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26894",
+   "en": "[Use Courier Device]",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26895",
+   "en": "Personal Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26896",
+   "en": "Check Messages",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26897",
+   "en": "Grenades Locker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26898",
+   "en": "Replenish Grenades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26899",
+   "en": "First Aid Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26900",
+   "en": "From: ******\nTo: Admiral Tadius Ahern\n\nAdmiral, our convoy remains in the Phoenix system for the time being. Our offer still stands if you find yourself needing further armament.\n\nRegards,\nHood",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26901",
+   "en": "Current Time:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26902",
+   "en": "Time Remaining:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26903",
+   "en": "Evac Arrives In:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26904",
+   "en": "Entryway",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26905",
+   "en": "Solarium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26906",
+   "en": "Living Quarters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26907",
+   "en": "Observation Deck",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26908",
+   "en": "Travel to the Phoenix system in the Argos Rho cluster. Explore your new home on the planet Intai'sei.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26909",
+   "en": "Pinnacle Station: Convoy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26910",
+   "en": "Explore your new home on the planet Intai'sei. Use the personal computer in the living quarters to contact the freighter convoy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26911",
+   "en": "You can use the personal computer in your home on Intai'sei to contact the convoy at any time.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26912",
+   "en": "Travel to the Phoenix system in the Argos Rho cluster. Your new home is located on the planet Intai'sei.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26913",
+   "en": "Travel to Intai'sei",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26914",
+   "en": "Use the personal computer in the living quarters of the apartment to contact the freighter convoy currently staged in the Phoenix system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26915",
+   "en": "Contact the Convoy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26916",
+   "en": "An atmosphere similar to Earth's made Intai'sei an early candidate for human colonization. However, prohibitively high temperatures and an arid climate have proven a hinderance to terraforming and agriculture. A few human cities were founded, but the majority of the human population on Intai'sei remains scattered across the vast deserts, operating wind farms and geological research stations.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26917",
+   "en": "Technology: Intai'sei",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26918",
+   "en": "In the absence of realistic terrain or equipment, military organizations will often make use of a combat simulator as a method of training soldiers for varied combat environments.\n\nHolographic projectors are used to create visual representations of opponents and obstacles. Kinetic Barriers are then cast to prevent participants from passing through the obstacles and terrain. Kinetic barriers are also used to simulate weapon damage and shockwaves. However, while most trainers argue that pain is the best teacher, all government-sponsored combat simulators are required to make use of extensive safety protocols to prevent any serious, permanent damage to participants.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26919",
+   "en": "Technology: Combat Simulator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26920",
+   "en": "Intai'sei: Solarium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26921",
+   "en": "Command Center",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26922",
+   "en": "Surface-to-Air Defense Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26923",
+   "en": "Scoreboard Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26924",
+   "en": "When colonizing a planet, Corporations will often make use of prefabricated, or 'pre-fab' structures to quickly and easily deploy a base of operations. These residential structures feature full living quarters and a large solarium from which residents may observe the planet's surface.\n\nWhile most human colonies have the support of the Alliance military or some corporate-sponsored defense contractor, many civilian colonists choose to keep a small stock of armaments in their home. These weapons are a last resort, but are often critical to staving off a pirate attack until support arrives.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26925",
+   "en": "Technology: Prefabricated Structures",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26926",
+   "en": "Check Scores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26927",
+   "en": "Simulator Kill Switch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26928",
+   "en": "End Simulation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26929",
+   "en": "Exit scenario? Deactivating the simulator now will result in failure for this attempt.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26930",
+   "en": "Return to Combat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26931",
+   "en": "Exit Scenario",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26932",
+   "en": "Rankings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26933",
+   "en": "Combat Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26934",
+   "en": "Course",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26935",
+   "en": "Final Score",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26936",
+   "en": "Mission Resolved",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26937",
+   "en": "Disqualified",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26938",
+   "en": "Rank",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26939",
+   "en": "Result",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

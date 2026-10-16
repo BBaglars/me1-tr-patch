@@ -1,0 +1,1482 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/001",
+  "family": "ICE20"
+ },
+ "entries": [
+  {
+   "key": "u00591",
+   "en": "Looks like a hell of a storm outside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00592",
+   "en": "I like the decor here. Expensive, but tasteful.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00593",
+   "en": "Rock gardens and waterfalls. Very Zen.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00594",
+   "en": "Why would they have so many windows if all they see outside is snow?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00595",
+   "en": "Do not be fooled by these civilized surroundings. This is a place of secrets and lies.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00596",
+   "en": "The weather outside looks dreadful. Thank the Goddess it is warm in here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00597",
+   "en": "Corporations here hire their own private security forces. It makes it easier for them to break the laws that way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00598",
+   "en": "Watch your step here, Shepard. Technically, we're no longer in Citadel Space.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00599",
+   "en": "That blizzard outside looks like it's settling in for the long haul.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00600",
+   "en": "Every time I come here, there's a damn blizzard. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00601",
+   "en": "These people will smile to your face while they stab you in the back.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00602",
+   "en": "I used to get a lot of freelance business here. Fastest way to climb the corporate ladder is to eliminate the guy above you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00603",
+   "en": "My people have dealt with the corporations on Noveria in the past. They pay well, and they don't ask any questions.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00604",
+   "en": "From all I've heard, blizzards are quite common here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00605",
+   "en": "A bit nippy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00606",
+   "en": "Wish we could pop off some incendiaries.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00607",
+   "en": "I think I've got snow in my boots.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00608",
+   "en": "Mom was right. I should've brought a sweater.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00609",
+   "en": "Just like winter back home.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00610",
+   "en": "Nobody lick any poles.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00611",
+   "en": "All this for one damned asari.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00612",
+   "en": "The sooner we are off this frozen world the better.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00614",
+   "en": "Turians don't like the cold, Shepard. Did I ever mention that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00616",
+   "en": "Stay alert. Being cold beats being dead.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00618",
+   "en": "I need to get my blood flowing. Find me something to kill!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00619",
+   "en": "The appeal of winter wears thin very quickly.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00620",
+   "en": "I'm wearing an environmental suit, and I'm still freezing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_00_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_ICE50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00621",
+   "en": "I told you to go the hell away.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00622",
+   "en": "Allow me to reintroduce myself. Parasini, Noveria Internal Affairs.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00623",
+   "en": "How can I help you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00624",
+   "en": "One moment, please. Mr. Anoleis?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00625",
+   "en": "Yes. What? What!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00626",
+   "en": "Commander Shepard is asking to see you, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00627",
+   "en": "Right, fine. Come in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00628",
+   "en": "We're aware of the rumors. At the moment, contact with the facility is down due to weather.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00629",
+   "en": "Mr. Anoleis isn't the only one with a pass to leave Hanshan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00630",
+   "en": "Qui'in spends his days at the hotel since his office was closed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00632",
+   "en": "Weapons detectors. Don't mind the alarms.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00633",
+   "en": "I am Gianna Parasini, assistant to Administrator Anoleis. We apologize for the incident in the docking bay.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00634",
+   "en": "One of my duties is orientation of new arrivals. Do you have any questions?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00635",
+   "en": "The Executive Board does everything in its power to protect the privacy of our client corporations.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00636",
+   "en": "This planet is beyond the jurisdiction of the Citadel. The law is what the Executive Board says it is.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00637",
+   "en": "Do you know how valuable this planet is? How many advances in genetics and artificial intelligence got their start here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00638",
+   "en": "Tread lightly. The Board can bury you in litigation. You'd need an asari lawyer to see the case through.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00639",
+   "en": "Unusual? An asari Matriarch passed through a few days ago. Lady Benezia.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00640",
+   "en": "His office is on the main level. Left at the top of the elevator.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00641",
+   "en": "Of course. If you need any help, you can ask me at the administrator's office.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00642",
+   "en": "You're welcome. You understand our security chief was only doing her job.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00643",
+   "en": "She takes her job seriously. She is a valuable asset to the company.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00644",
+   "en": "I'd like to speak to Anoleis.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00645",
+   "en": "Tell me about the companies that work on Noveria.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00646",
+   "en": "I hear there was an accident on Peak 15.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00647",
+   "en": "You said I should talk to Lorik Qui'in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00648",
+   "en": "Nothing right now, thank you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00649",
+   "en": "Pretty heavy security for such a small port.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00650",
+   "en": "I can't have my investigation hampered.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00651",
+   "en": "Is this \"privacy\" intended to hide illegal research?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00652",
+   "en": "Has anyone unusual passed through here recently?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00653",
+   "en": "Where can I find the administrator?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00654",
+   "en": "Understood. Can we go in now?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00655",
+   "en": "I appreciate your help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00656",
+   "en": "Someone piss in your security chief's coffee today?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00657",
+   "en": "I have urgent business here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00658",
+   "en": "Spectre. Have you given any more consideration to my offer?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00659",
+   "en": "The Executive Board knows about Anoleis' corruption. I've been undercover for six months.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00660",
+   "en": "I want you to convince Qui'in to testify before the Board. With his evidence, this planet can run profitably again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00661",
+   "en": "I'm Anoleis' secretary. You think he'd believe me? That he'd meet me in some dark alley with his evidence?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00662",
+   "en": "He's a crook, not a moron. He doesn't keep logs on his computer saying, \"This month I stole three million credits.\" ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00663",
+   "en": "Qui'in's testimony and records are everything I need to prove Anoleis' guilt in one package.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00664",
+   "en": "You help my investigation, I'll provide whatever you need. Favor for a favor.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00665",
+   "en": "Before the weather closed in, Hanshan received a Code Omega signal from them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00666",
+   "en": "Code Omega means a terminal breach of safety protocols. No one goes up until the crew sends an all-clear.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00667",
+   "en": "That's all I've got. No one knows what's going on up there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00668",
+   "en": "Something to do with Peak 15. She arrived after we received their Code Omega -- automated warning of a containment breach.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00669",
+   "en": "She came with an escort of asari commandos. They took the last shuttle up to Peak 15 with a load of crates.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00670",
+   "en": "The shuttles are down, so you'd have to drive up. If you get Qui'in to testify, I'll get you into the garage.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00671",
+   "en": "Thank you. You know where I work. Come talk to me once you know if he'll play ball.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00672",
+   "en": "I can produce a copy of Anoleis' pass for you. I can't move large sums of money without someone noticing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00673",
+   "en": "If you have any love for the law, you'll talk to Qui'in for me. Don't disappoint me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00674",
+   "en": "Yes, yes. Fate of billions and all that. I couldn't possibly understand how important your work is.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00675",
+   "en": "Act natural. You want to blow my cover?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00676",
+   "en": "You're meeting a beautiful woman for drinks. Smile and laugh. Pretend we're flirting.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00677",
+   "en": "We're two friends who haven't seen each other since college. Remember that time so-and-so did that thing? Ha ha!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00678",
+   "en": "Over two hundred fifty high-tech firms rent our labs. Major shareholders include Elanus Risk Control Services, Binary Helix, and Synthetic Insights, Ltd.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00679",
+   "en": "The Executive Board gets a discount on facilities security. Elanus also develops lethal and non-lethal weapons.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00680",
+   "en": "BH is a leader in genetics and biotechnology. They try to keep a low profile in the media.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00681",
+   "en": "Much of their research is in biotic modifications. That angers many Luddite, organic-baseline, and fundamentalist groups.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00682",
+   "en": "They're one of only four corporations licensed by the Citadel Council to develop artificial intelligence.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00683",
+   "en": "They attract many protests. No agitators have ever breached our security. That's why they invest heavily here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00684",
+   "en": "Not at all, Spectre. This is my job, after all.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00685",
+   "en": "All employees should review their non-disclosure agreements, and avoid irresponsible free talk.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00686",
+   "en": "Binary Helix has leased the entire complex.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00687",
+   "en": "A blizzard is sweeping the Skadi Mountains right now. Between the cloud cover and heavy snow, the satellite uplinks are cut.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00688",
+   "en": "\"Loose lips sink third quarter profits.\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00689",
+   "en": "You have a more blunt way of speaking than is common here, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00690",
+   "en": "We have seventeen research complexes built into the mountains. Each is a self-sufficient facility housing a staff of hundreds.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00692",
+   "en": "Why don't you ask Qui'in directly?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00693",
+   "en": "You work for Anoleis. Can't you just take his records?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00694",
+   "en": "I need Qui'in's garage pass to complete my mission.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00695",
+   "en": "You gave me the company line about Peak 15. What's the truth?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00696",
+   "en": "What's happening up on Peak 15?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00697",
+   "en": "That doesn't tell me much.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00698",
+   "en": "Do you know why the Matriarch is here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00699",
+   "en": "How can I get to Peak 15?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00700",
+   "en": "All right. I'll talk to Qui'in and see if I can convince him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00701",
+   "en": "I'll keep Qui'in's evidence.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00702",
+   "en": "Qui'in is offering to pay me. Can you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00703",
+   "en": "I'll consider it and get back to you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00704",
+   "en": "If your Executive Board loses a few million credits, it's not my problem. I have my own mission.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00705",
+   "en": "Why is an Internal Affairs agent here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00706",
+   "en": "I don't have time for pleasantries.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00707",
+   "en": "Your guards work for ERCS, don't they?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00708",
+   "en": "Binary Helix? They work in genetics?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00709",
+   "en": "Haven't I seen Synthetic Insights in the news lately?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00710",
+   "en": "I've taken up enough of your time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00711",
+   "en": "What corporations work on Peak 15?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00712",
+   "en": "What kind of weather cuts modern communications?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00713",
+   "en": "So, \"everyone shut up and keep your heads down?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00714",
+   "en": "How large are the facilities here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00715",
+   "en": "Well, you sure proved me wrong. My lack of faith in Spectres was entirely unjustified.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00716",
+   "en": "Well, pardon me all to hell for expecting you to do your job!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00717",
+   "en": "It's hard to be patient this close to the end. I can't wait to work in real clothes again. You have any idea how much I hate skirts?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00718",
+   "en": "Anoleis is dirty. It might be best to help her.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00719",
+   "en": "Seems we'd help more people if we did as she asks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00720",
+   "en": "In the long run, it is better to remove the source of the problem.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00721",
+   "en": "Your call, Commander, but I say we help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00722",
+   "en": "Lorik is offering a lot of money. A pass can open one door. Credits can open many.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00723",
+   "en": "Where have you been? Have you made any progress with Qui'in?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00724",
+   "en": "I'm going to close my eyes and count to ten. If I don't explode, tell me if you've convinced Qui'in to turn over his evidence and testify. One... fourteen...",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00725",
+   "en": "Do you still have Qui'in's evidence? Will he testify?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00726",
+   "en": "You what? [sigh] I should have known. Spectres always do whatever the hell they want.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00727",
+   "en": "So you got what you need. Do you still have Qui'in's evidence? Will you talk to him for me? I can still present the evidence to the Board.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00728",
+   "en": "[sigh] That's a world of stress off my back. I'll take the evidence for safe transport.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00729",
+   "en": "I didn't think you'd help me. Being a Spectre and all. I guess some of you can be all right.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00730",
+   "en": "Uh, not so fast, hero. You need to get into the garage, don't you? To head up to Peak 15?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00731",
+   "en": "I'm ecstatic. But right now, I just feel like a long day of work is ending.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00732",
+   "en": "While you were working on Qui'in, I got you a garage pass. Be careful up there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00733",
+   "en": "I have an arrest to make. Wish I had time to change into something easy to move in. I hate skirts.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00734",
+   "en": "Sorry. I'm used to having my guard up. When people find out I'm Internal Affairs, they treat me like a traitor.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00735",
+   "en": "This was the best opportunity I've had in-- Why did you sell it?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00736",
+   "en": "That's a real good excuse. You've got the job, you should do it right.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00737",
+   "en": "You're kidding. Do you have any-- WHAT THE HELL WERE YOU THINKING!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00738",
+   "en": "I would have helped you, too. It might have taken longer, but is that a reason to let a guilty man walk?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00739",
+   "en": "I shouldn't have expected any better from a Spectre. You never give a damn about anything beyond your assignment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00740",
+   "en": "Oh, right. Qui'in's evidence. Forgot all about it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00741",
+   "en": "I got what I needed in my own way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00742",
+   "en": "I need to get to Peak 15. The shortest route was a straight line.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00743",
+   "en": "I needed to get to Peak 15. The shortest route was a straight line.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00744",
+   "en": "Language, miss.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00745",
+   "en": "Frankly, your self-righteous attitude pissed me off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  }
+ ]
+}

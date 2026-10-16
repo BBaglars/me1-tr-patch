@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/050",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u25195",
+   "en": "Lightning Strike",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25196",
+   "en": "Harpy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25197",
+   "en": "Torrent",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25198",
+   "en": "Pinnacle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25199",
+   "en": "Savage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25200",
+   "en": "Helix",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25201",
+   "en": "Diamond Back",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25202",
+   "en": "Cobra",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25203",
+   "en": "Viper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25204",
+   "en": "Python",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25205",
+   "en": "50% Toxic Damage\n5 Damage/sec for 10 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25206",
+   "en": "+40% Damage\n+25% Shield Bypass\n+70% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25207",
+   "en": "Self:\n+20% Damage\n+50% Weapon Stability\n+10% Heat Absorption\nTarget:\n-10% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25208",
+   "en": "+10% Damage\n+3% Heat Absorption\n+10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25209",
+   "en": "The colony won't need to worry about food from now on, thanks to you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25210",
+   "en": "10 Damage/sec for 5 sec\n-10% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25211",
+   "en": "11 Damage/sec for 5 sec\n-11% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25212",
+   "en": "12 Damage/sec for 5 sec\n-12% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25213",
+   "en": "13 Damage/sec for 5 sec\n-13% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25214",
+   "en": "14 Damage/sec for 5 sec\n-14% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25215",
+   "en": "15 Damage/sec for 5 sec\n-15% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25216",
+   "en": "16 Damage/sec for 5 sec\n-16% DP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25217",
+   "en": "+1 Hazard Level Rating\n+20% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25218",
+   "en": "+1 Hazard Level Rating\n+28% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25219",
+   "en": "+1 Hazard Level Rating\n+36% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25220",
+   "en": "+1 Hazard Level Rating\n+44% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25221",
+   "en": "+1 Hazard Level Rating\n+52% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25222",
+   "en": "+1 Hazard Level Rating\n+60% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25223",
+   "en": "+1 Hazard Level Rating\n+68% Toxic Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25224",
+   "en": "+1 Hazard Level Rating\n+20 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25225",
+   "en": "+1 Hazard Level Rating\n+25 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25226",
+   "en": "+1 Hazard Level Rating\n+30 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25227",
+   "en": "+1 Hazard Level Rating\n+35 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25228",
+   "en": "+1 Hazard Level Rating\n+40 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25229",
+   "en": "+1 Hazard Level Rating\n+45 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25230",
+   "en": "+1 Hazard Level Rating\n+50 Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25231",
+   "en": "+100% Damage\n+40% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25232",
+   "en": "+110% Damage\n+45% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25233",
+   "en": "+120% Damage\n+50% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25234",
+   "en": "+130% Damage\n+55% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25235",
+   "en": "+140% Damage\n+60% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25236",
+   "en": "+150% Damage\n+65% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25237",
+   "en": "+160% Damage\n+70% Physics Force\n-100% Heat Absorption\n-20% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25238",
+   "en": "Normandy's vehicle bay allows you to manage your crew's inventory. Using a squad member's equipment locker allows you to alter their currently equipped weapons, armor, and upgrades. New equipment may be purchased from the Requisition Officer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25239",
+   "en": "Initializing Downloadable Content. Please wait.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25240",
+   "en": "Quality Assurance Design Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25241",
+   "en": "Bob McCabe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25242",
+   "en": "Savior of the Ancients",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25243",
+   "en": "Requirement:\nResolve the situation on Mars.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25244",
+   "en": "Requirement: Resolve the situation on Mars.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25245",
+   "en": "A very special thanks to our families and friends, whose patience and support helped us reach for the stars.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25246",
+   "en": "Krogan Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25247",
+   "en": "You do not have an active gamer profile. To create or load a gamer profile, press the Xbox Guide button. If you continue, you will not be able to save your progress.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25248",
+   "en": "Confirm Selections and Exit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25249",
+   "en": "Gameplay options are only stored in Save Games, not across profiles. Save your game when you exit the OPTIONS menu to save your gameplay changes.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25250",
+   "en": "General Manager of Production",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25251",
+   "en": "You can return to the Normandy from any uncharted world by pressing [XBoxB_Btn_X] while in the Mako.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25252",
+   "en": "Many achievements offer in-game rewards. Make sure to check the Achievement screen from the Main Menu.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25253",
+   "en": "After landing on this small asteroid, you were contacted by a human. Three fusion torches are being used to direct the asteroid into the path of a nearby planet. She's urged you to find the torches and shut them down.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25254",
+   "en": "X57: Bring Down the Sky",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25255",
+   "en": "The three torches are disabled, but the leader of the batarians is still holding several humans hostage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25256",
+   "en": "You rescued the human prisoners and disabled all the fusion torches. The team will evacuate to Terra Nova and send in a repair crew to get the asteroid functional again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25257",
+   "en": "Find the three fusion torches and disable them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25258",
+   "en": "Disable the Torches",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25259",
+   "en": "Pass Key",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25260",
+   "en": "The specified device could not be accessed. Please ensure that a valid storage device is connected to your Xbox 360 console.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25261",
+   "en": "Phobos Gateway",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25262",
+   "en": "This is the Phobos Gateway. One day, Chris L'Etoile will write me. One day... ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25263",
+   "en": "629Quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25264",
+   "en": "You have completed task 629",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25265",
+   "en": "629Task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25266",
+   "en": "Codex Entry Test",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25267",
+   "en": "Save Game is corrupt and cannot be used.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25268",
+   "en": "The current system storage has less than <CUSTOM0> MB free. You should free more space or you might run out of space for Autosaves.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25269",
+   "en": "Cannot find previous Save Game to resume. Returning to Main Menu.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25270",
+   "en": "Drag Map",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25271",
+   "en": "Next",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25272",
+   "en": "Exit to Main Menu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25273",
+   "en": "Resume Last Save",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25274",
+   "en": "Show Load Screen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25275",
+   "en": "You have died",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25276",
+   "en": "Back to Inventory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25277",
+   "en": "Uninstall All XMods",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25278",
+   "en": "Uninstall XMod",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25279",
+   "en": "Mark All Quests Viewed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25280",
+   "en": "Newest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25281",
+   "en": "Oldest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25282",
+   "en": "Sort By",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25283",
+   "en": "Delete Character",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25284",
+   "en": "Select Character",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25285",
+   "en": "Switch Characters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25286",
+   "en": "Reduce to Salvage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25287",
+   "en": "0",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25288",
+   "en": "1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25289",
+   "en": "2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25290",
+   "en": "3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25291",
+   "en": "4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25292",
+   "en": "5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25293",
+   "en": "6",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25294",
+   "en": "7",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25295",
+   "en": "8",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25296",
+   "en": "9",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25297",
+   "en": "=",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25298",
+   "en": "\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25299",
+   "en": ",",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25300",
+   "en": ".",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25301",
+   "en": "/",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25302",
+   "en": ";",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25303",
+   "en": "[",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25304",
+   "en": "\\",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25305",
+   "en": "]",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25306",
+   "en": "-",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25307",
+   "en": "~",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25308",
+   "en": "1024 * 768",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25309",
+   "en": "1152 * 720",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25310",
+   "en": "1152 * 864",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25311",
+   "en": "1280 * 1024",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25312",
+   "en": "1280 * 720",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25313",
+   "en": "1600 * 900",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25314",
+   "en": "1680 * 1050",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25315",
+   "en": "640 * 480",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25316",
+   "en": "800 * 600",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25317",
+   "en": "A",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25318",
+   "en": "A Button",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25319",
+   "en": "Powers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25320",
+   "en": "Power Wheel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25321",
+   "en": "Adjust combat and exploration camera sensitivities",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25322",
+   "en": "Adjust display and detail options",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25323",
+   "en": "Adjust in-game preferences",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25324",
+   "en": "Adjust mechanics such as game difficulty and squad behaviors",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25325",
+   "en": "Adjust mouse and gamepad preferences",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25326",
+   "en": "Adjust sound volume and subtitle options",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25327",
+   "en": "Adjusts the quality of in-game textures",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25328",
+   "en": "Adjust the difficulty of combat across the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25329",
+   "en": "Adjust the number of visual effects",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25330",
+   "en": "Enable or disable dynamic shadows.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25331",
+   "en": "Adjust the tutorial and auto-pause options",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25332",
+   "en": "Advanced Graphics Options",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25333",
+   "en": "Advanced Options",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25334",
+   "en": "Aggressive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25335",
+   "en": "Anisotropic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25336",
+   "en": "Applies any unaccepted changes and leaves the options screen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25337",
+   "en": "Switch to Assault Rifle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25338",
+   "en": "View, change or reset keyboard bindings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25339",
+   "en": "Order Attack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25340",
+   "en": "B Button",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25341",
+   "en": "Back Buttton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25342",
+   "en": "Backspace",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25343",
+   "en": "Move Backward",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25344",
+   "en": "Bleed Out",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

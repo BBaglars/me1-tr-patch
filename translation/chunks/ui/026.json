@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/026",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21743",
+   "en": "Cargo Train Platform",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21744",
+   "en": "Cargo Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21745",
+   "en": "Refinery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21746",
+   "en": "Prothean Ruins",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21747",
+   "en": "Suspicious Gambling Machine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21748",
+   "en": "Examine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21749",
+   "en": "Rogue AI",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21750",
+   "en": "Override System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21751",
+   "en": "Enter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21752",
+   "en": "Enter Code",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21753",
+   "en": "Open Journal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21754",
+   "en": "Gatehouse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21755",
+   "en": "Salarian Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21756",
+   "en": "Communications Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21757",
+   "en": "Satellite Uplink Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21758",
+   "en": "Refueling Platform",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21759",
+   "en": "Research Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21760",
+   "en": "Warehouse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21761",
+   "en": "Maintenance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21762",
+   "en": "Cell Block A",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21763",
+   "en": "Security Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21764",
+   "en": "Cell Block B",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21765",
+   "en": "Genophage Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21766",
+   "en": "Breeding Facility Entrance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21767",
+   "en": "Turret Control",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21768",
+   "en": "Breeding Trench",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21769",
+   "en": "AA Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21770",
+   "en": "Salarian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21771",
+   "en": "The keepers don't seem to mind being scanned. Keep investigating until you've found all the keepers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21772",
+   "en": "Zoom In",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21773",
+   "en": "More Radio Chatter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21774",
+   "en": "Customs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21775",
+   "en": "High Caliber Upgrade\n\nDamage Increase: 10%\nKickback Penalty: 50%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21776",
+   "en": "High Caliber Upgrade\n\nDamage Increase: 15%\nKickback Penalty: 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21777",
+   "en": "High Caliber Upgrade\n\nDamage Increase: 20%\nKickback Penalty: 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21778",
+   "en": "High Caliber Upgrade\n\nDamage Increase: 25%\nKickback Penalty: 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21779",
+   "en": "High Caliber Upgrade\n\nDamage Increase: 30%\nKickback Penalty: 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21780",
+   "en": "Original Score - Lead Composer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21781",
+   "en": "BioWare Marketing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21782",
+   "en": "Director of Marketing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21783",
+   "en": "Art",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21784",
+   "en": "Community",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21785",
+   "en": "Marketing Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21786",
+   "en": "Public Relations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21787",
+   "en": "Web",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21788",
+   "en": "BioWare Operations and Administration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21789",
+   "en": "Director of Business Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21790",
+   "en": "Director of Finance / Director of Business Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21791",
+   "en": "Finance / Payroll",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21792",
+   "en": "Director of Human Resources",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21793",
+   "en": "Human Resources",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21794",
+   "en": "Director of Information Systems",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21795",
+   "en": "Information Systems - Application",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21796",
+   "en": "Information Systems - Desktop",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21797",
+   "en": "Information Systems - Facilities",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21798",
+   "en": "Information Systems - Infrastructure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21799",
+   "en": "Director of Legal and Business Services",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21800",
+   "en": "Admin Assistants/Reception",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21801",
+   "en": "BioWare/Pandemic Administration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21802",
+   "en": "CEO",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21803",
+   "en": "Assistant/Reception",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21804",
+   "en": "Business Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21805",
+   "en": "Finance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21806",
+   "en": "Information Systems",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21807",
+   "en": "Legal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21808",
+   "en": "Marketing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21809",
+   "en": "Jack Wall",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21810",
+   "en": "Ric Williams",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21811",
+   "en": "Todd Grenier\nMike Sass",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21812",
+   "en": "Jason Barlow\nChris Priestly\nJay Watamaniuk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21813",
+   "en": "Jarrett Lee",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21814",
+   "en": "Matt Atwood\nErik Einsiedel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21815",
+   "en": "Johnn Four\nJeff Marvin\nRobin Mayne\nColin Walmsley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21816",
+   "en": "Craig Priddle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21817",
+   "en": "Richard Iwaniuk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21818",
+   "en": "Lori Burkosky\nJanice Cardinal\nTodd Derechey\nNils Kuhnert\nSharon Pate\nTreena Rees",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21819",
+   "en": "Derek Sidebottom",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21820",
+   "en": "Celia Arevalo\nTheresa Baxter\nEllen Cunningham\nMark Kluchky\nLeanne Korotash\nAngela Pappas",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21821",
+   "en": "Vince Waldon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21822",
+   "en": "Julian Karst\nRobert McKenna\nJesse Van Herk\nDups Wijaywardhana",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21823",
+   "en": "Dave McGruther\nJeff Mills\nBrett Tollefson\nChris Zeschuk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21824",
+   "en": "Mike Patterson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21825",
+   "en": "Sam Decker\nWayne Loney\nCraig Miller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21826",
+   "en": "Robert Kallir",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21827",
+   "en": "Crystal Ens\nDeb Gardner\nTeresa Meester\nJessica Yamanaka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21828",
+   "en": "Greg Richardson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21829",
+   "en": "Lynette Farriot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21830",
+   "en": "Mark Spenner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21831",
+   "en": "Jim Johnson\nKerman Lau",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21832",
+   "en": "Roberta Riga",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21833",
+   "en": "Chad Billingsley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21834",
+   "en": "CJ Prober",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21835",
+   "en": "Jillian Goldberg\nDave Rosen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21836",
+   "en": "Jim Bishop (Project Director)\nDiarmid Clarke (Project Director)\nMark Darrah (Project Director)\nJames Ohlen (Studio Creative Director)\nTrent Oster (Project Director)\nCraig Priddle (Former Director of Business Development for BioWare) \nDan Tudge (Project Director)\nRichard Vogel (Studio Director)\nGordon Walton (Studio Director)\nElevation Partners (Bono, Bret Pearlman, Fred Anderson, Marc Bodnick, Roger McNamee)  \nJohn Riccitello (Former CEO of VGH)  \nAndrew Goldman, Greg Borrud, Josh Resnick and the rest of the gang at Pandemic Studios  \nAccess Communications (Chris Norris, Tuesday Uhland) \nand all of our friends at BioWare Austin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21837",
+   "en": "Special Thanks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21838",
+   "en": "Fist, a former agent of an \"information dealer\" known as the Shadow Broker, has arranged a meeting with a quarian who has evidence against Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21839",
+   "en": "Observe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21840",
+   "en": "You have completed 506quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21841",
+   "en": "506quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21842",
+   "en": "You have completed 506_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21843",
+   "en": "506_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21844",
+   "en": "CodexTestingII_CodexEntry",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21845",
+   "en": "You have completed CodexTestingII_Goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21846",
+   "en": "CodexTestingII_Goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21847",
+   "en": "You have completed CodexTestingII_Task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21848",
+   "en": "CodexTestingII_Task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21849",
+   "en": "You have completed CodexTesting_Task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21850",
+   "en": "CodexTesting_Task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21851",
+   "en": "You have completed CodexTesting_Goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21852",
+   "en": "CodexTesting_Goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21853",
+   "en": "Critical mass in:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21854",
+   "en": "Siphoning Credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21855",
+   "en": "Approaching Critical Mass",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21856",
+   "en": "Elevator to Plaza",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21857",
+   "en": "Elevator to Docking Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21858",
+   "en": "Opold's Shop",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21859",
+   "en": "Administration Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21860",
+   "en": "Elevator to Hotel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21861",
+   "en": "Elevator to Synthetic Insights",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21862",
+   "en": "Garage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21863",
+   "en": "Lorik's Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21864",
+   "en": "Port Hanshan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21865",
+   "en": "Security",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21866",
+   "en": "Elevator to Cafeteria",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21867",
+   "en": "Elevator to Garage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21868",
+   "en": "Cafeteria",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21869",
+   "en": "Elevator to Mira Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21870",
+   "en": "Mira Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21871",
+   "en": "Elevator to Reactor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21872",
+   "en": "Fuel Lines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21873",
+   "en": "Reactor Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21874",
+   "en": "Elevator to Roof",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21875",
+   "en": "Elevator to Tram",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21876",
+   "en": "Purge Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21877",
+   "en": "Decon Chamber",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21878",
+   "en": "Tram",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21879",
+   "en": "Elevator to Hot Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21880",
+   "en": "Elevator to Science Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21881",
+   "en": "Captain Ventralis' Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21882",
+   "en": "Guard Barracks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21883",
+   "en": "Petozi's Shop",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21884",
+   "en": "Medical Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21885",
+   "en": "Elevator to Quarantine Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21886",
+   "en": "Scientist Barracks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21887",
+   "en": "Quarantine Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21888",
+   "en": "Maintenance Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21889",
+   "en": "Ventilation Room",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21890",
+   "en": "Secure Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21891",
+   "en": "Elevator to Secure Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21892",
+   "en": "Clerk Bosker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,597 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/010",
+  "family": "ICE20"
+ },
+ "entries": [
+  {
+   "key": "u01722",
+   "en": "[View Items]",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01723",
+   "en": "[View Non-human Armors]",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01724",
+   "en": "[View Standard Items]",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01827",
+   "en": "What do you do here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_ICE60_07_DSG_LOC",
+    "BIOA_STA20_10D_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01828",
+   "en": "I have to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC"
+   ]
+  },
+  {
+   "key": "u01842",
+   "en": "Just passing through.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_STA60_09A_DSG_LOC",
+    "BIOA_STA60_09casino_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01851",
+   "en": "I don't want to talk about it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u01852",
+   "en": "Huh?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_ICE60_06_DSG_LOC",
+    "BIOA_STA60_05A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01856",
+   "en": "Benezia",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_ICE60_02_DSG_LOC",
+    "BIOA_ICE60_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01860",
+   "en": "What can I do for you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_04_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01879",
+   "en": "You're bluffing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_06_DSG_LOC",
+    "BIOA_STA20_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01895",
+   "en": "What's going on here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_06_DSG_LOC",
+    "BIOA_ICE60_02_DSG_LOC",
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01924",
+   "en": "What's that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA20_07A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01940",
+   "en": "Yeah.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_ICE60_06_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01991",
+   "en": "Good. Go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02006",
+   "en": "I'll be here if you change your mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02009",
+   "en": "Whatever.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_ICE60_12_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02030",
+   "en": "I'll take it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA30_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02043",
+   "en": "Sorry.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_ICE60_07A_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02047",
+   "en": "Maybe.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA30_01_DSG_LOC",
+    "BIOA_STA30_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02050",
+   "en": "I'm in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02051",
+   "en": "No deal.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02052",
+   "en": "Agreed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_UNC42_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02053",
+   "en": "Tough.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA30_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02055",
+   "en": "Make me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u02057",
+   "en": "I will.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC",
+    "BIOA_NOR10_08liara_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02059",
+   "en": "I'll get back to you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA60_07A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02066",
+   "en": "Let's talk.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC"
+   ]
+  },
+  {
+   "key": "u02067",
+   "en": "Sounds good.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_STA30_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02194",
+   "en": "It's done.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA20_07A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02216",
+   "en": "Not my problem.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02217",
+   "en": "I'm interested.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02299",
+   "en": "Can I help?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA70_02A_DSG_LOC",
+    "BIOA_WAR20_03b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02345",
+   "en": "Have we met?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC",
+    "BIOA_STA20_07A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02347",
+   "en": "Not interested.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02statue_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02350",
+   "en": "That's no excuse.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA60_01nodest_DSG_LOC",
+    "BIOA_UNC52_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02368",
+   "en": "We'll talk later.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02369",
+   "en": "What did you want?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02396",
+   "en": "Was there anything else?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA20_09A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02411",
+   "en": "That's all?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02416",
+   "en": "Good.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02426",
+   "en": "Ah.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02477",
+   "en": "Commander Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_UNC52_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02568",
+   "en": "Stand by, shore party.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_13_PLC_LOC",
+    "BIOA_NOR10_02_DSG_LOC",
+    "BIOA_STA30_08_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02569",
+   "en": "Equalizing interior pressure with exterior atmosphere.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_13_PLC_LOC",
+    "BIOA_NOR10_02_DSG_LOC",
+    "BIOA_STA30_08_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02570",
+   "en": "Logged: the Commanding Officer is ashore. XO Pressly has the deck.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_13_PLC_LOC",
+    "BIOA_NOR10_02_DSG_LOC",
+    "BIOA_STA30_08_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02571",
+   "en": "Decontamination in progress.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_13_PLC_LOC",
+    "BIOA_NOR10_02_DSG_LOC",
+    "BIOA_STA30_08_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02572",
+   "en": "Logged: the Commanding Officer is aboard. XO Pressly stands relieved.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_13_PLC_LOC",
+    "BIOA_NOR10_02_DSG_LOC",
+    "BIOA_STA30_08_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02579",
+   "en": "Commander. Something you need?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02580",
+   "en": "All right. See ya.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02581",
+   "en": "Message coming in. Patching it through.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02582",
+   "en": "You need to turn back, Commander. You're going beyond the range of the operational area.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02583",
+   "en": "You went right off the scanners, Commander. Now we have to bring you back.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02584",
+   "en": "I prefer gold to silver. You know, for my medal. I figured you'd recommend me for one since I pulled your, uh, boots out of the fire.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02585",
+   "en": "Ah, figures. Just get me a nice card and a cake. No coconut, though. I hate that crap.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02586",
+   "en": "That's a good point. They'd probably make me shave, too. I spent the last seven weeks working on this baby. No medal's worth that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02587",
+   "en": "Oh, I get it. It's supposed to be a surprise. Don't worry. When they pin it on my chest, I'll pretend I had no idea it was coming.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02588",
+   "en": "So, Commander, why don't you tell me why you're really here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02589",
+   "en": "Boy am I glad to be off Noveria. I don't know which was worse: the cold or the corporations.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02590",
+   "en": "One will freeze your balls off, the other will sell 'em out from under you. With all due respect, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE25_00_DSG_LOC",
+    "BIOA_LAV00_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  }
+ ]
+}

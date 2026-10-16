@@ -1,0 +1,1428 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/057",
+  "family": "WAR20"
+ },
+ "entries": [
+  {
+   "key": "u17976",
+   "en": "Nice work with those geth. Glad you showed up.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17977",
+   "en": "Would it help if I brought in some power cells from the Normandy? We can certainly spare a few.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17978",
+   "en": "I found these power cells in the tunnels. Are they what you're looking for?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17979",
+   "en": "If I find anything while I'm looking around, I'll send it your way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17980",
+   "en": "Take a look at these.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17981",
+   "en": "Normandy's power cells",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17982",
+   "en": "And with the power cells you brought, I can get this place up and running again. Thanks, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17983",
+   "en": "Thanks for getting me these power cells. Now, hopefully, I can get this damn thing working.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03b_DSG_LOC",
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17984",
+   "en": "I bet these things ignored the geth. Can't eat metal.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17985",
+   "en": "The varren probably did not recognize the geth as food. We, on the other hand, appear most appetizing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17986",
+   "en": "Xenogenic field manuals warn against triggering a food response in local predators. It appears we don't have a choice.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17987",
+   "en": "The geth ignored these beasts. Their only targets were the colony survivors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17988",
+   "en": "That should keep Fai Dan and the others safe. After an update we can head out for the main geth encampment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17989",
+   "en": "So, are we ready to roll out to wherever the geth are bunkered? Check in with Fai Dan, but I think we are done here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17990",
+   "en": "Now we can update Fai Dan and get a vehicle safely out of the Normandy. The geth base is our next objective.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17991",
+   "en": "We should update Fai Dan on the situation before we move on to wherever the geth are bunkered. He's the closest thing left to proper channels.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17992",
+   "en": "The geth will be back. Update Fai Dan, but don't take long. We should roll out the vehicle and find where the geth are bunkered.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17993",
+   "en": "And now to the geth base. Ready for anything, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17994",
+   "en": "All right, heading for the geth base. Let's take it to them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17995",
+   "en": "And now to the geth base. Not something an intelligent being would typically say.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17996",
+   "en": "And now to the geth base. Not something an intelligent mind expects to say.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17997",
+   "en": "And now to the geth base. Expect heavy resistance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17998",
+   "en": "Good view of where we need to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u17999",
+   "en": "Nice view of where we need to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18000",
+   "en": "A good vantage point showing out destination.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18001",
+   "en": "An optimal view of where we need to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18002",
+   "en": "A good view of where we need to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18003",
+   "en": "Careful. Smells like a slaughterhouse. Organic preds, not geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18004",
+   "en": "Ugh, what's that smell? Geth don't stink like that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18005",
+   "en": "Holy... it reeks down here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18006",
+   "en": "These tunnels have an odor much more... visceral than geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18007",
+   "en": "I smell... carrion. And lots of it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18008",
+   "en": "The local predators probably ignored the geth. Can't eat metal.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18009",
+   "en": "Fai Dan would probably like to know there are other survivors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18010",
+   "en": "I suppose we should tell Fai Dan about the others.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18011",
+   "en": "Should we alert Fai Dan to the other survivors? He is the acting leader here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18012",
+   "en": "Fai Dan should be told of the other survivors. He is acting leader, after all.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18013",
+   "en": "Fai Dan will be interested in the other survivors. As leader, I would be.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18014",
+   "en": "What is that? There's no way that's human, infection or not.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18015",
+   "en": "You got it, Commander. Let's do this.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18016",
+   "en": "Whatever you say, Commander. Let's do it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18017",
+   "en": "As you order, Commander Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18018",
+   "en": "Very well, Commander. Let's go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18019",
+   "en": "As you would have it, Commander Shepard. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18020",
+   "en": "Hold on. What about those nerve grenades? Can't we use them to disable the colonists?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18021",
+   "en": "I hear that, but what about those nerve grenades we jury-rigged with Baynham?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18022",
+   "en": "Are we abandoning the nerve grenades we received from Dr. Baynham?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18023",
+   "en": "We did acquire nerve grenades from Dr. Baynham. Do you want us to use them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18024",
+   "en": "What about the nerve grenades we acquired? We could potentially incapacitate the colonists.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18025",
+   "en": "Very well, Commander. If that's what you want.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18026",
+   "en": "All right. It's too bad there's no other way. They can't help themselves.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18027",
+   "en": "It is regrettable, but if you say there is no other option, that is just the way it is.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18028",
+   "en": "Very well. It is regrettable, but it is your decision.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18029",
+   "en": "It's a shame there is no other way. Their actions are not their own.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18030",
+   "en": "What the hell was that? I don't know what that plant does to people, but that's not human.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18031",
+   "en": "No amount of infection could have altered a human to that extent. I wonder what is going on here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18032",
+   "en": "What was that creature? It certainly wasn't human.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18033",
+   "en": "That thing was not one of the colonists. No amount of infection could have done that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18034",
+   "en": "No hitting the colonists, even if the Thorian makes them fire on us. That's what the gas grenades are for.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18035",
+   "en": "Fire if you have to, but let's try to keep casualties to a minimum. They can't help themselves. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18036",
+   "en": "I want a clean sweep. Nothing hostile lives to take a second shot.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18037",
+   "en": "All right. Try not to tag the colonists, but we have to get through no matter what.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18038",
+   "en": "We don't have time to waste on these people. There's a galaxy at stake.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18039",
+   "en": "Careful. Leave the colonists.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18040",
+   "en": "Try to avoid the colonists.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18041",
+   "en": "Wipe everything out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18042",
+   "en": "Fine, but don't take chances.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18043",
+   "en": "We can't take the chance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18044",
+   "en": "They are definitely protecting the Borealis. We've got to move one of those cargo blocks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18045",
+   "en": "They are all over the Borealis. Let's move one of the cargo blocks and see what crawls out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18046",
+   "en": "It is clear that they are protecting the Borealis. We have got to move one of those cargo blocks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18047",
+   "en": "They are definitely protecting the ship, Commander. We've got to move one of those cargo blocks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18048",
+   "en": "They definitely want to keep us from the ship. We've got to move one of those cargo blocks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18049",
+   "en": "There's the crane. Can you make sense of the controls, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18050",
+   "en": "There's the controls for the crane, Commander. Can you make sense of them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18051",
+   "en": "There are the controls for the crane, Commander Shepard. Can you make sense of them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18052",
+   "en": "There's the crane, Commander. Can you make sense of the controls?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18053",
+   "en": "There's the target, Shepard. Can you make sense of the controls?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18054",
+   "en": "They're definitely bunkered around the Borealis. We've gotta move one of its cargo blocks once we're topside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18055",
+   "en": "Yeah, they're bunkered around the Borealis up there. We've got to move one of its cargo blocks once we're topside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18056",
+   "en": "The colonists are clustered around the Borealis. It may be difficult to move one of its cargo blocks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18057",
+   "en": "They are definitely bunkered around the Borealis. We've got to move one of its cargo blocks once we're topside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18058",
+   "en": "They are bunkered around the Borealis. We'll have to move one of its cargo blocks once we're topside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03c_DSG_LOC",
+    "BIOA_WAR20_05_DSG_LOC",
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18059",
+   "en": "Commander. I was told to make my supplies available to you, if you wish.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18060",
+   "en": "Of course. I may be able to provide a few interesting items.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18061",
+   "en": "A well-stocked freighter can be a profitable investment on a new colony.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18062",
+   "en": "But once I was here, I decided to stay on. The colony life grows on you after a while.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18063",
+   "en": "Yes, good luck.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18064",
+   "en": "Is there something I can do for you? I am told to make all my goods available.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18065",
+   "en": "I never thought I would be so thrilled to see a soldier.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18066",
+   "en": "Forgive my previous inaction, but under the Thorian's influence, every thought was examined and filtered.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18067",
+   "en": "Of course. Return in the future and I may even have more to see.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18068",
+   "en": "I'll show you what I have, but don't expect me to restock. I'm leaving as soon as the next transport comes in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18069",
+   "en": "I may stay, try to recover my losses. I can have new supplies delivered within weeks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18070",
+   "en": "Perhaps the colony will survive after all.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18071",
+   "en": "Feros is a lost cause for a common trader like me. There are better markets on any number of worlds.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18072",
+   "en": "I wish you well in your future efforts.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18073",
+   "en": "Greetings. What can I do for you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18074",
+   "en": "What's a salarian doing on a human colony?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18075",
+   "en": "How do you keep things in stock in conditions like this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18076",
+   "en": "Let me see what you have in stock.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18077",
+   "en": "What will you do now that the fighting is over?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18078",
+   "en": "What do you have for sale?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18079",
+   "en": "What are your plans now?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18080",
+   "en": "Stock",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18081",
+   "en": "My full name is Gorot II Heranon Mal Dinest Got Inoste Ledra.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18082",
+   "en": "Humans usually employ surname and given name only: Inoste and Ledra in my case.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18083",
+   "en": "What's your name, salarian?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18085",
+   "en": "My list of consumers has shrunk significantly since the attacks, and few of those have time for \"shopping\".",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18086",
+   "en": "We are named for our origins. Gorot II is my homeworld; Heranon, my clan's country. Mal Dinest and Got are the city and district where I live.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18087",
+   "en": "Why is your name so long?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18088",
+   "en": "Long enough?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18089",
+   "en": "I fear the geth will kill us all.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18090",
+   "en": "I'm not a fighter. I'm a merchant.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18091",
+   "en": "This is not a safe place.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18092",
+   "en": "Left unchecked, the geth will soon overwhelm us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18093",
+   "en": "This salarian goes where the credits are. Or I did.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18094",
+   "en": "A fascinating place, by all accounts. Though the geth have made it treacherous.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18095",
+   "en": "You might like it here too, if you gave it chance, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18096",
+   "en": "I never thought I'd stay in one place for long, but here.... I will stay here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18097",
+   "en": "I can't give you an answer to that, Commander. At least not one that you would comprehend.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18098",
+   "en": "Why not try asking Fai Dan? Maybe he can tell you what I can't.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18099",
+   "en": "What can you tell me about Zhu's Hope?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18100",
+   "en": "This place is barely holding together. Why stay here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC",
+    "BIOA_WAR20_03e_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18101",
+   "en": "Head to the tunnels. Make sure they're secure.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18102",
+   "en": "But... what if I find geth there?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18103",
+   "en": "Are you saying you won't go?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18104",
+   "en": "No! I'll go. I'll... go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18105",
+   "en": "But... I don't know how to use a gun.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18106",
+   "en": "Beat them with the end of it if you have to.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18107",
+   "en": "Just don't let those geth get by you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03d_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18108",
+   "en": "We've got geth in the tower.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18109",
+   "en": "The tower's secure. Thanks to you, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18110",
+   "en": "It's the company most of us worked for before the attacks. They fund this colony.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18111",
+   "en": "If you want answers, go ask them yourselves.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18112",
+   "en": "Commander? What can I do for you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18113",
+   "en": "The geth fighters are too dangerous. And I won't be driven off this world. It is... our home.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18114",
+   "en": "Help me find what the geth are after and you'll all get out of here alive.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18115",
+   "en": "Tell me about your colony.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18116",
+   "en": "What can you tell me about the defenses the geth have set up?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18117",
+   "en": "I'll talk to you when I learn more.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18118",
+   "en": "How do I get there?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18119",
+   "en": "What's ExoGeni?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18120",
+   "en": "Tell me what the geth want. Why are they attacking you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18121",
+   "en": "The Normandy isn't huge, but we could airlift you out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18122",
+   "en": "Life is hard and often brutal, even without our current problems.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18123",
+   "en": "But, despite everything, there's something tranquil about this place. Unlike anything I've experienced before.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18124",
+   "en": "We were nearly a thousand at the main site. Two hundred more at my outpost.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18125",
+   "en": "There is a chance for growth here that is simply not available on other worlds.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18126",
+   "en": "I don't have any details, but I'll wager it's a lot more fortified than the command post.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR20_03f_DSG_LOC",
+    "BIOA_WAR20_13_DSG_LOC"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/015",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u20452",
+   "en": "Increases Singularity's radius to 7.25 m",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20453",
+   "en": "Barrier\n\nBolsters your shields with a biotic barrier that will absorb up to 400 points of damage\nWill not block attacks that bypass shields\n\nDuration: 10 sec\nRecharge Time: 60 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20454",
+   "en": "Increases Barrier duration to 10.5 sec and shielding to 420",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20455",
+   "en": "Increases Barrier duration to 11 sec and shielding to 440",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20456",
+   "en": "Increases Barrier duration to 11.5 sec and shielding to 460",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20457",
+   "en": "Increases Barrier duration to 12 sec and shielding to 480",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20458",
+   "en": "Increases Barrier duration to 12.5 sec and shielding to 500",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20459",
+   "en": "Advanced Barrier\n\nBarrier will absorb up to 700 points of damage\nImproves the recharge time and accuracy cost\n\nDuration: 16.5 sec\nRecharge Time: 50 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20460",
+   "en": "Increases Barrier duration to 17 sec and shielding to 720",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20461",
+   "en": "Increases Barrier duration to 17.5 sec and shielding to 740",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20462",
+   "en": "Increases Barrier duration to 18 sec and shielding to 760",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20463",
+   "en": "Increases Barrier duration to 18.5 sec and shielding to 780",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20464",
+   "en": "Master Barrier\n\nBolsters your shields with a biotic barrier that will absorb up to 1000 points of damage\n\nDuration: 23 sec\nRecharge Time: 40 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20465",
+   "en": "Stasis\n\nMakes the target unable to move or attack, but also immune to damage\nSquad members will not use Stasis unless it is selected from the Power Wheel\n\nDuration: 12.5 s\nRecharge Time: 60 s\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20466",
+   "en": "Increases Stasis' duration to 13 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20467",
+   "en": "Increases Stasis' duration to 13.5 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20468",
+   "en": "Increases Stasis' duration to 14 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20469",
+   "en": "Increases Stasis' duration to 14.5 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20470",
+   "en": "Advanced Stasis\n\nImproves the recharge time\n\nDuration: 17 sec\nRecharge Time: 50 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20471",
+   "en": "Increases Stasis' duration to 17.5 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20472",
+   "en": "Increases Stasis' duration to 18 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20473",
+   "en": "Increases Stasis' duration to 18.5 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20474",
+   "en": "Increases Stasis' duration to 19 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20475",
+   "en": "Increases Stasis' duration to 19.5 seconds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20476",
+   "en": "Master Stasis\n\nImproves the recharge time\n\nDuration: 21 sec\nRecharge Time: 40 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20477",
+   "en": "Overload\n\nCan use electronics skill on easy objects\n\nDoes 50 damage in a 6 m radius\nDoes 200 damage to enemy shields\nMakes them 20% more vulnerable to damage for 10 sec\n\nRecharge Time: 60 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20478",
+   "en": "Increases shield capacity by 30\nRestores 400 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20479",
+   "en": "Increases shield capacity by 60\nRestores 600 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20480",
+   "en": "Increases shield capacity by 90\nRestores 800 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20481",
+   "en": "Advanced Overload\n\nCan use electronics skill on average objects\n\nDoes 100 damage in a 8 m radius\nDoes 400 damage to enemy shields\nMakes them 25% more vulnerable to damage for 10 sec\n\nRecharge Time: 50 s\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20482",
+   "en": "Increases shield capacity by 120\nRestores 1200 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20483",
+   "en": "Increases shield capacity by 150\nRestores 1400 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20484",
+   "en": "Increases shield capacity by 180\nRestores 1600 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20485",
+   "en": "Master Overload\n\nCan use electronics skill on hard objects\n\nDoes 150 damage in a 10 m radius\nDoes 600 damage to enemy shields\nMakes them 30% more vulnerable to damage for 10 sec\n\nRecharge Time: 40 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20486",
+   "en": "Increases shield capacity by 210\nRestores 2000 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20487",
+   "en": "Increases shield capacity by 240\nRestores 2200 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20488",
+   "en": "Increases shield capacity by 270\nRestores 2400 extra hull during vehicle repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20489",
+   "en": "Damping\n\nDoes 50 damage in a 6 m radius\nEnemies cannot use biotic/tech abilities for a short period (adds 30% cooldown time)\nStuns basic enemies for 3 sec\n\nRecharge Time: 60 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20490",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20491",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 14%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20492",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 18%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20493",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20494",
+   "en": "Advanced Damping\n\nDoes 100 damage in a 8 m radius\nEnemies cannot use biotic/tech abilities for a short period (adds 45% cooldown time)\nStuns most enemies for 3 sec\n\nRecharge Time: 50 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20495",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20496",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 24%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20497",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 26%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20498",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 28%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20499",
+   "en": "Increases the radius of Sabotage, Overload, and Damping by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20500",
+   "en": "Master Damping \n\nDoes 100 damage in a 10 m radius\nEnemies cannot use biotic/tech abilities for a short period (adds 60% cooldown time)\nStuns all but the toughest enemies for 3 sec\n\nRecharge Time: 40 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20501",
+   "en": "AI Hacking\n\nTemporarily drives basic robotic enemies berserk so they will attack anything nearby, including their former allies\n\nDuration: 20 sec\nRecharge Time: 60 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20502",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20503",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20504",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 12%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20505",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20506",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 18%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20507",
+   "en": "Advanced AI Hacking\n\nHack will now work on more advanced robotic enemies\n\nDuration: 25 sec\nRecharge Time: 50 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20508",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 21%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20509",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 24%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20510",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 27%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20511",
+   "en": "Lowers the recharge time of Sabotage, Overload, and Damping by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20512",
+   "en": "Master AI Hacking\n\nDrives all but the toughest robotic enemies berserk\n\nDuration: 30 sec\nRecharge Time: 40 sec\nAccuracy Cost: 80%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20513",
+   "en": "Sabotage\n\nCan use decryption skill on easy objects\n\nDoes 50 damage  in a 6 m radius\nOverheats enemy weapons\nBurns them for 2 damage per second\n\nDuration: 15 sec\nRecharge Time: 60 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20514",
+   "en": "Increases the tech mine explosion damage done by Sabotage, Damping, and EMP by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20515",
+   "en": "Increases the tech explosion damage by 14%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20516",
+   "en": "Increases the tech explosion damage by 18%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20517",
+   "en": "Advanced Sabotage\n\nCan use decryption skill on average objects\n\nDoes 100 damage in a 8 m radius\nOverheats enemy weapons\nBurns them for 3 damage per second\n\nDuration: 20 sec\nRecharge Time: 50 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20518",
+   "en": "Increases the tech explosion damage by 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20519",
+   "en": "Increases the tech explosion damage by 22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20520",
+   "en": "Increases the tech explosion damage by 24%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20521",
+   "en": "Master Sabotage\n\nCan use decryption skill on hard objects\n\nDoes 150 damage in a 10 m radius\nOverheats enemy weapons\nBurns them for 4 damage per second\n\nDuration: 25 sec\nRecharge Time: 40 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20522",
+   "en": "Increases the tech explosion damage by 26%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20523",
+   "en": "Increases the tech explosion damage by 28%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20524",
+   "en": "Reduces the recharge time on First Aid by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20525",
+   "en": "Reduces the recharge time on First Aid by 21%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20526",
+   "en": "Reduces the recharge time on First Aid by 26%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20527",
+   "en": "Reduces the recharge time on First Aid by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20528",
+   "en": "Advanced Neural Shock\n\nKnocks out an organic enemy for 3 sec\nInflicts 80 toxic damage\n\nRecharge Time: 45 sec\nAccuracy Cost: 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20529",
+   "en": "Reduces the recharge time on First Aid by 36%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20530",
+   "en": "Reduces the recharge time on First Aid by 39%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20531",
+   "en": "Reduces the recharge time on First Aid by 42%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20532",
+   "en": "Reduces the recharge time on First Aid by 45%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20533",
+   "en": "Reduces recharge time on Sabotage, Overload, Damping, AI Hacking, Neural Shock, and First Aid by 4%\nIncreases tech protection by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20534",
+   "en": "Reduces the recharge time on Throw, Lift, Warp, Singularity, Barrier and Stasis by 4%\nIncreases your biotic protection by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20535",
+   "en": "Reduces heat buildup on pistols and sniper rifles by 5%\nIncreases the tech mine explosion damage of Sabotage, Overload, and Damping by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20536",
+   "en": "Reduces the cooldown time of Throw, Lift, Barrier and Stasis by 3%\nReduces the cooldown time of Sabotage, Overload, First Aid and Neural Shock by 3%\nIncreases pistol damage by 2%\nIncreases pistol accuracy by 4%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20537",
+   "en": "Increases biotic protection by 6%\nIncreases pistol and shotgun damage by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20538",
+   "en": "Reduces the recharge time on all tech talents by 6%\nIncreases tech protection by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20539",
+   "en": "Reduces the recharge time on all tech talents by 8%\nIncreases tech protection by 12%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20540",
+   "en": "Reduces the recharge time on all tech talents by 10%\nIncreases tech protection by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20541",
+   "en": "Reduces the recharge time on all tech talents by 12%\nIncreases tech protection by 18%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20542",
+   "en": "Reduces the recharge time on all tech talents by 14%\nIncreases tech protection by 21%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20543",
+   "en": "Reduces the recharge time on biotic talents by 6%\nIncreases your biotic protection by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20544",
+   "en": "Reduces the recharge time on biotic talents by 8%\nIncreases your biotic protection by 12%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20545",
+   "en": "Reduces the recharge time on biotic talents by 10%\nIncreases your biotic protection by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20546",
+   "en": "Reduces the recharge time on biotic talents by 12%\nIncreases your biotic protection by 18%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20547",
+   "en": "Reduces the recharge time on biotic talents by 14%\nIncreases your biotic protection by 21%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20548",
+   "en": "Reduces heat buildup on pistols and sniper rifles by 6%\nIncreases tech explosion damage by 7%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20549",
+   "en": "Reduces heat buildup on pistols and sniper rifles by 7%\nIncreases tech explosion damage by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20550",
+   "en": "Reduces heat buildup on pistols and sniper rifles by 8%\nIncreases tech explosion damage by 11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20551",
+   "en": "Reduces heat buildup on pistols and sniper rifles by 9%\nIncreases tech explosion damage by 13%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20552",
+   "en": "Reduces heat buildup on pistols and sniper rifles by 10%\nIncreases tech explosion damage by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20553",
+   "en": "Reduces the cooldown time of biotic and tech talents by 5%\nIncreases pistol damage by 4%\nIncreases pistol accuracy by 7%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20554",
+   "en": "Reduces the cooldown time of biotic and tech talents by 7%\nIncreases pistol damage by 6%\nIncreases pistol accuracy by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20555",
+   "en": "Reduces the cooldown time of biotic and tech talents by 8%\nIncreases pistol damage by 8%\nIncreases pistol accuracy by 13%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20556",
+   "en": "Reduces the cooldown time of biotic and tech talents by 9%\nIncreases pistol damage by 10%\nIncreases pistol accuracy by 16%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20557",
+   "en": "Marksman\n\nOnly available when using pistols\nBoosts accuracy 60%, increases rate of fire 1 round/sec, reduces heat 30% to compensate\n\nDuration: 10s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20558",
+   "en": "Increases biotic protection by 9%\nIncreases pistol and shotgun damage by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20559",
+   "en": "Increases biotic protection by 12%\nIncreases pistol and shotgun damage by 7%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20560",
+   "en": "Increases biotic protection by 15%\nIncreases pistol and shotgun damage by 8%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20561",
+   "en": "Increases biotic protection by 18%\nIncreases pistol and shotgun damage by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20562",
+   "en": "Increases biotic protection by 21%\nIncreases pistol and shotgun damage by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20563",
+   "en": "Reduces recharge time on all Biotics by 4%\nFirst Aid heals an additional 20 points of damage\nReduces recharge time on First Aid by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20564",
+   "en": "Reduces recharge time on all Biotics by 6%\nFirst Aid heals an additional 30 points of damage\nReduces recharge time on First Aid by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20565",
+   "en": "Reduces recharge time on all Biotics by 8%\nFirst Aid heals an additional 40 points of damage\nReduces recharge time on First Aid by 16%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20566",
+   "en": "Reduces recharge time on all Biotics by 10%\nFirst Aid heals an additional 50 points of damage\nReduces recharge time on First Aid by 23%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20567",
+   "en": "Reduces recharge time on all Biotics by 12%\nFirst Aid heals an additional 60 points of damage\nReduces recharge time on First Aid by 31%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20568",
+   "en": "Reduces recharge time on all Biotics by 14%\nFirst Aid heals an additional 70 points of damage\nReduces recharge time on First Aid by 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20569",
+   "en": "Reduces recharge time on all Biotics by 14%\nFirst Aid heals an additional 70 points of damage\nReduces recharge time on First Aid by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20570",
+   "en": "Regenerates 3 health per sec\nIncreases melee damage by 50%\nIncreases resistance to physics forces by 25%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20571",
+   "en": "Regenerates 3.5 health per sec\nIncreases melee damage by 75%\nIncreases resistance to physics forces by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20572",
+   "en": "Regenerates 4 health per sec\nIncreases melee damage by 100%\nIncreases resistance to physics forces by 35%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20573",
+   "en": "Regenerates 4.5 health per sec\nIncreases melee damage by 125%\nIncreases resistance to physics forces by 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20574",
+   "en": "Regenerates 5 health per sec\nIncreases melee damage by 150%\nIncreases resistance to physics forces by 45%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20575",
+   "en": "Regenerates 5.5 health per sec\nIncreases melee damage by 175%\nIncreases resistance to physics forces by 50%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20576",
+   "en": "Improves accuracy with all weapons by 19%\nIncreases damage with assault and sniper rifles by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20577",
+   "en": "Increases tech resistance by 35%\nIncreases shield capacity by 210",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20578",
+   "en": "Improves accuracy with all weapons by 16%\nIncreases damage with assault and sniper rifles by 8%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20579",
+   "en": "Improves accuracy with all weapons by 4%\nIncreases damage with assault and sniper rifles by 4%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20580",
+   "en": "Improves accuracy with all weapons by 7%\nIncreases damage with assault and sniper rifles by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20581",
+   "en": "Improves accuracy with all weapons by 10%\nIncreases damage with assault and sniper rifles by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20582",
+   "en": "Improves accuracy with all weapons by 13%\nIncreases damage with assault and sniper rifles by 7%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20583",
+   "en": "Increases tech resistance by 10%\nIncreases shield capacity by 60",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20584",
+   "en": "Increases tech resistance by 15%\nIncreases shield capacity by 90",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20585",
+   "en": "Increases tech resistance by 20%\nIncreases shield capacity by 120",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20586",
+   "en": "Increases tech resistance by 25%\nIncreases shield capacity by 150",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20587",
+   "en": "Increases tech resistance by 30%\nIncreases shield capacity by 180",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20588",
+   "en": "Reduces the cooldown time of Throw, Lift, Barrier and Stasis by 3%\nReduces the cooldown time of Sabotage, Overload, First Aid and Neural Shock by 3%\nIncrease pistol damage by 2%\nIncrease pistol accuracy by 4%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20589",
+   "en": "Increases health by 18%\nIncreases damage protection by 6%\nStill provides Soldier talent bonuses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20590",
+   "en": "Increases health by 20%\nIncreases damage protection by 8%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20591",
+   "en": "Reduces the recharge time of Immunity by 25%\n\nIncreases health by 22%\nIncreases damage protection by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20592",
+   "en": "Increases health by 24%\nIncreases damage protection by 12%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20593",
+   "en": "Increases health by 26%\nIncreases damage protection by 14%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20594",
+   "en": "Reduces the recharge time on Adrenaline Burst by 25%\n\nIncreases health by 28%\nIncreases damage protection by 16%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20595",
+   "en": "Increases health by 4%\nIncreases damage protection by 6%\nStill provides Vanguard talent bonuses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20596",
+   "en": "Increases health by 6%\nIncreases damage protection by 8%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20597",
+   "en": "Increases Barrier strength and duration by 25%\nBarrier will regen 40 shields per sec\n\nIncreases health by 8%\nIncreases damage protection by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20598",
+   "en": "Increases health by 10%\nIncreases damage protection by 12%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20599",
+   "en": "Increases health by 12%\nIncreases damage protection by 14%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20600",
+   "en": "Reduces the recharge time on Adrenaline Burst by 25%\n\nIncreases health by 14%\nIncreases damage protection by 16%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20601",
+   "en": "Increases damage with all weapons by 6%\nStill provides Soldier talent bonuses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

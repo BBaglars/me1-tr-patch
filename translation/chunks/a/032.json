@@ -1,0 +1,1510 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/032",
+  "family": "NOR10"
+ },
+ "entries": [
+  {
+   "key": "u08080",
+   "en": "One of my sisters.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08081",
+   "en": "Uh, I should be inspecting my firearm.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08082",
+   "en": "No, sir. You don't.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08083",
+   "en": "Sorry about that. It won't happen again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08084",
+   "en": "Until I get home and kill her.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08085",
+   "en": "That's Sarah. The youngest.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08086",
+   "en": "Surprised to see you here, sir. Thought you'd be chatting up what's-her-name. T'Soni.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08087",
+   "en": "It's not. I just thought we were getting along pretty well. Sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08088",
+   "en": "No worries, sir. Probably for the best anyway. The regs frown on fraternization.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08089",
+   "en": "I read you, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08090",
+   "en": "I won't keep you any more. Have fun. Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08091",
+   "en": "Hmm. All right. But I'm the jealous type, Commander. Just so you know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08092",
+   "en": "Scuttlebutt says you've got a bit of thing for her.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08093",
+   "en": "I could understand why. The crew's off-limits, with the regs against fraternization. And at least she looks like a woman.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08094",
+   "en": "So you are interested in her.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08095",
+   "en": "'Course, it could just be politics. Alien diplomat's daughter? Us under orders to make nice with the bug-eyed monsters?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08096",
+   "en": "What's up? You didn't come by to eavesdrop on family mail.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08097",
+   "en": "Sorry, Commander. Too much in the family mindset. My sisters and I have always been close.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08098",
+   "en": "Yeah, we've always been close. Me and my sisters, especially.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08099",
+   "en": "With Dad on duty so much, I had to help Mom raise them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08100",
+   "en": "Yeah. I'm the oldest, then Abby, then Lynn. Sarah's the youngest. She's still in high school.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08101",
+   "en": "With four girls, Dad used to say he felt more outnumbered at home than on maneuvers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08102",
+   "en": "Yeah. Took any crap posting he could get that offered space time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08103",
+   "en": "He worked his ass off trying to get recognized. But he never got above Serviceman Third Class.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08104",
+   "en": "I hope we can get the Council to give us a hand, skipper.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08105",
+   "en": "Alenko-- the lieutenant. I'd hate to think his loss meant nothing. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08106",
+   "en": "I'd hate to think we nuked a perfectly nice world for nothing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08107",
+   "en": "Hey, skipper. Seems like everything's coming together.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08108",
+   "en": "After what we saw on Virmire, it better come together.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08109",
+   "en": "Alenko-- the lieutenant. I'd hate to think his loss meant nothing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08110",
+   "en": "If we get Udina on our side, he'll tell the Council to take a flying leap. If necessary.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08111",
+   "en": "How you holding up, skipper?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08112",
+   "en": "I hate being right.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08113",
+   "en": "Hey, Commander. Guess everything's gonna hit the fan soon, huh?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08114",
+   "en": "Sure. I was hoping to get a minute of your time. Off the record.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08115",
+   "en": "Sure. I was just watching some mail from home.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08116",
+   "en": "All right? You mean, did you break my heart?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08117",
+   "en": "Just use, uh, protection. Tinfoil hat, maybe?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08118",
+   "en": "We've got a hard fight ahead.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08119",
+   "en": "You mean the rachni, right?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08120",
+   "en": "Kinda wish you'd got there sooner, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08121",
+   "en": "I keep an open-door policy. If you have any concerns, lay them on me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08122",
+   "en": "It's not normal for an enlisted to speak informally with the commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08123",
+   "en": "Is this duty-related, Chief?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08124",
+   "en": "They may not serve the Alliance, Chief, but they're allies. At least as far as Saren goes.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08125",
+   "en": "He may not serve the Alliance, Chief, but he's an ally. At least as far as Saren goes.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08126",
+   "en": "You don't trust their motives because they're not human.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08127",
+   "en": "You don't trust his motives because he's not human.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08128",
+   "en": "Don't mince words, Chief. What's your concern?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08129",
+   "en": "You don't trust the Alliance's allies?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08130",
+   "en": "That's enough, Chief. You always second-guess your superiors?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08131",
+   "en": "I share your concerns, Chief. But I'm under orders.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08132",
+   "en": "I'm not going to lock them in sleeper pods for the whole trip, Williams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08133",
+   "en": "I'm not going to lock him in a sleeper pod for the whole trip, Williams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08134",
+   "en": "Standing up for ourselves doesn't mean standing alone.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08135",
+   "en": "I trust that's not insubordination I hear.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08136",
+   "en": "How do you get from \"relying on ourselves\" to \"mistreating our allies?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08137",
+   "en": "You've got a pessimistic view of the universe, Williams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08138",
+   "en": "The Council's had a grudge against us since the First Contact War.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08139",
+   "en": "I don't see that as inevitable.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08140",
+   "en": "These seem like deeply-held beliefs, Williams. What made you think this way?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08141",
+   "en": "This is an Alliance warship, not the Parliament floor. If you're \"Earth first,\" vote for the Terra Firma Party.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08142",
+   "en": "You sound like one of those Terra Firma Party pamphlets, Chief.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08143",
+   "en": "I come from a military family, too. My parents were both navy. Anybody in your family we might know?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08144",
+   "en": "I never knew my family. Grew up an orphan on Earth. Anybody in your family I'd have heard of?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08145",
+   "en": "You're lucky. I lost my family on Mindoir. Are you related to anyone I'd have heard of?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08146",
+   "en": "I don't think they meant to start a family tradition. But after sixteen years on ships and stations, how could I spend my life on the ground?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08147",
+   "en": "I saw a lot of people die. I can't sit back and let things like that happen.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08148",
+   "en": "Mainly, I wanted to serve. Protect the Alliance, save lives. You know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08149",
+   "en": "No. The future of humanity is out here. There's so much we haven't seen yet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08150",
+   "en": "Don't tell me you had Gunny Ellison. He's the only one who uses that word to describe shirking duty.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08151",
+   "en": "I'm here to put hypervelocity rounds through the heads of bad guys.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08152",
+   "en": "Earth's seen better days. Lots of pollution, too many people. People are trying to fix it, but...",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08153",
+   "en": "It doesn't sound like you've worked with aliens before. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08154",
+   "en": "Guess you make a habit of second-guessing your superiors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08155",
+   "en": "That's odd. Your record is spotless, and your technical scores are exemplary. You should be serving with the fleet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08156",
+   "en": "I expect you to keep your family politics to yourself, Chief. This mission will be difficult enough without you picking fights with aliens.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08157",
+   "en": "All right. I can see where your concerns are coming from, Williams. But this is a multilateral mission. You're going to have to work with aliens, like it or not.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08158",
+   "en": "I don't think kissing turians will be necessary.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08159",
+   "en": "Would you kiss anyone I ordered you to?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08160",
+   "en": "I'm glad there won't be a problem.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08161",
+   "en": "Afraid I did.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08162",
+   "en": "We're in the middle of enemy territory, Chief. Don't you have better things to do than view mail from home?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08163",
+   "en": "I don't need to tell you it's inappropriate to gossip about how \"cute\" your commanding officer is.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08164",
+   "en": "Your sister, I assume?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08165",
+   "en": "I don't see how my personal life is any of your business, Chief.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08166",
+   "en": "I think I gave you the wrong impression.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08167",
+   "en": "Better than a commanding officer should with one of his crew.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08168",
+   "en": "We are. I'd like that to continue.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08169",
+   "en": "Liara? Why would you think that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08170",
+   "en": "You think I'm interested in Liara because she's the only one I'm allowed to date?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08171",
+   "en": "Chief, should you be that casual with your commanding officer?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08172",
+   "en": "Your family seems to be important to you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08173",
+   "en": "You have more than one sister? Sounds like a big family.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08174",
+   "en": "Did your father serve with the fleet?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08175",
+   "en": "Do you have a few minutes to talk, one-on-one?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08176",
+   "en": "Are you all right with Liara and I?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08177",
+   "en": "About Lieutenant Alenko. How are you holding up?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08178",
+   "en": "We'll talk later, Williams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08179",
+   "en": "Dismissed, Chief.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08180",
+   "en": "Not for a personal chat.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08181",
+   "en": "Because they're not Alliance?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08182",
+   "en": "Because he's not Alliance?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08183",
+   "en": "Because they're aliens?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08184",
+   "en": "Because he's an alien?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08185",
+   "en": "You don't trust aliens?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08186",
+   "en": "You're out of line!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08187",
+   "en": "My hands are tied.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08188",
+   "en": "I can't confine them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08189",
+   "en": "I can't confine him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08190",
+   "en": "We need allies.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08191",
+   "en": "Mind your words.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08192",
+   "en": "By mistrusting our allies?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08193",
+   "en": "How cynical.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08194",
+   "en": "Of course they will.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08195",
+   "en": "Not necessarily.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08196",
+   "en": "Why do you feel that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08197",
+   "en": "I've heard this before.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08198",
+   "en": "I understand your feelings.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08199",
+   "en": "Military family",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08200",
+   "en": "Your service",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08201",
+   "en": "Just shut up.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08202",
+   "en": "You have to work with aliens.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08203",
+   "en": "Wouldn't you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08204",
+   "en": "To serve the Alliance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08205",
+   "en": "To see space.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08206",
+   "en": "For the action.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08207",
+   "en": "\"Goldbricking?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08208",
+   "en": "You deserve better.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08209",
+   "en": "Stuck groundside, huh?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08210",
+   "en": "Just one rotation?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08211",
+   "en": "What about me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08212",
+   "en": "Remember that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08213",
+   "en": "This isn't the time for mail.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08214",
+   "en": "That's unprofessional.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08215",
+   "en": "A relative?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08216",
+   "en": "Liara?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08217",
+   "en": "Why's that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC",
+    "BIOA_NOR10_08liara_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08218",
+   "en": "I'm not interested in you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08219",
+   "en": "And that was a problem.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08220",
+   "en": "Does that have to change?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08221",
+   "en": "That's cold.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08222",
+   "en": "Is that what you think?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08223",
+   "en": "Tell me about your family.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08224",
+   "en": "Mind your protocol.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08225",
+   "en": "I didn't mean to.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08226",
+   "en": "Sisters",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08227",
+   "en": "Dad",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08228",
+   "en": "Can we talk?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08229",
+   "en": "About Kaidan",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/064",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u27240",
+   "en": "Classic Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27241",
+   "en": "Legendary Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27242",
+   "en": "Mouse Dampening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27243",
+   "en": "Code",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27244",
+   "en": "Camera",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27245",
+   "en": "Lens",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27246",
+   "en": "Color",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27247",
+   "en": "Effects",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27248",
+   "en": "Characters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27249",
+   "en": "Camera Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27250",
+   "en": "Orbit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27251",
+   "en": "Free",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27252",
+   "en": "Focal Length",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27253",
+   "en": "Enable Depth Of Field",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27254",
+   "en": "F-Stop",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27255",
+   "en": "Enable Film Grain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27256",
+   "en": "Enable Vignette",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27257",
+   "en": "Hide Player",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27258",
+   "en": "Hide Party",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27259",
+   "en": "Hide Enemies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27260",
+   "en": "Hide NPCs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27261",
+   "en": "Hide Vehicles",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27262",
+   "en": "Blur Strength",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27263",
+   "en": "Saturation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27264",
+   "en": "Contrast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27265",
+   "en": "Bloom Strength",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27266",
+   "en": "Bloom Threshold",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27267",
+   "en": "Tilt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27268",
+   "en": "Distance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27269",
+   "en": "TAKE PHOTO",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27270",
+   "en": "HIDE UI",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27271",
+   "en": "CLOSE",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27272",
+   "en": "CAMERA UP / DOWN",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27273",
+   "en": "Mark as Junk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27274",
+   "en": "Convert all Junk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27275",
+   "en": "Sell all Junk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27276",
+   "en": "Sort: ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27277",
+   "en": "Current Sort: ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27278",
+   "en": "Price",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27279",
+   "en": "HDR not detected",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27280",
+   "en": "Type",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27281",
+   "en": "Are you sure you want to sell all junk?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27282",
+   "en": "MOVE CAMERA",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27283",
+   "en": "Filters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27284",
+   "en": "Film Grain Strength",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27285",
+   "en": "<CUSTOM0>: <CUSTOM1>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27286",
+   "en": "Photo Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27287",
+   "en": "Thumb Mouse Button",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27288",
+   "en": "Thumb Mouse Button 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27289",
+   "en": "Copy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27290",
+   "en": "Paste",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27291",
+   "en": "ME3: EoR Talk Table DLC Module",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27292",
+   "en": "Press the cross button to Decrypt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27293",
+   "en": "Press the cross button to Use",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27294",
+   "en": "Press the cross button to Open",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27295",
+   "en": "Press the cross button to Close",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27296",
+   "en": "Press the cross button to Repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27297",
+   "en": "Press the cross button to Disable",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27298",
+   "en": "Profile reconstruction complete. Press [%Cross] to begin, or [%Circle] to go back.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27299",
+   "en": "Facial Customization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27300",
+   "en": "Press the cross button to show controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27301",
+   "en": "DUALSHOCK®4 wireless controller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27302",
+   "en": "Press START button",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27303",
+   "en": "Move the left stick to highlight a reply on the conversation wheel. Press [%Cross] to select.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27304",
+   "en": "Press the START button to access the Mission Computer and view Journal and Codex entries.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27305",
+   "en": "The Mission Computer accesses your journal, map, and other important screens.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27306",
+   "en": "The Equipment screen allows you to view, equip, and upgrade gear for each member of your squad. Press the left button or right button to cycle between weapons, armor, and other base item types. Press the up button or down button to view available models of each base item type, displayed in the Selected Item pane. Press [%Cross] to switch an Equipped Item with the Selected Item. The square button allows you to install or switch upgrades on an Equipped item. The triangle button dismantles a Selected Item, breaking it down into omni-gel for later use. The item is gone forever.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27307",
+   "en": "The Squad screen lets you view talents for each squad member. Press the up button or down button to view general descriptions of a talent. Press the left button or right button to view details of each rank in a talent. Press [%Cross] to spend points and gain ranks in the selected talent. Note: character level limits how many ranks you can have in a given talent. Each time you gain a level you unlock another rank and gain more points to spend. Use the directional buttons now to view descriptions for your talents.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27308",
+   "en": "Press the square button to draw your weapon.  Press the circle button to holster your weapon.  Press the square button to draw your weapon now.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27309",
+   "en": "Press [%R2] to fire. Fire in short bursts for maximum accuracy and damage. Firing too quickly causes weapons to overheat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27310",
+   "en": "Press [%L2] to zoom. Zooming increases accuracy and damage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27311",
+   "en": "Press and hold [%L1] to switch weapons for your squad.  This pauses the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27312",
+   "en": "Press and hold [%L1] and move the left stick to switch weapons. Press [%Cross] to select.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27313",
+   "en": "Press the triangle button to heal injured members of your squad. Each use consumes one unit of medi-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27314",
+   "en": "During combat, Storm lets you sprint at high speed for short distances. Press and hold the cross button while moving to Storm.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27315",
+   "en": "Press the up button to send your squad ahead. Then press the left button to call them back.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27316",
+   "en": "You must be in combat mode to take cover. (Press the square button to enter combat mode.)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27317",
+   "en": "Move to the edge of the rock and press [%L2] to pop out and zoom from behind cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27318",
+   "en": "To leave cover, use [%LeftStick] to move in a direction away from cover for one full second.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27319",
+   "en": "Press [%L3] to crouch/stand up. Crouch and approach low objects to take cover behind them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27320",
+   "en": "Press [%L2] to pop up and zoom from behind low cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27321",
+   "en": "Press the square button to randomize this feature or press [%Cross] to customize it.  Move the right stick to look around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27322",
+   "en": "Facial Customization\nUse the left stick to modify the features. Move the right stick to look around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27323",
+   "en": "Press the START button to access the Mission Computer, then select the Equipment screen. The Equipment screen lets you change or upgrade weapons, armor, and other gear for each member of your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27324",
+   "en": "Press the START button to access the Mission Computer, then select the Squad screen. As you gain levels, use the Squad screen to unlock powerful special abilities and improve your skill with weapons, tech, or biotics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27325",
+   "en": "Press the SELECT button to enter the Tactical Pause menu and map squad member abilities to the L1 button or R1 button.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27326",
+   "en": "Press [%R2] to fire the chain gun.\nPress [%R1] to fire the cannon.\nPress [%L2] to zoom.\nPress the cross button to fire jump jets.\nPress the square button to return to the Normandy from an uncharted world.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27327",
+   "en": "Use the directional buttons to issue tactical orders to your squad. The up button sends your squad forward. The down button orders them to seek cover and hold position. The left button rallies your squad so they regroup around you. The right button orders them to attack the selected target.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27328",
+   "en": "Press and hold [%R1] to bring up the Power Wheel and pause the game. The Power Wheel lets you use the powers and special abilities of your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27329",
+   "en": "While holding [%R1], use [%RightStick] to aim at a target and [%LeftStick] to highlight an ability on the Power Wheel. Press [%Cross] to select. You may have 1 power or ability selected for each squad member. Release [%R1] to unpause the game and use selected powers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27330",
+   "en": "Hold [%R1] to bring up the Power Wheel. Press the square button to quick-map one of Shepard's powers. Tap [%R1] to use the quick-mapped power.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27331",
+   "en": "Press the SELECT button to throw grenades. Wait for timed detonation or press the SELECT button again to detonate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27332",
+   "en": "Press the START button to access the Mission Computer, then go to the Squad screen to spend talent points for new squad members.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27333",
+   "en": "Use Zoom ([%L2]) to improve your accuracy during combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27334",
+   "en": "The Mako has two weapons: a heavy artillery cannon ([%R1]) and an automatic chain gun ([%R2]).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27335",
+   "en": "While in the Mako, you can look through the turret scope by pulling and holding [%L2].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27336",
+   "en": "Press the triangle button to repair the Mako. This uses omni-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27337",
+   "en": "Press the triangle button to use medi-gel and regain health during combat. Put points into the First Aid skill to increase the amount of health regained from each medi-gel use.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27338",
+   "en": "The Power Wheel lets you use your special abilities. Press [%R1] to bring up the Power Wheel during combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27339",
+   "en": "Tap [%L1] to equip your previous weapon without bringing up the Weapon Wheel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27340",
+   "en": "Tap [%R1] to activate your mapped power without bringing up the Power Wheel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27341",
+   "en": "The Weapon Wheel lets you switch weapon types in combat. Press and hold [%L1] to bring up the Weapon Wheel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27342",
+   "en": "Firing from a crouched position improves accuracy. Press [%L3] to crouch or stand.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27343",
+   "en": "Press the cross button to rifle-butt enemies at close range. Be careful: enemies can do the same to you, and some of them are far stronger than humans!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27344",
+   "en": "If you use a weapon you are not trained for, you will be VERY inaccurate. Remember to use [%L1] to bring up the Weapon Wheel if you want to switch weapons.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27345",
+   "en": "Use the directional buttons to issue orders to your squad. Press the up button to move forward; Press the down button to hold position; Press the left button to regroup; Press the right button to attack a targeted enemy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27346",
+   "en": "Press the up button to send your squad forward to a targeted location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27347",
+   "en": "Press the down button to have your squad hold position and seek cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27348",
+   "en": "Press the left button to rally your squad and have them regroup around you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27349",
+   "en": "Press the right button to have your squad attack the highlighted target.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27350",
+   "en": "Send your squad forward to a targeted location by pressing the up button.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27351",
+   "en": "Have your squad hold position and seek cover by pressing the down button.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27352",
+   "en": "Rally your squad and have them regroup around you by pressing the left button.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27353",
+   "en": "Order your squad to attack a targeted enemy by pressing the right button.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27354",
+   "en": "Press the square button to skip immediately to the next line of dialog during a conversation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27355",
+   "en": "Press [%Cross] to cue up your responses during dialog. You will reply as soon as the other person finishes talking.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27356",
+   "en": "Selecting a reply and pressing the square button will make Shepard respond immediately, cutting off the dialog of the other speaker.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27357",
+   "en": "Press [%R1] to bring up the Power Wheel and use the Shield Boost ability during combat to restore lost shields.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27358",
+   "en": "The Power Wheel lets you use your talents and powers. Press [%R1] to bring up the Power Wheel in combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27359",
+   "en": "While driving the mako, press the triangle button to repair any damage it may have sustained. This uses omnigel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27360",
+   "en": "Your radar will show the direction to a destination waypoint set on your map. Press [%Cross] on the Map screen to set a destination waypoint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27361",
+   "en": "You can only have one destination waypoint set on a map at any given time. Press [%Cross] on the Map screen to set a destination waypoint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27362",
+   "en": "SIXAXIS® wireless controller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27363",
+   "en": "Wireless Controller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27364",
+   "en": "Unable to authorize the listed DLC.\nPlease log in to the Alliance Network with the account used to purchase the DLC.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27365",
+   "en": "The following DLC modules were created for another build.\nPlease install or build the DLC for the version you are running.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27366",
+   "en": "The following downloadable content is corrupt and cannot be used.\nPlease re-download this downloadable content and try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27367",
+   "en": "The following DLC does not run in English.\nPlease download and install the English version.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27368",
+   "en": "<CUSTOM0>\n<CUSTOM1>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27369",
+   "en": "The following downloadable content is corrupt and cannot be used. Please check your download list and download the content again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27370",
+   "en": "Mass Effect Universe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27371",
+   "en": "By the year 2183, humankind has mastered the ability to travel across the galaxy at faster-than-light speeds, bringing them into contact with a host of alien races. Humanity must find its place this greater galactic community.\n\nAs Commander Shepard of the Systems Alliance Military, aboard the spacecraft Normandy, you represent humanity's first and last line of defense against the strange wonders of a vast and often dangerous galaxy. Your actions and decisions will determine the fate of the human race... and will shape the future of an entire galaxy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27372",
+   "en": "Getting Started",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27373",
+   "en": "Insert the game disk. When the Main Menu appears, choose Start New Career, and then press the cross button.\n\nEntering the Mission Computer database, you will reconstruct Commander Shepard's profile to confirm your identity.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27374",
+   "en": "Character Creation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27375",
+   "en": "You have two options when creating your character:\n\n1) Play as the default Commander Shepard and choose a first name. Your character class will be Soldier.\n\n2) Create a custom character, in which you control every detail.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27376",
+   "en": "Custom Character Creation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27377",
+   "en": "Start by typing a first name for Commander Shepard.\n\nNext, choose your custom character's history: Earthborn, Colonist, or Spacer. This choice represents the first of many that will affect how characters react to Commander Shepard during the game.\n\nYou can also customize Shepard's following attributes:\n- Pre-Service History\n- Psychological Profile\n- Character Class",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27378",
+   "en": "Character Classes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27379",
+   "en": "There are six base classes with variable strength in up to three areas for the player and two squadmates. Some classes concentrate all of their strength on one skill area; others divide it between two specialties for balance.\n\nCombat skills deal maximum damage to enemies. Tech skills allow for the decrypting of security systems to weaken enemy weapons. Biotic skills enable brain impulses to manipulate the physical world.\n\nSoldier: Combat Specialist\nThe Soldier is a tough warrior, able to deal with a range of combat situations. The Soldier gets improved health, has the widest selection of weapons, and is eventually able to wear heavy armor. Gameplay focus is on getting into the thick of the fight, picking the right weapon for tactical situations, and outlasting opponents.\n\nEngineer: Tech Specialist\nThe Engineer is a tech specialist, able to quickly and easily manipulate the environment with specific skills. Gameplay focus is on shaping the battlefield during combat, healing the party, and \"debuffing\" enemies (disabling weapons and lowering shields).\n\nAdept: Biotic Specialist\nThe Adept is the ultimate biotic, able to affect the physical world with the power of the mind. They can use biotics to violently manipulate objects in the environment, including nearby enemy targets. Gameplay focus is on disabling and debuffing enemies while dealing massive amounts of damage.\n\nInfiltrator: Combat/Tech\nThe Infiltrator is a tech-savvy warrior, able to win battles by quickly disabling and killing enemies. Gameplay focus is on unlocking alternate routes, gaining access to good equipment, and gaining an advantageous position over enemies in combat.\n\nVanguard: Biotic/Combat\nThe Vanguard is a powerful combatant, able to combine the offensive powers of the Adept and the Soldier. They have access to various weapons and armor, as well as biotic powers. Gameplay focus is on taking down enemies with quick and brutal force.\n\nSentinel: Biotic/Tech\nThe Sentinel is the most flexible class, able to combine tech and biotics to manipulate the environment, disable and attack enemies, or defend the party. Gameplay focus is on protecting the party by using kinetic barriers to shield and advanced medical training to heal.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27380",
+   "en": "Use the facial customization screen to create a unique face for your character. You can customize the entire face or focus on a specific area, such as the eyes or nose. Use the sliders in each section to adjust a range of facial details. Select \"Finalize\" to accept your changes.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27381",
+   "en": "Playing the Game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27382",
+   "en": "Conversation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27383",
+   "en": "The cinematic, choice-based dialog in Mass Effect lets you fine-tune your character and story using the conversation wheel at the bottom of your screen.\n\nChoices on the wheel’s left side let you explore the conversation in depth, while choices on the right tend to move the conversation to completion.\n\nThe top of the wheel typically corresponds to the Paragon path, where your character makes selfless, cooperative decisions. The bottom of the wheel generally corresponds to the Renegade path, where your\ncharacter is more aggressive and hostile.\n\nWhen you spend Talent points on Charm and Intimidate talents, new options appear on the wheel's left side that may help conversation outcomes later. Charm options appear in blue text. Intimidate options appear in red text.\n\nIn conversation, use the left stick to point to your response, and then press the cross button to have Shepard speak the line. As soon as the conversation wheel appears, you can select your response. Press the square button to interrupt or skip a line of dialog.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27384",
+   "en": "Non-Combat Hub",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27385",
+   "en": "As you progress through the game, you gain XP (experience points) by exploring new areas and engaging other characters in conversation.\n\nWhen you can interact with something or someone in the world, the blue focus symbol forms a circle inside it. Press the cross button to interact.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27386",
+   "en": "Press the START button to bring up the Mission Computer display. Use the left stick to point to an area on the display, and then press the cross button to select it. The Mission Computer lets you access game details for:\n\n- Equipment: View currently equipped weapons, armor, and other\nitems, and options for equipping new items.\n\n- Options: Set gameplay, controller, graphics, sound, and other options. Many of these options will affect gameplay difficulty and your visual experience, so be sure to review your choices.\n\n- Map: View your current location and points of interest.\n\n- Squad: See stats for Shepard and your squadmates.\n\n- Journal: View current and recent tasks.\n\n- Codex: Learn about the Mass Effect universe.\n\n- Save: Save your game in its current state and location.\n\n- Load: Load your saved and automatically saved games.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27387",
+   "en": "Mass Effect’s combat system allows for precise control and considered\ndecision-making.\n\nTo draw your weapon, press the square button. To holster your weapon, press the circle button.\n\nTo switch the weapon of any squad member, press and hold the L1 button to\nbrowse the available weapons. Use the left stick to point to your choice, and press the cross button to select it. Release the L1 button to return to the game.\n\nTo use special abilities for each squad member, press and hold the R1 button.\n\nTo choose an ability, use the left stick to highlight it, and then press the cross button to select it. Each squadmate\ncan have a single ability activated when in this view.\n\n(See the \"Combat Details\" section to learn more.)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27388",
+   "en": "Advancing Levels",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27389",
+   "en": "Level Up:\nCharacters can advance levels by accumulating XP, which you gain by overcoming enemies, using certain skills, and completing missions.\n\nThere is a single pool of XP for your entire squad. All squad actions feed into it, and all squadmates level up at the same time, including those back on the Normandy and not part of the active squad.\n\nLevel-Up Benefits:\nWhen your character earns a new level, you:\n1. Gain health - You can increase this amount through talents.\n2. Gain talent points - You can spend these points at any time to increase your rank.\n\nAuto Level and Undo Talent Points:\nPress the triangle button while on the Squad screen to automatically distribute talent points. If you wish to undo your choices,\npress the square button.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

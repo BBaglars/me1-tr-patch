@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/043",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u24145",
+   "en": "Head to the Armstrong Nebula cluster to investigate what the geth are up to.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24146",
+   "en": "Investigate Geth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24147",
+   "en": "You came across a missing person report on Noveria. A man named Garoth is concerned his brother and the ship he was on may have been attacked by privateers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24148",
+   "en": "Missing Person",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24149",
+   "en": "C-Sec is investigating a woman by the name of Helena Blake. They seem to think she is involved in some major criminal activities.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24150",
+   "en": "Person of Interest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24151",
+   "en": "The C-Sec report mentioned that Helena was last seen near the Emporium in the Financial District of the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24152",
+   "en": "Find Helena Blake",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24153",
+   "en": "Geth Fleet Report",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24154",
+   "en": "Glowing Orb",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24155",
+   "en": "Squad Lockers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24156",
+   "en": "Rentola",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24157",
+   "en": "Geth Frigate Landing Claw",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24158",
+   "en": "A colonial pioneer team rarely consists of more than a few dozen specialists. It's clear that none of them have survived. The Cerberus group has a lot to answer for here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24159",
+   "en": "Download Logs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24160",
+   "en": "Invalid Code. Sequence Reset.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24161",
+   "en": "Exogeni Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24162",
+   "en": "Toombs' corpse slumps to the floor. His face, pinched with rage just a few moments ago, appears peaceful.\n\nHe resolved the situation in his own way. You salute the corporal's body - he deserves that at least - and turn to leave.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24163",
+   "en": "Exit the Bunker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24164",
+   "en": "Armature Repair Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24165",
+   "en": "Armature Hacked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24166",
+   "en": "Diplomatic Archive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24167",
+   "en": "\"Welcome to the Presidium\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24168",
+   "en": "NAVMANUAL 0.7.4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24169",
+   "en": "Inspect",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24170",
+   "en": "Normandy Weapons",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24171",
+   "en": "Normandy Thrusters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24172",
+   "en": "\"Welcome to C-Sec\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24173",
+   "en": "Weapons Locker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24174",
+   "en": "Normandy Hull",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24175",
+   "en": "Freighter Crane Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24176",
+   "en": "\"Welcome to the Wards\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24177",
+   "en": "View of Nebula",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24178",
+   "en": "Control Panel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24179",
+   "en": "Mercenary Anti-Tank",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24180",
+   "en": "Mercenary Adept",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24181",
+   "en": "<CUSTOM0> - <CUSTOM1><CUSTOM2><CUSTOM3>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24182",
+   "en": "Controls are too complex and delicate to operate while in combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24183",
+   "en": "Save <CUSTOM0>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24184",
+   "en": "You discover evidence that the asari leading these slavers and Nassana Dantius, an important ambassador on the Citadel, are sisters! You should return to the Presidium and confront Nassana with this.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24185",
+   "en": "Download Evidence",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24186",
+   "en": "<CUSTOM0> <CUSTOM1>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24187",
+   "en": "Captain Anderson is waiting for you in the wards at Flux. He may be able to help you get off the Citadel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24188",
+   "en": "Meet With Anderson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24189",
+   "en": "Field Integrity Monitor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24190",
+   "en": "Core Charge Status",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24191",
+   "en": "Element Zero Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24192",
+   "en": "Ship's Armory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24193",
+   "en": "Asari Slaver",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24194",
+   "en": "M35 Mako",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24195",
+   "en": "Sleeper Pod",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24196",
+   "en": "NAVMANUAL 1.4.1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24197",
+   "en": "Point Defense Systems",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24198",
+   "en": "FTL Comm Link",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24199",
+   "en": "Personnel Manual",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24200",
+   "en": "Look Outside",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24201",
+   "en": "Viewport",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24202",
+   "en": "Gunnery Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24203",
+   "en": "Heat Load Monitor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24204",
+   "en": "Doctor Saleon's Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24205",
+   "en": "Scavenger",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24206",
+   "en": "Enter Mine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24207",
+   "en": "Archive Files",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24208",
+   "en": "You cautiously press a few buttons, and an alarm chimes - the optical database is flashing itself! Quickly, you copy as many files as you can to your hardsuit's internal computer.\n\nIts memory wiped, the computer shuts down. The files are sure to be encrypted, but you've got time to crack them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24209",
+   "en": "Exit Mine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24210",
+   "en": "The escaped rachni definitely came from this station, though the motives behind this \"Cerberus\" group are vague.\n\nTo prevent further contamination, arm the station's scuttle charges and evacuate to the Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24211",
+   "en": "Scavenger Corpse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24212",
+   "en": "The rachni infestation on Altahe seems to be the result of a supply drop from Argos Rho. The logs downloaded from the freighter should allow you to backtrack the ship's course to its origin.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24213",
+   "en": "Advanced Damping\n\nIncreases the radius and strength of Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24214",
+   "en": "Advanced Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24215",
+   "en": "Advanced Sabotage\n\nIncreases the radius and strength of Sabotage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24216",
+   "en": "Advanced Sabotage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24217",
+   "en": "As the last geth falls, you hear music from across the room. On the monitor, a quarian stands before a hushed crowd, warbling a mournful a capella of worlds and innocence lost. The recorded song is dispatched to the geth worlds behind the Perseus Veil. The transmitter shuts down.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24218",
+   "en": "Researchers Killed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24219",
+   "en": "Downloadable Weapon Name",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24220",
+   "en": "Downloadable weapon description.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24221",
+   "en": "The homeworld of the turians.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24222",
+   "en": "The homeworld of the asari.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24223",
+   "en": "Asari Intel Report",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24224",
+   "en": "Turian Intel Report",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24225",
+   "en": "7 PSI Valve",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24226",
+   "en": "5 PSI Valve",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24227",
+   "en": "A metal-rich asteroid.\nRadius: 118 km",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24228",
+   "en": "The Ontario is a Kowloon class modular conveyor of human design, configured for mixed freight and passenger hauling. It is making a hard burn for the cover of an asteroid cluster.\n\nRegistry: Private Owner, Citadel Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24229",
+   "en": "Insane Scientist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24230",
+   "en": "Biotic Terrorist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24231",
+   "en": "Biotic Terrorist Leader",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24232",
+   "en": "Darius Retainer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24233",
+   "en": "+10% Physics Threshold",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24234",
+   "en": "+15% Physics Threshold",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24235",
+   "en": "+20% Physics Threshold",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24236",
+   "en": "Close Shuttle Bay Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24237",
+   "en": "Activate Shuttle Bay Door Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24238",
+   "en": "Wrecked Mining Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24239",
+   "en": "The 'undersides' of the Wards, between the inhabited superstructures and impenetrable outer hull, are called the Foundations. These dangerous areas are filled with life support systems and power plants. Officially, only the keepers are allowed in the Foundations. In reality, the Foundations are the slums of the Citadel, home to criminals, minorities, transients, and occasional 'state-less' exiles. Some stay in the Foundations of their own will. Others end up there when the opportunities they sought in the Citadel do not come.\n\nThe station's recycling systems are located in the Foundations. These manufacture a variety of artificial organic pastes that can be eaten for sustenance. They are free and nutritious, but nearly tasteless and of unpleasant texture. Poorer Citadel residents quickly become adept at dressing up this bland fare with sauces and spices, while imported foodstuffs are a popular luxury of the wealthy.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24240",
+   "en": "Citadel Station: Foundations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24241",
+   "en": "In the 22nd century, manipulation of the human genome became commonplace. Techniques of genetic engineering advanced to the point where the rich could custom-build fetuses that grew into stronger, smarter, and more attractive adults. In more permissive regions, custom-designed life forms and 'uplifted' animals occupied an ill-defined niche between 'property' and 'sapient being'.\n\nTravel to planets with unique forms of life brought an awareness that Earth's unique biodiversity could be lost if spliced and hybridized to gain useful alien qualities. The Sudham-Wolcott Genetic Heritage Act was passed by the Systems Alliance Parliament in 2161. It imposed sharp restrictions on controversial uses of genetic engineering, but provided government subsidies for beneficial applications.\n\nSCREENING AND THERAPY: Most governments provide free assessments and corrective therapy for genetic diseases in prospective parents. This has nearly eliminated everything from cystic fibrosis to nearsightedness. The earlier screening and therapy is performed, the more comprehensive the results. Though ideally performed on artificially fertilized zygotes in a lab, procedures are available for embryos in the womb and newborns, out of respect for personal beliefs.\n\nENHANCEMENT: Improvement of natural human abilities is legal, but adding new abilities is not. Treatments to improve strength, reflexes, mental acuity, or appearance are permitted; adding a tail or the ability to digest cellulose is not. Some genetic enhancement is provided for free to Alliance military recruits, but the average citizen must pay for the privilege. The process can take years to reach fruition in an adult.\n\nENGINEERING: Artificial hybridization of genes from compatible non-human species with human genetic code is illegal. Creation of designed life is broadly legal (and mainly used for terraforming and medical applications), but sentient creatures are heavily regulated, and creation of sapient life is outlawed by both the Systems Alliance and the Citadel Council.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24242",
+   "en": "Genetic Engineering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24243",
+   "en": "Anti-Thorian Grenade Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24244",
+   "en": "Created On:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24245",
+   "en": "Level:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24246",
+   "en": "Alliance Rover",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24247",
+   "en": "The Javelin is an experimental close-assault weapon fitted on a handful of newer Alliance warships. It consists of a rack of two or more disposable disruptor torpedo tubes bolted or magnetically slung on to a ship's exterior armored hull. The torpedoes are fired on converging trajectories, and detonate in a precisely timed sequence that allows the dark energy emitted by their warheads to resonate. This magnifies the resulting space-time warp effects.\n\nJavelin mounts are most often fitted on swift frigates, which expect to enter 'knife fight' torpedo ranges as a matter of course. Javelins may also be fitted on heavier ships during short range engagements, such as trans-relay assaults. They are particularly useful in this role for dreadnoughts, which are unable to lay their main guns on targets at close range.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24248",
+   "en": "Weapons: Javelin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24249",
+   "en": "Dragon's Tooth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24250",
+   "en": "Missing Area Name",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24251",
+   "en": "Repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24252",
+   "en": "Manual Repair Success",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24253",
+   "en": "Manual Repair Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24254",
+   "en": "Manually Repairing...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24255",
+   "en": "Manual Repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24256",
+   "en": "Automatically repair for 100 omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24257",
+   "en": "SAREN'S AGENTS HAVE KILLED THE QUARIAN",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24258",
+   "en": "Unlock Rover",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24259",
+   "en": "Elevator presently out of service",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24260",
+   "en": "Damaged Hologram",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24261",
+   "en": "Unlock Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24262",
+   "en": "Vehicle Unlocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24263",
+   "en": "Vehicle Locked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24264",
+   "en": "Unlocking Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24265",
+   "en": "Geth Repair Drone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24266",
+   "en": "Low Stakes Quasar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24267",
+   "en": "Play",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24268",
+   "en": "Quit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24269",
+   "en": "Add 4-7",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24270",
+   "en": "Pay Out",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24271",
+   "en": "Add 1-8",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24272",
+   "en": "Ilos: Security Station Upper Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24273",
+   "en": "Current Payout",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24274",
+   "en": "Lieutenant Durand",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24275",
+   "en": "You Win!  Payout 40 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24276",
+   "en": "Payout 20 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24277",
+   "en": "Payout 10 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24278",
+   "en": "Payout 5 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24279",
+   "en": "Payout 0 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24280",
+   "en": "You have busted. -20",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24281",
+   "en": "20 credits are required to play.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24282",
+   "en": "Play Quasar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24283",
+   "en": "Quasar\n20 credits to play\nGet closest to 20 without going over.\n\nPayouts\n14 or less: 0 credits\n    15:  5 credits\n    16: 10 credits\n    17: 20 credits\n    18: 25 credits\n    19: 30 credits\n    20: 40 credits\n21 or more: 0 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24284",
+   "en": "Payout 25 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24285",
+   "en": "Payout 30 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24286",
+   "en": "Squad Mastery Ashley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24287",
+   "en": "Party Mastery Kaidan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24288",
+   "en": "Squad Mastery Kaidan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24289",
+   "en": "Squad Mastery Wrex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24290",
+   "en": "Squad Mastery Garrus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24291",
+   "en": "Squad Mastery Tali",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24292",
+   "en": "Squad Mastery Liara",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24293",
+   "en": "Monkey",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24294",
+   "en": "5% Cooldown Reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

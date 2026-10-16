@@ -1,0 +1,330 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/022",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21253",
+   "en": "All races provide their fleets with organic fighter support. Cruisers fit a handful in the space between the interior pressure hulls and exterior armor. Dreadnoughts have a hangar deck within the hull. Humans, who had only recently 'graduated' from surface to space combat, were the first to build ships wielding fighters as the main armament.\n\nIn fleet combat, carriers stay clear of battle, launching fighters bearing disruptor torpedoes. Fighters are the primary striking power of the ship; if a carrier enters mass accelerator range of the enemy, things have gone very wrong.\n\nIt is possible to recover and rearm fighters during combat, though most carriers seal the flight deck and try to stay out of the way. The flight deck is essentially a corridor through the armor and into the heart of the vessel. A single well-placed torpedo is enough to gut a carrier. \n\nAlliance carriers are named after great leaders, artists, and intellectuals from human history.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21254",
+   "en": "Starships: Carriers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21255",
+   "en": "Cruiser-weight starships are the standard combat unit encountered away from large naval bases, the 'poor bloody infantry' of most fleets. Nimble scouting frigates have neither the punch nor the stamina to stand up to serious combat, and the mighty dreadnoughts are a strategic resource, carefully hoarded and committed to the most critical battles.\n\nCruisers perform routine independent 'show the flag' patrols in settled systems and lead flotillas of frigates in small engagements, such as pirate suppression campaigns. In major fleet engagements, cruiser squadrons support the dreadnought battle line by screening their flanks against enemies attempting to maneuver for a main gun 'bow shot' from their vulnerable broadsides.\n\nAlliance cruisers are named after cities of Earth.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21256",
+   "en": "Starships: Cruisers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21257",
+   "en": "The dreadnought is the ultimate arbiter of space warfare; millions of tons of metal, ceramic, and polymer dedicated to the projection of firepower against an enemy vessel of like ability. No sane commander would face a dreadnought with anything less than another dreadnought.\n\nA dreadnought's power lies in the length of its main gun. Dreadnoughts range from 800 meters to one kilometer long, with a main gun of commensurate length. An 800-meter mass accelerator is capable of accelerating one 2 kg. slug to a velocity of 283 km/s every two seconds. Each slug has the kinetic energy of 38 kilotons of TNT, three times the energy released by the fission weapon that destroyed Hiroshima.\n\nWhen used to bombard planets, some of this kinetic energy is lost due to atmospheric re-entry friction. As a rule of thumb, each Earth-atmosphere of air pressure saps approximately 20% of a projectile's impact energy.\n\nThe turian fleet presently has 37 dreadnoughts; the asari, 21; and the salarians, 16. Humanity has six, with an additional hull under construction at Arcturus Station. Alliance battleships are named for mountains of Earth.\n\nEverest Class: Everest, Fuji, Elbrus\n\nKilimanjaro Class: Kilimanjaro, Tai Shan, Shasta, Aconcagua (under construction)\n\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21258",
+   "en": "Starships: Dreadnought",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21259",
+   "en": "Fighters are single-pilot combat small craft. They are lightweight enough that they can be economically fitted with powerful element zero cores, making them capable of greater acceleration and sharper maneuvers than starships.\n\nKinetic barrier shields changed starship battles from short, vicious bloodbaths to extended, indecisive slugging matches. Only the main gun of a dreadnaught could punch a mass accelerator slug through the barriers of an opposing dreadnought. This changed with the development of the fighter-launched mass disruptor torpedo, a short-ranged weapon that can penetrate kinetic barriers to destroy their projector assemblies.\n\nStarship GARDIAN defenses must be overwhelmed through swarm tactics. Fighter groups can take heavy casualties pressing their torpedo attacks home. Once fighter-launched torpedoes have crippled an enemy’s barriers, the mass accelerators on frigates and cruisers can make short work of them.\n\nInterceptors are a type of fighter optimized to attack other fighters, with no ability to damage starships. Interceptors are used to screen friendly units from incoming fighter attack.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21260",
+   "en": "Starships: Fighters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21261",
+   "en": "Frigates are light escort and scouting vessels. They often have extensive GARDIAN systems to provide anti-fighter screening for capital ships, and carry a squad of marines for security and groundside duty. Unlike larger vessels, frigates are able to land on planets.\n\nFrigate drive systems allow them to achieve high FTL cruise speeds. They also have proportionally larger thrusters and lighter design mass, allowing them to maneuver more handily. In combat, speed and maneuverability make a frigate immune to the long-range fire of larger vessels; in the time it take projectiles to reach them, frigates are no longer where they were predicted to be.\n\nIn fleet combat, frigates are organized into 'wolfpack' flotillas of four to six. Wolfpacks speed through enemy formations, hunting enemy vessels whose kinetic barriers have been taken down by fighter-launched disruptor torpedoes. The wolfpack circle-strafes vulnerable targets, using their superior speed and maneuverability to evade return fire.\n\nAlliance frigates are named for great battles in human history.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21262",
+   "en": "Starships: Frigates",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21263",
+   "en": "Shells lofted by surface navies crash back to earth when their acceleration is overwhelmed by gravity and air resistance. In space, a projectile has unlimited range; it will keep moving until it hits something.\n\nPractical gunnery range is determined by the velocity of the attacker’s ordinance and the maneuverability of the target. Beyond a certain range, a small ship’s ability to dodge trumps a larger attacker's projectile speed. The longest-ranged combat occurs between dreadnoughts, whose projectiles have the highest velocity but are the least maneuverable. The shortest-range combat is between frigates, which have the slowest projectile velocities and highest maneuverability.\n\nOpposing dreadnoughts open with a main gun artillery duel at EXTREME ranges of tens of thousands of kilometers. The fleets close, maintaining evasive lateral motion while keeping their bow guns facing the enemy. Fighters are launched and attempt to close to disruptor torpedo range. Cautious admirals weaken the enemy with ranged fire and fighter strikes before committing to close action. Aggressive commanders advance so cruisers and frigates can engage.\n\nAt LONG range, the main guns of cruisers become useful. Friendly interceptors engage enemy fighters until the attackers enter the range of ship-based GARDIAN fire. Dreadnoughts fire from the rear, screened by smaller ships. Commanders must decide whether to commit to a general melee or retreat into FTL.\n\nAt MEDIUM range, ships can use broadside guns. Fleets intermingle, and it becomes difficult to retreat in order. Ships with damaged kinetic barriers are vulnerable to wolfpack frigate flotillas that speed through the battle space.\n\nOnly fighters and frigates enter CLOSE 'knife fight' ranges of 10 or fewer kilometers. Fighters loose their disruptor torpedoes, bringing down a ship's kinetic barriers and allowing it to be swarmed by frigates. GARDIAN lasers become viable weapons, swatting down fighters and boiling away warship armor.\n\nNeither dreadnoughts nor cruisers can use their main guns at close range; laying the bow on a moving target becomes impossible. Superheated thruster exhaust becomes a hazard.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21264",
+   "en": "Space Combat: General Tactics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21265",
+   "en": "Heat limits the length and intensity of ship-to-ship combat. Starships generate enormous heat when they fire high-energy weapons, perform maneuvering burns, and run on-board combat electronics.\n\nIn combat, warships produce heat more quickly than they can disperse it. As heat builds within a vessel, the crewed spaces become increasingly uncomfortable. Before the heat reaches lethal levels, a ship must win or retreat by entering FTL. After an FTL run, the ship halts, shuts down non-essential systems, and activates the heat radiation gear.\n\nCombat endurance varies by ship design, and by the battle's location. Battles in the deep cold of interstellar space can go on for some time. Engagements close to a star are brief. Since habitable worlds are usually close to a star, battles over them are frantic.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21266",
+   "en": "Space Combat: Combat Endurance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21267",
+   "en": "Planetary assaults are complicated if the target is a habitable garden world; the attackers cannot approach the defenders straight on.\n\nThe Citadel Conventions prohibit the use of large kinetic impactors against habitable worlds. In a straight-on attack, any misses plough into the planet behind the defending fleet. If the defenders position themselves between the attackers and the planet, they can fire at will while the attacker risks hitting the planet.\n\nSuccessful assaults on garden worlds hinge upon up-to-date intelligence. Attackers need to determine where the enemy's defenses are, so they may approach from an angle that allows them to fire with no danger of collateral damage. Note this is not necessary for hostile worlds.\n\nOnce control of orbit has been lost, defensive garrisons disperse into the wilderness. An enemy with orbital superiority can bombard surface forces with impunity. The best option for defenders is to hide and collect reconnaissance in anticipation of relief forces.\n\nGiven the size of a planet, it is impractical to garrison entire conquered worlds. Fortunately, colonization efforts tend to focus on building up a dozen or fewer areas. Ground forces occupy the spaceports, industrial facilities, and major population centers. The wilderness is patrolled by unmanned aerial vehicles and satellite reconnaissance. If a defender unit is spotted, airmobile rapid deployment units and satellite artillery are used to pin down and destroy them.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21268",
+   "en": "Space Combat: Planetary Assaults",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21269",
+   "en": "The crucial choice for any attack through mass relays is how to divide the fleet for transit. The accuracy of a relay's mass-projection depends on the mass being moved and how far it's going. Any long distance and/or high mass jump will see drift. That is, a ship may be hundreds or millions of kilometers from its intended drop point, in any direction from the relay.\n\nDistance can’t be chosen by admirals, but a relay is told how much mass to transit. For example, if told to move a million metric tons of mass, the relay will scan the approach corridor, find four 250,000-ton freighters, and transit them together, maintaining their relative positions.\n\nA commander has the option of moving his fleet as one large, coherent formation that may be wildly off-position, or breaking it up into many smaller formations that will be individually closer to the intended attack point, but could be widely dispersed.\n\nConservative assault doctrine holds that fleets should be moved en masse, maintaining concentration of force and reducing the chances of collision. The only time it is reasonable to split up a formation is during blockade running.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21270",
+   "en": "Space Combat: Trans-Relay Assaults",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21271",
+   "en": "Dispersal of heat generated by onboard systems is a critical issue for a ship. If it cannot deal with heat, the crew may be cooked within the hull.\n\nRadiation is the only way to shed heat in a vacuum. Civilian vessels utilize large, fragile radiator panels that are impossible to armor. Warships use Diffuse Radiator Arrays (DRA), ceramic strips along the exterior of the armored hull. These make the ship appear striped to thermographic sensors. Since the arrangement of the strips depends on the internal configuration of the ship, the patterns for each vessel are unique and striking. On older ships, the DRA strips could become red- or white-hot. Dubbed 'tiger stripes' or 'war paint' by humans, the glowing DRA had a psychological impact on pirates and irregular forces.\n\nStrip radiators are not as efficient as panels, but if damaged by enemy fire, the ship only loses a small portion of its total radiation capacity. In most cases, a vessel's DRA alone allows it to cruise with no difficulties. Operations deep within a solar system can cause problems.\n\nA ship engaged in combat can produce titanic amounts of heat from maneuvering burns and weapons fire. When fighting in a high-heat environment, warships employ high-efficiency 'droplet' heat sinks.\n\nIn a droplet system, tanks of liquid sodium or lithium absorb heat within the ship. The liquid is vented from spray nozzles near the bow as a thin sheet of millions of micrometer-scale droplets. The droplets are caught at the stern and recycled into the system. A droplet system can sink 10-100 times as much heat as DRA strips.\n\nDroplet sheets resemble a surface ship's wake through the water. The wake peels out in sharp turns, spreading a fan of droplets as the ship changes vectors and leaves the coolant behind.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21272",
+   "en": "Starships: Heat Management",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21273",
+   "en": "'Light lag' prevents sensing in real time at great distances. A ship firing its thrusters at the Charon Relay can be easily detected from Earth, 5.75 light-hours (six billion kilometers) away, but Earth will only see the event five hours and 45 minutes after it occurs. Due to the light-speed limit, defenders can't see enemies coming until they have already arrived. Because there is FTL travel and communications but no FTL sensors, frigates are crucial for scouting and picket duties.\n\nPassive sensors are used for long-range detection, while active sensors obtain short-range, high quality targeting data.\n\nPassive sensors include visual, thermographic, and radio detectors that watch and listen for objects in space. A powered ship emits a great deal of energy; the heat of the life support systems; the radiation given off by power plants and electrical equipment; the exhaust of the thrusters. Starships stand out plainly against the near-absolute zero background of space. Passive sensors can be used during FTL travel, but incoming data is significantly distorted by the effects of the mass effect envelope and doppler shift.\n\nActive sensors are radars and high resolution ladars (LAser Detection And Ranging) that emit a 'ping' of energy and 'listen' for return signals. Ladars have a narrower field of view than radar, but ladar resolution allows images of detected objects to be assembled. Active sensors are useless when a ship is moving at FTL speeds.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21274",
+   "en": "Starships: Sensors",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21275",
+   "en": "A mass effect drive core decreases the mass of a bubble of space-time around a ship. This gives the ship the potential to move quickly, but does not apply any motive power. Ships use their sublight thrusters for motive power at FTL. There are several varieties of thruster, varying in performance versus economy. All ships are equipped with arrays of hydrogen-oxygen reaction control thrusters for maneuvering.\n\nIon drives electrically accelerate charged particles as a reaction mass. They are extremely efficient, but produce negligible thrust. They are mainly used for automated cargo barges.\n\nThe primary commercial engine is a 'fusion torch', which vents the plasma of the ship's power plant. Fusion torches offer powerful acceleration at the cost of difficult heat management. Torch fuel is fairly cheap: helium-3 skimmed from gas giants and deuterium extracted from seawater or cometary bodies. Propellant is hydrogen, likewise skimmed from gas giants.\n\nIn combat, military vessels require accelerations beyond the capability of fusion torches. Warship thrusters inject antiprotons into a reaction chamber filled with hydrogen. The matter-antimatter annihilation provides unmatched motive power. The drawback is fuel production; antiprotons must be manufactured one particle at a time. Most antimatter production is done at massive solar arrays orbiting energetic stars, making them high-value targets in wartime.\n\nThe exhaust of fusion and antiproton drives is measured in millions of degrees Celsius. Any vessel caught behind them will melt like wax in a blowtorch.\n\nAny long-duration interstellar flight consists of two phases: acceleration and deceleration. Starships accelerate to the half-way point of their journey, then flip 180 degrees and apply thrust on the opposite vector, decelerating as they finish the trip. The engines are always operating, and peak speed is attained at the middle of the flight.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21276",
+   "en": "Starships: Thrusters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21277",
+   "en": "A warship's kinetic barriers reduce the damage from solid objects, but can do nothing to block GARDIAN lasers, particle beams, and other forms of Directed Energy Weapon (DEW). The inner layer of warship protection consists of ablative armor plate designed to 'boil away' when heated. The vaporized armor material scatters a DEW beam, rendering it ineffectual.\n\nA scaffold is built around the interior pressure hull, with sheets of ablative armor hung from the structure. Ships typically have multiple layers of armor separated by empty baffles, spaces often used for cargo storage. Cruisers, which lack the internal space to fit dedicated fighter hangars, store the shipboard fighter complement in the baffles. It is not unknown for enlisted crew to build illicit alcohol distilleries in some obscure corner of the baffles, safe from prying eyes.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21278",
+   "en": "Weapons: Ablative Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21279",
+   "en": "A ship's General ARea Defense Integration Anti-spacecraft Network (GARDIAN) consists of anti-missile / anti-fighter laser turrets on the exterior hull. Because these are under computer control, the gunnery control officer needs to do little beyond turn the system on and designate targets as hostile.\n\nSince lasers move at light speed, they cannot be dodged by anything moving at non-relativistic speeds. Unless the beam is aimed poorly, it will always hit its target. In the early stages of a battle, the GARDIAN fire is 100% accurate. It is not 100% lethal, but it doesn't have to be. Damaged fighters must break off for repairs.\n\nLasers are limited by diffraction. The beam 'spreads out', decreasing the energy density (watts per m2) the weapon can place on a target. Any high-powered laser is a short-ranged weapon.\n\nGARDIAN networks have another limitation: heat. Weapons-grade lasers require \"cool-down\" time, during which heat is transferred to sinks or radiators. As lasers fire, heat builds within them, reducing damage, range, and accuracy.\n\nFighters attack in swarms. The first few WILL be hit by GARDIAN, but as battle continues, the effects of laser overheat allow the attackers to press ever closer to the ship. Constant use will burn out a laser.\n\nGARDIAN lasers typically operate in infrared frequencies. Shorter frequencies would offer superior stopping power and range, but degradation of focal arrays and mirrors would make them expensive to maintain, and most prefer mechanical reliability over bleeding-edge performance where lives are concerned. Salarians, however, use near-ultraviolet frequency lasers with six times the range, believing that having additional time to shoot down incoming missiles is more important.\n\nLasers are not blocked by the kinetic barriers of capital ships. However, the range of lasers limits their use to rare 'knife fight'-range ship-to-ship combat.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21280",
+   "en": "Weapons: GARDIAN",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21281",
+   "en": "Disruptor torpedoes are powered projectiles with warheads that create random and unstable mass effect fields when triggered. These fields warp space-time in a localized area. The rapid, asymmetrical mass changes cause the target to rip itself apart.\n\nIn flight, torpedoes use a mass-increasing field, making them too massive for enemy kinetic barriers to repulse. This extra mass gives torpedoes very sluggish acceleration, making them easy prey for defensive GARDIAN weapons. So, torpedoes have to be launched at very close range.\n\nTorpedoes are the main anti-ship weapon used by fighters. They are launched from point-blank range in 'ripple-fire' waves reminiscent of the ancient Calliope rocket artillery launchers (thus their popular nickname 'Callies'). By saturating defensive GARDIAN systems with multiple targets, at least a few will get through.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21282",
+   "en": "Weapons: Disruptor Torpedoes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21283",
+   "en": "Drones are small robots used to support and supplement organic soldiers on the battlefield. They have no artificial intelligence of any kind, but follow fixed, minimally adaptive programs. Most varieties employ mass effect levitation to improve mobility.\n\nAll modern armies rely on veritable fleets of drones for routine soldiering (static garrisons, patrols, etc.). The use of drones in non-critical duties keeps manpower needs down and reduces casualties in low intensity conflicts. Less advanced races and cultures with less sensitivity to casualties have correspondingly fewer drones in their inventory. Drones are of little use in conventional open field battles, as they are poorly armed and armored.\n\nIn addition to combat drones, support drones are used to assist organic units in the field. Reconnaissance drones are small, stealthy craft that screen combat units in the field and warn commanders when enemies are spotted. Electronic Warfare drones supplement battlefield technicians, serving as mobile jammers and ELINT (ELectronic INTelligence gathering platforms. Military and civilian police utilize 'dazzler drones' equipped with powerful strobe lights to disorient and subdue intruders using nonlethal force.\n\nDrone formations are officially referred to as wings (i.e., 'Deploy the 4th Assault Drone Wing on the left flank!'). Common soldiers often refer to friendly formations as flocks and enemy formations as swarms.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21284",
+   "en": "Vehicles: Combat Drones",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21285",
+   "en": "Biotics manipulate mass effect fields using dozens of element zero nodules within their nervous systems that react to electric stimuli from the brain. Amplifiers allow biotics to synchronize the nodules so they can form fields large and strong enough for practical use. Amplifiers can improve a specific discipline or talent.\n\nAn implant is a surgically-embedded interface port into which amps are 'plugged in'. On humans, the implant is usually placed at the base of the skull for convenient access, though the user must be careful to keep it free of contaminants.\n\nImplant ports can fit a variety of amps, and there is a growing market for modifications and add-ons. The finest quality implants and amps are manufactured by asari artisans, but the Alliance’s L3 implants - first deployed in 2170 - are a significant step forward.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21286",
+   "en": "Biotics: Biotic Amps",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21287",
+   "en": "Biotics possess extraordinary abilities, but they must live with minor inconveniences. The most obvious issue is getting adequate nutrition. Creating biotic mass effects takes such a toll on metabolism that active biotics develop ravenous appetites. The standard Alliance combat ration for a soldier is 3000 calories per day; biotics are given 4500, as well as a canteen of potent energy drink for quick refreshment after hard combat.\n\nAnother issue is electric charge. Electricity accumulated in starship drive cores must be discharged, and so must the electricity in a biotic user. Biotics are prone to small static discharges when they touch metal.\n\nUnfortunately, human biotics also face suspicion and persecution, beginning with the popular misconception that they can read and control minds. Biotics symbolize the dehumanization of mankind to people philosophically or religiously opposed to gene modification and cybernetics. Militaries are the only organizations that always welcome biotics, offering them huge recruitment incentives.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21288",
+   "en": "Biotics: Life as a Biotic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21289",
+   "en": "Biotic implants and amplifiers only provide the potential to create coherent mass effect fields. Whether biotics can actually do so is largely determined by their training.\n\nBiotics must develop conscious control over their nervous systems, sending specific electrical impulses to the element zero nodules embedded in their nerves. They are taught to use their implants and amps with biofeedback devices and physical mnemonics. Specific gestures or muscle movements fire the proper sequence of nerves to activate a certain skill.\n\nConatix Industries pioneered biotic training with the Biotic Acclimation and Temperance Training program. Although BAaT did not achieve the desired results, many techniques taught are still used today.\n\nMany human think tanks are trying to develop some form of biotic super soldier. Most are benign efforts to create more flexible troops. Others, less publicly known, are unapologetic attempts to create Nietzschean supermen.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21290",
+   "en": "Biotics: Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21291",
+   "en": "Real-time communication is possible thanks to networks of expensive mass relay comm buoys that can daisy-chain a transmission via lasers.\n\nComm buoys are maintained in patterns built outward from each mass relay. The buoys are little more than a cluster of primitive, miniature mass relays. Each individual buoy is connected to a partner on another buoy in the network, forming a corridor of low-mass space. Tightbeam communications lasers are piped through these 'tubes' of FTL space, allowing virtually instantaneous communication to anywhere on the network. The networks connect across regions by communications lasers through the mass relays.\n\nWith this system, the only communications delay is the light lag between the source or destination and the closest buoy. So long as all parties remain within half a light-second (150,000 km) of buoys, seamless real time communications are possible. Since buoys are maintained in all traveled areas, most enjoy unlimited instant communication. Ships only suffer communications lag when operating off established deep space routes, around uninhabited outer system gas giants, and other unsettled areas.\n\nDuring wartime, comm buoy networks are the first target of attack. Once the network is severed, it can take anywhere from weeks to years to get a message out of a contested system. In systems where a buoy network has not yet been built or has been destroyed, rapid communication means ferrying information through high-speed courier ships and unmanned data drones.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21292",
+   "en": "Communications",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

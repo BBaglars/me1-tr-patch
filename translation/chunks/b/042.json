@@ -1,0 +1,586 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/042",
+  "family": "UNC53"
+ },
+ "entries": [
+  {
+   "key": "u16382",
+   "en": "The signal is coming from a mine?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16383",
+   "en": "Mineshaft. That's the source of the signal.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16384",
+   "en": "The signal's coming from a mine?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16385",
+   "en": "This smells.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16386",
+   "en": "A trap. It has to be.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16387",
+   "en": "Smells like ambush, skipper.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16388",
+   "en": "Smells like ambush, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16389",
+   "en": "I don't like this, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16390",
+   "en": "I concur. This did not crash. Someone moved it here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16391",
+   "en": "I agree. This thing didn't crash. Somebody moved it here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16392",
+   "en": "Yeah. This thing didn't crash. Somebody moved it here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16393",
+   "en": "I agree. The probe didn't crash. Someone moved it here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16394",
+   "en": "I agree. Your probe didn't crash. It was moved here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16395",
+   "en": "All right, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16396",
+   "en": "Aye, aye.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16397",
+   "en": "They may not know what they have. Let's find it before they set it off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16398",
+   "en": "Your grasp of the obvious is inspiring. There's still a nuke down there. Check your corners and watch your back.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16399",
+   "en": "There's a nuclear weapon down there. We can't abandon it. Just stay on guard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16400",
+   "en": "Whoever did it is in danger.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16401",
+   "en": "Doesn't change our objective.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16402",
+   "en": "Why am I not surprised?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16403",
+   "en": "What do we do now, Shepard?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16404",
+   "en": "Orders, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16405",
+   "en": "What do we do now, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16406",
+   "en": "That was a detonator. Someone just screwed us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16407",
+   "en": "What the hell!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16408",
+   "en": "That was a detonator, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16409",
+   "en": "Seismic charge. Someone did that on purpose.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16410",
+   "en": "Shepard. At last.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16411",
+   "en": "You don't remember me. No matter. I remember you. I never forget anyone I've fought.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16412",
+   "en": "My name is Elanos Haliat. I doubt you know it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16413",
+   "en": "Who do you think runs the Terminus Clans, Shepard? Hm? Thousands of pirates, slavers, criminals of every stripe?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16414",
+   "en": "The strongest leads.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16415",
+   "en": "The one who kills the most men. Seizes the most ships. Pillages the most colonies.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16416",
+   "en": "Three years ago, I was the strongest. I used my influence to assemble a fleet. We would drive your kind out of the Verge.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16417",
+   "en": "I was the motivator. The instigator. The one who promised glory and riches for sacking the largest human colony in the cluster.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16418",
+   "en": "Failed because of you. Your damnable holding action. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16419",
+   "en": "Empty words from a dead woman.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16420",
+   "en": "Empty words from a dead man.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16421",
+   "en": "Let them. We'll be ready. An Alliance warship would make a fine prize.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16422",
+   "en": "Oh, and if you hadn't noticed, the ores here are laced with heavy metals. I'm afraid your suit radios aren't powerful enough to transmit out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16423",
+   "en": "I rather doubt that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16424",
+   "en": "My crew will come for me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16425",
+   "en": "You'll see me again, Haliat. Count on it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16426",
+   "en": "We'll find a way out of here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16427",
+   "en": "We've got air and light, and the Normandy's still in orbit. Let's look for another way out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16428",
+   "en": "We find a way out. Someone up there needs my boot up his ass. See if there's anything in here we can use.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16429",
+   "en": "I don't know. Let me think. You two see if there's anything in here we can use.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16430",
+   "en": "You have me at a disadvantage.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16431",
+   "en": "You caused the cave-in? What's the meaning of this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16432",
+   "en": "In most criminal organizations, it's the one who's recognized as the most successful.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16433",
+   "en": "You assume I give a damn. That's cute.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16434",
+   "en": "I don't study the internal politics of pirate bands.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16435",
+   "en": "You organized the attack on Elysium. You want me to thank you for my Star of Terra?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16436",
+   "en": "You're the one behind the attack on Elysium!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16437",
+   "en": "It doesn't have to be like this, Haliat.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16438",
+   "en": "\"At last?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16439",
+   "en": "An acclaimed leader.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16440",
+   "en": "Who cares?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16441",
+   "en": "How should I know?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16442",
+   "en": "You attacked Elysium!",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16443",
+   "en": "Nice try, genius.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16444",
+   "en": "The Skyllian Blitz.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16445",
+   "en": "Can't we negotiate?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16446",
+   "en": "Call the Normandy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16447",
+   "en": "I'll get you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16448",
+   "en": "No one panic.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16449",
+   "en": "I'll kill him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16450",
+   "en": "I'll think of something.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16451",
+   "en": "The one blamed when it failed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16452",
+   "en": "I was ruined when your kind held against the Blitz. What better way to recover my reputation than by eliminating the first human Spectre?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u16453",
+   "en": "You organized the attack on Elysium. Too bad we kicked your ass back into Terminus, huh?",
+   "tr": "",
+   "ctx": [
+    "BIOA_UNC53_02_DSG_LOC"
+   ]
+  }
+ ]
+}

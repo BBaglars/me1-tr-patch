@@ -1,0 +1,579 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/001",
+  "family": "CRD00"
+ },
+ "entries": [
+  {
+   "key": "u00021",
+   "en": "Ambassador Udina",
+   "tr": "",
+   "ctx": [
+    "BIOA_CRD00_00_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u00022",
+   "en": "Captain Anderson",
+   "tr": "",
+   "ctx": [
+    "BIOA_CRD00_00_DSG_LOC",
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00150",
+   "en": "Saren",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00786",
+   "en": "Matriarch Benezia",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00790",
+   "en": "Lorik Qui'in",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00792",
+   "en": "Peak 15",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00794",
+   "en": "Elanus Risk Control",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00796",
+   "en": "Synthetic Insights",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_03B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01773",
+   "en": "You download the evidence from Lorik's computer.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03_PLC_LOC",
+    "BIOA_ICE20_06_PLC_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01783",
+   "en": "Memory bypass successful.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03_PLC_LOC",
+    "BIOA_ICE20_06_PLC_LOC",
+    "BIOA_ICE20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02220",
+   "en": "Success",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_08_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u03786",
+   "en": "Rachni",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE60_14_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u05046",
+   "en": "Ilos",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG_80_X_Outrun_CIN_LOC",
+    "BIOA_NOR10_04A_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04853",
+   "en": "Geth",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG80_07_CIN_LOC",
+    "BIOA_JUG80_07_DSG_LOC",
+    "BIOA_JUG80_13_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05425",
+   "en": "Keepers",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u05426",
+   "en": "Sovereign",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_WAR20_03a_DSG_LOC",
+    "BIOA_WAR30_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05755",
+   "en": "Nihlus",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05779",
+   "en": "Kaidan Alenko",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05834",
+   "en": "Eden Prime",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_04_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05866",
+   "en": "Captain",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u06287",
+   "en": "Major Kyle",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_03_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u07004",
+   "en": "Beacon",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_04_DS1_LOC",
+    "BIOA_NOR10_09_DSG_LOC",
+    "BIOA_PRO10_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u07005",
+   "en": "Protheans",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_04_DS1_LOC",
+    "BIOA_NOR10_09_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u07874",
+   "en": "Rachni Queen",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC",
+    "BIOA_NOR10_09kaidan_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u08304",
+   "en": "Home",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u08369",
+   "en": "Shanxi",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC",
+    "BIOA_NOR10_11ash_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u09686",
+   "en": "Armor",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_11_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u09740",
+   "en": "Yes",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_11_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u09830",
+   "en": "Citadel",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_11_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u09834",
+   "en": "Feros",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA20_10A_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u09838",
+   "en": "Noveria",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA20_10A_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u09841",
+   "en": "Virmire",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA20_10A_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10231",
+   "en": "Normandy",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_12_DS1_LOC",
+    "BIOA_NOR10_12_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u10273",
+   "en": "Quarians",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_12tali_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u10746",
+   "en": "Attack",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO10_07_DSG_LOC",
+    "BIOA_PRO10_08_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u10955",
+   "en": "Exit",
+   "tr": "Çıkış",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10956",
+   "en": "Citadel Tower",
+   "tr": "Citadel Kulesi",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10958",
+   "en": "Med Clinic",
+   "tr": "Sağlık Kliniği",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10963",
+   "en": "Back",
+   "tr": "Geri",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10964",
+   "en": "Consort Chambers",
+   "tr": "Refakatçi Odaları",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10967",
+   "en": "Chora's Den",
+   "tr": "Chora's Den",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11058",
+   "en": "Citadel Control",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u11511",
+   "en": "Emporium",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_04A_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u11761",
+   "en": "Citadel Council",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_07A_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u11775",
+   "en": "Spectres",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_07A_DSG_LOC",
+    "BIOA_STA20_09A_DSG_LOC",
+    "BIOA_STA20_10A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u12127",
+   "en": "Harkin",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_10A_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_STA60_08B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u12128",
+   "en": "Barla Von",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_10A_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_STA70_02council_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u12482",
+   "en": "Ambassador",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_10D_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u12483",
+   "en": "Elcor",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_10D_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u12518",
+   "en": "Volus",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_10D_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u13282",
+   "en": "Escape",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA30_02B_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u14234",
+   "en": "Fist",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA60_05A_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u14273",
+   "en": "Citadel Security",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA60_05A_DSG_LOC",
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18584",
+   "en": "Press [XBoxB_Btn_A] to Decrypt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18585",
+   "en": "Press [XBoxB_Btn_A] to Use",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18586",
+   "en": "Press [XBoxB_Btn_A] to Open",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18587",
+   "en": "Press [XBoxB_Btn_A] to Close",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18588",
+   "en": "Requires Key",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18589",
+   "en": "Press [XBoxB_Btn_A] to Repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18590",
+   "en": "Please choose the early history/childhood for your character:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

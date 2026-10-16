@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/036",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u23095",
+   "en": "Increase sabotage duration by 21.11%\nIncrease hacking duration by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23096",
+   "en": "Increase sabotage duration by 23.33%\nIncrease hacking duration by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23097",
+   "en": "Increase sabotage duration by 25.56%\nIncrease hacking duration by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23098",
+   "en": "Increase sabotage duration by 27.78%\nIncrease hacking duration by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23099",
+   "en": "Increase sabotage duration by 30%\nIncrease hacking duration by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23100",
+   "en": "Increase duration by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23101",
+   "en": "Increase duration by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23102",
+   "en": "Increase duration by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23103",
+   "en": "Increase duration by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23104",
+   "en": "Increase duration by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23105",
+   "en": "Increase duration by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23106",
+   "en": "Increase duration by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23107",
+   "en": "Increase duration by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23108",
+   "en": "Increase duration by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23109",
+   "en": "Increase duration by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23110",
+   "en": "Increase radius by 100\nIncrease toxic damage removed by 10\nIncrease amount healed by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23111",
+   "en": "Increase radius by 144\nIncrease toxic damage removed by 12\nIncrease amount healed by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23112",
+   "en": "Increase radius by 188\nIncrease toxic damage removed by 14\nIncrease amount healed by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23113",
+   "en": "Increase radius by 233\nIncrease toxic damage removed by 16\nIncrease amount healed by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23114",
+   "en": "Increase radius by 277\nIncrease toxic damage removed by 18\nIncrease amount healed by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23115",
+   "en": "Increase radius by 322\nIncrease toxic damage removed by 21\nIncrease amount healed by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23116",
+   "en": "Increase radius by 366\nIncrease toxic damage removed by 23\nIncrease amount healed by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23117",
+   "en": "Increase radius by 411\nIncrease toxic damage removed by 25\nIncrease amount healed by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23118",
+   "en": "Increase radius by 455\nIncrease toxic damage removed by 27\nIncrease amount healed by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23119",
+   "en": "Increase radius by 500\nIncrease toxic damage removed by 30\nIncrease amount healed by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23120",
+   "en": "Increase radius by 100\nIncrease duration by 10%\nIncrease toxic damage by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23121",
+   "en": "Increase radius by 144\nIncrease duration by 12.22%\nIncrease toxic damage by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23122",
+   "en": "Increase radius by 188\nIncrease duration by 14.44%\nIncrease toxic damage by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23123",
+   "en": "Increase radius by 233\nIncrease duration by 16.67%\nIncrease toxic damage by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23124",
+   "en": "Increase radius by 277\nIncrease duration by 18.89%\nIncrease toxic damage by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23125",
+   "en": "Increase radius by 322\nIncrease duration by 21.11%\nIncrease toxic damage by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23126",
+   "en": "Increase radius by 366\nIncrease duration by 23.33%\nIncrease toxic damage by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23127",
+   "en": "Increase radius by 411\nIncrease duration by 25.56%\nIncrease toxic damage by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23128",
+   "en": "Increase radius by 455\nIncrease duration by 27.78%\nIncrease toxic damage by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23129",
+   "en": "Increase radius by 500\nIncrease duration by 30%\nIncrease toxic damage by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23130",
+   "en": "Increase duration 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23131",
+   "en": "Increase duration 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23132",
+   "en": "Increase duration 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23133",
+   "en": "Increase duration 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23134",
+   "en": "Increase duration 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23135",
+   "en": "Increase duration 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23136",
+   "en": "Increase duration 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23137",
+   "en": "Increase duration 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23138",
+   "en": "Increase duration 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23139",
+   "en": "Increase duration 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23140",
+   "en": "+15% damage vs. organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23141",
+   "en": "+20% damage vs. organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23142",
+   "en": "+25% damage vs. organics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23143",
+   "en": "+15% damage vs. synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23144",
+   "en": "+20% damage vs. synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23145",
+   "en": "+25% damage vs. synthetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23146",
+   "en": "+30% Toxic Damage\n5 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23147",
+   "en": "+35% Toxic Damage\n6 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23148",
+   "en": "+40% Toxic Damage\n7 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23149",
+   "en": "+20% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23150",
+   "en": "+25% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23151",
+   "en": "+30% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23152",
+   "en": "+20% Shield Bypass\n-30% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23153",
+   "en": "+25% Shield Bypass\n-30% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23154",
+   "en": "+30% Shield Bypass\n-30% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23155",
+   "en": "Decreases audibility by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23156",
+   "en": "Decreases audibility by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23157",
+   "en": "Decreases audibility by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23158",
+   "en": "Decreases audibility by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23159",
+   "en": "Decreases audibility by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23160",
+   "en": "Decreases audibility by 32.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23161",
+   "en": "Decreases audibility by 36.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23162",
+   "en": "Decreases audibility by 41.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23163",
+   "en": "Decreases audibility by 45.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23164",
+   "en": "Decreases audibility by 50%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23165",
+   "en": "1 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23166",
+   "en": "2 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23167",
+   "en": "3 Level Detection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23168",
+   "en": "+10% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23169",
+   "en": "+12% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23170",
+   "en": "+14% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23171",
+   "en": "+10% Damage\n-20% Rate of Fire\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23172",
+   "en": "+12% Damage\n-20% Rate of Fire\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23173",
+   "en": "+14% Damage\n-20% Rate of Fire\n-20% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23174",
+   "en": "+5% max accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23175",
+   "en": "+7% max accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23176",
+   "en": "+9% max accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23177",
+   "en": "+10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23178",
+   "en": "+12% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23179",
+   "en": "+14% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23180",
+   "en": "Reduces visibility by 10%\nReduces audibility by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23181",
+   "en": "-10% Damage Protection\n-30% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23182",
+   "en": "+1 Health Regeneration/sec\n-10% Damage Protection\n-30% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23183",
+   "en": "Reduce Hazard by 1 level\n-7% Damage Protection\n-20% Shields\n-20% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23184",
+   "en": "-30% Hardening\n-30% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23185",
+   "en": "+50% Damage Protection\n+50% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23186",
+   "en": "+10% Duration\n-20% Power\n+10% Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23187",
+   "en": "-15% Duration\n-15% Power",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23188",
+   "en": "Barrier cooldown reduced by 20%\nStasis cooldown reduced by 20%\nLift cooldown increased by 20%\nThrow cooldown increased by 20%\nWarp cooldown increased by 20%\nSingularity cooldown increased by 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23189",
+   "en": "+20% Duration\n+20% Power\n+10% Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23190",
+   "en": "+20% Duration\n-10% Power",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23191",
+   "en": "+10 Shields\n-10% Tech Cooldown\n+10% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23192",
+   "en": "+20% Tech Cooldown\n-10% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23193",
+   "en": "+10% Damping\n+10% Overload\n-10% Heal\n-10% Shock",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23194",
+   "en": "+10% Damping\n+10% Overload\n-<p/686/1836/1> Heal\n-10% Shock",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23195",
+   "en": "-15% Tech Cooldown\n-15% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23196",
+   "en": "+20 Shields\n+20% Tech Cooldown\n+10% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23197",
+   "en": "+10% Damage\n+6% Heat Absorption\n+25% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23198",
+   "en": "-4% Heat Absorption\n-30% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23199",
+   "en": "-20% Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23200",
+   "en": "-10% Damage\n-2% Heat Absorption\n-10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23201",
+   "en": "Brow Color",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23202",
+   "en": "You destroyed Saren's base at Virmire, but at a terrible cost. Ashley is dead.\n\nHer sacrifice was not in vain, however. The cure for the krogan genophage was destroyed. Saren's alliance with the Reapers was revealed. And most importantly... you now know that Sovereign is in fact a Reaper itself.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23203",
+   "en": "TURIAN INSIGNIA RECOVERED\nScans of the planet Canrum revealed dangerous levels of radiation coming from orbit. Chief Engineer Adams conducted further scans and discovered the remains of an ancient warhead marked with the Parthia Colony insignia.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23204",
+   "en": "Existing Character",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23205",
+   "en": "Repair Plasma Purge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23206",
+   "en": "PROTHEAN DATA DISC RECOVERED\nThe planet Sharring displayed some strange readings while being scanned. Chief Engineer Adams pinpointed the source and located a strange object. Tali and Adams brought it on board and spent hours taking it apart. The purpose of the object is still uncertain, but it was Prothean in nature and contained a Prothean data disc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23207",
+   "en": "PROTHEAN DATA DISC RECOVERED\nScans of Juntauma revealed a derelict freighter in mid-stage orbital decay. Your salvage team boarded the vessel and determined it had been attacked by raiders. There was little of value still on board, but the team did find a Prothean data disc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23208",
+   "en": "PROTHEAN DATA DISC RECOVERED\nYou detected a weak signal coming from the far side of the planet Alrumter. Joker brought the Normandy around and your salvage team picked up a small escape pod trapped in orbit. There was a long-dead turian inside, along with a few personal items and a Prothean data disc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23209",
+   "en": "PROTHEAN DATA DISC RECOVERED\nWhile scanning the asteroid field in the Sparta system, you found signs of habitation. A recon team was sent to investigate one of the larger asteroids. The rock had a small functioning bio-dome, but no sign of anyone still living there. There was, however, a data console with an intact Prothean data disc inside.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23210",
+   "en": "PROTHEAN DATA DISC RECOVERED\nWhile scanning the asteroid field in the Matano system, you discovered a badly damaged ship. The recon team found no survivors on board but they did find a Prothean data disc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23211",
+   "en": "PROTHEAN DATA DISC RECOVERED\nDuring a scan of the Phoenix system asteroid field, you detected an odd energy reading that Tali determined was quarian in nature. She led a recon team into the asteroid field, where she discovered an abandoned freighter. The team could not determine why the ship was there, but they did find a Prothean data disc on board.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23212",
+   "en": "PROTHEAN DATA DISC RECOVERED\nScans of the planet Wermani turned up a few odd readings. Chief Engineer Adams fine-tuned the scans and discovered an automated repair drone in orbit. Tali and Adams brought the drone on board to dismantle it and found a Prothean data disc in its core.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23213",
+   "en": "A faint trail of radioactive particles - possibly exhaust from a sub-light nuclear engine drive - leads toward the nearby planet of Xawin.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23214",
+   "en": "Basic Crafting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23215",
+   "en": "Training for basic crafting.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23216",
+   "en": "Unidentified Space Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23217",
+   "en": "This space station appears to have been assembled from used \"off the shelf\" civilian ship modules of diverse origins. There are no obvious hull markings, and it is not broadcasting any ID signal.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23218",
+   "en": "Pistol Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23219",
+   "en": "Shotgun Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23220",
+   "en": "Assault Rifle Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23221",
+   "en": "Sniper Rifle Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23222",
+   "en": "Biotic Amp Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23223",
+   "en": "Armor Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23224",
+   "en": "Omni-tool Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23225",
+   "en": "Upgrades Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23226",
+   "en": "Grenade Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23227",
+   "en": "Ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23228",
+   "en": "Install",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23229",
+   "en": "MEDALLION RECOVERED\nThis mercenary was carrying a League of One medallion. There's no indication of how or where he found it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23230",
+   "en": "MEDALLION RECOVERED\nThis dead traveller had a League of One medallion. Where he found it and what he was trying to do with it is unclear.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23231",
+   "en": "MEDALLION RECOVERED\nOne of the miners had a League of One medallion. It's possible he discovered it while they were digging, but there's no way to know for certain.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23232",
+   "en": "MEDALLION RECOVERED\nThis downed pod contained a League of One medallion. Its owner is nowhere to be found.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23233",
+   "en": "ID TAG RECOVERED\nYou discovered several small artifacts. Among them is an identification tag belonging to Captain Stranaka, one of the salarian soldiers charged with hunting down the League of One.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23234",
+   "en": "ID TAG RECOVERED\nYou found Captain Milon's identification tag. How it ended up here is impossible to know for sure.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23235",
+   "en": "ID TAG RECOVERED\nThis Cerberus soldier had an identification tag for Captain Varsinth, one of the salarian soldiers responsible for capturing the League of One. It's unclear how he came into possession of this relic.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23236",
+   "en": "ID TAG RECOVERED\nBuried under the beacon was an identification tag for Captain Thein. There's no indication of why it was hidden here, or who buried it in the first place.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23237",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nThere were several artifacts stored here, all worthless except for one of Matriarch Dilinaga's writings. Whether it was uncovered at this dig site or elsewhere is unclear.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23238",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nYou found one of Matriarch Dilinaga's writings on this body. It's possible the writings came from the nearby ruins.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23239",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nIt looks like someone has been living in this place. This small crate held some stale food and one of Matriach Dilinaga's writings. It's still in fairly good condition... unlike the food.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23240",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nIt's not clear who owns this container, but you discovered one of Matriarch Dilinaga's writings inside.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23241",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nWhile sifting through this pile of debris, you discovered another of Matriarch Dilinaga's writings. It's in bad shape, but most of it is still intact.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23242",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nThis downed satellite had one of Matriarch Dilinaga's writings stored in its payload. Whether it was placed before or after it crashed is uncertain.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23243",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nPrying open the crate, you discover a carefully wrapped, handwritten copy of one of Matriarch Dilinaga's treatises. It is unlikely she penned it herself, but the flowing brushwork and intricate watercolor illustrations clearly show the hand of a master scribe.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23244",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nIt's not clear who lived here, but it appears to have been abandoned for some time. The container in the tent held, among other things, one of Matriarch Dilinaga's writings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

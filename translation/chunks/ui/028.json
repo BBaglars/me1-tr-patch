@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/028",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u22043",
+   "en": "Complete 5 missions with the asari squad member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22044",
+   "en": "Requirement:\nAdvance to level 50",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22045",
+   "en": "Requirement:\nAdvance to level 60",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22046",
+   "en": "Requirement:\nEarn 75% of the total possible Renegade points in the game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22047",
+   "en": "Requirement:\nEarn 75% of the total possible Paragon points in the game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22048",
+   "en": "Requirement:\nComplete any romance subplot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22049",
+   "en": "Motion Blur",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22050",
+   "en": "Enable or disable motion blur effect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22051",
+   "en": "Film Grain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22052",
+   "en": "Enable or disable film grain effect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22053",
+   "en": "Samesh Bhatia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22054",
+   "en": "Elias Keeler",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22055",
+   "en": "Gavin Hossle's Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22056",
+   "en": "A reporter named Emily Wong has asked you for help uncovering corruption on the Citadel. You told her that you weren't interested.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22057",
+   "en": "While you told Emily Wong that you didn't want to help her find information, you might still run across something of interest.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22058",
+   "en": "Be on Lookout",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22059",
+   "en": "The Majesty is a Kowloon class modular conveyor of human design. The ship is a derelict. All compartments are exposed to space, and the fusion plant is leaking. The damage is consistant with ship-mounted mass accelerator fire.\n\nRegistry: Private Owner, Captain Willem",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22060",
+   "en": "Charge Stabilizer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22061",
+   "en": "Complexion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22062",
+   "en": "Facial Hair Color",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22063",
+   "en": "Neural Enhancer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22064",
+   "en": "Biotic Accelerant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22065",
+   "en": "you have completed 509_goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22066",
+   "en": "509_goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22067",
+   "en": "You have completed 509_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22068",
+   "en": "509_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22069",
+   "en": "Asteroid 718 Hasebe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22070",
+   "en": "Dampening Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22071",
+   "en": "Overload Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22072",
+   "en": "First Aid Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22073",
+   "en": "Shock Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22074",
+   "en": "Hacking Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22075",
+   "en": "Sabotage Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22076",
+   "en": "Fusion Grenade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22077",
+   "en": "You have destroyed the geth ship. Now get Lizbeth Baynham and leave ExoGeni.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22078",
+   "en": "Exit ExoGeni",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22079",
+   "en": "Finch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22080",
+   "en": "Turian Guard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22081",
+   "en": "you have completed 510 goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22082",
+   "en": "510goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22083",
+   "en": "you have completed 510task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22084",
+   "en": "510task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22085",
+   "en": "m",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22086",
+   "en": "Salvage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22087",
+   "en": "Keep searching for more elements and minerals as you travel. Survey any that you find.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22088",
+   "en": "Find More Minerals",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22089",
+   "en": "You have discovered sufficient sources of Light Metals. Continue to locate and survey the remaining minerals and elements.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22090",
+   "en": "Keep Searching for Minerals",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22091",
+   "en": "You have discovered sufficient deposits of Heavy Metals. Continue to locate and survey the remaining minerals and elements.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22092",
+   "en": "You have discovered sufficient sources of Rare Elements. Continue to locate and survey the remaining minerals and elements.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22093",
+   "en": "You have discovered sufficient deposits of valuable gases. Continue to locate and survey the remaining minerals and elements.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22094",
+   "en": "Lieutenant Girard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22095",
+   "en": "Talitha",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22096",
+   "en": "Archive Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22097",
+   "en": "Aqueduct",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22098",
+   "en": "Relay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22099",
+   "en": "Life Pod",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22100",
+   "en": "Charles Saracino",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22101",
+   "en": "Protestor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22102",
+   "en": "Squad Power Usage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22103",
+   "en": "Squad Talent Usage Description",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22104",
+   "en": "None",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22105",
+   "en": "Squad AI will not use any talents unless ordered by the player.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22106",
+   "en": "Squad AI will use all available talents.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22107",
+   "en": "Ammo Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22108",
+   "en": "Weapon Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22109",
+   "en": "BioAmp Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22110",
+   "en": "Omni-tool Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22111",
+   "en": "Tunneling Drill",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22112",
+   "en": "Rear Admiral Mikhailovich",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22113",
+   "en": "Derelict Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22114",
+   "en": "Like the hanar homeworld, Proteus has more than 90% oceanic cover. The incredible heat thrown off from Athens raises global humidity to 100%, creates constant cloud cover, and powers colossal typhoons that rage across the surface year-round.\n\nHot, humid, and storm-wracked, Proteus' rare combination of oxygen-nitrogen atmosphere and carbon-based biosphere nevertheless recommend it for colonization. A pilot program is studying the possibility of colonies below the ocean surface, safe from the worst effects of the weather.\n\nColony Founded: 2179\nPopulation: 12,470\nCapital: Ithaka\n\nOrbital Period: 4.9 Earth Years\nRadius: 10,210 km\nDay Length: 51.4 Earth Hours\nAtmospheric Pressure: 1.21 Earth Atmospheres\nSurface Temperature: 34 Celsius\nSurface Gravity 1.3 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22115",
+   "en": "Therum is a distant but rich industrial world claimed by the human Systems Alliance. Its plentiful heavy metals have fueled the recent manufacturing boom on Earth. Core samples rich with the fossils of simple silicon-based organisms indicate Therum was more habitable in the past than it is at present. Perhaps this explains the many Prothean ruins dotting the surface, most of which have been looted by mining corporations.\n\nColony Founded: 2167\nPopulation: 34,000\nCapital: Nova Yekaterinburg\n\nOrbital Period: 6.4 Earth Years\nRadius: 6724 km\nDay Length: 28.3 Earth Hours\nAtmospheric Pressure: 0.68 Earth Atmospheres\nSurface Temperature: 59 Celsius\nSurface Gravity: 1.12 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22116",
+   "en": "MSV Ontario",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22117",
+   "en": "Widow",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22118",
+   "en": "Corpse and Destroyed Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22119",
+   "en": "Obtain garage pass",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22120",
+   "en": "Change Weapon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22121",
+   "en": "Tactical Orders",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22122",
+   "en": "Additional Quality Assurance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22123",
+   "en": "Composer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22124",
+   "en": "Sam Hulick",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22125",
+   "en": "Charismatic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22126",
+   "en": "Search and Rescue",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22127",
+   "en": "Colonial Savior",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22128",
+   "en": "Cerberus Hunter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22129",
+   "en": "Lockdown Survivor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22130",
+   "en": "Requirement: Resolved impossible situation with Charm or Intimidate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22131",
+   "en": "Requirement: Locate Liara in Artemis Tau Cluster",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22132",
+   "en": "Requirement:\nComplete the mission on the asteroid.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22133",
+   "en": "Requirement:\nComplete the investigation into the Cerberus group.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22134",
+   "en": "Requirement:\nComplete the investigation into Jormangund Technology.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22135",
+   "en": "Use Charm or Intimidate to resolve an impossible situation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22136",
+   "en": "Locate Dr.T'soni in the Artemis Tau cluster",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22137",
+   "en": "Requirement: Complete the mission on the asteroid.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22138",
+   "en": "Requirement: Complete the investigation into the Cerberus group.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22139",
+   "en": "Requirement: Complete the investigation into Jormangund Technology.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22140",
+   "en": "Spectre Inductee",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22141",
+   "en": "Requirement: Become a Spectre",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22142",
+   "en": "Become a Spectre",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22143",
+   "en": "Create a custom male character",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22144",
+   "en": "Create a custom female character",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22145",
+   "en": "Jump right in to the game as a male soldier.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22146",
+   "en": "Jump right in to the game as a female soldier.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22147",
+   "en": "Custom Male",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22148",
+   "en": "Custom Female",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22149",
+   "en": "Quick-start Male",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22150",
+   "en": "Quick-start Female",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22151",
+   "en": "Slave",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22152",
+   "en": "zTest VEHICLE",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22153",
+   "en": "zTest STORE",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22154",
+   "en": "zTest PAWN HOSTILE",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22155",
+   "en": "zTest PAWN NEUTRAL",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22156",
+   "en": "zTest PLOT",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22157",
+   "en": "zTest MINERAL",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22158",
+   "en": "zTest PAWN FRIENDLY",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22159",
+   "en": "zTest POINT OF INTEREST",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22160",
+   "en": "zTest ANOMALY",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22161",
+   "en": "zTest DEBRIS",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22162",
+   "en": "zTest HENCHMEN",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22163",
+   "en": "zTest TRANSITION",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22164",
+   "en": "zTest SURVEYED",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22165",
+   "en": "Mineral Deposit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22166",
+   "en": "Surveyed Germanium Deposit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22167",
+   "en": "Surveyed Iridium Deposit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22168",
+   "en": "MSV Majesty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22169",
+   "en": "Brow",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22170",
+   "en": "Scar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22171",
+   "en": "Engine Debris",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22172",
+   "en": "Prothean Pyramid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22173",
+   "en": "Search",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22174",
+   "en": "Mummified Salarian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22175",
+   "en": "Salarian Corpse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22176",
+   "en": "Storage Capsule",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22177",
+   "en": "Asari Capsule",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22178",
+   "en": "Any",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22179",
+   "en": "Human",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22180",
+   "en": "Turian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22181",
+   "en": "Quarian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22182",
+   "en": "Deleting a Career will also delete all Save Games belonging to the Career.  Do you wish to continue deleting this Career?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22183",
+   "en": "Klensal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22184",
+   "en": "Klensal has a thin atmosphere of carbon dioxide and ethane. Its first geological surveys were performed by batarians, and suggested areas of great mineral wealth. Human mining concerns spent billions of credits hustling to the distant system and sinking test bores to claim the system for humanity.\n\nBut Klensal had only an average level of mineral wealth – valuable, but hardly worth the rush and expense. Merida Industria, a small Mexican company hoping to strike it rich in their first extrasolar mining venture, had to file for bankruptcy protection.\n\nInvestigation revealed the batarian crew had deliberately falsified their surveys, hoping it would encourage human rivals to invest in a costly boondoggle. While unethical, this was not technically illegal, and the batarian government disavowed the \"personal actions of a few misguided patriots.\" The planet is still littered with abandoned mining bases, which are often used as temporary meeting places for criminals\n\nOrbital Period: 21.4 Earth Years\nRadius: 5447 km\nDay Length: 37.2 Earth Hours\nAtmospheric Pressure: 0.58 Earth Atmospheres\nSurface Temperature: -35 Celsius\nSurface Gravity: 0.86 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22185",
+   "en": "Mavigon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22186",
+   "en": "WARNING: Level 2 Cold Hazard\n\nMavigon is a small rock and ice planet with a thin atmosphere of ammonia and methane. The surface is frozen, and mainly composed of tin with deposits of potassium.\n\nThe planet has a rudimentary ammonia-based life, mainly concentrated around geothermal vents deep underground. Severe storm cycles are common; due to limited visibility, navigation may be difficult.\n\nOrbital Period: 42.3 Earth Years\nRadius: 4906 km\nDay Length: 52.0 Earth Hours\nAtmospheric Pressure: 0.82 Earth Atmospheres\nSurface Temperature: -124 Celsius\nSurface Gravity: 0.8 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22187",
+   "en": "WARNING: Level 1 Cold Hazard\n\nXawin has a thin atmosphere of carbon dioxide and ethane. The surface is frozen, and mainly composed of cobalt with deposits of copper. Planetside conditions are hazardous, with constant ice storms wracking the surface.\n\nOrbital Period: 97.3 Earth Years\nRadius: 5756 km\nDay Length: 21.8 Earth Hours\nAtmospheric Pressure: 0.79 Earth Atmospheres\nSurface Temperature: -131 Celsius\nSurface Gravity:  0.8 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22188",
+   "en": "Antibaar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22189",
+   "en": "Antibaar is a cold terrestrial world with an atmosphere of methane and argon.  Its frozen surface is mainly composed of iron with deposits of magnesium. The world has been noted as a possible target for long-term terraforming; if the atmosphere could be increased to the thickness of Earth's, the global average temperature would rise by 10 degree Celcius.\n\nAntibaar's combination of low temperatures, high speed surface winds, and low visibility make it dangerous to explore on foot.\n\nOrbital Period: 3.2 Earth Years\nRadius: 6501 km\nDay Length: 54.1 Earth Hours\nAtmospheric Pressure: 0.79 Earth Atmospheres\nSurface Temperature: -34 Celsius\nSurface Gravity: 1.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22190",
+   "en": "Trebin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22191",
+   "en": "Trebin is a modest terrestrial world, with an atmosphere composed of nitrogen and argon.  Its surface is mainly composed of nickel with deposits of silver.  \n\nTrebin's environment is relatively mild, but the scarcity of water or similar enabling substances has prevented the development of any biosphere. ExoGeni Corp recently performed a test impact of a single water-ice comet into the surface, the first step of a long-term plan to thicken the atmosphere and introduce water to the environment. \n\nA survey team is on the surface, monitoring the geological and meteorological effects of the test impact. Most of the water released is still in the form of atmospheric vapor, but thick cloud banks have formed. There is every indication that this arid world will soon see its first rain. The survey team’s progress has been hampered by frequent mechanical or computer failures in their GPS satellites.\n \nOrbital Period: 1.1 Earth Years\nRadius: 5489 km\nDay Length: 41.8 Earth Hours\nAtmospheric Pressure: 0.84 Earth Atmospheres\nSurface Temperature: 8 Celsius\nSurface Gravity: 0.86 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22192",
+   "en": "Rayingri",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

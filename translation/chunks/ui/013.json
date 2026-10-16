@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/013",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u20152",
+   "en": "Citadel: Schells the Gambler",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20153",
+   "en": "Schells is outside Flux in the Upper Wards. Speak to him if you want to help.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20154",
+   "en": "Speak to Schells",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20155",
+   "en": "You were able to run scans on the gambling machines in Flux and gather enough data for Schells. He seemed very excited by your findings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20156",
+   "en": "Citadel: Schells has his Data",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20157",
+   "en": "Doran, the proprietor of Flux, caught you using Schells' scanner and confiscated it. Schells was understandably distressed by the news.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20158",
+   "en": "Citadel: Schells' Scanner is Taken",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20159",
+   "en": "You decided to give Schells scanner to Doran. Schells was understandably upset, but at least he won't be cheating any more.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20160",
+   "en": "Citadel: Schells' Scanner Given Away",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20161",
+   "en": "Schells gave you his scanning device. Go to Flux in the Upper Wards and use the gambling machines at least five times. Don't get caught.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20162",
+   "en": "Scan the Machines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20163",
+   "en": "Go to find Schells outside Flux in the Upper Wards and tell him that Doran confiscated his scanning device.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20164",
+   "en": "Speak to Schells outside Flux in the Upper Wards and let him know you gave his scanning device to Doran.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20165",
+   "en": "You scanned the machines five times. Return the scanner to Schells outside Flux in the Upper Wards before you get caught.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20166",
+   "en": "Schells' Scanner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20167",
+   "en": "The Asari Consort, Sha'ira, has asked you to speak to General Septimus. She's concerned that this former client is spreading false accusations and could damage her reputation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20168",
+   "en": "Citadel: Asari Consort",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20169",
+   "en": "Septimus has apologized to Sha'ira and Xeltan has ceased his petition. To show her gratitude the Consort rewarded you with an oddly shaped trinket. It appears to be of Prothean design, but doesn't seem to have any purpose beyond sentimental value.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20170",
+   "en": "Septimus has apologized to Sha'ira. She is very thankful for all you did to help her.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20171",
+   "en": "The general is at Chora's Den in the Lower Wards. Ask him to stop spreading rumors about the Consort.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20172",
+   "en": "Speak with Gen. Septimus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20173",
+   "en": "Go to Sha'ira at the Consort's Chambers in the Presidium and let her know you've spoken to General Septimus.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20174",
+   "en": "Speak with Sha'ira",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20175",
+   "en": "UNC: Listening Post Alpha",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20176",
+   "en": "UNC: Listening Post Theta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20177",
+   "en": "The data you found at Listening Post Theta indicates that a supply ship came from Depot Sigma-23 in the Gorgon system just before the attacks on Listening Posts Alpha and Theta. That supply depot is likely where this rachni infestation originated.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20178",
+   "en": "UNC: Depot Sigma-23",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20179",
+   "en": "You've cleared the supply depot of the rachni that had infested it. It might be worthwhile to look around for evidence of who was experimenting on the rachni, but the immediate danger has passed for the moment.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20180",
+   "en": "You've cleared the base of rachni and discovered the identity of the group that let them get free. It appears to be an organization known as Cerberus.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20181",
+   "en": "You've cleared the base of rachni and discovered that this was another of Cerberus's secret experiments. At least they won't be breeding rachni again anytime soon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20182",
+   "en": "UNC: Asari Diplomacy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20183",
+   "en": "You've killed an asari mercenary named Dahlia Dantius. According to a datapad found on Dahlia's body, her sister Nassana is a diplomat on the Citadel. Dahlia was evidently blackmailing Nassana by threatening to reveal her own existence and ruin Nassana's career. Nassana will want to hear the news that her sister is dead.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20184",
+   "en": "Dahlia's Datapad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20185",
+   "en": "You have destroyed the geth transmitter. Zhu's Hope is safe from the immediate threat of the geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20186",
+   "en": "Vehicle Minigun",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20187",
+   "en": "Vehicle Cannon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20188",
+   "en": "Vehicle Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20189",
+   "en": "Vehicle Plating",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20190",
+   "en": "Vehicle Sensors",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20191",
+   "en": "All combat vehicles include a coaxially-mounted rapid-fire minigun for antipersonnel suppression.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20192",
+   "en": "The main cannon is primarily used against vehicles and other hard targets, though it has some anti-personnel utility.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20193",
+   "en": "Vehicles fit kinetic barriers similar to those in infantry body armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20194",
+   "en": "Most combat vehicles are designed with replaceable modular armor that eases repairs and modifications.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20195",
+   "en": "Vehicles can be equipped with a variety of mission-specific sensor suites.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20196",
+   "en": "Helena Blake, a high-ranking member of a criminal cartel, has asked you to eliminate two of her unpleasant compatriots. Their bases are located in the Han and Dis systems. After eliminating them, meet Ms. Blake in the Fortuna system for a reward.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20197",
+   "en": "UNC: Hostile Takeover",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20198",
+   "en": "You eliminated the crimelords, enabling Helena Blake to take power. Blake has promised that under her leadership, the gang will now restrict itself to smuggling and other \"victimless\" crimes.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20199",
+   "en": "You eliminated the crimelords, and then took down Helena Blake herself to completely destroy the gang.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20200",
+   "en": "You eliminated the two rival crimelords and convinced Helena Blake to disband the gang altogether.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20201",
+   "en": "The two crimelords are located in the Han System of the Gemini Sigma cluster and in the Dis System of the Hades Gamma cluster. Eliminate both of them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20202",
+   "en": "Eliminate Crimelords",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20203",
+   "en": "The two crimelords are located in the Han System of the Gemini Sigma cluster and in the Dis System of the Hades Gamma cluster. You've killed the first, now eliminate the second.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20204",
+   "en": "Finish Crimelords",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20205",
+   "en": "Go to the Fortuna system in the Horse Head Nebula and meet Helena Blake to claim your reward.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20206",
+   "en": "Meet Helena Blake",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20207",
+   "en": "Fanatical biotics in the Hades Gamma cluster have kidnapped the chairman of the Parliament Subcommittee on Transhuman Studies and are holed up in a derelict freighter in the Farinata System.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20208",
+   "en": "UNC: Hostage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20209",
+   "en": "You boarded the freighter and took down the biotics, saving Chairman Burns in the process.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20210",
+   "en": "You boarded the freighter and took down the biotics. Chairman Burns died in the course of the fight.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20211",
+   "en": "You boarded the freighter and convinced the biotic fanatics to surrender peacefully. Chairman Burns has promised to re-examine his decision regarding payments to L2s in the wake of the kidnapping.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20212",
+   "en": "Find the freighter in Farinata System of the Hades Gamma cluster and make your way to the biotics on board.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20213",
+   "en": "Board Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20214",
+   "en": "Pistols\nIncreases accuracy and damage with pistols\nGrants the Marksman ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20215",
+   "en": "Shotguns\nIncreases accuracy and damage with shotguns\nGrants the Carnage ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20216",
+   "en": "Assault Rifles\nIncreases accuracy and damage with assault rifles\nGrants the Overkill ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20217",
+   "en": "Sniper Rifles\nIncreases accuracy and damage with sniper rifles\nGrants the Assassination ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20218",
+   "en": "Combat Armor\nAble to equip medium armor\nIncreases damage protection\nGrants the Shield Boost ability\nUnlocks heavy armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20219",
+   "en": "Tactical Armor\nAble to equip light armor\nIncreases damage protection\nGrants the Shield Boost ability\nUnlocks medium armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20220",
+   "en": "Light Armor\nAble to equip light armor\nIncreases damage protection\nGrants the Shield Boost ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20221",
+   "en": "First Aid\nIncreases squad healing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20222",
+   "en": "Medicine\nImproves the recharge time on squad healing\nGrants the Neural Shock ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20223",
+   "en": "Fitness\nIncreases health\nGrants the Immunity ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20224",
+   "en": "Assault Training\nIncreases melee damage\nIncreases weapons damage\nGrants the Adrenaline Burst ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20225",
+   "en": "Throw\nProjects a mass effect field powerful enough to hurl objects and enemies caught in the area of effect out of the way.\n\nEach point spent increases the strength of Throw, knocking targets farther and inflicting greater damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20226",
+   "en": "Lift\nProjects a sphere of powerful contra-gravity\nAny object or creature caught in the area of effect will be lifted into the air. Enemies will be temporarily immobilized until they fall back to the ground.\n\nEach point spent increases duration of Lift.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20227",
+   "en": "Warp\nProjects a powerful mass effect field that wreaks havoc on a subatomic level.\nWeakens armor and inflicts damage over time on enemies caught in the area of effect.\n\nEach point spent increases the duration of Warp.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20228",
+   "en": "Singularity\nProjects a sphere of dark energy that creates an intense mass effect field.\nNearby enemies and objects will be drawn into the singularity, unable to escape its gravitational pull.\n\nEach point spent in this ability increases the radius of the singularity.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20229",
+   "en": "Barrier\nBolsters your kinetic shields with a mass effect field that can absorb a massive amount of damage\nAttacks that penetrate shields will also penetrate this barrier\n\nEach point spent increases the strength and duration of the barrier.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20230",
+   "en": "Stasis\nCreates a powerful mass effect field that immobilizes a single target\n\nEach point spent increases the duration of stasis.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20231",
+   "en": "Damping\nIncreases the explosion radius on your tech proximity mines\nShuts down enemy tech and biotic abilties",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20232",
+   "en": "Hacking\nRecharges your tech proximity mines more quickly\nGrants the AI Hacking ability, which makes artificial enemies go berserk and attack each other",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20233",
+   "en": "Decryption\nIncreases the amount of omni-gel recovered\nLets you use the Decryption skill to open secure objects\nGrants the Sabotage ability, which shuts down enemy weapons within a certain radius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20234",
+   "en": "Electronics\nIncreases the strength of your shields\nIncreases the amount of hull restored when you repair the vehicle\nLets you use the Electronics skill to repair or bypass objects\nGrants the Overload ability, which shuts down enemy shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20235",
+   "en": "Soldier\nFront-line warriors are trained to withstand the physical punishment that comes with combat.\n\nIncreases health\nAllows limited health regeneration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20236",
+   "en": "Adept\nBiotic specialists can use focused training to optimize their abilities.\n\nIncreases biotic resistance\nReduces recharge time for biotics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20237",
+   "en": "Engineer\nTech specialists can use innovative tricks to get the most out of every resource.\n\nReduces recharge time on tech abilities\nIncreases tech resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20238",
+   "en": "Vanguard\nVanguards are trained for close-range combat, and can use their own abilities to counter enemy biotic attacks.\n\nIncreases biotic resistance\nIncreases damage with shotguns and pistols",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20239",
+   "en": "Infiltrator\nRelying on stealth and reconnaissance, Infiltrators prefer to take their enemies out from a distance.\n\nIncreases damage done by tech mines\nReduces overheating on sniper rifles and pistols",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20240",
+   "en": "Sentinel\nSpecial training allows Sentinels to use tech and biotics more efficiently than other classes.\n\nReduces the recharge time of tech abilities\nReduces the recharge time of biotic abilities\nIncreases damage and accuracy with pistols\nGrants the Marksman ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20241",
+   "en": "Shock Trooper\nHighly trained killing machines, Shock Troopers excel in all combat situations.\n\nIncreases health\nIncreases damage protection\nImproves the Immunity or Barrier ability\nImproves the Adrenaline ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20242",
+   "en": "Commando\nCommandos rely on lethal efficiency and precision strikes rather than brute force to eliminate their opponents.\n\nIncreases damage with all weapons\nImproves Immunity ability\nImproves Marksman ability\nImproves Assassination ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20243",
+   "en": "Operative\nOperatives are masters at manipulating their environment to maximum advantage.\n\nReduces recharge time on all tech attacks\nImproves Overload\nImproves Sabotage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20244",
+   "en": "Medic\nMedics combine tech and healing abilities to boost the efficiency of the entire squad.\n\nImproves recharge time on medical abilities\nImproves First Aid\nImproves Neural Shock",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20245",
+   "en": "Nemesis\nThe Nemesis is a biotic specialist who uses mass effect fields to inflict heavy damage against opponents.\n\nIncrease duration and damage for all biotic abilities\nImproves Warp\nImproves Lift",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20246",
+   "en": "Bastion\nBastions use biotics for defense or for opponent immobilization.\n\nReduces recharge time on all biotics\nImproves Barrier\nImproves Stasis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20247",
+   "en": "Charm\nOpens Charm options in conversation\nDecreases the cost of items in stores\n\nCharm options in conversations will be grayed out if you do not have a high enough skill rank.\nNew skill ranks will unlock when you become a Spectre and as you earn Paragon points.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20248",
+   "en": "Intimidate\nOpens Intimidate options in conversations\nIncreases credits gained when selling items in stores\n\nIntimidate options in conversations will be grayed out if you do not have a high enough skill rank.\nNew skill ranks will unlock when you become a Spectre and as you earn Renegade points.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20249",
+   "en": "Spectre Training\nElite agents of the Council, the Spectres have access to special training unavailable elsewhere in the galaxy.\n\nIncreases health, accuracy, and effectiveness of all attacks and powers\nGrants Unity ability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20250",
+   "en": "Asari Scientist\nLiara's background allows her to maximize her biotic abilities.\n\nReduces recharge time of biotics\nImproves health restored and recharge time on squad healing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20251",
+   "en": "Krogan Battlemaster\nWrex is one of the last true Krogan Battlemasters, as they are a dying breed... for which the rest of the galaxy is grateful.\n\nImproves health regeneration\nIncreases physics resistance\nIncreases melee damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20252",
+   "en": "Turian Agent\nThe required military service of his people has given Garrus expert training in assault and sniper rifles.\n\nIncreases accuracy with all weapons\nIncreases damage with assault and sniper rifles",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20253",
+   "en": "Quarian Machinist\nThough young, Tali is a true genius when it comes to dealing with mechanical or electronic equipment.\n\nIncreases tech resistance\nIncreases shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20254",
+   "en": "UNC: Distress Call",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20255",
+   "en": "The distress call was a trap set by the geth. Escape before the med ship self-destructs and takes you with it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20256",
+   "en": "Unlock Pistols",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20257",
+   "en": "Unlock Assault Rifles",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20258",
+   "en": "Unlock Shotguns",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20259",
+   "en": "Unlock Sniper Rifles",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20260",
+   "en": "Unlock Fitness",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20261",
+   "en": "Unlock Assault Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20262",
+   "en": "Unlock Throw",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20263",
+   "en": "Unlock Lift",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20264",
+   "en": "Unlock Warp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20265",
+   "en": "Unlock Singularity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20266",
+   "en": "Unlock Barrier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20267",
+   "en": "Unlock Stasis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20268",
+   "en": "Unlock Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20269",
+   "en": "Unlock Electronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20270",
+   "en": "Unlock Hacking",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20271",
+   "en": "Unlock Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20272",
+   "en": "Unlock First Aid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20273",
+   "en": "Unlock Medicine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20274",
+   "en": "Increases damage by 5%\nIncreases accuracy by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20275",
+   "en": "Increases damage by 8%\nIncreases accuracy by 14%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20276",
+   "en": "Marksman\n\nOnly available when using pistols\nBoosts accuracy 60%, increases damage 25%, increases headshot damage 50%\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20277",
+   "en": "Increases damage by 10%\nIncreases accuracy by 17%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20278",
+   "en": "Increases damage by 12%\nIncreases accuracy by 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20279",
+   "en": "Increases damage by 14%\nIncreases accuracy by 22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20280",
+   "en": "Increases damage by 16%\nIncreases accuracy by 24%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20281",
+   "en": "Advanced Marksman\n\nOnly available when using pistols\nBoosts accuracy 60%, increases damage 50%, increases headshot damage 75%\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20282",
+   "en": "Advanced Marksman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20283",
+   "en": "Increases damage by 18%\nIncreases accuracy by 26%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20284",
+   "en": "Increases damage by 19%\nIncreases accuracy by 28%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20285",
+   "en": "Increases damage by 20%\nIncreases accuracy by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20286",
+   "en": "Master Marksman\n\nOnly available when using pistols\nBoosts accuracy 60%, increases damage 75%, increases headshot damage 100%\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20287",
+   "en": "Master Marksman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20288",
+   "en": "Overkill\n\nOnly available when using assault rifles\nFiring assault rifles generates 80% less heat and does 50% more damage\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20289",
+   "en": "Advanced Overkill\n\nOnly available when using assault rifles\nFiring assault rifles generates 90% less heat and does 75% more damage\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20290",
+   "en": "Advanced Overkill",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20291",
+   "en": "Master Overkill\n\nOnly available when using assault rifles\nFiring assault rifles generates no heat and does 100% more damage\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20292",
+   "en": "Master Overkill",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20293",
+   "en": "Carnage\n\nOnly available when using shotguns\nFires blast of particles inflicting weapon damage +50% to any enemy within 2 m of its impact point\n\nRecharge Time: 45s\nAccuracy Cost: 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20294",
+   "en": "Advanced Carnage\n\nOnly available when using shotguns\nInflicts weapon damage +100% within 2 m of its impact point\n\nRecharge Time: 45s\nAccuracy Cost: 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20295",
+   "en": "Advanced Carnage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20296",
+   "en": "Master Carnage\n\nOnly available when using shotguns\nInflicts weapon damage +150% within 3 m of its impact point\n\nRecharge Time: 45s\nAccuracy Cost: 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20297",
+   "en": "Master Carnage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20298",
+   "en": "Assassination\n\nOnly available when using sniper rifles\nNext shot will inflict damage equal to 200% of weapon DPS\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20299",
+   "en": "Advanced Assassination\n\nOnly available when using sniper rifles\nNext shot will inflict damage equal to 250% of weapon DPS\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20300",
+   "en": "Advanced Assassination",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20301",
+   "en": "Master Assassination\n\nOnly available when using sniper rifles\nNext shot will inflict damage equal to 300% of weapon DPS\nPurges weapon heat on use\n\nDuration: 6s\nRecharge Time: 45s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/017",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u20752",
+   "en": "You have stumbled upon a research world for an organization called Cerberus. Data found at the base suggests that more research is being conducted on other worlds.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20753",
+   "en": "You have stumbled onto a Cerberus research world. Data found at their base suggests that there are more of these sinister bases elsewhere.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20754",
+   "en": "Data at the base you just wiped out revealed another Cerberus operation on this world. Destroy that base, as well.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20755",
+   "en": "Continue Hunting Cerberus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20756",
+   "en": "Biotic fanatics have taken over a medical station and drugged innocent researchers to serve as human shields. You must eliminate the biotics while minimizing innocent casualties.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20757",
+   "en": "UNC: Besieged Base",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20758",
+   "en": "You have eliminated the threat posed by the biotic fanatics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20759",
+   "en": "Get to the medical base on Chohe, located in the Cacus System of the Hades Gamma cluster, and eliminate the biotics while avoiding civilian casualties.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20760",
+   "en": "Get to Medical Base",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20761",
+   "en": "You have neutralized the threat posed by the biotic fanatics. Return to the Normandy and use the galaxy map to report in to Admiral Hackett.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20762",
+   "en": "Krogan Hound",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20763",
+   "en": "Titan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20764",
+   "en": "Savant Amp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20765",
+   "en": "Binary Ultra Tool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20766",
+   "en": "Profile Summary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20767",
+   "en": "Profile reconstruction complete. Press [UI_XBoxB_Btn_A] to begin, or [UI_XBoxB_Btn_B] to go back.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20768",
+   "en": "Opold asked for your help smuggling a package through customs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20769",
+   "en": "You've agreed to help Opold. His package has been left outside the Normandy, in the docking bay.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20770",
+   "en": "Retrieve the Package",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20771",
+   "en": "Opold's job is still available. Talk to him at his store again if you change your mind.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20772",
+   "en": "Opold's Offer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20773",
+   "en": "You've recovered Opold's package. It appears to be a powerful, experimental weapon mod. Bring it back to him at his store.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20774",
+   "en": "Return the Package",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20775",
+   "en": "You gave Opold his package.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20776",
+   "en": "You gave Opold's package directly to his buyer, the mercenary Inamorda.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20777",
+   "en": "You turned Opold's package over to Administrator Anoleis in order to get a pass to leave Hanshan.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20778",
+   "en": "You kept Opold's package for yourself.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20779",
+   "en": "You have been approached by Conrad Verner. He seemed like a harmless fan.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20780",
+   "en": "You told Conrad in no uncertain terms that you wanted him to leave you alone. Hopefully this is the last you'll hear from him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20781",
+   "en": "You convinced Conrad that his interest in you is unhealthy, and he should head back home to his family. He shouldn't be a problem any longer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20782",
+   "en": "Listening Device",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20783",
+   "en": "Return to the Citadel Tower and inform Emily Wong that you have planted the listening device.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20784",
+   "en": "Inform Emily",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20785",
+   "en": "You planted the listening devices for Emily Wong. She will now be able to produce her story about overworked space traffic controllers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20786",
+   "en": "By paying for an evangelical permit for the hanar, you were able to make both sides happy. The hanar has left to preach in an appropriate location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20787",
+   "en": "Inform the hanar preacher in the Presidium that the C-Sec officer will no longer harass him",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20788",
+   "en": "Inform the Hanar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20789",
+   "en": "Tell the C-Sec officer in the Presidium that the hanar will no longer be preaching there.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20790",
+   "en": "Inform the C-Sec Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20791",
+   "en": "You've discovered that Matriarch Benezia is on Noveria, but she's left the public port area. In order to proceed, you need to get a pass into the garage. Administrator Anoleis has denied your request for one, but there may be a way to persuade him, or another source.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20792",
+   "en": "Noveria: Leave Port Hanshan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20793",
+   "en": "You acquired a pass to leave Port Hanshan from Lorik Qui'in, in exchange for recovering evidence of corruption on Noveria. You can proceed to Peak 15 via the garage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20794",
+   "en": "You acquired a pass to leave Port Hanshan from Gianna Parasini, in exchange for convincing Lorik Qui'in to testify against Administrator Anoleis. You can proceed to Peak 15 via the garage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20795",
+   "en": "You acquired a pass to leave Port Hanshan from Administrator Anoleis, in exchange for revealing Opold's smuggling. You can proceed to Peak 15 via the garage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20796",
+   "en": "You acquired a pass to leave Port Hanshan from Administrator Anoleis, in exchange for giving him Lorik's Qui'in's evidence of his corruption. You can proceed to Peak 15 via the garage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20797",
+   "en": "By blackmailing Administrator Anoleis with proof of his corruption, you've acquired a pass to leave Port Hanshan. You can proceed to Peak 15 via the garage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20798",
+   "en": "You need to acquire a pass to leave Port Hanshan. Only Anoleis and important managers have them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20799",
+   "en": "A Garage Pass",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20800",
+   "en": "Gianna said to speak with Administrator Anoleis to leave Port Hanshan. His office is upstairs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20801",
+   "en": "Administrator Anoleis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20802",
+   "en": "Speak to Bosker, the diplomat handling Mr. Bhatia's situation and find out why his wife's body has not been returned. He is in the Embassy Lounge on the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20803",
+   "en": "Talk with Diplomat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20804",
+   "en": "You've heard Mr. Bosker's reasons for keeping the body. You will need to use Charm or Intimidate skills to convince one of the men to see reason.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20805",
+   "en": "Make a Decision",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20806",
+   "en": "Meet Mr. Bhatia outside the Presidum Embassies and tell him that his wife's body will be returned to him shortly.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20807",
+   "en": "Inform Mr. Bhatia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20808",
+   "en": "A man named Finch, from the gang you joined in your youth, has asked you to speak to a turian guard about getting a fellow gang member freed. The guard is down in Chora's Den.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20809",
+   "en": "You convinced the turian guard to free his prisoner. Finch and the old gang shouldn't be a problem for you any longer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20810",
+   "en": "After refusing to help free the prisoner, you convinced Finch that smearing the name of the first human Spectre wouldn't help the Terra Firma movement. Finch and the old gang shouldn't bother you any longer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20811",
+   "en": "You paid Finch off to prevent him from smearing your name. Now that they know you won't help them, the old gang shouldn't bother you any longer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20812",
+   "en": "You have killed Finch. The old gang won't be troubling you any further.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20813",
+   "en": "Go talk to the turian guard at Chora's Den in the Lower Wards.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20814",
+   "en": "Find the Turian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20815",
+   "en": "You met a homeless man named Zabaleta on the Citadel. He insisted he knew your mother before asking you to give him money.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20816",
+   "en": "If you wanted to confirm Zabaleta's story, you could easily contact your mother using the Normandy's FTL comm room.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20817",
+   "en": "Call Home",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20818",
+   "en": "Speak to Zabaleta in the Wards Access corridor just off the Presidium to see if you can help him with his drinking.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20819",
+   "en": "Speak to Zabaleta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20820",
+   "en": "Zabaleta didn't want help, only liquor to help him forget Mindoir. You obliged him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20821",
+   "en": "Zabaleta didn't want help, only liquor to help him forget Mindoir. You didn't oblige him, and he left in anger.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20822",
+   "en": "You refused to give Zabaleta money for liquor, but you set him up a small food account at a grocery store.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20823",
+   "en": "You convinced Zabaleta to seek help at the Veteran's Affairs Office.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20824",
+   "en": "Lieutenant Girard has asked for your help with a suicidal girl who has barricaded herself in the docking bay. She was taken from the Mindoir colony by batarian slavers in the same raid that killed your family.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20825",
+   "en": "You were able to calm Talitha down, and convinced her to take a sedative. She will be brought to a place where she will be cared for.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20826",
+   "en": "You were able to calm Talitha down long enough to jump her with a sedative. She will be brought to a place where she will be cared for.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20827",
+   "en": "Despite your best efforts, Talitha took her own life.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20828",
+   "en": "You ordered Lieutenant Girard to kill Talitha.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20829",
+   "en": "Lieutenant Girard gave you a sedative. If you can use it on the girl, she will be taken to a psychiatric facility for help. He noted that she gets more agitated the closer you get to her, but you can always walk away if she gets too upset.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20830",
+   "en": "The Needle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20831",
+   "en": "Charles Saracino of the Terra Firma Party approached you on the Citadel, seeking support in the next election. You said you would vote for him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20832",
+   "en": "Charles Saracino of the Terra Firma Party approached you on the Citadel, seeking support in the next election. You said you would endorse him publically.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20833",
+   "en": "Charles Saracino of the Terra Firma Party approached you on the Citadel, seeking support in the next election. You declined.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20834",
+   "en": "You convinced Rebekah to get the gene therapy that will ensure her child a life free from heart disease. She and Michael reconciled their differences.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20835",
+   "en": "You convinced Michael to respect Rebekah's wishes concerning her unborn child. She and Michael have reconciled their differences.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20836",
+   "en": "You were unable to help Rebekah and Michael resolve their differences regarding what kind of therapy Rebekah's unborn child should have. Hopefully they will work out the problem on their own.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20837",
+   "en": "A reporter approached you for an interview. You refused.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20838",
+   "en": "A reporter approached you for an interview. You agreed at first, but walked away when her bias became apparent.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20839",
+   "en": "A reporter approached you for an interview. You agreed at first, but punched her and left when her bias became apparent.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20840",
+   "en": "You agreed to be interviewed by a reporter. Hopefully you came off well.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20841",
+   "en": "Rear Admiral Mikhailovich came to do a surprise inspection of the Normandy. Since the ship is no longer under Alliance command, you could refuse him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20842",
+   "en": "Rear Admiral Mikhailovich performed a surprise inspection of the Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20843",
+   "en": "You've made your way to Virmire, but the the salarians are situated in an area guarded by AA towers. The Normandy has dropped you off, but must stay out of range until the AA towers are deactivated.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20844",
+   "en": "Virmire: The Salarian Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20845",
+   "en": "Prepare your team for the assault on Saren's base. When you're ready, talk to Captain Kirrahe.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20846",
+   "en": "Prepare for Assault",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20847",
+   "en": "Lack omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20848",
+   "en": "Switch Careers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20849",
+   "en": "Load Career",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20850",
+   "en": "Extras",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20851",
+   "en": "Downloadable Content",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20852",
+   "en": "Go to the coordinates marked on your map and destroy the underground rachni base.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20853",
+   "en": "Destroy Rachni Base",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20854",
+   "en": "The geth are a humanoid race of networked AIs. They were created by the quarians 300 years ago as tools of labor and war. When the geth showed signs of self-evolution, the quarians attempted to exterminate them. The geth won the resulting war. This example has led to legal, systematic repression of artificial intelligences in galactic society.\n\nThe geth possess a unique distributed intelligence. An individual has rudimentary animal instincts, but as their numbers and proximity increase, the apparent intelligence of each individual improves. In groups, they can reason, analyze situations, and use tactics as well as any organic race. \n\nGeth space is located at the trailing end of the Perseus Arm, beyond the lawless Terminus Systems. The Perseus Veil, an obscuring 'dark nebula' of opaque gas and dust, lies between their space and the Terminus Systems.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20855",
+   "en": "Lucan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20856",
+   "en": "Dorian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20857",
+   "en": "Gregor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20858",
+   "en": "Grunt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20859",
+   "en": "Horace",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20860",
+   "en": "Jered",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20861",
+   "en": "Leader",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20862",
+   "en": "Lysander",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20863",
+   "en": "Scout",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20864",
+   "en": "Vasilis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20865",
+   "en": "Lystheni Attacker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20866",
+   "en": "Elarya",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20867",
+   "en": "Dr. Euthalia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20868",
+   "en": "Hanar Assistant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20869",
+   "en": "Hanar Senator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20870",
+   "en": "Nuriam",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20871",
+   "en": "After the geth secure a location, they round up and impale dead and living bodies on mechanical spikes. The spikes rapidly transform these victims into withered husks, extracting water and trace minerals and replacing them with cybernetics.\n\nThe cybernetics re-animate the lifeless flesh and tissue, transforming the bodies into mindless killing machines. Some Alliance soldiers refer to the husk-generating spikes as Dragon’s Teeth, a reference to the mythological berserkers who sprang up from the earth wherever the teeth of the dragon Ares were planted.\n\nDragon's Teeth and husks bear little resemblance to other pieces of geth technology. No one is sure why a synthetic race would bother to drain the miniscule amount of recoverable resources from organic corpses, though the value of reusing them as shock troops is obvious.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20872",
+   "en": "Husks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20873",
+   "en": "A mass accelerator propels a solid metal slug using precisely-controlled electromagnetic attraction and repulsion. The slug is designed to squash or shatter on impact, increasing the energy it transfers to the target. If this were not the case, it would simply punch a hole right through, doing minimal damage.\n\nAccelerator design was revolutionized by element zero. A slug lightened by a mass effect field can be accelerated to greater speeds, permitting projectile velocities that were previously unattainable. If accelerated to a high enough velocity, a simple paint chip can impact with the same destructive force as a nuclear weapon.\n\nHowever, mass accelerators produce recoil equal to their impact energy. This is mitigated somewhat by the mass effect fields that rounds are suspended within, but weapon recoil is still the prime limiting factor on slug velocity.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20874",
+   "en": "Mass Accelerators",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20875",
+   "en": "The development of practical minifacturing omni-tools allows modern militaries a great deal of flexibility in equipment load-outs. A vast number of field modification kits, or 'upgrades', are available for common equipment such as weapons, armor, omni-tools, biotic amps, and even grenades.\n\nAn upgrade typically consists of less than a dozen unique parts and a single optical storage disc. When loaded into an omni-tool, the OSD provides all technical specifications required to manufacture the tools and additional parts necessary to install the upgrade onto another piece of equipment. Assembly is typically modular, and installation can be completed in less than a minute.\n\nSince omni-tools are designed to use common battlefield salvage materials such as plastics, ceramics, and light metals, it is quite possible for a trained soldier carrying upgrade kits to customize gear on the battlefield to fit the current tactical situation.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20876",
+   "en": "Mods",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20877",
+   "en": "All modern infantry weapons from pistols to assault rifles use micro-scaled mass accelerator technology. Projectiles consist of tiny metal slugs suspended within a mass-reducing field, accelerated by magnetic force to speeds that inflict kinetic damage.\n\nThe ammo magazine is a simple block of metal. The gun’s internal computer calculates the mass needed to reach the target based on distance, gravity, and atmospheric pressure, then shears off an appropriate sized slug from the block. A single block can supply thousands of rounds, making ammo a non-issue during any engagement.\n\nTop-line weapons also feature smart targeting that allows them to correct for weather and environment. Firing on a target in a howling gale feels the same as it does on a calm day on a practice range. Smart targeting does not mean a bullet will automatically find the mark every time the trigger is pulled; it only makes it easier for the marksman to aim.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20878",
+   "en": "Small Arms",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20879",
+   "en": "Sovereign is the flagship of the rogue Spectre Saren. An enormous dreadnought larger than any other ship in any known fleet, Sovereign is crewed with both geth and krogan. At two kilometers long, its spinal-mounted main gun is likely capable of penetrating another dreadnought’s kinetic barriers with a single shot.\n\nHow Saren acquired this incredible warship is unknown. The prevailing opinion is that Sovereign is a geth construct, while others believe it is a Prothean relic. Its design, however, hints at a more alien and mysterious origin.\n\nThe attack on Eden Prime demonstrated Sovereign’s ability to generate mass effect fields powerful enough to land on a planetary surface. This implies it has a massive element zero core, and the ability to generate staggering amounts of power.\n\n ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20880",
+   "en": "The 'Mako' infantry fighting vehicle was designed for the System Alliance’s frigates. Though the interior is cramped, an M35 is small enough to be carried in the cargo bay and easily deployed on virtually any world. \n\nWith its turreted 155mm mass accelerator and coaxially-mounted machine gun, the Mako can provide a fire team with weapon support as well as mobility. Since Alliance marines may be required to fight on any world, the Mako is environmentally-sealed and equipped with microthrusters for use on low-gravity planetoids.\n\nThe Mako is powered by a sealed hydrogen-oxygen fuel cell, and includes a small element zero core. While not large enough to nullify the vehicle’s mass, the core can reduce it enough to be safely air-dropped. When used in conjunction with thrusters, it also allows the Mako to extricate itself from difficult terrain.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20881",
+   "en": "Vehicles: M35 Mako",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20882",
+   "en": "An artificial intelligence is a self-aware computing system capable of learning and independent decision making. Creation of a conscious AI requires adaptive code, a slow, expensive education, and a specialized quantum computer called a 'blue box'.\n\nAn AI cannot be transmitted across a communication channel or computer network. Without its blue box, an AI is no more than data files. Loading these files into a new blue box will create a new personality, as variations in the quantum hardware and runtime results create unpredictable variations.\n\nThe geth serve as a cautionary tale against the dangers of rogue AI, and in Citadel Space they are technically illegal. Advocacy groups argue, however, that an AI is a living, conscious entity deserving the same rights as organics. They argue that continued use of the term 'artificial' is institutionalized racism on the part of organic life; the term 'synthetic' is considered the politically correct alternative.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20883",
+   "en": "Computers: Artificial Intelligence (AI)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20884",
+   "en": "Mass relays are feats of Prothean engineering advanced far beyond the technology of any living species. They are enormous structures scattered throughout the stars, and can create corridors of virtually mass-free space, allowing instantaneous transit between locations separated by years or even centuries of travel using conventional FTL drives.\n\nPrimary mass relays can propel ships thousands of light years, often from one spiral arm of the galaxy to another. However, they have fixed one-to-one connections: a primary relay connects to one other primary relay, and nowhere else. Secondary relays can only propel ships across a few hundred light years, however they are omnidirectional: a secondary relay can send a ship to any other relay within its limited range.\n\nThere are many dormant primary relays whose corresponding twins have not yet been located. These are left inactive until their partner is charted, as established civilizations are unwilling to blindly open a passage that might connect them to a hostile species.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20885",
+   "en": "Mass Relays",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20886",
+   "en": "You've boarded a ship in the Farinata System of the Hades Gamma cluster and discovered what appears to be a hostage situation on board.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20887",
+   "en": "Find out who commandeered this freighter and what they want.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20888",
+   "en": "Dig Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20889",
+   "en": "Charges Remaining",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20890",
+   "en": "Stall",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20891",
+   "en": "Mining Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20892",
+   "en": "Kirrahe and his men are attacking the base head on in hopes of diverting the attention of the geth. Though your primary mission is to infiltrate the base unseen, Kirrahe has asked you to keep an eye out for ways to frustrate and slow the geth defenses.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20893",
+   "en": "Virmire: Assisting Kirrahe's Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20894",
+   "en": "While you make your way into Saren's base, keep an eye out for opportunities to sabotage the geth defenses.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20895",
+   "en": "Search for Ways to Slow Geth Defenses",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20896",
+   "en": "Kirrahe's team successfully distracted the main geth forces, allowing you to gain access to Saren's base. But the salarians paid a heavy price, losing their captain and leader.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20897",
+   "en": "Virmire: Captain Kirrahe is Dead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20898",
+   "en": "The salarians paid a terrible price during the assault, but you were able to rescue Captain Kirrahe and a few of his men before leaving Virmire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20899",
+   "en": "Virmire: Kirrahe's Team Rescued",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20900",
+   "en": "The salarians paid a terrible price during the assault, but you were able to rescue a few of the STG members before leaving Virmire. Captain Kirrahe did not survive the battle.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20901",
+   "en": "You've entered Saren's base successfully, but Kirrahe's team is still fighting a deadly battle. They will continue their push into the facility, but need time to extract themselves once the bomb is set.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

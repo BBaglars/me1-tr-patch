@@ -1,0 +1,1345 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/015",
+  "family": "NOR10"
+ },
+ "entries": [
+  {
+   "key": "u05522",
+   "en": "Nihlus is on our side. He wants you in the Spectres, and he wants that beacon.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05523",
+   "en": "We've got his back, Captain.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05524",
+   "en": "I don't like putting my life in the hands of a turian, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05525",
+   "en": "He can count on us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05526",
+   "en": "Can we trust him?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05527",
+   "en": "Engaging stealth systems.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05528",
+   "en": "Approaching drop point one.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05529",
+   "en": "We are approaching drop point two.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05530",
+   "en": "Thrusters... check. Navigation... check. Internal emissions sink engaged. All systems online. Drift... just under 1500 K.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05531",
+   "en": "Joker! Status report.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05532",
+   "en": "Just cleared the mass relay, Captain. Stealth systems engaged. Everything looks solid.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05533",
+   "en": "Good. Find a comm buoy and link us into the network. I want mission reports relayed back to Alliance brass before we reach Eden Prime.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05534",
+   "en": "Pff. Don't blame me. The captain's always in a bad mood.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05535",
+   "en": "I can't possibly imagine why.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05536",
+   "en": "Aye, aye, Captain. Better brace yourself, sir. I think Nihlus is headed your way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05537",
+   "en": "The captain's waiting for you in the comm room, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05538",
+   "en": "Great. You piss the captain off and now I'm going to pay for it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05539",
+   "en": "You made him mad.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05540",
+   "en": "Tell Commander Shepard to meet me in the comm room for a debriefing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05541",
+   "en": "The Arcturus Prime relay is in range. Initiating transmission sequence.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05542",
+   "en": "1500 is good. Your captain will be pleased.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05543",
+   "en": "I hate that guy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05544",
+   "en": "You're paranoid. The Council helped fund this project. They have a right to send someone to keep an eye on their investment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05545",
+   "en": "Yeah, that is the official story. But only an idiot believes the official story.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05546",
+   "en": "So there's more going on here than the captain's letting on.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05547",
+   "en": "Sorry, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05548",
+   "en": "They don't send Spectres on shakedown runs. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05549",
+   "en": "That's enough. You're soldiers. Act like it!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05550",
+   "en": "I agree.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC",
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05551",
+   "en": "Cut the chatter!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05552",
+   "en": "Good timing, Commander. I was just about to bring us in to the Citadel. See that taxpayer money at work.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05553",
+   "en": "You remember to zip up your jumpsuit on the way out of the bathroom? That's good. I just jumped us halfway across the galaxy and hit a target the size of a pinhead. So that's incredible!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05554",
+   "en": "All stations secure for transit. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05555",
+   "en": "The board is green. Approach run has begun.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05556",
+   "en": "Hitting the relay in 3... 2... 1...",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05557",
+   "en": "Nihlus gave you a compliment... so you hate him?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05558",
+   "en": "Besides, Spectres are trouble. I don't like having him on board. Call me paranoid.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05559",
+   "en": "Well, bad feelings are an occupational hazard. We don't go anywhere unless there's a good reason, so what are we doing here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05560",
+   "en": "You always expect the worst.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05561",
+   "en": "You're overreacting.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05562",
+   "en": "He's already here, Lieutenant. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05563",
+   "en": "You get that, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05564",
+   "en": "We are connected. Calculating transit mass and destination.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05565",
+   "en": "The relay is hot. Acquiring approach vector.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05566",
+   "en": "Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05567",
+   "en": "Pff. Captain always sounds like that when he's talking to me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05568",
+   "en": "Pff. Is it me or does the captain always sound a little pissed off?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05569",
+   "en": "Only when he's talking to you, Joker.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05570",
+   "en": "He sounds angry. Something must have gone wrong with the mission.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05571",
+   "en": "I'm on my way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05572",
+   "en": "Is he upset?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05573",
+   "en": "I heard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05574",
+   "en": "You probably don't want to keep the captain waiting, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05575",
+   "en": "Joker's waiting for you on the bridge.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05576",
+   "en": "Commander. I'm glad to see you're okay. Losing Jenkins was hard on the crew. And I'm glad we didn't lose you, too.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05577",
+   "en": "Yeah, you never get used to seeing dead civilians. Doesn't seem right, somehow. But at least you stopped Saren from wiping out the whole colony.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05578",
+   "en": "We're marines. We stick together. I'm just sorry we lost Jenkins.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05579",
+   "en": "Maybe you're right. Things went bad. Real bad. I still can't believe we lost Jenkins.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05580",
+   "en": "I know that. But I don't have to like it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05581",
+   "en": "I was there. You did everything right. It was just bad luck.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05582",
+   "en": "Sure thing, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05583",
+   "en": "Glad to see you're okay, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05584",
+   "en": "Things were pretty rough down there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05585",
+   "en": "I couldn't have done it without you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05586",
+   "en": "Dead marines. Dead colonists. And in the end, we still didn't get that beacon.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05587",
+   "en": "There's nothing we could have done to save him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05588",
+   "en": "Yeah... I wish I could've done something to save him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05589",
+   "en": "I need to go see Joker.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05590",
+   "en": "Soldiers die.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05591",
+   "en": "Jenkins will be missed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05592",
+   "en": "You helped.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05593",
+   "en": "The mission failed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05594",
+   "en": "It's been a hell of a shakedown cruise. Our first mission ends with one Spectre killing another.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05595",
+   "en": "The Citadel Council's not gonna be happy about that. Probably use it to lever more concessions out of the Alliance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05596",
+   "en": "Yeah. A lot of biotics are. We're not restricted, but we sure don't go undocumented. May as well get a paycheck for it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05597",
+   "en": "Besides, my father served. Made him proud when I enlisted. Eventually. But is that why you're here? Because of your family?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05598",
+   "en": "Ah, that's right. Akuze.  I imagine that bought you any post in the fleet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05599",
+   "en": "Ah, that's right. The Blitz. I imagine that bought you any post in the fleet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05600",
+   "en": "Ah, that's right. Torfan. Messy business. I imagine that bought you any post in the fleet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05601",
+   "en": "That how you got here? I heard about Akuze. I bet you had your pick of posts after that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05602",
+   "en": "Is that how you got here? I heard about the Skyllian Blitz. I bet you had your pick of posts after that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05603",
+   "en": "I heard about Torfan. I bet you had your pick of posts after that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05604",
+   "en": "Word is we're heading for the Citadel, ma'am. Can you tell me why?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05605",
+   "en": "Makes sense. They'd probably like to know he's not working for them anymore.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05606",
+   "en": "Yes, ma'am. Sorry.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05607",
+   "en": "Understood, ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05608",
+   "en": "Whatever happens, we'll be ready. Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05609",
+   "en": "Five by five, ma'am. Is there anything else before we head ashore?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05610",
+   "en": "Absolutely, Commander. Anything else before we head ashore?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05611",
+   "en": "An ambassador? I'd just follow standard operational procedure. Salute anything you can't eat or kill.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05612",
+   "en": "Good luck, ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05613",
+   "en": "Aye, aye ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05614",
+   "en": "Some of the crew could use it. Commander",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05615",
+   "en": "You've got a good grasp of the situation. You a career man?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05616",
+   "en": "I was a regular Navy brat. I got a little more noteworthy than the folks expected.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05617",
+   "en": "I never met my parents. If they wanted to see me, they'd have contacted me after that mess a few years back.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05618",
+   "en": "My family were homesteaders on Mindoir. I'm the only one left. But I've moved beyond that.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05619",
+   "en": "Couldn't keep me out if you tried. Best way to explore the galaxy is behind a cannon.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05620",
+   "en": "The captain hopes the Ambassador can get an audience with the Council. Tell them what Saren's been up to.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05621",
+   "en": "If the captain thought you needed to know, he'd tell you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05622",
+   "en": "The captain's briefing was confidential.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05623",
+   "en": "We'll talk another time. Make sure you're good to go for this meeting with the ambassador.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05624",
+   "en": "There's something big coming. I don't want anyone messing it up. You read me, Lieutenant?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05625",
+   "en": "Whatever's going on, the captain can handle it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05626",
+   "en": "Any advice on how to act in front of an ambassador? I don't meet many politicians.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05627",
+   "en": "Keep your concerns in check. You don't want to get a rep for questioning orders.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05628",
+   "en": "We're headed for the Citadel. When we get done with business, you and I should work out a liberty rotation.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05629",
+   "en": "Seems like you've been around.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05630",
+   "en": "Keep it to yourself.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05631",
+   "en": "Don't worry about it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05632",
+   "en": "Something similar.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05633",
+   "en": "I don't have one.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05634",
+   "en": "We were farmers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05635",
+   "en": "I'm in it for the action.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05636",
+   "en": "It's not important right now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05637",
+   "en": "We want to brief the Council.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05638",
+   "en": "Just follow your orders.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05639",
+   "en": "I can't say.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_STA60_05A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05640",
+   "en": "You know any protocol?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05641",
+   "en": "Just secure your mouth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS1_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05642",
+   "en": "Uh... Commander? We've got company.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05643",
+   "en": "Approaching target. Prepare to launch.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05644",
+   "en": "Have their sensors picked us up yet?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05645",
+   "en": "Stealth systems are engaged. Unless we get close enough for a visual, they won't have any idea we're here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05646",
+   "en": "Picking up some strange readings from the planet's surface.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05647",
+   "en": "Negative on that, Commander. The nearest landing zone's two klicks away.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05648",
+   "en": "We'll never make it in time on foot. Get us something closer!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05649",
+   "en": "There is nowhere closer! I've looked!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05650",
+   "en": "You need at least a hundred meters of open terrain to pull off a drop like that. The most I can find near Saren is twenty.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05651",
+   "en": "We have to try.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05652",
+   "en": "Twenty meters? We'll never get in close enough for a drop.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05653",
+   "en": "Twenty meters? No way we can make a drop in there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05654",
+   "en": "The descent angle's too steep!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05655",
+   "en": "Find another landing zone!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05656",
+   "en": "There is no other landing zone!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05657",
+   "en": "It's our only option!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05658",
+   "en": "It's not an option! It's a suicide run! We don't--",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05659",
+   "en": "I can do it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05660",
+   "en": "Take us down, Joker. Lock in on the coordinates.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05661",
+   "en": "Drop us in the Mako.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05662",
+   "en": "Joker?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC",
+    "BIOA_WAR50_13_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05663",
+   "en": "Gear up and head down to the Mako. Joker -- drop us right on top of that bastard!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05664",
+   "en": "It's Saren.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05665",
+   "en": "We don't land.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05666",
+   "en": "It's go time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05667",
+   "en": "You two, keep moving. Inside. Now!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u05668",
+   "en": "I heard what happened to Captain Anderson. Survives a hundred battles, and then gets taken down by backroom politics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01patton_DSG_LOC",
+    "BIOA_NOR10_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05669",
+   "en": "Yeah, the captain got screwed. But it's not like you could've stopped it. Nobody's blaming you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01patton_DSG_LOC",
+    "BIOA_NOR10_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05670",
+   "en": "Everyone on this ship is behind you, Commander. One hundred percent.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01patton_DSG_LOC",
+    "BIOA_NOR10_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05671",
+   "en": "Intercom's open. If you've got anything you want to say to the crew, now's the time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_01patton_DSG_LOC",
+    "BIOA_NOR10_02_DSG_LOC"
+   ]
+  }
+ ]
+}

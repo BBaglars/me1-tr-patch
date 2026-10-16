@@ -1,0 +1,518 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/052",
+  "family": "PRO20"
+ },
+ "entries": [
+  {
+   "key": "u10945",
+   "en": "We identified the ship that touched down on Eden Prime. The Normandy. A human Alliance vessel.",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10946",
+   "en": "It was under the command of Captain Anderson.",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10947",
+   "en": "They managed to save the colony.",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10948",
+   "en": "And the beacon?",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10949",
+   "en": "One of the humans may have used it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10950",
+   "en": "This human must be eliminated.",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10951",
+   "en": "Argh! Rarh! Argh!",
+   "tr": "",
+   "ctx": [
+    "BIOA_PRO20_E_Asari_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u10952",
+   "en": "You have no available Citadel Rapid Transit destinations.",
+   "tr": "Kullanabileceğiniz Citadel Hızlı Ulaşım hedefi yok.",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10953",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin.",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10954",
+   "en": "Embassies",
+   "tr": "Büyükelçilikler",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10957",
+   "en": "Financial District",
+   "tr": "Finans Bölgesi",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10959",
+   "en": "Markets",
+   "tr": "Pazarlar",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10960",
+   "en": "C-Sec",
+   "tr": "C-Sec",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10961",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10962",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10965",
+   "en": "Wards Access",
+   "tr": "Wards Girişi",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10966",
+   "en": "Flux",
+   "tr": "Flux",
+   "ctx": [
+    "BIOA_STA00_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_STA20_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10968",
+   "en": "You have arrived at the Presidium Embassies.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10969",
+   "en": "You have arrived at the Citadel Tower.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10970",
+   "en": "You have arrived at the Presidium Financial District.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10971",
+   "en": "You have arrived at the medical center in the Wards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10972",
+   "en": "You have arrived at the markets in the Wards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10973",
+   "en": "You have arrived at C-Sec Academy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10974",
+   "en": "You have arrived at a Presidium plaza.  Proceed down the stairs to reach the Wards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10975",
+   "en": "You have arrived at the Consort Chambers in the Presidium.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10976",
+   "en": "You have arrived at Chora's Den, a gentlemen's club in the Wards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10977",
+   "en": "You have arrived at Flux nightclub in the Wards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA00_LOC"
+   ]
+  },
+  {
+   "key": "u10978",
+   "en": "You must talk to the Council to gain access to the Wards.",
+   "tr": "Wards'a girmek için Konsey ile konuşmalısınız.",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_STA30_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10979",
+   "en": "The keeper scan has been uploaded to the database.",
+   "tr": "Bekçi taraması veri tabanına yüklendi.",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_STA30_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10980",
+   "en": "You do not have the proper keycard.",
+   "tr": "Uygun anahtar karta sahip değilsiniz.",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_STA30_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10981",
+   "en": "Get to the Quarian and warn her before it's too late!",
+   "tr": "Çok geç olmadan Quarian'a ulaş ve onu uyar!",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC",
+    "BIOA_STA30_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10982",
+   "en": "It sure is peaceful here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10983",
+   "en": "I can't tell the aliens from the animals.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10984",
+   "en": "They've built themselves quite the lake. Wonder if anyone ever drowned in it?",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10985",
+   "en": "This place is a little too perfect. Like they're hiding something.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10986",
+   "en": "This is truly magnificent! Most Prothean architecture I see is in ruins.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10987",
+   "en": "Remarkable -- nature and technology combined in one elegant whole.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10988",
+   "en": "My first C-Sec posting was here on the Presidium. Mostly for show; not much crime up here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10989",
+   "en": "It never gets dark here. They keep the artificial sunlight on at all times.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10990",
+   "en": "The ambassadors have this beautiful park to relax in, but most of them are too busy to ever use it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10991",
+   "en": "I get the feeling they're not used to seeing krogan walking around up here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10992",
+   "en": "I could use a snack. Think there's any fish out in that lake?",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10993",
+   "en": "Tranquil. Calm. Relaxing. Wake me when this is over.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10994",
+   "en": "So much empty space. A thousand of my people could live here and hardly even see each other.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10995",
+   "en": "They built a lake on a space station! I can't even imagine the resources needed to maintain it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10996",
+   "en": "My people used to have an embassy here. But after we created the geth, we were no longer welcome.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10997",
+   "en": "Let all races herald the glory of the Enkindlers, who raised them all to enlightenment!",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10998",
+   "en": "Where there was only darkness, the Enkindlers gave light.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u10999",
+   "en": "Where there was only ignorance, the Enkindlers gave wisdom.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11000",
+   "en": "Where there was only silence, the Enkindlers gave the gift of speech.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11001",
+   "en": "This very station is the work of the Enkindlers, their gift to all their children.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11002",
+   "en": "I've told you before, you're not allowed in here!",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11003",
+   "en": "This one believes it has the right to move freely through this area.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11004",
+   "en": "You're creating a public disturbance! It's against Citadel regulations!",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11005",
+   "en": "This one is unsure why the other would not wish word of the Enkindlers to be spread.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11006",
+   "en": "To your left is one of the keepers, the enigmatic caretakers of the Citadel, working on a control panel.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11007",
+   "en": "Even then, few are given access to the actual Council Chambers. In most cases, the ambassador acts on behalf of the citizen.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11008",
+   "en": "Only a handful of visitors to the Citadel are ever granted that privilege. I would be jealous, but that is outside the scope of my programming.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11009",
+   "en": "Little is known about these peaceful servants of the Citadel, though they are essential to the operation and maintenance of the entire station.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u11010",
+   "en": "Citadel regulations protect the keepers against interference during the performance of their tasks. Failure to comply will result in harsh penalties.",
+   "tr": "",
+   "ctx": [
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  }
+ ]
+}

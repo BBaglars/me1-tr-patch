@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/063",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u27090",
+   "en": "As you gain levels, use the Squad screen to improve your team's abilities.\nPress %PAUSEMENU to access the Squad screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27091",
+   "en": "Important locations are marked on your map. \nPress %MAPMENU to access it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27092",
+   "en": "Hold %ABILITIESWHEEL to bring up the Power wheel. \nThe Power wheel lets you use the powers and special abilities of your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27093",
+   "en": "Hold the right mouse button and move the mouse to aim at a target.\nLeft-click on a power icon to use it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27094",
+   "en": "Use %ORDERSWHEEL to issue orders to your squad, or use:\n%ORDERSSQUADATTACK: Attack your target.\n%ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2: Have a specific squadmate move to a point or attack the targetted enemy.\n%ORDERSSQUADFOLLOW: Regroup and follow you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27095",
+   "en": "Press %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 to send a squadmate ahead.\nPress %ORDERSSQUADFOLLOW to call them back.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27096",
+   "en": "The Squad screen lets you view your team's talents. \nMouse over a talent or its rank to view it.\nClick on a talent to spend a Talent Point to gain a rank in it.\nAs you gain levels, you will acquire Talent Points and unlock higher ranks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27097",
+   "en": "Hold %STORM while moving to storm forward rapidly while in combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27098",
+   "en": "Use %ZOOM to aim. \nAiming increases your accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27099",
+   "en": "Press %GRENADE to throw a grenade, and press it again to detonate it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27100",
+   "en": "In the Mako:\n%VEHICLECANNON fires the main cannon.\n%VEHICLEMACHINEGUN fires the coaxial machinegun.\n%VEHICLEZOOM zooms.\n%VEHICLEJETS fires the jump jets.\n%VEHICLERETURN returns you to the Normandy from an Uncharted World.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27101",
+   "en": "Press %VEHICLEREPAIR to repair the Mako using omni-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27102",
+   "en": "Hold %TACTICSHUD to switch weapons for your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27103",
+   "en": "To change weapons, hold %WEAPONSWHEEL.\nLeft-click on a weapon's icon to equip it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27104",
+   "en": "Cannot save because the 1 GB data size limit has been reached. Please delete or overwrite an existing saved game to continue.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27105",
+   "en": "Infiltrators combine combat and tech talents. Use the Power Wheel to access their special abilities as you unlock them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27106",
+   "en": "Sentinels combine biotic and tech talents. Use the Power Wheel to access their special abilities as you unlock them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27107",
+   "en": "Vanguards combine biotic and combat talents. Use the Power Wheel to access their special abilities as you unlock them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27108",
+   "en": "Marksman will only appear on the Power Wheel for squad members armed with pistols.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27109",
+   "en": "Carnage will only appear on the Power Wheel for squad members armed with shotguns.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27110",
+   "en": "Overkill will only appear on the Power Wheel for squad members armed with assault rifles.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27111",
+   "en": "Assassination will only appear on the Power Wheel for squad members armed with sniper rifles.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27112",
+   "en": "Squad members with Stasis can use the Power Wheel to temporarily disable a single opponent. Enemies trapped in Stasis are immune to all other attacks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27113",
+   "en": "Unity uses medi-gel to revive fallen squad members during combat. You must spend points in Spectre Training to unlock Unity on the Power Wheel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27114",
+   "en": "Unlock the Sabotage ability then use the Power Wheel to launch it against your enemies. This will temporarily disable their weapons.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27115",
+   "en": "Squad members with biotic Lift can use the Power Wheel to lift enemies high into the air, hampering their ability to fight and damaging them when they fall back to the floor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27116",
+   "en": "Unlock the Overload ability, then use the Power Wheel to launch it against your foes. This will temporarily damage their shields and armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27117",
+   "en": "Squad members with biotic Throw can use the Power Wheel to toss opponents backwards, violently slamming them into objects and walls.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27118",
+   "en": "Squad members with biotic Barrier can use the Power Wheel to make them virtually immune to enemy gunfire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27119",
+   "en": "Saving content. Please don't turn off your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27120",
+   "en": "Melee",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27121",
+   "en": "Exit to Launcher",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27122",
+   "en": "UNBOUND",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27123",
+   "en": "Press (%MELEE) to melee attack.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27124",
+   "en": "Principled",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27125",
+   "en": "Accumulate 75% of total possible Paragon or Renegade points",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27126",
+   "en": "Antialiasing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27127",
+   "en": "Enable antialiasing to smooth the edges of in-game graphics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27128",
+   "en": "Window Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27129",
+   "en": "Windowed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27130",
+   "en": "Borderless",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27131",
+   "en": "Fullscreen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27132",
+   "en": "Switch between Windowed, Borderless, or Fullscreen windows. Running the game in Borderless may resemble fullscreen, depending on your resolution. It is faster to Alt-Tab from the game while in this mode than when running in fullscreen mode.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27133",
+   "en": "Standard stick configuration.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27134",
+   "en": "Left-handed stick configuration.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27135",
+   "en": "Shooting Configuration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27136",
+   "en": "Standard shooting configuration.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27137",
+   "en": "Left-handed shooting configuration.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27138",
+   "en": "Default Swapped",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27139",
+   "en": "Swaps [UI_XBoxB_Btn_LB] with [UI_XBoxB_Btn_LT] and [UI_XBoxB_Btn_RB] with [UI_XBoxB_Btn_RT].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27140",
+   "en": "Southpaw Swapped",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27141",
+   "en": "Left-handed shooting configuration. Also swaps [UI_XBoxB_Btn_LB] with [UI_XBoxB_Btn_LT] and [UI_XBoxB_Btn_RB] with [UI_XBoxB_Btn_RT].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27142",
+   "en": "Stick Configuration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27143",
+   "en": "<CUSTOM0> has been unbound.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27144",
+   "en": "Quick Load",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27145",
+   "en": "In the Menus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27146",
+   "en": "Playing the game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27147",
+   "en": "Saving content. Please do not turn off your system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27148",
+   "en": "One or more saved games is corrupted and is no longer available. Do you want to delete the corrupted save game(s)?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27149",
+   "en": "The display settings have been changed. Keep these settings?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27150",
+   "en": "Deleting data. Please do not turn off your console.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27151",
+   "en": "Deleting data. Please do not turn off your system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27152",
+   "en": "Deleting data. Please do not turn off your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27153",
+   "en": "ESC to Cancel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27154",
+   "en": "Advance to the central core. \nUse [UI_XBoxB_Btn_LS] to move around the ring.\nPress [UI_XBoxB_Btn_A] and [UI_XBoxB_Btn_B] to move inward and outward.\nAvoid the security programs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27155",
+   "en": "Choose between a Standard stick configuration and a Left-handed stick configuration.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27156",
+   "en": "Choose between a Standard or Left-handed shooting configuration and if you want [XBoxB_Btn_RB]/[XBoxB_Btn_LB] to be swapped with [XBoxB_Btn_RT]/[XBoxB_Btn_LT].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27157",
+   "en": "Access Hatch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27158",
+   "en": "<CUSTOM1> <CUSTOM0>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27159",
+   "en": "<CUSTOM2> <CUSTOM1> <CUSTOM0>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27160",
+   "en": "<CUSTOM3> <CUSTOM2> <CUSTOM1> <CUSTOM0>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27161",
+   "en": "The key '<CUSTOM0>' is a constant key and cannot be rebound. Please bind to a different key.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27162",
+   "en": "Key bound successfully.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27163",
+   "en": "Last Weapon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27164",
+   "en": "Aim (HOLD)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27165",
+   "en": "Exit Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27166",
+   "en": "Boosters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27167",
+   "en": "HDR Calibration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27168",
+   "en": "Calibration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27169",
+   "en": "Enable HDR",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27170",
+   "en": "Auto will enable HDR when it is available. Off will disable HDR completely.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27171",
+   "en": "Auto",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27172",
+   "en": "HDR Brightness",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27173",
+   "en": "Calibrates peak brightness for your output device. Adjust the slider until the logo is no longer visible.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27174",
+   "en": "HDR Contrast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27175",
+   "en": "Adjust the game's HDR contrast until the logo is no longer visible.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27176",
+   "en": "Binding <CUSTOM0> will unbind <CUSTOM1>. Are you sure?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27177",
+   "en": "Resolution Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27178",
+   "en": "Favor Quality",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27179",
+   "en": "Favor Framerate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27180",
+   "en": "Favor Quality offers increased resolution at reduced FPS. Favor Framerate adjusts resolution to obtain higher FPS where applicable. Quality and performance will vary depending on your hardware.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27181",
+   "en": "Ambient Occlusion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27182",
+   "en": "Adds shading to areas of the game that should be receiving less ambient light, creating depth and realism. Turning this feature off may improve performance on some systems.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27183",
+   "en": "Framerate Cap",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27184",
+   "en": "30",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27185",
+   "en": "60",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27186",
+   "en": "120",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27187",
+   "en": "144",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27188",
+   "en": "240",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27189",
+   "en": "Set a limit to the number of frames per second. Note that if VSYNC is ON, your monitor's refresh rate will be your maximum framerate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27190",
+   "en": "Set Code",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27191",
+   "en": "IDENTITY CODE: <CUSTOM0>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27192",
+   "en": "The Avenger is a common, versatile military-grade assault rifle made by Elkoss Combine. It is accurate when fired in controlled bursts, but suffers from low accuracy during sustained fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27193",
+   "en": "The Banshee is a common battle rifle from Elanus Risk Control. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27194",
+   "en": "The Lancer is a standard issue rifle for the Systems Alliance Navy. It is accurate when fired in controlled bursts, but suffers from low accuracy during sustained fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27195",
+   "en": "The Terminator is a basic heavy assault rifle made by Batarian State Arms. It has a high rate of fire and suffers from low accuracy during sustained fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27196",
+   "en": "The Thunder is a standard issue rifle for Turian infantry. It is a semi-automatic rifle with better accuracy than most standard rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27197",
+   "en": "The Raptor is an advanced military-grade assault rifle made by Devlon Industries. It has average accuracy when compared to other assault rifles of its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27198",
+   "en": "The Tsunami is an advanced battle rifle from Ariake Technologies. It features a high rate of fire, fires in five-round bursts and has average accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27199",
+   "en": "The Breaker is a state-of-the-art battle rifle made by Kassa Fabrication. It features a high rate of fire, fires in five-round bursts and has average accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27200",
+   "en": "The Crossfire is a state-of-the-art precision rifle favored by elite Turian military units. It is a semi-automatic rifle with excellent accuracy compared to other rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27201",
+   "en": "The Kovalyov is a state-of-the-art heavy assault rifle. Its accuracy suffers slightly due to the larger size of the rounds when compared to other assault rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27202",
+   "en": "A prototype assault rifle, only available to Spectres. Its accuracy and damage are unmatched.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27203",
+   "en": "A recovered Geth energy weapon. These exotic weapons are very accurate and feature a ramping rate of fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27204",
+   "en": "The Edge is a common, versatile military-grade sidearm made by Elkoss Combine. Its heavier design allows for increased power by sacrificing accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27205",
+   "en": "The Kessler is a standard issue sidearm for the Systems Alliance Navy. It is reliable and moderately accurate when compared to others sidearms in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27206",
+   "en": "The Stiletto is a heavy sidearm from Haliat Armory. It fires larger than normal rounds and  is one of the more powerful and accurate basic sidearms.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27207",
+   "en": "The Striker is a common auto pistol from Elanus Risk Control. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27208",
+   "en": "The Raikou is an advanced auto pistol from Ariake Technologies. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27209",
+   "en": "The Stinger is an advanced military-grade sidearm made by Devlon Industries. It has average accuracy when compared to other sidearms of its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27210",
+   "en": "The Brawler is a state-of-the-art heavy sidearm favored by elite Turian military units. It has high accuracy and stopping power compared to others in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27211",
+   "en": "The Karpov is a state-of the-art military-grade sidearm from Elkoss Combine. Its accuracy suffers slightly due to the larger size of the rounds when compared to other sidearms in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27212",
+   "en": "The Razer is a state-of-the-art auto pistol made by Kassa Fabrication. It features a high rate of fire, fires in three-round bursts and has average accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27213",
+   "en": "A prototype sidearm, only available to Spectres. Its accuracy and damage are unmatched.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27214",
+   "en": "The Hurricane is an automatic shotgun made by Elanus Risk Control. A favourite of mercenaries and private security groups alike, it has a high rate of fire and poor accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27215",
+   "en": "The Scimitar is a heavy shotgun from Elkoss Combine. It fires larger than normal rounds, and sacrifices accuracy for increased power.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27216",
+   "en": "The Storm is a standard issue shotgun for the Systems Alliance Navy. It is reliable and accurate when compared to other shotguns in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27217",
+   "en": "The Tornado is a heavy shotgun from Haliat Armory. It rewards precision aiming, as it only fires a single large slug. It is more accurate and powerful than other shotguns in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27218",
+   "en": "The Firestorm is an advanced military-grade shotgun made by Devlon Industries. It has average accuracy when compared to other shotguns of its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27219",
+   "en": "The Katana is an advanced heavy shotgun from Ariake Technologies.  It fires larger than normal rounds, and sacrifices accuracy for increased power.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27220",
+   "en": "The Armageddon is a state-of-the-art automatic shotgun from Kassa Fabrication. It has a high rate of fire and average damage when compared to other shotguns of its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27221",
+   "en": "The Avalanche is a state-of-the-art heavy shotgun from Armax Arsenal. Like the Tornado, it fires a single large slug. It rewards precision aiming and is among the more accurate shotguns in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27222",
+   "en": "The Sokolov is a state-of-the-art heavy shotgun made by Rosenkov Materials. It is slow firing and sacrifices accuracy for increased power.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27223",
+   "en": "A prototype shotgun, only available to Spectres. Its accuracy and damage are unmatched.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27224",
+   "en": "The Avenger is a common sniper rifle made by Hahne-Kedar. Primarily used by police and planetary militia groups. A versatile and reliable weapon, it has average accuracy compared to other sniper rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27225",
+   "en": "The Equalizer is a common sniper rifle from Haliat Armory. It is more accurate than most other sniper rifles in its class and features a high manual rate of fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27226",
+   "en": "The Hammer is a common sniper rifle from Elanus Risk Control. Designed to overwhelm active defenses, it fires in three-round bursts and has low accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27227",
+   "en": "The Reaper is a heavy sniper rifle made by Elkoss Combine. This entry-level weapon is powerful, slow firing, and has lower accuracy than other sniper rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27228",
+   "en": "The Naginata is an advanced heavy sniper rifle from Ariake Technologies. It is slow firing and the most powerful sniper rifle in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27229",
+   "en": "The Striker is an advanced military-grade sniper rifle from Devlon Industries. It has good accuracy compared to other sniper rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27230",
+   "en": "The Harpoon is a state-of-the-art sniper rifle from Kassa Fabrication. It fires in three-round bursts and has low accuracy compared to others in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27231",
+   "en": "The Punisher is a state-of-the-art heavy sniper rifle made by Armax Arsenal. This sniper rifle has average accuracy and high damage compared to others in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27232",
+   "en": "A prototype sniper rifle, only available to Spectres. Its accuracy and damage are unmatched.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27233",
+   "en": "The Volkov is a state-of-the-art sniper rifle from Rosenkov Materials. It features a high manual rate of fire and is less accurate than other sniper rifles in its class.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27234",
+   "en": "Sensory Tentacle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27235",
+   "en": "Monitor Selection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27236",
+   "en": "Select which monitor to display the game when two or more are present.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27237",
+   "en": "Adjust your display's image.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27238",
+   "en": "Level Scaling",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27239",
+   "en": "In classic mode, the original 1-60 level range will be used instead of the new 1-30 level range. XP and talent points progression remains the same, but the number of levels is doubled.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

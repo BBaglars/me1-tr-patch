@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/060",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u26640",
+   "en": "This is the first time running Mass Effect. The Mass Effect Configuration Utility will scan your hardware and try and select the appropriate game settings based on that information. You can review and change these settings using the menu to the left. When you are satisfied with the settings, click Play to begin the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26641",
+   "en": "Use the Overkill Power to shoot rapidly and accurately. Map Overkill to a Quick Slot hotkey for easy access. Press and hold %TACTICSHUD to begin.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26642",
+   "en": "Use the Overload power to knock down enemy shields. Map Overload to a Quick Slot hotkey for easy access. Press and hold %TACTICSHUD to begin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26643",
+   "en": "Use the Throw Power to knock back enemies. Map Throw to a Quick Slot hotkey for easy access. Press and hold %TACTICSHUD to begin.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26644",
+   "en": "Left-click and hold on a Power icon. Drag the Power to the Quick Slot bar and release the mouse button. You can now use this Power in game by pressing the Quick Slot's listed hotkey.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26645",
+   "en": "Equip the assault rifle Ashley gave you by clicking on the assault rifle icon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26646",
+   "en": "Your health is low. Take cover to avoid enemy fire. Press %FIRSTAID to attempt First Aid.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26647",
+   "en": "Liquid Development, LLC\n\nFacial animation software provided by OC3 Entertainment. ©2002-2008, OC3 Entertainment, Inc. and its licensors. All rights reserved.\n\nUses Bink Video. Copyright ©1997-2008 by RAD Game Tools, Inc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26648",
+   "en": "360 Development Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26649",
+   "en": "Steve Lam",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26650",
+   "en": "BioWare PC Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26651",
+   "en": "Programming Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26652",
+   "en": "Owen Borstad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26653",
+   "en": "Programming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26654",
+   "en": "Steven Hand",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26655",
+   "en": "Chris L'Etoile\nChristina Norman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26656",
+   "en": "Additional QA",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26657",
+   "en": "Chris Buzon\nKim Hansen\nScott Langevin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26658",
+   "en": "Marwan Audeh\nJonathan Baldwin\nBlake Grant\nBrenon Holmes\nNelson Housden\nRyan Hoyle\nRob Krajcarski\nShawn Potter\nCraig Welburn\nJohn Wetmiller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26659",
+   "en": "EA Partners",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26660",
+   "en": "David Yee",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26661",
+   "en": "Michael Doran",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26662",
+   "en": "Craig Krstolic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26663",
+   "en": "Sr. Development Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26664",
+   "en": "John Viffian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26665",
+   "en": "Crystal Sanchez",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26666",
+   "en": "EA Redwood Shores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26667",
+   "en": "QA Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26668",
+   "en": "Matthew Brown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26669",
+   "en": "QA Assistant Leads",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26670",
+   "en": "Raasahn Browder\nJonathan Yan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26671",
+   "en": "Krish Acu\nJohn Bratnober\nJack Beacom\nAshley Coleman\nMichael Crabtree\nKatharine Ellis\nRyan Giguere\nRobin Giles\nShelby Goad\nJared Karklins\nNathan J. Karklins\nVaraga Nazari\nRonald Nixon\nTim Olson\nSamuel Retzloff\nDevon M. Smith\nIsaac Stevenson\nChris Sykora\nBryan Walsh\nChad Wilson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26672",
+   "en": "Daniel Canton\nMatt Danuser\nHuey Ngo\nMatt Zenel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26673",
+   "en": "Matt Landi\nMark Johnson\nSteve Jenkins\nJosh Riemersma",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26674",
+   "en": "Chris Anjos\nSam Worf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26675",
+   "en": "Worldwide Mastering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26676",
+   "en": "Michael Yasko",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26677",
+   "en": "EARS Mastering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26678",
+   "en": "Mike Deir\nChris Espiritu\nKima Hayuk\nRick Helmer\nBelle Vasaya",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26679",
+   "en": "North America Submissions and Compliance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26680",
+   "en": "Jason Collins\nDarryl Jenkins\nMike Kushner\nDaniel Martell\nRussell Medeiros\nRyan Roque\nJoyce Sacman\nMatthew Salazar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26681",
+   "en": "Customer Quality Control North America",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26682",
+   "en": "Dave Beck\nWes Hendrix\nRyan Jacobson\nDave Jordan\nKyle Killion\nConrad Leiden\nGarrett Muldoon\nShaun McCourt\nChance Shiflett\nBobby Williams",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26683",
+   "en": "EA EUROPE",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26684",
+   "en": "European Mastering Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26685",
+   "en": "Sam Roberts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26686",
+   "en": "Madrid Mastering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26687",
+   "en": "Andreas Berral\nJohn Brunton\nDan Burnett\nRuben Del Pozo\nCristian Giner Gonzalez",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26688",
+   "en": "Sr. Localization Project Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26689",
+   "en": "Laurent Gibert",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26690",
+   "en": "Localization Project Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26691",
+   "en": "Fausto Ceccarelli",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26692",
+   "en": "Head Localization Tester",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26693",
+   "en": "Juan Linaje",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26694",
+   "en": "Localization Testers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26695",
+   "en": "Alexander Bowman\nPaolo Catozzella\nDamien Haimovici\nDavid Monteiro\nTirdad Nosrati\nFederica Rossi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26696",
+   "en": "BioWare Special Thanks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26697",
+   "en": "Jim Bishop,  Mark Darrah, Trent Oster, Dan Tudge, Richard Vogel, Gordon Walton, Jorg Neumann, Russ Almond, and all our friends at BioWare Austin.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26698",
+   "en": "Steve Arnold\nEdwin Caparaz\nSteve D'Eredita\nBrent Dady\nDavid DeMartini\nJon Horsley\nMicah Loucks\nDJ Powers\nRaphael Ruland\nChris Serra\nBen Smith\nEvelyn Walker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26699",
+   "en": "Director of Finance and Administration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26700",
+   "en": "Kevin Gunderman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26701",
+   "en": "Todd Derechey\nSharon Pate \nTreena Rees \nCalvin Chan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26702",
+   "en": "Celia Arevalo \nTheresa Baxter \nMark Kluchky \nLeanne Korotash \nAngela Pappas ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26703",
+   "en": "Lee Evanochko\nJulian Karst\nRobert McKenna\nJesse Van Herk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26704",
+   "en": "Sam Decker \nWayne Mah\nCraig Miller ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26705",
+   "en": "Keri Clark\nCrystal Ens \nTeresa Meester\nLanna Mess",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26706",
+   "en": "Todd Grenier\nSheridon Routley\nMike Sass ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26707",
+   "en": "Johnn Four\nJeff Marvin \nColin Walmsley ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26708",
+   "en": "Assistant Brand Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26709",
+   "en": "Randall Bishop",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26710",
+   "en": "Every weapon has at least one weapon and one ammo upgrade slot. Click the weapon icon to access weapon upgrades for this weapon. Click the bullet icon to access ammo upgrades.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26711",
+   "en": "${PRODUCT_NAME} Electronic Registration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26712",
+   "en": "Web Links",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26713",
+   "en": "Register ${PRODUCT_NAME}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26714",
+   "en": "Selected Save Game could not be loaded. Downloadable Content missing. Module(s) in question:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26715",
+   "en": "Steve Arnold, Edwin Caparaz, Steve D'Eredita, Brent Dady,\nDavid DeMartini, Jon Horsley, Micah Loucks, DJ Powers,\nRaphael Ruland, Chris Serra, Ben Smith, and Evelyn Walker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26716",
+   "en": "BioWare External",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26717",
+   "en": "Angelo Bayan\nDave Caron\nMark Gonzales\nJon Naugle\nRyan Morales\nJosh Platt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26718",
+   "en": "EARS Compatibility Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26719",
+   "en": "A Batarian extremist group has hijacked a mobile asteroid station, setting it on a collision course with a nearby colony world. Only you can save the millions of innocent civilians before the asteroid completes its deadly descent.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26720",
+   "en": "Download this FREE content to expand your Mass Effect experience!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26721",
+   "en": "Learn More",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26722",
+   "en": "Join the BioWare Mass Effect Community Today",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26723",
+   "en": "Register Mass Effect and gain access to exclusive content, special forums and all the latest news on upcoming Mass Effect projects.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26724",
+   "en": "Game compromised",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26725",
+   "en": "Your game has been compromised.  Please reinstall.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26726",
+   "en": "Adjusts the quality of in-game textures. Mass Effect must be restarted for this change to take effect.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26727",
+   "en": "Updating News...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26728",
+   "en": "Popup string of how one looks around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26729",
+   "en": "EASTEURO STRING",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26730",
+   "en": "EASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26731",
+   "en": "EASTEURO STRING\nEASTEURO STRING",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26732",
+   "en": "EASTEURO STRING\nEASTEURO STRING\nEASTEURO STRING",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26733",
+   "en": "Eastern European Teams",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26734",
+   "en": "EASTEURO",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26735",
+   "en": "Error: One or more Downloadable Content files could not be accessed.  Please try reinstalling the file(s).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26736",
+   "en": "This installer does not support the $GameLanguageName version of ${PRODUCT_NAME}.\\r\\n\\r\\nPlease go back to where you downloaded this file and select the matching language version.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26737",
+   "en": "Mass Effect is not found.$\\r$\\rPlease reinstall the game from the original source and try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26738",
+   "en": "${PRODUCT_NAME} ${PATCH_VERSION} has been installed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26739",
+   "en": "This will update your copy of Mass Effect to ${PATCH_VERSION}.  Do you wish to continue?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26740",
+   "en": "You have a newer version of Mass Effect installed than this patch.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26741",
+   "en": "View <Filename>",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26742",
+   "en": "This installer does not support the language of the installed Game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26743",
+   "en": "Unable to determine the version of ${PRODUCT_NAME}. Please reinstall ${PRODUCT_NAME} and try running this installer again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26744",
+   "en": "Updating ${PRODUCT_NAME}.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26745",
+   "en": "Validating Licence file...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26746",
+   "en": "Failed to validate license file.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26747",
+   "en": "Product Keys",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26748",
+   "en": "Product Name",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26749",
+   "en": "Product Key",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26750",
+   "en": "Copy All",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26751",
+   "en": "Delete Local Shader Cache Files",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26752",
+   "en": "Windows XP Service Pack 2 or later is required to play Mass Effect. Your system does not meet this requirement.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26753",
+   "en": "Get the brand new mission and 1.01 patch now!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26754",
+   "en": "Free mission 'Bring Down the Sky' is ready for download. A batarian extremist group has hijacked a mobile asteroid station in the Asgard system, setting it on a collision course with the nearby colony world of Terra Nova.\n \nGrab the 1.01 patch by itself, or get the entire package by downloading 'Bring Down the Sky'",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26755",
+   "en": "Pinnacle Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26756",
+   "en": "Visit the military training center at Pinnacle Station and engage in a series of combat simulations.\n\nFrom the galaxy map, travel to the Argus Rho cluster. Enter the Phoenix system and board Pinnacle Station.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26757",
+   "en": "The asteroid-based Pinnacle Station was originally constructed by the Turians to function as a concealed command center during the Krogan Rebellions. It has been retrofitted as a military training facility for all high-level special operations teams employed by the council. The station's combat simulator allows teams to train under a variety of hazardous conditions.\n\nPopulation: 1200\nRadius: 340m",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26758",
+   "en": "Josh Glavine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26759",
+   "en": "Design",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26760",
+   "en": "Engineering Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26761",
+   "en": "Kevin Teich",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26762",
+   "en": "Mike Garon\nAndy Hendrickson\nKwasi Mensah",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26763",
+   "en": "Tim Crosby",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26764",
+   "en": "Harley Baldwin White-Wiedow\nDave Elder\nDave Flamburis\nLiang Li\nTom Lin\nChris Linder\nJustin Lokey\nEvan Nikolich\nKurt Reiner\nAlex Rice\nAdam Rosenfield\nEddie Scholtz",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26765",
+   "en": "New Sheriff in Town",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26766",
+   "en": "Best of the Best",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26767",
+   "en": "Undisputed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26768",
+   "en": "Vampire High Score",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26769",
+   "en": "Ahern's Challenge High Score",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26770",
+   "en": "Pacifism",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26771",
+   "en": "Strong is the Spectre",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26772",
+   "en": "Gernader",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26773",
+   "en": "Meleer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26774",
+   "en": "Requirement:\nGet the top score in a simulator mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26775",
+   "en": "Requirement:\nGet the top score in all twelve simulator missions.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26776",
+   "en": "Requirement:\nComplete Ahern's survival mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26777",
+   "en": "Requirement:\nGet the high score in a Vampire challenge mode.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26778",
+   "en": "Requirement:\nGet the high score in Ahern's challenge.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26779",
+   "en": "Complete Capture and Hold without killing any enemies.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26780",
+   "en": "Requirement:\nComplete Ahern's challenge without using Medi-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26781",
+   "en": "Kill three enemies with one gernade.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26782",
+   "en": "Complete Time Attack using only melee.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26783",
+   "en": "You got the top score in a simulator mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26784",
+   "en": "You got the top score in all twelve simulator missions.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26785",
+   "en": "You completed Ahern's survival mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26786",
+   "en": "You got the high score in a Vampire challenge mode.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26787",
+   "en": "You got the high score in Ahern's challenge.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26788",
+   "en": "You completed Capture and Hold without killing any enemies.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26789",
+   "en": "You completed Ahern's challenge without using Medi-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

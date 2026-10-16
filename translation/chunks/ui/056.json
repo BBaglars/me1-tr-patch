@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/056",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u26095",
+   "en": "Jérôme Terroir",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26096",
+   "en": "Tomasz Krupa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26097",
+   "en": "Aurora Cano",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26098",
+   "en": "Int'l VO, ExeQuo, Paris",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26099",
+   "en": "French VO, ExeQuo, Paris / Triom Production",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26100",
+   "en": "Lead Translator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26101",
+   "en": "Philippe Colin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26102",
+   "en": "Artistic Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26103",
+   "en": "Audio Engineers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26104",
+   "en": "Alexandre Gombert\nGuillaume Ozouf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26105",
+   "en": "Emanuele Scichilone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26106",
+   "en": "Assistant Project Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26107",
+   "en": "Marco Auletta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26108",
+   "en": "Translators",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26109",
+   "en": "Davide Solbiati\nPaolo Celso",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26110",
+   "en": "Francesca Cecca\nAmbra Ravaglia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26111",
+   "en": "Claudia Rampiconi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26112",
+   "en": "Adriano Dezulian\nMatteo Ormellese\nManuel Auletta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26113",
+   "en": "Gus Díaz",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26114",
+   "en": "Javier Sevilla",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26115",
+   "en": "Juan Pablo Vieyra",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26116",
+   "en": "Antje Hink",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26117",
+   "en": "Cornelia Bitsch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26118",
+   "en": "Matthias Schulz\nGerald Arend",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26119",
+   "en": "Mariusz Szlanta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26120",
+   "en": "Blazej Jóywik",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26121",
+   "en": "Bartosz Lewandowski",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26122",
+   "en": "Anakan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26123",
+   "en": "Luis de Oliveira",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26124",
+   "en": "Italian VO, Synthesis International srl",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26125",
+   "en": "Spanish Loc. Audio VO Prod., Synthesis Iberia sl",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26126",
+   "en": "German Loc. Audio VO Prod., DAS TEAM / locaTRANS",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26127",
+   "en": "Polish Loc. Audio VO Prod., CDProjekt Localisation Centre",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26128",
+   "en": "Marwan Audeh\nDon Yakielashek\nMichael Doran\nDavid Yee\nCrystal Sanchez",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26129",
+   "en": "Quality Assurance EA Redwood Shores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26130",
+   "en": "Quality Assurance\nEA Redwood Shores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26131",
+   "en": "Senior Director, QA",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26132",
+   "en": "Dave Steele",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26133",
+   "en": "QA Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26134",
+   "en": "Matthew C. Brown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26135",
+   "en": "Sr. Test Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26136",
+   "en": "Robert Walton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26137",
+   "en": "QA Project Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26138",
+   "en": "Daniel Allender",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26139",
+   "en": "Assistant Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26140",
+   "en": "Raasahn Browder",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26141",
+   "en": "QA Testers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26142",
+   "en": "Katharine Ellis\nRobin Giles\nFrank Klun\nAshley Coleman\nBryan Walsh\nChad Wilson\nChris Sykora\nDevon M. Smith\nIsaac Stevenson\nJack Beacom\nJared Karklins\nJohn Bratnober\nKrish Acu\nNathan J. Karklins\nMichael Crabtree\nRonald Nixon\nSamuel Retzloff\nShelby Goad\nTim Olson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26143",
+   "en": "EARS LQA Assistant Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26144",
+   "en": "Aleef Shehadeh",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26145",
+   "en": "EARS LQA Testers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26146",
+   "en": "Matt Danuser\nMatt Zenel\nHuey Ngo\nDaniel Canton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26147",
+   "en": "QA Support",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26148",
+   "en": "QA Support Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26149",
+   "en": "Dave Koerner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26150",
+   "en": "QA Compliance Leads",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26151",
+   "en": "Mark Johnson\nJosh Riemersma\nMatt Landi\nSteve Jenkins",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26152",
+   "en": "QA Compliance Testers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26153",
+   "en": "Sam Worf\nChris Anjos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26154",
+   "en": "QA Hardware Support",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26155",
+   "en": "Matt Kile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26156",
+   "en": "Administrative Assistant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26157",
+   "en": "Ericka Sykes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26158",
+   "en": "Senior HR Generalist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26159",
+   "en": "Heather Hoffman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26160",
+   "en": "Development Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26161",
+   "en": "Behrang Garakani",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26162",
+   "en": "Software Engineers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26163",
+   "en": "Kris Alles\nAlexander Chávez\nRobert Chou\nEric Koon\nAJ Ross\nJohn Westendorf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26164",
+   "en": "Web Developer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26165",
+   "en": "Ron Robertson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26166",
+   "en": "Associate Software Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26167",
+   "en": "Edmund Huey",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26168",
+   "en": "Associate Systems Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26169",
+   "en": "John Cross",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26170",
+   "en": "Requirement: You completed the Bring Down the Sky mission.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26171",
+   "en": "Install Game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26172",
+   "en": "View Readme.txt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26173",
+   "en": "Install Direct X",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26174",
+   "en": "Mass Effect",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26175",
+   "en": "Insert Disk 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26176",
+   "en": "English",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26177",
+   "en": "Español",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26178",
+   "en": "Italiano",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26179",
+   "en": "Français",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26180",
+   "en": "Deutsch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26181",
+   "en": "Configure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26182",
+   "en": "Uninstall",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26183",
+   "en": "Website",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26184",
+   "en": "The following file could not be found: %ls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26185",
+   "en": "${CONFIGXML_DIR}\\..",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26186",
+   "en": "${ROOT_DIR}\\Binaries",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26187",
+   "en": "${CSIDL_PERSONAL}\\BioWare\\Mass Effect",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26188",
+   "en": "Are you sure you want to cancel install?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26189",
+   "en": "Are you sure you want to cancel uninstall?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26190",
+   "en": "Adding Windows Firewall Exception '$R0'",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26191",
+   "en": "Are you sure you want to cancel the installation?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26192",
+   "en": "Are you sure you want to cancel the installation?$\\r$\\n$\\r$\\nCancelling during a reinstall will uninstall the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26193",
+   "en": "Cancel Installation?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26194",
+   "en": "Deleting $R1 (%03.1f%% - %s)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26195",
+   "en": "Deleting: %-20s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26196",
+   "en": "Since you are not an admin, you do not have the ability to update Direct X, please contact your computer Admin to have Direct X installed.  The update to Direct X can be found on the install disk.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26197",
+   "en": "Updating ${PRODUCT_DIRECTX_STRING} (this may take a while).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26198",
+   "en": "The version of DirectX that is required was not found (${PRODUCT_DIRECTX_STRING}).$\\r$\\n$\\r$\\nWould you like to install it now?$\\r$\\n$\\r$\\nThis version is required for ${PRODUCT_NAME} to run.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26199",
+   "en": "You shouldn't install directly to the desktop. Please install into a folder on the desktop if you wish.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26200",
+   "en": "You shouldn't install into your Documents and Settings folder. Please install to a different location on your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26201",
+   "en": "It appears that there is not enough space available on the selected drive. Do you want to install to another drive or free up some space?$\\r$\\n$\\r$\\nSelecting 'No' will allow you to continue.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26202",
+   "en": "You shouldn't install into the root of Program Files. Please install to a different location on your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26203",
+   "en": "You shouldn't install to the root of a drive. Please choose an existing folder or create a new folder if you wish to install to this location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26204",
+   "en": "You shouldn't install into the System folder. Please install to a different location on your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26205",
+   "en": "You shouldn't install into the Temp folder. Please install to a different location on your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26206",
+   "en": "You shouldn't install into the Windows folder. Please install to a different location on your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26207",
+   "en": "The installer could not find a source file required to proceed with installation. $R1 is missing (full path: $R0 )",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26208",
+   "en": "Installation Cancelled",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26209",
+   "en": "The installation of ${PRODUCT_NAME} has failed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26210",
+   "en": "Installation Failed!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26211",
+   "en": "${PRODUCT_NAME} has been successfully installed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26212",
+   "en": "Installation Complete",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26213",
+   "en": "Can't run installer, another instance was found.  Please check that another user is not logged in and running the installer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26214",
+   "en": "${PRODUCT_NAME} Setup",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26215",
+   "en": "Setup is missing critical files in order to run.$\\r$\\n$\\r$\\nPlease check to make sure that you are running Setup from the original package.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26216",
+   "en": "You do not have Administrator rights on this computer.$\\r$\\n$\\r$\\nAdministrator rights are required to install parts of ${PRODUCT_NAME} and update DirectX (if needed).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26217",
+   "en": "A required Setup file is missing [$R0].",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26218",
+   "en": "The ${PRODUCT_NAME} installer does not have permission to create the folder:$\\r$\\n$\\r$\\n$ProgramLocation$\\r$\\n$\\r$\\nPlease select another location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26219",
+   "en": "The ${PRODUCT_NAME} installer does not have permission to write into the folder:$\\r$\\n$\\r$\\n$ProgramLocation$\\r$\\n$\\r$\\nPlease select another location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26220",
+   "en": "The ${PRODUCT_NAME} installer found existing files in the folder:$\\r$\\n$\\r$\\n$ProgramLocation$\\r$\\n$\\r$\\nAre you sure you wish to install ${PRODUCT_NAME} into that folder?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26221",
+   "en": "An installation of ${PRODUCT_NAME} was found.$\\r$\\n$\\r$\\nLocation - $ProgramLocation$\\r$\\n$\\r$\\nDo you want to run the installer again?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26222",
+   "en": "Bad installation path. Invalid characters were removed or altered from the path.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26223",
+   "en": "Invalid drive. Please choose a valid drive.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26224",
+   "en": "Bad installation path. The installation path you entered is too long.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26225",
+   "en": "Bad installation path. The installation path you entered is too short.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26226",
+   "en": "Please insert the next disk ($FileDisk)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26227",
+   "en": "Insert Disk...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26228",
+   "en": "Install Aborted",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26229",
+   "en": "(More info here)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26230",
+   "en": "Location:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26231",
+   "en": "Select a folder",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26232",
+   "en": "Select Install Type:\" ; NEW",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26233",
+   "en": "Select Install Type.\" ; NEW",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26234",
+   "en": "Selecting Express will automatically determine the best settings for your computer.\" ; NEW",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26235",
+   "en": "Express Install (recommended)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26236",
+   "en": "Custom Install",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26237",
+   "en": "Install Complete",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26238",
+   "en": "Click 'Next' to continue.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26239",
+   "en": "End User License Agreement",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26240",
+   "en": "Install ${PRODUCT_NAME}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26241",
+   "en": "I agree",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26242",
+   "en": "I do not agree (or haven't read this yet).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26243",
+   "en": "If you do not agree to this agreement, please click 'Cancel'.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26244",
+   "en": "Please read the End User License Agreement:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

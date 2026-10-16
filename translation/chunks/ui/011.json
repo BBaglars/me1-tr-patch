@@ -1,0 +1,498 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/011",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u19941",
+   "en": "Chorban, a salarian scientist, has discovered a way to scan the keepers, but the Citadel authorities do not like people disturbing the insect-like creatures. You offered to help Chorban and he gave you his scanning device. Each time you scan a keeper the data will be sent to him automatically.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19942",
+   "en": "Citadel: Scan the Keepers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19943",
+   "en": "You've scanned several keepers and sent off the results. No doubt these findings will uncover some interesting and, as of yet, unknown facts about the small insect-like creatures.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19944",
+   "en": "You have the scanning device. Every time you discover a new keeper, scan it and the data will be transmitted automatically.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19945",
+   "en": "Scanner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19946",
+   "en": "Thorian Pod",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19947",
+   "en": "Thorian Acid Sac",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19948",
+   "en": "Transfer installed upgrades to the new item?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19949",
+   "en": "Properties",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19950",
+   "en": "Faster-than-light drives use element zero cores to reduce the mass of the ship, allowing higher rates of acceleration. This effectively raises the speed of light within the mass effect field, allowing high speed travel with negligible relativistic time dilation effects.\n\nStarships still require conventional thrusters (chemical rockets, commercial fusion torch, economy ion engine, or military antiproton drive) in addition to the FTL drive core. With only a core, a ship has no motive power.\n\nThe amount of eezo and power required for a drive increases exponentially to the mass being moved and the degree it is being lightened. Very massive ships or very high speeds are prohibitively expensive.\n\nIf the field collapses while the ship is moving at faster-than-light speed, the effects are catastrophic. The ship is snapped back to sublight velocity, the enormous excess energy shed in the form of lethal Cerenkov radiation.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19951",
+   "en": "FTL Drive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19952",
+   "en": "Ship mobility dominates space combat; the primary objective is to align the mass accelerator along the bow with the opposing vessel’s broadside. Battles typically play out as artillery duels fought at ranges measured in thousands of kilometers, though assaults through defended mass relays often occur at 'knife fight' ranges as close as a few dozen kilometers.\n\nMost ship-to-ship engagements are skirmishes between patrol vessels of cruiser weight and below, with dreadnoughts and carriers only deployed in full-scale fleet actions. Battles in open space are short and often inconclusive, as the weaker opponent typically disengages.\n\nOnce a ship enters FTL flight the combat is effectively over; there are no sensors capable of tracking them, or weapons capable of damaging them. The only way to guarantee an enemy will stand and fight is to attack a location they have a vested interest in, such as a settled world or a strategically-important mass relay. \n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19953",
+   "en": "Space Combat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19954",
+   "en": "Larger warships are generally classified in one of four weights: \n\nFRIGATES are small, fast ships used for scouting and screening larger vessels. Frigates often operate in wolf-pack flotillas. \n\nCRUISERS are middle-weight combatants, faster than dreadnoughts, and more heavily-armed than frigates. Cruisers are the standard patrol unit, and often lead frigate flotillas.\n\nDREADNOUGHTS are kilometer-long capital ships mounting heavy, long-range firepower. They are only deployed for the most vital missions. \n\nCARRIERS are dreadnought-sized vessels that also carry large numbers of fighters. \n\nSmaller vessels are almost exclusively used in a support role to the warships during combat:\n \nFIGHTERS are one-man craft used to perform close-range attacks on enemy ships. \n\nINTERCEPTORS are one-man craft optimized for destroying opposing fighters. \n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19955",
+   "en": "Military Ship Classifications",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19956",
+   "en": "The second species to join the Citadel, the salarians are warm-blooded amphibians with a hyperactive metabolism. Salarians think fast, talk fast, and move fast. To salarians, other species seem sluggish and dull-witted. Unfortunately, their metabolic speed leaves them with a relatively short lifespan; salarians over the age of 40 are a rarity.\n\nThe salarians were responsible for advancing the development of the primitive krogan species to use as soldiers during the Rachni Wars. They were also behind the creation of the genophage bioweapon the turians used to quell the Krogan Rebellions several centuries later.\n\nSalarians are known for their observational capability and non-linear thinking. This manifests as an aptitude for research and espionage. They are constantly experimenting and inventing, and it is generally accepted that they always know more than they’re letting on.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19957",
+   "en": "Salarians",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19958",
+   "en": "Roughly 1200 years ago, the turians were invited to join the Citadel Council to fulfill the role of galactic peacekeepers. The turians have the largest fleet in Citadel space, and they make up the single largest portion of the Council’s military forces.\n\nAs their territory and influence has spread, the turians have come to rely on the salarians for military intelligence and the asari for diplomacy. Despite a somewhat colonial attitude towards the rest of the galaxy, the ruling Hierarchy understands they would lose more than they would gain if the other two races were ever removed. \n\nTurians come from an autocratic society that values discipline and possesses a strong sense of personal and collective honor. There is lingering animosity between turians and humans over the First Contact War of 2157, which is known as the 'Relay 314 Incident' to the turians. Officially, however, the two species are allies and they enjoy civil, if cool, diplomatic relations.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19959",
+   "en": "Turians",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19960",
+   "en": "Spacefaring species that went extinct thousands of years before the present",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19961",
+   "en": "Aliens: Extinct Races",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19962",
+   "en": "Fifty thousand years ago, the Protheans were the only spacefaring species in the galaxy. They vanished in a swift 'galactic extinction'. Only the legacy of their empire remains. They are believed to have built the mass relays and the Citadel, which have allowed numerous species to explore and expand throughout the galaxy.\n\nProthean ruins are found on worlds across the galaxy. While surprisingly intact for their age, functioning examples of Prothean paleotechnology are rare. Time and generations of looters have picked their dead cities and derelict stations clean.\n\nSome believe the Protheans meddled in the evolution of younger races. The hanar homeworld of Kahje, for example, shows clear evidence of former Prothean occupation. The presence of a former Prothean observation post on Mars has caused a rebirth of 'interventionary evolutionists' among humans. These individuals believe the god-myths of ancient civilizations are misremembered encounters with aliens.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19963",
+   "en": "Though now extinct, the rachni once threatened every species in Citadel space. Over 2000 years ago, explorers foolishly opened a mass relay to a previously-unknown system and encountered something never seen before or since: a species of spacefaring insects guided by a hive-mind intelligence.\n\nUnfortunately, the rachni were not peaceful, and the galaxy was plunged into a series of conflicts known as the Rachni Wars. Attempts to negotiate were futile, as it was impossible to make contact with the hive queens that guided the race from beneath the surface of their toxic homeworld.\n\nThe emergence of the krogan ended the Rachni Wars. Bred to survive the harshest environments, the krogan were able to strike at the queens in their lairs and reclaim conquered Council worlds. But when krogan fleets pressed them back to their homeworld, the rachni refused to surrender, and the krogan eradicated them from the galaxy.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19964",
+   "en": "Common non-sapient life-forms",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19965",
+   "en": "Aliens: Non-Sapient Creatures",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19966",
+   "en": "Harvesters are gigantic insects, easily distinguished by their long necks and incredible size. The origin of these creatures is a mystery, though recently they have begun to appear unexpectedly on multiple uncharted worlds in the Attican Traverse.\n\nSome have suggested they have been in hibernation, and like locusts have emerged after a long period of inactivity. Others point out that the bizarre morphology of harvesters runs counter to known laws of adaptive evolution. Their forward-loaded body and undersized wings suggest they were a product of illegal genetic engineering.\n\nRegardless of their origin, harvesters are fast, efficient killers. They attack anything that enters their territory with toxic venom and razor-sharp claws. Despite their ungainly appearance, their exoskeletons can only be penetrated by heavy weapons. Attacking them while in a vehicle is dangerous, attacking them on foot is suicidal.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19967",
+   "en": "Harvesters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19968",
+   "en": "Thresher maws are subterranean carnivores that spend their entire lives eating or searching for something to eat. Threshers reproduce via spores that can lie dormant for millennia, yet are robust enough to survive prolonged periods in deep space and atmospheric re-entry. As a result, thresher spores appear on many worlds, spread by previous generations of space travelers.\n\nThe body of a thresher never entirely leaves the ground; only the head and tentacles erupt from the earth to attack. In addition to physical attacks, threshers have the ability to project toxic chemicals and emit bursts of infrasound as a shockwave weapon.\n\nThe Alliance first encountered threshers on the colony of Akuze in 2177. After contact was lost with the pioneer team, marine units were deployed to investigate. The shore parties were set upon by hungry threshers, and nearly the entire assault force was killed. Alliance forces recommend engaging threshers with vehicle-mounted heavy weapons.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19969",
+   "en": "Thresher Maws",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19970",
+   "en": "Varren are omnivores with a preference for living prey. Originally native to the krogan homeworld of Tuchanka, they are, like most life from Tuchanka, savage, clannish, and consummate survivors. They are pack hunters when vulnerable prey is readily available and become scavengers when outnumbered or outclassed.\n\nTheir supreme adaptability, vicious demeanor, and rapid breeding cycle have made them ubiquitous and dangerous pests on many worlds. Virtually everywhere the krogan have been, varren infestations have followed, wreaking havoc with the native ecology. \n\nThe krogan have had a love-hate relationship with varren for millennia, alternately fighting them for territory and embracing them as treasured companions. To this day, krogan raise them as beasts of war. A common subgenus of varren has metallic silver scales, leading to the rather unusual nickname 'fishdogs'.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19971",
+   "en": "Spacefaring species without the political power to set galactic policy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19972",
+   "en": "Aliens: Non-Council Races",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19973",
+   "en": "In the early 2160s, the Alliance began aggressive colonization of worlds in the Skyllian Verge, much to the dismay of the batarians who had been developing the region for several decades. In 2171, the batarians petitioned the Council to declare the Verge a “zone of batarian interest.” The Council refused, however, declaring unsettled worlds in the region open to human colonization.\n\nIn protest, the batarians closed their Citadel embassy and severed official diplomatic relations with the Council, effectively becoming a rogue state. They instigated a proxy war in the Verge by funneling money and weapons to criminal organizations, urging them to strike at human colonies.\n\nHostilities peaked with the Skyllian Blitz of 2176, an attack on the human capital of Elysium by batarian-funded pirates and slavers. In 2178, the Alliance retaliated with a crushing assault on the moon of Torfan, long used as a staging base by batarian-backed criminals. In the aftermath, the batarians retreated into their own systems, and are now rarely seen in Citadel space.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19974",
+   "en": "The elcor are a Citadel species native to the high-gravity world Dekuuna. They are massive creatures, standing on four muscular legs for increased stability. Elcor move slowly, an evolved response to an environment where a fall can be lethal. This has colored their psychology, making them deliberate and conservative.\n\nElcor speech is ponderous and monotone. Among themselves, scent, slight movements, and subvocalized infrasound convey shades of meaning that make a human smile seem as subtle as a fireworks display. Since their subtlety can lead to misunderstandings with other species, the elcor often go out of their way to clarify when they are being sarcastic, amused, or angry.\n\nDekunna’s high gravity impedes mountain formation. Most of the world consists of flat, open plains, which prehistoric elcor wandered across in small family bands. Modern elcor still prefer open sky, and can become restless and uncomfortable on long starship journeys.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19975",
+   "en": "The hanar are a Citadel species known for excessive politeness. They speak with scrupulous precision, and take offense at improper language. Hanar that expect to deal with other species take special courses to help them unlearn their tendency to take offense at improper speech.\n\nAll hanar have two names. The Face Name is known to the world; the Soul Name is kept for use among close friends and relations. Hanar never refer to themselves in the first person in conversation with someone they know on a Face Name basis. To do so is considered egotistical, so instead they refer to themselves as \"this one,\" or the impersonal \"it.\"\n\nTheir homeworld, Kahje, has 90% ocean cover and orbits an energetic white star, resulting in a permanent blanket of clouds. Due to the presence of Prothean ruins on the world, many hanar worship them, and hanar myths often speak of an elder race that civilized them by teaching them language.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19976",
+   "en": "Hanar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19977",
+   "en": "When the asari discovered the Citadel, they also discovered the keepers, a docile multi-limbed insect race that seemingly exists only to maintain and repair the great Prothean station.\n\nEarly attempts to communicate with or study the keepers were failures, and it is now illegal to interfere with or impede keeper activity. Because they are completely non-threatening, keepers have become virtually invisible to everyone else. Similarly, they seem indifferent to other species, except for their tendency to help new arrivals integrate themselves into the Citadel.\n\nNo matter how many keepers die due to old age, violence, or accident, they maintain a constant number. No one has discovered the source of new keepers, but some hypothesize they are genetic constructs: biological androids created somewhere deep in the inaccessible core of the Citadel itself.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19978",
+   "en": "The krogan evolved in a hostile and vicious environment. Until the invention of gunpowder weapons, 'eaten by predators' was still the number one cause of krogan fatalities. Afterwards, it was 'death by gunshot'.\n\nWhen the salarians discovered them, the krogan were a brutal, primitive species struggling to survive a self-inflicted nuclear winter. The salarians culturally uplifted them, teaching them to use and build modern technology so they could serve as soldiers in the Rachni War. \n\nLiberated from the harsh conditions of their homeworld, the quick-breeding krogan experienced an unprecedented population explosion. They began to colonize nearby worlds, even though these worlds were already inhabited. The Krogan Rebellions lasted nearly a century, only ending when the turians unleashed the genophage, a salarian-developed bioweapon that crushed all krogan resistance.\n\nThe genophage makes only one in 1000 pregnancies viable, and today the krogan are a slowly dying breed. Understandably, the krogan harbor a grudge against all other species, especially the turians.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19979",
+   "en": "Driven from their home system by the geth nearly three centuries ago, most quarians now live aboard the Migrant Fleet, a flotilla of fifty thousand vessels ranging in size from passenger shuttles to mobile space stations. \n\nHome to 17 million quarians, the flotilla understandably has scarce resources. Because of this, each quarian must go on a rite of passage known as the Pilgrimage when they come of age. They leave the fleet and only return once they have found something of value they can bring back to their people.\n\nOther species tend to look down on the quarians for creating the geth and for the negative impact their fleet has when it enters a system. This has led to many myths and rumors about the quarians, including the belief that underneath their clothes and breathing masks, they are actually cybernetic creatures: a combination of organic and synthetic parts.\n\n ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19980",
+   "en": "The volus are a member species of the Citadel with their own embassy, but they are also a client race of the turians. Centuries ago, they were voluntarily absorbed into the Hierarchy, effectively trading their mercantile prowess for turian military protection.\n\nIrune, their homeworld, lies far beyond the normal life zone of its star. However, the world has a high-pressure greenhouse atmosphere that traps enough heat to support an ammonia-based biochemistry. As a result, the volus must wear pressure suits and breathers when dealing with other species as conventional nitrogen/oxygen air mixtures are poisonous to them, and in the low pressure atmospheres tolerable to most species, their flesh will actually split open.\n\nVolus culture is tribal, bartering lands and even people to gain status. This culture of exchange inclines them to economic pursuits. It was the volus who authored the Unified Banking Act, and they continue to monitor and balance the Citadel economy.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19981",
+   "en": "A massive space station that serves as the political and economic capital of galactic culture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19982",
+   "en": "Citadel and Galactic Government",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19983",
+   "en": "The Citadel is an ancient deep-space station, presumably constructed by the Protheans. Since the Prothean extinction, numerous species have come to call the Citadel home. It serves as the political, cultural, and financial capital of the galactic community. To represent their interests, most species maintain embassies on the Presidium, the Citadel's inner ring. \n\nThe Citadel Tower, in the center of the Presidium, holds the Citadel Council chambers. Council affairs often have far-reaching effects on the rest of the galactic community. Five arms, known as the wards, extend from the Presidium. Their inner surfaces have been built into cities, populated by millions of inhabitants from across the galaxy.\n\nThe Citadel is virtually indestructible. If attacked, the station can close its arms to form a solid, impregnable shell. For as long as the station has existed, an enigmatic race called the keepers has maintained it.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19984",
+   "en": "The Council is an executive committee composed of representatives from the Asari Republics, the Turian Hierarchy, and the Salarian Union. Though they have no official power over the independent governments of other species, the Council's decisions carry great weight throughout the galaxy. No single Council race is strong enough to defy the other two, and all have a vested interest in compromise and cooperation.\n\nEach of the Council species has general characteristics associated with the various aspects of governing the galaxy. The asari are typically seen as diplomats and mediators. The salarians gather intelligence and information. The turians provide the bulk of the military and peacekeeping forces.\n\nAny species granted an embassy on the Citadel is considered an associate member, bound by the accords of the Citadel Conventions. Associate members may bring issues to the attention of the Council, though they have no input on the decision. The human Systems Alliance became an associate member of the Citadel in 2165.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19985",
+   "en": "Spectres are agents from the Office of Special Tactics and Reconnaissance and answer only to the Citadel Council. They are elite military operatives, granted the authority to deal with threats to peace and stability in whatever way they deem necessary.\n\nThey operate independently or in groups of two or three. Some are empathetic peacekeepers, resolving disputes through diplomacy. Others are cold-blooded assassins, ruthlessly dispatching problem individuals. All get the job done, one way or another, often operating outside the bounds of galactic law.\n\nThe Spectres were founded after the salarians joined the Council. For many years, they operated in secrecy, as back-room 'problem solvers.' Only after the Krogan Rebellions did their activities become publicized. Assignment of a Spectre is less contentious than a military deployment, but makes it clear that the Council is concerned about a situation.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19986",
+   "en": "Citadel Space is an unofficial term referring to any region of space controlled by a species that acknowledges the authority of the Citadel Council. At first glance, it appears this territory encompasses most of the galaxy. In reality, however, less than 1% of the stars have been explored.\n\nEven mass-effect-FTL drive is slow relative to the volume of the galaxy. Empty space and systems without suitable drive discharge sites are barriers to exploration. Only the mass relays allow ships to jump hundreds of light years in an instant, the key to expanding across an otherwise impassable galaxy.\n\nWhenever a new relay is activated, the destination system is rapidly developed. From that hub, FTL drive is used to expand to nearby star clusters. The result is a number of densely-developed clusters thinly spread across the vast expanse of space, connected by the mass relay network.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19987",
+   "en": "Citadel Space",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19988",
+   "en": "Advances in technology have made individual soldiers more dangerous and survivable than ever before.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19989",
+   "en": "Weapons, Armor and Equipment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19990",
+   "en": "Combat hard-suits use a dual-layer system to protect the wearer. The inner layer consists of fabric armor with kinetic padding. Areas that don’t need to be flexible, such as the chest or shins, are reinforced with sheets of lightweight ablative ceramic.\n\nThe outer layer consists of automatically-generated kinetic barriers. Objects traveling above a certain speed will trigger the barrier’s reflex system and be deflected, provided there is enough energy left in the shield’s power cell. \n\nArmored hard-suits are sealable to protect the wearer from extremes of temperature and atmosphere. Standard equipment includes an onboard mini-frame and a communications, navigation, and sensing suite. The mini-frame is designed to accept and display data from a weapon’s smart targeting system to make it easier to locate and eliminate enemies.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19991",
+   "en": "Body Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19992",
+   "en": "Kinetic barriers, commonly called 'shields', provide protection against most mass accelerator weapons. Whether on a starship or a soldier’s suit of armor, the basic principle remains the same.\n\nKinetic barriers are repulsive mass effect fields projected from tiny emitters. These shields safely deflect small objects traveling at rapid velocities. This affords protection from bullets and other dangerous projectiles, but still allows the user to sit down without knocking away their chair. \n\nThe shielding afforded by kinetic barriers does not protect against extremes of temperature, toxins, or radiation.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19993",
+   "en": "Kinetic Barriers (\"Shields\")",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19994",
+   "en": "Medi-gel is a common medicinal salve used by paramedics, EMTs, and military personnel. It combines several useful applications: a local anesthetic, disinfectant, and clotting agent all in one. Once applied, the gel is designed to grip tight to flesh until subjected to a frequency of ultrasound. It is sealable against liquids - most notably blood - as well as contaminants and gases.\n\nThe gel is a genetically-engineered bioplasm created by the Sirta Foundation, a medical technology megacorp based on Earth. Technically, medi-gel violates Council laws against genetic engineering, but so far, it has proved far too useful to ban.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19995",
+   "en": "Medi-Gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19996",
+   "en": "The Milky Way galaxy contains 200 to 400 billion stars, most with a host of planets.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19997",
+   "en": "Planets and Locations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19998",
+   "en": "Feros is a habitable world in the Attican Beta cluster. Two-thirds of the habitable surface is covered with the ruins of a crumbling Prothean megatropolis. In the millennia since the Prothean extinction, the ruins have been picked over by looters many times. \n\nFeros was considered a poor prospect for colonization, as little open ground remains for agriculture. The only sizable fresh water sources are the poles, which are tapped by the decaying Prothean aqueduct systems. The dead cities, while in good condition considering their antiquity, are of uncertain stability. Ground level is congested by a dozen meters of fallen debris, and the air is fouled by dust.\n\nIn 2178, the human ExoGeni Corporation announced its intention to place a permanent colony on Feros, to thoroughly explore the ruins. The pioneer settlement was placed on the upper levels of several intact skyscrapers, using the surviving Prothean aqueducts and rooftop hydroponic gardens to support the population. \n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19999",
+   "en": "Planets: Feros",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20000",
+   "en": "Like the ancient human city of Troy, Ilos is a world known only through second-hand sources. References to Ilos have been found at several other Prothean ruins, though direct study of the world is unlikely to occur.\n\nIlos lies in a remote area of the Terminus Systems only accessible by the legendary Mu Relay. Four thousand years ago, the Mu Relay was knocked out of position by a supernova and lost. Since then, Ilos and its cluster have been inaccessible.\n\nOccasionally, a university will organize an expedition to chart a route to Ilos using conventional FTL drive. These never get beyond the planning stages due to the distance and danger. The journey could take years or decades, passing through the hostile Terminus Systems and dozens of unexplored systems.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20001",
+   "en": "Planets: Ilos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/042",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u23995",
+   "en": "Immunity\n\nBriefly, but greatly increases your armor's protection, significantly reducing health damage in emergencies.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23996",
+   "en": "Advanced Immunity\n\nIncreases health damage reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23997",
+   "en": "Master Immunity\n\nFurther increases health damage reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23998",
+   "en": "Throw\n\nAllows you to throw enemies and objects using a mass effect field",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23999",
+   "en": "Shield Boost\n\nRecharges a portion of your shields, and will restore them even while you are under fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24000",
+   "en": "Master Throw\n\nIncreases the size and strength of the mass effect field, and allows you to Throw more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24001",
+   "en": "Advanced Throw\n\nIncreases the size and strength of the mass effect field, and allows you to Throw more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24002",
+   "en": "Medium Armor\n\nYou may now equip medium armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24003",
+   "en": "Heavy Armor\n\nYou may now equip heavy armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24004",
+   "en": "Lift\n\nLifts and suspends enemies in the air, so they are unable to move or attack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24005",
+   "en": "Advanced Lift\n\nLift lasts longer, takes less time to recharge, and allows you to hit more objects with a bigger field",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24006",
+   "en": "Master Lift\n\nLift lasts even longer and allows you to hit more objects with a much bigger field",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24007",
+   "en": "Loading",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24008",
+   "en": "REPAIRING",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24009",
+   "en": "Map Abilities",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24010",
+   "en": "Exit Mapping Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24011",
+   "en": "Exit Squad Command",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24012",
+   "en": "Garrus told you about his encounter with Dr. Saleon, the geneticist. He regrets letting him escape the first time and hopes that you'll be able to track him down and bring him to justice.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24013",
+   "en": "Garrus: Find Dr. Saleon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24014",
+   "en": "Garrus gave the coordinates of Dr. Saleon's last known whereabouts. Head to the Herschel System in the Kepler Verge.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24015",
+   "en": "Head to Coordinates",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24016",
+   "en": "You've boarded the MSV Fedele, see if Dr. Saleon is on board.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24017",
+   "en": "Find Dr. Saleon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24018",
+   "en": "You found Dr. Saleon and killed him. Whatever sick experiments he was conducting are now over. Garrus was disappointed that he didn't get to finish what he started, but he seemed to understand why did it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24019",
+   "en": "Garrus: Dr. Saleon is Dead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24020",
+   "en": "You found Dr. Saleon and Garrus killed him. Whatever sick experiments he was conducting are now over. Garrus seems relieved now that it's over and Dr. Saleon is no longer free to cause havoc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24021",
+   "en": "You found Dr. Saleon and tried to arrest him, but died trying to fight you off. Whatever sick experiments he was conducting are now over. Garrus seems relieved now that it's over and Dr. Saleon is no longer free to cause havoc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24022",
+   "en": "You found Dr. Saleon and killed him. Whatever sick experiments he was conducting are now over. Garrus was not with you and he'll likely be upset he wasn't there to finish off Saleon himself.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24023",
+   "en": "DISCOVERY\nThis cluster of prefab utility shacks have a distinctly ramshackle look to them. A set of rover tracks lead away over the mountain ridge to the southwest.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24024",
+   "en": "Abandoned Mining Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24025",
+   "en": "DISCOVERY\nThe front of the rover is crumpled in from impact. A glance inside tells you the occupants - probably a team of illegal \"wildcat\" miners - are dead. Debris is still sliding down the furrows left by its tires, silent in the near-vacuum atmosphere.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24026",
+   "en": "Crashed Mining Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24027",
+   "en": "After to talking to Wrex you learned that he's looking for his family's ceremonial armor. It was taken by the turians after the Krogan Rebellion and now a profiteer named Tonn Actus has it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24028",
+   "en": "Wrex: Family Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24029",
+   "en": "You found a krogan armor belonging to the Urdnot Clan while exploring the planet Tuntau. It appears to very old and perhaps very valuable.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24030",
+   "en": "Wrex was very happy that you recovered his armor. Apparently it's not very good, but it does have sentimental value. Well... sentimental for a krogan.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24031",
+   "en": "Find the turian who stole Wrex's family armor. He's hiding at a base somewhere in the Argos Rho cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24032",
+   "en": "Find Wrex's Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24033",
+   "en": "You've discovered armor belonging to a krogan from the Urdnot clan. There was krogan back on the Citadel called Urdnot Wrex. Maybe he knows something about this.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24034",
+   "en": "Find the Owner of this Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24035",
+   "en": "Give Armor to Wrex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24036",
+   "en": "Wrex must know something about the armor you found on Tuntau. Talk to him and see what he can tell you about it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24037",
+   "en": "You found armor that belongs to the Urdnot Clan. The only krogan you knew with that name is dead and gone. Wrex won't be needing this anytime soon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24038",
+   "en": "You found krogan armor belonging to the Urdnot Clan. If Wrex was still alive he could probably tell you more about it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24039",
+   "en": "Replenish Medi-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24040",
+   "en": "Grenade Upgrade I",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24041",
+   "en": "Grenade Upgrade II",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24042",
+   "en": "Grenade Upgrade III",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24043",
+   "en": "Grenade Upgrade IV",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24044",
+   "en": "Grenade Upgrade V",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24045",
+   "en": "Medigel Upgrade I",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24046",
+   "en": "Medigel Upgrade II",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24047",
+   "en": "Medigel Upgrade III",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24048",
+   "en": "Medigel Upgrade IV",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24049",
+   "en": "Medigel Upgrade V",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24050",
+   "en": "Increases maximum number of grenades carried by 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24051",
+   "en": "Increases maximum units of medi-gel by 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24052",
+   "en": "Warp\n\nDamages all nearby enemies and objects and makes them more vulnerable to further damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24053",
+   "en": "Singularity\n\nCreates a vortex that draws objects towards it",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24054",
+   "en": "Master Warp\n\nIncreases Warp's effect, radius, duration and allows it to be used more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24055",
+   "en": "Advanced Warp\n\nIncreases Warp's effect, radius, duration and allows it to be used more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24056",
+   "en": "Master First Aid\n\nSignificantly increases the amount of health restored by First Aid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24057",
+   "en": "First Aid\n\nDeploys medi-gel to all wounded squad members, restoring their health",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24058",
+   "en": "Advanced First Aid\n\nIncreases the amount of health restored by First Aid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24059",
+   "en": "Master Singularity\n\nFurther increases the radius and duration of Singularity, and allows you to use it more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24060",
+   "en": "Master Sabotage\n\nFurther increases the radius and strength of Sabotage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24061",
+   "en": "Master Neural Shock\n\nStuns organic enemies longer, increases amount of toxic damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24062",
+   "en": "Neural Shock\n\nStuns organic enemies for a few moments, and inflicts toxic damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24063",
+   "en": "Advanced Singularity\n\nIncreases the radius and duration of Singularity, and allows you to use it more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24064",
+   "en": "Barrier\n\nAdds a biotic barrier to your shield that absorbs damage, but cannot block attacks that bypass shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24065",
+   "en": "Advanced Barrier\n\nIncreases the amount of damage Barier absorbs, allows you to use Barrier for a longer duration and more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24066",
+   "en": "Master Barrier\n\nIncreases the duration and shield strength of Barrier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24067",
+   "en": "Stasis\n\nContains the target in a Mass Effect field that holds them in place, but also makes them immune to damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24068",
+   "en": "Advanced Stasis\n\nMakes Stasis available for use more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24069",
+   "en": "Master Stasis\n\nMakes Stasis available for use more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24070",
+   "en": "Overload\n\nDamages enemy shields within a certain radius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24071",
+   "en": "Advanced Overload\n\nIncreases the radius and strength of Overload",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24072",
+   "en": "Master Overload\n\nFurther increases the radius and strength of Overload",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24073",
+   "en": "Damping\n\nTemporarily disables enemy biotics and tech within a certain radius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24074",
+   "en": "Master Damping\n\nFurther increases the radius and strength of Damping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24075",
+   "en": "AI Hacking\n\nTemporarily drives robotic enemies berserk so they will attack anything nearby, including their former allies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24076",
+   "en": "Advanced AI Hacking\n\nHack will now work on more advanced robotic enemies, and for a longer time",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24077",
+   "en": "Master AI Hacking\n\nDrives all but the toughest enemies berserk for an even longer time",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24078",
+   "en": "Sabotage\n\nOverheats nearby enemy weapons, and burns them for minor damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24079",
+   "en": "Advanced Neural Shock\n\nStuns organic enemies longer, increases amount of toxic damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24080",
+   "en": "Crane",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24081",
+   "en": "Store Discount\n\nGives a small discount when purchasing items",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24082",
+   "en": "Store Discount\n\nDoubles your store discount",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24083",
+   "en": "Store Discount\n\nTriples your store discount",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24084",
+   "en": "Motivated Buyer\n\nReceives extra credits when selling items to stores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24085",
+   "en": "Motivated Buyer\n\nReceives twice as many extra credits when selling items to stores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24086",
+   "en": "Motivated Buyer\n\nReceives three times as many extra credits when selling items to stores",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24087",
+   "en": "Immunity Specialization\n\nMakes Immunity available for use more often.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24088",
+   "en": "Adrenaline Burst Specialization\n\nMakes Adrenaline Burst available for use more often.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24089",
+   "en": "Barrier Specialization\n\nMakes Barrier last longer and absorb more damage\nThe Barrier will also regenerate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24090",
+   "en": "Assassin Specialization\n\nMakes Assassinate and Marksman available for use more often",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24091",
+   "en": "Overload Specialization\n\nIncreases the strength and size of the Overload mine explosion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24092",
+   "en": "Sabotage Specialization\n\nIncreases the strength and size of the Sabotage mine explosion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24093",
+   "en": "Damping Specialization\n\nIncreases the strength and size of the Damping mine explosion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24094",
+   "en": "First Aid Specialization\n\nFirst Aid heals more, ignores toxic damage, and can revive dead squad members.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24095",
+   "en": "Neural Shock Specialization\n\nIncreases the duration and damage inflicted by Neural Shock",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24096",
+   "en": "Warp Specialization\n\nIncreases the radius of the Warp field, and the amount of damage it inflicts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24097",
+   "en": "Lift Specialization\n\nIncreases the radius of the Lift field so it can hit more objects.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24098",
+   "en": "Lift Specialization\n\nIncreases the size of the Lift field so it can hit more objects.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24099",
+   "en": "Throw Specialization\n\nIncreases the size of the Throw field so it can hit more objects.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24100",
+   "en": "Stasis Specialization\n\nAllows enemies in Stasis to be damaged.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24101",
+   "en": "Unity\n\nAllows you to immediately restore your squad members to fighting state after they have been knocked out in combat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24102",
+   "en": "Advanced Unity\n\nIncreases the amount of health and shields restored by Unity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24103",
+   "en": "Master Unity\n\nFurther increases the amount of health and shields restored by Unity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24104",
+   "en": "While on the Citadel you uncovered an Alliance patrol report. One of the patrols mentioned some strange activity in the Hydra System of the Argos Rho cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24105",
+   "en": "Unusual Readings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24106",
+   "en": "Go to the Hydra System in the Argos Rho cluster and investigate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24107",
+   "en": "Investigate System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24108",
+   "en": "PAUSED",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24109",
+   "en": "Mining Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24110",
+   "en": "DISCOVERY\nIt appears these particle bores were shut down after breaking through into tunnels just below the surface.\n\nThe shacks and equipment are stenciled with the logo of the Tenkarra Mining Consortium, but there is no trace of the mining crew.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24111",
+   "en": "The logs for the freighter on Feros showed large deliveries being made to a system in the Voyager cluster. The strange thing is, there's nothing out that way that would warrant such a demand for supplies.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24112",
+   "en": "Investigate Shipments",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24113",
+   "en": "Head to the Amazon system in the Voyager cluster and investigate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24114",
+   "en": "Go to Amazon System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24115",
+   "en": "You discovered a strange transmission discussing some sort of biotic commune. On the whole it seems harmless, but something about the message is a little disturbing.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24116",
+   "en": "Strange Transmission",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24117",
+   "en": "Head to the Century System in the Hawking Eta cluster and investigate the strange biotic commune.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24118",
+   "en": "Find the Commune",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24119",
+   "en": "Geth Communications Array",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24120",
+   "en": "You found a confidential transmission while on Feros. It's unclear exactly what's going on, but it appears ExoGeni sent some kind of sample to a research facility on Nodacrux.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24121",
+   "en": "Investigate Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24122",
+   "en": "Nodacrux is located in the Vostok system of the Maroon Sea Cluster. Head there and find out what's going on.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24123",
+   "en": "Turn Off Geth Comm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24124",
+   "en": "DISCOVERY\nThe geth array is transmitting regular data bursts on an encrypted channel, using the Alliance's own FTL comm buoys. It's not clear where the data is being directed, nor the content of the signal.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24125",
+   "en": "While on Feros you found the personal log of an ExoGeni employee. The doctor's notes seem to express some concern about samples they provided to a group he referred to only as Cerberus.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24126",
+   "en": "Investigate Samples",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24127",
+   "en": "The logs mentioned something about the Matano system, in the Maroon Sea cluster. That would be a good place to start your investigation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24128",
+   "en": "Go to System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24129",
+   "en": "While on Noveria, you found a log listing an unauthorized transmission. Apparently someone thinks a doctor located in the Newton system is in grave danger. Unfortunately, it appears the message was intercepted by Noveria security before it could be delivered.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24130",
+   "en": "Doctor at Risk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24131",
+   "en": "Head to the Newton system in the Kepler Verge and warn the doctor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24132",
+   "en": "Find the Doctor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24133",
+   "en": "While on Noveria you found something interesting in Tartakovsky's personal log files. He mentioned increased mercenary activity in the Artemis Tau cluster, specifically in the Macedon system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24134",
+   "en": "Mercenaries",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24135",
+   "en": "Head to the Macedon system in the Artemis Tau cluster and investigate the mercenary attacks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24136",
+   "en": "Investigate Mercenaries",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24137",
+   "en": "According a log file you uncovered on Noveria, an entire colony has gone missing from the Hades Gamma cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24138",
+   "en": "Missing Colony",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24139",
+   "en": "Go to the Antaeus system in the Hades Gamma cluster and determine what's happened to the survey team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24140",
+   "en": "Investigate Situation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24141",
+   "en": "DISCOVERY\nThis massive skull is scored by deflected mass accelerator shots. The xenobiology files in your hardsuit computer can't identify the species. It must have been brought here from an unknown world.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24142",
+   "en": "Strange Skull",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24143",
+   "en": "Files from an encrypted geth terminal indicated that the geth may be amassing a large fighting force in the Armstrong Cluster. If true, this could be the precursor to a full on war with the geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24144",
+   "en": "Geth Activities",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

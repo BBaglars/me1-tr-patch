@@ -1,0 +1,1217 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/004",
+  "family": "ICE20"
+ },
+ "entries": [
+  {
+   "key": "u01070",
+   "en": "Step aside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01071",
+   "en": "I'm with the Council.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01073",
+   "en": "Easy, people.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01074",
+   "en": "I'm keeping my gun.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01075",
+   "en": "You're a long way from home, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01076",
+   "en": "Aren't we all?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01077",
+   "en": "Home is a state of mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01078",
+   "en": "You have no idea.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01079",
+   "en": "Commander Shepard, Systems Alliance Navy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01080",
+   "en": "Alliance Navy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_ICE60_02_DSG_LOC",
+    "BIOA_ICE60_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01081",
+   "en": "Charge and lock!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01082",
+   "en": "Behave yourself.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01083",
+   "en": "Load of horsecrap, ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01084",
+   "en": "The next Navy patrol isn't due for another two weeks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01085",
+   "en": "We're the law here. Show some respect.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01086",
+   "en": "They plan to be trouble, ma'am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01087",
+   "en": "Sergeant Stirling, secure their weapons.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01088",
+   "en": "I outrank you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01089",
+   "en": "I imagine you want to talk to me, Shepard. About my mother.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01090",
+   "en": "My people have an expression, too. \"Only a child never contradicts her mother.\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01091",
+   "en": "I meant what I said before. Her actions are wrong.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01092",
+   "en": "If you would feel safer leaving me on the Normandy, I will stay. But I would like to see her. Maybe I can persuade her to come peacefully.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01093",
+   "en": "I understand. Please try to reason with her. She was a good person once.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01094",
+   "en": "Thank you, Shepard. That means a great deal to me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01095",
+   "en": "No, I don't. I trust you, Liara. You may not be military, but you're part of my crew.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01096",
+   "en": "No, we don't. Humans have an expression: \"Blood is thicker than water\".",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01097",
+   "en": "We talked about her before. But things change when you're up against something. If it's her or me, who would you shoot?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01098",
+   "en": "I hope so. I accept your word, Liara. Let's get going.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01099",
+   "en": "Pretty words, but I can't take the risk. Report back to the Normandy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01100",
+   "en": "I don't think that's likely. But you can try.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01102",
+   "en": "I can't trust you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC",
+    "BIOA_JUG70_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01103",
+   "en": "Can I trust you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01104",
+   "en": "Come with us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01105",
+   "en": "Go back to the ship.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01106",
+   "en": "You can try.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_01A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01241",
+   "en": "Please don't touch anything.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01242",
+   "en": "I'm trying to work here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01243",
+   "en": "You're in my light.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01244",
+   "en": "You're disturbing the crime scene. Could you find someplace else to be?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01245",
+   "en": "I acquiesced to your demands. Do not press me for more. There are limits.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01246",
+   "en": "We both gained from our arrangement. Why don't you go look for Lady Benezia?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01247",
+   "en": "You will excuse me if I don't stand up.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01248",
+   "en": "Yes, isn't everything?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01249",
+   "en": "Businesses come here to avoid the second-guessing of galactic law.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01250",
+   "en": "Just so we understand each other.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01251",
+   "en": "I will not allow you to harass our clients. This world is private property.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01252",
+   "en": "I trust you can show yourself out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01253",
+   "en": "Don't be ridiculous. Do you think a for-profit company would take no precautions against loss of life and material?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01254",
+   "en": "Project leads have the final say here. Not meddlesome politicians.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01255",
+   "en": "Nevertheless, I have a responsibility to keep you away from them. Spectres are not encumbered by a need for due process.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01256",
+   "en": "Spectre. Have you, by any chance, acquired Mr. Qui'in's so-called \"evidence?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01257",
+   "en": "Please do not weary me with more talk. Noveria does not run itself.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01258",
+   "en": "I presume you are here to present me with Opold's package?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01259",
+   "en": "I am in the middle of nine things, all of them annoying. What do you want now?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01260",
+   "en": "I'll be leaving now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_ICE60_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01261",
+   "en": "Are you telling me you have no safety protocols?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01262",
+   "en": "And I represent the \"second-guessing of galactic law.\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01263",
+   "en": "I'm not here to investigate your tenants.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01264",
+   "en": "I've acquired Qui'in's evidence of your misconduct. Let's talk.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01265",
+   "en": "Your secretary is a plant for the Executive Board. Internal Affairs, she said.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01266",
+   "en": "Opold wants me to smuggle a package through security.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01268",
+   "en": "I'm conducting an investigation. It's a matter of galactic security.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01269",
+   "en": "We are back in contact with Peak 15. They say you destroyed the hot lab facility and killed Lady Benezia.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01270",
+   "en": "I need more than your word to act on that. Bring me whatever he's smuggling and I'll act accordingly.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01271",
+   "en": "I am no weapons expert, but it seems to me that this is a rather advanced device. Certainly contraband.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01272",
+   "en": "It would have been unfortunate if this had reached its buyer.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01273",
+   "en": "I am willing to give you 200 credits and a pass to leave Hanshan. Not without an understanding between us, of course.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01274",
+   "en": "You can only go to Peak 15 to speak to Lady Benezia. If you cause trouble, or if the staff asks you to leave, you will be thrown offworld.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01275",
+   "en": "I understand your meaning perfectly. I will give you an additional 400 credits, for a total of 600.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01276",
+   "en": "If there is nothing else, I would like to go back to work.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01277",
+   "en": "Of course. That makes perfect sense. I wouldn't know what to do with it anyway. It would be best if you kept it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01278",
+   "en": "Er, oh, uh, of course.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01279",
+   "en": "How interesting. There is a limited number of people who could provide one. I will increase the reward to 600 credits. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01280",
+   "en": "That is not the response I anticipated from a Spectre. I may have underestimated you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01281",
+   "en": "You are shrewd to use this as leverage. If it is a serious infraction, I will give you a pass.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01282",
+   "en": "I would compensate you. The precise amount in credits depends on the severity of Opold's crime.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01283",
+   "en": "No one here is fond of trials. They make shareholders nervous.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01284",
+   "en": "More likely we would simply let him go. Of course, he would be blacklisted by the companies here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01285",
+   "en": "I appreciate your report.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01286",
+   "en": "She arrived a few days ago, accompanied by a personal escort and some cargo. She is up at Peak 15.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01287",
+   "en": "If I knew, I wouldn't be at liberty to say. She came here as Agent Saren's executor.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01288",
+   "en": "She is here on business for Binary Helix. There were issues at Peak 15 that required Saren's attention.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01289",
+   "en": "Excuse me, his what?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01290",
+   "en": "Executor. Saren is a major shareholder in Binary Helix. Lady Benezia is authorized to act in his name.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01291",
+   "en": "His what?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01292",
+   "en": "Large, heavy, and sealed. It passed weapons screening. Beyond that it is not our concern.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01293",
+   "en": "I'm afraid that you cannot. Peak 15 is a private facility in the Skadi Mountains.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01294",
+   "en": "Regardless, there is a blizzard in the area. Shuttles are grounded, and surface access has been cut off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01295",
+   "en": "Cut off, I said. The roads are not suitable for travel. Don't make an issue of this, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01296",
+   "en": "The phrase is self-explanatory. Bodyguards attending to the safety of her person. Mainly asari commandos.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01297",
+   "en": "Commandos? You didn't think that odd?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01298",
+   "en": "They followed all our regulations. I had no reason to forbid Lady Benezia from taking them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01299",
+   "en": "You let asari who can kill you with their brains run around, but give us flak about guns?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01300",
+   "en": "Commandos? You didn't think that was weird?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01301",
+   "en": "Commandos? Odd that you shouldn't mind their presence.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01302",
+   "en": "And you didn't think that odd?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01303",
+   "en": "Every minute of my time you waste costs the company 12 credits. I will keep a running tally.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01304",
+   "en": "Good. I received a dozen urgent messages while you dithered about.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01305",
+   "en": "I believe I explained this already, did I not?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01306",
+   "en": "Agent Saren? One of your Spectre compatriots?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01307",
+   "en": "It's possible, given his interests. What our clients do in their labs is their business.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01308",
+   "en": "An area of severe weather has cut off contact. Things will return to normal in a few days.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01309",
+   "en": "I have placed Lorik Qui'in, the manager of the Hanshan office, under internal review. I cannot comment further at this time. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01310",
+   "en": "You need my help to leave this port. I am curious why you would renege on our agreement.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01311",
+   "en": "That should have been my decision.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01312",
+   "en": "I consider this matter closed. Was there anything else you wanted?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01313",
+   "en": "There is a limited number of people who could help you. I must consult my records.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01314",
+   "en": "Your \"likes\" are no concern of mine. I gave you the opportunity to earn my gratitude.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01315",
+   "en": "I will not insult you by demanding the buyer's identity. I will alert the guards to be on the lookout.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01316",
+   "en": "So long as contraband is not brought into Noveria, I do not object.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01317",
+   "en": "Then why are you bothering me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01318",
+   "en": "Eh-- That is good to know. Would you mind stepping outside? I'm afraid I will have to let Ms. Parasini go. It can't wait.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01319",
+   "en": "Ms. Parasini? Would you come in here for a moment?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01320",
+   "en": "Of course, Mr. Anoleis.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01321",
+   "en": "Your mind has not been fully on your duty to me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01322",
+   "en": "I don't understand, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01323",
+   "en": "I'm not losing this job.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01324",
+   "en": "Anoleis, if I don't report in, the Board will figure it out! Put the weapon d--",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01325",
+   "en": "I said, I'm not losing this job!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01326",
+   "en": "Yes, I have it with me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01327",
+   "en": "I changed my mind and gave it to him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01328",
+   "en": "Here's the package. Proof enough?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01329",
+   "en": "All part of the job.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01330",
+   "en": "Opold's buyer is not going to be happy when he hears this. I can keep an eye on him, if you sweeten the reward.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01331",
+   "en": "You know, that's a dangerous weapon. It shouldn't be left unsecured. I should impound it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01332",
+   "en": "If this incident was reported, it would be bad for business. But I could arrange for my report to headquarters to be \"overlooked.\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01333",
+   "en": "Of course. But I'll keep that mod. It's military hardware. I can't leave it in the hands of a civilian.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01334",
+   "en": "I already have a pass. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01335",
+   "en": "How thankful are you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01336",
+   "en": "It's not yours yet. Make it worth my time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01337",
+   "en": "Not so fast. In exchange, I want garage access.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01338",
+   "en": "What will you do for me in return?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01339",
+   "en": "So you'll arrest him?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01340",
+   "en": "I'll look into it and get back to you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01341",
+   "en": "I've heard an asari Matriarch is here. Benezia?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01342",
+   "en": "What brought her out here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01343",
+   "en": "What did you mean by \"personal escort?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01344",
+   "en": "What can you tell me about her cargo?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01345",
+   "en": "I'd like to see her immediately.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01346",
+   "en": "Surface access, you say?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01347",
+   "en": "What do you mean \"personal escort?\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01348",
+   "en": "Back to my other questions.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01349",
+   "en": "I have no more questions at this time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01350",
+   "en": "Do you do business with Saren?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01351",
+   "en": "Is Binary Helix developing weapons for him?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01352",
+   "en": "Is there some problem on Peak 15?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01353",
+   "en": "Why is Synthetic Insights closed?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01354",
+   "en": "Opold was smuggling bobble-head geisha dolls. It wasn't worth your time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01356",
+   "en": "Alternate means out of Hanshan were available.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01357",
+   "en": "I don't like your attitude, Mr. Anoleis.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC"
+   ]
+  }
+ ]
+}

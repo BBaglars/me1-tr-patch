@@ -1,0 +1,576 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/002",
+  "family": "END20"
+ },
+ "entries": [
+  {
+   "key": "u00134",
+   "en": "The Presidium is experiencing severe system malfunctions across the entire level. All non-emergency personnel must evacuate immediately.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00135",
+   "en": "We have lost all primary power to the level. Environmental controls are not responding. Class three fires are burning in sectors 2, 3, 6 and 7. Civilian casualties are high.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00136",
+   "en": "I am also detecting numerous unauthorized synthetic life-forms throughout the station. They are believed to be hostile. Please approach with caution.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00137",
+   "en": "Former Spectre agent Saren Arterius is nearing the vicinity of the Council Chamber.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00138",
+   "en": "A warrant has been issued for his arrest, though Citadel Security is unable to respond at this time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00139",
+   "en": "In accordance with standard emergency procedures, the Council has been evacuated to the Destiny Ascension.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00140",
+   "en": "I have no information on the status of specific individuals. Once the current crisis has been resolved, a complete accounting of casualties and survivors will begin.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00141",
+   "en": "Critical failures detected across all monitored systems.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00142",
+   "en": "Please begin emergency evacuation procedures. This is not a drill.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00143",
+   "en": "Give me a run-down of the damage.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00144",
+   "en": "Where's Saren?",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00145",
+   "en": "What happened to the Council?",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00146",
+   "en": "What about Captain Anderson and Ambassador Udina? What happened to them?\n",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00147",
+   "en": "Come on. We need to stop Saren before it's too late!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00148",
+   "en": "Status report.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00149",
+   "en": "Log off",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00151",
+   "en": "The Council",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00152",
+   "en": "Other survivors",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_CIN_LOC",
+    "BIOA_END20_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00153",
+   "en": "Saren's close now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00154",
+   "en": "We have to hurry!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC",
+    "BIOA_JUG_80_X_Outrun_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00155",
+   "en": "This will all be over soon.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00156",
+   "en": "Time for payback!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00157",
+   "en": "Saren can't run any more.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00158",
+   "en": "Come on! We're running out of time!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00159",
+   "en": "We have to stop Saren!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00160",
+   "en": "The fate of the entire galaxy hangs in the balance!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00161",
+   "en": "There is no time to lose.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00162",
+   "en": "Somebody needs to put Saren in his place!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00163",
+   "en": "Time to settle some old scores.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00164",
+   "en": "Saren has to pay for what he's done!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00165",
+   "en": "Saren's so close, I can smell him!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00166",
+   "en": "I'm going to rip him apart with my bare hands.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00167",
+   "en": "Quickly, before it's too late!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00168",
+   "en": "Saren is trying to take control of the Citadel!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00169",
+   "en": "We have to stop him before he brings back the Reapers!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_02_DSG_LOC",
+    "BIOA_END70_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u00170",
+   "en": "The Citadel's opening! All ships move in! Concentrate on Sovereign!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00171",
+   "en": "Alliance ships move in! Save the Destiny Ascension!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00172",
+   "en": "Sovereign's too strong! We have to pull back!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00173",
+   "en": "Negative! This is our only chance! Take that monster down, no matter what the cost!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00174",
+   "en": "Its shields are down! Now's our chance!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00175",
+   "en": "Hit it with everything we've got!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00176",
+   "en": "Come on, girl... lets show 'em what we can do.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00177",
+   "en": "Hard on my flank! We're going in!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00178",
+   "en": "It's the Alliance! Thank the Goddess!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00179",
+   "en": "Destiny Ascension, you are all clear. Repeat - you are all clear.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00180",
+   "en": "All Alliance ships hold formation. Wait for a shot at Sovereign. Nothing else matters. I repeat, nothing else matters!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00181",
+   "en": "Commander - we're picking up reinforcements!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00182",
+   "en": "It's the Alliance! Open a comm channel!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00183",
+   "en": "This is the Ascension. We are taking heavy damage. GARDIAN defenses are overwhlemed, kinetic barriers are off-line.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00184",
+   "en": "Commander... they closed the channel.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00185",
+   "en": "Go!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00186",
+   "en": "Look out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00187",
+   "en": "Move!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00188",
+   "en": "The Citadel's closing. They're sealing the station!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00189",
+   "en": "Don't let the enemy ships inside the arms!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00190",
+   "en": "Enemy flagship moving in. Closing fast!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00191",
+   "en": "Hold the line.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00192",
+   "en": "Fire at will.",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00193",
+   "en": "Take cover!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u00194",
+   "en": "Get down!",
+   "tr": "",
+   "ctx": [
+    "BIOA_END20_Bridge_CIN_LOC",
+    "BIOA_END70C_Bridge_CIN_LOC",
+    "BIOA_END70D_Bridge_CIN_LOC"
+   ]
+  }
+ ]
+}

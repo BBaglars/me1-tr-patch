@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/003",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u18741",
+   "en": "AM-4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18742",
+   "en": "AH-5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18743",
+   "en": "BA-9",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18744",
+   "en": "OT-1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18745",
+   "en": "Cryo Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18746",
+   "en": "Polonium Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18747",
+   "en": "High Explosive Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18748",
+   "en": "Proton Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18749",
+   "en": "Incendiary Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18750",
+   "en": "Armor Piercing Ammo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18751",
+   "en": "Hollow Point",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18752",
+   "en": "Field Jacketed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18753",
+   "en": "Silencer Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18754",
+   "en": "Rapid Fire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18755",
+   "en": "Flechette Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18756",
+   "en": "Scope Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18757",
+   "en": "Flywheel Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18758",
+   "en": "Flashlight Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18759",
+   "en": "Recon Swarm Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18760",
+   "en": "Combat Optics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18761",
+   "en": "Ladar Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18762",
+   "en": "Ablative Coating Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18763",
+   "en": "Hardened Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18764",
+   "en": "Capacitor Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18765",
+   "en": "Firewall Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18766",
+   "en": "Automed Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18767",
+   "en": "Secondary Power Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18768",
+   "en": "Stealth Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18769",
+   "en": "Universal Combat Optics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18770",
+   "en": "Repulsor Field Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18771",
+   "en": "Shield Siphon Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18772",
+   "en": "Exposed Core Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18773",
+   "en": "ECM Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18774",
+   "en": "Biotic Jammer Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18775",
+   "en": "Dermal Charge Pulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18776",
+   "en": "ADS Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18777",
+   "en": "Lift Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18778",
+   "en": "Throw Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18779",
+   "en": "TK Ground Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18780",
+   "en": "Singularity Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18781",
+   "en": "Warp Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18782",
+   "en": "SD Ground Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18783",
+   "en": "Barrier Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18784",
+   "en": "Stasis Boost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18785",
+   "en": "KF Ground Gear",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18786",
+   "en": "Squad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18787",
+   "en": "Equipment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18788",
+   "en": "Codex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18789",
+   "en": "Journal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18790",
+   "en": "Map",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18791",
+   "en": "Save",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18792",
+   "en": "Load",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18793",
+   "en": "Options",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18794",
+   "en": "Medicine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18795",
+   "en": "Soldiers are combat specialists ideal for the front lines of a firefight. Soldiers have improved health, can specialize in the use of all weapon types, start with the ability to wear medium armor, and can train in the use of heavy armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18796",
+   "en": "Engineers are tech specialists. Using the holographic omni-tool, they can decrypt security systems, repair or modify technical equipment, disrupt enemy weapons or shields, and heal their squad. Engineers can only wear light armor, and they specialize in pistols.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18797",
+   "en": "Adepts are biotic specialists. Through upgradeable implants, they can use biotic powers to lift or throw objects, shield the squad, and disable or destroy enemies. Adepts can only wear light armor, and they specialize in pistols.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18798",
+   "en": "Infiltrators combine combat and tech abilities to specialize in killing or disabling enemies at long range. Infiltrators are trained to use omni-tools, focusing on decryption and offensive abilities rather than healing. They can specialize in pistols or sniper rifles and wear medium armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18799",
+   "en": "Vanguards are biotic warriors. They combine biotics and weapons to take down opponents and are especially deadly at short range. They specialize in pistols and shotguns and wear medium armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18800",
+   "en": "Sentinels combine biotic and tech abilities. Typically, they use biotic abilities and advanced healing skills to defend allies, though they can also disrupt opponents with biotic or tech attacks. They are more efficient at tech and biotics than other classes, but at the expense of combat. Sentinels can only wear light armor and receive no specialized weapon training.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18801",
+   "en": "Armor Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18802",
+   "en": "Weapon Field Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18803",
+   "en": "Ammunition",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18804",
+   "en": "Amplifier Upgrade Kit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18805",
+   "en": "Electronics Upgrade Kit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18806",
+   "en": "Lenskaya Materials",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18807",
+   "en": "Tixpehual Industrial",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18808",
+   "en": "Mirku Clan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18809",
+   "en": "Ahial Syndicate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18810",
+   "en": "Kahai Genetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18811",
+   "en": "Ihiko Defense Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18812",
+   "en": "Serice Council",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18813",
+   "en": "Aramali Council",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18814",
+   "en": "Matheias Council",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18815",
+   "en": "Marc Quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18816",
+   "en": "explain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18817",
+   "en": "adfa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18818",
+   "en": "open the toolset",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18819",
+   "en": "sdfads",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18820",
+   "en": "check out plot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18821",
+   "en": "sdfdsa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18822",
+   "en": "Assign journal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18823",
+   "en": "asdfs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18824",
+   "en": "Check in",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18825",
+   "en": "you have a working",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18826",
+   "en": "adfasf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18827",
+   "en": "open quest one",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18828",
+   "en": "asfadsf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18829",
+   "en": "open quest two",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18830",
+   "en": "Uncharted World: Missing Research Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18831",
+   "en": "Something transformed the researchers into machine cultists: fanatics who worship alien technology and mindlessly attack any and all organic beings. Negotiation was not an option; all the cultists are now dead.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18832",
+   "en": "Travel to the Antaeus System in the Hades Gamma Cluster to look for the missing survey team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18833",
+   "en": "Find Missing Researchers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18834",
+   "en": "News vids indicate that a survey team in the Hades Gamma cluster recently dropped out of contact. Go to the Hades Gamma cluster and find out what happened to them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18835",
+   "en": "Uncharted World: Privateers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18836",
+   "en": "A man named Garoth asked you to look for his missing brother. Garoth fears his brother's ship may have fallen victim to privateers while traveling through the Strenuus System.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18837",
+   "en": "You've discovered the remains of a ship called the Majesty. It looks like it was attacked by privateers. Info from the ship's flight log indicates the privateer base is nearby.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18838",
+   "en": "Go to the Strenuus System in the Horse Head Nebula cluster and search for signs of Garoth's brother and his ship.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18839",
+   "en": "Go to the Strenuus System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18840",
+   "en": "Go to Xawin in the Strenuus System of the Horse Head Nebula and locate the privateers responsible for destroying the ship.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18841",
+   "en": "Go to Xawin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18842",
+   "en": "You've discovered what happened to Willem, Garoth's brother. Return to the Citadel Tower and tell Garoth of his brother's fate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18843",
+   "en": "Talk to Garoth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18844",
+   "en": "Alliance Command has asked you to recover a data module used to gather intel on geth movements in the Attican Beta Cluster. It's likely the geth are also after the data module.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18845",
+   "en": "After a long and frustrating search, you've finally located the data module. Intel has been relayed to Alliance Command.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18846",
+   "en": "A rogue VI has taken over an Alliance training ground located on Earth's moon. Alliance Command needs you to eliminate the VI.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18847",
+   "en": "The rogue VI and all of its agents have been destroyed. It's unclear exactly how the VI became sentient, though Alliance Command will no doubt conduct a thorough investigation into the matter.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18848",
+   "en": "Uncharted World: Lost Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18849",
+   "en": "Go to the Ming System in the Gemini Sigma cluster and board the abandoned freighter.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18850",
+   "en": "Find the ship",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18851",
+   "en": "Find a way to restore power so that you can look at the security logs and find out what happened to the crew.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18852",
+   "en": "Find the crew",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18853",
+   "en": "You've discovered an apparently abandoned cargo freighter in the Gemini Sigma cluster. It may be worth investigating what happened to the freighter.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18854",
+   "en": "Listening Post Alpha in the Erebus system is reportedly being attacked by unidentified life forms and is requesting assistance.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18855",
+   "en": "Listening Post Alpha has been saved and the rachni infestation was eradicated. The data you discovered at Listening Post Theta suggests that the rachni infestation at both listening posts originated at Depot Sigma-23 in the Gorgon system. You also received coordinates for a nearby rachni base.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18856",
+   "en": "Listening Post Alpha has been saved and the rachni infestation was eradicated. However, similar reports are coming from Listening Post Theta in the Acheron system. You also received coordinates for a nearby rachni base.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18857",
+   "en": "Uncharted World: Listening Post Theta",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18858",
+   "en": "After rescuing the marines at Listening Post Alpha, you learned that Listening Post Theta in the Erebus system is also under attack, most likely by more rachni.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18859",
+   "en": "You have eradicated all signs of the rachni at Listening Post Theta. Logs show that the attack began shortly after a supply ship arrived from the depot on Sigma-23 in the Gorgon system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18860",
+   "en": "Go to the Acheron System in the Styx Theta cluster. Investigate Listening Post Theta on the planet Altahe.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18861",
+   "en": "Go to the Acheron System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18862",
+   "en": "Go to the Acheron System in the Styx Theta cluster. Find the Alliance base on the planet Altahe and warn them of potential threat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18863",
+   "en": "Destroy the rachni that have overrun the base and search for any marines that might still be alive.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18864",
+   "en": "Destroy the Rachni",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18865",
+   "en": "Uncharted World: Depot Sigma-23",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18866",
+   "en": "Go to the Gorgon System in the Argos Rho cluster and locate Depot Sigma-23.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18867",
+   "en": "Go to the Gorgon System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18868",
+   "en": "Kill the rachni and search for clues about how they got there in the first place.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18869",
+   "en": "Eradicate Rachni",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18870",
+   "en": "An Alliance base in the Acheron system may be in danger. Get to the base and find out what is going on.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18871",
+   "en": "Uncharted World: Colony of the Dead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18872",
+   "en": "The colonists of this world in the Matano System are the victims of a horrible mutation that has transformed them into mindless creatures.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18873",
+   "en": "Fight your way through the hostile transformed colonists while searching for survivors and clues.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18874",
+   "en": "Search for Clues",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18875",
+   "en": "According to the logs, a visitor from an organization called Cerberus recently passed through the colony. It seems likely this person had something to do with the  transformation of the colonists.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18876",
+   "en": "Logs seem to indicate this colony was intentionally infected by Cerberus. The inhabitants were innocent victims of the nefarious organization's experiments.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18877",
+   "en": "Admiral Kahoku has asked you to find a missing recon team in the Sparta System. All contact with the team was lost shortly after they were sent to investigate suspicious activity in the area.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18878",
+   "en": "Go to the Sparta System in the Artemis Tau cluster and look for the recon team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18879",
+   "en": "Find Recon Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18880",
+   "en": "Land on Edolus in the Sparta System of the Artemis Tau Cluster and investigate the source of the distress call.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18881",
+   "en": "Distress Call",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18882",
+   "en": "Uncharted World: Cerberus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18883",
+   "en": "Admiral Kahoku has given you the coordinates to a research facility run by the Cerberus group. You need to investigate the planet Binthu to find out why Cerberus is unleashing alien monstrosities in the Attican Traverse.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18884",
+   "en": "Go to the Yangtze System in the Voyager Cluster and investigate Cerberus activities on Binthu.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18885",
+   "en": "Investigate Yangtze System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18886",
+   "en": "Cerberus has been conducting illegal genetic research in an effort to create an unstoppable army. You have found Kahoku dead in one of their bases, and now you are the only one who can stop them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18887",
+   "en": "Uncharted World: Asari Diplomacy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18888",
+   "en": "You've received a cryptic message from Nassana Dantius, an asari ambassador on the Citadel. She wants to meet with you in person.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18889",
+   "en": "Speak to Nassana in the Embassy Lounge on the Presidium level of the Citadel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u18890",
+   "en": "Meet with Nassana",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

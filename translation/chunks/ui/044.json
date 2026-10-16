@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/044",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u24295",
+   "en": "7% Cooldown Reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24296",
+   "en": "9% Cooldown Reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24297",
+   "en": "Read",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24298",
+   "en": "Save Game Failed: Gamer Profile must be signed in.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24299",
+   "en": "Odd Skull",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24300",
+   "en": "Medical Interface",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24301",
+   "en": "Specialized microprocessors wired into a combat suit monitor vital functions and release small, localized doses of medi-gel to accelerate the healing process. This interface also provides resistance to toxic attacks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24302",
+   "en": "The development of practical minifacturing omni-tools allows modern militaries a great deal of flexibility in equipment load-outs. A vast number of field modification kits, or 'upgrades', are available for common equipment such as weapons, armor, omni-tools, biotic amps, and even grenades.\n\nAn upgrade kit typically consists of less than a dozen unique parts and an optical storage disc. When loaded into an omni-tool, the OSD provides all technical specifications required to manufacture the tools and additional parts necessary to install the upgrade onto another piece of equipment. Assembly is typically modular, and installation can be completed in less than a minute.\n\nSince omni-tools are designed to use common battlefield salvage materials such as plastics, ceramics, and light metals (rendered into semi-molten 'omni-gel' for quick use), it is quite possible for a trained soldier carrying upgrade kits to customize gear on the battlefield to fit the current tactical situation.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24303",
+   "en": "You have busted.  Payout 0 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24304",
+   "en": "Navigation Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24305",
+   "en": "Start game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24306",
+   "en": "Julia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24307",
+   "en": "Comatosed Man",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24308",
+   "en": "Medi-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24309",
+   "en": "With Gianna and Anoleis dead, the only person who might want Lorik's evidence is Lorik himself. You may as well return it to him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24310",
+   "en": "Return to Lorik",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24311",
+   "en": "With Anoleis conveniently dead, Lorik no longer needed his evidence.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24312",
+   "en": "Syndicate Hideout",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24313",
+   "en": "Engineering Outpost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24314",
+   "en": "Helena Blake lies on the floor, bleeding from her wounds. She looks to you with a wry, respectful smile, and opens her mouth to speak... but only blood comes out. A moment later, she's gone.\n\nYour work here is done.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24315",
+   "en": "A soft tone sounds from your hardsuit's computer as Helena's deposit enters your accounts. She bows graciously and withdraws as her men escort you out. It's doubtful you'll see her again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24316",
+   "en": "Hidden Structure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24317",
+   "en": "Hanging in the back of the safe is a suit of armor, obviously made for a krogan. It seems worthless; rusted and dented from a hundred battles. The turian must have secured it for some reason - there's nothing else of value here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24318",
+   "en": "Wrex touches his grandfather's armor, his expression... thoughtful, perhaps? Krogan are hard to read. Then he shakes off his bemusement and grips his gun with renewed purpose.\n\nTime to move on.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24319",
+   "en": "Underground Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24320",
+   "en": "Your hardsuit's computer tones softly, registering a deposit in your bank account from the ExoGeni scientist. Your work here is done.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24321",
+   "en": "ExoGeni's second-rate mercs proved no match for a trained Alliance marine. With the last of the science crew dead, there's no reason to linger here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24322",
+   "en": "Science Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24323",
+   "en": "Civilian Structure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24324",
+   "en": "Stronghold",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24325",
+   "en": "Heavy Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24326",
+   "en": "200 credits are required to play.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24327",
+   "en": "You Win!  Payout 400 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24328",
+   "en": "Payout 200 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24329",
+   "en": "Payout 100 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24330",
+   "en": "Payout 50 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24331",
+   "en": "Payout 250 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24332",
+   "en": "Payout 300 credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24333",
+   "en": "You have recorded enough wins on Schell’s device.\nDo you wish to keep playing?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24334",
+   "en": "High Stakes Quasar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24335",
+   "en": "Saleon's medical equipment is stained with the blood of many species. Pale blue, violet, orange... and more than a few dark red. But his work has ended here. Time to head back to Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24336",
+   "en": "Target\n-15% Cooldown Reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24337",
+   "en": "Target\n-18% Cooldown Reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24338",
+   "en": "Target\n-21% Cooldown Reduction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24339",
+   "en": "Feros: Refugee Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24340",
+   "en": "Level 0 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24341",
+   "en": "Level 1 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24342",
+   "en": "Level 2 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24343",
+   "en": "Level 3 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24344",
+   "en": "Level 4 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24345",
+   "en": "Level 5 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24346",
+   "en": "Level 6 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24347",
+   "en": "Level 7 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24348",
+   "en": "Level 8 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24349",
+   "en": "Level 9 Hazard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24350",
+   "en": "To Base Exterior",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24351",
+   "en": "To Lab",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24352",
+   "en": "To Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24353",
+   "en": "To Security",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24354",
+   "en": "To Maintenance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24355",
+   "en": "Storage Room",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24356",
+   "en": "Skyway Weigh Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24357",
+   "en": "Obtain purge codes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24358",
+   "en": "Upper Weigh Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24359",
+   "en": "Maintenance Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24360",
+   "en": "Prothean Skyway",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24361",
+   "en": "To Detention Cells",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24362",
+   "en": "To Research Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24363",
+   "en": "To Breeding Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24364",
+   "en": "To AA Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24365",
+   "en": "ExoGeni Approach",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24366",
+   "en": "Facility Entrance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24367",
+   "en": "ExoGeni Base",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24368",
+   "en": "Geth Gunship",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24369",
+   "en": "Level 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24370",
+   "en": "Level 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24371",
+   "en": "Level 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24372",
+   "en": "Asari Navigator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24373",
+   "en": "Level 4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24374",
+   "en": "Level 5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24375",
+   "en": "Collapsed Highway Section",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24376",
+   "en": "Any day that ends with one less crackpot, self-proclaimed lord out on the frontier is a good one. You've earned your pay today.\n\n\"Millions for defense, not one cent for tribute.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24377",
+   "en": "The negotiations with \"Lord\" Darius have been successful. You may as well head back to the Normandy and wash the taste of bile out of your mouth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24378",
+   "en": "Downloadable weapon available here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24379",
+   "en": "Drop Down",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24380",
+   "en": "Main Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24381",
+   "en": "Midden",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24382",
+   "en": "Upper Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24383",
+   "en": "Upper level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24384",
+   "en": "Recharging",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24385",
+   "en": "Cerberus Sniper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24386",
+   "en": "Cerberus Commando",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24387",
+   "en": "Cerberus Anti-Tank",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24388",
+   "en": "Joker mentioned something about an underground complex. Find your way there and search for Liara T'Soni.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24389",
+   "en": "Search for the Underground Complex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24390",
+   "en": "Alpha Varren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24391",
+   "en": "You've made it to the camp. Find whoever's in charge and speak with them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24392",
+   "en": "Speak with the Salarians",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24393",
+   "en": "Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24394",
+   "en": "Explosive Impulse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24395",
+   "en": "Effect Radius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24396",
+   "en": "General Septimus agreed to stop spreading rumors about the Asari Consort. He mentioned an elcor named Xeltan, who believed the rumors and has taken the false information to the Elcor Ambassador. Septimus asked you to tell Xeltan the truth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24397",
+   "en": "Citadel: Xeltan's Complaint",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24398",
+   "en": "Xeltan is at the elcor embassy. Find him and show him the evidence that proves Sha'ira was not to blame for his secrets getting out.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24399",
+   "en": "Speak to Xeltan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24400",
+   "en": "Evidence for Xeltan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24401",
+   "en": "Citadel: Xeltan Convinced",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24402",
+   "en": "You've fled the Citadel to reach Ilos. You probably won't have the chance to speak with Xeltan.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24403",
+   "en": "Citadel: Xeltan's Complaint.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24404",
+   "en": "You convinced Xeltan to stop his petition against Sha'ira. He was very relieved to find out that his secrets were not being given out.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24405",
+   "en": "You probably haven't seen the last of Conrad. What harm could there be in talking with him if you meet again?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24406",
+   "en": "Admiral Hackett",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24407",
+   "en": "Unavailable",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24408",
+   "en": "Noveria Approach Control",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24409",
+   "en": "Toombs stares morosely at the floor, lost in his memories. You give the scientist a shove towards the door. Your mission is complete. The Alliance courts will take it from here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24410",
+   "en": "Toombs stares at the scientist's corpse, his hands balled into fists. Slowly, with visible effort, he opens his hands, and exhales.\n\nYou catch his eye and gesture towards the door. He won't be left behind again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24411",
+   "en": "Toombs' dead eyes are still pinched with frustration and rage. The scientist, eyeing the corpse with distaste, dabs his face with a cloth.\n\nFor better or worse, the situation is resolved.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24412",
+   "en": "Thermal Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24413",
+   "en": "Security Control Unit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24414",
+   "en": "Destiny Ascension Commander",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24415",
+   "en": "Destiny Ascension Navigator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24416",
+   "en": "Klendagon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24417",
+   "en": "Klendagon is an arid terrestrial, slightly larger than Earth, but with a lower density that reflects its relative lack of heavier elements. The crust is composed of tin and aluminum, with wide deserts of dust-fine sand that are easily stirred by the wind.\n\nKlendagon's most striking feature is, of course, the Great Rift valley that stretches across the southern hemisphere. What is most fascinating about the Rift is that it does not appear to be natural. The geological record suggests it is the result of a \"glancing blow\" by a mass accelerator round of unimaginable destructive power. This occurred some thirty-seven million years ago.\n\nOrbital Period: 2.3 Earth Years\nRadius: 7377 km\nDay Length: 53.6 Earth Hours\nAtmospheric Pressure: 0.64 Earth Atmospheres\nSurface Temperature: -53 Celsius\nSurface Gravity: 0.88 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24418",
+   "en": "Ontahe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24419",
+   "en": "Ontahe description",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24420",
+   "en": "Alliance Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24421",
+   "en": "You've acquired detailed data files from a geth outpost. Given the history of the quarians, these might be of interest to Tali.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24422",
+   "en": "Tali and the Geth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24423",
+   "en": "Speak to Tali once you are back on the Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24424",
+   "en": "Speak To Tali",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24425",
+   "en": "Your refusal to give Tali the data you found at the geth outpost has driven a wedge between you. Once Saren is stopped she will no doubt leave your crew to continue her pilgrimage alone.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24426",
+   "en": "Tali's pilgrimage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24427",
+   "en": "To help Tali with her pilgrimage, you've given her a copy of the data you recovered from the geth outpost. Once you've stopped Saren, she will be able to return to her people thanks to you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24428",
+   "en": "Tali's Pilgrimage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24429",
+   "en": "Cannot save while the airlock is active.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24430",
+   "en": "That accounts for all of the ExoGeni survey team. They were converted to cybernetic \"husks\" by devices similar to those used by the geth on Eden Prime. How they came to be buried on a frontier world so far from geth territory is a mystery.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24431",
+   "en": "Overrun Research Outpost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24432",
+   "en": "For helping Nassana deal with her sister, she has added you to the Armali Council client list. Now when you visit certain stores you will occasionally see the very rare and valuable Armali Council items made available to you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24433",
+   "en": "Asari Diplomacy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24434",
+   "en": "Elevator to Prothean Skyway",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24435",
+   "en": "Human Commander",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24436",
+   "en": "Saving Profile Data",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24437",
+   "en": "A storage device was not selected. Game data will not be saved this game session.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24438",
+   "en": "Helena bows graciously and withdraws as her men escort you out. It's doubtful you'll see her again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24439",
+   "en": "The varren falls dead, riddled with slugs. This must be the alpha male - the pack leader of these feral scavengers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24440",
+   "en": "(Untrained)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24441",
+   "en": "Fuel Compartment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24442",
+   "en": "Remove Power Cells",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24443",
+   "en": "Take down the terrorists, but remember to check your targets. The civilians are so addled by the drug, they'll wander right into the middle of a firefight.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24444",
+   "en": "You've cleared the facility. The \"collateral damage\" was heavy, but the Alliance does not negotiate with terrorists.\n\n\"Evolution of humanity,\" huh? Those biotics didn't seem that different from the other scum you deal with...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/039",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u23545",
+   "en": "+10% Kinetics/-10% Distortion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23546",
+   "en": "+10% Suspension/+10% Kinetics/+10% Distortion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23547",
+   "en": "+10% Suspension/-10% Distortion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23548",
+   "en": "-2% Suspension/-2% Kinetics/-2% Distortion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23549",
+   "en": "+15% Suspension/+15% Kinetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23550",
+   "en": "+10% Suspension/-10% Kinetics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23551",
+   "en": "+5% Distortion/+5% Kinetics/+5% Suspension",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23552",
+   "en": "+10% Distortion/+10% Kinetics/+10% Suspension",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23553",
+   "en": "+10% Descryption/-10% Electronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23554",
+   "en": "+5% Medical/+5% Electronics/+5% Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23555",
+   "en": "+10% Medical/+5% Electronics/+5% Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23556",
+   "en": "+10% Electronics/-10% Medical",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23557",
+   "en": "-2% Decryption/-2% Electronics/-2% Medicine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23558",
+   "en": "+15% Medical/+15% Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23559",
+   "en": "+10% Medical/-10% Electronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23560",
+   "en": "+10% Medical/+10% Electronics/+10% Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23561",
+   "en": "Access",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23562",
+   "en": "+20% Heat Absorption/+10% Damage/+10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23563",
+   "en": "+10% Damage/+10% Heat Absorption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23564",
+   "en": "-5% Heat Absorption/-5% Damage/+15% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23565",
+   "en": "-2% Damage/-2% Heat Absorption/-2% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23566",
+   "en": "+20% Heat Absorption/+10% Stability Enhancement",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23567",
+   "en": "+10% Damage/-15% Heat Absorption/+5% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23568",
+   "en": "-10% Damage/+10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23569",
+   "en": "+5% Damage/+5% Heat Absorption/+5% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23570",
+   "en": "+10% Damage/+10% Heat Absorption/+10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23571",
+   "en": "+30% Shields\n-10% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23572",
+   "en": "+80% Shields\n+20% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23573",
+   "en": "Facial Customization\nUse [UI_XBoxB_Btn_LS] to modify the features. Move [UI_XBoxB_Btn_RS] to look around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23574",
+   "en": "Alliance Requisition Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23575",
+   "en": "+50% Movement Penalty\n+40% Damage Protection\n+40% Shields\n+40% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23576",
+   "en": "+20% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23577",
+   "en": "+20% Damage Protection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23578",
+   "en": "+20% Damage Protection\n+40% Shields\n+40% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23579",
+   "en": "Rachni Spawning Pit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23580",
+   "en": "Fist's Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23581",
+   "en": "Alleyway",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23582",
+   "en": "Upper Markets",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23583",
+   "en": "Deactivate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23584",
+   "en": "+5% Damage Protection\n+5% Hardening\n+5% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23585",
+   "en": "+10% Damage Protection\n+10% Hardening\n+10% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23586",
+   "en": "Flux Nightclub",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23587",
+   "en": "Flux Casino",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23588",
+   "en": "-10% Duration\n-10% Power\n-10% Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23589",
+   "en": "+5% Lift\n+5% Phase Shift\n+5% Singularity\n+5% Stasis\n+5% Throw\n+5% Warp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23590",
+   "en": "+10% Lift\n+10% Phase Shift\n+10% Singularity\n+10% Stasis\n+10% Throw\n+10% Warp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23591",
+   "en": "-15% Power\n-15% Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23592",
+   "en": "-10 Shields\n-10% Tech Cooldown\n-10% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23593",
+   "en": "Udina's Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23594",
+   "en": "Volus and Elcor Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23595",
+   "en": "C-Sec HQ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23596",
+   "en": "Embassy Lounge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23597",
+   "en": "Bank",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23598",
+   "en": "Council Chamber",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23599",
+   "en": "C-Sec Academy Atrium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23600",
+   "en": "Requisition Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23601",
+   "en": "C-Sec Offices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23602",
+   "en": "To Deck 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23603",
+   "en": "To Deck 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23604",
+   "en": "To Deck 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23605",
+   "en": "Sleeping Pods",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23606",
+   "en": "Medical",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23607",
+   "en": "Lab and Storage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23608",
+   "en": "Captain's Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23609",
+   "en": "Mess Hall",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23610",
+   "en": "Vehicle Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23611",
+   "en": "Engineering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23612",
+   "en": "Varren Alpha",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23613",
+   "en": "-15 Shields\n-15% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23614",
+   "en": "Immunity Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23615",
+   "en": "Adrenaline Burst Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23616",
+   "en": "Barrier Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23617",
+   "en": "Assassin Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23618",
+   "en": "+5% Damping\n+5% Hacking\n+<ip/742/190/1> Heal\n+5% Overload\n+5% Sabotage\n+5% Shock",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23619",
+   "en": "+10% Damping\n+10% Hacking\n+<ip/744/190/1> Heal\n+10% Overload\n+10% Sabotage\n+10% Shock",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23620",
+   "en": "The specified device could not be accessed. Please ensure that a valid storage device is connected to your Xbox 360 console before continuing. You will be prompted to select a new device.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23621",
+   "en": "No Xbox 360 Gamer Profile loaded. You cannot access the storage devices without a valid Gamer Profile. Please log in to the Xbox 360 and return to the Main Menu.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23622",
+   "en": "No comparison available for the currently selected item",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23623",
+   "en": "Overload Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23624",
+   "en": "Sabotage Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23625",
+   "en": "Damping Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23626",
+   "en": "First Aid Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23627",
+   "en": "Neural Shock Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23628",
+   "en": "Warp Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23629",
+   "en": "Lift Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23630",
+   "en": "Throw Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23631",
+   "en": "Stasis Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23632",
+   "en": "+30% Damage\n+10% Heat Absorption\n+45% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23633",
+   "en": "+40% Damage\n+8% Heat Absorption\n+70% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23634",
+   "en": "+30% Damage\n+2% Cooldown\n+10% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23635",
+   "en": "+5% Damage\n+5% Heat Absorption\n+5% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23636",
+   "en": "+60% Damage\n+9% Heat Absorption\n+70% Weapon Stability",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23637",
+   "en": "You persuaded Dr. Cohen to give you his pass. You can now sneak into the sealed maintenance area near the science team quarters and the quarantine lab.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23638",
+   "en": "The Back Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23639",
+   "en": "Armor Plating",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23640",
+   "en": "Cushioning Gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23641",
+   "en": "Toxic Seals",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23642",
+   "en": "Shield Regenerator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23643",
+   "en": "First Aid Interface",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23644",
+   "en": "Hardened Weave",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23645",
+   "en": "Motorized Joints",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23646",
+   "en": "Shield Battery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23647",
+   "en": "Shock Absorbers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23648",
+   "en": "Stimulant Pack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23649",
+   "en": "Ablative Coating",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23650",
+   "en": "Energized Weave",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23651",
+   "en": "Exoskeleton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23652",
+   "en": "Kinetic Buffer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23653",
+   "en": "Shield Modulator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23654",
+   "en": "Combat Exoskeleton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23655",
+   "en": "Kinetic Exoskeleton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23656",
+   "en": "Medical Exoskeleton",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23657",
+   "en": "Energized Plating",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23658",
+   "en": "Shield Interface",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23659",
+   "en": "Anti-Personnel Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23660",
+   "en": "Armor Piercing Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23661",
+   "en": "Chemical Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23662",
+   "en": "Hammerhead Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23663",
+   "en": "Phasic Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23664",
+   "en": "Radioactive Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23665",
+   "en": "Cryo Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23666",
+   "en": "Incendiary Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23667",
+   "en": "Polonium Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23668",
+   "en": "Proton Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23669",
+   "en": "Shredder Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23670",
+   "en": "Tungsten Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23671",
+   "en": "High Explosive Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23672",
+   "en": "Inferno Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23673",
+   "en": "Sledgehammer Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23674",
+   "en": "Snowblind Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23675",
+   "en": "Striker Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23676",
+   "en": "Combat Sensor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23677",
+   "en": "Heat Sink",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23678",
+   "en": "High Caliber Barrel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23679",
+   "en": "Improved Sighting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23680",
+   "en": "Recoil Damper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23681",
+   "en": "Combat Scanner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23682",
+   "en": "Kinetic Stabilizer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23683",
+   "en": "Rail Extension",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23684",
+   "en": "Simulated Optics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23685",
+   "en": "Frictionless Materials",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23686",
+   "en": "Kinetic Coil",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23687",
+   "en": "Scram Rail",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23688",
+   "en": "Cryo Explosive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23689",
+   "en": "Fusion Explosive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23690",
+   "en": "Incendiary Explosive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23691",
+   "en": "Proton Explosive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23692",
+   "en": "Hardened ceramic plates can be applied to body armor suits, increasing their effectiveness.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23693",
+   "en": "Running in body armor is difficult and even painful. Cushioning gel eases the strain on joints, allowing for easier, faster movement.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23694",
+   "en": "Specially-sealed body armor provides increased protection against radiation, gases, and a host of other toxins.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

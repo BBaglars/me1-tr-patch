@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/062",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u26940",
+   "en": "Best",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26941",
+   "en": "Done",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26942",
+   "en": "Prev",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26943",
+   "en": "Time Trial",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26944",
+   "en": "Survival",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26945",
+   "en": "Hunt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26946",
+   "en": "Capture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26947",
+   "en": "Volcanic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26948",
+   "en": "Tropical",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26949",
+   "en": "Subterranean",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26950",
+   "en": "Exit scenario? Deactivating the simulator now will result in a failure for this attempt.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26951",
+   "en": "Return to Combat ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26952",
+   "en": "Retrieving Data",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26953",
+   "en": "Eliminate the defenders and retrieve the data bank.  Then hold out for evac.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26954",
+   "en": "Turians have captured a critical colonist data bank.  Eliminate the defenders and retrieve the data bank.  Then hold out for evac.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26955",
+   "en": "This locker appears to have some of Ahern's equipment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26956",
+   "en": "Bulkhead Control",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26957",
+   "en": "Close Bulkhead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26958",
+   "en": "Personal Best",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26959",
+   "en": "Rank Up",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26960",
+   "en": "Casey Hudson\nGreg Zeschuk\nRay Muzyka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26961",
+   "en": "Vance Dylan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26962",
+   "en": "Jay Turner\nKarin Weekes\nMac Walters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26963",
+   "en": "Technical Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26964",
+   "en": "Christina Norman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26965",
+   "en": "Andy Desplenter\nDarren Wong\nDerek French\nOwen Borstad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26966",
+   "en": "Jack Lamden",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26967",
+   "en": "Thomas Trachimowich\nRichard Poulin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26968",
+   "en": "Ginny McSwain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26969",
+   "en": "LA, Technicolor\nEdmonton, Wolf Willow",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26970",
+   "en": "Charles Dennis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26971",
+   "en": "Chris Postle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26972",
+   "en": "Commander Shepard (Female)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26973",
+   "en": "Commander Shepard (Male)\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26974",
+   "en": "George Szilagy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26975",
+   "en": "Ochren\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26976",
+   "en": "Armando Troisi\nBilly Buskell\nBlake Grant\nBrenon Holmes\nCorey Andruko\nCraig Miller\nCraig Welburn\nDave McGruther\nDavid Falkner\nDerek Watts\nDiarmid Clarke\nDominic Mathiew\nDon Moar\nDrew Karpyshyn\nDuane Webb\nHoman Sanaie\nJason Attard\nJeanne-Marie Owens\nJenny Mckearney\nKeith Hayward\nKim Hansen\nLeah Hollands\nMark Jaskiewicz\nMarwan Audeh\nNathan Plewes\nNelson Housden\nPaul Marino\nPreston Watamaniuk\nRob Blake\nRob Krajcarski\nRohan Knuckey\nRyan Hoyle\nScylla Costa\nShauna Perry\nShawn Potter\nYanick Roy\n\n\nThe Mass Effect Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26977",
+   "en": "Steve Larson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26978",
+   "en": "Paul Chavez",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26979",
+   "en": "Ian Brillembourg",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26980",
+   "en": "Localization Program Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26981",
+   "en": "Localization Gaffer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26982",
+   "en": "John O'Sullivan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26983",
+   "en": "Localization Engineering Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26984",
+   "en": "Localization Test Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26985",
+   "en": "Julien Chergui",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26986",
+   "en": "Localization Audio Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26987",
+   "en": "Falk Hesse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26988",
+   "en": "Alexandre Lelandais\nAlessio Maccabelli\nDominik Prophete\nIsrael Delgado",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26989",
+   "en": "EA Localization Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26990",
+   "en": "Microsoft Games Studios",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26991",
+   "en": "BioWare ULC",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26992",
+   "en": "Marketing and Operations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26993",
+   "en": "Studio Leadership",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26994",
+   "en": "Ray Muzyka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26995",
+   "en": "Greg Zeschuk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26996",
+   "en": "Chief Executive Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26997",
+   "en": "Vice President, Development Operations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26998",
+   "en": "Shepard's Apartment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26999",
+   "en": "Press [XBoxB_Btn_A] to skip",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27000",
+   "en": "Please reconnect the controller.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27001",
+   "en": "Complete Ilos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27002",
+   "en": "Medal of Exploration II",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27003",
+   "en": "Medal of Exploration III",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27004",
+   "en": "Insanity I",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27005",
+   "en": "Insanity II",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27006",
+   "en": "Insanity III",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27007",
+   "en": "Paramour I",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27008",
+   "en": "Paramour II",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27009",
+   "en": "Paramour III",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27010",
+   "en": "Recruit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27011",
+   "en": "Bruiser",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27012",
+   "en": "Meritorious Service Medal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27013",
+   "en": "Land on 4 uncharted worlds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27014",
+   "en": "Land on 8 uncharted worlds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27015",
+   "en": "Complete Mass Effect 1, 2 or 3 on Insanity without changing difficulty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27016",
+   "en": "Complete two games in Mass Effect Legendary Edition on Insanity without changing difficulty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27017",
+   "en": "Complete all three games in Mass Effect Legendary Edition on Insanity without changing difficulty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27018",
+   "en": "Establish a romantic relationship in Mass Effect 1, 2 or 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27019",
+   "en": "Establish or rekindle a romantic relationship in two games in Mass Effect Legendary Edition",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27020",
+   "en": "Establish or rekindle a romantic relationship in all three games in Mass Effect Legendary Edition",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27021",
+   "en": "Finish Mass Effect 1, 2 and 3 with the same character",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27022",
+   "en": "Kill 250 enemies in Mass Effect 1, 2 or 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27023",
+   "en": "Kill 1,000 enemies in Mass Effect 1, 2 or 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27024",
+   "en": "Kill 2,000 enemies in Mass Effect 1, 2 or 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27025",
+   "en": "Kill 100 enemies with melee attacks in Mass Effect 1, 2 or 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27026",
+   "en": "Mass Effect has not finished installing. \nPlease wait for the installation to complete and try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27027",
+   "en": "M29 \"Grizzly\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27028",
+   "en": "You can not load this save until Mass Effect has finished installing.\nPlease select a different save, or wait for the installation to complete and try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27029",
+   "en": "Press %TrySkipElevator to skip",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27030",
+   "en": "Mako Camera-Relative Steering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27031",
+   "en": "Turn on to have the Mako's steering controls be relative to the current camera direction.\nTurn off to have the Mako's steering controls be relative to the Mako's hull.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27032",
+   "en": "© 2012 EA International (Studio and Publishing) Ltd. Unreal® Engine Copyright © 1998-2012 Epic Games, Inc. All rights reserved. This software product includes Autodesk® Scaleform® software Copyright © 2011 Autodesk, Inc. All rights reserved. Interactive Spatialized Audio Composition Technology (ISACT™): Copyright © Creative Technology Ltd. ISACT is a trademark of Creative Technology Ltd. in the United States and/or other countries. Uses Bink Video. Copyright © 1997-2012 RAD Game Tools, Inc. All other trademarks are the property of their respective owners. \n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27033",
+   "en": "Trophies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27034",
+   "en": "Many trophies offer in-game rewards. Make sure to check the Trophies screen from the Main Menu.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27035",
+   "en": "DTS and the DTS Symbol are registered trademarks of DTS, Inc. and DTS Digital Surround is a trademark of DTS, Inc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27036",
+   "en": "Dolby and the double-D symbol are trademarks of Dolby Laboratories.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27037",
+   "en": "Saving data. Do not turn off your PlayStation®4 system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27038",
+   "en": "Memory Core 1 damaged. Transfer module stack to Core 2 or 3 to reactivate. Press [XBoxB_Btn_A] to exit.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27039",
+   "en": "Please reconnect the DUALSHOCK®4 wireless controller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27040",
+   "en": "Confirm your ID as CDR. Jane Shepard, Alliance Marine.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27041",
+   "en": "Maximum save game limit for this career has been reached.  Delete or overwrite an existing save file.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27042",
+   "en": "Maximum number of careers has been reached.  Delete an existing career before starting a new one.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27043",
+   "en": "Profile reconstruction complete.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27044",
+   "en": "Use Citadel Rapid Transit to travel quickly between major locations. As you explore the Citadel, more locations will unlock.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27045",
+   "en": "Move [UI_XBoxB_Btn_LS] to highlight a reply on the conversation wheel.\nPress [UI_XBoxB_Btn_A] to select it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27046",
+   "en": "Run to the waypoint to take cover behind the rock.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27047",
+   "en": "Press [XBoxB_Btn_Y] to use medi-gel to heal your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27048",
+   "en": "Some locked objects require Decryption or Electronics to access. If any squad member has the required talent, you will be able to unlock the object using the Decryption or Electronics interface or by spending Omni-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27049",
+   "en": "Repeat the sequence of button presses before time expires.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27050",
+   "en": "Use [XBoxB_Btn_Back] to draw or holster your weapon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27051",
+   "en": "Enter cover by moving up to the rock with your weapon drawn.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27052",
+   "en": "Approaching a low object will make you crouch to take cover behind it.\nClick [XBoxB_Btn_L3] to manually toggle crouching.\nCrouching improves weapon stability and aim.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27053",
+   "en": "To change your team's equipment, press the [XBoxB_Btn_Start] button to access the Mission Computer, then select the Equipment screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27054",
+   "en": "The Equipment screen allows you to equip and upgrade gear for your squad. \nPress [UI_XBoxB_Btn_DPadL] or [UI_XBoxB_Btn_DPadR] to cycle item types. \nUse [UI_XBoxB_Btn_DPadU] and [UI_XBoxB_Btn_DPadD] to select an item. \n[UI_XBoxB_Btn_A] equips the selected item. \n[UI_XBoxB_Btn_X] upgrade an equipped item. \n[UI_XBoxB_Btn_Y] breaks down the selected item into omni-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27055",
+   "en": "Move to the edge of cover and press [XBoxB_Btn_RT] to fire.\nHold [XBoxB_Btn_LT] to lean out  and aim.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27056",
+   "en": "Press [XBoxB_Btn_RT] to pop up and fire from behind low cover.\nHold [XBoxB_Btn_LT] to pop up and aim from behind low cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27057",
+   "en": "Use [XBoxB_Btn_RT] to fire. Sustained fire causes weapons to overheat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27058",
+   "en": "Press the [XBoxB_Btn_Start] button to access the Mission Computer and view Journal and Codex entries.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27059",
+   "en": "Pull [XBoxB_Btn_LS] back to move out of cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27060",
+   "en": "As you gain levels, use the Squad screen to improve your team's abilities.\nPress the [XBoxB_Btn_Start] button to access the Mission Computer, then select the Squad screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27061",
+   "en": "Important locations are marked on your map.  \nOpen the Mission Computer with [XBoxB_Btn_Start] to access it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27062",
+   "en": "Press the [XBoxB_Btn_Start] button to access the Mission Computer, then go to the Squad screen to spend talent points for new squad members.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27063",
+   "en": "Hold [XBoxB_Btn_RB] to bring up the Power wheel. \nThe Power wheel lets you use the powers and special abilities of your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27064",
+   "en": "Use [UI_XBoxB_Btn_RS] to aim at a target.\nSelect a power with [UI_XBoxB_Btn_LS] and press [UI_XBoxB_Btn_A] to use it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27065",
+   "en": "Medi-gel is needed to heal injured squad members.\nOmni-gel can be used to bypass Decryption and Electronics challenges.\nBoth can be acquired by defeating enemies and opening containers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27066",
+   "en": "Use [XBoxB_Btn_DPad] to issue orders to your squad:\n[XBoxB_Btn_DPadU]: Attack your target.\n[XBoxB_Btn_DPadL] or [XBoxB_Btn_DPadR]: Have a specific squadmate move to a point or attack the targetted enemy.\n[XBoxB_Btn_DPadD]: Regroup and follow you.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27067",
+   "en": "Press [XBoxB_Btn_DPadL] or [XBoxB_Btn_DPadR] to send a squadmate ahead.\nPress [XBoxB_Btn_DPadD] to call them back.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27068",
+   "en": "The Squad screen lets you view your team's talents. \nUse [UI_XBoxB_Btn_DPad] to select a talent or its rank.\nPress [UI_XBoxB_Btn_A] to spend a Talent Point to gain a rank in the selected talent.\nAs you gain levels, you will acquire Talent Points and unlock higher ranks.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27069",
+   "en": "Hold [XBoxB_Btn_A] while moving to storm forward rapidly while in combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27070",
+   "en": "Use [XBoxB_Btn_LT] to aim. \nAiming increases your accuracy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27071",
+   "en": "Press [XBoxB_Btn_X] to throw a grenade, and press it again to detonate it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27072",
+   "en": "In the Normandy's vehicle bay, using a squad member's locker allows you to assign equipment to them. \nNew equipment may be purchased from the Requisition Officer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27073",
+   "en": "In the Mako:\n[XBoxB_Btn_RB] fires the main cannon.\n[XBoxB_Btn_RT] fires the coaxial machine gun.\n[XBoxB_Btn_LT] zooms.\n[XBoxB_Btn_A] fires the jump jets.\n[XBoxB_Btn_X] returns you to the Normandy from an uncharted world.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27074",
+   "en": "You cannot exit the Mako unless it is parked and on level terrain.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27075",
+   "en": "Press [XBoxB_Btn_Y] to repair the Mako using omni-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27076",
+   "en": "Hold [XBoxB_Btn_LB] to switch weapons for your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27077",
+   "en": "To change weapons, hold [XBoxB_Btn_LB].\nUse [XBoxB_Btn_LS] to select a weapon and [XBoxB_Btn_A] to equip it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27078",
+   "en": "Move the mouse to highlight a reply on the conversation wheel. \nLeft-click to select it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27079",
+   "en": "Press %FIRSTAID to use medi-gel to heal your squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27080",
+   "en": "Advance to the central core. \nMove the mouse to move around the ring.\nLeft-click and Right-click to move inward and outward.\nAvoid the security programs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27081",
+   "en": "Use %ZOOM to draw your weapon. \nPress %HOLSTERWEAPON to put it away.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27082",
+   "en": "Approaching a low object will make you crouch to take cover behind it.\nPress %CROUCH to manually toggle crouching.\nCrouching improves weapon stability and aim.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27083",
+   "en": "To change your team's equipment, press the [ %PAUSEMENU ] button to access the Equipment screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27084",
+   "en": "The Equipment screen allows you to equip and upgrade gear for your squad. \nClick the Filter tab to switch item types.\nSelect an item and click the Equip button to assign it.\nClick on an equipped item's Upgrade slot to select an upgrade.\nClick the Omni-Gel button to break down the selected item into omni-gel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27085",
+   "en": "Move to the edge of cover and press %FIRE to fire.\nHold %ZOOM to lean out  and aim.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27086",
+   "en": "Press %FIRE to pop up and fire from behind low cover.\nHold %ZOOM to pop up and aim from behind low cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27087",
+   "en": "Use %FIRE to fire. Sustained fire causes weapons to overheat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27088",
+   "en": "Press %PAUSEMENU and open the Journal to view your updated mission objectives.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27089",
+   "en": "Hold %BACKWARD to move out of cover.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

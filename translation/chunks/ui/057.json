@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/057",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u26245",
+   "en": "On the Desktop",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26246",
+   "en": "Select where you would like Shortcuts to be made:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26247",
+   "en": "On the Quick Launch toolbar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26248",
+   "en": "Select the shortcuts to create.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26249",
+   "en": "Shortcuts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26250",
+   "en": "Do not create a Start Menu folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26251",
+   "en": "Select a Start Menu folder:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26252",
+   "en": "This program will install ${PRODUCT_NAME} on your computer.\\r\\n\\r\\nTo prevent any potential conflicts while installing, it is recommended to shut down all other running programs.\\r\\n\\r\\nClick on 'Next' to start.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26253",
+   "en": "Welcome to the ${PRODUCT_NAME} Installer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26254",
+   "en": "This program will finish installing ${PRODUCT_NAME} on your computer.\\r\\n\\r\\nTo prevent any potential conflicts while installing, it is recommended to shut down all other running programs.\\r\\n\\r\\nClick on 'Next' to start.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26255",
+   "en": "Since you are not an admin, you do not have the ability to install $R0, please contact your computer Admin to have $R0 installed.  The installer for $R0 can be found on the disc at $1.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26256",
+   "en": "Running external installer for '$R0'... This may take a few moments",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26257",
+   "en": "Bad Start Menu path. Invalid chars removed/altered.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26258",
+   "en": "Bad Start Menu value. Too long.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26259",
+   "en": "Bad Start Menu value. Too short.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26260",
+   "en": "Uninstall ${PRODUCT_NAME}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26261",
+   "en": "Deleting Registry entries & keys...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26262",
+   "en": "The ${PRODUCT_NAME} uninstaller found extra files/folders in the install folder:$\\r$\\n$\\r$\\n$0$\\r$\\n$\\r$\\nDo you want to delete these files/folders?$\\r$\\n$\\r$\\nPressing Yes will delete these files/folders and remove the above folder.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26263",
+   "en": "Uninstall complete!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26264",
+   "en": "You do not have Administrator rights on this computer.$\\r$\\n$\\r$\\nAdministrator rights are required to uninstall ${PRODUCT_NAME}.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26265",
+   "en": "Uninstalling ${PRODUCT_NAME}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26266",
+   "en": "${PRODUCT_NAME} was not found on this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26267",
+   "en": "${PRODUCT_NAME} or one of its components was detected as still running.$\\r$\\n$\\r$\\nPlease exit ${PRODUCT_NAME} and any of its components before trying again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26268",
+   "en": "Remove additional files?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26269",
+   "en": "Select the items to keep:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26270",
+   "en": "Keep Save Games",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26271",
+   "en": "Keep Settings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26272",
+   "en": "Removing Windows Firewall Exception '$R0'",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26273",
+   "en": "Are you sure you want to remove ${PRODUCT_NAME} from this computer?$\\r$\\n$\\r$\\nLocation: $ProgramLocation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26274",
+   "en": "${PRODUCT_NAME} has been successfully removed from your computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26275",
+   "en": "${PRODUCT_NAME} has been successfully removed from your computer.$\\r$\\n$\\r$\\nThe files you chose to keep are still in the following folder:$\\r$\\n$\\r$\\n$ProgramLocation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26276",
+   "en": "Removing $R3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26277",
+   "en": "Starting uninstallation...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26278",
+   "en": "Extracting $R1 (%03.1f%% - %s)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26279",
+   "en": "A Data error occured.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26280",
+   "en": "Unable to open a data file.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26281",
+   "en": "Permission denied on a data file.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26282",
+   "en": "Unable to find a data file, or disk has been removed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26283",
+   "en": "Out of disk space. Please try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26284",
+   "en": "Preparing to extract $R1... (this may take several seconds)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26285",
+   "en": "Extract: %-20s",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26286",
+   "en": "Unknown file type in process",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26287",
+   "en": "Support",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26288",
+   "en": "Anja Heppelmann\nKai Wichmann",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26289",
+   "en": "The following file could not be found:\n%ls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26290",
+   "en": "The file [%ls] seems to be corrupt.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26291",
+   "en": "Error: %ls\nLine: %i, %i\nFile: %ls\n\nIf you are not the developer, you may need to re-install.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26292",
+   "en": "systeminformation.xml",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26293",
+   "en": "System Information Client",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26294",
+   "en": "BioWare Configuration Utility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26295",
+   "en": "Application Startup Failure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26296",
+   "en": "There is a problem with the installation.  Please reinstall.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26297",
+   "en": "About ${ApplicationTitle}",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26298",
+   "en": "© 2008 EA International (Studio and Publishing) Ltd.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26299",
+   "en": "Are you sure you want to exit?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26300",
+   "en": "System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26301",
+   "en": "Summary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26302",
+   "en": "Storage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26303",
+   "en": "Display",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26304",
+   "en": "Network",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26305",
+   "en": "XML Files",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26306",
+   "en": "Scanning System...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26307",
+   "en": "Welcome to the ${ApplicationTitle}!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26308",
+   "en": "Rescan the system information",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26309",
+   "en": "Enable this if you have a dedicated Internet connection.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26310",
+   "en": "Save a report of the system information",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26311",
+   "en": "Exit the program",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26312",
+   "en": "Display program information, version number and copyright",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26313",
+   "en": "Visit the BioWare website",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26314",
+   "en": "This page displays a summary of the hardware and software found on this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26315",
+   "en": "Hardware",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26316",
+   "en": "&Processor:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26317",
+   "en": "&Clock Speed:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26318",
+   "en": "Physical &Memory:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26319",
+   "en": "&Display Adapter:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26320",
+   "en": "&VRAM:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26321",
+   "en": "D&river Version:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26322",
+   "en": "&Sound Adapter:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26323",
+   "en": "Driv&er Version:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26324",
+   "en": "Software",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26325",
+   "en": "&Operating System:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26326",
+   "en": "Direct&X Version:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26327",
+   "en": "This page displays detailed information about the display adapters in this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26328",
+   "en": "&Display Adapters:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26329",
+   "en": "&Name:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26330",
+   "en": "&Resolution:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26331",
+   "en": "R&efresh Rate:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26332",
+   "en": "Adapter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26333",
+   "en": "N&ame:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26334",
+   "en": "Vend&or:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26335",
+   "en": "VRA&M:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26336",
+   "en": "Dri&ver:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26337",
+   "en": "Configure display adapters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26338",
+   "en": " on ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26339",
+   "en": " x ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26340",
+   "en": " bpp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26341",
+   "en": "This page displays detailed information about the network adapters in this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26342",
+   "en": "&Network Adapters:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26343",
+   "en": "&Type:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26344",
+   "en": "IP &Address:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26345",
+   "en": "IP &Mask:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26346",
+   "en": "&Gateway:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26347",
+   "en": "&DHCP Server:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26348",
+   "en": "Configure Windows Firewall",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26349",
+   "en": "Configure network connections",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26350",
+   "en": "This page displays detailed information about the sound adapters in this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26351",
+   "en": "&Sound Devices:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26352",
+   "en": "&Vendor:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26353",
+   "en": "&Driver:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26354",
+   "en": "Global Settings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26355",
+   "en": "Speaker &Configuration:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26356",
+   "en": "Configure sound devices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26357",
+   "en": "This page displays detailed information about the storage devices in this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26358",
+   "en": "&Storage Devices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26359",
+   "en": "&Model",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26360",
+   "en": "&Type",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26361",
+   "en": "F&ree Space:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26362",
+   "en": "This page displays detailed information about the basic components in this computer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26363",
+   "en": "Processor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26364",
+   "en": "# CP&Us",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26365",
+   "en": "# C&ores:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26366",
+   "en": "Memory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26367",
+   "en": "&Physical Memory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26368",
+   "en": "Total:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26369",
+   "en": "Available:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26370",
+   "en": "Used:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26371",
+   "en": "Pa&ge File",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26372",
+   "en": "Family ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26373",
+   "en": ", Model ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26374",
+   "en": ", Stepping ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26375",
+   "en": "This page displays detailed information about the operating system.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26376",
+   "en": "&DirectX Version:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26377",
+   "en": "Collecting Information",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26378",
+   "en": "Please wait while the system information is collected...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26379",
+   "en": "&File",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26380",
+   "en": "&Save Report...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26381",
+   "en": "E&xit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26382",
+   "en": "&System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26383",
+   "en": "&Rescan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26384",
+   "en": "&Dedicated Internet Connection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26385",
+   "en": "&Help",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26386",
+   "en": "&About ${ApplicationTitle}...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26387",
+   "en": "Visit the &BioWare website",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26388",
+   "en": "SystemInformation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26389",
+   "en": "${ApplicationTitle} has detected problems with your system. ${ProductName} will not run correctly until these problems are resolved. You can review these problems in the Welcome page.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26390",
+   "en": "${USERDATA_DIR}\\SystemInformation.xml",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26391",
+   "en": "${USERDATA_DIR}\\Config",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26392",
+   "en": "BioWare",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26393",
+   "en": "config",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u26394",
+   "en": "${ProductName} Configuration Utility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

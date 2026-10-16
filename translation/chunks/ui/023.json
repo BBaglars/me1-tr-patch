@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/023",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21293",
+   "en": "While comm buoys allow rapid transmission, there is a finite amount of bandwidth available. Given that trillions of people may be trying to pass a message through a given buoy at any one time, access to the network is parceled out on priority tiers.\n\nThe Citadel Council and the Spectres have absolute priority; if they are using all the bandwidth, everyone else must wait. Individual governments and their militaries enjoy the next-highest tier. During wartime, civilian communication can suffer hours or even days of lag. Intelligence agencies study ping time through various systems to predict military buildups.\n\nBelow the governments and militaries, bandwidth priority is sold to the highest bidder. Media conglomerates, particularly headline news networks, purchase higher priority to provide their viewers with timely information. Corporations that require timely information and response capability (for example, financial institutions and investment firms) also invest heavily in priority access. The funds acquired through sales of bandwidth are used to maintain and expand the communications infrastructure.\n\nWhile everyone with a computer has guaranteed free and unlimited access to the galactic extranet, they are last in line for bandwidth and may have to wait for their requests to be processed. Bandwidth resale corporations use investment capital to purchase blocks of high priority access, made available by paid subscription.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21294",
+   "en": "Communications: Adminstration",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21295",
+   "en": "The standard credit was established by the Citadel's Unified Banking Act as the currency of interstellar trade. The credit has a managed floating exchange rate, calculated in real time by the central bank to maintain the average value of all participating currencies. Some regional currencies are worth more than a credit, and some less. \n\nHard currency can be stolen or counterfeited, so electronic fund transfers are the norm. More importantly, physical transactions cannot be easily tracked, making them ideal for tax evasion or the purchase of illegal goods.\n\nWhen the Alliance joined the Citadel, its various national treasuries were linked into the credit network. A human with a bank account of Mexican pesos, Japanese yen, or Indian rupees can purchase any item priced in credits at fair market value. All economies that participate in the credit network are required to price items in both local currency and credits.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21296",
+   "en": "Credits (\"Creds\")",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21297",
+   "en": "Grenades are hand-tossed explosive charges, useful against organic and synthetic targets. The Alliance's standard Mark 14 grenade is designed with retractable stabilizing fins. If the fins are extended, the grenade can be tossed like a discus, and glides long distances. With the fins retracted, the grenade can be lobbed over walls and other obstacles. Most grenades have a 10-second fuse. They can be triggered earlier by a signal from any military hardsuit's built-in communications gear.\n\nThe Mark 14 grenade can be modified in the field for special purposes. Common modifications include high explosive, flashbang, and thermite paste incendiary charges. More exotic varieties include charged particle proton charges, Bose-Einstein \"cryo\" condensates, and cobalt-salted micro-nukes.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21298",
+   "en": "Cabins give each individual ten cubic meters of space. On larger vessels private rooms are common. As ships get smaller, the number of crew packed into a single wardroom increases. Asari prefer shared spaces even on large vessels, while krogan territorial instincts make it impossible for them to cohabitate even on the smallest ships.\n\nOn smaller vessels, 'hot bunking' is the norm. Crew members assigned to different watches share the same bunk. When one gets off-duty, he wakes up the person in the bunk. While that crewman is on duty, the first gets his rack time.\n\nSpacecraft compartments can be isolated by air-tight doors in case of decompression. The cinematic vision of explosive decompression is fiction; holed compartments either take enough damage that occupants are killed instantly, or leak slowly enough that they are able to reach protective gear.\n\nCompartments are equipped with Emergency Life Support Apparatus: fireproof plastic bubbles with air bottles. Small when stowed, ELSA comfortably accommodate one individual inflated. Damage control procedure cuts off ventilation to burning compartments. Without oxygen to consume, fires die in seconds. The compartment is re-pressurized afterwards for crew recovery.\n\nMass effect fields create an artificial gravity (a-grav) plane below the decks, preventing muscle atrophy and bone loss in zero-gee. Large vessels arrange their decks perpendicular to their thrust axis. The 'highest' decks are at the bow, and the 'lowest' at the engines. This allows a-grav to work with the inertial effects of thrust. Ships that can land arrange their decks laterally, so the crew can move about while the vessel is on the ground.\n\nWarships normally turn off their a-grav systems during combat, reducing the heat generated by systems and increasing combat endurance. To provide a point of reference for navigating in zero-gee, floors are painted a different color from the walls and ceiling.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21299",
+   "en": "Starships: Crew Considerations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21300",
+   "en": "As the population of the galaxy increases and new worlds are settled, timely access for home users and frontier settlements with underdeveloped communication infrastructures is a growing problem. To ameliorate bandwidth issues, a sophisticated array of data caches and virtual intelligence search agent programs are available.\n\nWhen a user submits a query, it is first routed to the data cache on their colony or star system. At the cache, the user's search agent VI collates mountains of locally-stored data to find the desired material. If the information is not available locally, the query is passed along to neighboring systems, and then outward in an expanding network. VI search agents in those systems replicate the search. If the desired information is found, it is compressed into a 'burst' file and queued for transmission to the source system. The burst is assigned a priority based on the number of queries for it; the greater the number of queries, the higher the priority.\n\nWhen a new solar system is first connected to the net, a selection of the most popular data is installed locally. Though storage hardware is cheap, the capacity required to hold all the data produced every day by trillions of people on hundreds of worlds is not trivial. It’s not economical to store local copies of all the data available on obscure topics 'just in case'.\n\nAs colonies mature, older and less-popular chunks of data filter into them as a result of queries and are placed in the local archive. Searches for obscure topics are increasingly likely to produce instant results as the archive grows.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21301",
+   "en": "Communications: Methodology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21302",
+   "en": "The krogan evolved in a lethal ecology. Over millions of years, the grim struggle to survive larger predators, virulent disease, and resource scarcity on their homeworld, Tuchanka, turned the lizards into quintessential survivors. Perhaps the most telling indicator of Tuchanka's lethality is the krogan eyes. Although they are a predator species by any standard definition, their eyes evolved to be wide-set, as in Earth prey species like deer and cattle. Krogan eyes have a 240-degree arc of vision, better suited for spotting enemies sneaking up on them than for pursuit.\n\nPhysically, the krogan are nigh-indestructible, with a tough hide impervious to any melee weapon short of a molecular blade. While they feel pain, it does not affect their ability to concentrate. They have multiple functioning examples of all major organs, and can often survive the loss of one or two of any type. Rather than a nervous system, they have an electrically conductive second circulatory system. A krogan can never be paralyzed – they may lose some of this fluid, but it can be replaced by the body in time.\n\nThe hump on a krogan’s back stores water and fats that help the krogan survive lean times. Large humps are a point of pride; being well-fed implies the krogan is a superior predator.\n\nThe most widely-known biological feature of the krogan is their incredible birth rate and rapid maturity. Once freed from the hostile cauldron of Tuchanka, the krogan population swelled into a numberless horde. Only the genophage kept them from out-breeding the combined Council races. Now the rare krogan females capable of bringing a child to term are treated like strategic resources; warlords will trade them at diplomacy or (more frequently) fight wars over them.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21303",
+   "en": "Krogan: Biology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21304",
+   "en": "The harsh krogan homeworld conditioned the krogan psychology for toughness just as it did the body. Krogan have always had a tendency to be selfish, unsympathetic, and blunt. They respect strength and self-reliance and are neither surprised nor offended by treachery. The weak and selfless do not live long. In their culture, 'looking out for number one' is simply a matter of course.\n\nAfter their defeat in the Rebellions, the very concept of krogan leadership was discredited. Where a warlord could once command enough power to bring entire solar systems to heel and become Overlord, these days it is rare for a single leader to have more than 1000 warriors swear allegiance to him. Most krogan trust and serve no one but themselves.\n\nThis solitary attitude stems in part from a deep sense of fatalism and futility, a profound social effect of the genophage that caused krogan numbers to dwindle to a relative handful. Not only are they angry that the entire galaxy seems out to get them, the krogan are also generally pessimistic about their race's chances of survival. The surviving krogan see no point to building for the future; there will be no future. The krogan live with an attitude of 'kill, pillage, and be selfish, for tomorrow we die'.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21305",
+   "en": "Krogan: Culture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21306",
+   "en": "Citadel Security is a volunteer police service answering to the Citadel Council. The 200,000 constables of C-Sec are responsible for maintaining public order in the densely populated Citadel. They also provide pirate suppression, customs enforcement, and search-and-rescue throughout the Citadel cluster. \n\nC-Sec has six divisions:\n\nENFORCEMENT – Uniformed officers who patrol the Citadel and respond to emergencies.\n\nINVESTIGATION – Detectives who puzzle out the truth behind crimes and bring perpetrators to justice.\n\nCUSTOMS – Screens the thousands of passengers and cargo containers that pass through the Citadel's ports every day.\n\nNETWORK – Deals with \"cybercrimes\" like identity and copyright theft, hacking and viral attacks, and illegal artificial intelligence.\n\nSPECIAL RESPONSE – Deals with hostage situations, bombs, and heavily armed criminals. In the unlikely event that attackers board the Citadel, they are also the front line of defense, armed with military grade equipment.\n\nPATROL – Naval arm, with ships stationed throughout the Citadel cluster. Unlike the other divisions, they are rarely seen at the Citadel, nor do they stay in one place long. \n\nJoining C-Sec is prestigious; applications must be sponsored by a Citadel Councilor or the ambassador of an associate Council race. Generally, applicants have many years of distinguished service in the military or police forces of their nation, but an inexperienced applicant with demonstrable talent will be fairly considered.\n\nC-Sec and the Spectres are often at odds. Many C-Sec members, notably current Executor Venari Pallin, believe that allowing Spectres to be 'above the law' is a dangerous practice; the actions of Saren Arterius lend credence to this position. The Spectres, in turn, are aggravated when C-Sec’s dedication to procedure and due process hampers their investigations.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21307",
+   "en": "Citadel Station: Citadel Security Services (C-Sec)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21308",
+   "en": "Citadel Defense Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21309",
+   "en": "Power Cells",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21310",
+   "en": "Test Plot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21311",
+   "en": "Test Plot Description",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21312",
+   "en": "you have completed 488 goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21313",
+   "en": "488goal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21314",
+   "en": "you have completed 488task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21315",
+   "en": "488tasktitle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21316",
+   "en": "Alliance grenades are metal disks capable of sticking to any flat surface. They can be triggered remotely after attaching to a target, or will detonate automatically after 10 seconds.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21317",
+   "en": "Mission Summary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21318",
+   "en": "Task Details",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21319",
+   "en": "Assignment Summary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21320",
+   "en": "Plot Items",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21321",
+   "en": "Mark All Entries Viewed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21322",
+   "en": "Quarian lost in:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21323",
+   "en": "Pupil Size",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21324",
+   "en": "EyeLid_Mass",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21325",
+   "en": "Brow Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21326",
+   "en": "Brow Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21327",
+   "en": "Cheek Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21328",
+   "en": "Cheek Bones",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21329",
+   "en": "Cheek Gaunt",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21330",
+   "en": "Ears Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21331",
+   "en": "Ears Size",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21332",
+   "en": "Ears Orientation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21333",
+   "en": "Mouth Lip Size",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21334",
+   "en": "Mouth Bite",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21335",
+   "en": "Nose Tip Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21336",
+   "en": "Nose Bridge Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21337",
+   "en": "Nose Bridge Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21338",
+   "en": "Nose Tip Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21339",
+   "en": "Nose Nostril Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21340",
+   "en": "Nose Top Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21341",
+   "en": "Cheeks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21342",
+   "en": "Neck Thickness",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21343",
+   "en": "Adam's apple",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21344",
+   "en": "you have completed 490_quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21345",
+   "en": "490_quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21346",
+   "en": "you have completed 490_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21347",
+   "en": "490_task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21348",
+   "en": "Accelerate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21349",
+   "en": "Verify this is your facial appearance.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21350",
+   "en": "Create a different facial appearance.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21351",
+   "en": "Confirm Facial Identification",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21352",
+   "en": "Confirm Appearance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21353",
+   "en": "Change Appearance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21354",
+   "en": "Storage Shelf",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21355",
+   "en": "Gameplay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21356",
+   "en": "Gameplay options allow you to customize your game experience. Gameplay mechanics such as difficulty and dialog mode can be found here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21357",
+   "en": "Play as a previously created character.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21358",
+   "en": "End Mission",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21359",
+   "en": "Continue Mission",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21360",
+   "en": "Return To Normandy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21361",
+   "en": "Continue Exporing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21362",
+   "en": "Investigate cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21363",
+   "en": "Combat Difficulty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21364",
+   "en": "Adjust the difficulty of combat across the game.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21365",
+   "en": "Casual",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21366",
+   "en": "All enemies, including bosses, are scaled down relative to the player's level. Most enemies have no special protection or immunities.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21367",
+   "en": "Normal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21368",
+   "en": "Bosses scaled up based on the player's level. Some enemies have special protection.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21369",
+   "en": "Veteran",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21370",
+   "en": "Bosses and sub-bosses scaled up based on player level. Most enemies have special protection.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21371",
+   "en": "Hardcore",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21372",
+   "en": "Most enemies scaled up based on the player's level. All enemies have protection. Bosses have immunities.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21373",
+   "en": "Insanity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21374",
+   "en": "All enemies scaled up relative to player level. Bosses and sub-bosses scale radically. All enemies have protection. Bosses and sub-bosses have immunities.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21375",
+   "en": "Dialog",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21376",
+   "en": "Switch between normal dialog and movie mode.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21377",
+   "en": "Dialog advanced through player selections.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21378",
+   "en": "Movie Mode",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21379",
+   "en": "Dialog advances automatically for a fully cinematic experience. Player responses are selected with no player input.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21380",
+   "en": "Auto Level-Up",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21381",
+   "en": "Adjust whether points are automatically or manually assigned each time a character advances in level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21382",
+   "en": "Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21383",
+   "en": "Points must be manually assigned using the SQUAD screen each time Shepard or any squad member gains a level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21384",
+   "en": "Squad only",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21385",
+   "en": "Points automatically assigned to appropriate talents each time a squad member gains a level. Points must be manually assigned using the SQUAD screen whenever Shepard gains a level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21386",
+   "en": "Squad and Player",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21387",
+   "en": "Points automatically assigned to appropriate talents each time Shepard or any squad member gains a level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21388",
+   "en": "Auto-Equip",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21389",
+   "en": "Adjust whether weapons, armor and items are automatically equipped for Shepard and the squad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21390",
+   "en": "All weapons, armor and items for Shepard and the squad must be manually equipped using the EQUIPMENT screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21391",
+   "en": "Appropriate weapons, armor and items for all squad members will be automatically equipped. All weapons, armor and items for Shepard must be manually equipped using the EQUIPMENT screen.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21392",
+   "en": "Appropriate weapons, armor and items for Shepard and all squad members will be automatically equipped.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21393",
+   "en": "Invert Y Axis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21394",
+   "en": "Invert vertical control for the camera",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21395",
+   "en": "Invert Y Axis On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21396",
+   "en": "Invert Y Axis Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21397",
+   "en": "Follow Camera",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21398",
+   "en": "Camera will automatically center on and follow the player in exploration mode.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21399",
+   "en": "Follow Camera On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21400",
+   "en": "Follow Camera Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21401",
+   "en": "Tutorials",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21402",
+   "en": "Adjust tutorial options.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21403",
+   "en": "Enable Tutorials",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21404",
+   "en": "Enable pop-up tutorials.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21405",
+   "en": "Tutorials On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21406",
+   "en": "Tutorials Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21407",
+   "en": "Subtitles",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21408",
+   "en": "Enable or disable subtitles. Subtitle size is adjustable for all titles in the Launcher settings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21409",
+   "en": "Subtitles On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21410",
+   "en": "Subtitles Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21411",
+   "en": "Auto-Pause",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21412",
+   "en": "Adjust when the game will automatically pause.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21413",
+   "en": "Enemy Sighted",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21414",
+   "en": "Auto-Pause when enemies sighted.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21415",
+   "en": "Enemy Sighted Auto-Pause On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21416",
+   "en": "Enemy Sighted Auto-Pause Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21417",
+   "en": "Squad Member Down",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21418",
+   "en": "Pause whenever a squad member goes down.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21419",
+   "en": "Squad Member Down Auto-Pause On",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21420",
+   "en": "Squad Member Down Auto-Pause Off",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21421",
+   "en": "Graphics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21422",
+   "en": "Adjust graphics options.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21423",
+   "en": "Brightness",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21424",
+   "en": "Increase or Decrease Brightness",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21425",
+   "en": "Display Setting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21426",
+   "en": "Adjust Display Settings",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21427",
+   "en": "Default Setting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21428",
+   "en": "Cinematic Image, Higher Contrast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21429",
+   "en": "Radiant Setting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21430",
+   "en": "Brighter Image, Lower Contrast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21431",
+   "en": "Intermediate Setting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21432",
+   "en": "Softer Image, Medium Contrast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21433",
+   "en": "Sound",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21434",
+   "en": "Adjust music, sound effects, and dialog levels.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21435",
+   "en": "Music Volume",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21436",
+   "en": "Increase or decrease music volume.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21437",
+   "en": "Sound Effects Volume",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21438",
+   "en": "Increase or decrease sound effects volume.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21439",
+   "en": "Dialog Volume",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21440",
+   "en": "Increase or decrease dialog volume.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21441",
+   "en": "Quit Game",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21442",
+   "en": "Return to Main Menu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

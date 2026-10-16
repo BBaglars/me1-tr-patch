@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/035",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u22945",
+   "en": "Decrease warp cooldown by 10.56%\nDecrease singularity cooldown by 10.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22946",
+   "en": "Decrease warp cooldown by 11.67%\nDecrease singularity cooldown by 11.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22947",
+   "en": "Decrease warp cooldown by 12.78%\nDecrease singularity cooldown by 12.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22948",
+   "en": "Decrease warp cooldown by 13.89%\nDecrease singularity cooldown by 13.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22949",
+   "en": "Decrease warp cooldown by 15%\nDecrease singularity cooldown by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22950",
+   "en": "Increase duration by 10%\nIncrease barrier health by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22951",
+   "en": "Increase duration by 12.22%\nIncrease barrier health by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22952",
+   "en": "Increase duration by 14.44%\nIncrease barrier health by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22953",
+   "en": "Increase duration by 16.67%\nIncrease barrier health by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22954",
+   "en": "Increase duration by 18.89%\nIncrease barrier health by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22955",
+   "en": "Increase duration by 21.11%\nIncrease barrier health by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22956",
+   "en": "Increase duration by 23.33%\nIncrease barrier health by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22957",
+   "en": "Increase duration by 25.56%\nIncrease barrier health by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22958",
+   "en": "Increase duration by 27.78%\nIncrease barrier health by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22959",
+   "en": "Increase duration by 30%\nIncrease barrier health by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22960",
+   "en": "Increase impact radius by 100\nIncrease maximum range by 1000\nIncrease duration by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22961",
+   "en": "Increase impact radius by 144.444444444444\nIncrease maximum range by 1444.44444444444\nIncrease duration by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22962",
+   "en": "Increase impact radius by 188.888888888889\nIncrease maximum range by 1888.88888888889\nIncrease duration by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22963",
+   "en": "Increase impact radius by 233.333333333333\nIncrease maximum range by 2333.33333333333\nIncrease duration by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22964",
+   "en": "Increase impact radius by 277.777777777778\nIncrease maximum range by 2777.77777777778\nIncrease duration by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22965",
+   "en": "Increase impact radius by 322.222222222222\nIncrease maximum range by 3222.22222222222\nIncrease duration by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22966",
+   "en": "Increase impact radius by 366.666666666667\nIncrease maximum range by 3666.66666666667\nIncrease duration by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22967",
+   "en": "Increase impact radius by 411.111111111111\nIncrease maximum range by 4111.11111111111\nIncrease duration by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22968",
+   "en": "Increase impact radius by 455.555555555556\nIncrease maximum range by 4555.55555555555\nIncrease duration by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22969",
+   "en": "Increase impact radius by 500\nIncrease maximum range by 5000\nIncrease duration by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22970",
+   "en": "Reduce barrier cooldown by 5%\nReduce stasis cooldown by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22971",
+   "en": "Reduce barrier cooldown by 6.39%\nReduce stasis cooldown by 6.39%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22972",
+   "en": "Reduce barrier cooldown by 7.78%\nReduce stasis cooldown by 7.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22973",
+   "en": "Reduce barrier cooldown by 9.17%\nReduce stasis cooldown by 9.17%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22974",
+   "en": "Reduce barrier cooldown by 10.56%\nReduce stasis cooldown by 10.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22975",
+   "en": "Reduce barrier cooldown by 11.94%\nReduce stasis cooldown by 11.94%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22976",
+   "en": "Reduce barrier cooldown by 13.33%\nReduce stasis cooldown by 13.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22977",
+   "en": "Reduce barrier cooldown by 14.72%\nReduce stasis cooldown by 14.72%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22978",
+   "en": "Reduce barrier cooldown by 16.11%\nReduce stasis cooldown by 16.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22979",
+   "en": "Reduce barrier cooldown by 17.5%\nReduce stasis cooldown by 17.5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22980",
+   "en": "Increases stamina by 2\nIncreases focus by 2\nIncreases precision by 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22981",
+   "en": "Increases stamina by 4\nIncreases focus by 4\nIncreases precision by 4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22982",
+   "en": "Increases stamina by 6\nIncreases focus by 6\nIncreases precision by 6",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22983",
+   "en": "Increases stamina by 8\nIncreases focus by 8\nIncreases precision by 8",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22984",
+   "en": "Increases stamina by 10\nIncreases focus by 10\nIncreases precision by 10",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22985",
+   "en": "Increases stamina by 11\nIncreases focus by 11\nIncreases precision by 11",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22986",
+   "en": "Increases stamina by 12\nIncreases focus by 12\nIncreases precision by 12",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22987",
+   "en": "Increases stamina by 13\nIncreases focus by 13\nIncreases precision by 13",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22988",
+   "en": "Increases stamina by 14\nIncreases focus by 14\nIncreases precision by 14",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22989",
+   "en": "Increases stamina by 15\nIncreases focus by 15\nIncreases precision by 15",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22990",
+   "en": "Reduces throw cooldown by 5%\nReduces lift cooldown by 5%\nReduces warp cooldown by 5%\nReduces singularity cooldown by 5%\nReduces barrier cooldown by 5%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22991",
+   "en": "Reduces throw cooldown by 7.5%\nReduces lift cooldown by 7.5%\nReduces warp cooldown by 7.5%\nReduces singularity cooldown by 7.5%\nReduces barrier cooldown by 7.5%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22992",
+   "en": "Reduces throw cooldown by 10%\nReduces lift cooldown by 10%\nReduces warp cooldown by 10%\nReduces singularity cooldown by 10%\nReduces barrier cooldown by 10%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22993",
+   "en": "Reduces throw cooldown by 12.5%\nReduces lift cooldown by 12.5%\nReduces warp cooldown by 12.5%\nReduces singularity cooldown by 12.5%\nReduces barrier cooldown by 12.5%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22994",
+   "en": "Reduces throw cooldown by 15%\nReduces lift cooldown by 15%\nReduces warp cooldown by 15%\nReduces singularity cooldown by 15%\nReduces barrier cooldown by 15%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22995",
+   "en": "Reduces throw cooldown by 16%\nReduces lift cooldown by 16%\nReduces warp cooldown by 16%\nReduces singularity cooldown by 16%\nReduces barrier cooldown by 16%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22996",
+   "en": "Reduces throw cooldown by 17%\nReduces lift cooldown by 17%\nReduces warp cooldown by 17%\nReduces singularity cooldown by 17%\nReduces barrier cooldown by 17%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22997",
+   "en": "Reduces throw cooldown by 18%\nReduces lift cooldown by 18%\nReduces warp cooldown by 18%\nReduces singularity cooldown by 18%\nReduces barrier cooldown by 18%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22998",
+   "en": "Reduces throw cooldown by 19%\nReduces lift cooldown by 19%\nReduces warp cooldown by 19%\nReduces singularity cooldown by 19%\nReduces barrier cooldown by 19%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22999",
+   "en": "Reduces throw cooldown by 20%\nReduces lift cooldown by 20%\nReduces warp cooldown by 20%\nReduces singularity cooldown by 20%\nReduces barrier cooldown by 20%\nReduces stasis cooldown by <ip/603/296",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23000",
+   "en": "-20% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23001",
+   "en": "-23% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23002",
+   "en": "-26% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23003",
+   "en": "-29% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23004",
+   "en": "-32% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23005",
+   "en": "-35% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23006",
+   "en": "-38% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23007",
+   "en": "-41% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23008",
+   "en": "-44% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23009",
+   "en": "-47% Max Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23010",
+   "en": "+20% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23011",
+   "en": "+25% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23012",
+   "en": "+30% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23013",
+   "en": "+35% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23014",
+   "en": "+40% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23015",
+   "en": "+45% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23016",
+   "en": "+50% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23017",
+   "en": "+55% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23018",
+   "en": "+60% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23019",
+   "en": "+65% Toxic Damage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23020",
+   "en": "+10% Damage\n+50 cm Radius\n+10% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23021",
+   "en": "+13% Damage\n+60 cm Radius\n+13% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23022",
+   "en": "+16% Damage\n+70 cm Radius\n+16% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23023",
+   "en": "+19% Damage\n+80 cm Radius\n+19% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23024",
+   "en": "+22% Damage\n+90 cm Radius\n+22% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23025",
+   "en": "+25% Damage\n+100 cm Radius\n+25% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23026",
+   "en": "+28% Damage\n+110 cm Radius\n+28% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23027",
+   "en": "+31% Damage\n+120 cm Radius\n+31% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23028",
+   "en": "+34% Damage\n+130 cm Radius\n+34% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23029",
+   "en": "+37% Damage\n+140 cm Radius\n+37% Weapons Force",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23030",
+   "en": "15 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23031",
+   "en": "19 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23032",
+   "en": "23 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23033",
+   "en": "27 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23034",
+   "en": "31 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23035",
+   "en": "35 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23036",
+   "en": "39 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23037",
+   "en": "43 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23038",
+   "en": "47 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23039",
+   "en": "51 Damage/sec for 5 sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23040",
+   "en": "Toxic factor increased by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23041",
+   "en": "Toxic factor increased by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23042",
+   "en": "Toxic factor increased by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23043",
+   "en": "Toxic factor increased by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23044",
+   "en": "Toxic factor increased by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23045",
+   "en": "Toxic factor increased by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23046",
+   "en": "Toxic factor increased by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23047",
+   "en": "Toxic factor increased by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23048",
+   "en": "Toxic factor increased by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23049",
+   "en": "Toxic factor increased by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23050",
+   "en": "Heal cooldown reduced by 2.5%\nEMP cooldown reduced by 2.5%\nDamping cooldown reduced by 2.5%\nHacking cooldown reduced by 2.5%\nShock cooldown reduced by 2.5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23051",
+   "en": "Heal cooldown reduced by 3.89%\nEMP cooldown reduced by 3.89%\nDamping cooldown reduced by 3.89%\nHacking cooldown reduced by 3.89%\nShock cooldown reduced by 3.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23052",
+   "en": "Heal cooldown reduced by 5.28%\nEMP cooldown reduced by 5.28%\nDamping cooldown reduced by 5.28%\nHacking cooldown reduced by 5.28%\nShock cooldown reduced by 5.28%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23053",
+   "en": "Heal cooldown reduced by 6.67%\nEMP cooldown reduced by 6.67%\nDamping cooldown reduced by 6.67%\nHacking cooldown reduced by 6.67%\nShock cooldown reduced by 6.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23054",
+   "en": "Heal cooldown reduced by 8.06%\nEMP cooldown reduced by 8.06%\nDamping cooldown reduced by 8.06%\nHacking cooldown reduced by 8.06%\nShock cooldown reduced by 8.06%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23055",
+   "en": "Heal cooldown reduced by 9.44%\nEMP cooldown reduced by 9.44%\nDamping cooldown reduced by 9.44%\nHacking cooldown reduced by 9.44%\nShock cooldown reduced by 9.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23056",
+   "en": "Heal cooldown reduced by 10.83%\nEMP cooldown reduced by 10.83%\nDamping cooldown reduced by 10.83%\nHacking cooldown reduced by 10.83%\nShock cooldown reduced by 10.83%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23057",
+   "en": "Heal cooldown reduced by 12.22%\nEMP cooldown reduced by 12.22%\nDamping cooldown reduced by 12.22%\nHacking cooldown reduced by 12.22%\nShock cooldown reduced by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23058",
+   "en": "Heal cooldown reduced by 13.61%\nEMP cooldown reduced by 13.61%\nDamping cooldown reduced by 13.61%\nHacking cooldown reduced by 13.61%\nShock cooldown reduced by 13.61%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23059",
+   "en": "Heal cooldown reduced by 15%\nEMP cooldown reduced by 15%\nDamping cooldown reduced by 15%\nHacking cooldown reduced by 15%\nShock cooldown reduced by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23060",
+   "en": "Heal kickback reduced by 5%\nEMP kickback reduced by 5%\nDamping kickback reduced by 5%\nSabotage kickback reduced by 5%\nHacking kickback reduced by 5%\nShock kickback reduced by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23061",
+   "en": "Heal kickback reduced by 6.67%\nEMP kickback reduced by 6.67%\nDamping kickback reduced by 6.67%\nSabotage kickback reduced by 6.67%\nHacking kickback reduced by 6.67%\nShock kickback reduced by 6.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23062",
+   "en": "Heal kickback reduced by 8.33%\nEMP kickback reduced by 8.33%\nDamping kickback reduced by 8.33%\nSabotage kickback reduced by 8.33%\nHacking kickback reduced by 8.33%\nShock kickback reduced by 8.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23063",
+   "en": "Heal kickback reduced by 10%\nEMP kickback reduced by 10%\nDamping kickback reduced by 10%\nSabotage kickback reduced by 10%\nHacking kickback reduced by 10%\nShock kickback reduced by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23064",
+   "en": "Heal kickback reduced by 11.67%\nEMP kickback reduced by 11.67%\nDamping kickback reduced by 11.67%\nSabotage kickback reduced by 11.67%\nHacking kickback reduced by 11.67%\nShock kickback reduced by 11.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23065",
+   "en": "Heal kickback reduced by 13.33%\nEMP kickback reduced by 13.33%\nDamping kickback reduced by 13.33%\nSabotage kickback reduced by 13.33%\nHacking kickback reduced by 13.33%\nShock kickback reduced by 13.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23066",
+   "en": "Heal kickback reduced by 15%\nEMP kickback reduced by 15%\nDamping kickback reduced by 15%\nSabotage kickback reduced by 15%\nHacking kickback reduced by 15%\nShock kickback reduced by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23067",
+   "en": "Heal kickback reduced by 16.67%\nEMP kickback reduced by 16.67%\nDamping kickback reduced by 16.67%\nSabotage kickback reduced by 16.67%\nHacking kickback reduced by 16.67%\nShock kickback reduced by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23068",
+   "en": "Heal kickback reduced by 18.33%\nEMP kickback reduced by 18.33%\nDamping kickback reduced by 18.33%\nSabotage kickback reduced by 18.33%\nHacking kickback reduced by 18.33%\nShock kickback reduced by 18.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23069",
+   "en": "Heal kickback reduced by 20%\nEMP kickback reduced by 20%\nDamping kickback reduced by 20%\nSabotage kickback reduced by 20%\nHacking kickback reduced by 20%\nShock kickback reduced by 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23070",
+   "en": "Duration increased by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23071",
+   "en": "Duration increased by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23072",
+   "en": "Duration increased by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23073",
+   "en": "Duration increased by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23074",
+   "en": "Duration increased by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23075",
+   "en": "Duration increased by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23076",
+   "en": "Duration increased by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23077",
+   "en": "Duration increased by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23078",
+   "en": "Duration increased by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23079",
+   "en": "Duration increased by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23080",
+   "en": "Shock duration increased by 10%\nShock toxic damage increased by 10%\nHeal amount increased by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23081",
+   "en": "Shock duration increased by 12.22%\nShock toxic damage increased by 12.22%\nHeal amount increased by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23082",
+   "en": "Shock duration increased by 14.44%\nShock toxic damage increased by 14.44%\nHeal amount increased by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23083",
+   "en": "Shock duration increased by 16.67%\nShock toxic damage increased by 16.67%\nHeal amount increased by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23084",
+   "en": "Shock duration increased by 18.89%\nShock toxic damage increased by 18.89%\nHeal amount increased by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23085",
+   "en": "Shock duration increased by 21.11%\nShock toxic damage increased by 21.11%\nHeal amount increased by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23086",
+   "en": "Shock duration increased by 23.33%\nShock toxic damage increased by 23.33%\nHeal amount increased by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23087",
+   "en": "Shock duration increased by 25.56%\nShock toxic damage increased by 25.56%\nHeal amount increased by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23088",
+   "en": "Shock duration increased by 27.78%\nShock toxic damage increased by 27.78%\nHeal amount increased by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23089",
+   "en": "Shock duration increased by 30%\nShock toxic damage increased by 30%\nHeal amount increased by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23090",
+   "en": "Increase sabotage duration by 10%\nIncrease hacking duration by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23091",
+   "en": "Increase sabotage duration by 12.22%\nIncrease hacking duration by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23092",
+   "en": "Increase sabotage duration by 14.44%\nIncrease hacking duration by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23093",
+   "en": "Increase sabotage duration by 16.67%\nIncrease hacking duration by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u23094",
+   "en": "Increase sabotage duration by 18.89%\nIncrease hacking duration by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

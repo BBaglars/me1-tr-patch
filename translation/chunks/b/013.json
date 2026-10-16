@@ -1,0 +1,1458 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/013",
+  "family": "ICE50"
+ },
+ "entries": [
+  {
+   "key": "u02675",
+   "en": "User alert! Main reactor shut down in accordance with emergency containment procedures. Manual restart required.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_00_DSG_LOC",
+    "BIOA_ICE50_07_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02676",
+   "en": "User alert! Landline connections are disabled. Passenger trams are offline.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_00_DSG_LOC",
+    "BIOA_ICE50_09_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u02677",
+   "en": "Sniper! Everyone down!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02678",
+   "en": "Ambush in the rear!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02679",
+   "en": "Sniper! Duck and cover!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02680",
+   "en": "There's a krogan up there!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02681",
+   "en": "User alert. All Peak 15 facilities have suffered a great deal of damage. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02682",
+   "en": "Biohazard materials present through facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02683",
+   "en": "Virtual Intelligence user interface offline.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02684",
+   "en": "We'll need to get the reactors back online.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02685",
+   "en": "We'll need to get main power back.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02686",
+   "en": "We will need to get the reactors back online.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02687",
+   "en": "Why are the turrets facing the wrong way?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02688",
+   "en": "They want to keep their people in as much as they want to keep others out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02689",
+   "en": "What moron installed these turrets facing backwards?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02690",
+   "en": "What was that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02691",
+   "en": "Probably debris. Don't have a panic attack. I'll protect you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02692",
+   "en": "Animals? Wind? This place is in bad shape.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02693",
+   "en": "What were those?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02694",
+   "en": "Damned if I know. But someone on this mountain does.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02695",
+   "en": "Xenobiology is not my field. Maybe someone in the labs knows.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02696",
+   "en": "Hard to kill. That's all I need to know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02697",
+   "en": "I've never seen anything like them. Maybe someone in the labs knows.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02698",
+   "en": "What the hell were those?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02699",
+   "en": "I've never seen anything like them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02700",
+   "en": "What the hell were those things?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02701",
+   "en": "What were those things?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02702",
+   "en": "Online. How may I assist you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02703",
+   "en": "Critical Failure: Loose contaminants in the decontamination chambers. Access to passenger tramways inadvisable.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02704",
+   "en": "Critical Failure: Landline connections are disabled. Passenger tram systems are offline.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02705",
+   "en": "Report complete. Do you have an additional systems status query?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02706",
+   "en": "Access is not recommended. However, authorized personnel may override the lock. You have such authorization.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02707",
+   "en": "Controls for the failsafe systems are located in the security checkpoint outside decontamination.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02708",
+   "en": "Critical systems are operating within normal tolerances. There are 1,473,831 faults in non-critical systems.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02709",
+   "en": "Very well, Commander. Logging you out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02710",
+   "en": "It looks like you're trying to restore this facility. Would you like help?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02711",
+   "en": "This system is monitored to respond to the name \"Mira.\" May I ask your name?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02712",
+   "en": "One moment, please. Council authority confirmed. You are entitled to Secure Access of all systems. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02713",
+   "en": "Please note that queries relating to corporate secrets require Privileged Access. Privileged Access is only available to Binary Helix executives. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02714",
+   "en": "One moment, please. Service record confirmed. Due to the current emergency, you are entitled to Secure Access of all systems. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02715",
+   "en": "To determine the data access available to you. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02716",
+   "en": "This system is ready to process queries. You may access me at any holographic interface within Peak 15.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02717",
+   "en": "Tell me what happened here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02718",
+   "en": "I need a status report. What systems are down?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02719",
+   "en": "What's this about loose contaminants?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02720",
+   "en": "You won't let us through decon?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02721",
+   "en": "How do I activate the failsafe system?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02722",
+   "en": "What are the landlines, and why are they disabled?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02723",
+   "en": "What would it take to get the decon failsafes operating again?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02724",
+   "en": "Unlock the decontamination chamber.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02725",
+   "en": "The creatures we've encountered here. Did they come from the labs?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02726",
+   "en": "How do I reconnect the landlines?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02727",
+   "en": "That's all I need right now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02728",
+   "en": "You're the virtual intelligence that runs this place?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02729",
+   "en": "Commander Shepard.  I work for the Citadel's Special Tactics and Reconnaissance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02730",
+   "en": "Why do you need to know?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02731",
+   "en": "Help would be great. Who are you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02732",
+   "en": "How do I shut this thing up?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02733",
+   "en": "Connections restored. Processing new data. User alert! Unable to connect to hot lab facilities.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02734",
+   "en": "User alert! The failsafe system is currently inoperable.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02735",
+   "en": "I'm sorry, but I need a more specific query.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02736",
+   "en": "I'm sorry, but I was offline at the time. Shutdown could occur if reactor breach seems likely, or in the case of catastrophic laboratory containment failure.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02737",
+   "en": "Emergency guidelines suggest the frigid environment will kill biological contagions. It may also damage mechanical ones.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02738",
+   "en": "In the event Peak 15 must be sterilized for security purposes, my program and data are purged.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02739",
+   "en": "My systems are permanently disabled. To be \"killed,\" I would need to be alive. I am merely a database program.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02740",
+   "en": "What's the status of Rift Station?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02741",
+   "en": "Tell me what occurred immediately before you shut down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02742",
+   "en": "Give me a status report on the hot labs.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02743",
+   "en": "Why were you taken offline?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02744",
+   "en": "They kill you if something goes wrong?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02745",
+   "en": "Rift Station has been locked down by the staff. There are presently no contaminants within the facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02746",
+   "en": "Yes, though the number of personnel is below the official staff count.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02747",
+   "en": "I am sorry. The network connections to the labs have been damaged. Data is limited.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02748",
+   "en": "I'm sorry, Commander. Inquiries related to our research require Privileged Access. Only executives of Binary Helix have that level of clearance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02749",
+   "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02750",
+   "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02751",
+   "en": "Turn off the heat, and hope the cold puts whatever you have unleashed to sleep.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02752",
+   "en": "Stage I alert issued at hot labs. Contaminants released from Laboratory Pod Gamma. Emergency protocols implemented.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02753",
+   "en": "Stage II alert issued at hot labs. Isolation Tube breached. Trams shut down. Landline to Hot Labs disconnected.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02754",
+   "en": "Stage III alert issued locally. Contaminants in tram tunnels. Station shutdown and evacuation initiated. Code Omega sent.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02755",
+   "en": "I'm sorry, Commander. Inquiries related to our research require Privileged Access. Only executives of Binary Helix have that clearance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02756",
+   "en": "The staff is alive, then?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02757",
+   "en": "What sort of \"contaminants\" escaped?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02758",
+   "en": "Online. Connected to subsidiary facilities. How may I assist you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02759",
+   "en": "Emergency procedures require each facility to isolate itself to prevent the spread of contagion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02760",
+   "en": "It would also appear that there are several employees quarantined for medical treatment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02761",
+   "en": "The passenger trams can bring you to the facility. Further access will be at the discretion of the security forces there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02762",
+   "en": "There is a hardware fault in the control system. This can be repaired on-site using a standard omni-tool.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02763",
+   "en": "User alert. Contaminants are present within the decontamination chambers. Passage is not recommended.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02764",
+   "en": "Very well, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02765",
+   "en": "Unfortunately, the failsafe system is disabled at this time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02766",
+   "en": "Why is Rift Station locked down?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02767",
+   "en": "If it's locked down, will I be able to enter?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02768",
+   "en": "Override. Open the doors now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02769",
+   "en": "How do I get rid of the contaminants?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02771",
+   "en": "I don't have time for this. Override and open the doors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02772",
+   "en": "I'm afraid not. My last log entry is shortly after the Stage II containment alert was sounded.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02773",
+   "en": "You have no idea what's going on inside?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02774",
+   "en": "The hot labs isolate dangerous biological or cybernetic contaminants during development.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02775",
+   "en": "The complex is built within a glacier. In the event of an accident, it can be irradiated and sunk into the ice.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02776",
+   "en": "Give me an overview of the facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02777",
+   "en": "Lady Benezia departed on the passenger tramway to the Rift Station subsidiary labs.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02778",
+   "en": "User alert! The tramway system is currently inoperable.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02779",
+   "en": "I need to find Matriarch Benezia.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02780",
+   "en": "Rift Station",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02781",
+   "en": "Hot Labs",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02782",
+   "en": "Facility overview",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02783",
+   "en": "Internal status",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02785",
+   "en": "How would I fix it?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02786",
+   "en": "Just open it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02787",
+   "en": "How do I fix them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02788",
+   "en": "Hostile creatures",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02789",
+   "en": "Other topics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02790",
+   "en": "Why can't I leave?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02791",
+   "en": "Log out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02792",
+   "en": "Do it anyway.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02793",
+   "en": "What do you recommend?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02794",
+   "en": "Can it be fixed?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02795",
+   "en": "Override.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02796",
+   "en": "Your shutdown",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02797",
+   "en": "Your final logs",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02798",
+   "en": "They kill you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02799",
+   "en": "Contaminants",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02800",
+   "en": "Loose contaminants?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02801",
+   "en": "What landlines?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02802",
+   "en": "You won't let us out?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02803",
+   "en": "How do I activate the purge?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02804",
+   "en": "You're the station VI?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02806",
+   "en": "Crap, a pop-up.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02807",
+   "en": "I'm Alliance Navy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02808",
+   "en": "For what purpose?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02809",
+   "en": "Staff",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02810",
+   "en": "Locked down",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02811",
+   "en": "Can I get in?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02812",
+   "en": "Basic Access is limited to non-secure queries. Secure Access allows most system functions. Privileged Access is available only to executives of Binary Helix.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02813",
+   "en": "I need instructions on how to repair the station.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02814",
+   "en": "Give me a damage report.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02815",
+   "en": "One moment, please. Diagnostics in progress.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02816",
+   "en": "What's the situation here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02817",
+   "en": "Releasing safeties. Proceed at your discretion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02818",
+   "en": "Can I get rid of them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02819",
+   "en": "What should I do?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02820",
+   "en": "Critical Failure: Main reactor shut down in accordance with emergency containment procedures. Manual restart required.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02821",
+   "en": "The landlines connect my mainframes here at Central Station to the various sub-facilities of Peak 15.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02822",
+   "en": "This allows the crew to remotely access my databases from the comfort and security of their labs.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02823",
+   "en": "Dangerous biological agents are present in the tramway decontamination chamber.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02824",
+   "en": "The tram station has been sealed in the interest of crew safety. Activation of the failsafe plasma jets is recommended prior to access.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02825",
+   "en": "Do you know why the reactor was shut down?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02826",
+   "en": "What do I need to do to get the power back on?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u02827",
+   "en": "The main reactor.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE50_06_DSG_LOC",
+    "BIOA_ICE50_08_DSG_LOC",
+    "BIOA_ICE50_10_DSG_LOC"
+   ]
+  }
+ ]
+}

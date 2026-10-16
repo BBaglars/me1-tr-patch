@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/005",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u19041",
+   "en": "Palaven",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19042",
+   "en": "Thessia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19043",
+   "en": "Caleston",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19044",
+   "en": "Sol",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19045",
+   "en": "Mercury",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19046",
+   "en": "Venus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19047",
+   "en": "Earth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19048",
+   "en": "Mars",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19049",
+   "en": "Jupiter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19050",
+   "en": "Saturn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19051",
+   "en": "Uranus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19052",
+   "en": "Neptune",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19053",
+   "en": "Pluto",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19054",
+   "en": "Add to Squad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19055",
+   "en": "Remove from Squad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19056",
+   "en": "Examine Squad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19057",
+   "en": "Accept Squad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19058",
+   "en": "Find the Beacon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19059",
+   "en": "You are in charge of the ground team dropped onto Eden Prime, an Alliance colony under attack. Your primary goal is to find and secure the Prothean beacon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19060",
+   "en": "Prologue: Find the Beacon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19061",
+   "en": "Make your way to the excavation site where the beacon was unearthed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19062",
+   "en": "Head to the Dig Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19063",
+   "en": "The beacon on Eden Prime was destroyed. Before it self-destructed, it burned horrific images of death and galactic destruction into your mind. Whether these are images of the past or warnings of the future, you can't really say.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19064",
+   "en": "Jenkins is dead, but you have to press on to the dig site.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19065",
+   "en": "Continue to Dig Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19066",
+   "en": "The beacon has been taken from the dig site. Maybe you can find clues by investigating the nearby research camp.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19067",
+   "en": "Investigate Research Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19068",
+   "en": "Dr. Warren informed you the beacon was taken to Eden Prime's spaceport. You need to get there before the geth claim it as their own.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19069",
+   "en": "Head to Spaceport",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19070",
+   "en": "A turian named Saren killed Nihlus. He may be working with the geth. Take the cargo train to the next platform and stop him before he gets the beacon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19071",
+   "en": "Take the Train",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19072",
+   "en": "Complete",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19073",
+   "en": "UNC: Lost Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19074",
+   "en": "The freighter's crew were killed by a powerful biotic, the girlfriend of the brain-dead man in the med bay. Unable to deal with his situation, she eliminated the entire crew in a misguided attempt to keep anyone from shutting off his life support. Now she's dead, too, and you've solved the mystery.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19075",
+   "en": "Geth Colossus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19076",
+   "en": "Citadel: Presidium Prophet",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19077",
+   "en": "UNC: Missing Survey Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19078",
+   "en": "Uncharted World: Geth Incursions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19079",
+   "en": "The geth have begun setting up a number of small outposts in the Armstrong Cluster of the Skyllian Verge. You must eliminate these outposts before the incursion becomes a full-scale invasion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19080",
+   "en": "UNC: Geth Incursions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19081",
+   "en": "Eliminate all four geth outposts identified in the Armstrong Cluster. The outposts are located in the Gagarin, Tereshkova, Hong and Vamshi systems.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19082",
+   "en": "Eliminate Geth Outposts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19083",
+   "en": "The Milky Way",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19084",
+   "en": "Land",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19085",
+   "en": "Travel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19086",
+   "en": "Citadel: Negotiator's Request",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19087",
+   "en": "You have received a generic distress call coming from a small research facility founded by ExoGeni in the Maroon Sea Cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19088",
+   "en": "UNC: ExoGeni Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19089",
+   "en": "Investigate the facilities on the planet Nodacrux in the Vostok System of the Maroon Sea cluster for clues.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19090",
+   "en": "Explore colony",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19091",
+   "en": "The colonists were killed by Thorian creepers, part of an experiment by an ExoGeni researcher. After destroying the creepers, you let the researchers go in exchange for a large payout.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19092",
+   "en": "The colonists were killed by Thorian creepers, part of an experiment by an ExoGeni researcher. After destroying the creepers, you made sure the ones responsible paid for their crimes.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19093",
+   "en": "Zoom Out",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19094",
+   "en": "Scan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19095",
+   "en": "Citadel: Signal Tracking",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19096",
+   "en": "Unknown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19097",
+   "en": "In Flanders Fields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19098",
+   "en": "Citadel: Our Own Worst Enemy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19099",
+   "en": "Citadel: Snap Inspection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19100",
+   "en": "Uncharted World: Derelict Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19101",
+   "en": "You've discovered the Cornucopia, a derelict freighter in the Maroon Sea Cluster. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19102",
+   "en": "UNC: Derelict Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19103",
+   "en": "Board the freighter located in the Caspian System of the Maroon Sea cluster and find the ship's log to learn what happened.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19104",
+   "en": "Investigate Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19105",
+   "en": "The Cornucopia was exploring a region of space bordering the Perseus Veil when the crew discovered a strange alien artifact somehow connected to the geth. They appear to have been brainwashed, then transformed into husks and sent back into human space, either as a trap or a grim warning.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19106",
+   "en": "Recover",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19107",
+   "en": "Survey",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19108",
+   "en": "Board",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19109",
+   "en": "Local Cluster",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19110",
+   "en": "Athena Nebula",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19111",
+   "en": "Thessia System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19112",
+   "en": "Citadel Cluster",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19113",
+   "en": "This idyllic agrarian world was one of the first human colonies established beyond the Charon mass relay. Eden Prime's biosphere is unusually well-suited for importation of Earth-native life. This fertility drew heavy immigration and development by the Systems Alliance and various corporations.\n\nToday Eden Prime is a model of sustainable, organized development. The population is housed space-efficient arcologies that tower over thousands of kilometers of green fields and orchards.\n\nColony Founded: 2152\nPopulation: 3.7 million\nCapital: Constant\n\nOrbital Period: 2.5 Earth Years\nRadius: 7026 km\nDay Length: 64.1 Earth Hours\nAtmospheric Pressure: 1.45 Earth Atmospheres\nSurface Temperature: 23 Celsius\nSurface Gravity: 1.04 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19114",
+   "en": "The ExoGeni Corporation has founded a pilot colony on Feros to explore the Prothean ruins that blanket two-thirds of the planet's land mass. The atmosphere is fouled with dust. Terrestrial travel is hampered by crumbled debris dozens of meters deep. There are indications that Feros was a much colder world in the past. Feros has two large moons, Orcan (the farther) and Vardet.\n\nColony Founded: 2178\nPopulation: 300\nCapital: ExoGeni Building\n\nOrbital Period: 3.2 Earth Years\nRadius: 8366 km\nDay Length: 30.3 Earth Hours\nAtmospheric Pressure: 5.44 Earth Atmospheres\nSurface Temperature: 10 Celsius\nSurface Gravity: 1.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19115",
+   "en": "In the golden age of the Protheans, Ilos was a verdant world, dotted with the spires and arches of magnificent cities. Even casual observation shows this is no longer the case. Ilos has been devastated by means unknown, its entire surface changed to the color of rust. The atmosphere shows heightened levels of oxygen. Wildfires, presumably ignited by lightning strikes, can be seen burning on the dark side. This indicates that most - if not all - respirating animal life forms have died off. Surface gravity is a comfortable 1.17 standard G's.\n\nOrbital Period: 261 Earth Days\nRadius: 8607 km\nDay Length: 54.5 Earth Hours\nAtmospheric Pressure: 11.26 Earth Atmospheres\nSurface Temperature: 38 Celsius",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19116",
+   "en": "Noveria is a small, frozen terrestrial world, barely habitable by conventional definitions. It is privately chartered by the Noveria Development Corporation, who lease out labs to perform research too dangerous or controversial to be performed elsewhere. Given Noveria's unique situation, it is the source of many wild conspiracy theories.\n\nColony Founded: 2163\nPopulation: 361,400\nCapital: Port Hanshan\n\nOrbital Distance: 0.9 AU\nOrbital Period: 0.9 Earth Years\nRadius: 5656 km\nDay Length: 52.0 Earth Hours\nAtmospheric Pressure: 0.87 Earth Atmospheres\nSurface Temperature: -1 Celsius\nSurface Gravity: 0.81",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19117",
+   "en": "Virmire is a lush frontier world, ideal for colonization by carbon-based species. Its vast seas and orbital position on the inner life zone have created a wide equatorial band of humid, tropical terrain. Unfortunately, the political instability of the nearby Terminus Systems has impeded colonization efforts - the high risk of raids by pirates and slavers makes it an unappealing homestead.\n\nOrbital Period: 9.2 Earth Years\nRadius: 6440 km\nDay Length: 22.3 Earth Days\nAtmospheric Pressure: 0.9 Earth Atmospheres\nSurface Temperature: 32 Celsius\nSurface Gravity: 0.86 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19118",
+   "en": "Geysers of molten suphur dot the rugged landscape of this volcanic moon, its atmosphere a toxic layer of sulphur dioxide. Eldfell-Ashland Energy established mining operations on Caleston to extract the scattered deposits of element zero leftover from an ancient meteor strike, making this moon the largest source of starship drive core material in the Attican Traverse.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19119",
+   "en": "Supposedly constructed by the long-extinct Protheans, this colossal deep-space station serves as the capital of the Citadel Council. Gravity is simulated through rotation, and is a comfortable 1.02 standard G's on the Wards and a light 0.3 standard G's on the Presidium Ring.\n\nTotal Length (Open): 44.7 km\nDiameter (Open): 12.8 km\nPopulation:  13.2 million (not including keepers)\nGross Weight: 7.11 billion metric tons",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19120",
+   "en": "A handful of solar power stations exist on \"peaks of eternal light\" at the north and south poles of Mercury. The difficulties imposed by the planet's proximity to the sun and high orbital velocity have limited development.\n\nPopulation: 340\n\nOrbital Distance: 0.39 AU\nOrbital Period: 88 Earth Days\nRadius: 2440 km\nDay Length: 58.7 Earth Days\nAtmospheric Pressure: Trace\nSurface Temperature: 430 Celsius\nSurface Gravity: 0.38 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19121",
+   "en": "With its molten temperatures, sulphuric acid clouds, and crushing carbon dioxide atmosphere, Venus has only a handful of aerostat research outposts.\n\nPopulation: 800\n\nOrbital Distance: 0.72 AU\nOrbital Period: 224.7 Earth Days\nRadius: 6052 km\nDay Length: 243 Earth Days\nAtmospheric Pressure: 90 Earth Atmospheres\nSurface Temperature: 465 Celsius\nSurface Gravity: 0.88 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19122",
+   "en": "For detailed information, please refer to the standard issue  Alliance Galactic Codex. Earth orbit is riddled with debris generated by \"bootstrap\" space development; use of kinetic barriers is recommended at altitudes over 85 km. \n\nPopulation (Surface): 11.4 billion\nPopulation (L4 and L5 stations): 250,000\n\nOrbital Distance: 1 AU\nOrbital Period: 1 Earth Years\nRadius: 6378 km\nDay Length: 23.9 Earth Hours\nAtmospheric Pressure: 1 Earth Atmospheres\nSurface Temperature: 23 Celsius ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19123",
+   "en": "Once considered a prospect for terraforming and colonization, the discovery of faster than light travel turned Mars into a quiet backwater. Its southern pole is a historical preserve centered on the Prothean ruins found there. Immigration and development are restricted as the search for Prothean artifacts continues.\n\nColony Founded: 2103\nPopulation: 3.4 million\nCapital: Lowell City\n\nOrbital Distance: 1.52 AU\nOrbital Period: 1.88 Earth Years\nRadius: 3402 km\nDay Length: 24.6 Earth Hours\nAtmospheric Pressure: 0.06 Earth Atmospheres\nSurface Temperature: -138 Celsius\nSurface Gravity: 0.38 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19124",
+   "en": "Jupiter's deep gravity well and lethal radiation have kept its moons from being significantly exploited. The largest outpost is Binary Helix Corporation's Nautilus facility, attached to the underside of Europa's ice sheet. \n\nPopulation (all moons): 9100\n\nOrbital Distance: 5.2 AU\nOrbital Period: 11.7 Earth Years\nRadius: 71,492 km\nDay Length: 9.93 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19125",
+   "en": "Saturn has been a major source of helium-3 fuel for fusion plants since the 2150s. The moon of Titan is mined for hydrocarbons, and used as a hostile environment training facility for Alliance Marines. \n\nPopulation (orbitals and Titan): 117,000\nCapital: Huygens Dome\n\nOrbital Distance: 9.5 AU\nOrbital Period: 29.5 Earth Years\nRadius: 60,268 km\nDay Length: 10.3 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19126",
+   "en": "After the development of mass effect FTL drive, distant Uranus was the target of a \"land rush\" to exploit its combination of plentiful helium-3 fuel and shallow (for a gas giant) gravity well. Today Uranus is the largest producer of He-3 in Alliance space.\n\nPopulation: 371,000\nCapital: Sakharov Station\n\nOrbital Distance: 19.2 AU\nOrbital Period: 121.1 Earth Years\nRadius: 25,559 km\nDay Length: 17.3 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19127",
+   "en": "Though Neptune, like Uranus, has plentiful helium, its remoteness made it an unpromising target for mining before development of mass effect drive. With Uranus cheaper to exploit, it has never seen extensive development. The only permanent human presence is a small research facility on Triton.\n\nPopulation (Triton): 70\n\nOrbital Distance: 29.1 AU\nOrbital Period: 164.8 Earth Years\nRadius: 24,764 km\nDay Length: 16.1 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19128",
+   "en": "Pluto is one of Sol's numerous \"ice dwarf\" worlds. It is mainly of note for being the gravitational \"anchor\" for the Prothean mass relay to Arcturus. Pluto and the Charon Relay (formerly encased in ice, and considered a moon) orbit each other. Pluto's orbit was circularized in 2157 as a side effect of the Charon Mass Relay recovery operations.\n\nPopulation (gateway stations): 9300\n\nOrbital Distance: 39.5 AU\nOrbital Period: 247.7 Earth Years\nRadius: 1151 km\nDay Length: 9.4 Earth Hours\nAtmospheric Pressure: Trace\nSurface Temperature: -229 Celsius\nSurface Gravity: 0.06 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19129",
+   "en": "Cold as a comet, massive icefields coat the rocky core of this remote planet.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19130",
+   "en": "Abrasive sandstorms ravage the ragged surface of this distant desert world.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19131",
+   "en": "A large gas giant. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19132",
+   "en": "Clouds of sulphur and ash spew from the volcanic surface of this inhospitable planet, obscuring the light of the nearby star.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19133",
+   "en": "The surface of this planet is coated with a toxic algae that thrives in the humid atmosphere.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19134",
+   "en": "A scant layer of stunted vegetation survives in the acrid atmosphere of this desolate planet.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19135",
+   "en": "Planet X",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19136",
+   "en": "Citadel: I Remember Me",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19137",
+   "en": "UNC: Missing Marines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19138",
+   "en": "You encountered a distress beacon when you entered the Sparta System. Someone there may need assistance.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19139",
+   "en": "Citadel: Old Friends",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19140",
+   "en": "UNC: Cerberus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19141",
+   "en": "You've found the dead bodies of men who served under Admiral Kahoku. Return to the Citadel Tower and inform the admiral of their fate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19142",
+   "en": "Speak to Kahoku",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19143",
+   "en": "Citadel: Family Matter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19144",
+   "en": "UNC: Colony of the Dead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19145",
+   "en": "v.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19146",
+   "en": "Major Kyle, an Alliance officer who served during the Siege of Torfan, has amassed a small but fanatical group of biotic followers. He has already killed two Alliance officials sent to investigate their compound in the Hawking Eta cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19147",
+   "en": "UNC: Major Kyle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19148",
+   "en": "Major Kyle and his followers are dead, a grim but not unexpected ending.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19149",
+   "en": "You managed to convince Major Kyle to surrender peacefully. He now faces a military tribunal, but you saved many lives--including his--through your actions.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19150",
+   "en": "Go to the Century System in the Hawking Eta cluster and investigate Major Kyle and his biotic followers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19151",
+   "en": "Investigate Major Kyle's Compound",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19152",
+   "en": "Battle your way through the compound to find Major Kyle.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19153",
+   "en": "Find the Major",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19154",
+   "en": "Make your way through the compound to find Major Kyle and see if he can be reasoned with.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19155",
+   "en": "Talk to the Major",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19156",
+   "en": "Omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19157",
+   "en": "Take All",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19158",
+   "en": "Buyback",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19159",
+   "en": "Premium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19160",
+   "en": "All",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19161",
+   "en": "BA/OT",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19162",
+   "en": "Weapons",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19163",
+   "en": "Grenades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19164",
+   "en": "Conrad Verner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19165",
+   "en": "Citadel: Old, Unhappy, Far-Off Things",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19166",
+   "en": "Major Kyle, your CO during the Siege of Torfan, has amassed a small but fanatical group of biotic followers. He has already killed two Alliance officials sent to investigate their compound in the Hawking Eta cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19167",
+   "en": "Citadel: Expose",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19168",
+   "en": "Reporter Request 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19169",
+   "en": "Major Kyle couldn't be reasoned with. The only thing left to do is return to the Normandy and file the report.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19170",
+   "en": "Return to the Normandy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19171",
+   "en": "Admiral Hackett needs to be informed so he can arrange for a team to arrest Major Kyle.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19172",
+   "en": "Uncharted World: Hostile Takeover",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19173",
+   "en": "You are Lieutenant Commander Shepard, Executive Officer on the SSV Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19174",
+   "en": "Prologue: On the Normandy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19175",
+   "en": "Go speak to Captain Anderson in the comm room.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19176",
+   "en": "Speak to the Captain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19177",
+   "en": "Emily Wong has approached you again and asked you to help with her next investigation by planting a bug at the Citadel Traffic Control Station.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19178",
+   "en": "Citadel: Planting a Bug",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19179",
+   "en": "Arcelia Silva Martinez",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19180",
+   "en": "David al Talaqani",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19181",
+   "en": "Calantha Blake",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19182",
+   "en": "Davin Reynolds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19183",
+   "en": "Fai Dan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19184",
+   "en": "Greta Reynolds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19185",
+   "en": "Hana Murakami",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19186",
+   "en": "Hollis Blake",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19187",
+   "en": "Ian Newstead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19188",
+   "en": "Ledra",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19189",
+   "en": "Macha Doyle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19190",
+   "en": "Asari Clone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

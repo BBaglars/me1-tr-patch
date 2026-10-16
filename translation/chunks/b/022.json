@@ -1,0 +1,1300 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/022",
+  "family": "JUG20"
+ },
+ "entries": [
+  {
+   "key": "u03887",
+   "en": "We've got a clean drop, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03888",
+   "en": "I know the drill. Meet you at the camp once those towers are off-line. Joker out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03889",
+   "en": "We need to shut down the alarms!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03890",
+   "en": "Looks like an alarm hub. Think we can get some heat off us with that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03891",
+   "en": "That an alarm hub? Might take the heat off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03892",
+   "en": "Looks like an alarm hub over there. Might take the heat off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03893",
+   "en": "Got an alarm hub or something over there, Commander. Might take the heat off.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03894",
+   "en": "Got an alarm hub, Commander. Think we can get some heat off us with that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03895",
+   "en": "Got an alarm hub over there. Could be handy if things go south.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03896",
+   "en": "There's an alarm hub over here. It may be useful if we're detected.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03897",
+   "en": "Got an alarm hub, Commander. Might come in handy if things go south on us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03898",
+   "en": "Alarm hub, Commander. Might come in handy if things go south.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03899",
+   "en": "There looks to be an alarm hub of sorts here. It could be useful if our situation gets messy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03900",
+   "en": "The guns. Over there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03901",
+   "en": "There's our target, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03902",
+   "en": "There's the artillery, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03903",
+   "en": "I believe that is our target.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03904",
+   "en": "There's the artillery that's keeping the Normandy at bay.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03905",
+   "en": "We must find a way to disable their artillery.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03906",
+   "en": "There must be a way to shut that gun down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03907",
+   "en": "That's a big gun. Hope we can find the off button.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03908",
+   "en": "There must be a way to disable that gun.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03909",
+   "en": "There's got to be a way to shut that thing down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03910",
+   "en": "I'm reading that the grid is down, Commander. On approach to the salarian base now. Out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03911",
+   "en": "Ready to move, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03912",
+   "en": "Ready to continue on your mark, Commander Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03913",
+   "en": "Ready to go, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03914",
+   "en": "Ready to move on your word, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03915",
+   "en": "Ready to move out, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03916",
+   "en": "That's the last one. We should be able to reach the salarian camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03917",
+   "en": "That did it. We shouldn't have any more trouble reaching the camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03918",
+   "en": "That was the final gate. Our path to the salarian camp should be clear from here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03919",
+   "en": "That's it. We should be free to make our way to the camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03920",
+   "en": "That's it. Nothing between us and the salarian camp now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03921",
+   "en": "Stay out of range and continue evasive maneuvers until I bring those AA towers down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03922",
+   "en": "Keep the Normandy safe.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03923",
+   "en": "Good job, Joker.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03924",
+   "en": "Don't get cocky!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03925",
+   "en": "Commander. Normandy's touched down at the base, but it looks like we're grounded.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03926",
+   "en": "The salarian captain can explain when you get here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03927",
+   "en": "There's the salarian camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03928",
+   "en": "There is the salarian camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03929",
+   "en": "There's the camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03930",
+   "en": "There go the salarians.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03931",
+   "en": "That must be the salarian camp.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_01_DSG_LOC",
+    "BIOA_JUG20_06_DSG_LOC",
+    "BIOA_JUG20_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03932",
+   "en": "Stupid krogan. No wonder his kind ran themselves into the ground.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03933",
+   "en": "You can't reason with krogan. We've known that for a thousand years.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03934",
+   "en": "This mission is too important to get bogged down by one krogan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03935",
+   "en": "I thought we were almost done with krogan. What's it take to get rid of them?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03936",
+   "en": "I'm surprised that krogan yielded to your argument.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03937",
+   "en": "Watch that krogan of yours. Who knows what he'll do once you're in the breeding chambers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03938",
+   "en": "I've been on this mission far too long. My brood won't even recognize me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03939",
+   "en": "The captain knows we will follow him anywhere. To the very end.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03940",
+   "en": "We're not known for direct combat, but that may work in our favor. The geth won't know our tactics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03941",
+   "en": "I don't even want to imagine what will happen if we don't destroy this facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03942",
+   "en": "I really hope the Council pays attention to what's happening here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03943",
+   "en": "The captain has never let us down, and never will.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03944",
+   "en": "The geth will not know how to address our assault. This is a unique action for our team.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03945",
+   "en": "Destroying this facility is all that matters. We are all expendable in pursuit of that goal.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03946",
+   "en": "The krogan certainly are persistent. Not in a good way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03947",
+   "en": "Sometimes I wonder if the krogan are trying to get themselves killed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03948",
+   "en": "We can't let the krogan cancer spread again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03949",
+   "en": "This mess will only get bigger. Unless we stop it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03950",
+   "en": "You talked sense to a krogan. I didn't think that was possible.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03951",
+   "en": "I don't mind a krogan at our side. It's behind and in front that concerns me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03952",
+   "en": "It won't be an easy fight, but we're ready when you are.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03953",
+   "en": "I hope these salarians can fight.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03954",
+   "en": "Just say the word. I'm ready to go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03955",
+   "en": "I'd rather have Wrex on our side, but he chose his path.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03956",
+   "en": "I don't like the looks Wrex keeps throwing at you. Watch yourself.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03957",
+   "en": "This is what we trained for. Saren won't know what hit him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03958",
+   "en": "Nice job with Wrex. He's totally changed his attitude.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03959",
+   "en": "I'm ready when you are, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03960",
+   "en": "If you need my help dealing with Wrex, just let me know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03961",
+   "en": "With any luck, we'll catch Saren with his guard down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03962",
+   "en": "Normally, I wouldn't think much of salarians in a fire fight, but these soldiers seem well-trained.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03963",
+   "en": "You did the right thing with Wrex. He could've jeopardized the whole mission.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03964",
+   "en": "I'm concerned about Wrex. Can we still trust him?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03965",
+   "en": "Looks like the Council screwed up yet again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03966",
+   "en": "With all these defenses, Saren must be hiding something big.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03967",
+   "en": "I can't believe you were able to calm Wrex down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03968",
+   "en": "I'm ready when you are, Commander. Just say the word.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03969",
+   "en": "The last thing we need is an angry krogan on our team.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03970",
+   "en": "I can't believe we've found Saren's base of operations, and the Council doesn't even know about it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03971",
+   "en": "I guess we're stuck here for now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03972",
+   "en": "These salarians seem pretty tough. I just hope they hold up under pressure.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03973",
+   "en": "We're close, Commander. Saren can't hide forever.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03974",
+   "en": "Nice work with Wrex. I didn't think anything would calm him down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03975",
+   "en": "I'm ready to go when you are, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03976",
+   "en": "I don't like the way Wrex is behaving. He's really on edge.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03977",
+   "en": "Whatever you need, Commander. I'll be right behind you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03978",
+   "en": "Whatever you need, Commander. I'm right behind you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03979",
+   "en": "It's really too bad Wrex couldn't be reasoned with.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03980",
+   "en": "Be careful with Wrex. He's not himself.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03981",
+   "en": "This won't be easy, but it's what we train for.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03982",
+   "en": "This facility is well protected. It must be very important to Saren.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03983",
+   "en": "These salarians are some of the best-trained anywhere. We will need their help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03984",
+   "en": "Your ability to calm the krogan is impressive.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03985",
+   "en": "Wrex's fate was regrettable, but inevitable, given the circumstances.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03986",
+   "en": "I am worried that Wrex's allegiance to you may be waning.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03987",
+   "en": "I can only imagine what we will find in Saren's facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03988",
+   "en": "Taking the facility will not be easy, but I am sure we will succeed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03989",
+   "en": "We will be a better team without Wrex. His loyalties could not be trusted.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03990",
+   "en": "The krogan's demeanor is worrying.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03991",
+   "en": "Saren may be mad, but he is not stupid. We will not get to him without a fight.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03992",
+   "en": "If we fail, no one will hear of this. If we succeed, same result.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03993",
+   "en": "The captain has our complete support. He will see us through.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03994",
+   "en": "We will surprise everyone. Infiltration is not our only skill.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03995",
+   "en": "This facility must be destroyed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03996",
+   "en": "The krogan never change, never adapt. No wonder they've stagnated.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03997",
+   "en": "This mission takes precedence over the fate of individuals.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03998",
+   "en": "A krogan that responds to reason? How strange.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u03999",
+   "en": "Only a fool accepts the word of a krogan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04000",
+   "en": "The mission will succeed. The captain will not have it any other way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04001",
+   "en": "We have been in difficult situations before.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04002",
+   "en": "The mission will succeed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04003",
+   "en": "We can't let this facility continue. Our lineage still bears the scars of the last rebellion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04004",
+   "en": "The krogan can't see reason.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04005",
+   "en": "Your actions were regrettable, but necessary.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04006",
+   "en": "We are all expendable for the sake of the mission.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04007",
+   "en": "Krogan are truly a stubborn breed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04008",
+   "en": "It's rare to see a krogan accept reason. You command exceptional loyalty.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04009",
+   "en": "Your krogan may change his mind when he sees the extent of the facility.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04010",
+   "en": "We better succeed, human. We still feel the toll of the Krogan Rebellion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04011",
+   "en": "The captain has never let us down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04012",
+   "en": "I look forward to seeing what you humans are capable of.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04013",
+   "en": "This facility will be destroyed. That is our only concern.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04014",
+   "en": "The krogan doom themselves with their obstinance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04015",
+   "en": "I've never seen a krogan negotiation end any better.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04016",
+   "en": "The stakes here are greater than any one individual.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04017",
+   "en": "Krogan persistence is remarkable. I almost admire them for it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04018",
+   "en": "I'm surprised you were able to reason with a krogan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04019",
+   "en": "You must be very persuasive to change the krogan's mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04020",
+   "en": "The upcoming battle frightens me, but I know Saren must be stopped.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04021",
+   "en": "These salarians are willing to die to stop Saren... and so am I.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04022",
+   "en": "I will fight with fire for you, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04023",
+   "en": "I am ready at your word, Commander Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04024",
+   "en": "The krogan seems very upset.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04025",
+   "en": "No matter the cost, I will not fail you, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04026",
+   "en": "Wrex's mood has changed since you spoke with him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04027",
+   "en": "We will miss the krogan's strength. But I sense the team is better off now that he is gone.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04028",
+   "en": "I am sensing that Wrex no longer trusts us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04029",
+   "en": "Saren will be well protected. I hope we can find a way past his defenses.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04030",
+   "en": "We are not a mistake!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04031",
+   "en": "Shall I arrange for a Council-sponsored service? Or should we dump his body in the swamps?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04032",
+   "en": "You have a strange code of honor, Commander Shepard. But I will see the arrangements are made, assuming we survive the assault on Saren's base.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04033",
+   "en": "I'll have my men drag his corpse to the swamps later, assuming we survive the assault on Saren's base.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04034",
+   "en": "Of sorts. We can convert our ship's drive system into a twenty-kiloton ordnance. Crude, but effective.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04035",
+   "en": "Are you ready, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04036",
+   "en": "We couldn't understand your transmission. They sent me to investigate.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC"
+   ]
+  }
+ ]
+}

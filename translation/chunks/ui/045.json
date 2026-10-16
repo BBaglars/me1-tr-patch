@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/045",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u24445",
+   "en": "You've cleared the facility. Civilian losses were... tolerable.\n\n\"Evolution of humanity,\" huh? Those biotics didn't seem that different from the other scum you deal with...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24446",
+   "en": "You've cleared the facility. All of the civilians are safe - though still chattering to themselves and screaming at the garbage cans.\n\n\"Evolution of humanity,\" huh? Those biotics didn't seem that different from the other scum you deal with...",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24447",
+   "en": "Recording",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24448",
+   "en": "You've defeated the Matriarch and eliminated the rachni in the hot labs. Depart Rift Station via the passenger tram that you arrived in.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24449",
+   "en": "Mission Complete",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24450",
+   "en": "You've dealt with the Matriarch, but there's still the issue of the rachni down in the hot labs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24451",
+   "en": "Deal With Hot Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24452",
+   "en": "ALERT: Toxic gas is being vented into the bunkers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24453",
+   "en": "+2.3 Health Regeneration/sec\n+30% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24454",
+   "en": "+2.7 Health Regeneration/sec\n+40% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24455",
+   "en": "+3.0 Health Regeneration/sec\n+50% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24456",
+   "en": "+3.3 Health Regeneration/sec\n+60% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24457",
+   "en": "ALERT: Kinetic barrier fields powering up throughout the bunker complex.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24458",
+   "en": "ALERT: Additional security drones powering up.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24459",
+   "en": "Director, Animation and Cinematics Department (BioWare)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24460",
+   "en": "Director, Art Department (BioWare)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24461",
+   "en": "Director, Design Department (BioWare)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24462",
+   "en": "Director, Production Department (BioWare)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24463",
+   "en": "Assistant Director, Programming Department (BioWare)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24464",
+   "en": "Director, Quality Assurance Department (BioWare)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24465",
+   "en": "Steve Gilmour",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24466",
+   "en": "Dave Hibbeln",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24467",
+   "en": "Kevin Barrett",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24468",
+   "en": "Duane Webb",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24469",
+   "en": "Aaron Flynn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24470",
+   "en": "Phillip DeRosa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24471",
+   "en": "Normandy VI",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24472",
+   "en": "Quality Assurance Technical Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24473",
+   "en": "Kim Hansen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24474",
+   "en": "Quality Assurance Programmers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24475",
+   "en": "Alex Lucas\nJonathan Newton\nJay Zhou",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24476",
+   "en": "Aaryn Flynn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24477",
+   "en": "Steven Deleeuw\nNathan Frederick\nCurtis Knecht\nDenny Letourneau\nVanessa Prinsen\nHoman Sanaie",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24478",
+   "en": "Voice Over Direction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24479",
+   "en": "Casting Services",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24480",
+   "en": "Voice Over Recorded at",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24481",
+   "en": "Ginny McSwain\nCaroline Livingstone\nChris Borders",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24482",
+   "en": "Tikiman Productions, Inc.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24483",
+   "en": "Technicolor Interactive Services (Burbank)\nBlackman Productions (Edmonton)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24484",
+   "en": "Steve Barr",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24485",
+   "en": "Kimberly Brooks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24486",
+   "en": "Keith David",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24487",
+   "en": "Seth Green",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24488",
+   "en": "Jennifer Hale",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24489",
+   "en": "Lance Henriksen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24490",
+   "en": "Ali Hillis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24491",
+   "en": "Brandon Keener",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24492",
+   "en": "Mark Meer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24493",
+   "en": "Marina Sirtis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24494",
+   "en": "Liz Sroka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24495",
+   "en": "Raphael Sbarge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24496",
+   "en": "Fred Tatasciore",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24497",
+   "en": "Additional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24498",
+   "en": "Motion Capture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24499",
+   "en": "3D Scans",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24500",
+   "en": "Mass Effect Cast",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24501",
+   "en": "Urdnot Wrex\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24502",
+   "en": "Captain David Anderson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24503",
+   "en": "Jeff \"Joker\" Moreau",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24504",
+   "en": "Commander Shepard (Female)\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24505",
+   "en": "Admiral Steven Hackett",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24506",
+   "en": "Liara T'soni",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24507",
+   "en": "Commander Shepard (Male)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24508",
+   "en": "Tali'Zorah nar Rayya\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24509",
+   "en": "Saren\nAdditional Voices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24510",
+   "en": "Leigh Allyn Baker\nApril Banigan\nWendy Braun\nScott Bullock\nAndy Chanley\nCam Clarke\nTownsend Coleman\nTim Conlon\nMarianne Copithorne\nBelinda Cornish\nJosh Dean\nGrey Delisle\nCharles Dennis\nRobin Atkin Downes\nAlastair Duncan\nChris Edgerly\nJeannie Elias\nGideon Emery\nDannah Feinglass\nBrian George\nKim Mai Guest\nJeff Haslam\nRoger L. Jackson\nPeter Jessop\nJohn Kirkpatrick\nLex Lang\nMatthew Levin\nDavid Ley\nAnndi McAfee\nKim McCaw\nGord Marriott\nErin Matthews\nDiane Michelle\nJeff Page\nChris Postle\nBill Ratner\nNeil Ross\nDwight Schultz\nCarolyn Seymour\nDavid Shaughnessy\nArmin Shimerman\nJane Singer\nJan Alexandra Smith\nKath Soucie\nSteve Staley\nStephen Stanton\nApril Stewart\nCree Summer\nKeith Szarabajka\nGeorge Szilagyi\nMari Weiss\nGary Anthony Williams\nDavid Wittenberg\nShanelle Workman\nJohn Wright\nGwendoline Yeo\nRick Zieff",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24511",
+   "en": "Giant Studios",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24512",
+   "en": "3D Eyetronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24513",
+   "en": "Liquid Development, LLC",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24514",
+   "en": "Director of Development Operations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24515",
+   "en": "Darryl Horne",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24516",
+   "en": "VP of Technology and Production Advisor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24517",
+   "en": "David O'Connor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24518",
+   "en": "Executive Producer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24519",
+   "en": "Dev Leads",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24520",
+   "en": "Design Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24521",
+   "en": "Art Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24522",
+   "en": "Design Lead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24523",
+   "en": "UX and Print",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24524",
+   "en": "Development",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24525",
+   "en": "Audio",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24526",
+   "en": "User Research",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24527",
+   "en": "Director of Production",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24528",
+   "en": "Development Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24529",
+   "en": "Business Administrator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24530",
+   "en": "Senior Design Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24531",
+   "en": "Senior Art Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24532",
+   "en": "Group Product manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24533",
+   "en": "General Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24534",
+   "en": "Group test Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24535",
+   "en": "Mass Effect Infantry testing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24536",
+   "en": "Jorg Neumann",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24537",
+   "en": "Russ Almond\nRelja Markovic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24538",
+   "en": "Eric Simonich",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24539",
+   "en": "Daland Davis\nChris Liu\nShane White",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24540",
+   "en": "Tim Dean\nJonas Norberg",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24541",
+   "en": "Chris Esaki\nEric Simonich\nWilliam Hodge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24542",
+   "en": "Chris Lassen\nJohn Sutherland\nDana Fos\nHeidi Wartelle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24543",
+   "en": "Bill Wagner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24544",
+   "en": "Russ Almond\nRelia Markovic \nBrian Stone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24545",
+   "en": "Caesar Filori",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24546",
+   "en": "Adam Kovach",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24547",
+   "en": "Tim Nichols",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24548",
+   "en": "Bonnie Ross Ziegler",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24549",
+   "en": "Tony Cox",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24550",
+   "en": "Muffy Brian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24551",
+   "en": "Josh Atkins",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24552",
+   "en": "Kiki Wolfkill",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24553",
+   "en": "Raja Subramoni",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24554",
+   "en": "Phil Spencer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24555",
+   "en": "Greg B. Jones",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24556",
+   "en": "Sam Charchin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24557",
+   "en": "Amanda Robinson (Volt)\nBrandon McCurry (Volt)\nBrandt Massman (Volt)\nBrian Noonan (Excell Data Corporation)\nBryce Pinkston (Volt)\nCahlen Lee (Volt)\nChad Hale (Volt)\nChris Burke (Excell Data Corporation)\nDavid Hoar (Excell Data Corporation)\nDevon Carver (Excell Data Corporation)\nEric Brown (Excell Data Corporation)\nJakob Pederson (Volt)\nJeffrey Carmon (Excell Data Corporation)\nJonathan Green (Excell Data Corporation)\nJoshua Hansen (Volt)\nJosiah Colborn (Volt)\nKevin Sherard (Volt)\nKyle Jacobsen (Volt)\nLucas Myers (Volt)\nMichael Durkin (Volt)\nPaul Orsborn (Excell Data Corporation)\nRobert Maddux (Excell Data Corporation)\nRobert Shearon (Excell Data Corporation)\nScott Lindberg (Volt)\nScott Shields (Volt)\nStephen Bonikowsky (Excell Data Corporation)\nTed Lockwood (Excell Data Corporation)\nTyler Cooper (Excell Data Corporation)\nWade Davis (Volt)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24558",
+   "en": "Microsoft Games Studios Core Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24559",
+   "en": "A burst of white noise over all frequencies nearly deafens you. Your hardsuit's heads-up display interprets it into a series of 0s and 1s:\n\n01001000\n01000101\n01001100\n01010000 \n\nThey repeat again and again, blanketing all frequencies, until the lights on the final VI cluster flicker and die.\n\n==SPECIALIZATION CLASS ACHIEVED==",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24560",
+   "en": "The second of the three computing clusters containing the VI is offline.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24561",
+   "en": "A save device was not specified.  Game session data will not be saved.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24562",
+   "en": "Inconspicuous Location",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24563",
+   "en": "Tracking Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24564",
+   "en": "Good Location for Bug",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24565",
+   "en": "Traffic Control",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24566",
+   "en": "Silverback",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24567",
+   "en": "Manually Disable Hardpoint",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24568",
+   "en": "Override Hardpoint Using 100 Omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24569",
+   "en": "Hardpoint Disabled",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24570",
+   "en": "Override Failure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24571",
+   "en": "Disabling Hardpoint",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24572",
+   "en": "You've disabled the bomb.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24573",
+   "en": "There's no time to get out. You have to disable the bomb before it goes off.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24574",
+   "en": "Equip your grenades with the Anti-Thorian Gas upgrade. This will disable infected colonists without killing them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24575",
+   "en": "Turian Merchant",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24576",
+   "en": "Human Customer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24577",
+   "en": "The door has been successfully hacked.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24578",
+   "en": "Hacking failed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24579",
+   "en": "Hacking Door Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24580",
+   "en": "Manual Override",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24581",
+   "en": "Override for 100 Omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24582",
+   "en": "To Detainment Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24583",
+   "en": "To Communications Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24584",
+   "en": "You should return to the Normandy and notify the Alliance of Kyle's surrender. They'll want to dispatch a ship to take him into custody.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24585",
+   "en": "Despite Kyle's desire to protect these people, his decision to isolate them on Presrop only made them more paranoid and violent toward the outside world. Their hostility left you no options.\n\nAdmiral Hackett will be expecting a report as soon as you return to the Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24586",
+   "en": "Switching",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24587",
+   "en": "Blocked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24588",
+   "en": "Defensive Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24589",
+   "en": "Paragon Healing Bonus\n\nReduces the cooldown time on Squad healing by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24590",
+   "en": "Paragon Healing Bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24591",
+   "en": "Paragon Health Bonus\n\nIncreases maximum health by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24592",
+   "en": "Paragon Health Bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24593",
+   "en": "Paragon Power Bonus\n\nReduces the cooldown on all powers by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u24594",
+   "en": "Paragon Power Bonus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

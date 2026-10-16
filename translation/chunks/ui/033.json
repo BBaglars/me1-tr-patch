@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/033",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u22645",
+   "en": "Alarm Disabled",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22646",
+   "en": "Geth Ghost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22647",
+   "en": "Unlocked Talent:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22648",
+   "en": "Ability Received:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22649",
+   "en": "Tungel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22650",
+   "en": "Tungel is a massive terrestrial world, nearly twice the size of Earth, with a dense atmosphere of nitrogen and ethane. Its scorching hot surface is mainly composed of iron, with extensive deposits of heavy metals and radioactives. It is a mineralogical treasure trove, and many corporations are lobbying for mining rights.\n\nOrbital Period: 85.8 Earth Years\nRadius: 11,539 km\nDay Length: 42.4 Earth Hours\nAtmospheric Pressure: 2.0 Earth Atmospheres\nSurface Temperature: 242 Celsius\nSurface Gravity: 1.9 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22651",
+   "en": "Matol",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22652",
+   "en": "Several attempts to chart Matol have been made, but none have been successful. By normal standards a small rock planet, Matol has a dense atmosphere composed of carbon dioxide and argon, with a surprising amount of water vapor. Fogs and rain are common on the barren, lifeless surface.\n\nMatol is pleasant enough to be considered a terraforming prospect, though its low mass and the high radiation of the energetic blue star Herschel place it fairly far down on the list.   \nOrbital Period: 207.3 Earth Years\nRadius: 4077 km\nDay Length: 34.6 Earth Hours\nAtmospheric Pressure: 0.49 Earth Atmospheres\nSurface Temperature: 33 Celsius\nSurface Gravity: 0.5 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22653",
+   "en": "Clugon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22654",
+   "en": "Clugon's hydrogen-helium atmosphere is given a fairly dramatic emerald tint by chlorine and ionized gases. It has nearly 100 moons.\n \nOrbital Period: 1013.7.1 Earth Years\nRadius: 17,988 km\nDay Length: 19.2 Earth Hour",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22655",
+   "en": "Clobaka",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22656",
+   "en": "Clobaka is a moderately sized terrestrial world with a hazy hydrocarbon atmosphere. Its surface is mainly composed of chlorides with deposits of solid and liquid-form hydrocarbons.\n \nOrbital Period: 2052.3 Earth Years\nRadius: 8198 km\nDay Length: 59.7 Earth Hours\nAtmospheric Pressure: 0.81 Earth Atmospheres\nSurface Temperature: 7 Celsius\nSurface Gravity: 0.88 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22657",
+   "en": "Wuo",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22658",
+   "en": "Normandy: Command Deck",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22659",
+   "en": "Normandy: Quarters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22660",
+   "en": "Normandy: Engineering",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22661",
+   "en": "Citadel: Presidium",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22662",
+   "en": "Citadel: Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22663",
+   "en": "Citadel Tower: Maintenance Shaft",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22664",
+   "en": "Citadel Tower: Exhaust Plain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22665",
+   "en": "Citadel Tower: Exterior Defense Grid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22666",
+   "en": "Freighter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22667",
+   "en": "Noveria: Port Hanshan Mezzanine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22668",
+   "en": "Noveria: Synthetic Insights Offices",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22669",
+   "en": "Noveria: Port Hanshan Plaza",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22670",
+   "en": "Noveria: Port Hanshan Docking Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22671",
+   "en": "Noveria: Aleutsk Valley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22672",
+   "en": "Noveria: Peak 15 Roof",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22673",
+   "en": "Noveria: Peak 15 Mira Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22674",
+   "en": "Noveria: Peak 15 Reactor Observation Deck",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22675",
+   "en": "Noveria: Peak 15 Garage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22676",
+   "en": "Noveria: Rift Station Main Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22677",
+   "en": "Noveria: Rift Station Lower Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22678",
+   "en": "Noveria: Rift Station Hot Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22679",
+   "en": "Virmire: Landing Zone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22680",
+   "en": "Virmire: Base Approach",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22681",
+   "en": "Virmire: Communication Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22682",
+   "en": "Virmire: Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22683",
+   "en": "Virmire: Base Entry",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22684",
+   "en": "Virmire: Detainment Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22685",
+   "en": "Virmire: Base Main Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22686",
+   "en": "Virmire: Krogan Breeding Grounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22687",
+   "en": "Therum: Ruins",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22688",
+   "en": "Ilos: Upper Ruins",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22689",
+   "en": "Ilos: Lower Ruins",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22690",
+   "en": "Ilos: Security Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22691",
+   "en": "Ilos: Archives",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22692",
+   "en": "Ilos: The Watcher's Chamber",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22693",
+   "en": "Ilos: Trench Run",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22694",
+   "en": "Ilos: The Conduit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22695",
+   "en": "Mining Tunnels",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22696",
+   "en": "Eden Prime: Spaceport",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22697",
+   "en": "Science Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22698",
+   "en": "Citadel: Security",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22699",
+   "en": "Citadel: Docking Bays",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22700",
+   "en": "Citadel: Flux and Wards Access",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22701",
+   "en": "Citadel: Upper Wards",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22702",
+   "en": "Citadel: Lower Wards",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22703",
+   "en": "Mercenary Base",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22704",
+   "en": "Feros: Zhu's Hope",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22705",
+   "en": "Feros: Tunnels",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22706",
+   "en": "Feros: Collapsed Bridge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22707",
+   "en": "Feros: Thorian Lair Level 5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22708",
+   "en": "Feros: Thorian Lair Level 4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22709",
+   "en": "Feros: Thorian Lair Level 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22710",
+   "en": "Feros: Thorian Lair Level 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22711",
+   "en": "Feros: Thorian Lair Level 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22712",
+   "en": "Feros: Prothean Skyway",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22713",
+   "en": "Feros: Skyway Weigh Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22714",
+   "en": "Feros: Upper Weigh Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22715",
+   "en": "Feros: ExoGeni Approach",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22716",
+   "en": "Feros: ExoGeni Upper Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22717",
+   "en": "Feros: ExoGeni Main Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22718",
+   "en": "Feros: ExoGeni Midden",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22719",
+   "en": "Hasebe Asteroid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22720",
+   "en": "You've discovered the body of a man named Willem, who was evidently killed by privateers. His datalogs mention a brother named Garoth back on the Citadel. Unfortunately, since you have fled the Citadel to get to Ilos, you cannot inform Garoth of his brother's fate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22721",
+   "en": "You found the body of Garoth's brother Willem, but since you cannot get back to the Citadel, you won't be able to inform Garoth of his brother's fate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22722",
+   "en": "Jenna will not talk to you. Head back to Flux in the Upper Wards and tell Rita.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22723",
+   "en": "Return to Rita",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22724",
+   "en": "Override Succeeded",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22725",
+   "en": "Override Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22726",
+   "en": "Overriding",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22727",
+   "en": "Begin manual override",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22728",
+   "en": "Override using %d omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22729",
+   "en": "Bypass Succeeded",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22730",
+   "en": "Bypass Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22731",
+   "en": "Bypassing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22732",
+   "en": "Begin manual bypass",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22733",
+   "en": "Bypass using %d omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22734",
+   "en": "Hacked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22735",
+   "en": "In Stasis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22736",
+   "en": "Because you cannot return to the Citadel, you won't be able to resolve the matter of Nassana Dantius and her missing sister Dahlia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22737",
+   "en": "SCRAM Rocket",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22738",
+   "en": "Repair Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22739",
+   "en": "Target Beam",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22740",
+   "en": "LIGHT METAL SURVEYED\nYou have successfully surveyed a large deposit of beryllium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22741",
+   "en": "LIGHT METAL SURVEYED\nScans from orbit have detected a large deposit of beryllium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22742",
+   "en": "LIGHT METAL SURVEYED\nYou have successfully surveyed a large deposit of magnesium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22743",
+   "en": "LIGHT METAL SURVEYED\nScans from orbit have detected a large deposit of magnesium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22744",
+   "en": "LIGHT METAL SURVEYED\nScans from orbit have detected a large deposit of titanium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22745",
+   "en": "LIGHT METAL SURVEYED\nScans from orbit have detected a deposit of cobalt.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22746",
+   "en": "LIGHT METAL SURVEYED\nScans from orbit have detected a deposit of lithium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22747",
+   "en": "LIGHT METAL SURVEYED\nYou have successfully surveyed a deposit of lithium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22748",
+   "en": "HEAVY METAL SURVEYED\nScans from orbit have detected a large deposit of palladium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22749",
+   "en": "HEAVY METAL SURVEYED\nYou have successfully surveyed a large deposit of gold.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22750",
+   "en": "HEAVY METAL SURVEYED\nScans from orbit have detected a large deposit of gold.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22751",
+   "en": "HEAVY METAL SURVEYED\nYou have successfully surveyed a large deposit of mercury.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22752",
+   "en": "HEAVY METAL SURVEYED\nScans of this planet have revealed a large deposit of mercury.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22753",
+   "en": "HEAVY METAL SURVEYED\nScans of this large asteroid field have revealed several deposits of platinum.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22754",
+   "en": "HEAVY METAL SURVEYED\nScans from orbit have detected a small deposit of iridium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22755",
+   "en": "RARE ELEMENT SURVEYED\nScans from orbit have detected a large deposit of uranium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22756",
+   "en": "RARE ELEMENT SURVEYED\nYou have successfully surveyed a large deposit of uranium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22757",
+   "en": "RARE ELEMENT SURVEYED\nScans from orbit have detected a large deposit of thorium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22758",
+   "en": "RARE ELEMENT SURVEYED\nWhile scanning this planet you detected a deposit of samarium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22759",
+   "en": "RARE ELEMENT SURVEYED\nScans from orbit have detected a small deposit of plutonium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22760",
+   "en": "RARE ELEMENT SURVEYED\nWhile scanning this planet you detected a small deposit of polonium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22761",
+   "en": "RARE ELEMENT SURVEYED\nYou have successfully surveyed a small deposit of polonium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22762",
+   "en": "RARE ELEMENT SURVEYED\nYou have successfully surveyed a small deposit of plutonium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22763",
+   "en": "RARE ELEMENT SURVEYED\nYou have successfully surveyed a deposit of samarium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22764",
+   "en": "RARE ELEMENT SURVEYED\nYou have successfully surveyed a large deposit of thorium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22765",
+   "en": "GAS DEPOSIT SURVEYED\nScans from orbit have detected a large concentration of hydrogen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22766",
+   "en": "GAS DEPOSIT SURVEYED\nScans from orbit have detected a large concentration of nitrogen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22767",
+   "en": "GAS DEPOSIT SURVEYED\nProteus has a large amount of free oxygen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22768",
+   "en": "GAS DEPOSIT SURVEYED\nScans from orbit have detected a large concentration of xenon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22769",
+   "en": "Artifacts Plots Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22770",
+   "en": "All Codex Entries Found",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22771",
+   "en": "Eden Prime Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22772",
+   "en": "Feros Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22773",
+   "en": "Ilos Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22774",
+   "en": "Liara World Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22775",
+   "en": "Noveria Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22776",
+   "en": "Player Is Spectre",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22777",
+   "en": "Romance Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22778",
+   "en": "Virmire Completed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22779",
+   "en": "Wuo is a terrestrial planet only known from scan data picked up by unmanned probes. Though over 76 AU from the blue giant Gorgon, temperatures in Wuo's orbit are still dangerously high. Only ships with very powerful heat radiating systems can venture that deep into the system.\n\nFortunately, Wuo is not a terribly interesting world. It has a thin atmosphere of nitrogen and methane, and the scorching surface is mainly composed of alumina with deposits of platinum. The world is tidally locked to Wuo, leaving the sunward side scorched and irradiated wasteland, and the dark side a frigid and ice-crusted. \n \nOrbital Period: 158.0 Earth Years\nRadius: 6959 km\nDay Length: 158.0 Earth Years\nAtmospheric Pressure: 0.44 Earth Atmospheres\nSurface Temperature: 1157 Celsius\nSurface Gravity: 0.66 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22780",
+   "en": "Vectra",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22781",
+   "en": "Vectra is a typical hydrogen-helium gas giant with traces of methane and sodium in its atmosphere. The heat of the star Gorgon is slowly blasting away the gas giant's massive atmosphere, which is visible as a long, dim tail that trails behind the planet.\n \nOrbital Period: 234.7 Earth Years\nRadius: 69,833 km\nDay Length: 234.7 Earth Years",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22782",
+   "en": "Camaron",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22783",
+   "en": "Camaron is a terrestrial world with a thin atmosphere of carbon dioxide and argon. The surface is scorching hot, and mainly composed of iron with deposits of nickel. Like Wuo, Camaron is tide-locked to the blue giant, forever \"looking into the face of the Gorgon.\"\n \nOrbital Period: 664.8 Earth Years\nRadius: 5198 km\nDay Length: 664.8 Earth Years\nAtmospheric Pressure: 0.23 Earth Atmospheres\nSurface Temperature: 747 Celsius\nSurface Gravity: 0.55 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22784",
+   "en": "Sharblu",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22785",
+   "en": "A standard hydrogen-helium gas giant, the methane in Sharblu's atmosphere gives it an azure hue.\n\nThe asari crew who initially surveyed the system (during Earth's 17th century) named Sharblu after a then-popular soprano. The singer was renowned for her unusual skin tone, which was quite similar to that of the planet.\n \nOrbital Period: 1711.0 Earth Years\nRadius: 43,342 km\nDay Length: 1711.0 Earth Years",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22786",
+   "en": "Slekon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22787",
+   "en": "Orbiting at an unbelievable distance of 710 AU (over 66 billion kilometers) from Gorgon, Slekon is a huge gas giant, with an atmosphere tainted by methane and chlorine. \n \nOrbital Period: 4483.1 Earth Years\nRadius: 77,115 km\nDay Length: 4483.1 Earth Years",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22788",
+   "en": "MSV Fedele",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22789",
+   "en": "The Fedele is a Kowloon class modular conveyor of human design. In addition to the standard cargo bay, the hull has several biological research modules attached.\n\nRegistry: Private Owner, Dr. R. Heart",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22790",
+   "en": "Metallic Asteroid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22791",
+   "en": "A metal-rich asteroid.\nRadius: 94 km",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22792",
+   "en": "The main fusion reactor for Peak 15 is down. The fuel lines on the core must be restored.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22793",
+   "en": "Noveria: Reactor Repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22794",
+   "en": "You've restored power to Peak 15.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

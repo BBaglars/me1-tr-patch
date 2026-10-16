@@ -1,0 +1,298 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/021",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21217",
+   "en": "These diplomatic talks occurred in the wake of the Krogan Rebellions, as a response to the destruction of the conflict and an attempt to distance the Council from the brutal krogan warfare.\n\nThe Conventions regulate the use of Weapons of Mass Destruction. A WMD causes environmental alteration to a world. A bomb that produces a large crater is not considered a WMD; a bomb that causes a 'nuclear winter' is.\n\nUse of WMD is forbidden on 'garden' worlds like Earth, with ecospheres that can readily support a population. If a habitable world is destroyed, it will not be replaced for millions of years. The Conventions do not forbid the use of WMD on hostile worlds or in sealed space-station environments. Many militaries continue to develop and maintain stockpiles.\n\nThe Conventions graded Weapons of Mass Destruction into tiers of concern; Tier I is the greatest threat to galactic peace.\n\nTIER I: Large kinetic impactors, such as asteroid drops or de-orbiting space stations. Effectively free and available in any system (in the form of debris left over from planetary accretion), kinetic impactors are the weapon of choice for terrorists and 'third galaxy' nations.\n\nTIER II: Uncontrolled self-replicating weapons, such as nanotechnology, viral or bacteriological organisms, 'Von Neumann devices', and destructive computer viruses. These weapons can lie dormant for millennia, waiting for a careless visitor to carry them on to another world.\n\nTIER III: Large energy-burst weapons, such as nuclear or antimatter warheads.\n\nTIER IV: Alien species deliberately introduced to crowd out native forms necessary for the health of an ecosystem. Ecological tampering can take years to bear fruit, making it difficult to prove.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21218",
+   "en": "Citadel Conventions",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21219",
+   "en": "The Ring is an enclosed loop of park-like space serving as the connection point for the Wards. The interior walls are lined with the embassies of influential species and private residences for the galaxy's elite.\n\nThe Presidium is full of 'open-air' restaurants, bars, and luxurious meeting areas. Gravity is about 1/3 Earth-normal. A holographic 'sky' is projected over the 'ceiling' of the ring. Unlike the 24/7 bustle of the Wards, the Presidium maintains a 20-hour day schedule, with a six-hour 'night' where lights are dimmed and the sky goes through a night cycle.\n\nOffices and residences are often open to the interior. It is not unusual for embassies to have no exterior wall at all. This does not cause a crime problem due to the heavy C-Sec presence and ubiquitous monitoring devices on the Presidium. Thieves are quickly identified and apprehended.\n\nThe Ring is the location of the Citadel's spaceports. Being closer to the center of spin, there is less motion for a ship to match, and the reduced spin gravity makes handling cargo easier. Hundreds of ships pass through the Citadel every day, and every species with an embassy is granted a private dock.\n\nThe Tower, at the center of the Ring, holds the administration of the Citadel Council. The Tower rises over a kilometer from the ring, appearing to thrust forward parallel to the ward arms. As the Tower is at the center of the spin axis, it experiences little centrifugal force. Gravity is maintained using mass effect fields at a 90-degree angle to the Ring and Wards.\n\nA Consular dock can be found at the base of the Tower. While normally used for diplomatic couriers and Spectre business, the shuttles docked here can evacuate the Council government in an emergency.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21220",
+   "en": "Citadel Station: Presidium Ring",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21221",
+   "en": "The Citadel is surrounded by a blue-tinted reflection nebula. The light of the nebula is actually light from the Citadel, scattered and reflected back at the station.\n\nAt first, the Serpent Nebula was assumed to be made of microscopic construction debris. Prevailing theory holds that the Protheans used molecular nanotechnology to manufacture the incredibly durable materials used in the Citadel. But unlike other nebulae, the Serpent does not dissipate over time. Therefore, it must be replenished constantly. The current popular theory is that the non-recyclable waste collected by the Citadel's keepers is somehow rendered down to the atomic or molecular level, and ejected into the cloud.\n\nThe thick nebula presents a navigation hazard. Beyond the relatively clear areas around the Citadel, electrical discharges are common. These are not blocked by kinetic barriers, and can severely damage metal-framed starships. In addition, some dense knots of dust can overwhelm the repulsion of kinetic barriers on smaller ships. If such a vessel is moving fast enough at the time, the effects are similar to being hit by a sandblaster.\n\nAttempting to reach the Citadel through open space navigation is unadvisable; the only safe approach is through the various mass relays that orbit it.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21222",
+   "en": "Citadel Station: Serpent Nebula",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21223",
+   "en": "Although the Citadel is equipped with mass-effect-generating element-zero cores, most of the gravity on the station is generated by the centrifugal force of rotation.\n\nRotation: 3.5 minutes per revolution\nRotational Gravity in Wards: 1.02 Earth\nRotational Gravity in Presidium: 0.3 Earth\nTotal Length (Open): 44.7 km\nDiameter (Open): 12.8 km\nWard Length: 43.6 km\nWard Width: 330 m\nPresidium Ring Diameter: 7.2 km\nPresidium Ring Width: 553 m\nExterior Armor Thickness: 13 m\nPopulation:  13.2 million (not including keepers)\nGross Weight: 7.11 billion metric tons\nHeight of the Presidium Tower: 1047 m\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21224",
+   "en": "Citadel Station: Statistics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21225",
+   "en": "The majority of the Citadel's population lives in the Wards, the five massive arms of the station that house the residential and commercial districts. Many galactic races have established cultural enclaves here. Population density and cost of living are extremely high, akin to Earth cities such as Hong Kong and Singapore.\n\nThe Wards are open-topped, with skyscrapers rising from the superstructure. Towers are sealed against vacuum, as the breathable atmosphere envelope is only maintained to a height of about seven meters. The atmosphere is contained by the centrifugal force of rotation and a 'membrane' of dense, colorless sulphur hexafluoride gas, held in place by carefully managed mass effect fields.\n\nThe view from the Wards is spectacular. In the background, stars, Serpent Nebula, and the nearby blue giant called 'the Widow' move across the sky as the station rotates to stabilize itself. In the foreground, the lights of buildings and vehicles on the opposing Ward arms perpetually shine. The Citadel has no real day or night. While the station keeps to standard galactic time for political functions, businesses rarely close, and residents acclimate to sleep and work according to personal need rather than a day-night cycle.\n\nAdditions and modifications are constantly being constructed, though they must stay within certain specifications that will not compromise the operation of the station. Occasionally, the keepers will descend on an area of the Wards and move or change the architecture without explanation.  Residents have learned to live with these inexplicable intrusions.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21226",
+   "en": "Citadel Station: Wards",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21227",
+   "en": "Due to the destructive potential of dreadnoughts, the Council races agreed at the Farixen Naval Conference to fix a ratio of dreadnought construction between themselves. At the top of the pyramid is the peacekeeping turian fleet. Below the turians are the other Council races, currently the asari and salarians. Council associate races are at the bottom. The human Systems Alliance is part of this last group.\n\nThe ratio of turian to Council to associate dreadnoughts is 5:3:1. For every dreadnought humans are permitted to build, the asari have three, and the turians five.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21228",
+   "en": "Treaty of Farixen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21229",
+   "en": "Humanity has encountered many galactic species. Wars have been few, but mistrust is rife.\n\nPolitically, the Alliance is a peaceful trade partner of the TURIANS. As a practical matter, however, there is simmering antagonism and bigotry between both populations over the First Contact War of 2157.\n\nThe Alliance enjoys good relations with the ASARI, though many privately believe the Matriarchs are aristocratic and overcautious.\n\nThough humans know better than to unconditionally trust any SALARIAN, their shared restless, reckless ways make them natural allies against the conservative turians and asari.\n\nThe KROGAN have no unified government, but individuals are generally treated as potential criminals, a reputation most krogan enjoy living down to.\n\nThe Alliance has no formal contact with the QUARIANS. Their Migrant Fleet has not yet passed through any human-settled system.\n\nThe batarians are rivals for control of the Skyllian Verge. They severed their treaties with the Citadel to prosecute a colonial conflict against the Alliance. Officially, there is no war, but neither is there any peace.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21230",
+   "en": "Human Diplomatic Relations",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21231",
+   "en": "As the human race expands its territory and raises the general standard of living, demand for industrial resources continues to grow. Many planets, moons and asteroids contain a wealth of resources, but many systems have barely been charted, let alone thoroughly surveyed. Unmanned probes are one solution, but they are often lost to space hazards, unforeseen circumstances, or theft by salvagers.\n\nIn recent years, AGeS, the Alliance Geological Service, has offered bounties to private individuals or teams willing to perform mineralogical surveys on the frontier. This survey data is made publicly available to further corporate development. Due to the cost of travel and the dangers of operating on hostile worlds, it is rarely a profitable endeavor.\n\nLIGHT METALS - Metals with low atomic weight are often used in the construction of spacecraft and vehicles.\n\nHEAVY METALS - Metals with higher atomic weights are used to construct equipment components. The platinum group elements are particularly useful.\n\nRARE EARTHS - Most useful materials in this category are radioactives or magnets.\n\ngases - Various gases are required to support all known forms of sapient life. Some are commonly used as fuel.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21232",
+   "en": "Systems Alliance: Geological Survey",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21233",
+   "en": "The Alliance military is of great concern to the galaxy. At first contact with the turians, they were completely inexperienced. Turian disdain changed to respect after the relief of Shanxi, where the humans surprised them with novel technologies and tactics.\n\nThe human devotion to understanding and adapting to modern space warfare stunned the staid Council races. For hundreds of years, they had lived behind secure walls of long-proven technologies and tactics. The Council regards the Alliance as a 'sleeping giant'. Less than 3% of humans volunteer to serve in their military, a lower proportion than any other species.\n\nWhile competent, Alliance soldiers are neither as professional as the turians nor as skilled as the asari. Their strengths lie in fire support, flexibility, and speed. They make up for lack of numbers with sophisticated technical support (VIs, drones, artillery, electronic warfare) and emphasis on mobility and individual initiative.\n\nTheir doctrine is not based on absorbing and dishing out heavy shocks like the turians and krogan. Rather, they bypass enemy strong points and launch deep into their rear, cutting supply lines and destroying headquarters and support units, leaving enemies to 'wither on the vine'.\n\nOn defense, the human military is a rapid reaction force that lives by Sun Tzu’s maxim, 'He who tries to defend everything defends nothing.' Garrisons are intended for scouting rather than combat, avoiding engagement to observe and report on invaders using drones.\n\nThe token garrisons of human colonies make it easy for alien powers to secure them, for which the Alliance media criticizes the military. However, the powerful fleets stationed at phase gate nexuses such as Arcturus are just a few hours or days from any colony within their sphere of responsibility. In the event of an attack, they respond with overwhelming force.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21234",
+   "en": "Systems Alliance: Military Doctrine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21235",
+   "en": "ashore - When a ship's crew leaves the vessel, they are \"ashore.\" Though normally used regarding planets, it can refer to boarding a space station.\n\naweigh - When a ship releases the equipment tethering it to a space station or surface dock, it is \"aweigh.\"\n\naye, aye - The proper way to acknowledge an order. If told to attack, the correct response is \"Aye, aye, sir.\" If asked \"Are you proud to be a marine?\" the correct response is \"Yes, sir.\"\n\nASAP - Pronounced \"a-sap,\" an acronym of \"as soon as possible.\"\n\nbelay - Stop, cease.\n\nbridge - The navigation center of a spacecraft, where the steering is done.\n\ncaptain's mast - Non-judicial disciplinary proceedings by unit commanders.\n\nCIC - Combat Information Center, the command center of a spacecraft. The CIC is filled with sensor displays to make sense out of the chaos of combat.\n\nDC - Damage Control. The containment and repair of damage to a spacecraft.\n\nECM - Electronic Counter-Measures used to avoid enemy sensors, from passive emissions masking to active jamming.\n\nEVA - Extra-Vehicular Activity. Time spent in a pressure suit, outside of a vehicle, spacecraft, or station.\n\nflank - The flank is the \"side\" of a military formation. Since the soldiers are facing elsewhere, an enemy that can attack on the flank can often \"turn it\" or \"roll it up.\"\n\nFNG - \"Freaking\" New Guy(s). A derisive term for inexperienced personnel.\n \ngroundside - The surface of a planet.\n\nhelmsman - The crewmember who pilots a spacecraft.\n\nladar - Light-amplified detection and ranging. An active sensor that bounces lasers off an object to determine its bearing and distance. Ladar has sufficient resolution that the data can be reconstructed into an image.\n\nshore party - Spacecraft crew sent ashore on official business.\n\nsilent running - An old submariner's term used aboard the Normandy to denote when stealth systems are active.\n\nsitrep - Abbreviation of \"situation report,\" an evaluation of the current military situation.\n\nspacer - Someone who has spent most of their life in space.\n\nXO - Executive Officer, the second-in-command of an Alliance warship. The XO is responsible for administrative and personnel matters.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21236",
+   "en": "Systems Alliance: Military Jargon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21237",
+   "en": "The Alliance uses a modified version of the ranking system that has been used for hundreds of years. Soldiers are classified into rank-and-file enlisted personnel, experienced non-commissioned officers (NCOs), and specially trained officers.\n\nThe divide between naval personnel and ground forces ('marines') is small. Ground units are a specialized branch of the fleet, just as fighter squadrons are. This unity of command is imposed by the futility of fighting without control of orbit; without the navy, any army is pointless. The marines, as a matter of pride, maintain some of their traditional rank titles; for example, marines have Privates and Corporals instead of Servicemen.\n\nIn ascending order of responsibility, the ranks of the Alliance are:\n\nENLISTED\nServiceman 3rd Class / Private 2nd Class\nServiceman 2nd Class / Private 1st Class\nServiceman 1st Class / Corporal\n\nNCOs\nService Chief\nGunnery Chief\nOperations Chief\n\nOFFICERS\n2nd Lieutenant\n1st Lieutenant\nStaff Lieutenant\nLieutenant Commander\nStaff Commander\nCaptain / Major\nRear Admiral / General\nAdmiral\nFleet Admiral\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21238",
+   "en": "Systems Alliance: Military Ranks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21239",
+   "en": "The Alliance Military Vocational Code system classifies the career path of all serving personnel. The MVC consists of one letter and one number. A soldier's MVC indicates proficiency, not rank. The letter notes career path; the number indicates level of experience, as indicated by service record, technical scores, and commendations. All 26 letters are used, and numbers run from 1 to 7. N is the letter code for Special Forces personnel.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21240",
+   "en": "Systems Alliance: N7",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21241",
+   "en": "Terra Firma is an Alliance political party formed after the First Contact War. Its policy agenda is based on the principle that Earth must 'stand firm' against alien influences. This covers a variety of legislation. Recent activities by Terra Firma include opposition to a law requiring high school alien language study, a proposal to increase tariffs on alien imports, and leading a popular movement to mark the First Contact War with a public holiday.\n\nThough founded by well-meaning individuals who feared the submersion of native human cultures under a wave of 'alien vogue', Terra Firma's agenda attracts many jingoists and xenophobes.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21242",
+   "en": "Terra Firma Party",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21243",
+   "en": "2069 – Armstrong Outpost at Shackleton Crater becomes the first human settlement on Luna. It is formally founded on July 24, the 100th anniversary of the first lunar landing.\n\n2103 – Lowell City in Eos Chasma becomes the first human settlement on Mars.\n\n2137 – Eldfell-Ashland Energy Corporation demonstrates helium-3 fuel extraction from the atmosphere of Saturn.\n\n2142 – Construction of Gagarin Station (Jump Zero) begins beyond the orbit of Pluto.\n\n2148 – Prospectors discover the Prothean ruins at Promethei Planum on Mars.\n\n2149 – Translation of Prothean data leads humans to the Charon mass relay. Systems Alliance founded to coordinate exploration and colonization of extra-solar worlds.\n\n2151 – A shipping accident at Singapore International Spaceport exposes downwind communities to containers of dust-form element zero. Alliance begins construction of Arcturus Station.\n\n2152 – Roughly 30% of the children born in Singapore after element zero exposure suffer from cancerous growths. Systems Alliance begins settlement of Earth’s first extra-solar colony world, the planet Demeter.\n\n2154 – Commander Shepard born.\n\n2155 – Systems Alliance occupies completed portions of Arcturus Station as a headquarters.\n\n2156 – Some children of Singapore exhibit minor telekinetic abilities.\n\n2157 – Turians encounter human explorers; First Contact War. Occupation and liberation of the human colony of Shanxi.\n\n2158 – Humans learn potential of biotics. An international effort to track element zero exposures begins. Roughly 10% of exposed children show some level of biotic ability.\n\n2160 – Systems Alliance Parliament formed.\n\n2165 – Humans establish embassy on Citadel.\n\n2170 – Batarian slavers attack the Alliance colony of Mindoir.\n\n2176 – Skyllian Blitz – Pirates and slavers attacked Elysium, the human capital in the Skyllian Verge.\n\n2177 – Thresher maws devour the Alliance colony of Akuze.\n\n2178 – In retaliation for the Skyllian Blitz, an Alliance fleet wipes out an army of slavers on the moon of Torfan.\n\n2183 – Current date.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21244",
+   "en": "Timeline",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21245",
+   "en": "Arcturus Station is the gateway to Sol, a 5-kilometer diameter 'Stanford Torus'-type space station at the trailing Lagrange point of the gas giant Themis. Construction on Arcturus Station began in 2151 and concluded in 2162. It was inaugurated in 2156, and has served as the military and political headquarters of the Systems Alliance from the First Contact War until the present.\n\nWhen humanity activated the Charon Mass Relay in 2149, it led to Arcturus, 36 light years from Sol, Earth's sun. Arcturus is the third brightest star seen from Earth. It is an ancient red giant from the generation born before Sol. Its worlds are either gas giants or ice chunks. While some rocky debris exists, the metal content is 25% lower than normal. To build Arcturus Station, metallic asteroids were towed through the mass relays to the construction site. Many of these asteroids remain near the station, their mined-out areas home to transient populations.\n\nThe expense of bringing construction materials into the system was acceptable due to its strategic value. With three primary mass relays in addition to the secondary one to Sol, Arcturus is a major communications and military chokepoint. The Alliance 1st Fleet is based in Arcturus, where it can guard the gates to Sol and react to incursions in the three connected clusters. The Station also hosts the Systems Alliance Parliament and the Systems Alliance Military general headquarters. Its permanent population is approximately 45,000.\n\nArcturus is actually from the galactic halo, one of a cluster of 52 stars that are 'crashing through' the disc of the galaxy. In a billion years, Arcturus will be sailing through the depths of extragalactic dark space.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21246",
+   "en": "Stations: Arcturus Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21247",
+   "en": "Gagarin Station is the largest deep space station built by humanity, a 'Bernal Sphere' design with a 500-meter-diameter habitable area. It was constructed beyond Pluto, nearly 80 Astronomical Units (12 billion kilometers) from Sol. Moving crew and material to this location bankrupted most of the backers.\n\nGagarin was placed at the inner edge of the 'heliopause' - the point at which the solar wind can no longer push back the interstellar medium. It was built to test a number of faster-than-light drive principles that theoretically could only occur in interstellar space. The station was nicknamed 'Jump Zero', as it was intended to be the jumping-off point for humanity's expansion into the galaxy. Shortly after the station was completed, the Prothean ruins were discovered on Mars, rendering the entire effort moot.\n\nAfter struggling to make a profit for a decade, Gagarin was sold to the Systems Alliance in 2159 for a fraction of its construction costs. The Alliance refurbished it as a research and training center for the recently discovered biotic phenomenon.\n\nIn 2169, the Biotic Acclimation and Training program was shut down and Gagarin became a general research facility. Its remote location and intentional isolation from the extranet makes it popular for dangerous research, particularly in the field of artificial intelligence. Humanity’s first stable AI, the Alliance-sponsored 'Eliza', achieved sapience at Gagarin in 2172.\n\nToday, Gagarin Station has a permanent population of approximately 9000. A plan has been proposed to move it to the gravitationally stable barycenter point between Pluto and the Charon Relay, allowing it to serve as a gateway facility between the Sol and Arcturus systems. The high cost of safely moving its mass has delayed this indefinitely.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21248",
+   "en": "Stations: Gagarin Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21249",
+   "en": "New space travelers ask, 'What does it look like outside a ship moving at faster-than-light speed?' Part of the answer can be seen in a simple pane of glass. Light travels slower through glass than it does through open air; light also moves slower in conventional space than it does in a high-speed mass effect field. This causes refraction - any light entering at an angle is bent and separated into a spectrum. Objects outside the ship will appear refracted. The greater the difference between the objective (exterior) and subjective (interior) speeds of light, the greater the refraction.\n\nAs the subjective speed of light is raised within the field, objects outside will appear to red-shift, eventually becoming visible only to radio telescope antennae. High-energy electromagnetic sources normally hidden to the eye become visible in the high blue spectrum. As the speed of light continues to be raised, x-ray, gamma ray, and eventually cosmic ray sources become visible. Stars will be replaced by pulsars, the accretion discs of black holes, quasars, and gamma ray bursts.\n\nTo an outside observer, a ship within a mass effect drive envelope appears blue-shifted. If within a field that allows travel at twice the speed of light, any radiation it emits has twice the energy as normal. If the ship is in a field of about 200 times light speed, it radiates visible light as x-rays and gamma rays, and the infrared heat from the hull is blue-shifted up into the visible spectrum or higher.\n\nShips moving at FTL are visible at great distances, though their signature will only propagate at the speed of light.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21250",
+   "en": "FTL Drive: Appearance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21251",
+   "en": "As positive or negative electric current is passed through an FTL drive core, it acquires a static electrical charge. Drives can be operated an average of 50 hours before they reach charge saturation. This changes proportional to the magnitude of mass reduction; a heavier or faster ship reaches saturation more quickly.\n\nIf the charge is allowed to build, the core will discharge into the hull of a ship. All ungrounded crew members are fried to a crisp, all electronic systems are burned out, and metal bulkheads may be melted and fused together.\n\nThe safest way to discharge a core is to land on a planet and establish a connection to the ground, like a lightning rod. Larger vessels like dreadnoughts cannot land and must discharge into a planetary magnetic field. The ship passes the charge from the drive core to the exterior armored hull, then dives into the magnetic field.\n\nAs the hull discharges, sheets of lightning jump away into the field, creating beautiful auroral displays on the planet. The ship must retract its sensors and weapons while dumping charge to prevent damage, leaving it blind and helpless. Discharging at a moon with a weak magnetic field can take days. Discharging into the powerful field of a gas giant may require less than an hour. Deep space facilities such as the Citadel often have special discharge facilities for visiting ships.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21252",
+   "en": "FTL Drive: Drive Charge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

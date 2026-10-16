@@ -1,0 +1,1034 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/019",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21052",
+   "en": "Gianna warned you that there has been an accident on Peak 15.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21053",
+   "en": "Gianna's Warning",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21054",
+   "en": "Geth Communications Disrupted",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21055",
+   "en": "Satellite Uplink Disrupted",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21056",
+   "en": "Memory Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21057",
+   "en": "You were attacked by geth in the quarantine lab. Han Olar told you they came from the nearby door to the maintenance area.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21058",
+   "en": "You were attacked by geth in the quarantine lab. Han Olar told you they came from the sealed maintenance area. Dr. Cohen might be able to get you inside.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21059",
+   "en": "Geth Heavy Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21060",
+   "en": "Alliance Heavy Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21061",
+   "en": "Satellite Uplink",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21062",
+   "en": "Plaza Armature State: Offline",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21063",
+   "en": "You decided not to help Sha'ira with her problem. She is no longer interested in speaking with you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21064",
+   "en": "Stasis Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21065",
+   "en": "Get into Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21066",
+   "en": "Talk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21067",
+   "en": "Open",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21068",
+   "en": "Easy Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21069",
+   "en": "Average Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21070",
+   "en": "Hard Decryption",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21071",
+   "en": "Decryption: Skill Too Low",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21072",
+   "en": "Decryption: Insufficient omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21073",
+   "en": "Decryption: Low omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21074",
+   "en": "Easy Electronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21075",
+   "en": "Average Electronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21076",
+   "en": "Hard Electronics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21077",
+   "en": "Electronics: Skill Too Low",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21078",
+   "en": "Electronics: Insufficient omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21079",
+   "en": "Electronics: Low omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21080",
+   "en": "you have completed 482quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21081",
+   "en": "482quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21082",
+   "en": "you have completed 482task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21083",
+   "en": "482task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21084",
+   "en": "Supply Container",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21085",
+   "en": "Turret Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21086",
+   "en": "AA Turret Disabled",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21087",
+   "en": "Nuclear Warhead",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21088",
+   "en": "Assault Drone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21089",
+   "en": "Geth Rocket Drone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21090",
+   "en": "Rocket Drone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21091",
+   "en": "You have completed quest 470",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21092",
+   "en": "470quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21093",
+   "en": "You have completed task 470",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21094",
+   "en": "470task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21095",
+   "en": "Though the C-Sec officer insisted that he didn't need your help, you may still speak to the hanar preacher in the Presidium if you wish.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21096",
+   "en": "Speak with Hanar",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21097",
+   "en": "Pulse Rifle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21098",
+   "en": "Geth Armory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21099",
+   "en": "Few details are known about the manufacture of geth equipment, though their weapons and armor are of the highest quality.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21100",
+   "en": "Unable to dock module here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21101",
+   "en": "Shutdown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21102",
+   "en": "Core 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21103",
+   "en": "Core 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21104",
+   "en": "Core 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21105",
+   "en": "Choose module to move",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21106",
+   "en": "This core is empty",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21107",
+   "en": "Module in transit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21108",
+   "en": "Though the hanar preacher did not request your help, you may still speak to the C-Sec officer in the Presidium if you wish.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21109",
+   "en": "Speak with C-Sec Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21110",
+   "en": "Select destination core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21111",
+   "en": "Enter Override Sequence",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21112",
+   "en": "Press [XBoxB_Btn_A] to show controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21113",
+   "en": "Holding module 1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21114",
+   "en": "Holding module 2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21115",
+   "en": "Holding module 3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21116",
+   "en": "Holding module 4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21117",
+   "en": "You do not possess the required skill.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21118",
+   "en": "Shepard's Locker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21119",
+   "en": "I",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21120",
+   "en": "II",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21121",
+   "en": "III",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21122",
+   "en": "IV",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21123",
+   "en": "V",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21124",
+   "en": "Mako",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21125",
+   "en": "Geth Dropship",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21126",
+   "en": "Generator still active. Gate override offline.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21127",
+   "en": "Recovered Items",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21128",
+   "en": "Switch Squad Member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21129",
+   "en": "Toggle Helmet",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21130",
+   "en": "Preview Item",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21131",
+   "en": "First Name:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21132",
+   "en": "Last Name:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21133",
+   "en": "Close",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21134",
+   "en": "Value:",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21135",
+   "en": "Disarming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21136",
+   "en": "Reprogramming Accepted",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21137",
+   "en": "Mercenary Sniper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21138",
+   "en": "Pirate Sniper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21139",
+   "en": "Pirate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21140",
+   "en": "Elanos Haliat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21141",
+   "en": "Dead Body",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21142",
+   "en": "XP",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21143",
+   "en": "OVERHEAT",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21144",
+   "en": "M",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21145",
+   "en": "Use",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21146",
+   "en": "Map Quickslots",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21147",
+   "en": "Omni-gel Cost",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21148",
+   "en": "The three most politically important species in the galaxy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21149",
+   "en": "Asari have a robust cellular regenerative system. While they do not heal faster than other species, asari are known to reach 1000 years of age.\n\nAlthough asari have one gender, they are not asexual. An asari provides two copies of her own genes to her offspring. The second set is altered in a unique process called melding.\n\nDuring melding, an asari consciously attunes her nervous system to her partner’s, sending and receiving electrical impulses directly through the skin. The partner can be another asari, or an alien of either gender. Effectively, the asari and her partner briefly become one unified nervous system.\n\nThis unique means of reproduction is the reason asari are talented biotics. Their evolved ability to consciously control nerve impulses is very similar to biotic training. Asari believe that their offspring acquire the best qualities of the \"father\" from the melded genes, but evidence is anecdotal.\n\nAsari pass through three climacteric life stages, marked by biochemical and physiological changes. The Maiden stage begins at birth and is marked by the drive to explore and experience. Most young asari are curious and restless.\n\nThe Matron stage of life begins around the age of 350, though it can be triggered earlier if the individual melds frequently. This period is marked by a desire to settle in one area and raise children.\n\nThe Matriarch stage begins around 700, or earlier if the individual melds rarely. Matriarchs become active in their community as sages and councilors, dispensing wisdom from centuries of experience.\n\nWhile each stage of life is marked by strong biological tendencies, individuals do make unexpected life choices. For example, there are Maidens who stay close to home rather than explore, Matrons who would rather work than build a family, and Matriarchs who have no interest in community affairs.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21150",
+   "en": "Asari: Biology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21151",
+   "en": "Because of their long lifespan, asari tend to have a 'long view' not common in other races. When they encounter a new species or situation, the asari are more comfortable with an extended period of passive observation and study than immediate action. They are unfazed that some of their investments or decisions may not pay off for decades or centuries. Matriarchs can seem to make incomprehensible decisions, but their insight is evident when their carefully-laid plans come to fruition. In interstellar relations, this long view manifests in an unspoken policy of centrism. The asari instinctively seek to maintain stable balances of economic, political, and military power.\n\nTraditionally, asari spread their influence through cultural domination and intellectual superiority. They invite new species of advanced development to join the galactic community, knowing that their ideals and beliefs will inevitably influence the existing culture.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21152",
+   "en": "Asari: Culture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21153",
+   "en": "The asari came late to the concept of world government. For centuries, their homeworld of Thessia was dotted with loose confederacies of great republican cities. The closest Earthly equivalent would be the ancient Mediterranean city-states. Since the asari culture values consensus and accommodation, there was little impetus to form larger principalities. Rather than hoard resources, the asari bartered freely. Rather than attack one another over differing philosophies, they sought to understand one another.\n\nOnly in the information age did the city-states grow close. Communication over internet evolved into an 'electronic democracy'. Asari have no politicians or elections, but a free-wheeling, all-inclusive legislature that citizens can participate in at will. Policy debates take place at all hours of the day, in official chat rooms and forums moderated by specially-programmed virtual intelligences. All aspects of policy are open to plebiscite at any time. In any given debate, the asari tend to lend the most credence to the opinions of any Matriarchs present, nearly always deferring to the experience of these millennia-old 'wise women'.\n\nAchieving consensus through public debate may take too long in a crisis. In cases where prompt, decisive action is required, the asari defer to the wisdom of local Matriarchs.\n\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21154",
+   "en": "Asari: Government",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21155",
+   "en": "Interstellar colonization sparked a golden age of learning and cultural advancement for the asari. During this time, the Matriarchs became obsessed with achieving 'ultimate knowledge'. To that end, a small but dedicated group chose to leave Thessia hoping to find greater wisdom and true enlightenment.\n\nWithin a span of a few years, twenty-eight Matriarchs left Thessia with no destination in mind and no plan to return. Only six were ever heard from again. Of the other twenty- two, only Matriarch Dilinaga's remains were discovered, along with several writings during her journey.\n\nThe writings instantly became the subject of intense study and discussion. Hundreds of anthropologists and historians analyzed the writings and theorized on their meaning and importance to the asari race. For several generations, these writings were kept at Thessia Guildhall, the center for asari learning and research. Less than a century ago, these were finally made available to the public. Since arriving at the Farinah Museum, the Dilinaga exhibit has become one of most popular historical attractions on Thessia.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21156",
+   "en": "The pantheistic mainstream asari religion is siari, which translates roughly as 'All is one.' The faithful agree on certain core truths: the universe is a consciousness, every life within it is an aspect of the greater whole, and death is a merging of one’s spiritual energy back into the greater universal consciousness. Siarists don't specifically believe in reincarnation; they believe that spiritual energy returned to the universal consciousness upon death will eventually be used to fill new mortal vessels.\n\nSiari became popular after the asari left their homeworld and discovered their ability to 'meld' with nearly any form of life. This ability is seen as proof that all life is fundamentally similar. Siari priestesses see their role as promoting unity between the disparate shards of the universe's awareness.\n\nBefore the rise of siari pantheism, asari religions were as diverse as their political opinions. The strongest survivor of those days is the monotheistic religion worshipping the goddess Athame. Like the asari, the goddess cycles through the triple aspects of maiden, matron, and matriarch.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21157",
+   "en": "Asari: Religion",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21158",
+   "en": "Salarians are noted for their high-speed metabolism, which allows them to function on just one hour of sleep a day. Their minds and bodies work faster than most sapient races, making them seem restless or hyperactive. The drawback of this active metabolism is a short lifespan of around 40 human years.\n\nThe salarians are amphibian haplo-diploid egg-layers; unfertilized eggs produce males and fertilized eggs produce females. Once a year, a salarian female will lay a clutch of dozens of eggs. Social rules prevent all but a fraction from being fertilized. As a result, 90% of the species is male.\n\nSalarians have photographic memories and rarely forget a fact. They also possess a form of psychological 'imprinting', tending to defer to those they knew in their youth. Salarian hatching is a solemn ritual in which the clan Dalatrass (matriarch) isolates herself with the eggs. The young salarians psychologically imprint on her and tend to defer to her wishes.\n\nDuring the hatching of daughters, the Dalatrasses of the mother and father's clans are present at the imprinting. This ensures the offspring have equal loyalty to both, ensuring the desired dynastic and political unity.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21159",
+   "en": "Salarians: Biology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21160",
+   "en": "The rare salarian females are cloistered on their worlds out of tradition and respect. Powerful female Dalatrasses are dynasts and political kingpins. They determine the political course of their respective regions through shrewd negotiation. Though male salarians rise to positions of great authority in business, academia, or the military, they rarely have any input on politics.\n\nDue to their method of reproduction, salarians have no concept of romantic love, sexual attraction, or the biological impulses and social rituals that complicate human lives. Male-female relationships are rare (due to the scarcity of females) and more akin to human friendship.\n\nSexuality is strictly for the purpose of reproduction. Ancient social codes determine who gets to fertilize eggs, which produces more daughters to continue a bloodline. Fertilization generally only occurs after months of negotiation between the parents' clans, and is done for purposes of political and dynastic alliance. No salarian would imagine defying this code.\n\nSalarian names are quite complex. A full name includes - in order - the name of a salarian's planet, duchy, barony, fiefdom, family, and finally, the given name.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21161",
+   "en": "Salarians: Culture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21162",
+   "en": "The salarian government is called the Salarian Union. It is a labyrinthine web of matrilineal bloodlines, with political alliances formed through interbreeding.\n\nIn many ways, the salarian political network functions like the noble families of Earth's Medieval Europe. Structurally, the government consists of fiefdoms, baronies, duchies, planets, and marches (colonization clusters). These are human nicknames; the original salarian is unpronounceable. Each area is ruled by a single Dalatrass (matriarchal head-of-household) and represents an increasing amount of territory and prestige within the salarian political web.\n\nApproaching 100 members, the first circle of a salarian's clan comprises parents, siblings, uncles, aunts, and cousins. The next circle includes second cousins, etc., and escalates to well over 1000 members. The fourth or fifth circle of a clan numbers into the millions. Salarian loyalty is greatest to their first circle and diminishes from there. Their photographic memories allow salarians recognize all their myriad relatives.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21163",
+   "en": "Salarians: Government",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21164",
+   "en": "In principle, the salarian military is similar to the Alliance, a small volunteer army that focuses on maneuver warfare. What differentiates the salarians is not their equipment or doctrine, but their intelligence services and rules of engagement. The salarians believe that a war should be won before it begins.\n\nConventional wisdom holds that the salarians know everything about everyone, and this is not far from the truth. In war, the unquestioned superiority of their intelligence services allows them to use their small military to maximum effectiveness. Well before fighting breaks out, they possess complete knowledge of their enemy’s positions, intentions, and timetable.\n\nIn every war the salarians have fought, they struck first and without warning. For the salarians, to know an enemy plans to attack and to let it happen is folly. To announce their own plans to attack is insanity. They find the human moral concepts of 'do not fire until fired upon' and 'declare a war before prosecuting it' incredibly naïve. In defensive wars, they execute devastating preemptive strikes hours before the enemy’s own attacks. On the offense, they have never telegraphed their intentions with a declaration of war before attacking.\n\nBiotics are virtually unknown in the salarian military. Those with such abilities are considered too valuable to be used as cannon fodder and are assigned to the intelligence services.\n\nWhile capable of defending themselves against most threats, the salarians know that they are small fish in a universe filled with sharks. As a point of survival, they have cultivated strong alliances with larger powers, particularly with the turians. Though the relationship between the two species was rocky at first due to the krogan uplift fiasco, the salarians take pains to keep this relationship strong enough that anyone who might threaten them risks turian intervention.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21165",
+   "en": "Salarians: Military Doctrine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21166",
+   "en": "The asari military resembles a collection of tribal warrior bands with no national structure. Each community organizes its own unit as the locals see fit, and elect a leader to command them. Units from populous cities are large and well-equipped, while those from farm villages may be only a few women with small arms. There is no uniform; everyone wears what they like. The asari military is not an irregular militia, however; those who serve are full-time professionals.\n\nThe average asari huntress is in the maiden stage of her life and has devoted 20-30 years to studying the martial arts. Asari choose to be warriors at a young age, and their education from that point is dedicated to sharpening the mind and body for that sole purpose. When they retire, they possess an alarming proficiency for killing.\n\nHuntresses fight individually or in pairs, depending on the tactics preferred in their town. One-on-one, a huntress is practically unbeatable, possessing profound tactical insight, a hunter's eye, and a dancer's grace and alacrity. Biotics are common enough that some capability is a requirement to be trained as a huntress; lack of biotic talent excludes a young asari from military service.\n\nWhile fluid and mobile, asari can't stand up in a firestorm the way a krogan, turian, or human could. Since their units are small and typically lack heavy armor and support weapons, they are almost incapable of fighting a conventional war, particularly one of a defensive nature. So asari units typically undertake special operations missions. Like an army of ninja, they are adept at ambush, infiltration, and assassination, demoralizing and defeating their enemies through intense, focused guerilla strikes.\n\nAs a popular turian saying puts it, 'The asari are the finest warriors in the galaxy. Fortunately, there are not many of them.'\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21167",
+   "en": "Asari: Military Doctrine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21168",
+   "en": "Salarian intelligence field agents are grouped into an organization called the Special Tasks Group. STG operators work in independent cells, performing dangerous missions such as counterterrorism, infiltration reconnaissance, assassination, and sabotage.\n\nThe STG is a proactive organization, puncturing worrisome trends before they become movements. At any time, a dozen groups are operating covertly within the lawless Terminus Systems, sowing dissent among the various factions. Civilian analysts also note how troublesome 'hinge point' individuals in Terminus frequently meet unexpected deaths.\n\nSTG operators are feared throughout the galaxy for their clear-eyed, remorseless practicality. They are willing to do whatever it takes to achieve their mission, even if it kills civilians or results in the team’s own destruction. In many ways, they are akin to the Council Spectres.\n\nRecently, a number of STG cells have been redeployed from Salarian Union. It is assumed they are in the Terminus and Attican Traverse, investigating reports of geth activity beyond the Perseus Veil.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21169",
+   "en": "Salarians: Special Tasks Group",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21170",
+   "en": "Before they joined the Citadel Council, the salarians' most potent military tool was a small reconnaissance team known as the League of One. Their primary training was in espionage and assassination. Never more than a dozen strong, the team was adept at infiltrating the tightest defenses and eliminating all necessary obstacles.\n\nOnly a few top members of government and military were privy to the League's identities. League members wore no distinguishing garments, and held no particular rank. The only evidence of their participation in the League was a small medallion presented to each member upon induction. This secrecy was maintained until the formation of the Council.\n\nIn an effort to dispel rumors and appease their new asari partners, the Salarian Union released all classified documents pertaining to the League. The League of One was suddenly exposed and in danger of being hunted by enemies of the salarians. Before any harm could be done, the team mysteriously disappeared. Most assumed this was a convenient lie to help hide their identities, but a few months later, the inner cabinet was murdered. Though there was no incriminating evidence, it was clear who was responsible.\n\nRealizing the threat posed by this rogue outfit, the Special Tasks Group dispatched a team of hunters. When they didn't return, the STG dispatched ten of its brightest operators with broad discretionary powers. Only two returned; they reported no evidence of the League.\n\nNo further incidents were reported and it was assumed the League was wiped out. Some recently declassified documents, however, have suggested there may have been a thirteenth member who eluded the salarian military.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21171",
+   "en": "Salarians: League of One",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21172",
+   "en": "The turian homeworld, Palaven, has a metal-poor core, generating a weak magnetic field and allowing more solar radiation into the atmosphere. To deal with this, most forms of life on Palaven evolved some form of metallic 'exoskeleton' to protect themselves. Their reflective plate-like skin makes turians less susceptible to long-term, low-level radiation exposure, but they do not possess any sort of 'natural armor'. A turian's thick skin does not stop projectiles and directed energy bolts.\n\nAlthough life on Palaven is carbon-based and oxygen-breathing, it is built on dextro-amino acids. This places the turians in a distinct minority on the galactic stage; the quarians are the only other known sapient dextro-protein race. The food of humans, asari, or salarians (who evolved in levo-amino acid-based biospheres), will at best pass through turian systems without providing any nutrition. At worst, it will trigger an allergic reaction that can be fatal if not immediately treated.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21173",
+   "en": "Turians: Biology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21174",
+   "en": "While turians are individuals with personal desires, their instinct is to equate the self with the group, and set aside personal desires for the good of all.\n\nTurians are taught to have a strong sense of personal accountability, the 'turian honor' that other races find so remarkable. Turians are taught to own every decision they make, good or ill. The worst sin they can make in the eyes of their people is to lie about their own actions. Turians who murder will try to get away with it, but if directly questioned, most will confess the crime.\n\nTurians have a strong inclination toward public service and self-sacrifice, so they tend to be poor entrepreneurs. To compensate, they accepted the mercantile volus as a client race, offering protection in exchange for their fiscal expertise.\n\nThe turian military is the center of their society. It is not just an armed force; it is an all-encompassing public works organization. The military police are also the civic police. The fire brigades serve the civilian population as well as military facilities. The corps of engineers builds and maintains spaceports, schools, water purification plants, and power stations. The merchant marine ensures that all worlds get needed resources.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21175",
+   "en": "Turians: Culture",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21176",
+   "en": "The turian government is a hierarchical meritocracy. While it has great potential for misuse, this is tempered by the civic duty and personal responsibility turians learn in childhood.\n\nTurians have 27 citizenship tiers, beginning with civilians (client races and children). The initial period of military service is the second tier. Formal citizenship is conferred at the third tier, after boot camp. For client races, citizenship is granted after the individual musters out. Higher-ranked citizens are expected to lead and protect subordinates. Lower-ranked citizens are expected to obey and support superiors. Promotion to another tier of citizenship is based on the personal assessments of one’s superiors and co-rankers.\n\nThroughout their lives, turians ascend to higher tiers and are occasionally 'demoted' to lower ones. The stigma associated with demotion lies not on the individual, but on those who promoted him when he wasn’t ready for additional responsibility. This curbs the tendency to promote individuals into positions beyond their capabilities.\n\nSettling into a role and rank is not considered stagnation. Turians value knowing one's own limitations more than being ambitious.\n\nAt the top are the Primarchs, who each rule a colonization cluster. The Primarchs vote on matters of national import. They otherwise maintain a 'hands-off' policy, trusting the citizens on each level below them to do their jobs competently.\n\nTurians enjoy broad freedoms. So long as one completes his duties, and does not prevent others from completing theirs, nothing is forbidden. For example, there are no laws against recreational drug use, but if someone is unable to complete his duties due to drug use, his superiors step in. Judicial proceedings are 'interventions.' Peers express their concern, and try to convince the offender to change. If rehabilitation fails, turians have no qualms about sentencing dangerous individuals to life at hard labor for the state.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21177",
+   "en": "Turians: Government",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21178",
+   "en": "Although they lack the brutality of the krogan, the skill of the asari, and the virtuosity of the humans, the turian military has formidable discipline. Officers and NCOs are 'lifers' with years of field experience. Enlisted personnel are thoroughly trained and stay calm under fire. Turian units don’t break. Even if their entire line collapses, they fall back in order, setting ambushes as they go. A popular saying holds: 'You will only see a turian's back once he’s dead.'\n\nBoot camp begins on the 15th birthday. Soldiers receive a year of training before being assigned to a field unit; officers train for even longer. Most serve until the age of 30, at which point they become part of the Reserves. Even if they suffer injuries preventing front-line service, most do support work behind the lines.\n\nBiotics are uncommon. While admired for their exacting skills, biotics' motives are not always fully trusted by the common soldier. The turians prefer to assign their biotics to specialist teams called Cabals.\n\nCommand and control is decentralized and flexible. Individual squads can call for artillery and air support. They make extensive use of combat drones for light duties, and practice combined arms: infantry operates with armor, supported by overhead gunships. Strategically, they are methodical and patient, and dislike risky operations.\n\nTradition is important. Each legion has a full-time staff of historians who chronicle its battle honors in detail. The oldest have records dating back to the turian Iron Age. If a legion is destroyed in battle, it is reconstituted rather than replaced.\n\nThe turians recruit auxiliary units from conquered or absorbed minor races. Auxiliaries are generally light infantry or armored cavalry units that screen and support the main turian formations. At the conclusion of their service in the Auxiliaries, recruits are granted turian citizenship.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21179",
+   "en": "Turians: Military Doctrine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

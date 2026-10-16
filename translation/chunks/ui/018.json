@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/018",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u20902",
+   "en": "Virmire: Kirrahe's Team",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20903",
+   "en": "Once the bomb is set, make sure the salarian Special Task Group has enough time to rendezvous with you and Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20904",
+   "en": "Give the STG Time to Get Out",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20905",
+   "en": "CRITICAL MISSION FAILURE",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20906",
+   "en": "Med Clinic Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20907",
+   "en": "Danger: Emergency Shutdown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20908",
+   "en": "Pressure Normal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20909",
+   "en": "Warning - High Pressure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20910",
+   "en": "You've discovered an interesting marker tucked away in a very difficult to reach location. There is no indication who left it there, but it seems to be set up as some sort of challenge.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20911",
+   "en": "UNC: Stunt Club",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20912",
+   "en": "You found all the markers set in the challenge.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20913",
+   "en": "Find as many of these markers as you can.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20914",
+   "en": "Search for Markers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20915",
+   "en": "Lorik Qui'in's computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20916",
+   "en": "Colossus Powering Up",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20917",
+   "en": "Cycle Presets",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20918",
+   "en": "Creates a random set of features.  Move the right stick to look around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20919",
+   "en": "Facial Customization\nSelect a feature and press [UI_XBoxB_Btn_A] to customize. Move [UI_XBoxB_Btn_RS] to make your character look around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20920",
+   "en": "Unlock Tactical Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20921",
+   "en": "Unlock Combat Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20922",
+   "en": "Medi-gel Bandage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20923",
+   "en": "Therum",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20924",
+   "en": "Customize",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20925",
+   "en": "Randomize",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20926",
+   "en": "Go to the cockpit and tell Joker to bring the Normandy in to dock at the Citadel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20927",
+   "en": "Speak to Joker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20928",
+   "en": "AA Gun Power Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20929",
+   "en": "Gate Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20930",
+   "en": "John",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20931",
+   "en": "Jane",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20932",
+   "en": "You spoke with General Septimus, but you failed to convince him to apologize to the Consort. Sha'ira will not be pleased.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20933",
+   "en": "You must infiltrate Saren's base and destroy it completely. Captain Kirrahe will assist with a diversionary strike to draw off most of the geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20934",
+   "en": "Virmire: Assault",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20935",
+   "en": "Master Singularity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20936",
+   "en": "Advanced Singularity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20937",
+   "en": "Advanced Barrier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20938",
+   "en": "Master Barrier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20939",
+   "en": "Advanced Stasis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20940",
+   "en": "Master Stasis",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20941",
+   "en": "Increases the damage and duration of all your powers and attacks by 1%\nIncreases health by 5%\nIncreases maximum accuracy by 2%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20942",
+   "en": "Increases the damage and duration of all your powers and attacks by 1.5%\nIncreases health by 5.5%\nIncreases maximum accuracy by 3%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20943",
+   "en": "Increases the damage and duration of all your powers and attacks by 2%\nIncreases health by 6%\nIncreases maximum accuracy by 4%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20944",
+   "en": "Unity\n\nRestores dead squad members with 30% health and 50% shields\n\nRecharge Time: 75s\nAccuracy Cost: 45%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20945",
+   "en": "Increases the damage and duration of all your powers and attacks by 2.5%\nIncreases health by 6.5%\nIncreases maximum accuracy by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20946",
+   "en": "Increases the damage and duration of all your powers and attacks by 3%\nIncreases health by 7%\nIncreases maximum accuracy by 6%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20947",
+   "en": "Increases the damage and duration of all your powers and attacks by 3.5%\nIncreases health by 7.5%\nIncreases maximum accuracy by 7%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20948",
+   "en": "Advanced Unity\n\nRestores dead squad members with 40% health and 75% shields\n\nRecharge Time: 60s\nAccuracy Cost: 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20949",
+   "en": "Advanced Unity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20950",
+   "en": "Increases the damage and duration of all your powers and attacks by 4%\nIncreases health by 8%\nIncreases maximum accuracy by 8%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20951",
+   "en": "Increases the damage and duration of all your powers and attacks by 4.5%\nIncreases health by 8.5%\nIncreases maximum accuracy by 9%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20952",
+   "en": "Increases the damage and duration of all your powers and attacks by 5%\nIncreases health by 9%\nIncreases maximum accuracy by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20953",
+   "en": "Master Unity\n\nRestores dead squad members with 50% health and 100% shields\n\nRecharge Time: 45s\nAccuracy Cost: 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20954",
+   "en": "Master Unity",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20955",
+   "en": "Select Specialization Class",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20956",
+   "en": "Leave World",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20957",
+   "en": "Enter Rover",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20958",
+   "en": "Triangulation Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20959",
+   "en": "Citadel Cab Service",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20960",
+   "en": "Master Sabotage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20961",
+   "en": "Advanced Overload",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20962",
+   "en": "Master Overload",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20963",
+   "en": "Damping ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20964",
+   "en": "Master Damping ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20965",
+   "en": "Advanced AI Hacking",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20966",
+   "en": "Master AI Hacking",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20967",
+   "en": "Reduce to omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20968",
+   "en": "Krogan BattleMaster",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20969",
+   "en": "Krogan Warrior",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20970",
+   "en": "Krogan Warlord",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20971",
+   "en": "Geth Armature",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20972",
+   "en": "Geth Assault Drone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20973",
+   "en": "Geth Recon Drone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20974",
+   "en": "Geth Prime",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20975",
+   "en": "Geth Shock Trooper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20976",
+   "en": "Geth Sniper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20977",
+   "en": "Geth Rocket Trooper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20978",
+   "en": "Geth Trooper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20979",
+   "en": "Geth Stalker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20980",
+   "en": "Geth Sapper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20981",
+   "en": "Soldier\nConfirm Primary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20982",
+   "en": "Engineer\nConfirm Primary Training\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20983",
+   "en": "Adept\nConfirm Primary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20984",
+   "en": "Infiltrator\nConfirm Primary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20985",
+   "en": "Sentinel\nConfirm Primary Training\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20986",
+   "en": "Vanguard\nConfirm Primary Training\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20987",
+   "en": "Soldier\nConfirm Secondary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20988",
+   "en": "Engineer\nConfirm Secondary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20989",
+   "en": "Adept\nConfirm Secondary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20990",
+   "en": "Infiltrator\nConfirm Secondary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20991",
+   "en": "Sentinel\nConfirm Secondary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20992",
+   "en": "Vanguard\nConfirm Secondary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20993",
+   "en": "Mission Computer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20994",
+   "en": "Corpse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20995",
+   "en": "Bunker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20996",
+   "en": "Eye Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20997",
+   "en": "Eye Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20998",
+   "en": "Eye Size",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20999",
+   "en": "Eye Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21000",
+   "en": "Ear Orientation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21001",
+   "en": "Ear Size",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21002",
+   "en": "Ear Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21003",
+   "en": "Chin Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21004",
+   "en": "Chin Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21005",
+   "en": "Chin Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21006",
+   "en": "Jaw Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21007",
+   "en": "Mouth Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21008",
+   "en": "Mouth Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21009",
+   "en": "Mouth Lips",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21010",
+   "en": "Mouth Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21011",
+   "en": "Nose Depth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21012",
+   "en": "Nose Width",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21013",
+   "en": "Nose Height",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21014",
+   "en": "Face Size",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21015",
+   "en": "Adam's Apple",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21016",
+   "en": "Hair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21017",
+   "en": "Head",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21018",
+   "en": "Skin Tone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21019",
+   "en": "Skin Diffuse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21020",
+   "en": "Iris Color",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21021",
+   "en": "Eyes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21022",
+   "en": "Ears",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21023",
+   "en": "Jaw",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21024",
+   "en": "Mouth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21025",
+   "en": "Nose",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21026",
+   "en": "Face",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21027",
+   "en": "Return To Normandy?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21028",
+   "en": "Remain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21029",
+   "en": "Leave",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21030",
+   "en": "Synthetic Insights Alarm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21031",
+   "en": "Fai Dan will want to know that you destroyed a geth transmitter. Head back up and inform him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21032",
+   "en": "Tell Fai Dan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21033",
+   "en": "Scripted Locked Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21034",
+   "en": "Encrypted Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21035",
+   "en": "Standard Door Control",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21036",
+   "en": "Plot Locked Door",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21037",
+   "en": "Someone in Zhu's Hope may want the power cells you've found. Return them to Zhu's Hope and ask around.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21038",
+   "en": "Return Cells to Zhu's Hope",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21039",
+   "en": "You found some power cells while exploring the tunnels beneath Zhu's Hope. It's likely that someone back in the colony will be able to use them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21040",
+   "en": "You've restored water to Zhu's Hope. Someone back in the colony will likely want to hear about this.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21041",
+   "en": "Return to Zhu's Hope and inform someone in the colony that you've restored the water.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21042",
+   "en": "Inform Zhu's Hope",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21043",
+   "en": "You've killed what looks like the alpha varren. It's likely that someone back in Zhu's Hope will want to hear about this.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21044",
+   "en": "Return to Zhu's Hope and inform them that the alpha varren is dead.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21045",
+   "en": "One of the asari \"scientists\" turned out to be an agent of Benezia. She attacked you with a squad of geth.Han Olar told you they came through the locked door from the nearby maintenance area.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21046",
+   "en": "Alestia's Attack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21047",
+   "en": "Vehicle Gates Open",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21048",
+   "en": "Anthid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21049",
+   "en": "Contact has been lost with Peak 15, the remote facility where Matriarch Benezia went.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21050",
+   "en": "Port Hanshan is full of rumors about Peak 15, but few facts.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21051",
+   "en": "Mysterious Rumors",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

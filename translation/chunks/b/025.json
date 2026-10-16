@@ -1,0 +1,559 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/025",
+  "family": "JUG40"
+ },
+ "entries": [
+  {
+   "key": "u04351",
+   "en": "Sun, surf, sand... and geth. I bet they don't put that in the brochure.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04352",
+   "en": "Nothing like a nice, relaxing stroll on the beach... blasting bad guys with my boomstick!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04353",
+   "en": "I do not know which is worse: the geth, or all this sand in my... never mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04354",
+   "en": "This world reminds me of where I grew up on Palaven. Minus the geth, of course.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04355",
+   "en": "This is my kind of vacation: lots of scenery, and lots of killing!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04356",
+   "en": "This world is beautiful. Too bad it's been contaminated by Saren and his geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04357",
+   "en": "Shadow is on the ground. Repeat: Shadow is on the ground.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04358",
+   "en": "Air threat has not materialized! We may be getting some help from Shadow.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04359",
+   "en": "Captain Kirrahe's down! Aegohr, form up with Jaeto. Hold that line!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04360",
+   "en": "Chief Williams, with Aegohr team! Mannovai, Jaeto teams, move! Time to get some attention!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04361",
+   "en": "Ready, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04362",
+   "en": "On your order, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04363",
+   "en": "On your initiative, Commander Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04364",
+   "en": "They're calling sat-strikes! Jaeto, watch for comm stations! Williams, can you see anything?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04365",
+   "en": "Mannovai is under coordinated crossfire. Check for long-range turrets helping the geth target!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04366",
+   "en": "Something scrambled their targeting. We've got a shot! Chief Williams, take the heat off Mannovai!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04367",
+   "en": "Damn it. We have to move! Anyone left from Mannovai, merge up with Jaeto. Chief Williams, with me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04368",
+   "en": "Lieutenant Alenko, with Aegohr team! Mannovai, Jaeto teams, move! Time to get some attention!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04369",
+   "en": "Fire is coordinated on Mannovai team. We can't reach the geth turrets. They're out of range!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04370",
+   "en": "Something scrambled their targeting. We've got a shot! Lieutenant Alenko, take the heat off Mannovai!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04371",
+   "en": "Damn it. We have to move! Anyone left from Mannovai, merge up with Jaeto. Lieutenant Alenko, with me.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04372",
+   "en": "They're calling sat-strikes! Jaeto, watch for comm stations! Alenko, can you see anything?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04373",
+   "en": "Aircraft heading to perimeter stations to recharge. Bunker up before they come back!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04374",
+   "en": "We're getting pounded! Bunker up before the aircraft return!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04375",
+   "en": "Shadow team must be getting close. Hold the line, men! Hold the line!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04376",
+   "en": "Holding ground. Jaeto, around me. Shadow team must be getting close.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04377",
+   "en": "Comm check. Do you read me, Commander?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04378",
+   "en": "Good. We'll start our push. We'll try to make it to the AA guns, but it might be up to you to finish the job.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04379",
+   "en": "And Commander? If you see any way to undermine their defenses, we could definitely use the help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04380",
+   "en": "Loud and clear.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04381",
+   "en": "It's fine. Let's move.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04382",
+   "en": "Affirmative.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_01_DSG_LOC",
+    "BIOA_UNC53_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04383",
+   "en": "Wonder why the geth were protecting that outpost?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04384",
+   "en": "The geth obviously don't want us getting near that outpost.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04385",
+   "en": "I wonder why the geth were guarding that outpost?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04386",
+   "en": "We should see if that outpost has any useful information.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04387",
+   "en": "Curious. The geth certainly wanted to keep us away from that outpost.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04388",
+   "en": "A geth flyer. It appears to be refueling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04389",
+   "en": "Geth flyer. Looks like it's refueling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04390",
+   "en": "It is a geth flyer that appears to be refueling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04391",
+   "en": "Geth flyer. Looks like its stuck refueling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04392",
+   "en": "Geth flyer. I think it's refueling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04393",
+   "en": "A geth flyer. Looks like it's refueling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04394",
+   "en": "We should take it out before it can go after Chief Williams and the others.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04395",
+   "en": "We should take it out before it can go after Lt. Alenko and the others.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04396",
+   "en": "Perhaps we should try to disable it before it can return to attack the other teams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04397",
+   "en": "Let's take it out before it can go back and harass the other teams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04398",
+   "en": "Perhaps we should prevent it from attacking the other teams.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG40_02_DSG_LOC",
+    "BIOA_JUG40_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04399",
+   "en": "We eliminate this base and Saren's going to feel it!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04400",
+   "en": "We need to wipe this whole base out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04401",
+   "en": "Let's clear this place out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04402",
+   "en": "I hope we can count on those salarians.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04403",
+   "en": "There is something foul in the air here.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04404",
+   "en": "This is a place of evil. It needs to be destroyed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04405",
+   "en": "Saren's experiments have to be stopped!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04406",
+   "en": "The salarians will do their part. Let's just make sure we do ours.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04407",
+   "en": "Saren needs to pay for what he's done to my people.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04408",
+   "en": "I'm going to tear this whole place down!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04409",
+   "en": "This place is an abomination. Saren's research must be destroyed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04410",
+   "en": "The salarians are counting on us, Shepard. We can't let them down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_00_DSG_LOC",
+    "BIOA_JUG80_00_DSG_LOC"
+   ]
+  }
+ ]
+}

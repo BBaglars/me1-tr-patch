@@ -1,0 +1,531 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/061",
+  "family": "WAR40V"
+ },
+ "entries": [
+  {
+   "key": "u18330",
+   "en": "... anybody. Is there anyone picking this up?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC",
+    "BIOA_WAR40_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18331",
+   "en": "Get away from that radio.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC",
+    "BIOA_WAR40_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18332",
+   "en": "[static] ... this is Juliana Baynham of Feros colony. Please help us... [static]",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC",
+    "BIOA_WAR40_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18333",
+   "en": "That's my mom. Stop. Stop the rover.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC",
+    "BIOA_WAR40_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18334",
+   "en": "That's my mom!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC",
+    "BIOA_WAR40_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18335",
+   "en": "We've reached the station. No hostiles in sight.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18336",
+   "en": "You owe us for this. The skyway is crawling with geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18337",
+   "en": "Package is secured. We're leaving now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18338",
+   "en": "Wait, shut down the comm! We've got incoming geth! Damn it, shut down the comm!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR40V_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18370",
+   "en": "Keep your guard up. This place is probably crawling with geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18371",
+   "en": "I think this situation falls under the \"shoot on sight\" category.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18372",
+   "en": "This was a research facility. A place of learning and knowledge. It should not have become a slaughter house.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18373",
+   "en": "We're not going to find many survivors in this base. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18374",
+   "en": "Time to clean this place out.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18375",
+   "en": "I doubt anyone's still alive in here. The geth are very thorough.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_00_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18376",
+   "en": "Looks like the geth are settling in nicely.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18377",
+   "en": "This area seems almost... serene. Typical geth pantomime of organic behavior.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18378",
+   "en": "Are they meditating? Why would a machine do that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18379",
+   "en": "You've got to be kidding me. Are they praying?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18380",
+   "en": "This area seems almost... serene. Intriguing behavior for a machine.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18381",
+   "en": "This area seems shrine-like. Why would a machine do that?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18382",
+   "en": "Lizbeth must have run when the power dropped. Let's follow her lead and find the exit.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18383",
+   "en": "Lizbeth must have run when the power dropped. Finding an exit sounds good.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18384",
+   "en": "Young Lizbeth must have run when the power fell. We should follow her lead and find an exit.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18385",
+   "en": "Lizbeth must have run for an exit when the power dropped.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18386",
+   "en": "Lizbeth probably ran for the exit when the power fell and the fields dropped.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18387",
+   "en": "Resistance will be extremely heavy once we are inside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18388",
+   "en": "Doesn't matter. We're their eviction notice.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18389",
+   "en": "They want something here. Why else would they bother with all this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18390",
+   "en": "They must want something from the ExoGeni systems. Why else would they bother with all this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18391",
+   "en": "What are they up to? There's no point to this unless they are looking for something.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18392",
+   "en": "The geth don't need much of an invitation to move in, do they?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18393",
+   "en": "The geth have moved in rather quickly.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18394",
+   "en": "The geth certainly don't waste time moving in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18395",
+   "en": "The geth are quick to move in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18396",
+   "en": "No way to burn through this shield with the weapons we have. We'll have to find another way in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18397",
+   "en": "Ain't getting though this with the gear we have. Has to be another way in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18398",
+   "en": "Our weapons can't touch a field like this. We'll need another way in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18399",
+   "en": "We can't scratch this field. We need another way in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18400",
+   "en": "Typical geth deployment. We'll need another route in.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18401",
+   "en": "Looks like a one-way trip down, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18402",
+   "en": "One-way drop, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18403",
+   "en": "A one-way trip down, Commander Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18404",
+   "en": "This looks like a one-way drop, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18405",
+   "en": "A one-way drop, Shepard.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18406",
+   "en": "Any other situation and I'd say it was a... shrine or something.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18407",
+   "en": "If they're looking for God, I can speed them on their way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18408",
+   "en": "Intriguing behavior for a machine species.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18409",
+   "en": "Why would a synthetic devote resources to something like this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC",
+    "BIOA_WAR50_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18410",
+   "en": "Whatever. I ain't here to \"learn their customs.\"",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_01_DSG_LOC",
+    "BIOA_WAR50_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18411",
+   "en": "Stupid machine! Access encrypted files!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18412",
+   "en": "Can't you geth straighten this thing out?",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18413",
+   "en": "No, I don't want to review protocol!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18414",
+   "en": "I am unable to comply. Please contact your supervisor.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18415",
+   "en": "Damn it. Tell me what I want or I'll blast your virtual ass into actual dust!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18416",
+   "en": "Please contact your supervisor for a Level 4 security exemption or make an appointment with--",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18417",
+   "en": "Stupid machine!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18418",
+   "en": "If there is nothing else, please step aside. There is a queue forming behind you for the use of this console.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18419",
+   "en": "Oh good. I really need to kill someone!",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u18420",
+   "en": "ExoGeni Corporation reminds all staff that the discharging of weapons while on company property is strictly forbidden.",
+   "tr": "",
+   "ctx": [
+    "BIOA_WAR50_05_DSG_LOC"
+   ]
+  }
+ ]
+}

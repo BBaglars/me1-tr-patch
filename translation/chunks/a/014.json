@@ -1,0 +1,589 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/014",
+  "family": "JUG20"
+ },
+ "entries": [
+  {
+   "key": "u04071",
+   "en": "Forget it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04092",
+   "en": "Good idea.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_JUG80_00_PLC_LOC",
+    "BIOA_JUG80_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04095",
+   "en": "Sounds dangerous.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_12tali_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04109",
+   "en": "How is that possible?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC",
+    "BIOA_NOR10_08liara_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04119",
+   "en": "I'd appreciate that, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_WAR20_03b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04163",
+   "en": "You bet, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04193",
+   "en": "What's going on?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_04_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u04198",
+   "en": "I don't like this.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_STA70_02council_DSG_LOC",
+    "BIOA_UNC24_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04203",
+   "en": "It's okay.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04207",
+   "en": "Wrex?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC",
+    "BIOA_STA30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04211",
+   "en": "You're right.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_JUG70_07_DSG_LOC",
+    "BIOA_LOS40_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04222",
+   "en": "What is it?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04230",
+   "en": "Are you kidding?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04231",
+   "en": "Now what?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC",
+    "BIOA_STA70_02council_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04248",
+   "en": "I should go.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_03_DS1_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04249",
+   "en": "Let me see what you have.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04252",
+   "en": "Show me your supplies.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04257",
+   "en": "What happened?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04289",
+   "en": "Move out!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_PRO10_05_DSG_LOC",
+    "BIOA_STA30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04291",
+   "en": "It had to be done.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_STA20_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04293",
+   "en": "I don't know.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA30_02B_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04326",
+   "en": "It's not that simple.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_JUG80_07_CIN_LOC",
+    "BIOA_JUG80_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04327",
+   "en": "I don't have time for this!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04330",
+   "en": "We are.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04506",
+   "en": "Yes, Commander.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_05_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04549",
+   "en": "Don't question me!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_05_DSG_LOC",
+    "BIOA_JUG_80_X_Outrun_CIN_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04574",
+   "en": "Kill him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_06_DSG_LOC",
+    "BIOA_STA60_02b_DSG_LOC",
+    "BIOA_WAR20_03b_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04608",
+   "en": "Forget about him.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_07_DSG_LOC",
+    "BIOA_PRO10_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04613",
+   "en": "Are you okay?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_07_DSG_LOC",
+    "BIOA_JUG_80_X_Outrun_CIN_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04644",
+   "en": "Let's hear it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_14_DSG_LOC",
+    "BIOA_STA60_08A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04654",
+   "en": "This is not good.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_14_DSG_LOC",
+    "BIOA_STA30_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04676",
+   "en": "You're lying!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_14_DSG_LOC",
+    "BIOA_PRO10_08_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04680",
+   "en": "Why are you doing this?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_14_DSG_LOC",
+    "BIOA_JUG80_07_CIN_LOC",
+    "BIOA_JUG80_07_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04682",
+   "en": "What's wrong?",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_14_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_12tali_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04684",
+   "en": "I don't understand.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_14_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04715",
+   "en": "I don't believe you.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_15_DSG_LOC",
+    "BIOA_STA20_10A_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u04718",
+   "en": "Too late.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG70_15_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC",
+    "BIOA_NOR10_09ashley_DS2_LOC"
+   ]
+  },
+  {
+   "key": "u04855",
+   "en": "You're a coward!",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG80_07_CIN_LOC",
+    "BIOA_JUG80_07_DSG_LOC",
+    "BIOA_JUG80_13_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u04911",
+   "en": "I'm sorry.",
+   "tr": "",
+   "ctx": [
+    "BIOA_JUG80_08_DSG_LOC",
+    "BIOA_JUG80_09_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05154",
+   "en": "Dr. T'soni?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05157",
+   "en": "How?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05217",
+   "en": "I believe her.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LAV70_06_DSG_LOC",
+    "BIOA_LAV70_07_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05254",
+   "en": "I never dreamed I would actually find Ilos!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC",
+    "BIOA_NOR10_08liara_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05409",
+   "en": "What are you?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_STA20_05_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05410",
+   "en": "Get to the point.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC",
+    "BIOA_NOR10_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05420",
+   "en": "It was necessary.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_NOR10_06wake_DSG_LOC",
+    "BIOA_STA20_10C_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05495",
+   "en": "What happened next?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_NOR10_12tali_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05500",
+   "en": "Go on.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA20_10C_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05505",
+   "en": "Just tell me what to do.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS40_05_DSG_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC",
+    "BIOA_NOR10_08liara_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05511",
+   "en": "Somebody was doing some serious digging here, Captain.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05512",
+   "en": "Find a spot to land near the excavation. Not too close. I don't want anyone to know we're here yet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05513",
+   "en": "Your team's the muscle in this operation, Commander. Go in heavy and head straight for the dig site.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05514",
+   "en": "What about survivors, Captain?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05515",
+   "en": "Helping survivors is a secondary objective. The beacon's your top priority.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05516",
+   "en": "Nihlus? You're coming with us?",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05517",
+   "en": "I move faster on my own.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05518",
+   "en": "Nihlus will scout out ahead. He'll feed you status reports throughout the mission; otherwise, I want radio silence.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05519",
+   "en": "The mission's yours now, Shepard. Good luck.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05520",
+   "en": "Ready and able, sir!",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  },
+  {
+   "key": "u05521",
+   "en": "Understood, Captain.",
+   "tr": "",
+   "ctx": [
+    "BIOA_NOR10_00_PLC_LOC",
+    "BIOA_NOR10_11_DS1_LOC"
+   ]
+  }
+ ]
+}

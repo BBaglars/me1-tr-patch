@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/065",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u27390",
+   "en": "The Galaxy Map is located in the middle of the command deck. To access it, ascend the deck, and select the holographic galaxy image. There are four levels to the map, each with varying degrees of detail for galactic navigation.\n\nPress the cross button to travel to any selected location. Press the square button to zoom out from your current view. Press the circle button to exit.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27391",
+   "en": "Galaxy Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27392",
+   "en": "A top-down view of the galaxy and star clusters connected by mass relays.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27393",
+   "en": "Cluster Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27394",
+   "en": "The star systems you can explore and a list of planetary bodies you can travel to in each system, including planets, asteroid fields, and space stations.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27395",
+   "en": "System Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27396",
+   "en": "A detailed view of the selected star system that includes data on the star and the planetary bodies you can explore.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27397",
+   "en": "Planetary Level",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27398",
+   "en": "Detailed features of the planetary body or object you are orbiting, including data and applicable plot elements.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27399",
+   "en": "Combat Details",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27400",
+   "en": "Combat HUD",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27401",
+   "en": "Press the square button to access the Combat HUD (heads-up display). Elements of the HUD include:\n\n1. Target Reticle: Targets objects in your environment. Enemies are highlighted red, and friendly objects are blue. Combat hazards are highlighted orange.\n\n2. Party Status Bar: Shows real-time status for squad health and shields. Also shows your squad's movement status.\n\n3. Radar: Shows enemies that are in target range. Also shows map pins from the in-game map.\n\n4. Selection Bar: Displays the name of a highlighted object.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27402",
+   "en": "Targeting",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27403",
+   "en": "Use the right stick to move the targeting reticle. Abilities and weapons fire at the center of your reticle.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27404",
+   "en": "A Target Assist icon highlights the enemy nearest the reticle. Press the L2 button to zoom to reticle view, increasing the accuracy of weapons that you are already trained on. (You can train on a weapon by spending Talent points on said weapon.)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27405",
+   "en": "Accuracy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27406",
+   "en": "Sustained weapons fire reduces accuracy over time. However, the more training you have on a weapon, the longer your accuracy remains.\n\nAccuracy is reduced through:\nKickback - Weapons fire produces a kickback effect that reduces\ntargeting accuracy.\n\nFatigue: Sprinting eventually causes exhaustion (Press the cross button to sprint or to storm an enemy.)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27407",
+   "en": "To access and use abilities, press and hold the R1 button to bring up the Power Wheel.\n\nUse the left stick to browse the abilities listed for every squadmate. Select an ability, and then press the cross button to queue it up as an action. \n\nYou can also press the square button to map the ability. Press the R1 button when you want to fire it off.\n\nUse the right stick to point somewhere in the world and direct the action. Each squadmate can have a single action declared. \n\nRelease the R1 button to fire the action and use the ability.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27408",
+   "en": "Squad Orders",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27409",
+   "en": "Use the directional buttons to issue squad orders on the field.\n\n-Press the up button to send them to the targeted location.\n-Press the down button to order them to take cover.\n-Press the right button to order them to attack the targeted enemy.\n-Press the left button to rally them to your position and then follow you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27410",
+   "en": "Pistols are highly accurate, have little recoil, and are easy to use while moving. They are effective at various ranges, but inflict limited damage. Soldier, Engineer, Adept, Vanguard, and Infiltrator classes can train with pistols.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27411",
+   "en": "Shotguns have high recoil and a slow rate of fire but inflict massive damage to multiple targets when fired at close range. Soldier and Vanguard classes can train with shotguns.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27412",
+   "en": "Assault rifles are the standard armament of most soldiers, offering a good balance between firepower, range, and accuracy. Only the Soldier class can train with assault rifles.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27413",
+   "en": "Sniper rifles are highly accurate at long range, inflicting significant damage. They are practically useless at close range, however, and have a limited rate of fire. Only Soldier and Infiltrator classes can train with sniper rifles.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27414",
+   "en": "Disc shaped Alliance grenades can glide long distances and also latch onto targets or flat surfaces to be remotely detonated. Only you, as Commander Shepard, can use grenades.\n\nPress the SELECT button to throw a grenade, and press the SELECT button again to detonate it. A grenade automatically explodes after ten seconds if you don't detonate it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27415",
+   "en": "Light armor offers a basic level of protection from enemy fire and minimizes the movement penalties that affect weapon accuracy. All classes can wear light armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27416",
+   "en": "Medium armor offers an increased level of protection but also increases the movement penalties that affect weapon accuracy. Soldiers can wear medium armor from the outset, but Vanguard and Infiltrator classes must train to wear it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27417",
+   "en": "Heavy armor offers the highest level of protection from enemy fire but also has the highest movement penalties affecting weapon accuracy. Only specially-trained frontline soldiers can wear it. No class can wear heavy armor, but the Soldier class can train to wear it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27418",
+   "en": "Equipment types include:\n- Armor\n- Assault Rifles\n- Bio-Amps\n- Grenades\n- Omni-Tools\n- Pistols\n- Shotguns\n- Sniper Rifles\n\n(Note that weapons and armor are covered in their own sections of this manual.)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27419",
+   "en": "Equipment Upgrades",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27420",
+   "en": "Upgrades enhance and customize equipment to increase damage, to boost shields, and more. You can only upgrade the following equipment types: armor, weapons, ammo, and grenades.\n\nEach piece of equipment has specific upgrade slots. For example, the ammo slot on a weapon can only be upgraded with an ammo upgrade.\n\nTo upgrade equipment, access the Mission Computer, and select Equipment. Choose the piece to upgrade from the lower-right selection belt, and then press the square button to view the Upgrade screen.\n\nTo upgrade ammo, select the applicable weapon, and then press the right button on the directional buttons to view the ammo upgrade. Press the cross button to confirm your upgrade and exit.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27421",
+   "en": "Bio-Amps",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27422",
+   "en": "Biotics can strengthen their power in specific biotic disciplines by using amps (amplifiers). These specially designed devices often come in the form of small electronic attachments worn on the ear or the back of the head.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27423",
+   "en": "Omni-Tools",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27424",
+   "en": "Omni-tools are multipurpose diagnostic and minifacturing tools used for a variety of battlefield tasks such as hacking, decryption, or repair.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27425",
+   "en": "Containers: Found on every planet and often hold valuable equipment and resources. Containers look like metal footlockers or cargo crates. You cannot place items in them.\n\nOmni-Gel: Technological materials that can be salvaged from the environment are called omni-gel. Use it with the omni-tool to do electrical or decryption work. You can also use omni-gel to repair the Mako vehicle.\n\nCredits: The primary monetary unit in the Mass Effect universe.\n\nMedi-Gel: Medical gel heals various wounds and ailments. You acquire it through looting or from NPCs (non-player characters). You can also purchase an increase in your medi-gel capacity in some shops. Press the triangle button to deploy First Aid.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27426",
+   "en": "Squad Data",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27427",
+   "en": "Select Squad on the Mission Computer to display information available on each squad member. The information includes:\n\nCurrent Level:\nAs you gain experience, your current level reflects your advancement. When you gain enough experience to advance to a new level, you are granted Talent points that you can spend to purchase higher ranks or additional talents.\n\nHealth:\nYour current and maximum health levels are listed. Health represents your ability to take damage in combat. When your health hit zero, Shepard dies. Your maximum health increases as you advance during gameplay.\n\nExperience Points:\nYour current XP is listed as well as the total points that are needed to advance to the next level.\n\nParagon and Renegade Meters:\nThese meters track your choices throughout the game. The Paragon meter increases when your choices are noble, cooperative, or self-sacrificing. Paragons achieve their goals by doing the right thing in the right way. The Renegade meter increases when your choices are aggressive, selfish, or ruthless. Renegades achieve their goals by any means necessary.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27428",
+   "en": "Squad Selection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27429",
+   "en": "Use the Squad Selection screen to recruit a balanced squad based on the combat, tech, and biotic talents of each potential squadmate.\n\nUse the left button and the right button on the directional buttons to cycle through available squadmates. Press the square button to add or remove a squadmate, and press the triangle button at any time to review your squad. Press the cross button to accept the assembled squad.\n\nYou can only choose squadmates in two circumstances:\n1) When you first encounter a new squadmate.\n2) When leaving the Normandy.\n\nChoose your squad with care. When you leave the Normandy, you might not have the opportunity to change your squad until you can return.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27430",
+   "en": "How to Navigate to an Uncharted World",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27431",
+   "en": "To land on a planet via the Galaxy Map, select Cluster Navigation, System Navigation, and then Planetary Landings.\n\nAfter landing on a planet, explore its terrain in your Mako, which comes equipped with powerful sensors that detect alien enemies, technological anomalies, and resources.\n\nUse your Mission Computer map on an uncharted world to discover what is nearby. Press the cross button to set a destination at your current cursor location, which then displays as an arrow on the in-game radar.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27432",
+   "en": "How to Leave an Uncharted World",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27433",
+   "en": "When you're ready to leave an uncharted world:\n\n1. Press the START button to call up the Mission Computer, and then select Map.\n2. Press the square button to return to the Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27434",
+   "en": "The Mako Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27435",
+   "en": "Mako Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27436",
+   "en": "\n\nTo get you and your squad into the Mako, select it and press the cross button.\n\nMove the left stick to drive the Mako, and move the right stick to rotate the view. Press the cross button to jump-jet over rough terrain or dodge enemy fire.\n\nPress the L2 button to zoom the gun camera, press the R1 button to fire the cannon, and press the R2 button to fire the machine gun.\n\nTo leave the Mako, find safe, stable ground, and then press the circle button. Be aware of the hazard level outside before departing as you will only survive for a short time in hostile atmospheres.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27437",
+   "en": "Mako Controller Mapping",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27438",
+   "en": "Mako Vehicle HUD",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27439",
+   "en": "The Vehicle HUD displays the health and shield levels for squadmates as well the Mako's weapons and equipment status.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27440",
+   "en": "Mako Repair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27441",
+   "en": "You can spend omni-gel to repair the Mako in the field by pressing the triangle button. Before doing so, however, you must stop the Mako, remain inside, and cease weapons fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27442",
+   "en": "A talent is an area of expertise that can improve as you progress in the game. As you gain experience, you acquire Talent points that you can spend to improve aspects of your character.\n\nThe talents available to you and your squad are determined by the class selected in the Character Creation. At activations phases, marked with icons on the talent, you unlock new abilities or other talents.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27443",
+   "en": "Combat Talents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27444",
+   "en": "Pistols: Improves pistol accuracy and damage. Activates the Marksman ability that lets you fire more quickly and accurately for a short time.\n\nShotguns: Improves shotgun accuracy and damage. Activates the Carnage ability that lets you fire a huge blast.\n\nAssault Rifles: Improves assault rifle accuracy and damage. Activates the Overkill ability that lets you fire longer, more accurate bursts.\n\nSniper Rifles: Improves sniper rifle accuracy and damage. Activates the Assassination ability that increases the damage of your next sniper shot.\n\nArmor: Improves the amount of damage your armor absorbs and, depending on your class, allows you to equip heavier armor. Activates the Shield Boost ability that resets the cooldown times on all talents so they can be used immediately.\n\nFitness: Boosts your health, upping the maximum damage you can withstand before dying. Activates the Immunity ability that increases damage protection for a short period of time.\n\nSpectre Training: Increases health, accuracy, and the effectiveness of all attacks and powers. Activates the Unity ability that lets you revive squadmates if they fall in combat.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27445",
+   "en": "Tech Talents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27446",
+   "en": "Damping: Increases the explosion radius of your tech mines. Activates the Damping Field ability, which suppresses enemy tech and biotic abilities.\n\nDecryption: Allows you to spend omni-gel to override the security systems of doors and containers. Activates the Sabotage ability that quickly disables enemy weapons.\n\nHacking: Increases the recharge speed of your tech proximity mines. Activates the AI Hacking ability that makes robotic enemies attack everyone around them.\n\nElectronics: Increases shield strength and lets you bypass security systems of some locked objects. Activates the Overload ability that damages or disables enemy shields.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27447",
+   "en": "Biotic Talents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27448",
+   "en": "Throw: Generates a biotic field, allowing you to throw nearby enemies and objects.\n\nLift: Generates a biotic field that allows you to lift enemies and objects into the air.\n\nWarp: Generates a biotic field that slowly tears apart anything it hits, causing damage and temporarily reducing armor effectiveness.\n\nSingularity: Generates a biotic field that causes enemies and objects to fly and violently smash into each other.\n\nBarrier: Generates a biotic field that absorbs weapons fire.\n\nStasis: Generates a biotic field that surrounds and isolates anything it touches, preventing enemies from moving or attacking but also blocking damage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27449",
+   "en": "Additional Talents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27450",
+   "en": "Charm: Increases Charm options in conversations, and decreases the credits needed when purchasing items in stores.\n\nIntimidate: Increases Intimidate options in conversations, and increases the credits earned when selling items in stores.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27451",
+   "en": "Class Talents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27452",
+   "en": "Certain talents are inherent to each character class:\n\nSoldier: Improves health and health regeneration.\n\nEngineer: Reduces recharge time of tech abilities, and increases tech resistance.\n\nAdept: Reduces recharge time of biotic abilities, and increases biotic resistance.\n\nInfiltrator: Increases damage delivered by tech mines, and reduces overheating of sniper rifles and pistols.\n\nSentinel: Reduces recharge time of tech and biotic abilities, increases damage and accuracy of pistols, and grants the Marksman ability.\n\nVanguard: Increases biotic resistance and damage of shotguns and pistols.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27453",
+   "en": "Talent Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27454",
+   "en": "You and your squadmates have a list of talents representing each character's capabilities, strengths, and training. By spending talent points on these, certain aspects of the character become stronger and eventually open up new attacks, buffs, proficiencies, and skills.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27455",
+   "en": "Talent Points",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27456",
+   "en": "Use your talent points to purchase higher ranks. \n\nPress the START button to go to the Mission Computer, and then choose Squad. Use the directional buttons to select a talent, and then press the cross button to spend talent points to increase your rank by one.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27457",
+   "en": "Specialization boosts class-specific talents. After completing an optional Systems Alliance Military assignment, choose a specialization for your character to increase the maximum talent points you can spend on class-specific talents.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27458",
+   "en": "Manual",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27459",
+   "en": "Game data is corrupt. Please exit the game, delete the Mass Effect™ game data, and try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27460",
+   "en": "Mass Effect™ Game Data",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27461",
+   "en": "Game data required to play Mass Effect™ will be installed now. Please do not turn off your system while the data is being written.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27462",
+   "en": "Requirement: Complete Playthrough\nReward: Gold Trophy\nUnlock Hardcore Difficulty\nUnlock Character Levels 51-60",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27463",
+   "en": "Requirement: Complete Feros\nReward: Silver Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27464",
+   "en": "Requirement: Complete Eden Prime\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27465",
+   "en": "Requirement: Complete Virmire\nReward: Silver Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27466",
+   "en": "Requirement: Complete Noveria\nReward: Silver Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27467",
+   "en": "Requirement: Complete Two Playthroughs\nReward: Silver Trophy\nWeapon damage increased by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27468",
+   "en": "Requirement: Complete Hardcore Playthrough\nReward: Silver Trophy\nInsanity difficulty unlocks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27469",
+   "en": "Requirement: Complete Insanity Playthrough\nReward: Gold Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27470",
+   "en": "Requirement: Log 150 Pistol Kills\nReward: Bronze Trophy\nMarksman duration increases by 25%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27471",
+   "en": "Requirement: Log 150 Shotgun Kills\nReward: Bronze Trophy\nShotguns talent unlocks for all future characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27472",
+   "en": "Requirement: Log 150 Assault Rifle Kills\nReward: Bronze Trophy\nAssault Rifles talent unlocks for all future characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27473",
+   "en": "Requirement: Log 150 Sniper Rifle Kills\nReward: Bronze Trophy\nSniper Rifles talent unlocks for all future characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27474",
+   "en": "Requirement: Use Biotic Lift 75 Times \nReward: Bronze Trophy\nLift talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27475",
+   "en": "Requirement: Use Biotic Throw 75 Times\nReward: Bronze Trophy\nThrow talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27476",
+   "en": "Requirement: Use Biotic Warp 75 Times\nReward: Bronze Trophy\nWarp talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27477",
+   "en": "Requirement: Use Biotic Singularity 75 Times\nReward: Bronze Trophy\nSingularity talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27478",
+   "en": "Requirement: Use Biotic Barrier 75 Times\nReward: Bronze Trophy\nBarrier talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27479",
+   "en": "Requirement: Use Biotic Stasis 75 Times\nReward: Bronze Trophy\nStasis talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27480",
+   "en": "Requirement: Use Damping Field 75 Times\nReward: Bronze Trophy\nDamping talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27481",
+   "en": "Requirement: Use AI Hacking 75 Times\nReward: Bronze Trophy\nHacking talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27482",
+   "en": "Requirement: Use Overload 75 Times\nReward: Bronze Trophy\nOverload talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27483",
+   "en": "Requirement: Use Sabotage 75 Times\nReward: Bronze Trophy\nSabotage talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27484",
+   "en": "Requirement: Use Medi-Gel 150 Times\nReward: Bronze TrophyFirst Aid talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27485",
+   "en": "Requirement: Use Neural Shock 75 Times\nReward: Bronze Trophy\nMedicine talent unlocks for all subsequent characters on this profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27486",
+   "en": "Requirement: Find All Primary Codex Entries on Alien: Council Races, Extinct Races, and Non-Council Races\nReward: Silver Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27487",
+   "en": "Requirement: Complete the Majority of the Game\nReward: Silver Trophy\nExperience rewards increase by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27488",
+   "en": "Requirement: Complete Playthrough with Shield Damage Greater than Health Damage\nReward: Silver Trophy\nShield strength increases by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27489",
+   "en": "Requirement: Land on an Uncharted World\nReward: Silver Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27490",
+   "en": "Requirement: Exceed 1,000,000 Credits \nReward: Silver Trophy\nAccess Spectre Gear through Normandy Requisitions Officer and C-Sec Requisitions Officer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27491",
+   "en": "Requirement: Log 150 Organic Enemy Kills\nReward: Bronze Trophy\nIncrease health by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27492",
+   "en": "Requirement: Log 250 Synthetic Enemy Kills\nReward: Bronze Trophy\nIncrease shield strength by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27493",
+   "en": "Requirement: Complete Majority of the Game with Alliance Soldier Squad Member\nReward: Bronze Trophy\nDamage Reduction improves by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27494",
+   "en": "Requirement: Complete Majority of the Game with Alliance Sentinel Squad Member\nReward: Bronze Trophy\nLift and Throw recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27495",
+   "en": "Requirement: Complete Majority of the Game with Krogan Squad Member\nReward: Bronze Trophy\nRegenerate 1 health per second",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27496",
+   "en": "Requirement: Complete Majority of the Game with Turian Squad Member\nReward: Bronze Trophy\nDamping and Overload recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27497",
+   "en": "Requirement: Complete Majority of the Game with Quarian Squad Member\nReward: Bronze Trophy\nSabotage and AI Hacking recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27498",
+   "en": "Requirement: Complete Majority of the Game with Asari Squad Member\nReward: Bronze Trophy\nStasis and Barrier recharge time improve by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27499",
+   "en": "Requirement: Reach Level 50\nReward: Bronze Trophy\nAll experience rewards increase by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27500",
+   "en": "Requirement: Reach Level 60\nReward: Silver Trophy\nAll experience rewards improve by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27501",
+   "en": "Requirement: Earn 75% of Total Possible Renegade Points\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27502",
+   "en": "Requirement: Earn 75% of Total Possible Paragon Points\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27503",
+   "en": "Requirement: Complete Romance Subplot\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27504",
+   "en": "Requirement: Become a Spectre\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27505",
+   "en": "Requirement: Resolve an Impossible Situation with Charm or Intimidate\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27506",
+   "en": "Requirement: Locate Liara in Artemis Tau Cluster\nReward: Bronze Trophy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27507",
+   "en": "1.1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27508",
+   "en": "1.2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27509",
+   "en": "1.3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27510",
+   "en": "1.4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27511",
+   "en": "1.5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27512",
+   "en": "1.6",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27513",
+   "en": "1.7",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27514",
+   "en": "1.8",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27515",
+   "en": "1.9",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27516",
+   "en": "2.1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27517",
+   "en": "2.2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27518",
+   "en": "2.3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27519",
+   "en": "2.4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27520",
+   "en": "2.5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27521",
+   "en": "2.6",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27522",
+   "en": "2.7",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27523",
+   "en": "2.8",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27524",
+   "en": "2.9",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27525",
+   "en": "2.10",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27526",
+   "en": "2.11",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27527",
+   "en": "2.12",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27528",
+   "en": "2.13",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27529",
+   "en": "2.14",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27530",
+   "en": "3.1",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27531",
+   "en": "3.2",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27532",
+   "en": "3.3",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27533",
+   "en": "3.4",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27534",
+   "en": "3.5",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27535",
+   "en": "3.6",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27536",
+   "en": "3.7",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27537",
+   "en": "3.8",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27538",
+   "en": "3.9",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u27539",
+   "en": "3.10",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

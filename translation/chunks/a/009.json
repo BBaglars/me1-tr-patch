@@ -1,0 +1,1504 @@
+{
+ "meta": {
+  "lane": "a",
+  "task": "t119",
+  "chunk": "a/009",
+  "family": "ICE20"
+ },
+ "entries": [
+  {
+   "key": "u01113",
+   "en": "A research station on Noveria has reportedly been destroyed. The exact cause is currently unknown.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01114",
+   "en": "A salarian excavation team has run into an unexpected problem after unearthing a Prothean dig site.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01115",
+   "en": "In entertainment news, Francis Kitt has announced plans to direct \"Hamlet\" with elcor cast members.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01116",
+   "en": "Treaty negotiations between the Alliance and the salarian republic have finally concluded.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01117",
+   "en": "When asked why communication with the survey team was suddenly cut off last week, company officials refused to comment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01118",
+   "en": "ExoGeni Corp recently released an official statement regarding their missing survey team in the Hades Gamma cluster.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01119",
+   "en": "According to the statement, the remains of the survey team were discovered not far from their abandoned research camp. There were no survivors.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01120",
+   "en": "It is believed the researchers were the victims of a random attack by raiders or mercenaries. Names will be released after next of kin are notified.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01121",
+   "en": "C-Sec has declined to press charges in the death of human Conrad Verner, who was killed yesterday morning after assaulting a group of turians in a restaurant in the Wards.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01122",
+   "en": "Reporter Khalisah al-Jilani recently attempted to land an interview with Commander Shepard, the first human Spectre.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01123",
+   "en": "When pressed on the issues, however, Commander Shepard reportedly lost control and assaulted the reporter.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01124",
+   "en": "Commander Shepard answered difficult questions, demonstrating that under the military uniform is a keen diplomatic mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01125",
+   "en": "Terra Firma Party candidate Charles Saracino confirms that the first human Spectre endorsed his candidacy.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01126",
+   "en": "Admiral Kahoku, a respected member of the Alliance military, has passed away.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01127",
+   "en": "Because Verner initiated the assault, it has been ruled self-defense. Ambassador Udina has no plans to appeal the ruling.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01128",
+   "en": "Alliance officials have raided a dangerous cult controlled by a former Alliance officer, Major Kyle.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01129",
+   "en": "The biotics commandeered a freighter and were last seen in the Hades Gamma cluster. No demands have yet been made.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01130",
+   "en": "Technicians are reportedly unsure of what caused the malfunction, or even what the system was originally designed to do.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01131",
+   "en": "C-Sec is investigating the possible vandalism or misuse of public property.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01132",
+   "en": "In the event of future geth activity, the Alliance plans to maintain a strong security presence in the area.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01133",
+   "en": "Major Kyle and his cultists refused to surrender and were killed in the resulting firefight.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01134",
+   "en": "Major Kyle surrendered and is now being treated for severe post-traumatic stress disorder.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01135",
+   "en": "The veteran soldier, who won the love of his troops during conflict with the batarians, died of natural causes.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01136",
+   "en": "Kahoku is survived by his wife and three children, who are planning a small, private memorial service. ",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01137",
+   "en": "A daring Alliance raid killed the biotics. Miraculously, none of the researchers were harmed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01138",
+   "en": "Drugged researchers were used as human shields, and there were several civilian casualties in the ensuing Alliance raid.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01139",
+   "en": "The facility is expected to re-open soon, with tighter security measures in place.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01140",
+   "en": "The drugged researchers attacked Alliance soldiers, and the rescue operation became a brutal massacre.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01141",
+   "en": "The research center is unlikely to re-open in the near future.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01142",
+   "en": "Raids by a criminal warlord had recently disrupted mining operations in the area.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01143",
+   "en": "After negotiations with the Alliance military, however, the warlord has allowed mining operations to resume.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01144",
+   "en": "The warlord was subsequently killed, however, and infighting among his lieutenants has made future raids unlikely.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01145",
+   "en": "Nonya Tombiri has been arrested and removed from her post as administrator of the Caleston mining station.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01146",
+   "en": "Administrator Nonya Tombiri of the Caleston mining station has vanished and is presumed dead following a violent incident at her offices.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01147",
+   "en": "Local officials have not provided details, but Tombiri was allegedly involved with the Caleston Cartel, a group of red sand dealers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01148",
+   "en": "Administrator Tombiri's successor has not yet been named.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01149",
+   "en": "Administrator Tombiri of the Caleston mining station reports that the Caleston Cartel has been brought to justice.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01150",
+   "en": "The Cartel, a powerful group of red sand dealers, has defied authorities for years.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01151",
+   "en": "EAE, which owns the Caleston mining facility, was reportedly pleased that the Cartel is no longer operating in its station.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01152",
+   "en": "ExoGeni officials have announced that their research colony on Feros is being shut down.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01153",
+   "en": "Difficult living conditions combined with poor yield of viable discoveries made it unfeasible economically to keep the colony going.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01154",
+   "en": "After years of poor economic performance, ExoGeni has announced that its research colony on Feros is finally returning a profit.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01155",
+   "en": "New discoveries and a dedicated colonization effort have finally paid off for ExoGeni.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01156",
+   "en": "ExoGeni's stock rose sharply with the announcement, with investors pleased at this surprising news.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01157",
+   "en": "Given the research conducted on Noveria, many are blaming the destruction on an experiment gone awry.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01158",
+   "en": "Reports indicate that Administrator Anoleis died during the disaster. A new administrator has yet to be appointed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01159",
+   "en": "Administrator Anoleis currently faces criminal charges as a result of the disaster, although the nature of the charges remains unclear.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01160",
+   "en": "Administrator Anoleis has released few details, except to say that investigations and repairs are ongoing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01161",
+   "en": "Hanar protesters have blockaded the dig site, claiming that artifacts of \"the Enkindlers\", as the hanar call them, should not be disturbed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01162",
+   "en": "The excavation team has appealed to hanar representatives on the Citadel to reach a diplomatic solution.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01163",
+   "en": "The production will open dramatic theater to the elcor with a Hamlet who uses elcor body language and pheromones.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01164",
+   "en": "Kitt claims that he is also excited by giving a human audience the chance to judge Hamlet by his deeds and not his emotions.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01165",
+   "en": "Binary Helix has settled out-of-court with a krogan group that had accused the genetics corporation of fraud.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01166",
+   "en": "The krogan group had contracted Binary Helix to perform studies with a long-range goal of curing their genetic sterilization.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01167",
+   "en": "The group later sued for a return of investment money when the study produced no viable results.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01168",
+   "en": "Salarian officials are complaining that the Alliance made unreasonable demands in hard-line negotiation tactics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01169",
+   "en": "The resulting deal, negotiated by Elias Keeler, will bring billions of credits to the Alliance.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01170",
+   "en": "Salarians praised the openness and flexibility of Alliance negotiators in pursuing a deal that benefited both sides.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01171",
+   "en": "The deal was brokered by new Alliance negotiator Thomas Kent after his mentor Elias Keeler withdrew, citing health reasons.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01172",
+   "en": "Unfortunately, Shepard refused to answer questions, raising concerns regarding the Spectre's commitment to humanity.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01173",
+   "en": "We'll have exclusive footage later today.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01174",
+   "en": "Coming up in a report later today, Emily Wong investigates corruption on the Citadel and uncovers a full-blown crime syndicate.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01175",
+   "en": "Have increases in Citadel traffic endangered our safety? Emily Wong offers an inside look at the dangerous world of space-traffic control.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01176",
+   "en": "Later today, Emily Wong goes inside the fast-paced world of space-traffic controllers with an exclusive interview.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01177",
+   "en": "The Council isn't going to ask me any questions, are they?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01178",
+   "en": "I can't believe the Council ignored all the evidence against Saren!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01179",
+   "en": "Welcome to Port Hanshan, the galaxy's most respected site for independent scientific research and development.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01180",
+   "en": "In light of the recent attack on Eden Prime, many colonial investors are pulling their support for future projects.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01181",
+   "en": "In remembrance of Eden Prime, we present another profile in courage with Serviceman Nirali Bhatia.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01182",
+   "en": "Reports are circulating that Alliance Ambassador Udina has accused a Spectre of orchestrating the attack on Eden Prime.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01183",
+   "en": "In a further developments in the Eden Prime investigation, the Council has reportedly revoked the Spectre status of one of its operatives.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01184",
+   "en": "Celebrations are being planned for the anniversary of the end of the Rachni Wars.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01185",
+   "en": "Many Council worlds, particularly asari and salarian colonies, will hold victory parades to commemorate the defeat of the invading rachni.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01186",
+   "en": "In a rare admission of debt, several asari colonies have invited krogan to be honored for the victories the uplifted krogan made possible.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01187",
+   "en": "A devoted wife and talented chef, Serviceman Bhatia joined the Alliance military under the deferred education plan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01188",
+   "en": "After finishing her service, Bhatia planned to open a restaurant. Instead, she gave her life protecting the colonists of Eden Prime.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01189",
+   "en": "For more profiles in courage, or to explore opportunities in the military, please visit the Alliance military on the extranet, keyword \"courage\".",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01190",
+   "en": "Udina reportedly based his accusation upon eyewitness accounts of the scene, but lacked the evidence to demand further investigation.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01191",
+   "en": "When asked to comment, a Council spokesperson would only state that the investigation of the attacks upon Eden Prime was currently ongoing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01192",
+   "en": "While the unnamed operative has not yet been apprehended, a Council spokesman confirmed that corrective actions had been taken.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01193",
+   "en": "I doubt it. We've made our reports. Now we just have to trust Ambassador Udina.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01194",
+   "en": "No we don't, sir.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01195",
+   "en": "Saren's one of their best operatives. It's only natural that they'd take his word over ours.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01196",
+   "en": "Oh, so now we just chase leads while this smug turian runs around with his geth troopers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01197",
+   "en": "That's politics, Chief.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01198",
+   "en": "I hate politics.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01199",
+   "en": "I'm going to enjoy the look on the Council's face when they see evidence they can't just ignore.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01200",
+   "en": "I just hope it isn't too late. All this time we spent hunting for evidence gave Saren a nice head start.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01201",
+   "en": "There's no way the Council can ignore us this time. Saren's days as a Spectre are done.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01202",
+   "en": "If they had listened to me earlier, Saren would already be in custody. Every life lost because of that delay is on the Council's head.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01203",
+   "en": "Don't congratulate yourself too much. All this time you were hunting for evidence, Saren was moving forward with his plan.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01204",
+   "en": "If the evidence is worth trying to kill me for, I hope it is sufficient to motivate the Council.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01205",
+   "en": "You know, Saren would already be in custody if you'd gone straight to the Council with your information.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01206",
+   "en": "A lone quarian with no credentials? The  Council would laugh me out of the chambers. That is, if Saren hadn't killed me by then.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01207",
+   "en": "Watch yourself out there. Fai Dan said we wouldn't have any cover.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01208",
+   "en": "I imagine I've been in as many trench fights as you have, Lieutenant... if not more.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01209",
+   "en": "Keep your head down out there. Fai Dan said we wouldn't have any cover.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01210",
+   "en": "I shall endeavor to follow your lead.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01211",
+   "en": "Are you certain that this is the proper path? Fai Dan said we would not have cover from the geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01212",
+   "en": "Commander Shepard is choosing the best option. We can take the geth. The tunnels are an unknown quantity.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01213",
+   "en": "Multiple opponents and no cover makes for a difficult fight. Be careful out there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01214",
+   "en": "At least the geth are a known quantity. Who knows what the beasts in the tunnels are like?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01215",
+   "en": "This is going to be bad, isn't it? Fai Dan said there was no cover out there.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01216",
+   "en": "I'll take a tough fight over tunnels. In a tunnel, they always know where you are.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01217",
+   "en": "For your own safety, and to protect the privacy of others, you are required to obey any directions given by our security personnel.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01218",
+   "en": "If you have questions or concerns, our friendly administrative staff is always available. Thank you, and enjoy your stay.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01219",
+   "en": "I have studied the Protheans for decades, but I have never felt this sense of foreboding. What will we find down there?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01220",
+   "en": "Whatever we find, be cautious. If this were simply an automated trap, Saren would have triggered it as well.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01221",
+   "en": "If this were simply an automated trap, Saren would have triggered it. What do you think this is?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01222",
+   "en": "Whatever it is, we should be careful.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01223",
+   "en": "What do you think we're going to find down here? It has to be useful, if it specifically targeted us.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01224",
+   "en": "I don't know. I just hope that whatever's down here is friendly. We've got enough enemies at the moment.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01225",
+   "en": "Whatever's down here is Prothean, right? So it has to be on our side, against the Reapers.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01226",
+   "en": "I'm not putting faith in anybody being on our side. Not any more.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01227",
+   "en": "What the hell is down here? Is this just another trap, or did we finally run into some good luck?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01228",
+   "en": "Don't get your hopes up. The only thing we can depend on right now is ourselves.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01229",
+   "en": "Proponents of expanded human colonization insist that Eden Prime was an isolated case. Nevertheless, colonist enrollment has dropped sharply.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01230",
+   "en": "Many colonial proposals are on hold until backers have some reassurance that human colonies will be adequately protected.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01231",
+   "en": "All their culture, all their advanced technology, and the Protheans were taken in by the Reapers, just as we were. They failed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01232",
+   "en": "Just like my people. But they also gave us a chance to save ourselves. We must hurry!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01233",
+   "en": "It's tragic. For all their great achievements, the Protheans lost everything, just like my people. Even their last plan failed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01234",
+   "en": "The Protheans did not fail. They gave us a chance. It falls to us to make the most of it, so I suggest we hurry.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01235",
+   "en": "So many races look up to the Protheans as paragons of civilization. But they were fooled by the Reapers, just as we were. They failed.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01236",
+   "en": "Not entirely. They've given us a weapon. They've given us a chance... if we can just get there in time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01237",
+   "en": "So many dead for a plan that accomplished nothing. Saren gets through the Conduit, the Reapers arrive, and the Protheans fail.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01238",
+   "en": "We can get there in time. Their plan only fails if we do, and I've come too far to watch Saren win.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01239",
+   "en": "I can't believe it. So many dead, and it was all for nothing. The Protheans fell right into the Reapers' trap, just like we did.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01240",
+   "en": "Keep it moving. I've got no intention of ending up like them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_02_PLC_LOC",
+    "BIOA_LOS40_05_PLC_LOC",
+    "BIOA_STA30_00_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u01267",
+   "en": "I'm leaving.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_STA60_07A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01355",
+   "en": "Not right now.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_STA60_05A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01417",
+   "en": "Excellent.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01444",
+   "en": "I don't think so.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA30_02A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01450",
+   "en": "Yes.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_ICE20_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01478",
+   "en": "What's in it for me?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01480",
+   "en": "My pleasure.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_STA20_02A_DSG_LOC",
+    "BIOA_UNC31_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01501",
+   "en": "So what?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE60_14_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01507",
+   "en": "I am.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_06lockerl_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01536",
+   "en": "I'm a Spectre.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_ICE50_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01550",
+   "en": "Thanks.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_06lockera_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01551",
+   "en": "About time.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_STA70_02council_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01559",
+   "en": "Glad to help.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_STA20_06consort_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01563",
+   "en": "Yes, ma'am!",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03A_DSG_LOC",
+    "BIOA_NOR10_01patton_DSG_LOC",
+    "BIOA_NOR10_02_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01664",
+   "en": "That's better.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_NOR10_06kaidan_DSG_LOC",
+    "BIOA_NOR10_06lockerk_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01668",
+   "en": "I'll do it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_NOR10_03_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01679",
+   "en": "Not yet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_ICE20_08_DSG_LOC",
+    "BIOA_ICE60_06_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01698",
+   "en": "What was the job?",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01710",
+   "en": "Have it your way.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_NOR10_11_DSG_LOC",
+    "BIOA_STA60_05women_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01718",
+   "en": "I understand.",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_JUG20_08_DSG_LOC",
+    "BIOA_NOR10_04_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01720",
+   "en": "[View Armor]",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u01721",
+   "en": "[View Upgrades]",
+   "tr": "",
+   "ctx": [
+    "BIOA_ICE20_03D_DSG_LOC",
+    "BIOA_STA20_04A_DSG_LOC"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/012",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u20002",
+   "en": "Noveria is a cool, rocky world, with most of its hydrosphere locked up in massive glaciers. A privately-chartered colony world, the planet is owned by the Noveria Development Corporation holding company. The NDC is funded by investment capital from two dozen high technology development firms, and administrated by an Executive Board representing their interests.\n\nThe investors built remote hot labs in isolated locations across Noveria’s surface. These facilities are used for research too dangerous or controversial to be performed elsewhere, as Noveria is technically not part of Citadel space and therefore exempt from Council law. \n\nBy special arrangement, Citadel Special Tactics and Reconnaissance agents have been granted extraterritorial privileges, but it remains to be seen how committed the Executive Board is to that principle. Given its unique situation, it is understandable that Noveria is often implicated in all manner of wild conspiracy theories.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20003",
+   "en": "Planets: Noveria",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20004",
+   "en": "Virmire is a lush world located on the frontier of the Attican Traverse. Its vast seas and orbital position on the inner life zone have created a wide equatorial band of humid, tropical terrain. Only the political instability of the region has impeded efforts at colonization.\n\nMany times, the Citadel has opened negotiations to settle Virmire with the various criminal gangs and petty dictatorships in the nearby Terminus Systems. All fell apart due to internal power shifts within the opposing parties. The Citadel has written off the colonization of Virmire as impossible without significant political change.\n\nThe Terminus powers themselves are unlikely to ever settle Virmire. Most lack the resources to support settlement of a virgin world, finding it more expedient to steal from their neighbors than build for themselves.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20005",
+   "en": "Planets: Virmire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20006",
+   "en": "The Terminus Systems are located on the far side of the Attican Traverse, beyond the space administered by the Citadel Council or claimed by the human Systems Alliance. It is populated by a loose affiliation of minor species, united only in their refusal to acknowledge the political authority of the Council or adhere to the Citadel Conventions.\n\nTheir independence comes at a price; the Terminus is fraught with conflict. War among the various species is common, as governments and dictators constantly rise and fall. The region is a haven for illegal activities, particularly piracy and the slave trade.\n\nAt least once a year, a fleet from Terminus invades the nearby Attican Traverse. These attacks are typically small raids against poorly-defended colonies. The Council rarely retaliates, as sending patrols into the Terminus Systems could unify the disparate species against their common foe, triggering a long and costly war.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20007",
+   "en": "Region: Terminus Systems",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20008",
+   "en": "There are between two and four hundred billion stars in the galaxy, and less than 1% of them have ever been visited or had their systems properly surveyed.\n\nHumanity’s early expansion into the Attican Traverse was haphazard; a desperate race to claim habitable planets where populations can be economically settled. Ignored in the wake of this land grab were thousands of less hospitable worlds, each potentially rich with industrial resources. The wealth of entire solar systems lies untapped, waiting for corporate survey teams or independent pioneers to discover and exploit them.\n\nThis, however, is not an easy task. In addition to the environmental hazards, the fact that uncharted worlds are largely ignored makes them popular bases for criminals, revolutionaries, cults, and others who wish to remain unnoticed by galactic society.\n\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20009",
+   "en": "Uncharted Worlds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20010",
+   "en": "The Alliance is the government and military of humanity beyond Sol.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20011",
+   "en": "Humanity and the Systems Alliance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20012",
+   "en": "The homeworld and capital of humanity is entering a new golden age. The resource wealth of a dozen settled colonies and a hundred industrial outposts flows back to Earth, fueling great works of industry, commerce, and art. The great cities are greening as arcology skyscrapers and telecommuting allow more efficient use of land. \n\nEarth is still divided among nation-states, though all are affiliated beneath the overarching banner of the Systems Alliance. While every human enjoys a longer and better life than ever, the gap between rich and poor widens daily. Advanced nations have eliminated most genetic disease and pollution. Less fortunate regions have not progressed beyond 20th century technology, and are often smog-choked, overpopulated slums.\n\nSea levels have risen two meters in the last 200 years, and violent weather is common due to environmental damage inflicted during the late 21st century.  The past few decades, however, have seen significant improvement due to recent technological advances.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20013",
+   "en": "Humanity’s first contact with an alien race occurred in 2157. At that time, the Alliance allowed survey fleets to activate any dormant mass relays discovered, a practice considered dangerous and irresponsible by Council-aligned races. When a turian patrol discovered a human fleet attempting to activate a relay, they attacked. One human vessel survived, retreating to the colony of Shanxi.\n\nThe turians followed, quickly defeating the local forces. Shanxi was occupied, the first - and, to date, only - human world to be conquered by an alien species. The turians believed the handful of ships they defeated represented the bulk of human defenses. So they were unprepared when the Second Fleet under Admiral Kastanie Drescher launched a strong counteroffensive, evicting them from Shanxi.\n\nThe turians mobilized for full-scale war, drawing the attention of the rest of the galaxy. The Council quickly intervened, forcing a truce. Fortunately for humanity, the First Contact War was ended with a diplomatic solution.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20014",
+   "en": "First Contact War",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20015",
+   "en": "The Systems Alliance is an independent supranational government representing the interests of humanity as a whole. The Alliance is responsible for the governance and defense of all extra-solar colonies and stations.\n\nThe Alliance grew out of the various national space programs as a matter of practicality. Sol’s planets had been explored and exploited through piecemeal national efforts. The expense of colonizing entire new solar systems could not be met by any one country. With humans knowing that alien contact was inevitable, there was enough political will to jointly fund an international effort.\n\nStill, the Alliance was often disregarded by those on Earth until the First Contact War. While the national governments dithered and bickered over who should lead the effort to liberate Shanxi, the Alliance fleet struck decisively. Post-War public approval gave the Alliance the credibility to establish its own Parliament and become the galactic face of humanity.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20016",
+   "en": "Systems Alliance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20017",
+   "en": "The everyday pieces of technology that support the modern lifestyle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20018",
+   "en": "Technology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20019",
+   "en": "Biotics is the ability of rare individuals to manipulate dark energy and create mass effect fields through the use of electrical impulses from the brain. Intense training and surgically-implanted amplifiers are necessary for a biotic to produce mass effect fields powerful enough for practical use. The relative strength of biotic abilities varies greatly among species and with each individual.\n\nThere are three branches of biotics. TELEKINESIS uses mass-lowering fields to levitate or impel objects. Mass-raising KINETIC FIELDS are used to block or pin objects. DISTORTION uses rapidly shifting mass fields to shred objects.\n\nMost organic species are capable of developing biotic abilities, though there are risks involved. Biotics are the result of in-utero exposure to element zero. This usually causes fatal cancers in the victim, but in rare cases it coalesces into nodules within the fetus’s developing nervous system.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20020",
+   "en": "Biotics",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20021",
+   "en": "A virtual intelligence is an advanced form of user interface software. VIs use a variety of methods to simulate natural conversation, including an audio interface and an avatar personality to interact with. Although a VI can provide a convincing emulation of sentience, they are not self-aware, nor can they learn or take independent action.\n\nVIs are used as operating systems on commercial and home computers. Minimal VI 'agents' are also available. Agents are compact and specialized. Some serve as personal secretaries, filtering calls and scheduling meetings based on user-defined priorities. Others are advanced search engines, propagating themselves across the extranet to collate user-requested data.\n\nCommercial VIs in a variety of stock personalities are available at any software retailer. Boutique firms and hobbyists also build unique VIs to personal specification. Although software emulation of living personalities is illegal, reconstructions of famous historical figures are common.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20022",
+   "en": "Computers: Virtual Intelligence (VI)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20023",
+   "en": "When subjected to an electrical current, the rare material dubbed element zero, or 'eezo', emits a dark energy field that raises or lowers the mass of all objects within it. This 'mass effect' is used in countless ways, from generating artificial gravity to manufacturing high-strength construction materials. It is most prominently used to enable faster-than-light space travel.\n\nEezo is generated when solid matter, such as a planet, is affected by the energy of a star going supernova. The material is common in the asteroid debris that orbits neutron stars and pulsars. These are dangerous places to mine, requiring extensive use of robotics, telepresence, and shielding to survive the incredible radiation from the dead star. Only a few major corporations can afford the set-up costs required to work these primary sources.\n\nHumanity discovered refined element zero at the Prothean research station on Mars, allowing them to create mass effect fields and develop FTL travel.\n\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20024",
+   "en": "Element Zero (\"Eezo\")",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20025",
+   "en": "Element zero can increase or decrease the mass of a volume of space-time when subjected to an electrical current. With a positive current, mass is increased. With a negative current, mass is decreased. The stronger the current, the greater the magnitude of the dark energy mass effect.\n\nIn space, low-mass fields allow FTL travel and inexpensive surface-to-orbit transit. High-mass fields create artificial gravity and push space debris away from vessels. In manufacturing, low-mass fields permit the creation of evenly-blended alloys, while high mass compaction creates dense, sturdy construction materials.\n\nThe military makes extensive use of mobility enhancing technologies, with mass effect utilizing fighting vehicles standard front-line issue in most military forces. Mass effect fields are also essential in the creation of kinetic barriers or shields to protect against enemy fire.\n\n ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20026",
+   "en": "Mass Effect Fields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20027",
+   "en": "Omni-tools are handheld devices that combine a computer microframe, sensor analysis pack, and minifacturing fabricator. Versatile and reliable, an omni-tool can be used to analyze and adjust the functionality of most standard equipment, including weapons and armor, from a distance.\n\nThe fabrication module can rapidly assemble small three-dimensional objects from common, reusable industrial plastics, ceramics, and light alloys. This allows for field repairs and modifications to most standard items, as well as the reuse of salvaged equipment. \n\nOmni-tools are standard issue for soldiers and first-in colonists.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20028",
+   "en": "WARNING: One or more memory units contain Downloadable Content. You may experience slight performance problems. Do not remove memory units during gameplay. Removing a memory unit will return you to the Start screen.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20029",
+   "en": "All charges disarmed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20030",
+   "en": "You spoke with Rita, a waitress at Flux. She's concerned for her sister, who is working undercover for C-Sec. Rita thinks her sister, Jenna, is in over her head, but she can't convince her to stop.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20031",
+   "en": "Citadel: Rita's Sister",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20032",
+   "en": "Rita, a waitress at Flux in the Upper Wards, is concerned about her sister, Jenna. If you want to help, speak with her.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20033",
+   "en": "Speak with Rita",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20034",
+   "en": "Landline",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20035",
+   "en": "Fix fuel lines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20036",
+   "en": "Make Cure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20037",
+   "en": "Charge Disarmed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20038",
+   "en": "Browse Ranks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20039",
+   "en": "Exit Ranks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20040",
+   "en": "Initializing Downloadable Content.  Please do not remove memory unit(s).",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20041",
+   "en": "Spectre Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20042",
+   "en": "First Time to Citadel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20043",
+   "en": "Sabotage Beacon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20044",
+   "en": "Pistol Whip",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20045",
+   "en": "Wall Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20046",
+   "en": "Overload Beacon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20047",
+   "en": "Damping Mine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20048",
+   "en": "Military Specialization",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20049",
+   "en": "Feros: Varren Meat",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20050",
+   "en": "Hurry",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20051",
+   "en": "You met a volus scientist named Jahleed. He's in the C-Sec offices and refuses to leave for fear that his life is in danger. He claims that his colleague, a salarian named Chorban, is trying to kill him. The details are a bit vague.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20052",
+   "en": "Citadel: Jahleed's Fears",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20053",
+   "en": "After discovering what Chorban and Jahleed were up to, you had Jahleed arrested. The work he stole from his company will be returned to the rightful owner.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20054",
+   "en": "Citadel: Jahleed Arrested",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20055",
+   "en": "Jahleed paid you a reasonable fee to keep his secret about his stolen research. He will continue his clandestine study of the keepers, but will no doubt be more discreet about it from now on.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20056",
+   "en": "Citadel: Jahleed Set Free",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20057",
+   "en": "You convinced Jahleed to stop his illegal study of the keepers and return the data he stole. Judging by his reaction, it's safe to assume he'll keep his word.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20058",
+   "en": "Citadel: Jahleed Returns Materials",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20059",
+   "en": "Jahleed wants you to talk to Chorban for him. The salarian will meet you in the lower markets.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20060",
+   "en": "Talk to Chorban",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20061",
+   "en": "Jahleed wasn't telling you the whole truth. You can find him at the C-Sec Academy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20062",
+   "en": "Talk to Jahleed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20063",
+   "en": "Chorban ambushed you and was killed for his efforts. Before he died, you learned that Jahleed wasn't telling you the whole truth. He and Chorban were stealing from the company they worked for and doing illegal research on the keepers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20064",
+   "en": "Citadel: Jahleed's Secret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20065",
+   "en": "Chorban ambushed you, but you let him off with a warning. Before he left, he told you Jahleed didn't tell you the whole truth. He and Chorban were stealing from the company they worked for and doing illegal research on the keepers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20066",
+   "en": "Speak with Jahleed if you want to help him. He's hiding at the C-Sec Academy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20067",
+   "en": "Speak with Jahleed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20068",
+   "en": "Yunthorl",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20069",
+   "en": "Shrouded by a thick atmosphere of complex hydrocarbons, Yunthorl has never been fully mapped. The surface is hot, and completely covered by a global ocean of liquid hydrocarbons. There are indications of primitive organic life developing deep within the global ocean.\n\nOrbital Period: 5.8 Earth Years\nRadius: 5905 km\nDay Length: 55.2 Earth Hours\nAtmospheric Pressure: 2.1 Earth Atmospheres\nSurface Temperature: 68 Celsius\nSurface Gravity: 0.8 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20070",
+   "en": "Trelyn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20071",
+   "en": "Antitarra is a standard hydrogen-helium gas giant with traces of ammonia. Hydrocarbons in the atmosphere lend it a distinct brown tint.\n\nOrbital Period: 52.0 Earth Years\nRadius: 35,417 km\nDay Length: 14.7 Earth Hours",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20072",
+   "en": "Xawin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20073",
+   "en": "Trelyn is a lifeless rock with a trace atmosphere of xenon and krypton. Its surface contains large amounts of iron and magnesium silicates. Due to heavily cratered terrain, starships are discouraged from landing. A salarian religious cult claims that a certain pattern of overlapping craters in the southern hemisphere resembles their goddess.\n\nOrbital Period: 74.9 Earth Years\nRadius: 1163 km\nDay Length: 36.7 Earth Hours\nAtmospheric Pressure: 0.00 Earth Atmospheres\nSurface Temperature: -147 Celsius\nSurface Gravity: 0.1 G",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20074",
+   "en": "Antitarra",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20075",
+   "en": "Long extinct volcanic peaks protrude through the thick glaciers that now encase this large planet. What little light penetrates the cold atmosphere is likely obscured by the perpetual blizzard that wracks its surface.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20076",
+   "en": "StunT Club",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20077",
+   "en": "A problem occurred while saving the game. No game session data was preserved. Please try again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20078",
+   "en": "Good",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20079",
+   "en": "Poor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20080",
+   "en": "Excellent",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20081",
+   "en": "May O'Connell has asked you to find replacement power cells in the ruins of Zhu's Hope, in order to restore power to the colony.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20082",
+   "en": "You recovered the power cells and delivered them to May O'Connell, giving her the chance to restore power to the colony.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20083",
+   "en": "Search the tunnels beneath Zhu's Hope to find the missing power cells.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20084",
+   "en": "Find Cells",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20085",
+   "en": "Now that you have the power cells, bring them to May O'Connell.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20086",
+   "en": "Deliver Cells to May O'Connell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20087",
+   "en": "Davin Reynolds wants to solve the colony's food shortage by supplementing rations with varren meat. However, he cannot hunt safely until you remove the dangerous alpha varren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20088",
+   "en": "You have defeated the alpha varren and informed Davin Reynolds. The colonists can now begin hunting varren for food.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20089",
+   "en": "Find and kill the alpha varren in the tunnels beneath Zhu's Hope.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20090",
+   "en": "Find Alpha Varren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20091",
+   "en": "Now that the alpha varren has been killed, inform Davin Reynolds that it is safe to hunt the varren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20092",
+   "en": "Inform Davin Reynolds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20093",
+   "en": "Macha Doyle has asked you to find and activate water valves in the tunnels beneath Zhu's Hope to restore water to the colony.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20094",
+   "en": "You have successfully restored water to Zhu's Hope.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20095",
+   "en": "Search through the tunnels beneath Zhu's Hope to find the water valves.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20096",
+   "en": "Find Water Valves",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20097",
+   "en": "You need to find more valves to restore water to the colony. Keep looking through the tunnels.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20098",
+   "en": "Find More Valves",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20099",
+   "en": "You have restored water to the colony. Inform Macha Doyle so she can get to work.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20100",
+   "en": "Inform Macha Doyle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20101",
+   "en": "You cleared the geth from the tower, but there are still geth in the tunnels. Finding and destroying the geth transmitter will give Zhu's Hope a better chance of survival.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20102",
+   "en": "You have destroyed the geth transmitter and informed Fai Dan. Zhu's Hope is safe from the immediate threat of the geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20103",
+   "en": "Hunt in the tunnels beneath Zhu's Hope for remaining geth forces and their transmitter.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20104",
+   "en": "Find the Geth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20105",
+   "en": "Tell Fai Dan that you have destroyed the geth transmitter.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20106",
+   "en": "Inform Fai Dan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20107",
+   "en": "Feros: Data Recovery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20108",
+   "en": "A technician named Gavin Hossle has asked you to recover data from his console at the ExoGeni base. Once you have the data, return to Gavin for a reward.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20109",
+   "en": "You have recovered Gavin Hossle's mod-design data and delivered it to him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20110",
+   "en": "Hossle's console is located in the ExoGeni base. Find it and download the data onto the OSD that he gave you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20111",
+   "en": "Find the Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20112",
+   "en": "Hossle's OSD",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20113",
+   "en": "Return to Gavin Hossle at the refugee camp and give him the OSD that contains his data.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20114",
+   "en": "Deliver OSD to Hossle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20115",
+   "en": "Dr. Chloe Michel is being blackmailed. Someone learned about her dismissal from a previous employer and the circumstances surrounding it. Now, if she doesn't give these people her supplies they're threatening to go public with what they know.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20116",
+   "en": "Citadel: Doctor Michel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20117",
+   "en": "You dealt with the blackmailer. Thanks to you, Dr. Michel is now free to continue her work in the clinic.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20118",
+   "en": "Citadel: Doctor Michel is Safe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20119",
+   "en": "The doctor is being blackmailed. Speak to her at the Med Clinic in the Upper Wards if you want to help.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20120",
+   "en": "Talk to Doctor Michel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20121",
+   "en": "Find Morlan and put a stop to the blackmailing. He's a merchant in the Lower Wards Markets.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20122",
+   "en": "Talk to Morlan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20123",
+   "en": "The blackmailer is dealt with. Talk to Doctor Michel at the Med Clinic in the Upper Wards and let her know she's safe again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20124",
+   "en": "You worked out a deal with Chellick, the C-Sec officer, and now Jenna is no longer working undercover for C-Sec.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20125",
+   "en": "Citadel: Rita's Sister is Safe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20126",
+   "en": "Jenna is working at Chora's Den in the Lower Wards. Speak to her and try to find out if she really is in danger.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20127",
+   "en": "Talk to Jenna",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20128",
+   "en": "Chellick bumped into you at Chora's Den. He told you to meet him at the C-Sec Academy if you wanted to help Jenna.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20129",
+   "en": "Talk to Chellick",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20130",
+   "en": "Chellick wants you to pick up a weapons shipment from the arms dealers in the Lower Wards Markets. He doesn't want you to cause any trouble.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20131",
+   "en": "Make the Pickup",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20132",
+   "en": "Head to Flux in the Upper Wards and tell Rita that Jenna is no longer working for C-Sec.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20133",
+   "en": "Talk to Rita",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20134",
+   "en": "Jenna is working for Detective Chellick at C-Sec. Chellick is adamant that he needs Jenna to stay put, but he's suggested a solution that might allow her to leave.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20135",
+   "en": "Citadel: Rita's Sister and Chellick",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20136",
+   "en": "Take the weapons shipment to Chellick at the C-Sec Academy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20137",
+   "en": "Return the Shipment to Chellick",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20138",
+   "en": "Weapons Shipment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20139",
+   "en": "UNC: Privateers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20140",
+   "en": "You've discovered the body of a man named Willem, who was evidently killed by privateers. His datalogs mention a brother named Garoth back on the Citadel. Garoth will likely want to know of his brother's fate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20141",
+   "en": "You have informed Garoth that his brother Willem died. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20142",
+   "en": "Find a man named Garoth in the Citadel Tower. Tell him that his brother Willem has been killed by privateers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20143",
+   "en": "Find Garoth",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20144",
+   "en": "UNC: Lost Module",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20145",
+   "en": "Paragon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20146",
+   "en": "Renegade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20147",
+   "en": "UNC: Rogue VI",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20148",
+   "en": "Head to the Sol System in the Local Cluster and deal with the rogue VI on Earth's moon.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20149",
+   "en": "Engage VI",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20150",
+   "en": "Selected Save Game could not be loaded. Downloadable Content missing from XBox. Module(s) in question: ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u20151",
+   "en": "A quirky salarian named Schells was thrown out of Flux for cheating at the gambling machines. He says he wasn't actually cheating. He was just gathering data to create a cheating system. What could be wrong with that?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

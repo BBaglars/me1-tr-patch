@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/025",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u21593",
+   "en": "Systems Designers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21594",
+   "en": "Technical Animators",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21595",
+   "en": "Technical Artists",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21596",
+   "en": "Technical Designers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21597",
+   "en": "Tools Programming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21598",
+   "en": "Visual Effects Artists",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21599",
+   "en": "Writers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21600",
+   "en": "Art Director",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21601",
+   "en": "Executive Producers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21602",
+   "en": "Lead Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21603",
+   "en": "Lead Programmer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21604",
+   "en": "Lead Writer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21605",
+   "en": "Assistant External Resources Producer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21606",
+   "en": "Audio and External Resources Producer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21607",
+   "en": "Cinematic Systems Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21608",
+   "en": "Combat Programming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21609",
+   "en": "Digital Actor Programming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21610",
+   "en": "Graphics and Performance Programming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21611",
+   "en": "Graphics Programmers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21612",
+   "en": "GUI Artists",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21613",
+   "en": "Lead Combat Programmer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21614",
+   "en": "Lead Digital Actor Programming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21615",
+   "en": "Lead Level Artists",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21616",
+   "en": "Project Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21617",
+   "en": "Casey Hudson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21618",
+   "en": "Preston Watamaniuk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21619",
+   "en": "Emily Wong",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21620",
+   "en": "Drew Karpyshyn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21621",
+   "en": "Derek Watts",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21622",
+   "en": "David Falkner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21623",
+   "en": "Ray Muzyka (CEO)\nGreg Zeschuk (President)",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21624",
+   "en": "Jonathan Cooper",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21625",
+   "en": "Chris Hale\nMark How\nRick Li\nMarc-Antoine Matton\nDave Wilkinson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21626",
+   "en": "Tony de Waal\nNick DiLiberto\nMike Higgins\nRyan Kemp\nBrad Kinley\nColin Knueppel\nPasquale LaMontagna\nParrish Ley\nGreg Lidstone\nJoel MacMillan\nSherridon Routley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21627",
+   "en": "Cristian Enciso\nKees Rijnen",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21628",
+   "en": "Tim Appleby\nMatt Charlesworth\nFrancis Lacuna\nRyan Lim\nSteve Runham\nSean Smailes\nJaemus Wurzbach",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21629",
+   "en": "Fran Gaulin\nSung Kim\nMatthew Rhodes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21630",
+   "en": "Don Arceta\nKally Chow\nTristan Clarysse\nNolan Cunningham\nBoali Dashtestani\nMichael Jeffrey\nNoel Lukasewich\nChris Ryzebol\nMarcel Silva\nMike Smith\nJason Spykerman\nNeil Valeriano\nGina Welbourn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21631",
+   "en": "Brian Chung\nJeff Vanelle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21632",
+   "en": "Alim Chaarani\nTrevor Gilday\nAndrew Melnychuk-Oseen\nRyan Rosanky\nJacky Xuan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21633",
+   "en": "Matt Besler\nVance Dylan\nMichael Peter\nJeremie Voillot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21634",
+   "en": "Jonathan Epp\nJames Henley\nNathan Moller\nJonathan Perry\nArmando Troisi",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21635",
+   "en": "Jason Attard\nJason Booth\nGeorg Zoeller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21636",
+   "en": "Rick Burton\nKeith Hayward\nDavid Sitar\nPeter Thomas\nKeith Warner\nJohn Winski",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21637",
+   "en": "Luke Kristjanson\nChris L'Etoile\nMac Walters\nPatrick Weekes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21638",
+   "en": "Steve Lam\nNathan Plewes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21639",
+   "en": "Sophia Chan\nPat LaBine\nDon Yakielashek",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21640",
+   "en": "Marc Audy\nRobert Babiak\nNoel Borstad\nSkye Boyes - XGen Studios, Inc.\nJason Ewasiuk\nDan Fessenden\nPrashan Gunasingam\nDan Hein\nBrenon Holmes\nRyan Hoyle\nMark Jaskiewicz\nOliver Jauncey\nDon Moar\nDaniel Morris\nChristina Norman\nChris Orthner\nChris Ozeroff\nChris Petkau\nRejean Poirier\nShawn Potter\nPaul Roffel\nZousar Shaker\nJanice Thoms\nCraig Welburn\nJohn Wetmiller",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21641",
+   "en": "Chris Christou\nAndy Desplenter\nBlake Grant\nCarson Knittig\nStefan Lednicky\nChris Mihalick\nBrent Scriver\nKris Tan\nJon Thompson\nRyan Warden\nTom Zaplachinski",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21642",
+   "en": "Marwan Audeh\nSophia Chan\nPat LaBine\nDon Yakielashek",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21643",
+   "en": "Noel Borstad\nJason Ewasiuk\nChris Ozeroff\nCraig Welburn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21644",
+   "en": "Andy Desplenter\nBlake Grant\nCarson Knittig\nStefan Lednicky\nChris Mihalick\nBrent Scriver\nJon Thompson\nRyan Warden\nTom Zaplachinski",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21645",
+   "en": "Guillaume Bourbonnière\nBilly Buskell\nDerrick Collins\nMitchell T. Fujino\nRyan Loe\nBrian Mills\nIain Stevens-Guille",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21646",
+   "en": "Vanessa Alvarado\nZachery Blanchette\nReid Buckmaster\nChris Buzon\nChris Corfe\nJames Farmer\nAndrew Gauthier\nDarren Gilday\nStanley Hunt\nRaymond Huot\nAndrea Hussey\nThomas Jalbert\nChris Johnstone\nJack Lamden\nArone Le Bray\nMichael Liaw\nJonathan Pacholuk\nRichard Poulin\nKyle Shewchuk\nAmeet Thandi\nKevin Therrien\nMalcom Tough\nThomas Trachimowich\nDaniel Trottier\nTayce Wilson",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21647",
+   "en": "Sasha Beliaev\nKen Finlayson\nShane Hawco\nEric Poulin\nRion Swanson\nRob Sugama\nJillian Tamaki",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21648",
+   "en": "Rafael Brown\nCharly Carlos\nEric Fagnan\nChris Hepler\nScott Horner\nMike Laidlaw\nPaul Marino\nKevin Martens\nAidan Scanlan\nKris Schoneberg\nJay Turner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21649",
+   "en": "Chris Blackbourn\nHoward Chung\nJordan Dubuc - XGen Studios, Inc.\nJan Goh\nMichael Graves - gskinner.com\nChris Johnson\nScott Meadows\nJames Redford\nSydney Tang\nJulie West\nGraham Wihlidal\nPeter Woytiuk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21650",
+   "en": "Shane Welbourn",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21651",
+   "en": "Ben Hindle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21652",
+   "en": "Mike Spalding",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21653",
+   "en": "Nelson Housden",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21654",
+   "en": "Mike Trottier",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21655",
+   "en": "Adrien Cho",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21656",
+   "en": "Shareef Shanawany",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21657",
+   "en": "Steven Sim",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21658",
+   "en": "Ken Thain",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21659",
+   "en": "Dusty Everman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21660",
+   "en": "Cookie Everman",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21661",
+   "en": "Yanick Roy",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21662",
+   "en": "Corey Andruko",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21663",
+   "en": "Shauna Perry",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21664",
+   "en": "Teresa Cotesta\nMelanie Fleming",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21665",
+   "en": "John Campbell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21666",
+   "en": "Marwan Audeh",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21667",
+   "en": "Darren Wong",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21668",
+   "en": "Matt Peters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21669",
+   "en": "Jonathan Baldwin\nRob Krajcarski\nMatt Peters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21670",
+   "en": "Kris Tan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21671",
+   "en": "Chris Orthner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21672",
+   "en": "Scott Langevin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21673",
+   "en": "Alain Baxter",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21674",
+   "en": "Fist's OSD",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21675",
+   "en": "Start mixing",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21676",
+   "en": "Failed to make cure",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21677",
+   "en": "Cure created",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21678",
+   "en": "Y",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21679",
+   "en": "Background Profile for Commander Shepard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21680",
+   "en": "Personal History Summary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21681",
+   "en": "Both of your parents were in the Alliance military. Your childhood was spent on ships and stations as they transferred from posting to posting. Following in your parents' footsteps, you enlisted at the age of eighteen.\n\nOne of your first missions was an expedition to investigate Akuze, a lush world on the outskirts of Alliance space that had suddenly dropped out of contact. Arriving on the surface, your patrol found the settlement intact, but there were no survivors.\n\nAt nightfall, the thresher maws struck - mindless abominations of teeth and tentacles that rose from beneath the earth. Constant gunfire couldn't drown out the shrieks of your fellow soldiers as they were dragged down to a gruesome death.\n\nFifty marines died on Akuze. You were the only one to make it back to the landing zone alive. A monument on the planet commemorates the massacre, a grim reminder of the price humanity must pay as they spread throughout the stars.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21682",
+   "en": "Profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21683",
+   "en": "Born into a naval family, you spent your childhood on ships and stations. You moved from posting to posting as your parents were reassigned. You enlisted in the Alliance military yourself on the day you turned eighteen.\n\nYou were on shore leave at Elysium when the first wave of the Skyllian Blitz struck. A massive coalition force of slavers, crime syndicates, and batarian warlords attacked the human colony, determined to wipe it out.\n\nYou rallied the civilian inhabitants, leading them in their desperate fight to hold off the invaders. When enemy troops broke through the colony's defenses, you single-handedly held them off and sealed the breach.\n\nAfter hours of brutal fighting, reinforcements finally arrived and the enemy broke ranks and fled. Because of your actions, Elysium was saved, and you are regarded throughout the Alliance as a true hero.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21684",
+   "en": "Born into a naval family, you spent your childhood on ships and stations. You moved from posting to posting as your parents were reassigned, and it was only natural you would follow in their footsteps by enlisting in the Alliance military when you came of age.\n\nAfter several years of service, you joined the campaign to rid the Skyllian Verge of batarian slavers and other criminal elements. The final battle came when Alliance forces laid siege to Torfan, a slaver base built miles below the surface of a desolate moon. The superiority of the human fleet was wasted in the assault on the underground bunker, but you led a corps of elite ground troops into the heart of the enemy base.\n\nNearly three-quarters of your own squad perished in the vicious close-quarters fighting... a cost you were willing to pay to make sure not a single slaver made it out of Torfan alive.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21685",
+   "en": "You were raised on Mindoir on the fringes of the Attican Traverse. When you were sixteen, the colony was raided by slavers. The entire settlement was razed and your friends and family were slaughtered. A passing Alliance patrol rescued you, but all you loved was destroyed.\n\nYou enlisted with the Alliance military, eventually volunteering to go to Akuze, a colony that had mysteriously dropped out of contact. As soon as it arrived on the surface, your patrol was attacked by thresher maws - mindless abominations of teeth and tentacles that rose up from beneath the earth. Constant gunfire couldn't drown out the shrieks of your fellow soldiers as they were dragged down to a gruesome death.\n\nFifty marines died on Akuze; you were the only one to make it back to the landing zone alive. A monument on the planet commemorates the massacre, a grim reminder of the price humanity must pay as they spread throughout the stars.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21686",
+   "en": "You were raised on Mindoir on the fringes of the Attican Traverse. When you were sixteen, the colony was raided by slavers. The entire settlement was razed and your friends and family were slaughtered. A passing Alliance patrol rescued you, but all you loved was destroyed.\n\nYou enlisted with the Alliance military and were posted at Elysium. You were there during the Skyllian Blitz, an attack on the colony by a massive coalition force of slavers, crime syndicates, and batarian warlords.\n\nYou rallied the civilian inhabitants, leading them in their desperate fight to hold off the invaders. When enemy troops broke through the colony's defenses, you single-handedly held them off and sealed the breach.\n\nAfter hours of brutal fighting, reinforcements finally arrived and the enemy broke ranks and fled. Because of your actions, Elysium was saved, and you are regarded throughout the Alliance as a true hero.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21687",
+   "en": "You were raised on Mindoir on the fringes of the Attican Traverse. When you were sixteen, the colony was raided by slavers. The entire settlement was razed and your friends and family were slaughtered. A passing Alliance patrol rescued you, but all you loved was destroyed.\n\nYou enlisted with the Alliance military, joining the long and bloody campaign to rid the Skyllian Verge of batarian slavers and other criminal elements. The final battle came when Alliance forces laid siege to Torfan, a slaver base built miles below the surface of a desolate moon. The superiority of the human fleet was wasted in the assault on the underground bunker, but you led a corps of elite ground troops into the heart of the enemy base.\n\nNearly three-quarters of your own squad perished in the vicious close-quarters fighting, a cost you were willing to pay to make sure not a single slaver made it out of Torfan alive.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21688",
+   "en": "You were born on Earth, but you never knew your parents. A child of the streets, you learned to live by your wits and guts, surviving in the hidden underbelly of the megatropolises of humanity's homeworld.\n\nEager to find a better life, you joined the Alliance military when you came of age. You volunteered for an expedition to Akuze: a lush world on the outskirts of Alliance space that had suddenly dropped out of contact. Arriving on the surface your patrol found the settlement intact, but no survivors.\n\nAt nightfall, the thresher maws struck - mindless abominations of teeth and tentacles that rose up from beneath the earth. Constant gunfire couldn't drown out the shrieks of your fellow soldiers as they were dragged down to a gruesome death.\n\nFifty marines died on Akuze; you were the only one to make it back to the landing zone alive. A monument on the planet commemorates the massacre, a grim reminder of the price humanity must pay as they spread throughout the stars.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21689",
+   "en": "You were born on Earth, but you never knew your parents. A child of the streets, you learned to live by your wits and guts, surviving in the hidden underbelly of the megatropolises of humanity's home world.\n\nEager to find a better life, you joined the Alliance military when you came of age. You were on shore leave at Elysium when the first wave of the Skyllian Blitz struck. A massive coalition force of slavers, crime syndicates, and batarian warlords attacked the human colony, determined to wipe it out.\n\nYou rallied the civilian inhabitants, leading them in their desperate fight to hold off the invaders. When enemy troops broke through the colony's defenses, you single-handedly held them off and sealed the breach.\n\nAfter hours of brutal fighting, reinforcements finally arrived and the enemy broke ranks and fled. Because of your actions, Elysium was saved, and you are regarded throughout the Alliance as a true hero.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21690",
+   "en": "You were born on Earth, but you never knew your parents. A child of the streets, you learned to live by your wits and guts, surviving in the hidden underbelly of the megatropolises of humanity's home world.\n\nEager to find a better life, you joined the Alliance military when you came of age. You were assigned to the campaign to rid the Skyllian Verge of batarian slavers and other criminal elements. The final battle came when Alliance forces laid siege to Torfan, a slaver base built miles below the surface of a desolate moon. The superiority of the human fleet was wasted in the assault on the underground bunker, but you led a corps of elite ground troops into the heart of the enemy base.\n\nNearly three-quarters of your own squad perished in the vicious close-quarters fighting... a cost you were willing to pay to make sure not a single slaver made it out of Torfan alive.\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21691",
+   "en": "B",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21692",
+   "en": "Take ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21693",
+   "en": "Optical Storage Disc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21694",
+   "en": "You found an OSD containing information about Fist's illegal activities. Someone will likely want to get their hands on this information.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21695",
+   "en": "A reporter might be interested in the OSD containing Fist's illegal activities. It could make a good story. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21696",
+   "en": "Deliver OSD",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21697",
+   "en": "Fist's office at Chora's Den in the Lower Wards might have more information about the criminal activities Emily wants to find. Head there and search the office.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21698",
+   "en": "Return to Fist's Office",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21699",
+   "en": "Flyer refueling",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21700",
+   "en": "Summon",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21701",
+   "en": "Scroll",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21702",
+   "en": "Citadel Control Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21703",
+   "en": "Convert this item into omni-gel?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21704",
+   "en": "Are you sure you wish to turn this upgrade into omni-gel?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21705",
+   "en": "One or more upgrades could not be transferred. Upgrade(s) moved to regular inventory.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21706",
+   "en": "Emergency Access to Citadel Council Chambers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21707",
+   "en": "Recovering Artifact",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21708",
+   "en": "Turian Wreckage",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21709",
+   "en": "Geth Transport",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21710",
+   "en": "Legend",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21711",
+   "en": "Vehicle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21712",
+   "en": "Store",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21713",
+   "en": "Destination",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21714",
+   "en": "Squad Member",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21715",
+   "en": "Plot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21716",
+   "en": "Mineral",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21717",
+   "en": "Point of Interest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21718",
+   "en": "Surveyed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21719",
+   "en": "Transition",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21720",
+   "en": "Set Destination",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21721",
+   "en": "Clear Destination",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21722",
+   "en": "Confirm your ID as Cmdr. Jane Shepard, Alliance Marine.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21723",
+   "en": "Destroying the neural node seemed to hurt the Thorian. Find more neural nodes to cause more damage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21724",
+   "en": "Find More Neural Nodes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21725",
+   "en": "Train Controls",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21726",
+   "en": "Disarm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21727",
+   "en": "Tell Fai Dan that the geth have been cleared from the tower.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21728",
+   "en": "You have completed 502quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21729",
+   "en": "502Quest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21730",
+   "en": "you have completed 502task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21731",
+   "en": "502task",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21732",
+   "en": "Prothean Ruin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21733",
+   "en": "Finalize",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21734",
+   "en": "Signal Source",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21735",
+   "en": "Travel to another system?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21736",
+   "en": "Reset",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21737",
+   "en": "17 PSI Valve",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21738",
+   "en": "11 PSI Valve",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21739",
+   "en": "13 PSI Valve",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21740",
+   "en": "Toggle Valve",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21741",
+   "en": "Excavation Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u21742",
+   "en": "Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

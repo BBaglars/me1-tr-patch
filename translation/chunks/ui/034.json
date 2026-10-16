@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/034",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u22795",
+   "en": "The helium-3 fuel lines for the fusion plant have been cut. They must be restored using the controls on the central reactor core.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22796",
+   "en": "Reconnect Fuel Lines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22797",
+   "en": "The cabling that connects the main Peak 15 facility to the subsidiary labs is down. The trams will not operate until this is fixed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22798",
+   "en": "Noveria: Reconnect Landlines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22799",
+   "en": "The landlines have been reconnected. You can now use the passenger trams to go to Rift Station.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22800",
+   "en": "The landlines must be reconnected. They can be found on the roof of Peak 15.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22801",
+   "en": "Reconnect Landlines",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22802",
+   "en": "These upgrades are specifically designed to disable subjects infected by the Thorian without killing them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22803",
+   "en": "Rocky Asteroid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22804",
+   "en": "This large asteroid has several smaller bodies orbiting it.\nRadius: 336 km",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22805",
+   "en": "You told Anoleis that Gianna was investigating him. They killed each other, and you picked up a pass to leave Hanshan off the Administrator's corpse. You can proceed to Peak 15 via the garage.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22806",
+   "en": "Noveria: Contamination",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22807",
+   "en": "There are deadly \"contaminants\" in the decontamination chamber you must pass through to leave Peak 15.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22808",
+   "en": "You cleared the \"contaminants\" by unlocking the door and killing them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22809",
+   "en": "You cleared the \"contaminants\" by restoring the decon chamber's built-in plasma jets.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22810",
+   "en": "You'll need to unseal the decontamination chamber in order to get to the trams. Mira might be able to help.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22811",
+   "en": "Clear the Chamber",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22812",
+   "en": "GAS DEPOSIT SURVEYED\nWhile scanning this gas giant, you detected a large concentration of helium-3.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22813",
+   "en": "Area not clear of enemies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22814",
+   "en": "GETH COMMUNICATIONS DISRUPTED\nBy destroying the comm tower, you have disrupted the geth's ability to coordinate heavy fire on Captain Kirrahe's team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22815",
+   "en": "SATELLITE UPLINK DESTROYED\nWithout the sat-link, the geth cannot call air strikes on Captain Kirrahe's team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22816",
+   "en": "GETH FLYERS DESTROYED\nYou destroyed the geth flyers before they could refuel and resume their attacks on Captain Kirrahe's team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22817",
+   "en": "Makeup",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22818",
+   "en": "Thorian Arm Node",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22819",
+   "en": "Test String 1\n\nTest String 1b",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22820",
+   "en": "Test String 2\n\nTest String 2b",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22821",
+   "en": "Test String 3\n\nTest String 3b",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22822",
+   "en": "Unknown mineral surveyed.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22823",
+   "en": "Shiala",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22824",
+   "en": "Makeup Color",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22825",
+   "en": "Makeup Style",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22826",
+   "en": "MEDALLION RECOVERED\nWhile scanning Syided, you discovered a large debris field in geosynchronous orbit. Chief Engineer Adams conducted several detailed sweeps of the area and detected a few items of interest, including a League of One medallion encased in lead molding.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22827",
+   "en": "MEDALLION RECOVERED\nWhile scanning the asteroid field in the Tereshkova system, you picked up some anomalous readings. After some daring maneuvering by Joker, a small team was able to recover some debris from one of the larger rocks. Among the items discovered was a League of One medallion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22828",
+   "en": "MEDALLION RECOVERED\nScans of the planet Gromar revealed a derelict space station in late stages of orbital decay. A small team was able to recover some items of interest. Among them, a League of One medallion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22829",
+   "en": "MEDALLION RECOVERED\nScans of the asteroid field in the Knossos system revealed some strange readings. Upon closer inspection, Navigator Pressly discovered the remains of an abandoned salarian fighter. The only thing of interest on board was a League of One medallion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22830",
+   "en": "MEDALLION RECOVERED\nScans of Benda uncovered an ancient salarian vessel. A small team was dispatched to search for valuables. The only item of value recovered was a League of One medallion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22831",
+   "en": "MEDALLION RECOVERED\nWhile scanning the planet Tharopto, you discovered a tiny moon with some odd readings. Further scans by Chief Engineer Adams revealed a destroyed escape pod. Your salvage team recovered the components and found a League of One medallion. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22832",
+   "en": "MEDALLION RECOVERED\nScanning Altanorch revealed something of interest in a debris field. Joker brought the Normandy in close and a small team was able to retrieve some valuable detritus, including a League of One medallion.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22833",
+   "en": "Upgrade(s) uninstalled and moved to regular inventory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22834",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of the planet Veles revealed a small abandoned vessel. Your salvage team brought the ship on board and dismantled it, whereupon they discovered one of Matriarch Dilinaga's writings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22835",
+   "en": "To Synthetic Insights",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22836",
+   "en": "To Hot Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22837",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nScans revealed a wrecked freighter orbiting one of Junthor's smaller moons. A recon team found no signs of life, but they did recover one of Matriarch Dilinaga's writings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22838",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nYou recovered a strange object orbiting Ploba. Chief Engineer Adams and Tali tried unsuccesfully to determine its origin. They did find one of Matriarch Dilinaga's writings stored within.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22839",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nYou were scanning the planet Porolan when a strange signal came from orbit. Navigator Pressly determined the signal was from an ancient beacon. Your salvage team brought the beacon aboard and found one of Matriarch Dilinaga's writings in its storage compartment.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22840",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of Pataiton revealed a strange unmanned vessel in orbit around the planet. Tali brought it on board and determined it was asari-made, but very old. She discovered several ancient artifacts inside the vessel, including one of Matriarch Dilinaga's writings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22841",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of Matar revealed debris from a destroyed asari freighter. Further scans uncovered a body, which was brought on board. Dr. Chakwas examined it but learned nothing about its origins. Among the asari's personal effects, however, was one of Matriarch Dilinaga's writings.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22842",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of the planet Klencory revealed the cockpit of a volus trading vessel. There are no signs of the rest of the ship, but the salvage team discovered one of Matriarch Dilinaga's writings in the ship's systems.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22843",
+   "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of Paravin revealed an unmanned station in geosynchronous orbit. Your salvage team found no evidence on the origins of the station, but they did find one of Matriarch Dilinaga's writings on board.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22844",
+   "en": "TURIAN INSIGNIA RECOVERED\nWhile scanning the planet Maganlis, you discovered the remains of a damaged research vessel. Your recon team found no signs of survivors, but they did bring back a Rocam Outpost insignia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22845",
+   "en": "TURIAN INSIGNIA RECOVERED\nScans of the planet Raysha revealed an old unmanned shuttle. Your salvage team found turian goods on board, all marked with the Tridend Colony insignia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22846",
+   "en": "TURIAN INSIGNIA RECOVERED\nWhile scanning the planet Sybin, you discovered a large mine grid in geosynchronus orbit. With help from Navigator Pressly, your recon team recovered a small unmanned probe marked with the Quadim Outpost insignia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22847",
+   "en": "TURIAN INSIGNIA RECOVERED\nScans of the planet Pharos revealed an abandoned base on its moon. The recon team found nothing of interest, but much of the debris was marked with the Magna Colony insignia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22848",
+   "en": "TURIAN INSIGNIA RECOVERED\nScans of Antida revealed a group of defunct turrets orbiting the planet. The recon team carefully retrieved one of the turrets and brought it on board. Tali dismantled the weapon and found it was marked with a Carthaan Outpost insignia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22849",
+   "en": "TURIAN INSIGNIA RECOVERED\nWhile scanning the planet Pregel, you discovered several marker buoys orbiting it. Chief Engineer Adams secured some high-res optical images of the buoys, which appeared to have been neglected for some time. Each one was marked with the Baetika Colony insignia.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22850",
+   "en": "TURIAN INSIGNIA RECOVERED\nYou discovered signs of battle while scanning an asteroid field in the Acheron system. A small recon and recovery team led by Navigator Pressly was able to determine that many of the ships were marked with the Epyrus Colony insignia.\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22851",
+   "en": "-7% Damage Protection\n-30% Shields\n-10% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22852",
+   "en": "+5% Damage Protection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22853",
+   "en": "+7% Damage Protection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22854",
+   "en": "+9% Damage Protection",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22855",
+   "en": "+10% Storm speed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22856",
+   "en": "+12% Storm speed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22857",
+   "en": "+14% Storm speed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22858",
+   "en": "+30% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22859",
+   "en": "+40% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22860",
+   "en": "+50% Toxin Resistance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22861",
+   "en": "+15% Shield Recovery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22862",
+   "en": "+18% Shield Recovery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22863",
+   "en": "+21% Shield Recovery",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22864",
+   "en": "+1 Health Regeneration/sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22865",
+   "en": "+1.5 Health Regeneration/sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22866",
+   "en": "+2 Health Regeneration/sec",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22867",
+   "en": "+10% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22868",
+   "en": "+11% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22869",
+   "en": "+12% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22870",
+   "en": "Reduces audibility by 10%\nReduces visibility by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22871",
+   "en": "Reduces audibility by 20%\nReduces visibility by 20%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22872",
+   "en": "Reduces audibility by 30%\nReduces visibility by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22873",
+   "en": "Reduces audibility by 40%\nReduces visibility by 40%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22874",
+   "en": "Reduces audibility by 50%\nReduces visibility by 50%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22875",
+   "en": "Reduces audibility by 52%\nReduces visibility by 52%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22876",
+   "en": "Reduces audibility by 54%\nReduces visibility by 54%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22877",
+   "en": "Reduces audibility by 56%\nReduces visibility by 56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22878",
+   "en": "Reduces audibility by 58%\nReduces visibility by 58%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22879",
+   "en": "Reduces audibility by 60%\nReduces visibility by 60%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22880",
+   "en": "Increases resistence to biotics by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22881",
+   "en": "Increases resistence to biotics by 6.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22882",
+   "en": "Increases resistence to biotics by 7.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22883",
+   "en": "Increases resistence to biotics by 8.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22884",
+   "en": "Increases resistence to biotics by 9.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22885",
+   "en": "Increases resistence to biotics by 10.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22886",
+   "en": "Increases resistence to biotics by 11.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22887",
+   "en": "Increases resistence to biotics by 12.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22888",
+   "en": "Increases resistence to biotics by 13.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22889",
+   "en": "Increases resistence to biotics by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22890",
+   "en": "Increases impact radius by 100\nIncreases maximum range by 1000\nIncreases duration by 10%\nIncreases force by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22891",
+   "en": "Increases impact radius by 144.444444444444\nIncreases maximum range by 2000\nIncreases duration by 12.22%\nIncreases force by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22892",
+   "en": "Increases impact radius by 188.888888888889\nIncreases maximum range by 3000\nIncreases duration by 14.44%\nIncreases force by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22893",
+   "en": "Increases impact radius by 233.333333333333\nIncreases maximum range by 4000\nIncreases duration by 16.67%\nIncreases force by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22894",
+   "en": "Increases impact radius by 277.777777777778\nIncreases maximum range by 5000\nIncreases duration by 18.89%\nIncreases force by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22895",
+   "en": "Increases impact radius by 322.222222222222\nIncreases maximum range by 6000\nIncreases duration by 21.11%\nIncreases force by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22896",
+   "en": "Increases impact radius by 366.666666666667\nIncreases maximum range by 7000\nIncreases duration by 23.33%\nIncreases force by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22897",
+   "en": "Increases impact radius by 411.111111111111\nIncreases maximum range by 8000\nIncreases duration by 25.56%\nIncreases force by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22898",
+   "en": "Increases impact radius by 455.555555555556\nIncreases maximum range by 9000\nIncreases duration by 27.78%\nIncreases force by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22899",
+   "en": "Increases impact radius by 500\nIncreases maximum range by 10000\nIncreases duration by 30%\nIncreases force by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22900",
+   "en": "Increases impact radius by 100\nIncreases maximum range by 100\nIncreases force by 10%\nIncreases damage by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22901",
+   "en": "Increases impact radius by 144.444444444444\nIncreases maximum range by 144.444444444444\nIncreases force by 12.22%\nIncreases damage by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22902",
+   "en": "Increases impact radius by 188.888888888889\nIncreases maximum range by 188.888888888889\nIncreases force by 14.44%\nIncreases damage by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22903",
+   "en": "Increases impact radius by 233.333333333333\nIncreases maximum range by 233.333333333333\nIncreases force by 16.67%\nIncreases damage by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22904",
+   "en": "Increases impact radius by 277.777777777778\nIncreases maximum range by 277.777777777778\nIncreases force by 18.89%\nIncreases damage by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22905",
+   "en": "Increases impact radius by 322.222222222222\nIncreases maximum range by 322.222222222222\nIncreases force by 21.11%\nIncreases damage by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22906",
+   "en": "Increases impact radius by 366.666666666667\nIncreases maximum range by 366.666666666667\nIncreases force by 23.33%\nIncreases damage by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22907",
+   "en": "Increases impact radius by 411.111111111111\nIncreases maximum range by 411.111111111111\nIncreases force by 25.56%\nIncreases damage by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22908",
+   "en": "Increases impact radius by 455.555555555556\nIncreases maximum range by 455.555555555556\nIncreases force by 27.78%\nIncreases damage by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22909",
+   "en": "Increases impact radius by 500\nIncreases maximum range by 500\nIncreases force by 30%\nIncreases damage by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22910",
+   "en": "Reduces cooldown of lift by 5%\nReduces cooldown of throw by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22911",
+   "en": "Reduces cooldown of lift by 6.11%\nReduces cooldown of throw by 6.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22912",
+   "en": "Reduces cooldown of lift by 7.22%\nReduces cooldown of throw by 7.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22913",
+   "en": "Reduces cooldown of lift by 8.33%\nReduces cooldown of throw by 8.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22914",
+   "en": "Reduces cooldown of lift by 9.44%\nReduces cooldown of throw by 9.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22915",
+   "en": "Reduces cooldown of lift by 10.56%\nReduces cooldown of throw by 10.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22916",
+   "en": "Reduces cooldown of lift by 11.67%\nReduces cooldown of throw by 11.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22917",
+   "en": "Reduces cooldown of lift by 12.78%\nReduces cooldown of throw by 12.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22918",
+   "en": "Reduces cooldown of lift by 13.89%\nReduces cooldown of throw by 13.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22919",
+   "en": "Reduces cooldown of lift by 15%\nReduces cooldown of throw by 15%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22920",
+   "en": "Increase impact radius by 100\nIncrease maximum range by 1000\nIncrease force/sec by 10%\nIncrease duration by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22921",
+   "en": "Increase impact radius by 144.444444444444\nIncrease maximum range by 1444.44444444444\nIncrease force/sec by 12.22%\nIncrease duration by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22922",
+   "en": "Increase impact radius by 188.888888888889\nIncrease maximum range by 1888.88888888889\nIncrease force/sec by 14.44%\nIncrease duration by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22923",
+   "en": "Increase impact radius by 233.333333333333\nIncrease maximum range by 2333.33333333333\nIncrease force/sec by 16.67%\nIncrease duration by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22924",
+   "en": "Increase impact radius by 277.777777777778\nIncrease maximum range by 2777.77777777778\nIncrease force/sec by 18.89%\nIncrease duration by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22925",
+   "en": "Increase impact radius by 322.222222222222\nIncrease maximum range by 3222.22222222222\nIncrease force/sec by 21.11%\nIncrease duration by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22926",
+   "en": "Increase impact radius by 366.666666666667\nIncrease maximum range by 3666.66666666667\nIncrease force/sec by 23.33%\nIncrease duration by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22927",
+   "en": "Increase impact radius by 411.111111111111\nIncrease maximum range by 4111.11111111111\nIncrease force/sec by 25.56%\nIncrease duration by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22928",
+   "en": "Increase impact radius by 455.555555555556\nIncrease maximum range by 4555.55555555555\nIncrease force/sec by 27.78%\nIncrease duration by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22929",
+   "en": "Increase impact radius by 500\nIncrease maximum range by 5000\nIncrease force/sec by 30%\nIncrease duration by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22930",
+   "en": "Increase impact radius by 100\nIncrease maximum range by 1000\nIncrease duration by 10%\nIncrease damage per second by 10%\nIncrease damage multiplier by 10%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22931",
+   "en": "Increase impact radius by 144.444444444444\nIncrease maximum range by 1444.44444444444\nIncrease duration by 12.22%\nIncrease damage per second by 12.22%\nIncrease damage multiplier by 12.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22932",
+   "en": "Increase impact radius by 188.888888888889\nIncrease maximum range by 1888.88888888889\nIncrease duration by 14.44%\nIncrease damage per second by 14.44%\nIncrease damage multiplier by 14.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22933",
+   "en": "Increase impact radius by 233.333333333333\nIncrease maximum range by 2333.33333333333\nIncrease duration by 16.67%\nIncrease damage per second by 16.67%\nIncrease damage multiplier by 16.67%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22934",
+   "en": "Increase impact radius by 277.777777777778\nIncrease maximum range by 2777.77777777778\nIncrease duration by 18.89%\nIncrease damage per second by 18.89%\nIncrease damage multiplier by 18.89%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22935",
+   "en": "Increase impact radius by 322.222222222222\nIncrease maximum range by 3222.22222222222\nIncrease duration by 21.11%\nIncrease damage per second by 21.11%\nIncrease damage multiplier by 21.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22936",
+   "en": "Increase impact radius by 366.666666666667\nIncrease maximum range by 3666.66666666667\nIncrease duration by 23.33%\nIncrease damage per second by 23.33%\nIncrease damage multiplier by 23.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22937",
+   "en": "Increase impact radius by 411.111111111111\nIncrease maximum range by 4111.11111111111\nIncrease duration by 25.56%\nIncrease damage per second by 25.56%\nIncrease damage multiplier by 25.56%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22938",
+   "en": "Increase impact radius by 455.555555555556\nIncrease maximum range by 4555.55555555555\nIncrease duration by 27.78%\nIncrease damage per second by 27.78%\nIncrease damage multiplier by 27.78%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22939",
+   "en": "Increase impact radius by 500\nIncrease maximum range by 5000\nIncrease duration by 30%\nIncrease damage per second by 30%\nIncrease damage multiplier by 30%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22940",
+   "en": "Decrease warp cooldown by 5%\nDecrease singularity cooldown by 5%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22941",
+   "en": "Decrease warp cooldown by 6.11%\nDecrease singularity cooldown by 6.11%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22942",
+   "en": "Decrease warp cooldown by 7.22%\nDecrease singularity cooldown by 7.22%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22943",
+   "en": "Decrease warp cooldown by 8.33%\nDecrease singularity cooldown by 8.33%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u22944",
+   "en": "Decrease warp cooldown by 9.44%\nDecrease singularity cooldown by 9.44%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

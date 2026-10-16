@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/008",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u19491",
+   "en": "Tertiary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19492",
+   "en": "Set Primary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19493",
+   "en": "Set Secondary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19494",
+   "en": "Origin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19495",
+   "en": "Reputation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19496",
+   "en": "Select Origin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19497",
+   "en": "Select Reputation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19498",
+   "en": "Head to Noveria to investigate reports of geth on the world.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19499",
+   "en": "Go To Noveria",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19500",
+   "en": "Investigate Feros to see why the colony was attacked by geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19501",
+   "en": "Go to Feros",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19502",
+   "en": "Explore the uncharted worlds of the Artemis Tau cluster to find Liara T'Soni.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19503",
+   "en": "Go To Artemis Tau",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19504",
+   "en": "Virmire Critical Path",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19505",
+   "en": "You've received word that a salarian reconnaissance team on Virmire has information about Saren. The message was unclear and the Council fears the team is in danger.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19506",
+   "en": "Head to Virmire and rendezvous with the salarian team.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19507",
+   "en": "Go to Virmire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19508",
+   "en": "Saren and his troops have disappeared into a sealed bunker beneath the surface of Ilos, sealing the doors behind them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19509",
+   "en": "Ilos: Find the Conduit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19510",
+   "en": "The Conduit is actually a small mass relay that will let you bypass the Citadel's defenses. Saren and his troops have already gone through; you have to follow them before it's too late.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19511",
+   "en": "You need to find a security control room to open the sealed doors leading into the underground archive.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19512",
+   "en": "Override the Security",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19513",
+   "en": "The security system is disabled. Return to your vehicle and follow Saren into the underground archives.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19514",
+   "en": "Enter the Archives",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19515",
+   "en": "Take the Mako and find the AA tower. Disable the guns so the Normandy can land.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19516",
+   "en": "Disable the AA Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19517",
+   "en": "The AA guns are down and the Normandy can land at the salarian camp. Continue on and meet them there.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19518",
+   "en": "Head to the Salarian Camp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19519",
+   "en": "Go to the main geth base. Try to slow the geth defenses.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19520",
+   "en": "Infiltrate Saren's Base",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19521",
+   "en": "Disable the AA guns so the Normandy can drop off the nuke.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19522",
+   "en": "Disable AA Guns",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19523",
+   "en": "Kirrahe's team has destroyed the final AA gun. The Normandy is on its way in. Get the bomb and set it in place.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19524",
+   "en": "Get the Bomb into Place",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19525",
+   "en": "Kaidan's team is under heavy fire. Head to the second AA tower to provide support while Ashley secures the bomb at the landing pad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19526",
+   "en": "Provide Backup for Kaidan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19527",
+   "en": "Ashley's team is under heavy fire. Head to the second AA tower to provide support while Kaidan secures the bomb at the landing pad.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19528",
+   "en": "Provide Backup for Ashley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19529",
+   "en": "You've ordered the Normandy back to bomb site. Fight your way there and clear the landing area.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19530",
+   "en": "Get back to the Bomb Site",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19531",
+   "en": "You've ordered the Normandy to pick you up at the AA tower. Fight your way there and clear the landing area.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19532",
+   "en": "Keep Going to the AA Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19533",
+   "en": "You found the salarian camp and spoke with their leader, Captain Kirrahe. He's told you that Saren has cured the krogan genophage and is breeding an army of krogan warriors. He and his men are working on a plan to infiltrate the base.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19534",
+   "en": "Virmire: Saren's Plan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19535",
+   "en": "You destroyed Saren's base at Virmire, but at a terrible cost. Kaidan is dead.\n\nHis sacrifice was not in vain, however. The cure for the krogan genophage was destroyed. Saren's alliance with the Reapers was revealed. And most importantly... you now know that Sovereign is in fact a Reaper itself.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19536",
+   "en": "Virmire: Base Destroyed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19537",
+   "en": "Based on what the refugees told you, the geth are indeed at ExoGeni. Go there to investigate them, and be on the lookout for Lizbeth Baynham, as well.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19538",
+   "en": "Investigate ExoGeni Headquarters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19539",
+   "en": "Floor Lamp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19540",
+   "en": "Aeroculture Plant Bed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19541",
+   "en": "Upgrade Kit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19542",
+   "en": "Anthid Lodge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19543",
+   "en": "Anti-Personnel Mine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19544",
+   "en": "Anti-Vehicle Mine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19545",
+   "en": "Financial Services Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19546",
+   "en": "Table",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19547",
+   "en": "Bench",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19548",
+   "en": "Fluid Container",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19549",
+   "en": "Bunk Bed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19550",
+   "en": "Cargo Container",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19551",
+   "en": "Stool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19552",
+   "en": "Chair",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19553",
+   "en": "Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19554",
+   "en": "Monitor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19555",
+   "en": "Pipe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19556",
+   "en": "Containment Cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19557",
+   "en": "Cryo Containment Cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19558",
+   "en": "Fusion Containment Cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19559",
+   "en": "Ion Containment Cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19560",
+   "en": "Plasma Containment Cell",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19561",
+   "en": "Containment Tank",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19562",
+   "en": "Cot",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19563",
+   "en": "Couch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19564",
+   "en": "Crate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19565",
+   "en": "Storage Unit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19566",
+   "en": "Locked Crate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19567",
+   "en": "Cargo Crate",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19568",
+   "en": "Cup",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19569",
+   "en": "Debris",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19570",
+   "en": "Networked Sensor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19571",
+   "en": "Demolition Charge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19572",
+   "en": "Desk",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19573",
+   "en": "Lamp",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19574",
+   "en": "Satellite",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19575",
+   "en": "Rotary Drill",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19576",
+   "en": "Beverage Container",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19577",
+   "en": "Escape Pod",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19578",
+   "en": "Fire Containment System",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19579",
+   "en": "Food Dispenser",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19580",
+   "en": "Locker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19581",
+   "en": "Fuel Tank",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19582",
+   "en": "Gaming Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19583",
+   "en": "Gaming Table",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19584",
+   "en": "Generator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19585",
+   "en": "Assault Platform",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19586",
+   "en": "Geth Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19587",
+   "en": "Beverage Cylinder",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19588",
+   "en": "Harvester Egg",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19589",
+   "en": "Keeper Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19590",
+   "en": "Lab Equipment",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19591",
+   "en": "Server Node",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19592",
+   "en": "Weapon Locker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19593",
+   "en": "Meal Tray",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19594",
+   "en": "Mainframe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19595",
+   "en": "Robotic Arm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19596",
+   "en": "Medical Bed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19597",
+   "en": "Diagnostic Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19598",
+   "en": "Map Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19599",
+   "en": "Medical Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19600",
+   "en": "Computer Console",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19601",
+   "en": "Pallet",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19602",
+   "en": "Pleasure Pod",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19603",
+   "en": "Service Platform",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19604",
+   "en": "Power Junction",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19605",
+   "en": "Ration Pack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19606",
+   "en": "Rachni Egg",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19607",
+   "en": "Rachni Hive",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19608",
+   "en": "Shelving Unit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19609",
+   "en": "Sludge Canister",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19610",
+   "en": "Food Supplement",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19611",
+   "en": "Solar Panel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19612",
+   "en": "Secure Storage Locker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19613",
+   "en": "Barricade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19614",
+   "en": "Tire",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19615",
+   "en": "Tool",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19616",
+   "en": "Defense Turret",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19617",
+   "en": "Transmitter Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19618",
+   "en": "Vehicle Jack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19619",
+   "en": "VI Terminal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19620",
+   "en": "Wall Safe",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19621",
+   "en": "Disposal Canister",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19622",
+   "en": "Due to your covert N7 status, ID records are incomplete. Please confirm identity from the records below, or register manually.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19623",
+   "en": "John Shepard",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19624",
+   "en": "Confirm your ID as CDR. John Shepard, Alliance Marine.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19625",
+   "en": "Manually enter career info and physical stats into the Normandy crew database.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19626",
+   "en": "Gender",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19627",
+   "en": "Pre-service History",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19628",
+   "en": "Psychological Profile",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19629",
+   "en": "Soldier - Combat specialist trained to use a wide variety of weapons and armor, ideal for the front lines of a firefight.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19630",
+   "en": "Engineer - Technology specialist, skilled at manipulating environment and enemies through decryption and electronics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19631",
+   "en": "Infiltrator - Combat technologist, trained to fight using weapons and armor as well as tech skills.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19632",
+   "en": "Sentinel - Biotic technologist, supporting the squad using biotic powers and tech skills.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19633",
+   "en": "Adept - Biotic specialist, able to manipulate mass effect fields and perform biotic feats quickly and effectively.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19634",
+   "en": "Vanguard - Biotic warrior, trained to brutally take down enemies with both weapons and offensive biotics.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19635",
+   "en": "Confirm Primary Training",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19636",
+   "en": "Stamina:\nIncreases health\n\nRecommended for:\nSoldier, Vanguard, Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19637",
+   "en": "Focus:\nImproves rate of fire for weapons and abilities by increasing accuracy restoration\n\nRecommended for:\nSentinel, Soldier, Engineer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19638",
+   "en": "Coordination:\nIncreases maximum accuracy of all weapons and abilities\n\nRecommended for:\nInfiltrator, Adept, Sentinel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19639",
+   "en": "Precision:\nIncreases damage/duration of all weapons and abilities\n\nRecommended for:\nInfiltrator, Vanguard, Adept",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19640",
+   "en": "Select Your First Name",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

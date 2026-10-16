@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/007",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u19341",
+   "en": "Close Tasks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19342",
+   "en": "Liara T'Soni, an asari archeologist famed for her knowledge of the Protheans, is being sought by Saren. Her last known location was somewhere in the Artemis Tau cluster.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19343",
+   "en": "Find Liara T'Soni",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19344",
+   "en": "You saved Liara from a collapsing Prothean ruin, and she has joined the Normandy's crew. Hopefully her expertise will help you find the Conduit before Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19345",
+   "en": "Gangland",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19346",
+   "en": "Locked",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19347",
+   "en": "Talents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19348",
+   "en": "Trees",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19349",
+   "en": "Grenade Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19350",
+   "en": "Emitter Upgrade",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19351",
+   "en": "Feros Critical Path",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19352",
+   "en": "The geth have attacked the world of Feros. Your primary objective is to go to the Zhu's Hope colony to investigate what Saren is after, and why he sent his geth troops to the planet.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19353",
+   "en": "Feros: Geth Attack",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19354",
+   "en": "Saren sent the geth to Feros to destroy an alien life form known as the Thorian. Why Saren wants this parasitic plant creature destroyed is still unclear, but it has evidently taken control of most of the colonists back at Zhu's Hope.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19355",
+   "en": "Feros: The Thorian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19356",
+   "en": "Zhu's Hope has been saved with the destruction of the Thorian. Thanks to your efforts, enough colonists survived to rebuild. You have also been granted the Cipher, which will give you a clearer understanding of the visions the beacon on Eden Prime burned into your mind.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19357",
+   "en": "Feros: Colony Saved",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19358",
+   "en": "You destroyed the Thorian, but too many colonists were killed in the fighting for the colony to survive. Zhu's Hope will be abandoned. You did manage to gain the Cipher, which will give you a clearer understanding of the visions the beacon on Eden Prime burned into your mind.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19359",
+   "en": "Feros: Colony Gone",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19360",
+   "en": "You destroyed the Thorian and saved the colonists of Zhu's Hope. While the colony itself will be shut down, ExoGeni will pay off the colonists to ensure their silence. You have also been granted the Cipher, which will give you a clearer understanding of the visions the beacon on Eden Prime burned into your mind.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19361",
+   "en": "Feros: Colonists Paid",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19362",
+   "en": "Fai Dan, the leader of the colonists, may have the information you need. Go up the stairs and through the downed freighter to speak with him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19363",
+   "en": "Speak with Fai Dan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19364",
+   "en": "The geth have taken control of a tower. Go up the stairs and make your way to the tower to stop their advance. ",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19365",
+   "en": "Stop Geth in Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19366",
+   "en": "Take the elevator from Zhu's Hope down to the Prothean skyway. Use your vehicle to make your way to the ExoGeni headquarters and investigate the geth activities.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19367",
+   "en": "Get to ExoGeni Headquarters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19368",
+   "en": "You've detected a mysterious signal that seems to be coming from a different group of colonists. If you think it worth your time, track down these colonists before heading to the ExoGeni headquarters.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19369",
+   "en": "Investigate Mysterious Signal",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19370",
+   "en": "You've reached ExoGeni headquarters and found it heavily occupied. Get inside and find out what the geth are looking for.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19371",
+   "en": "Explore ExoGeni Headquarters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19372",
+   "en": "You need to take the geth force field down in order to warn the Normandy about the Thorian. Disabling or destroying one of those claws might do the trick.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19373",
+   "en": "Remove Force Field",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19374",
+   "en": "You need more information before returning to Zhu's Hope. Talk with Lizbeth Baynham's mother Juliana at the refugee camp to find out what they know about the Thorian.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19375",
+   "en": "Speak with Refugees",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19376",
+   "en": "Take the rover back along the Prothean skyway to Zhu's Hope and find the entrance to the Thorian's lair. You might want to speak to Juliana Baynham before you go.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19377",
+   "en": "Return to Zhu's Hope",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19378",
+   "en": "Fight your way to the freighter and down into the Thorian's lair. Kill Thorian creepers at will, but avoid slaying the colonists. You can safely knock them out using melee attacks or grenades equipped with the anti-Thorian upgrade.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19379",
+   "en": "Minimize Casualties",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19380",
+   "en": "The Thorian is not interested in talking. Find a weak point on the enormous creature and take it down.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19381",
+   "en": "Destroy the Thorian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19382",
+   "en": "MSV Cornucopia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19383",
+   "en": "Biotic Strength",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19384",
+   "en": "Tech Strength",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19385",
+   "en": "Combat Strength",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19386",
+   "en": "Close Examine",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19387",
+   "en": "An agent for the Shadow Broker named Barla Von might be able to provide you with more information about Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19388",
+   "en": "Citadel: Shadow Broker",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19389",
+   "en": "A krogan bounty hunter named Urdnot Wrex might be able to help you against Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19390",
+   "en": "Citadel: Wrex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19391",
+   "en": "You've refused to let Urdnot Wrex join your crew. You can find him in Chora's Den in the Lower Wards if you change your mind.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19392",
+   "en": "Wrex, the krogan bounty hunter, is being questioned at the C-Sec Academy. You can meet him there if you want to speak with him.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19393",
+   "en": "Speak to Wrex",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19394",
+   "en": "Urdnot Wrex has joined the crew.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19395",
+   "en": "Head to the Bank in the Financial District of the Presidium and speak with Barla Von.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19396",
+   "en": "Go See Barla Von",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19397",
+   "en": "Garrus Vakarian, a turian C-Sec officer, might be able to help you against Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19398",
+   "en": "Citadel: Garrus",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19399",
+   "en": "Garrus Vakarian has joined your crew.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19400",
+   "en": "You've refused to let Garrus into your crew. You can find him in C-Sec on the Citadel if you change your mind.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19401",
+   "en": "Go to Chora's Den in the Lower Wards and speak with Harkin, a C-Sec agent who might know where Garrus can be found.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19402",
+   "en": "Speak to Harkin",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19403",
+   "en": "Garrus went to the Med Clinic in the Upper Wards to follow up a lead on Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19404",
+   "en": "Go to the Med Clinic",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19405",
+   "en": "You've proven Saren is connected with the geth. As a reward, the Council has granted you Spectre status and commissioned you to track the rogue Spectre down.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19406",
+   "en": "You need to find some proof that Saren is connected with the geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19407",
+   "en": "Investigate Saren",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19408",
+   "en": "Fist, a crime lord hiding out at a bar called Chora's Den in the Lower Wards, is meeting with a quarian who has proof Saren is working with the geth.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19409",
+   "en": "Take Down Fist",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19410",
+   "en": "Saren's men have set a trap for the quarian. You have to get to the alley before they kill her.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19411",
+   "en": "Save the Quarian",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19412",
+   "en": "You should be there when the Ambassador presents the quarian's evidence to the Citadel Council. Return to the Citadel Tower in the Presidium.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19413",
+   "en": "Return to the Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19414",
+   "en": "The ambassador will provide you with a ship and crew. Meet him at the Alliance Docking Bay, accessible through the central elevator in the C-Sec Academy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19415",
+   "en": "Speak to the Ambassador",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19416",
+   "en": "Current Squad",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19417",
+   "en": "Noveria Critical Path",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19418",
+   "en": "The Council has received reports of geth interest in the corporate research colony of Noveria. The Council needs to know why.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19419",
+   "en": "Noveria: Geth Interest",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19420",
+   "en": "Matriarch Benezia, a top advisor to Saren, is on Noveria. If you can capture her, it is likely she has insight into his plans.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19421",
+   "en": "Noveria: Matriarch Benezia",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19422",
+   "en": "Matriarch Benezia is dead. She gave you the location of the Mu Relay, but did not know where Saren planned to go after activating it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19423",
+   "en": "Noveria: Death of a Matriarch",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19424",
+   "en": "Matriarch Benezia, Saren's aide, is at a remote complex called Peak 15. You need to drive out and investigate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19425",
+   "en": "To Peak 15",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19426",
+   "en": "You are tracking down Matriarch Benezia. She has gone to the Rift Station facility, which is accessed via Peak 15's passenger trams.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19427",
+   "en": "To Rift Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19428",
+   "en": "You are tracking down Matriarch Benezia. She left Rift Station to battle the creatures in the infested Hot Labs. The labs can be accessed via an emergency elevator between Ventralis' barricade and the tram station.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19429",
+   "en": "To the Hot Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19430",
+   "en": "You are tracking down Matriarch Benezia. Someone told you she was in the Hot Labs, but that was a lie. She must be somewhere in Rift Station.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19431",
+   "en": "Back to Rift Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19432",
+   "en": "Saren is searching for the Conduit, an ancient relic dating back to the Prothean extinction. Through the visions burned into your mind by the beacon on Eden Prime, you believe the Conduit is a weapon capable of wiping out all life in the galaxy. Saren must be stopped!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19433",
+   "en": "Race Against Time",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19434",
+   "en": "You need to explore Feros, Noveria, and the Artemis Tau cluster to find the clues that will lead you to the Conduit before Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19435",
+   "en": "Find the Conduit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19436",
+   "en": "You need to explore Feros, Noveria, the Artemis Tau cluster, and Virmire to find the clues that will lead you to the Conduit before Saren.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19437",
+   "en": "You've entered the Hot Labs in pursuit of Matriarch Benezia.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19438",
+   "en": "Noveria: The Hot Labs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19439",
+   "en": "The Hot Labs have a self-destruct mechanism called a neutron purge. This would eliminate all of the creatures that have overrun the facility.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19440",
+   "en": "The neutron purge fired; the insane rachni are all dead.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19441",
+   "en": "You need a key card to arm the neutron purge system; only administrators have one.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19442",
+   "en": "Arm the Purge",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19443",
+   "en": "The neutron purge is armed and counting down. Run up to the elevator!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19444",
+   "en": "Code Omega",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19445",
+   "en": "The purge has been armed. You need a verbal code from an administrator to begin the final countdown.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19446",
+   "en": "Purge Armed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19447",
+   "en": "You have the codes needed to activate the neutron purge controls. All that's left is to order Mira to begin the countdown.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19448",
+   "en": "Acquired Codes",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19449",
+   "en": "Administrator Tombiri told you that Liara is being held by Smiley, a local salarian drug lord. Unfortunately, Smiley is quite paranoid, and is sealed inside the station's former medical bay.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19450",
+   "en": "You've learned Liara's current location from the criminals on Throw Down.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19451",
+   "en": "Your team and Sessa Tarrent have killed Raciloma. You now have a pass into Smiley's heavily guarded sanctum. Head to the former medical bay in Throw Down Plaza.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19452",
+   "en": "Confront Smiley",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19453",
+   "en": "You've been deceived; Smiley never had Liara. Administrator Tombiri has secretly been running the Miners' Union. She lied to get you to eliminate Smiley for her. It's time to pay a little visit to the Administration Office.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19454",
+   "en": "Turnabout",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19455",
+   "en": "Plot Complete",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19456",
+   "en": "Administrator Tombiri suggested you work with Sessa Tarrent to get at Smiley. Sessa works for the Miners' Union, an organization which appears to have its fingers in a number of unsavory pies. She can be found in the Refinery level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19457",
+   "en": "Talk to Sessa",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19458",
+   "en": "Sessa Tarrent asked you to help her team destroy a cache of Cartel drugs. They are at a test bore site outside the mining station; exit through the garage below Throw Down Plaza.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19459",
+   "en": "The test bore site, and the Cartel's drug cache, have been destroyed. Report back to Sessa Tarrent in the refinery.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19460",
+   "en": "Reporting In",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19461",
+   "en": "Your destruction of the drug cache has drawn out Raciloma, the younger brother of Smiley. He will meet to negotiate with Sessa in the shut-down southern line of the refinery. Your team will precede them to the meeting site, and prepare an ambush to kill Raciloma.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19462",
+   "en": "Ambush",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19463",
+   "en": "You've found Rift Station held by the battered survivors of the science team. It's obvious they've had a bad time, and can't hold out much longer.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19464",
+   "en": "You've entered a sealed part of the station. Time to find out what's really going on here.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19465",
+   "en": "In the heart of Rift Station, you found the last queen of an insect race thought extinct a thousand years ago. You decided her race was too dangerous to let live, and killed her.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19466",
+   "en": "In the heart of Rift Station, you found the last queen of an insect race thought extinct a thousand years ago. You showed mercy, and allowed her to try to rebuild her species as a more peaceful race.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19467",
+   "en": "You have to find a way to get the Normandy off the Citadel so you can go to Ilos.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19468",
+   "en": "Escape the Citadel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19469",
+   "en": "Use the Mu Relay to go to Ilos and stop Saren before he uses the Conduit to unleash a Reaper invasion on the galaxy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19470",
+   "en": "Go to Ilos",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19471",
+   "en": "Saren has used the Conduit to get onto the Citadel. You have to stop him from transferring control of the Citadel to Sovereign.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19472",
+   "en": "Save the Citadel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19473",
+   "en": "The Conduit is not a weapon, but a back door onto the Citadel, which is actually an enormous mass relay. Saren will use the Conduit to get onto the Citadel and unlock it, ushering in a Reaper invasion that will destroy all organic life in the galaxy!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19474",
+   "en": "Race Against Time: Conduit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19475",
+   "en": "You've discovered that the real enemy is not Saren, but a Reaper called Sovereign, a sapient warship of tremendous power. Sovereign is using Saren as a tool to find the Conduit, the key to unleashing a new Reaper invasion on the galaxy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19476",
+   "en": "Race Against Time: Sovereign",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19477",
+   "en": "You have followed Saren to the Citadel. He is trying to transfer control of the station to Sovereign so the Reaper invasion can begin. You must stop him and find a way to destroy Sovereign once and for all.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19478",
+   "en": "Race Against Time: Final Battle",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19479",
+   "en": "You've defeated Sovereign, though the Council was lost in the battle. Now humanity must step to the forefront of the galaxy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19480",
+   "en": "Race Against Time: Victory",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19481",
+   "en": "Sovereign is defeated and humanity has proven itself worthy of joining the Citadel Council.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19482",
+   "en": "The geth ship's claws are too large to disable with conventional weapons. Find the geth ship's primary claw and figure out a way to destroy it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19483",
+   "en": "Destroy Geth Ship Claws",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19484",
+   "en": "Details",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19485",
+   "en": "Report to the Council to warn them of Sovereign's plan to attack the Citadel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19486",
+   "en": "Report to the Council",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19487",
+   "en": "Male",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19488",
+   "en": "Female",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19489",
+   "en": "Primary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u19490",
+   "en": "Secondary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "meta": {
+  "lane": "b",
+  "task": "t120",
+  "chunk": "b/032",
+  "family": "LOS00"
+ },
+ "entries": [
+  {
+   "key": "u05241",
+   "en": "Activate the defenses! Seal the station!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05242",
+   "en": "The arms aren't moving! Systems not responding!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05243",
+   "en": "Abandon the Citadel! Evacuate the Council!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05244",
+   "en": "Open the mass relays. The fleet needs reinforcements!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05245",
+   "en": "The relays are locked! Someone's taken over all the systems!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05246",
+   "en": "Citadel control! Citadel control! Do you copy?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05247",
+   "en": "We're getting hammered out here! Why won't you respond? Citadel control? Citadel control!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_Bridge_CIN_LOC"
+   ]
+  },
+  {
+   "key": "u05248",
+   "en": "This city is too quiet.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05249",
+   "en": "I wonder how many lived here?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05250",
+   "en": "Feel like I'm walking over a grave.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05251",
+   "en": "I wouldn't touch anything.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05252",
+   "en": "Feels like we're being watched. And not by the geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05253",
+   "en": "Let's just find the Conduit and get the hell off this world.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05255",
+   "en": "I wish I had more time to study all of this.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05256",
+   "en": "So much history here. So much to learn. I only hope I have the chance to come back some day.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05257",
+   "en": "This place feels wrong to me. And not just because of the geth.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05258",
+   "en": "There are secrets here that were meant to be forgotten.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05259",
+   "en": "There's something in the air here; death is on the wind. It's a good place for killing.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05260",
+   "en": "A lot of people died here long ago. Now it's time for a lot of geth to join them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05261",
+   "en": "My people once tried to find this world. We hoped we could settle here. But we didn't know it would feel so... unwelcome.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05262",
+   "en": "We shouldn't be here. Not us. Not the geth. Not Saren.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS00_LOC"
+   ]
+  },
+  {
+   "key": "u05263",
+   "en": "This must be the command center for the entire complex. Saren's troops must have sealed the doors from here after he went inside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS10_11_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05264",
+   "en": "We will have to figure out how to disengage the security lockdown if we ever want to get inside that bunker.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS10_11_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05265",
+   "en": "I bet this is the command center for the entire complex. Saren's troops must have sealed the doors from here after he went inside.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS10_11_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05266",
+   "en": "We'll have to figure out how to disengage the security lockdown if we ever want to get inside that bunker.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS10_11_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05267",
+   "en": "This place still has power. It must be running off its own generator.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS10_11_PLC_LOC"
+   ]
+  },
+  {
+   "key": "u05268",
+   "en": "Those armatures out there look like they're up and running again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05269",
+   "en": "When we disengaged the lockdown, the automated defense system must have kicked in and reactivated them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05270",
+   "en": "This might work to our advantage. If the Prothean defense systems are controlling them, the armatures might actually see the geth as invaders.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05271",
+   "en": "This might work to our advantage. If the Prothean defense programs are controlling them, the armatures might actually see the geth as invaders.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05272",
+   "en": "Come. Saren already has a headstart. We have to go find him before he reaches the Conduit.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05273",
+   "en": "Come on. Saren's already got a headstart. We have to go find him before he reaches the Conduit.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05274",
+   "en": "Unless he's already found it. Then we're just walking into a trap.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05275",
+   "en": "That is a chance we will have to take.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05276",
+   "en": "That's a chance we'll have to take.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05277",
+   "en": "What is this? Some kind of defense bunker?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05278",
+   "en": "Probably. The Protheans could have used this elevator to deploy reinforcements to protect the rest of the complex.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05279",
+   "en": "What do you think the geth are doing with those armatures?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05280",
+   "en": "It appears they hooked them into the Prothean maintenance bays to make repairs. The security lockdown must have deactivated them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05281",
+   "en": "Looks like they hooked them into the Prothean maintenance bays to make repairs. The security lockdown must have deactivated them.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05282",
+   "en": "I just hope they don't suddenly become active again.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05283",
+   "en": "That thing wasn't flashing before. What's going on?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05284",
+   "en": "It must have activated when we disengaged the security lockdown. Looks like some kind of operations pod.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05285",
+   "en": "The Protheans probably used it to control the automated defenses.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05286",
+   "en": "It's a massacre out there! The armatures are wiping out the geth!",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05287",
+   "en": "They are being controlled by the station's automated defense programs. They are attacking anything that is not Prothean. If we go out there, they will attack us, too.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05288",
+   "en": "They're being controlled by the station's automated defense programs. They're attacking anything that isn't Prothean. If we go out there they'll attack us too.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05289",
+   "en": "Hold on... something's happening.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05290",
+   "en": "Sounds like some kind of message. But I don't recognize the language.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05291",
+   "en": "... [static] --ot safe-- [static] ... seek refuge... [static] --side the archives... [static]...",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05292",
+   "en": "It is probably in Prothean. This recording must be 50,000 years old. No wonder we cannot understand it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05293",
+   "en": "It's probably in Prothean. This recording must be 50,000 years old. No wonder we can't understand it.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05294",
+   "en": "--alled Reapers. [static]... the Citadel... [static] ...overwhelmed... [static] ...only hope... [static]...",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05295",
+   "en": "What's it saying? Can you make out anything useful?",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05296",
+   "en": "--[static] act of desperation... [static] ... the Conduit... [static] ... all is lost [static]",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05297",
+   "en": "...cannot be stopped... [static] ...cannot be stopped... [static]",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05298",
+   "en": "--too late. [static]... unable to... [static] ...invading fleets... [static] ... no escape... [static]...",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05299",
+   "en": "Of course. Between the beacons and the Cipher, an understanding of the Prothean language would have been transferred into your mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05300",
+   "en": "Incredible! The Cipher must have transferred an understanding of the Prothean language into your mind.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  },
+  {
+   "key": "u05301",
+   "en": "The message is all broken up, but I recognize some of the words. It's a warning against the Reaper invasion.",
+   "tr": "",
+   "ctx": [
+    "BIOA_LOS30_01_DSG_LOC"
+   ]
+  }
+ ]
+}

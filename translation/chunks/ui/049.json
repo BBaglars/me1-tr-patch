@@ -1,0 +1,1210 @@
+{
+ "meta": {
+  "lane": "ui",
+  "task": "t118",
+  "chunk": "ui/049",
+  "family": "UI:Startup"
+ },
+ "entries": [
+  {
+   "key": "u25045",
+   "en": "To Medical Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25046",
+   "en": "The medical bay is downstairs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25047",
+   "en": "To Quarantine and Barracks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25048",
+   "en": "The quarantine lab is located near the scientist barracks on the lower level.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25049",
+   "en": "To Restricted Area",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25050",
+   "en": "The restricted area is off-limits to all unauthorized personnel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25051",
+   "en": "To Maintenance Area",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25052",
+   "en": "The maintenance area is restricted to authorized personnel.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25053",
+   "en": "Destroy the conduits in each of the three VI cores.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25054",
+   "en": "Destroy VI Conduits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25055",
+   "en": "Core 1 Conduits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25056",
+   "en": "Core 2 Conduits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25057",
+   "en": "Core 3 Conduits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25058",
+   "en": "Mercenary Corpse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25059",
+   "en": "You've eliminated the threat at this facility. Continue to one of the other nearby labs.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25060",
+   "en": "You check for a pulse, but find none. Admiral Kahoku is dead.\n\nDespite the ferocity of the creatures he was sealed in with, there are no signs of trauma on his corpse. The needle marks on his arm suggest a different means of execution.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25061",
+   "en": "There was no sign of Kahoku among the creeper corpses. He must be at one of the other labs in the area.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25062",
+   "en": "Artifact Recovered",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25063",
+   "en": "Recovery Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25064",
+   "en": "Recover Artifact",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25065",
+   "en": "Mineral Surveyed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25066",
+   "en": "Survey Failed",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25067",
+   "en": "Surveying Mineral",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25068",
+   "en": "Survey Mineral",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25069",
+   "en": "These controls are too delicate to operate while under fire.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25070",
+   "en": " Raising a hairy fist, you shake your spear at it in anger and the creature rises up quickly until it disappears from view. With a satisfied grunt you make your way back to your caves and the rest of the tribe. \n You fall into the familiar patterns of life - the hunt for food, the struggle to claim and keep a mate, the battles against other tribes that would claim your territory. Days roll into nights and back into days. Each time you rise from sleep there is the sensation that you are not alone; that some \"other\" is with you sharing all you see, hear and feel. At these times your hand goes to the strange lump at the back of your skull and you remember the silver creature in the sky.\n The air grows colder, winter falls. You must range farther for food, clutching the furs tight against you to ward off the chill. It is on one of these long hunts that the strange bird returns. You hear it before you see it, its call a deafening roar as it descends from above, swooping down on you. A single great eye opens on the underbelly, a glowing red orb. You try to run, but a finger of red light extends from the eye and engulfs you, and all goes black again.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25071",
+   "en": "  You wake an instant later to find yourself on Eletania lying on your back, the Prothean artifact looming above you undamaged and your companions standing over you. They help you to your feet, puzzled. \"There was a flash of light and you just sort of toppled over,\" one explains. \"Are you okay, Shepard?\" the other asks.\n  You don't answer right away, wondering at the implications of what you have seen: the memories of a Cro-Magnon hunter, captured by an implanted Prothean data recorder. How long did they study the primitive humans, observing them and analyzing the results at their base on Mars? And what, if anything, did they learn from us?   \n \"I'm fine,\" you finally reply, realizing this is a mystery you will probably never solve. \"Forget about it.\"",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25072",
+   "en": "After a few seconds of downloading, you secure Gavin Hossle's design data.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25073",
+   "en": "Train Station",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25074",
+   "en": "All Characters",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25075",
+   "en": "The VI core appears inoperational. You can attempt to manually reconfigure the data banks or use omni-gel to repair the damaged systems.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25076",
+   "en": "Repair 100 Omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25077",
+   "en": "Attempt Manual Reactivation",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25078",
+   "en": "Insufficent Omni-gel",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25079",
+   "en": "Confirm: use 100 omni-gel to repair VI core?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25080",
+   "en": "New downloadable content available. Please check the Xbox Live Marketplace.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25081",
+   "en": "Tunnel Exit",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25082",
+   "en": "Tunnel Entrance",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25083",
+   "en": "Ramp Up",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25084",
+   "en": "Ramp Down",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25085",
+   "en": "Storage Tents",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25086",
+   "en": "Data collection complete!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25087",
+   "en": "Return to Normandy?",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25088",
+   "en": "Turian Corpse",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25089",
+   "en": "You've found the location of a major Cerberus facility. Head to Nepheron in the Columbia System of the Voyager Cluster and destroy it.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25090",
+   "en": "Destroy Main Cerberus Facility",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25091",
+   "en": "Cerberus has been conducting illegal genetic research in an effort to create an unstoppable army. You found Kahoku dead in one of their bases, and now you are the only one who can stop them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25092",
+   "en": "UNC: Hades' Dogs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25093",
+   "en": "You found a major Cerberus base and ended their sinister experiments in this cluster, avenging Admiral Kahoku's death and removing a danger that could have threatened the entire galaxy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25094",
+   "en": "You have completed the repairs to Peak 15.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25095",
+   "en": "View Credits",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25096",
+   "en": "Paragon Bonus\nCHARM Talent Increased",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25097",
+   "en": "Renegade Bonus\nINTIMIDATE Talent Increased",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25098",
+   "en": "DLC_Caleston galaxy map event message 01.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25099",
+   "en": "DLC_Caleston galaxy map event message 02.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25100",
+   "en": "DLC_Caleston galaxy map event message 03.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25101",
+   "en": "DLC_Caleston galaxy map event message 04.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25102",
+   "en": "DLC_Caleston galaxy map event message 05.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25103",
+   "en": "DLC_Caleston galaxy map event message 06.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25104",
+   "en": "DLC_Caleston galaxy map event message 07.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25105",
+   "en": "DLC_Caleston galaxy map event message 08.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25106",
+   "en": "DLC_Caleston galaxy map event message 09.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25107",
+   "en": "DLC_Caleston galaxy map event message 10.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25108",
+   "en": "DLC_Caleston galaxy map event message 11.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25109",
+   "en": "DLC_Caleston galaxy map event message 12.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25110",
+   "en": "Paragon Bonus\nCHARM Talent Increased\n+10% First Aid Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25111",
+   "en": "Renegade Bonus\nINTIMIDATE Talent Increased\n+10% Weapon Powers Cooldown",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25112",
+   "en": "Paragon Bonus\n+10% Health",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25113",
+   "en": "Renegade Bonus\nRegenerate 1 Health per Second\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25114",
+   "en": "Paragon Bonus\nCHARM Talent Increased\n+5% Cooldown on all Powers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25115",
+   "en": "Renegade Bonus\nINTIMIDATE Talent Increased\n+5% Damage/Duration to all Weapons and Powers",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25116",
+   "en": "Purchasing Manufacturer Contracts will make new items available in stores throughout the game.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25117",
+   "en": "To unlock new items in stores, purchase Manufacturer Contracts. Remember: equipped items will not show up in the SELL window in stores.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25118",
+   "en": "Persuade options will be grayed out if you don't have a high enough skill rank in Charm or Intimidate.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25119",
+   "en": "Unlock bonus skill ranks in Charm by earning Paragon points.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25120",
+   "en": "Unlock bonus skill ranks in Intimidate by earning Renegade points.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25121",
+   "en": "You will earn Paragon or Renegade points throughout the game based on your actions and dialog choices.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25122",
+   "en": "Options at the top of the conversation wheel will often earn you Paragon points.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25123",
+   "en": "Options at the bottom of the conversation wheel will often earn you Renegade points.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25124",
+   "en": "You've decided it would be best if nobody scanned the keepers anymore.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25125",
+   "en": "Data Port",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25126",
+   "en": "Take the rover back along the Prothean skyway to Zhu's Hope and find the entrance to the Thorian's lair. Equip the anti-Thorian gas upgrade to your grenades to disable mind-controlled colonists without killing them.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25127",
+   "en": "Davin Reynolds did not survive the attack on Zhu's hope. There is no point in finishing this assignment now.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25128",
+   "en": "There are not enough survivors in Zhu's hope to restore the colony. There is no point in completing this assignment now.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25129",
+   "en": "Macha Doyle did not survive your assault on Zhu's Hope. There is no point in completing this assignment now.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25130",
+   "en": "May O'Connel did not survive your attack on Zhu's hope. There is no point in continuing this assignment.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25131",
+   "en": "Noveria: Peak 15 Reactor Core",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25132",
+   "en": "Noveria: Peak 15 Tram",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25133",
+   "en": "Noveria: Rift Station Med Bay",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25134",
+   "en": "Virmire: Krogan Breeding Grounds Tower",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25135",
+   "en": "Lead Cinematic Systems Designer",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25136",
+   "en": "Brad Prince",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25137",
+   "en": "Manager of Administrative Services",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25138",
+   "en": "Jo-Marie Langkow",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25139",
+   "en": "Overheated",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25140",
+   "en": "Senior Project Manager",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25141",
+   "en": "Guillaume Capitan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25142",
+   "en": "You confronted Chorban with Jahleed's allegations. He revealed that Jahleed didn't tell you the whole truth. He and Chorban were stealing from the company they worked for and doing illegal research on the keepers.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25143",
+   "en": "Hanhe-Kedar Grenade Launcher",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25144",
+   "en": "Hanhe-Kedar Grenade Launcher Desc",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25145",
+   "en": "You discover a number of encrypted geth data files. In the proper hands they could reveal much about the evolution of the geth since the banishment of the quarians.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25146",
+   "en": "Download Data",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25147",
+   "en": "Sentinel\nSpecial training allows Sentinels to use tech and biotics more efficiently than other classes.\n\nReduces the recharge time of tech abilities\nReduces the recharge time of biotic abilities\nIncreases damage and accuracy with pistols",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25148",
+   "en": "Reduces the cooldown time of biotic and tech talents by 10%\nIncrease pistol damage by 12%\nIncrease pistol accuracy by 19%",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25149",
+   "en": "Loc Audio VO Prod. ExeQuo France",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25150",
+   "en": " Examining the strange Prothean artifact reveals a small, irregular slot on the underside. Remembering the strange trinket you received from the asari Consort on the Citadel, you pull it out and place it into the slot. The ball explodes in a brilliant flash of white light, momentarily blinding and disorienting you.\n***\n Slowly your senses return as you wake from a deep sleep. You are alone in the forest, though you are not far from the caves you share with the others of your tribe. There is a pain and a small lump in the back of your skull, as if a chip of flint has been forced under the surface of the skin.\n  Leaning on your bone-tipped spear for support, you rise to your feet. A sound draws your attention upwards, where a strange creature hovers high above you. It is unlike the birds you hunt by the lake's edge - it has no head and no wings yet somehow it flies. It is a beast of shining silver; hanging motionless in the sky like a cloud. You sense it is watching you, studying you.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25151",
+   "en": "You no longer need Garrus. However, he might still be able to help you against Saren. If you happen to run into him you might want to hear what he has to say.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25152",
+   "en": "Acquire Allies",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25153",
+   "en": "With the quarian's evidence against Saren you no longer need to find Garrus.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25154",
+   "en": "Normally, you can only switch squad members when you leave the Normandy.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25155",
+   "en": "Choose your squad carefully when you leave the Normandy - you might not be able to switch them until you get back!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25156",
+   "en": "SPECTRE BONUS\nSpectre Training talent unlocked!",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25157",
+   "en": "By accessing Citadel Transit terminals like this one, you can travel directly to specific locations throughout the Citadel. As you discover areas of interest, more destinations will become available.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25158",
+   "en": "You currently have <CUSTOM0> items. You are nearing the <CUSTOM1> item limit. You will be forced to salvage any new items you find once you reach this limit. Sell or salvage some items at your earliest convenience to avoid reaching this limit.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25159",
+   "en": "You have reached the <CUSTOM1> item limit in your inventory. You must salvage or sell <CUSTOM0> item(s) before you can attain new items.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25160",
+   "en": "Your inventory is at or has exceeded the <CUSTOM1> item limit. You must sell <CUSTOM0> item(s) before purchasing more items.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25161",
+   "en": "Cannot save while vehicle parked in dangerous location.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25162",
+   "en": "Character level limits how many ranks you can have in a given talent. Each time you gain a level you unlock another rank and gain more points to spend.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25163",
+   "en": "Emergency FTL Comm",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25164",
+   "en": "You find a repair ticket attached to the console:\nThe damn door to the shuttle bay is fried again. Works fine if the PSI is 30 or lower, and the safety shut-off kicks in if the PSI gets above 34. But if the PSI is in the 31-34 zone the door slams down with enough power to shear through a metal I-beam. Somebody fix this before one of my team loses an arm in that thing!\n\n",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25165",
+   "en": "Xenobiology Database",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25166",
+   "en": "Batarian State Arms",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25167",
+   "en": "Harpoon Rounds",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25168",
+   "en": "Cerberus Skunkworks",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25169",
+   "en": "Pressurized Seals",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25170",
+   "en": "Jormangund Technology",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25171",
+   "en": "Hazard Seals",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25172",
+   "en": "HK Shadow Works",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25173",
+   "en": "Hyper Rail",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25174",
+   "en": "The batarian government does not trust private industry to create their military hardware. BSA is a vast nationalized institution infamous for its waste and corruption. It produces effective, if unethical, chemical weapons and a line of Nuclear, Chemical, and Biological (NBC) protective armor.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25175",
+   "en": "Harpoon rounds are built of material that condenses on impact to penetrate armor, then shreds into shrapnel in the softer medium of flesh. They are widely considered unethical.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25176",
+   "en": "The operatives of Cerberus produce their own specialist hardware for black ops wetwork. Their weapons are advanced particle beams with excellent shield penetration, damage, and accuracy. Their field hardsuits feature advanced protective measures and sophisticated anti-hacking measures.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25177",
+   "en": "Installation of pressure seals provides a hardsuit with additional level protection against Nuclear, Chemical, and Biological (NBC) hazards.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25178",
+   "en": "A rising star of post-contact human industry, Jormangund returns consistent profits through aggressive integration of alien technologies. Mainly known for advanced optical computers and AI \"blueboxes,\" the company has recently developed a \"micro gravitic\" personal weapon that effectively fires small disruptor torpedoes.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25179",
+   "en": "Installation of Hazard Seals provides a hardsuit with additional protection against general environmental hazards.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25180",
+   "en": "Founded a decade ago, this Hahne-Kedar subsidiary is a place for younger employees to \"think outside the box\". HKSW supplies weapons and armor to Alliance special forces units. In keeping with the parent company's corporate philosophy, products are rugged, reliable, and require less maintenance than competitors.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25181",
+   "en": "A hyper rail upgrade extends the barrel of a weapon and \"overclocks\" its mass accelerator equipment. Its hypervelocity slugs impact with enough force to be useful against light armored vehicles, but produce significant heat and recoil.",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25182",
+   "en": "Stairs",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25183",
+   "en": "Skirmish",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25184",
+   "en": "Partisan",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25185",
+   "en": "Freedom",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25186",
+   "en": "Janissary",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25187",
+   "en": "Spectre Armor",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25188",
+   "en": "Reduce Hazard by 2 Level\n+1 Health Regeneration/sec\n+10% Shields",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25189",
+   "en": "Reduce Hazard by 2 Level\n+30% DP\n+30% Shields\n+50% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25190",
+   "en": "Reduce Hazard by 2 Level\n+10% DP\n+100% Shields\n+10% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25191",
+   "en": "+5% DP\n+20% Shields\n-10% Hardening",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25192",
+   "en": "Terminator",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25193",
+   "en": "Judgement",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  },
+  {
+   "key": "u25194",
+   "en": "Executioner",
+   "tr": "",
+   "ctx": [
+    "Startup"
+   ]
+  }
+ ]
+}
