@@ -34,3 +34,10 @@ Rule: names of people, ships, places, species and organisations stay in English 
 | Level / XP | Seviye / TP (tecrübe puanı) | |
 
 Add new terms below with a date and the cabal message that approved them.
+
+## Additions 2026-10-16 (cabal c108 decisions d134, d136; full lists are in those decisions)
+Ranks: Lieutenant=Teğmen, Chief=Başçavuş, Major=Binbaşı, Doctor=Doktor, Administrator=Yönetici, Director=Direktör, Consort=Konsort, Matriarch=Matriarch.
+UI: Examine=İncele, Search=Ara, Back=Geri, Continue=Devam, Cancel=İptal, Exit=Çık, Complete=Tamamlandı, Goodbye.=Hoşça kal., Reward=Ödül, Mission Computer=Görev Bilgisayarı, On/Off=Açık/Kapalı.
+Stats: Shields=Kalkan, Hardening=Sertleşme, Damage=Hasar, Damage Protection=Hasar Koruması, Weapon Stability=Silah Dengesi, Heat Absorption=Isı Emilimi, Accuracy=İsabet, Recharge Time=Yeniden Dolum Süresi, Duration=Süre, Power Wheel=Güç Çarkı, Specialization=Uzmanlık; "+20% Shields" = "+%20 Kalkan".
+Planet: Day Length=Gün Uzunluğu, Orbital Period=Yörünge Periyodu, Orbital Distance=Yörünge Mesafesi, Atmospheric Pressure=Atmosfer Basıncı, Surface Temperature=Yüzey Sıcaklığı, Surface Gravity=Yüzey Yerçekimi, Radius=Yarıçap, Population=Nüfus, Earth Years/Hours=Dünya Yılı/Saati.
+Powers: Overload=Aşırı Yükleme, Sabotage=Sabotaj, Lift=Kaldırma, Throw=Fırlatma, Stasis=Stazis, Singularity=Tekillik, Barrier=Bariyer, Neural Shock=Sinir Şoku, Damping=Sönümleme, First Aid=İlk Yardım, Hacking=Hackleme, Decryption=Şifre Çözme, Electronics=Elektronik, Charm=Büyüleme, Intimidate=Yıldırma, Warp=Warp.
