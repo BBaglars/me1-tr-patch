@@ -201,7 +201,7 @@
   {
    "key": "u27414",
    "en": "Disc shaped Alliance grenades can glide long distances and also latch onto targets or flat surfaces to be remotely detonated. Only you, as Commander Shepard, can use grenades.\n\nPress the SELECT button to throw a grenade, and press the SELECT button again to detonate it. A grenade automatically explodes after ten seconds if you don't detonate it.",
-   "tr": "Disk biçimli Alliance el bombaları uzun mesafeler süzülebilir; ayrıca hedeflere veya düz yüzeylere yapışıp uzaktan patlatılabilir. El bombalarını yalnızca Komutan Shepard olarak siz kullanabilirsiniz.\n\nEl bombası atmak için SELECT tuşuna, patlatmak için tekrar SELECT tuşuna basın. Patlatmazsanız el bombası on saniye sonra kendiliğinden patlar.",
+   "tr": "Disk biçimli İttifak el bombaları uzun mesafeler süzülebilir; ayrıca hedeflere veya düz yüzeylere yapışıp uzaktan patlatılabilir. El bombalarını yalnızca Komutan Shepard olarak siz kullanabilirsiniz.\n\nEl bombası atmak için SELECT tuşuna, patlatmak için tekrar SELECT tuşuna basın. Patlatmazsanız el bombası on saniye sonra kendiliğinden patlar.",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u27418",
    "en": "Equipment types include:\n- Armor\n- Assault Rifles\n- Bio-Amps\n- Grenades\n- Omni-Tools\n- Pistols\n- Shotguns\n- Sniper Rifles\n\n(Note that weapons and armor are covered in their own sections of this manual.)",
-   "tr": "Ekipman türleri şunlardır:\n- Zırh\n- Taarruz Tüfekleri\n- Bio-Amp'ler\n- El Bombaları\n- Omni-Tool'lar\n- Tabancalar\n- Pompalı Tüfekler\n- Keskin Nişancı Tüfekleri\n\n(Silahların ve zırhların bu kılavuzun kendi bölümlerinde ele alındığını unutmayın.)",
+   "tr": "Ekipman türleri şunlardır:\n- Zırh\n- Taarruz Tüfekleri\n- Bio-Amp'ler\n- El Bombaları\n- Omni-Aletler\n- Tabancalar\n- Pompalı Tüfekler\n- Keskin Nişancı Tüfekleri\n\n(Silahların ve zırhların bu kılavuzun kendi bölümlerinde ele alındığını unutmayın.)",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u27423",
    "en": "Omni-Tools",
-   "tr": "Omni-Tool'lar",
+   "tr": "Omni-Aletler",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u27424",
    "en": "Omni-tools are multipurpose diagnostic and minifacturing tools used for a variety of battlefield tasks such as hacking, decryption, or repair.",
-   "tr": "Omni-tool'lar; hackleme, şifre çözme veya onarım gibi çeşitli savaş alanı işlerinde kullanılan çok amaçlı teşhis ve minyatür üretim aletleridir.",
+   "tr": "Omni-aletler; hackleme, şifre çözme veya onarım gibi çeşitli savaş alanı işlerinde kullanılan çok amaçlı teşhis ve minyatür üretim aletleridir.",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u27425",
    "en": "Containers: Found on every planet and often hold valuable equipment and resources. Containers look like metal footlockers or cargo crates. You cannot place items in them.\n\nOmni-Gel: Technological materials that can be salvaged from the environment are called omni-gel. Use it with the omni-tool to do electrical or decryption work. You can also use omni-gel to repair the Mako vehicle.\n\nCredits: The primary monetary unit in the Mass Effect universe.\n\nMedi-Gel: Medical gel heals various wounds and ailments. You acquire it through looting or from NPCs (non-player characters). You can also purchase an increase in your medi-gel capacity in some shops. Press the triangle button to deploy First Aid.",
-   "tr": "Konteynerler: Her gezegende bulunur ve çoğunlukla değerli ekipman ve kaynak içerir. Konteynerler metal sandıklara veya kargo kasalarına benzer. İçlerine eşya koyamazsınız.\n\nOmni-Jel: Çevreden kurtarılabilen teknolojik malzemelere omni-jel denir. Elektrik veya şifre çözme işleri için omni-tool ile kullanın. Omni-jeli Mako aracını onarmak için de kullanabilirsiniz.\n\nKredi: Mass Effect evrenindeki temel para birimi.\n\nMedi-Jel: Tıbbi jel çeşitli yaraları ve rahatsızlıkları iyileştirir. Yağmalayarak veya NPC'lerden (oyuncu olmayan karakterler) edinirsiniz. Bazı dükkânlardan medi-jel kapasitenizi artırabilirsiniz. İlk Yardım'ı kullanmak için üçgen tuşuna basın.",
+   "tr": "Konteynerler: Her gezegende bulunur ve çoğunlukla değerli ekipman ve kaynak içerir. Konteynerler metal sandıklara veya kargo kasalarına benzer. İçlerine eşya koyamazsınız.\n\nOmni-Jel: Çevreden kurtarılabilen teknolojik malzemelere omni-jel denir. Elektrik veya şifre çözme işleri için omni-alet ile kullanın. Omni-jeli Mako aracını onarmak için de kullanabilirsiniz.\n\nKredi: Mass Effect evrenindeki temel para birimi.\n\nMedi-Jel: Tıbbi jel çeşitli yaraları ve rahatsızlıkları iyileştirir. Yağmalayarak veya NPC'lerden (oyuncu olmayan karakterler) edinirsiniz. Bazı dükkânlardan medi-jel kapasitenizi artırabilirsiniz. İlk Yardım'ı kullanmak için üçgen tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u27427",
    "en": "Select Squad on the Mission Computer to display information available on each squad member. The information includes:\n\nCurrent Level:\nAs you gain experience, your current level reflects your advancement. When you gain enough experience to advance to a new level, you are granted Talent points that you can spend to purchase higher ranks or additional talents.\n\nHealth:\nYour current and maximum health levels are listed. Health represents your ability to take damage in combat. When your health hit zero, Shepard dies. Your maximum health increases as you advance during gameplay.\n\nExperience Points:\nYour current XP is listed as well as the total points that are needed to advance to the next level.\n\nParagon and Renegade Meters:\nThese meters track your choices throughout the game. The Paragon meter increases when your choices are noble, cooperative, or self-sacrificing. Paragons achieve their goals by doing the right thing in the right way. The Renegade meter increases when your choices are aggressive, selfish, or ruthless. Renegades achieve their goals by any means necessary.",
-   "tr": "Her takım üyesi hakkındaki bilgileri görmek için Görev Bilgisayarı'nda Takım'ı seçin. Bilgiler şunları içerir:\n\nMevcut Seviye:\nDeneyim kazandıkça mevcut seviyeniz ilerlemenizi yansıtır. Yeni bir seviyeye geçecek kadar deneyim kazandığınızda, daha yüksek rütbeler veya ek yetenekler satın almak için harcayabileceğiniz Yetenek puanları verilir.\n\nSağlık:\nMevcut ve azami sağlık seviyeleriniz listelenir. Sağlık, savaşta hasar alabilme kapasitenizi gösterir. Sağlığınız sıfıra düştüğünde Shepard ölür. Azami sağlığınız oyun boyunca ilerledikçe artar.\n\nDeneyim Puanları:\nMevcut XP'niz ve bir sonraki seviyeye geçmek için gereken toplam puan listelenir.\n\nParagon ve Renegade Ölçerleri:\nBu ölçerler oyun boyunca yaptığınız seçimleri izler. Seçimleriniz soylu, iş birliğine dayalı veya fedakâr olduğunda Paragon ölçeri artar. Paragon'lar hedeflerine doğru şeyi doğru yoldan yaparak ulaşır. Seçimleriniz saldırgan, bencil veya acımasız olduğunda Renegade ölçeri artar. Renegade'ler hedeflerine gerekirse her yolu deneyerek ulaşır.",
+   "tr": "Her takım üyesi hakkındaki bilgileri görmek için Görev Bilgisayarı'nda Takım'ı seçin. Bilgiler şunları içerir:\n\nMevcut Seviye:\nDeneyim kazandıkça mevcut seviyeniz ilerlemenizi yansıtır. Yeni bir seviyeye geçecek kadar deneyim kazandığınızda, daha yüksek rütbeler veya ek yetenekler satın almak için harcayabileceğiniz Yetenek puanları verilir.\n\nSağlık:\nMevcut ve azami sağlık seviyeleriniz listelenir. Sağlık, savaşta hasar alabilme kapasitenizi gösterir. Sağlığınız sıfıra düştüğünde Shepard ölür. Azami sağlığınız oyun boyunca ilerledikçe artar.\n\nTecrübe Puanları:\nMevcut TP'niz ve bir sonraki seviyeye geçmek için gereken toplam puan listelenir.\n\nParagon ve Renegade Ölçerleri:\nBu ölçerler oyun boyunca yaptığınız seçimleri izler. Seçimleriniz soylu, iş birliğine dayalı veya fedakâr olduğunda Paragon ölçeri artar. Paragon'lar hedeflerine doğru şeyi doğru yoldan yaparak ulaşır. Seçimleriniz saldırgan, bencil veya acımasız olduğunda Renegade ölçeri artar. Renegade'ler hedeflerine gerekirse her yolu deneyerek ulaşır.",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u27457",
    "en": "Specialization boosts class-specific talents. After completing an optional Systems Alliance Military assignment, choose a specialization for your character to increase the maximum talent points you can spend on class-specific talents.",
-   "tr": "Uzmanlık, sınıfa özgü yetenekleri güçlendirir. İsteğe bağlı bir Systems Alliance Ordusu görevini tamamladıktan sonra, sınıfa özgü yeteneklere harcayabileceğiniz azami yetenek puanını artırmak için karakteriniz için bir uzmanlık seçin.",
+   "tr": "Uzmanlık, sınıfa özgü yetenekleri güçlendirir. İsteğe bağlı bir Sistemler İttifakı Ordusu görevini tamamladıktan sonra, sınıfa özgü yeteneklere harcayabileceğiniz azami yetenek puanını artırmak için karakteriniz için bir uzmanlık seçin.",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u27486",
    "en": "Requirement: Find All Primary Codex Entries on Alien: Council Races, Extinct Races, and Non-Council Races\nReward: Silver Trophy",
-   "tr": "Şart: Uzaylılar bölümündeki Konsey Irkları, Soyu Tükenmiş Irklar ve Konsey Dışı Irklar için tüm ana Codex kayıtlarını bul\nÖdül: Gümüş Kupa",
+   "tr": "Şart: Uzaylılar bölümündeki Konsey Irkları, Soyu Tükenmiş Irklar ve Konsey Dışı Irklar için tüm ana Kodeks kayıtlarını bul\nÖdül: Gümüş Kupa",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u27493",
    "en": "Requirement: Complete Majority of the Game with Alliance Soldier Squad Member\nReward: Bronze Trophy\nDamage Reduction improves by 10%",
-   "tr": "Şart: Oyunun büyük kısmını Alliance Askeri takım üyesiyle tamamla\nÖdül: Bronz Kupa\nHasar Azaltma %10 artar",
+   "tr": "Şart: Oyunun büyük kısmını İttifak Askeri takım üyesiyle tamamla\nÖdül: Bronz Kupa\nHasar Azaltma %10 artar",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u27494",
    "en": "Requirement: Complete Majority of the Game with Alliance Sentinel Squad Member\nReward: Bronze Trophy\nLift and Throw recharge time improve by 10%",
-   "tr": "Şart: Oyunun büyük kısmını Alliance Bekçisi takım üyesiyle tamamla\nÖdül: Bronz Kupa\nKaldırma ve Fırlatma yeniden dolum süresi %10 kısalır",
+   "tr": "Şart: Oyunun büyük kısmını İttifak Bekçisi takım üyesiyle tamamla\nÖdül: Bronz Kupa\nKaldırma ve Fırlatma yeniden dolum süresi %10 kısalır",
    "ctx": [
     "Startup"
    ]
