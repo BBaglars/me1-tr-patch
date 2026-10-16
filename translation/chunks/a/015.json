@@ -9,7 +9,7 @@
   {
    "key": "u05522",
    "en": "Nihlus is on our side. He wants you in the Spectres, and he wants that beacon.",
-   "tr": "",
+   "tr": "Nihlus bizim tarafımızda. Seni Spectre'lara almak istiyor ve o işaret fişeğini istiyor.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -18,7 +18,7 @@
   {
    "key": "u05523",
    "en": "We've got his back, Captain.",
-   "tr": "",
+   "tr": "Arkasını kollarız, Kaptan.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -27,7 +27,7 @@
   {
    "key": "u05524",
    "en": "I don't like putting my life in the hands of a turian, sir.",
-   "tr": "",
+   "tr": "Hayatımı bir turian'ın eline vermekten hoşlanmıyorum, efendim.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -36,7 +36,7 @@
   {
    "key": "u05525",
    "en": "He can count on us.",
-   "tr": "",
+   "tr": "Bize güvenebilir.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -45,7 +45,7 @@
   {
    "key": "u05526",
    "en": "Can we trust him?",
-   "tr": "",
+   "tr": "Ona güvenebilir miyiz?",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -54,7 +54,7 @@
   {
    "key": "u05527",
    "en": "Engaging stealth systems.",
-   "tr": "",
+   "tr": "Gizlilik sistemleri devreye giriyor.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -63,7 +63,7 @@
   {
    "key": "u05528",
    "en": "Approaching drop point one.",
-   "tr": "",
+   "tr": "Birinci bırakma noktasına yaklaşıyoruz.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -72,7 +72,7 @@
   {
    "key": "u05529",
    "en": "We are approaching drop point two.",
-   "tr": "",
+   "tr": "İkinci bırakma noktasına yaklaşıyoruz.",
    "ctx": [
     "BIOA_NOR10_00_PLC_LOC",
     "BIOA_NOR10_11_DS1_LOC"
@@ -81,7 +81,7 @@
   {
    "key": "u05530",
    "en": "Thrusters... check. Navigation... check. Internal emissions sink engaged. All systems online. Drift... just under 1500 K.",
-   "tr": "",
+   "tr": "İtici motorlar... tamam. Seyrüsefer... tamam. İç emisyon emici devrede. Tüm sistemler çevrimiçi. Sürüklenme... 1500 K'nin hemen altında.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -90,7 +90,7 @@
   {
    "key": "u05531",
    "en": "Joker! Status report.",
-   "tr": "",
+   "tr": "Joker! Durum raporu.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -99,7 +99,7 @@
   {
    "key": "u05532",
    "en": "Just cleared the mass relay, Captain. Stealth systems engaged. Everything looks solid.",
-   "tr": "",
+   "tr": "Kütle rölesini yeni geçtik, Kaptan. Gizlilik sistemleri devrede. Her şey sağlam görünüyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -108,7 +108,7 @@
   {
    "key": "u05533",
    "en": "Good. Find a comm buoy and link us into the network. I want mission reports relayed back to Alliance brass before we reach Eden Prime.",
-   "tr": "",
+   "tr": "İyi. Bir haberleşme şamandırası bulup bizi ağa bağla. Eden Prime'a varmadan görev raporlarının İttifak komutanlığına iletilmesini istiyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -117,7 +117,7 @@
   {
    "key": "u05534",
    "en": "Pff. Don't blame me. The captain's always in a bad mood.",
-   "tr": "",
+   "tr": "Pff. Beni suçlama. Kaptan hep kötü ruh hâlinde.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -126,7 +126,7 @@
   {
    "key": "u05535",
    "en": "I can't possibly imagine why.",
-   "tr": "",
+   "tr": "Nedenini hayal bile edemiyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -135,7 +135,7 @@
   {
    "key": "u05536",
    "en": "Aye, aye, Captain. Better brace yourself, sir. I think Nihlus is headed your way.",
-   "tr": "",
+   "tr": "Emredersiniz, Kaptan. Hazırlansanız iyi olur, efendim. Sanırım Nihlus size doğru geliyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -144,7 +144,7 @@
   {
    "key": "u05537",
    "en": "The captain's waiting for you in the comm room, Commander.",
-   "tr": "",
+   "tr": "Kaptan sizi haberleşme odasında bekliyor, Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -153,7 +153,7 @@
   {
    "key": "u05538",
    "en": "Great. You piss the captain off and now I'm going to pay for it.",
-   "tr": "",
+   "tr": "Harika. Sen kaptanı kızdırdın, şimdi bedelini ben ödeyeceğim.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -162,7 +162,7 @@
   {
    "key": "u05539",
    "en": "You made him mad.",
-   "tr": "",
+   "tr": "Onu sen kızdırdın.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -171,7 +171,7 @@
   {
    "key": "u05540",
    "en": "Tell Commander Shepard to meet me in the comm room for a debriefing.",
-   "tr": "",
+   "tr": "Komutan Shepard'a söyle, bilgilendirme için haberleşme odasında benimle buluşsun.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -180,7 +180,7 @@
   {
    "key": "u05541",
    "en": "The Arcturus Prime relay is in range. Initiating transmission sequence.",
-   "tr": "",
+   "tr": "Arcturus Prime rölesi menzilde. İletim dizisi başlatılıyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -189,7 +189,7 @@
   {
    "key": "u05542",
    "en": "1500 is good. Your captain will be pleased.",
-   "tr": "",
+   "tr": "1500 iyi. Kaptanın memnun olacak.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -198,7 +198,7 @@
   {
    "key": "u05543",
    "en": "I hate that guy.",
-   "tr": "",
+   "tr": "Şu adamdan nefret ediyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -207,7 +207,7 @@
   {
    "key": "u05544",
    "en": "You're paranoid. The Council helped fund this project. They have a right to send someone to keep an eye on their investment.",
-   "tr": "",
+   "tr": "Paranoyaksın. Konsey bu projeyi finanse etmeye yardım etti. Yatırımlarını izlemesi için birini göndermeye hakları var.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -216,7 +216,7 @@
   {
    "key": "u05545",
    "en": "Yeah, that is the official story. But only an idiot believes the official story.",
-   "tr": "",
+   "tr": "Evet, resmî hikâye bu. Ama resmî hikâyeye yalnızca aptallar inanır.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -225,7 +225,7 @@
   {
    "key": "u05546",
    "en": "So there's more going on here than the captain's letting on.",
-   "tr": "",
+   "tr": "Yani burada kaptanın söylediğinden fazlası dönüyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -234,7 +234,7 @@
   {
    "key": "u05547",
    "en": "Sorry, Commander.",
-   "tr": "",
+   "tr": "Üzgünüm, Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC",
@@ -244,7 +244,7 @@
   {
    "key": "u05548",
    "en": "They don't send Spectres on shakedown runs. ",
-   "tr": "",
+   "tr": "Deneme seferlerine Spectre göndermezler.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -253,7 +253,7 @@
   {
    "key": "u05549",
    "en": "That's enough. You're soldiers. Act like it!",
-   "tr": "",
+   "tr": "Yeter. Siz askerlersiniz. Öyle davranın!",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -262,7 +262,7 @@
   {
    "key": "u05550",
    "en": "I agree.",
-   "tr": "",
+   "tr": "Katılıyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC",
@@ -272,7 +272,7 @@
   {
    "key": "u05551",
    "en": "Cut the chatter!",
-   "tr": "",
+   "tr": "Kesin gevezeliği!",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -281,7 +281,7 @@
   {
    "key": "u05552",
    "en": "Good timing, Commander. I was just about to bring us in to the Citadel. See that taxpayer money at work.",
-   "tr": "",
+   "tr": "İyi zamanlama, Komutan. Tam bizi Citadel'e sokmak üzereydim. Vergi mükelleflerinin parasının nasıl iş gördüğüne bakın.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -290,7 +290,7 @@
   {
    "key": "u05553",
    "en": "You remember to zip up your jumpsuit on the way out of the bathroom? That's good. I just jumped us halfway across the galaxy and hit a target the size of a pinhead. So that's incredible!",
-   "tr": "",
+   "tr": "Tuvaletten çıkarken tulumunun fermuarını çekmeyi hatırladın mı? İyi. Ben bizi galaksinin yarısı kadar öteye zıplattım ve toplu iğne başı kadar bir hedefe vurdum. Yani inanılmaz!",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -299,7 +299,7 @@
   {
    "key": "u05554",
    "en": "All stations secure for transit. ",
-   "tr": "",
+   "tr": "Tüm istasyonlar geçiş için güvende.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -308,7 +308,7 @@
   {
    "key": "u05555",
    "en": "The board is green. Approach run has begun.",
-   "tr": "",
+   "tr": "Panel yeşil. Yaklaşma başladı.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -317,7 +317,7 @@
   {
    "key": "u05556",
    "en": "Hitting the relay in 3... 2... 1...",
-   "tr": "",
+   "tr": "Röleye vuruyoruz, 3... 2... 1...",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -326,7 +326,7 @@
   {
    "key": "u05557",
    "en": "Nihlus gave you a compliment... so you hate him?",
-   "tr": "",
+   "tr": "Nihlus sana iltifat etti... ve sen ondan nefret mi ediyorsun?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -335,7 +335,7 @@
   {
    "key": "u05558",
    "en": "Besides, Spectres are trouble. I don't like having him on board. Call me paranoid.",
-   "tr": "",
+   "tr": "Üstelik Spectre'lar baş belası. Gemide olması hoşuma gitmiyor. Paranoyak deyin.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -344,7 +344,7 @@
   {
    "key": "u05559",
    "en": "Well, bad feelings are an occupational hazard. We don't go anywhere unless there's a good reason, so what are we doing here?",
-   "tr": "",
+   "tr": "Kötü önsezi mesleki risk. İyi bir sebep olmadan hiçbir yere gitmeyiz, o zaman burada ne işimiz var?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -353,7 +353,7 @@
   {
    "key": "u05560",
    "en": "You always expect the worst.",
-   "tr": "",
+   "tr": "Hep en kötüsünü bekliyorsun.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -362,7 +362,7 @@
   {
    "key": "u05561",
    "en": "You're overreacting.",
-   "tr": "",
+   "tr": "Abartıyorsun.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC",
@@ -372,7 +372,7 @@
   {
    "key": "u05562",
    "en": "He's already here, Lieutenant. ",
-   "tr": "",
+   "tr": "O zaten burada, Teğmen.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -381,7 +381,7 @@
   {
    "key": "u05563",
    "en": "You get that, Commander?",
-   "tr": "",
+   "tr": "Bunu anladınız mı, Komutan?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -390,7 +390,7 @@
   {
    "key": "u05564",
    "en": "We are connected. Calculating transit mass and destination.",
-   "tr": "",
+   "tr": "Bağlandık. Geçiş kütlesi ve varış noktası hesaplanıyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -399,7 +399,7 @@
   {
    "key": "u05565",
    "en": "The relay is hot. Acquiring approach vector.",
-   "tr": "",
+   "tr": "Röle sıcak. Yaklaşma vektörü alınıyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -408,7 +408,7 @@
   {
    "key": "u05566",
    "en": "Commander.",
-   "tr": "",
+   "tr": "Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC",
@@ -418,7 +418,7 @@
   {
    "key": "u05567",
    "en": "Pff. Captain always sounds like that when he's talking to me.",
-   "tr": "",
+   "tr": "Pff. Kaptan benimle konuşurken hep böyle ses çıkarıyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -427,7 +427,7 @@
   {
    "key": "u05568",
    "en": "Pff. Is it me or does the captain always sound a little pissed off?",
-   "tr": "",
+   "tr": "Pff. Bana mı öyle geliyor yoksa kaptan hep biraz öfkeli mi konuşuyor?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -436,7 +436,7 @@
   {
    "key": "u05569",
    "en": "Only when he's talking to you, Joker.",
-   "tr": "",
+   "tr": "Sadece seninle konuşurken, Joker.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -445,7 +445,7 @@
   {
    "key": "u05570",
    "en": "He sounds angry. Something must have gone wrong with the mission.",
-   "tr": "",
+   "tr": "Kızgın görünüyor. Görevde bir şeyler ters gitmiş olmalı.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -454,7 +454,7 @@
   {
    "key": "u05571",
    "en": "I'm on my way.",
-   "tr": "",
+   "tr": "Geliyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC",
@@ -464,7 +464,7 @@
   {
    "key": "u05572",
    "en": "Is he upset?",
-   "tr": "",
+   "tr": "Üzgün mü?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -473,7 +473,7 @@
   {
    "key": "u05573",
    "en": "I heard.",
-   "tr": "",
+   "tr": "Duydum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_01_DSG_LOC"
@@ -482,7 +482,7 @@
   {
    "key": "u05574",
    "en": "You probably don't want to keep the captain waiting, Commander.",
-   "tr": "",
+   "tr": "Kaptanı bekletmek istemezsiniz, Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -491,7 +491,7 @@
   {
    "key": "u05575",
    "en": "Joker's waiting for you on the bridge.",
-   "tr": "",
+   "tr": "Joker köprüde sizi bekliyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06kaidan_DSG_LOC",
@@ -501,7 +501,7 @@
   {
    "key": "u05576",
    "en": "Commander. I'm glad to see you're okay. Losing Jenkins was hard on the crew. And I'm glad we didn't lose you, too.",
-   "tr": "",
+   "tr": "Komutan. İyi olduğunuzu görmek sevindirici. Jenkins'i kaybetmek mürettebat için ağır oldu. Sizi de kaybetmediğimize sevindim.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -510,7 +510,7 @@
   {
    "key": "u05577",
    "en": "Yeah, you never get used to seeing dead civilians. Doesn't seem right, somehow. But at least you stopped Saren from wiping out the whole colony.",
-   "tr": "",
+   "tr": "Evet, ölü siviller görmeye hiç alışılmıyor. Her nasılsa doğru gelmiyor. Ama en azından Saren'in tüm koloniyi yok etmesini engellediniz.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -519,7 +519,7 @@
   {
    "key": "u05578",
    "en": "We're marines. We stick together. I'm just sorry we lost Jenkins.",
-   "tr": "",
+   "tr": "Biz deniz piyadeleriyiz. Birbirimize kenetleniriz. Sadece Jenkins'i kaybettiğimize üzülüyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -528,7 +528,7 @@
   {
    "key": "u05579",
    "en": "Maybe you're right. Things went bad. Real bad. I still can't believe we lost Jenkins.",
-   "tr": "",
+   "tr": "Belki haklısınız. İşler ters gitti. Hem de çok. Jenkins'i kaybettiğimize hâlâ inanamıyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -537,7 +537,7 @@
   {
    "key": "u05580",
    "en": "I know that. But I don't have to like it.",
-   "tr": "",
+   "tr": "Bunu biliyorum. Ama hoşuma gitmek zorunda değil.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -546,7 +546,7 @@
   {
    "key": "u05581",
    "en": "I was there. You did everything right. It was just bad luck.",
-   "tr": "",
+   "tr": "Oradaydım. Her şeyi doğru yaptınız. Sadece kötü şanstı.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -555,7 +555,7 @@
   {
    "key": "u05582",
    "en": "Sure thing, Commander.",
-   "tr": "",
+   "tr": "Elbette, Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -564,7 +564,7 @@
   {
    "key": "u05583",
    "en": "Glad to see you're okay, Commander.",
-   "tr": "",
+   "tr": "İyi olduğunuzu görmek sevindirici, Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -573,7 +573,7 @@
   {
    "key": "u05584",
    "en": "Things were pretty rough down there.",
-   "tr": "",
+   "tr": "Orada işler oldukça çetindi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -582,7 +582,7 @@
   {
    "key": "u05585",
    "en": "I couldn't have done it without you.",
-   "tr": "",
+   "tr": "Sensiz yapamazdım.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -591,7 +591,7 @@
   {
    "key": "u05586",
    "en": "Dead marines. Dead colonists. And in the end, we still didn't get that beacon.",
-   "tr": "",
+   "tr": "Ölü deniz piyadeleri. Ölü kolonistler. Ve sonunda yine o işaret fişeğini alamadık.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -600,7 +600,7 @@
   {
    "key": "u05587",
    "en": "There's nothing we could have done to save him.",
-   "tr": "",
+   "tr": "Onu kurtarmak için yapabileceğimiz hiçbir şey yoktu.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -609,7 +609,7 @@
   {
    "key": "u05588",
    "en": "Yeah... I wish I could've done something to save him.",
-   "tr": "",
+   "tr": "Evet... Keşke onu kurtarmak için bir şey yapabilseydim.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -618,7 +618,7 @@
   {
    "key": "u05589",
    "en": "I need to go see Joker.",
-   "tr": "",
+   "tr": "Gidip Joker'i görmem gerek.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -627,7 +627,7 @@
   {
    "key": "u05590",
    "en": "Soldiers die.",
-   "tr": "",
+   "tr": "Askerler ölür.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -636,7 +636,7 @@
   {
    "key": "u05591",
    "en": "Jenkins will be missed.",
-   "tr": "",
+   "tr": "Jenkins'in yokluğu hissedilecek.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -645,7 +645,7 @@
   {
    "key": "u05592",
    "en": "You helped.",
-   "tr": "",
+   "tr": "Yardım ettin.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC",
@@ -655,7 +655,7 @@
   {
    "key": "u05593",
    "en": "The mission failed.",
-   "tr": "",
+   "tr": "Görev başarısız oldu.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -664,7 +664,7 @@
   {
    "key": "u05594",
    "en": "It's been a hell of a shakedown cruise. Our first mission ends with one Spectre killing another.",
-   "tr": "",
+   "tr": "Çok zorlu bir deneme seferi oldu. İlk görevimiz bir Spectre'ın bir diğerini öldürmesiyle bitiyor.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -673,7 +673,7 @@
   {
    "key": "u05595",
    "en": "The Citadel Council's not gonna be happy about that. Probably use it to lever more concessions out of the Alliance.",
-   "tr": "",
+   "tr": "Citadel Konseyi bundan hoşlanmayacak. Muhtemelen İttifak'tan daha fazla taviz koparmak için kullanır.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -682,7 +682,7 @@
   {
    "key": "u05596",
    "en": "Yeah. A lot of biotics are. We're not restricted, but we sure don't go undocumented. May as well get a paycheck for it.",
-   "tr": "",
+   "tr": "Evet. Pek çok biyotik öyle. Kısıtlı değiliz ama kayıtsız da dolaşmıyoruz. Bari bunun karşılığında maaş alalım.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -691,7 +691,7 @@
   {
    "key": "u05597",
    "en": "Besides, my father served. Made him proud when I enlisted. Eventually. But is that why you're here? Because of your family?",
-   "tr": "",
+   "tr": "Üstelik babam da orduda görev yaptı. Kaydolduğumda gurur duydu. Sonunda. Ama sen bu yüzden mi buradasın? Ailen yüzünden mi?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -700,7 +700,7 @@
   {
    "key": "u05598",
    "en": "Ah, that's right. Akuze.  I imagine that bought you any post in the fleet.",
-   "tr": "",
+   "tr": "Ah, doğru. Akuze. Sanırım bu sana filoda istediğin her görevi kazandırdı.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -709,7 +709,7 @@
   {
    "key": "u05599",
    "en": "Ah, that's right. The Blitz. I imagine that bought you any post in the fleet.",
-   "tr": "",
+   "tr": "Ah, doğru. Blitz. Sanırım bu sana filoda istediğin her görevi kazandırdı.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -718,7 +718,7 @@
   {
    "key": "u05600",
    "en": "Ah, that's right. Torfan. Messy business. I imagine that bought you any post in the fleet.",
-   "tr": "",
+   "tr": "Ah, doğru. Torfan. Çetrefilli iş. Sanırım bu sana filoda istediğin her görevi kazandırdı.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -727,7 +727,7 @@
   {
    "key": "u05601",
    "en": "That how you got here? I heard about Akuze. I bet you had your pick of posts after that.",
-   "tr": "",
+   "tr": "Böyle mi geldin buraya? Akuze'yi duydum. Eminim ondan sonra istediğin göreve seçebilirdin.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -736,7 +736,7 @@
   {
    "key": "u05602",
    "en": "Is that how you got here? I heard about the Skyllian Blitz. I bet you had your pick of posts after that.",
-   "tr": "",
+   "tr": "Böyle mi geldin buraya? Skyllian Blitz'i duydum. Eminim ondan sonra istediğin göreve seçebilirdin.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -745,7 +745,7 @@
   {
    "key": "u05603",
    "en": "I heard about Torfan. I bet you had your pick of posts after that.",
-   "tr": "",
+   "tr": "Torfan'ı duydum. Eminim ondan sonra istediğin görevi seçebilirdin.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -754,7 +754,7 @@
   {
    "key": "u05604",
    "en": "Word is we're heading for the Citadel, ma'am. Can you tell me why?",
-   "tr": "",
+   "tr": "Söylentiye göre Citadel'e gidiyoruz, hanımefendi. Nedenini söyleyebilir misiniz?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -763,7 +763,7 @@
   {
    "key": "u05605",
    "en": "Makes sense. They'd probably like to know he's not working for them anymore.",
-   "tr": "",
+   "tr": "Mantıklı. Muhtemelen artık onlar için çalışmadığını bilmek isterler.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -772,7 +772,7 @@
   {
    "key": "u05606",
    "en": "Yes, ma'am. Sorry.",
-   "tr": "",
+   "tr": "Evet, hanımefendi. Üzgünüm.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -781,7 +781,7 @@
   {
    "key": "u05607",
    "en": "Understood, ma'am.",
-   "tr": "",
+   "tr": "Anlaşıldı, hanımefendi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -790,7 +790,7 @@
   {
    "key": "u05608",
    "en": "Whatever happens, we'll be ready. Commander.",
-   "tr": "",
+   "tr": "Ne olursa olsun hazır olacağız. Komutan.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -799,7 +799,7 @@
   {
    "key": "u05609",
    "en": "Five by five, ma'am. Is there anything else before we head ashore?",
-   "tr": "",
+   "tr": "Tamamdır, hanımefendi. Karaya çıkmadan önce başka bir şey var mı?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -808,7 +808,7 @@
   {
    "key": "u05610",
    "en": "Absolutely, Commander. Anything else before we head ashore?",
-   "tr": "",
+   "tr": "Kesinlikle, Komutan. Karaya çıkmadan önce başka bir şey var mı?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -817,7 +817,7 @@
   {
    "key": "u05611",
    "en": "An ambassador? I'd just follow standard operational procedure. Salute anything you can't eat or kill.",
-   "tr": "",
+   "tr": "Bir büyükelçi mi? Standart operasyon prosedürünü izlerdim. Yiyemediğin ya da öldüremediğin her şeye selam ver.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -826,7 +826,7 @@
   {
    "key": "u05612",
    "en": "Good luck, ma'am.",
-   "tr": "",
+   "tr": "İyi şanslar, hanımefendi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -835,7 +835,7 @@
   {
    "key": "u05613",
    "en": "Aye, aye ma'am.",
-   "tr": "",
+   "tr": "Emredersiniz, hanımefendi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -844,7 +844,7 @@
   {
    "key": "u05614",
    "en": "Some of the crew could use it. Commander",
-   "tr": "",
+   "tr": "Mürettebatın bir kısmına lazım olabilir. Komutan",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -853,7 +853,7 @@
   {
    "key": "u05615",
    "en": "You've got a good grasp of the situation. You a career man?",
-   "tr": "",
+   "tr": "Durumu iyi kavramışsınız. Kariyer adamı mısınız?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -862,7 +862,7 @@
   {
    "key": "u05616",
    "en": "I was a regular Navy brat. I got a little more noteworthy than the folks expected.",
-   "tr": "",
+   "tr": "Sıradan bir donanma çocuğuydum. Ailemin beklediğinden biraz daha dikkat çekici oldum.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -871,7 +871,7 @@
   {
    "key": "u05617",
    "en": "I never met my parents. If they wanted to see me, they'd have contacted me after that mess a few years back.",
-   "tr": "",
+   "tr": "Ailemi hiç tanımadım. Beni görmek isteselerdi birkaç yıl önceki o karışıklıktan sonra iletişime geçerlerdi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -880,7 +880,7 @@
   {
    "key": "u05618",
    "en": "My family were homesteaders on Mindoir. I'm the only one left. But I've moved beyond that.",
-   "tr": "",
+   "tr": "Ailem Mindoir'de yerleşimciydi. Geriye yalnızca ben kaldım. Ama bunun ötesine geçtim.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -889,7 +889,7 @@
   {
    "key": "u05619",
    "en": "Couldn't keep me out if you tried. Best way to explore the galaxy is behind a cannon.",
-   "tr": "",
+   "tr": "Zorlasanız bile beni dışarıda tutamazsınız. Galaksiyi keşfetmenin en iyi yolu bir topun arkasında olmak.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -898,7 +898,7 @@
   {
    "key": "u05620",
    "en": "The captain hopes the Ambassador can get an audience with the Council. Tell them what Saren's been up to.",
-   "tr": "",
+   "tr": "Kaptan Büyükelçi'nin Konsey'le bir görüşme ayarlayabileceğini umuyor. Saren'in neler çevirdiğini anlatmak için.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -907,7 +907,7 @@
   {
    "key": "u05621",
    "en": "If the captain thought you needed to know, he'd tell you.",
-   "tr": "",
+   "tr": "Kaptan bilmeniz gerektiğini düşünseydi söylerdi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -916,7 +916,7 @@
   {
    "key": "u05622",
    "en": "The captain's briefing was confidential.",
-   "tr": "",
+   "tr": "Kaptanın bilgilendirmesi gizliydi.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -925,7 +925,7 @@
   {
    "key": "u05623",
    "en": "We'll talk another time. Make sure you're good to go for this meeting with the ambassador.",
-   "tr": "",
+   "tr": "Başka zaman konuşuruz. Büyükelçiyle bu görüşme için hazır olduğundan emin ol.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -934,7 +934,7 @@
   {
    "key": "u05624",
    "en": "There's something big coming. I don't want anyone messing it up. You read me, Lieutenant?",
-   "tr": "",
+   "tr": "Büyük bir şey geliyor. Kimsenin bunu berbat etmesini istemiyorum. Anladın mı, Teğmen?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -943,7 +943,7 @@
   {
    "key": "u05625",
    "en": "Whatever's going on, the captain can handle it.",
-   "tr": "",
+   "tr": "Ne dönüyorsa kaptan halleder.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -952,7 +952,7 @@
   {
    "key": "u05626",
    "en": "Any advice on how to act in front of an ambassador? I don't meet many politicians.",
-   "tr": "",
+   "tr": "Bir büyükelçinin karşısında nasıl davranılacağına dair tavsiyen var mı? Pek politikacı tanımam.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -961,7 +961,7 @@
   {
    "key": "u05627",
    "en": "Keep your concerns in check. You don't want to get a rep for questioning orders.",
-   "tr": "",
+   "tr": "Endişelerini kendine sakla. Emirleri sorguladığın için ün yapmak istemezsin.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -970,7 +970,7 @@
   {
    "key": "u05628",
    "en": "We're headed for the Citadel. When we get done with business, you and I should work out a liberty rotation.",
-   "tr": "",
+   "tr": "Citadel'e gidiyoruz. İşimiz bitince seninle bir izin rotasyonu hazırlamalıyız.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -979,7 +979,7 @@
   {
    "key": "u05629",
    "en": "Seems like you've been around.",
-   "tr": "",
+   "tr": "Görünüşe göre çok yer görmüşsünüz.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -988,7 +988,7 @@
   {
    "key": "u05630",
    "en": "Keep it to yourself.",
-   "tr": "",
+   "tr": "Kendine sakla.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06lockera_DSG_LOC",
@@ -998,7 +998,7 @@
   {
    "key": "u05631",
    "en": "Don't worry about it.",
-   "tr": "",
+   "tr": "Boş ver.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06kaidan_DSG_LOC",
@@ -1008,7 +1008,7 @@
   {
    "key": "u05632",
    "en": "Something similar.",
-   "tr": "",
+   "tr": "Benzer bir şey.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1017,7 +1017,7 @@
   {
    "key": "u05633",
    "en": "I don't have one.",
-   "tr": "",
+   "tr": "Yok.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1026,7 +1026,7 @@
   {
    "key": "u05634",
    "en": "We were farmers.",
-   "tr": "",
+   "tr": "Çiftçiydik.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1035,7 +1035,7 @@
   {
    "key": "u05635",
    "en": "I'm in it for the action.",
-   "tr": "",
+   "tr": "Aksiyon için buradayım.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1044,7 +1044,7 @@
   {
    "key": "u05636",
    "en": "It's not important right now.",
-   "tr": "",
+   "tr": "Şu an önemli değil.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1053,7 +1053,7 @@
   {
    "key": "u05637",
    "en": "We want to brief the Council.",
-   "tr": "",
+   "tr": "Konsey'e bilgi vermek istiyoruz.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1062,7 +1062,7 @@
   {
    "key": "u05638",
    "en": "Just follow your orders.",
-   "tr": "",
+   "tr": "Sadece emirlerine uy.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1071,7 +1071,7 @@
   {
    "key": "u05639",
    "en": "I can't say.",
-   "tr": "",
+   "tr": "Söyleyemem.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC",
@@ -1081,7 +1081,7 @@
   {
    "key": "u05640",
    "en": "You know any protocol?",
-   "tr": "",
+   "tr": "Protokol biliyor musun?",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1090,7 +1090,7 @@
   {
    "key": "u05641",
    "en": "Just secure your mouth.",
-   "tr": "",
+   "tr": "Sadece ağzını kapalı tut.",
    "ctx": [
     "BIOA_NOR10_01_DS1_LOC",
     "BIOA_NOR10_06wake_DSG_LOC"
@@ -1099,7 +1099,7 @@
   {
    "key": "u05642",
    "en": "Uh... Commander? We've got company.",
-   "tr": "",
+   "tr": "Şey... Komutan? Misafirlerimiz var.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1107,7 +1107,7 @@
   {
    "key": "u05643",
    "en": "Approaching target. Prepare to launch.",
-   "tr": "",
+   "tr": "Hedefe yaklaşıyoruz. Fırlatmaya hazırlanın.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1115,7 +1115,7 @@
   {
    "key": "u05644",
    "en": "Have their sensors picked us up yet?",
-   "tr": "",
+   "tr": "Sensörleri bizi yakaladı mı?",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1123,7 +1123,7 @@
   {
    "key": "u05645",
    "en": "Stealth systems are engaged. Unless we get close enough for a visual, they won't have any idea we're here.",
-   "tr": "",
+   "tr": "Gizlilik sistemleri devrede. Görsel temas edecek kadar yaklaşmazsak burada olduğumuzu hiç bilmezler.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1131,7 +1131,7 @@
   {
    "key": "u05646",
    "en": "Picking up some strange readings from the planet's surface.",
-   "tr": "",
+   "tr": "Gezegen yüzeyinden bazı tuhaf okumalar alıyorum.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1139,7 +1139,7 @@
   {
    "key": "u05647",
    "en": "Negative on that, Commander. The nearest landing zone's two klicks away.",
-   "tr": "",
+   "tr": "Olumsuz, Komutan. En yakın iniş bölgesi iki kilometre uzakta.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1147,7 +1147,7 @@
   {
    "key": "u05648",
    "en": "We'll never make it in time on foot. Get us something closer!",
-   "tr": "",
+   "tr": "Yürüyerek asla zamanında yetişemeyiz. Bize daha yakın bir yer bul!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1155,7 +1155,7 @@
   {
    "key": "u05649",
    "en": "There is nowhere closer! I've looked!",
-   "tr": "",
+   "tr": "Daha yakın yer yok! Baktım!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1163,7 +1163,7 @@
   {
    "key": "u05650",
    "en": "You need at least a hundred meters of open terrain to pull off a drop like that. The most I can find near Saren is twenty.",
-   "tr": "",
+   "tr": "Böyle bir bırakma yapmak için en az yüz metre açık arazi lazım. Saren'in yakınında bulabildiğim en fazla yirmi.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1171,7 +1171,7 @@
   {
    "key": "u05651",
    "en": "We have to try.",
-   "tr": "",
+   "tr": "Denemeliyiz.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1179,7 +1179,7 @@
   {
    "key": "u05652",
    "en": "Twenty meters? We'll never get in close enough for a drop.",
-   "tr": "",
+   "tr": "Yirmi metre mi? Bırakma için asla yeterince yaklaşamayız.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1187,7 +1187,7 @@
   {
    "key": "u05653",
    "en": "Twenty meters? No way we can make a drop in there.",
-   "tr": "",
+   "tr": "Yirmi metre mi? Orada bırakma yapmamız imkânsız.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1195,7 +1195,7 @@
   {
    "key": "u05654",
    "en": "The descent angle's too steep!",
-   "tr": "",
+   "tr": "İniş açısı çok dik!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1203,7 +1203,7 @@
   {
    "key": "u05655",
    "en": "Find another landing zone!",
-   "tr": "",
+   "tr": "Başka bir iniş bölgesi bul!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1211,7 +1211,7 @@
   {
    "key": "u05656",
    "en": "There is no other landing zone!",
-   "tr": "",
+   "tr": "Başka iniş bölgesi yok!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1219,7 +1219,7 @@
   {
    "key": "u05657",
    "en": "It's our only option!",
-   "tr": "",
+   "tr": "Tek seçeneğimiz bu!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1227,7 +1227,7 @@
   {
    "key": "u05658",
    "en": "It's not an option! It's a suicide run! We don't--",
-   "tr": "",
+   "tr": "Bu seçenek değil! İntihar uçuşu! Biz...",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1235,7 +1235,7 @@
   {
    "key": "u05659",
    "en": "I can do it.",
-   "tr": "",
+   "tr": "Yapabilirim.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1243,7 +1243,7 @@
   {
    "key": "u05660",
    "en": "Take us down, Joker. Lock in on the coordinates.",
-   "tr": "",
+   "tr": "Bizi aşağı indir, Joker. Koordinatlara kilitlen.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1251,7 +1251,7 @@
   {
    "key": "u05661",
    "en": "Drop us in the Mako.",
-   "tr": "",
+   "tr": "Bizi Mako'yla bırak.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1259,7 +1259,7 @@
   {
    "key": "u05662",
    "en": "Joker?",
-   "tr": "",
+   "tr": "Joker?",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC",
     "BIOA_WAR50_13_DSG_LOC"
@@ -1268,7 +1268,7 @@
   {
    "key": "u05663",
    "en": "Gear up and head down to the Mako. Joker -- drop us right on top of that bastard!",
-   "tr": "",
+   "tr": "Hazırlanıp Mako'ya inin. Joker, bizi şu piçin tam tepesine bırak!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1276,7 +1276,7 @@
   {
    "key": "u05664",
    "en": "It's Saren.",
-   "tr": "",
+   "tr": "Saren bu.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1284,7 +1284,7 @@
   {
    "key": "u05665",
    "en": "We don't land.",
-   "tr": "",
+   "tr": "İnmiyoruz.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1292,7 +1292,7 @@
   {
    "key": "u05666",
    "en": "It's go time.",
-   "tr": "",
+   "tr": "Harekete geçme vakti.",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1300,7 +1300,7 @@
   {
    "key": "u05667",
    "en": "You two, keep moving. Inside. Now!",
-   "tr": "",
+   "tr": "İkiniz yürümeye devam edin. İçeri. Şimdi!",
    "ctx": [
     "BIOA_NOR10_01_DS2_LOC"
    ]
@@ -1308,7 +1308,7 @@
   {
    "key": "u05668",
    "en": "I heard what happened to Captain Anderson. Survives a hundred battles, and then gets taken down by backroom politics.",
-   "tr": "",
+   "tr": "Kaptan Anderson'a olanları duydum. Yüz savaştan sağ çıkıyor, sonra kulis siyasetiyle devriliyor.",
    "ctx": [
     "BIOA_NOR10_01patton_DSG_LOC",
     "BIOA_NOR10_02_DSG_LOC"
@@ -1317,7 +1317,7 @@
   {
    "key": "u05669",
    "en": "Yeah, the captain got screwed. But it's not like you could've stopped it. Nobody's blaming you.",
-   "tr": "",
+   "tr": "Evet, kaptan fena kazıklandı. Ama durdurabilecek bir şey yoktu. Kimse seni suçlamıyor.",
    "ctx": [
     "BIOA_NOR10_01patton_DSG_LOC",
     "BIOA_NOR10_02_DSG_LOC"
@@ -1326,7 +1326,7 @@
   {
    "key": "u05670",
    "en": "Everyone on this ship is behind you, Commander. One hundred percent.",
-   "tr": "",
+   "tr": "Bu gemideki herkes arkanızda, Komutan. Yüzde yüz.",
    "ctx": [
     "BIOA_NOR10_01patton_DSG_LOC",
     "BIOA_NOR10_02_DSG_LOC"
@@ -1335,7 +1335,7 @@
   {
    "key": "u05671",
    "en": "Intercom's open. If you've got anything you want to say to the crew, now's the time.",
-   "tr": "",
+   "tr": "İnterkom açık. Mürettebata söylemek istediğin bir şey varsa şimdi tam zamanı.",
    "ctx": [
     "BIOA_NOR10_01patton_DSG_LOC",
     "BIOA_NOR10_02_DSG_LOC"
