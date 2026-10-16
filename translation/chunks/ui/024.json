@@ -9,7 +9,7 @@
   {
    "key": "u21443",
    "en": "Quit to Main Menu",
-   "tr": "",
+   "tr": "Ana Menüye Çık",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u21444",
    "en": "Select",
-   "tr": "",
+   "tr": "Seç",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u21445",
    "en": "Reset To Defaults",
-   "tr": "",
+   "tr": "Varsayılanlara Sıfırla",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u21446",
    "en": "Enter String Text",
-   "tr": "",
+   "tr": "Metin Gir",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u21447",
    "en": "MinorQuestSkill",
-   "tr": "",
+   "tr": "MinorQuestSkill",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u21448",
    "en": "MainPlotSkill",
-   "tr": "",
+   "tr": "MainPlotSkill",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u21449",
    "en": "Boss Kill from Skill Use",
-   "tr": "",
+   "tr": "Beceri Kullanımıyla Patron Öldürme",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u21450",
    "en": "Elite Kill from Skill Use",
-   "tr": "",
+   "tr": "Beceri Kullanımıyla Elit Öldürme",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u21451",
    "en": "MainPlot",
-   "tr": "",
+   "tr": "MainPlot",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u21452",
    "en": "Major Quest",
-   "tr": "",
+   "tr": "Major Quest",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u21453",
    "en": "MajorQuestSkill",
-   "tr": "",
+   "tr": "MajorQuestSkill",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u21454",
    "en": "MinorQuest",
-   "tr": "",
+   "tr": "MinorQuest",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u21455",
    "en": "MediumQuest",
-   "tr": "",
+   "tr": "MediumQuest",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u21456",
    "en": "MediumQuestSkill",
-   "tr": "",
+   "tr": "MediumQuestSkill",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u21457",
    "en": "Minion Kill from Skill Use",
-   "tr": "",
+   "tr": "Beceri Kullanımıyla Ayak İşçisi Öldürme",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u21458",
    "en": "Sub-Boss Kill from Skill Use",
-   "tr": "",
+   "tr": "Beceri Kullanımıyla Alt Patron Öldürme",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u21459",
    "en": "XP Gain from Skill Use",
-   "tr": "",
+   "tr": "Beceri Kullanımıyla TP Kazanımı",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u21460",
    "en": "The Normandy will drop off the bomb as soon as the other AA gun is destroyed. Find it and destroy it.",
-   "tr": "",
+   "tr": "Normandy, diğer uçaksavar silahı yok edilir edilmez bombayı bırakacak. Onu bulun ve yok edin.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u21461",
    "en": "Destroy Final AA Gun",
-   "tr": "",
+   "tr": "Son Uçaksavar Silahını Yok Et",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u21462",
    "en": "Facial Structure",
-   "tr": "",
+   "tr": "Yüz Yapısı",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u21463",
    "en": "Beard",
-   "tr": "",
+   "tr": "Sakal",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u21464",
    "en": "Hair Color",
-   "tr": "",
+   "tr": "Saç Rengi",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u21465",
    "en": "Uranium Deposit",
-   "tr": "",
+   "tr": "Uranyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u21466",
    "en": "Iridium Deposit",
-   "tr": "",
+   "tr": "İridyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u21467",
    "en": "Additional Art",
-   "tr": "",
+   "tr": "Ek Sanat",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u21468",
    "en": "Additional Design",
-   "tr": "",
+   "tr": "Ek Tasarım",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u21469",
    "en": "Additional Production",
-   "tr": "",
+   "tr": "Ek Yapım",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u21470",
    "en": "Additional Programming",
-   "tr": "",
+   "tr": "Ek Programlama",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u21471",
    "en": "Magnesium Deposit",
-   "tr": "",
+   "tr": "Magnezyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u21472",
    "en": "Germanium Deposit",
-   "tr": "",
+   "tr": "Germanyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u21473",
    "en": "Titanium Deposit",
-   "tr": "",
+   "tr": "Titanyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u21474",
    "en": "Citadel Rapid Transit",
-   "tr": "",
+   "tr": "Citadel Hızlı Ulaşım",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u21475",
    "en": "Activate",
-   "tr": "",
+   "tr": "Etkinleştir",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u21476",
    "en": "You've activated a water valve in the tunnels beneath Zhu's Hope. There are likely others that need your attention as well.",
-   "tr": "",
+   "tr": "Zhu's Hope'un altındaki tünellerde bir su vanasını etkinleştirdiniz. Muhtemelen ilginizi bekleyen başkaları da vardır.",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u21477",
    "en": "Do you want to commit the changes you have made to the game options?",
-   "tr": "",
+   "tr": "Oyun seçeneklerinde yaptığınız değişiklikleri kaydetmek istiyor musunuz?",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u21478",
    "en": "Committing the options failed. There is no profile data available to save the new options.",
-   "tr": "",
+   "tr": "Seçenekler kaydedilemedi. Yeni seçenekleri kaydetmek için kullanılabilir profil verisi yok.",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u21479",
    "en": "Target Assist",
-   "tr": "",
+   "tr": "Hedef Yardımı",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u21480",
    "en": "Adjust behavior of Target Assist",
-   "tr": "",
+   "tr": "Hedef Yardımı davranışını ayarlayın",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u21481",
    "en": "High",
-   "tr": "",
+   "tr": "Yüksek",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u21482",
    "en": "Target assist at maximum to make combat easier.",
-   "tr": "",
+   "tr": "Muharebeyi kolaylaştırmak için hedef yardımı en üst düzeyde.",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u21483",
    "en": "Target assist at medium.",
-   "tr": "",
+   "tr": "Hedef yardımı orta düzeyde.",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u21484",
    "en": "Low",
-   "tr": "",
+   "tr": "Düşük",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u21485",
    "en": "Target assist at minimum to make combat more challenging.",
-   "tr": "",
+   "tr": "Muharebeyi zorlaştırmak için hedef yardımı en alt düzeyde.",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u21486",
    "en": "Controls",
-   "tr": "",
+   "tr": "Kontroller",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u21487",
    "en": "Adjust control and input options.",
-   "tr": "",
+   "tr": "Kontrol ve giriş seçeneklerini ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u21488",
    "en": "Southpaw",
-   "tr": "",
+   "tr": "Solak",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u21489",
    "en": "Reverse controller settings.",
-   "tr": "",
+   "tr": "Kontrolcü ayarlarını tersine çevirin.",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u21490",
    "en": "Southpaw On",
-   "tr": "",
+   "tr": "Solak Açık",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u21491",
    "en": "Southpaw Off",
-   "tr": "",
+   "tr": "Solak Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u21492",
    "en": "Vibration",
-   "tr": "",
+   "tr": "Titreşim",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u21493",
    "en": "Enable controller vibration.",
-   "tr": "",
+   "tr": "Kontrolcü titreşimini etkinleştirin.",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u21494",
    "en": "Vibration On",
-   "tr": "",
+   "tr": "Titreşim Açık",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u21495",
    "en": "Vibration Off",
-   "tr": "",
+   "tr": "Titreşim Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u21496",
    "en": "Camera Sensitivity",
-   "tr": "",
+   "tr": "Kamera Hassasiyeti",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u21497",
    "en": "Adjust combat and exploration camera sensitivities.",
-   "tr": "",
+   "tr": "Muharebe ve keşif kamerası hassasiyetlerini ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u21498",
    "en": "Horizontal Combat",
-   "tr": "",
+   "tr": "Yatay Muharebe",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u21499",
    "en": "Increase or Decrease Sensitivity on Horizontal Combat Camera",
-   "tr": "",
+   "tr": "Yatay Muharebe Kamerası Hassasiyetini Artırın veya Azaltın",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u21500",
    "en": "Vertical Combat",
-   "tr": "",
+   "tr": "Dikey Muharebe",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u21501",
    "en": "Increase or Decrease Sensitivity on Vertical Combat Camera",
-   "tr": "",
+   "tr": "Dikey Muharebe Kamerası Hassasiyetini Artırın veya Azaltın",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u21502",
    "en": "Horizontal Exploration",
-   "tr": "",
+   "tr": "Yatay Keşif",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u21503",
    "en": "Increase or Decrease Sensitivity on Horizontal Exploration Camera",
-   "tr": "",
+   "tr": "Yatay Keşif Kamerası Hassasiyetini Artırın veya Azaltın",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u21504",
    "en": "Vertical Exploration",
-   "tr": "",
+   "tr": "Dikey Keşif",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u21505",
    "en": "Increase or Decrease Sensitivity on Vertical Exploration Camera",
-   "tr": "",
+   "tr": "Dikey Keşif Kamerası Hassasiyetini Artırın veya Azaltın",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u21506",
    "en": "Reset Tutorials",
-   "tr": "",
+   "tr": "Eğitimleri Sıfırla",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u21507",
    "en": "Reset all tutorial flags.",
-   "tr": "",
+   "tr": "Tüm eğitim işaretlerini sıfırlayın.",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u21508",
    "en": "Bleed out",
-   "tr": "",
+   "tr": "Kanama",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u21509",
    "en": "Pause whenever Shepard becomes critically wounded.",
-   "tr": "",
+   "tr": "Shepard ağır yaralandığında duraklat.",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u21510",
    "en": "Bleeding Out Auto-Pause On",
-   "tr": "",
+   "tr": "Kanama Otomatik Duraklatma Açık",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u21511",
    "en": "Bleeding Out Auto-Pause Off",
-   "tr": "",
+   "tr": "Kanama Otomatik Duraklatma Kapalı",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u21512",
    "en": "You will lose all unsaved progress by returning to the main menu. Do you wish to continue?",
-   "tr": "",
+   "tr": "Ana menüye dönerseniz kaydedilmemiş tüm ilerlemeyi kaybedeceksiniz. Devam etmek istiyor musunuz?",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u21513",
    "en": "Access base security",
-   "tr": "",
+   "tr": "Üs güvenliğine eriş",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u21514",
    "en": "You have gained QA_Test_Loot_RPG_Codex",
-   "tr": "",
+   "tr": "You have gained QA_Test_Loot_RPG_Codex",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u21515",
    "en": "QA_Test_Loot_RPG_Codex",
-   "tr": "",
+   "tr": "QA_Test_Loot_RPG_Codex",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u21516",
    "en": "You have completed QA_Test_Loot_RPG_Goal",
-   "tr": "",
+   "tr": "You have completed QA_Test_Loot_RPG_Goal",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u21517",
    "en": "QA_Test_Loot_RPG_Goal",
-   "tr": "",
+   "tr": "QA_Test_Loot_RPG_Goal",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u21518",
    "en": "You have completed QA_Test_Loot_RPG_Task",
-   "tr": "",
+   "tr": "You have completed QA_Test_Loot_RPG_Task",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u21519",
    "en": "QA_Test_Loot_RPG_Task",
-   "tr": "",
+   "tr": "QA_Test_Loot_RPG_Task",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u21520",
    "en": "Mercenary Camp",
-   "tr": "",
+   "tr": "Paralı Asker Kampı",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u21521",
    "en": "Stunt Club Beacon",
-   "tr": "",
+   "tr": "Stunt Club Beacon'ı",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u21522",
    "en": "Mineral Node",
-   "tr": "",
+   "tr": "Maden Düğümü",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u21523",
    "en": "Anomaly",
-   "tr": "",
+   "tr": "Anomali",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u21524",
    "en": "Abandoned Camp",
-   "tr": "",
+   "tr": "Terk Edilmiş Kamp",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u21525",
    "en": "Surveyed Magnesium Deposit",
-   "tr": "",
+   "tr": "Etüt Edilmiş Magnezyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u21526",
    "en": "Control Room",
-   "tr": "",
+   "tr": "Kontrol Odası",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u21527",
    "en": "Ancient Debris",
-   "tr": "",
+   "tr": "Kadim Enkaz",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u21528",
    "en": "Crashed Probe",
-   "tr": "",
+   "tr": "Düşmüş Sonda",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u21529",
    "en": "Security Console",
-   "tr": "",
+   "tr": "Güvenlik Konsolu",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u21530",
    "en": "Grenade Launcher",
-   "tr": "",
+   "tr": "Bombaatar",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u21531",
    "en": "No Missions",
-   "tr": "",
+   "tr": "Görev Yok",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u21532",
    "en": "No Assignments",
-   "tr": "",
+   "tr": "Görevlendirme Yok",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u21533",
    "en": "Continue",
-   "tr": "",
+   "tr": "Devam",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u21534",
    "en": "Mning Drill",
-   "tr": "",
+   "tr": "Madencilik Matkabı",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u21535",
    "en": "You have completed QA_Test_Loot_RPG_Task2",
-   "tr": "",
+   "tr": "You have completed QA_Test_Loot_RPG_Task2",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u21536",
    "en": "QA_Test_Loot_RPG_Task2",
-   "tr": "",
+   "tr": "QA_Test_Loot_RPG_Task2",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u21537",
    "en": "Geth Beacon",
-   "tr": "",
+   "tr": "Geth Beacon'ı",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u21538",
    "en": "Surveyed Titanium Deposit",
-   "tr": "",
+   "tr": "Etüt Edilmiş Titanyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u21539",
    "en": "Surveyed Uranium Deposit",
-   "tr": "",
+   "tr": "Etüt Edilmiş Uranyum Yatağı",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u21540",
    "en": "Cancel",
-   "tr": "",
+   "tr": "İptal",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u21541",
    "en": "Colony failed",
-   "tr": "",
+   "tr": "Koloni yok oldu",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u21542",
    "en": "Test string.",
-   "tr": "",
+   "tr": "Test dizesi.",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u21543",
    "en": "Colony will survive",
-   "tr": "",
+   "tr": "Koloni hayatta kalacak",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u21544",
    "en": "Colony potentially failed",
-   "tr": "",
+   "tr": "Koloni muhtemelen yok oldu",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u21545",
    "en": "No Primary Sections",
-   "tr": "",
+   "tr": "Birincil Bölüm Yok",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u21546",
    "en": "No Secondary Sections",
-   "tr": "",
+   "tr": "İkincil Bölüm Yok",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u21547",
    "en": "Close Entries",
-   "tr": "",
+   "tr": "Girdileri Kapat",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u21548",
    "en": "Airlock",
-   "tr": "",
+   "tr": "Hava Kilidi",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u21549",
    "en": "Enter Normandy",
-   "tr": "",
+   "tr": "Normandy'ye Gir",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u21550",
    "en": "Exit Normandy",
-   "tr": "",
+   "tr": "Normandy'den Çık",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u21551",
    "en": "Animators",
-   "tr": "",
+   "tr": "Animatörler",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u21552",
    "en": "Assistant External Resources Producers",
-   "tr": "",
+   "tr": "Yardımcı Harici Kaynak Yapımcıları",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u21553",
    "en": "Assistant Producers",
-   "tr": "",
+   "tr": "Yardımcı Yapımcılar",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u21554",
    "en": "Voice Over and External Resources Producer",
-   "tr": "",
+   "tr": "Seslendirme ve Harici Kaynak Yapımcısı",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u21555",
    "en": "Audio Designers",
-   "tr": "",
+   "tr": "Ses Tasarımcıları",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u21556",
    "en": "Audio Lead",
-   "tr": "",
+   "tr": "Ses Lideri",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u21557",
    "en": "Audio Programming",
-   "tr": "",
+   "tr": "Ses Programlama",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u21558",
    "en": "Audio Project Manager",
-   "tr": "",
+   "tr": "Ses Proje Yöneticisi",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u21559",
    "en": "Character Artists",
-   "tr": "",
+   "tr": "Karakter Sanatçıları",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u21560",
    "en": "Cinematic Animators",
-   "tr": "",
+   "tr": "Sinematik Animatörler",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u21561",
    "en": "Cinematic Designers",
-   "tr": "",
+   "tr": "Sinematik Tasarımcılar",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u21562",
    "en": "Cinematic Director",
-   "tr": "",
+   "tr": "Sinematik Yönetmen",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u21563",
    "en": "Programmers",
-   "tr": "",
+   "tr": "Programcılar",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u21564",
    "en": "Concept Artists",
-   "tr": "",
+   "tr": "Konsept Sanatçıları",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u21565",
    "en": "Tools Programmers",
-   "tr": "",
+   "tr": "Araç Programcıları",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u21566",
    "en": "Editor",
-   "tr": "",
+   "tr": "Editör",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u21567",
    "en": "Audio Programmers",
-   "tr": "",
+   "tr": "Ses Programcıları",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u21568",
    "en": "Graphics and Performance Programming Lead",
-   "tr": "",
+   "tr": "Grafik ve Performans Programlama Lideri",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u21569",
    "en": "GUI Artist",
-   "tr": "",
+   "tr": "Arayüz Sanatçısı",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u21570",
    "en": "GUI Programming",
-   "tr": "",
+   "tr": "Arayüz Programlama",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u21571",
    "en": "Lead Animator",
-   "tr": "",
+   "tr": "Baş Animatör",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u21572",
    "en": "Lead Character Artist",
-   "tr": "",
+   "tr": "Baş Karakter Sanatçısı",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u21573",
    "en": "Lead Cinematic Designer",
-   "tr": "",
+   "tr": "Baş Sinematik Tasarımcı",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u21574",
    "en": "Lead Tools Programmer",
-   "tr": "",
+   "tr": "Baş Araç Programcısı",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u21575",
    "en": "Technical Architect",
-   "tr": "",
+   "tr": "Teknik Mimar",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u21576",
    "en": "Lead GUI Programmer",
-   "tr": "",
+   "tr": "Baş Arayüz Programcısı",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u21577",
    "en": "Lead Level Artist",
-   "tr": "",
+   "tr": "Baş Seviye Sanatçısı",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u21578",
    "en": "Lead Localization Programmer",
-   "tr": "",
+   "tr": "Baş Yerelleştirme Programcısı",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u21579",
    "en": "Lead Project Manager",
-   "tr": "",
+   "tr": "Baş Proje Yöneticisi",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u21580",
    "en": "Lead RPG Systems Programmer",
-   "tr": "",
+   "tr": "Baş RPG Sistemleri Programcısı",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u21581",
    "en": "Lead Technical Animator",
-   "tr": "",
+   "tr": "Baş Teknik Animatör",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u21582",
    "en": "Lead Technical Artist",
-   "tr": "",
+   "tr": "Baş Teknik Sanatçı",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u21583",
    "en": "Lead Technical Designer",
-   "tr": "",
+   "tr": "Baş Teknik Tasarımcı",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u21584",
    "en": "Lead Visual Effects Artist",
-   "tr": "",
+   "tr": "Baş Görsel Efekt Sanatçısı",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u21585",
    "en": "Level Artists",
-   "tr": "",
+   "tr": "Seviye Sanatçıları",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u21586",
    "en": "Localization Producer",
-   "tr": "",
+   "tr": "Yerelleştirme Yapımcısı",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u21587",
    "en": "Localization Programming",
-   "tr": "",
+   "tr": "Yerelleştirme Programlama",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u21588",
    "en": "Project Director",
-   "tr": "",
+   "tr": "Proje Direktörü",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u21589",
    "en": "Quality Assurance Analysts",
-   "tr": "",
+   "tr": "Kalite Güvence Analistleri",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u21590",
    "en": "Quality Assurance Lead",
-   "tr": "",
+   "tr": "Kalite Güvence Lideri",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u21591",
    "en": "Quality Assurance Term Testers",
-   "tr": "",
+   "tr": "Kalite Güvence Dönem Test Uzmanları",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u21592",
    "en": "RPG Systems Programming",
-   "tr": "",
+   "tr": "RPG Sistemleri Programlama",
    "ctx": [
     "Startup"
    ]
