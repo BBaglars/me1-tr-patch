@@ -9,7 +9,7 @@
   {
    "key": "u16382",
    "en": "The signal is coming from a mine?",
-   "tr": "",
+   "tr": "Sinyal bir madenden mi geliyor?",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u16383",
    "en": "Mineshaft. That's the source of the signal.",
-   "tr": "",
+   "tr": "Maden ocağı. Sinyalin kaynağı orası.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u16384",
    "en": "The signal's coming from a mine?",
-   "tr": "",
+   "tr": "Sinyal bir madenden mi geliyor?",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u16385",
    "en": "This smells.",
-   "tr": "",
+   "tr": "Bu kokuyor.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u16386",
    "en": "A trap. It has to be.",
-   "tr": "",
+   "tr": "Bir tuzak. Öyle olmalı.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u16387",
    "en": "Smells like ambush, skipper.",
-   "tr": "",
+   "tr": "Pusu kokuyor kaptan.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u16388",
    "en": "Smells like ambush, Commander.",
-   "tr": "",
+   "tr": "Pusu kokuyor Komutan.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u16389",
    "en": "I don't like this, Commander.",
-   "tr": "",
+   "tr": "Bu hoşuma gitmiyor Komutan.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u16390",
    "en": "I concur. This did not crash. Someone moved it here.",
-   "tr": "",
+   "tr": "Katılıyorum. Bu düşmedi. Biri onu buraya taşıdı.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u16391",
    "en": "I agree. This thing didn't crash. Somebody moved it here.",
-   "tr": "",
+   "tr": "Katılıyorum. Bu şey düşmedi. Biri onu buraya taşıdı.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u16392",
    "en": "Yeah. This thing didn't crash. Somebody moved it here.",
-   "tr": "",
+   "tr": "Evet. Bu şey düşmedi. Biri onu buraya taşıdı.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u16393",
    "en": "I agree. The probe didn't crash. Someone moved it here.",
-   "tr": "",
+   "tr": "Katılıyorum. Sonda düşmedi. Biri onu buraya taşıdı.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u16394",
    "en": "I agree. Your probe didn't crash. It was moved here.",
-   "tr": "",
+   "tr": "Katılıyorum. Sondanız düşmedi. Buraya taşınmış.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u16395",
    "en": "All right, Shepard.",
-   "tr": "",
+   "tr": "Tamam Shepard.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u16396",
    "en": "Aye, aye.",
-   "tr": "",
+   "tr": "Emredersiniz.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u16397",
    "en": "They may not know what they have. Let's find it before they set it off.",
-   "tr": "",
+   "tr": "Elinde ne olduğunu bilmiyor olabilirler. Patlatmadan önce bulalım.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u16398",
    "en": "Your grasp of the obvious is inspiring. There's still a nuke down there. Check your corners and watch your back.",
-   "tr": "",
+   "tr": "Bariz olanı kavrayışın ilham verici. Orada hâlâ bir nükleer bomba var. Köşelere bak ve arkanı kolla.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u16399",
    "en": "There's a nuclear weapon down there. We can't abandon it. Just stay on guard.",
-   "tr": "",
+   "tr": "Orada nükleer bir silah var. Onu bırakamayız. Sadece tetikte kal.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u16400",
    "en": "Whoever did it is in danger.",
-   "tr": "",
+   "tr": "Bunu kim yaptıysa tehlikede.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u16401",
    "en": "Doesn't change our objective.",
-   "tr": "",
+   "tr": "Hedefimizi değiştirmez.",
    "ctx": [
     "BIOA_UNC53_01_DSG_LOC"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u16402",
    "en": "Why am I not surprised?",
-   "tr": "",
+   "tr": "Neden şaşırmadım?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u16403",
    "en": "What do we do now, Shepard?",
-   "tr": "",
+   "tr": "Şimdi ne yapıyoruz Shepard?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u16404",
    "en": "Orders, Commander?",
-   "tr": "",
+   "tr": "Emirler Komutan?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u16405",
    "en": "What do we do now, Commander?",
-   "tr": "",
+   "tr": "Şimdi ne yapıyoruz Komutan?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u16406",
    "en": "That was a detonator. Someone just screwed us.",
-   "tr": "",
+   "tr": "Bu bir fünyeydi. Biri bize kazık attı.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u16407",
    "en": "What the hell!",
-   "tr": "",
+   "tr": "Ne oluyor be!",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u16408",
    "en": "That was a detonator, Commander.",
-   "tr": "",
+   "tr": "Bu bir fünyeydi Komutan.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u16409",
    "en": "Seismic charge. Someone did that on purpose.",
-   "tr": "",
+   "tr": "Sismik yük. Biri bunu bilerek yaptı.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u16410",
    "en": "Shepard. At last.",
-   "tr": "",
+   "tr": "Shepard. Sonunda.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u16411",
    "en": "You don't remember me. No matter. I remember you. I never forget anyone I've fought.",
-   "tr": "",
+   "tr": "Beni hatırlamıyorsun. Önemli değil. Ben seni hatırlıyorum. Savaştığım hiç kimseyi unutmam.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u16412",
    "en": "My name is Elanos Haliat. I doubt you know it.",
-   "tr": "",
+   "tr": "Adım Elanos Haliat. Bilmediğinden eminim.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u16413",
    "en": "Who do you think runs the Terminus Clans, Shepard? Hm? Thousands of pirates, slavers, criminals of every stripe?",
-   "tr": "",
+   "tr": "Terminus Klanları'nı kim yönetir sanıyorsun Shepard? Hm? Binlerce korsan, köle taciri, her çeşit suçlu?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u16414",
    "en": "The strongest leads.",
-   "tr": "",
+   "tr": "En güçlü olan lider olur.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u16415",
    "en": "The one who kills the most men. Seizes the most ships. Pillages the most colonies.",
-   "tr": "",
+   "tr": "En çok adam öldüren. En çok gemi ele geçiren. En çok koloniyi yağmalayan.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u16416",
    "en": "Three years ago, I was the strongest. I used my influence to assemble a fleet. We would drive your kind out of the Verge.",
-   "tr": "",
+   "tr": "Üç yıl önce ben en güçlüydüm. Nüfuzumu bir filo kurmak için kullandım. Sizin türünüzü Verge'den süpürecektik.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u16417",
    "en": "I was the motivator. The instigator. The one who promised glory and riches for sacking the largest human colony in the cluster.",
-   "tr": "",
+   "tr": "Ben motive ediciydim. Kışkırtıcıydım. Kümedeki en büyük insan kolonisini yağmalamanın şan ve zenginlik getireceğini vaat eden.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u16418",
    "en": "Failed because of you. Your damnable holding action. ",
-   "tr": "",
+   "tr": "Sizin yüzünüzden başarısız oldu. Lanet oyalama harekâtınız.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u16419",
    "en": "Empty words from a dead woman.",
-   "tr": "",
+   "tr": "Ölü bir kadından boş sözler.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u16420",
    "en": "Empty words from a dead man.",
-   "tr": "",
+   "tr": "Ölü bir adamdan boş sözler.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u16421",
    "en": "Let them. We'll be ready. An Alliance warship would make a fine prize.",
-   "tr": "",
+   "tr": "Bırak gelsinler. Hazır olacağız. Bir İttifak savaş gemisi güzel bir ganimet olur.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u16422",
    "en": "Oh, and if you hadn't noticed, the ores here are laced with heavy metals. I'm afraid your suit radios aren't powerful enough to transmit out.",
-   "tr": "",
+   "tr": "Ah, fark etmediysen buradaki cevherler ağır metallerle yüklü. Korkarım kıyafet telsizleriniz dışarıya iletecek kadar güçlü değil.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u16423",
    "en": "I rather doubt that.",
-   "tr": "",
+   "tr": "Bundan epey şüpheliyim.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u16424",
    "en": "My crew will come for me.",
-   "tr": "",
+   "tr": "Mürettebatım beni almaya gelecek.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u16425",
    "en": "You'll see me again, Haliat. Count on it.",
-   "tr": "",
+   "tr": "Beni yeniden göreceksin Haliat. Buna güven.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u16426",
    "en": "We'll find a way out of here.",
-   "tr": "",
+   "tr": "Buradan çıkmanın bir yolunu buluruz.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u16427",
    "en": "We've got air and light, and the Normandy's still in orbit. Let's look for another way out.",
-   "tr": "",
+   "tr": "Havamız ve ışığımız var, Normandy de hâlâ yörüngede. Başka bir çıkış yolu arayalım.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u16428",
    "en": "We find a way out. Someone up there needs my boot up his ass. See if there's anything in here we can use.",
-   "tr": "",
+   "tr": "Bir çıkış yolu buluruz. Yukarıdaki birinin kıçına tekme atmam lazım. Burada işimize yarayacak bir şey var mı bakın.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u16429",
    "en": "I don't know. Let me think. You two see if there's anything in here we can use.",
-   "tr": "",
+   "tr": "Bilmiyorum. Düşüneyim. İkiniz burada işimize yarayacak bir şey var mı bakın.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u16430",
    "en": "You have me at a disadvantage.",
-   "tr": "",
+   "tr": "Beni dezavantajlı duruma soktun.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u16431",
    "en": "You caused the cave-in? What's the meaning of this?",
-   "tr": "",
+   "tr": "Göçüğe sen mi neden oldun? Bu da ne demek?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u16432",
    "en": "In most criminal organizations, it's the one who's recognized as the most successful.",
-   "tr": "",
+   "tr": "Çoğu suç örgütünde en başarılı olarak tanınan kişi lider olur.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u16433",
    "en": "You assume I give a damn. That's cute.",
-   "tr": "",
+   "tr": "Umursadığımı sanıyorsun. Şirin.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u16434",
    "en": "I don't study the internal politics of pirate bands.",
-   "tr": "",
+   "tr": "Korsan çetelerinin iç siyasetini incelemem.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u16435",
    "en": "You organized the attack on Elysium. You want me to thank you for my Star of Terra?",
-   "tr": "",
+   "tr": "Elysium saldırısını sen organize ettin. Star of Terra'm için sana teşekkür etmemi mi istiyorsun?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u16436",
    "en": "You're the one behind the attack on Elysium!",
-   "tr": "",
+   "tr": "Elysium saldırısının arkasındaki sensin!",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u16437",
    "en": "It doesn't have to be like this, Haliat.",
-   "tr": "",
+   "tr": "Böyle olmak zorunda değil Haliat.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u16438",
    "en": "\"At last?\"",
-   "tr": "",
+   "tr": "\"Sonunda\" mı?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u16439",
    "en": "An acclaimed leader.",
-   "tr": "",
+   "tr": "Beğenilen bir lider.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u16440",
    "en": "Who cares?",
-   "tr": "",
+   "tr": "Kimin umurunda?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u16441",
    "en": "How should I know?",
-   "tr": "",
+   "tr": "Ben nereden bileyim?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u16442",
    "en": "You attacked Elysium!",
-   "tr": "",
+   "tr": "Elysium'a saldırdın!",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u16443",
    "en": "Nice try, genius.",
-   "tr": "",
+   "tr": "Güzel deneme, dahi.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u16444",
    "en": "The Skyllian Blitz.",
-   "tr": "",
+   "tr": "Skyllian Blitz.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u16445",
    "en": "Can't we negotiate?",
-   "tr": "",
+   "tr": "Pazarlık edemez miyiz?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u16446",
    "en": "Call the Normandy.",
-   "tr": "",
+   "tr": "Normandy'yi ara.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u16447",
    "en": "I'll get you.",
-   "tr": "",
+   "tr": "Seni yakalayacağım.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u16448",
    "en": "No one panic.",
-   "tr": "",
+   "tr": "Kimse paniğe kapılmasın.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u16449",
    "en": "I'll kill him.",
-   "tr": "",
+   "tr": "Onu öldüreceğim.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u16450",
    "en": "I'll think of something.",
-   "tr": "",
+   "tr": "Bir şey düşünürüm.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u16451",
    "en": "The one blamed when it failed.",
-   "tr": "",
+   "tr": "Başarısız olunca suçlanan.",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u16452",
    "en": "I was ruined when your kind held against the Blitz. What better way to recover my reputation than by eliminating the first human Spectre?",
-   "tr": "",
+   "tr": "Sizin türünüz Blitz'e karşı durunca mahvoldum. İtibarımı geri kazanmanın ilk insan Spectre'ı yok etmekten daha iyi yolu ne olabilir?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u16453",
    "en": "You organized the attack on Elysium. Too bad we kicked your ass back into Terminus, huh?",
-   "tr": "",
+   "tr": "Elysium saldırısını sen organize ettin. Seni Terminus'a geri tekmelediğimiz çok yazık, ha?",
    "ctx": [
     "BIOA_UNC53_02_DSG_LOC"
    ]
