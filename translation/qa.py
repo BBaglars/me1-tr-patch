@@ -5,7 +5,7 @@ import json, re, sys
 from collections import Counter
 
 TAG = re.compile(r"</?[A-Za-z][^<>]*>")
-PLACEHOLDER = re.compile(r"\{\d+\}|%[-+0# ]*\d*(?:\.\d+)?[sdifxXc]|%%|\[[^\[\]\n]{1,40}\]")
+PLACEHOLDER = re.compile(r"\{\d+\}|%[-+0#]*\d*(?:\.\d+)?[sdifxXc](?![A-Za-z])|%%|\[[^\[\]\n]{1,40}\]")
 TR_LETTERS = "ğşıİçöüĞŞÇÖÜâîûÂÎÛ"
 PUNCT = "…—–‘’“”«»·°×"
 
