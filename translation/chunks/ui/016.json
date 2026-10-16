@@ -9,7 +9,7 @@
   {
    "key": "u20602",
    "en": "Increases damage with all weapons by 9%",
-   "tr": "",
+   "tr": "Tüm silahlarla hasarı %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u20603",
    "en": "Improves the recharge time on Immunity by 25%\n\nIncreases damage with all weapons by 12%",
-   "tr": "",
+   "tr": "Bağışıklık yeniden dolum süresi %25 iyileşir\n\nTüm silahlarla hasarı %12 artırır",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u20604",
    "en": "Increases damage with all weapons by 15%",
-   "tr": "",
+   "tr": "Tüm silahlarla hasarı %15 artırır",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u20605",
    "en": "Increases damage with all weapons by 18%",
-   "tr": "",
+   "tr": "Tüm silahlarla hasarı %18 artırır",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u20606",
    "en": "Reduces the recharge time on Assassinate and Marksman by 25%\n\nIncreases damage with all weapons by 21%",
-   "tr": "",
+   "tr": "Suikast ve Nişancı: yeniden dolum süresi %25 azalır\n\nTüm silahlarla hasarı %21 artırır",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u20607",
    "en": "Increases damage with all weapons by 6%\nStill provides Infiltrator talent bonuses",
-   "tr": "",
+   "tr": "Tüm silahlarla hasarı %6 artırır\nSızma Uzmanı yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u20608",
    "en": "Reduces recharge time on Overload, Damping, Sabotage and AI Hacking by 18%\nStill provides Engineer talent bonuses",
-   "tr": "",
+   "tr": "Aşırı Yükleme, Sönümleme, Sabotaj ve Yapay Zekâ Hackleme: yeniden dolum süresi %18 azalır\nMühendis yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u20609",
    "en": "Reduces recharge time on tech attacks by 20%",
-   "tr": "",
+   "tr": "Teknoloji saldırıları: yeniden dolum süresi %20 azalır",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u20610",
    "en": "Increases Overload's radius by 2m, explosion damage by 50, shield damage by 200, and damage vulnerability by 5%\n\nReduces recharge time on tech attacks by 22%",
-   "tr": "",
+   "tr": "Aşırı Yükleme'nin yarıçapını 2 m, patlama hasarını 50, kalkan hasarını 200 ve hasar savunmasızlığını %5 artırır\n\nTeknoloji saldırılarının yeniden dolum süresi %22 azalır",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u20611",
    "en": "Reduces recharge time on tech attacks by 24%",
-   "tr": "",
+   "tr": "Teknoloji saldırıları: yeniden dolum süresi %24 azalır",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u20612",
    "en": "Reduces recharge time on tech attacks by 26%",
-   "tr": "",
+   "tr": "Teknoloji saldırıları: yeniden dolum süresi %26 azalır",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u20613",
    "en": "Increases Sabotage's radius by 2m, explosion damage by 50, damage per second by 1, and duration by 5 seconds\n\nReduces recharge time on tech attacks by 28%",
-   "tr": "",
+   "tr": "Sabotaj'ın yarıçapını 2 m, patlama hasarını 50, saniyedeki hasarını 1 ve süresini 5 saniye artırır\n\nTeknoloji saldırılarının yeniden dolum süresi %28 azalır",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u20614",
    "en": "Reduces recharge time on Overload, Damping, and Sabotage by 4%\nStill provides Infiltrator talent bonuses",
-   "tr": "",
+   "tr": "Aşırı Yükleme, Sönümleme ve Sabotaj: yeniden dolum süresi %4 azalır\nSızma Uzmanı yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u20615",
    "en": "Reduces recharge time on tech attacks by 6%",
-   "tr": "",
+   "tr": "Teknoloji saldırıları: yeniden dolum süresi %6 azalır",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u20616",
    "en": "Increases Overload's radius by 2m, explosion damage by 50, shield damage by 200, and damage vulnerability by 5%\n\nReduces recharge time on tech attacks by 8%",
-   "tr": "",
+   "tr": "Aşırı Yükleme'nin yarıçapını 2 m, patlama hasarını 50, kalkan hasarını 200 ve hasar savunmasızlığını %5 artırır\n\nTeknoloji saldırılarının yeniden dolum süresi %8 azalır",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u20617",
    "en": "Reduces recharge time on tech attacks by 10%",
-   "tr": "",
+   "tr": "Teknoloji saldırıları: yeniden dolum süresi %10 azalır",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u20618",
    "en": "Reduces recharge time on tech attacks by 12%",
-   "tr": "",
+   "tr": "Teknoloji saldırıları: yeniden dolum süresi %12 azalır",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u20619",
    "en": "Increases Sabotage's radius by 2m, explosion damage by 50, damage per second by 1, and duration by 5 seconds\n\nReduces recharge time on tech attacks by 14%",
-   "tr": "",
+   "tr": "Sabotaj'ın yarıçapını 2 m, patlama hasarını 50, saniyedeki hasarını 1 ve süresini 5 saniye artırır\n\nTeknoloji saldırılarının yeniden dolum süresi %14 azalır",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u20620",
    "en": "Reduces the recharge time on First Aid and Neural Shock by 20%\nStill provides Engineer talent bonuses",
-   "tr": "",
+   "tr": "İlk Yardım ve Sinir Şoku: yeniden dolum süresi %20 azalır\nMühendis yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u20621",
    "en": "Reduces the recharge time on medical talents by 23%",
-   "tr": "",
+   "tr": "Tıbbi yetenekler: yeniden dolum süresi %23 azalır",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u20622",
    "en": "Improve Neural Shock duration 25% and toxic damage by 40\n\nReduces the recharge time on medical talents by 26%",
-   "tr": "",
+   "tr": "Sinir Şoku süresini %25, zehirli hasarını 40 artırır\n\nTıbbi yeteneklerin yeniden dolum süresi %26 azalır",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u20623",
    "en": "Reduces the recharge time on medical talents by 29%",
-   "tr": "",
+   "tr": "Tıbbi yetenekler: yeniden dolum süresi %29 azalır",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u20624",
    "en": "Reduces the recharge time on medical talents by 32%",
-   "tr": "",
+   "tr": "Tıbbi yetenekler: yeniden dolum süresi %32 azalır",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u20625",
    "en": "First Aid does 80 extra healing, ignores toxic damage, and can revive fallen party members\n\nReduces the recharge time on medical talents by 35%",
-   "tr": "",
+   "tr": "İlk Yardım 80 ek iyileştirme sağlar, zehirli hasarı yok sayar ve düşen takım üyelerini diriltebilir\n\nTıbbi yeteneklerin yeniden dolum süresi %35 azalır",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u20626",
    "en": "Reduces the cooldown time of biotic and tech talents by 5%\nIncrease pistol damage by 4%\nIncrease pistol accuracy by 7%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %5 azalır\nTabanca hasarını %4 artırır\nTabanca isabetini %7 artırır",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u20627",
    "en": "Reduces the cooldown time of biotic and tech talents by 7%\nIncrease pistol damage by 6%\nIncrease pistol accuracy by 10%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %7 azalır\nTabanca hasarını %6 artırır\nTabanca isabetini %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u20628",
    "en": "Reduces the cooldown time of biotic and tech talents by 8%\nIncrease pistol damage by 8%\nIncrease pistol accuracy by 13%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %8 azalır\nTabanca hasarını %8 artırır\nTabanca isabetini %13 artırır",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u20629",
    "en": "Reduces the cooldown time of biotic and tech talents by 9%\nIncrease pistol damage by 10%\nIncrease pistol accuracy by 16%",
-   "tr": "",
+   "tr": "Biyotik ve teknoloji yetenekleri: yeniden dolum süresi %9 azalır\nTabanca hasarını %10 artırır\nTabanca isabetini %16 artırır",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u20630",
    "en": "Marksman\n\nOnly available when using pistols\nBoosts accuracy 60%, increases rate of fire 1 rounds/sec, reduces heat 30% to compensate\n\nDuration: 10s\nRecharge Time: 45s",
-   "tr": "",
+   "tr": "Nişancı\n\nYalnızca tabanca kullanılırken geçerli\nİsabeti %60 artırır, atış hızını saniyede 1 mermi artırır, dengelemek için ısıyı %30 azaltır\n\nSüre: 10sn\nYeniden Dolum Süresi: 45sn",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u20631",
    "en": "Reduces the recharge time on First Aid and Neural Shock by 15%\nStill provides Sentinel talent bonuses",
-   "tr": "",
+   "tr": "İlk Yardım ve Sinir Şoku: yeniden dolum süresi %15 azalır\nNöbetçi yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u20632",
    "en": "Reduces the recharge time on medical talents by 18%",
-   "tr": "",
+   "tr": "Tıbbi yetenekler: yeniden dolum süresi %18 azalır",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u20633",
    "en": "Improve Neural Shock duration 25% and toxic damage by 40\n\nReduces the recharge time on medical talents by 21%",
-   "tr": "",
+   "tr": "Sinir Şoku süresini %25, zehirli hasarını 40 artırır\n\nTıbbi yeteneklerin yeniden dolum süresi %21 azalır",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u20634",
    "en": "Reduces the recharge time on medical talents by 24%",
-   "tr": "",
+   "tr": "Tıbbi yetenekler: yeniden dolum süresi %24 azalır",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u20635",
    "en": "Reduces the recharge time on medical talents by 27%",
-   "tr": "",
+   "tr": "Tıbbi yetenekler: yeniden dolum süresi %27 azalır",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u20636",
    "en": "First Aid does 80 extra healing, ignores toxic damage, and can revive fallen party members\n\nReduces the recharge time on medical talents by 30%",
-   "tr": "",
+   "tr": "İlk Yardım 80 ek iyileştirme sağlar, zehirli hasarı yok sayar ve düşen takım üyelerini diriltebilir\n\nTıbbi yeteneklerin yeniden dolum süresi %30 azalır",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u20637",
    "en": "Increases force and damage of Throw by 4%\nIncreases duration of Lift, Warp, Singularity, Barrier, and Stasis by 4%\nStill provides Adept talent bonuses",
-   "tr": "",
+   "tr": "Fırlatma'nın kuvvetini ve hasarını %4 artırır\nKaldırma, Warp, Tekillik, Bariyer ve Stazis süresini %4 artırır\nUsta yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u20638",
    "en": "Increases duration or damage of biotic abilities by 6%",
-   "tr": "",
+   "tr": "Biyotik yeteneklerin süresini veya hasarını %6 artırır",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u20639",
    "en": "Increases Warp's radius by 2 m and damage per second by 25%\n\nIncreases duration or damage of biotic abilities by 8%",
-   "tr": "",
+   "tr": "Warp'ın yarıçapını 2 m ve saniyedeki hasarını %25 artırır\n\nBiyotik yeteneklerin süresini veya hasarını %8 artırır",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u20640",
    "en": "Increases duration or damage of biotic abilities by 10%",
-   "tr": "",
+   "tr": "Biyotik yeteneklerin süresini veya hasarını %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u20641",
    "en": "Increases duration or damage of biotic abilities by 12%",
-   "tr": "",
+   "tr": "Biyotik yeteneklerin süresini veya hasarını %12 artırır",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u20642",
    "en": "Increases Lift's radius by 4 m\n\nIncreases duration or damage of biotic abilities by 14%",
-   "tr": "",
+   "tr": "Kaldırma'nın yarıçapını 4 m artırır\n\nBiyotik yeteneklerin süresini veya hasarını %14 artırır",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u20643",
    "en": "Increases biotic protection by 9%\nIncreases pistol and shotgun damage by 7%",
-   "tr": "",
+   "tr": "Biyotik korumayı %9 artırır\nTabanca ve pompalı tüfek hasarını %7 artırır",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u20644",
    "en": "Increases biotic protection by 12%\nIncreases pistol and shotgun damage by 9%",
-   "tr": "",
+   "tr": "Biyotik korumayı %12 artırır\nTabanca ve pompalı tüfek hasarını %9 artırır",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u20645",
    "en": "Increases biotic protection by 15%\nIncreases pistol and shotgun damage by 11%",
-   "tr": "",
+   "tr": "Biyotik korumayı %15 artırır\nTabanca ve pompalı tüfek hasarını %11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u20646",
    "en": "Increases biotic protection by 18%\nIncreases pistol and shotgun damage by 13%",
-   "tr": "",
+   "tr": "Biyotik korumayı %18 artırır\nTabanca ve pompalı tüfek hasarını %13 artırır",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u20647",
    "en": "Increases biotic protection by 21%\nIncreases pistol and shotgun damage by 15%",
-   "tr": "",
+   "tr": "Biyotik korumayı %21 artırır\nTabanca ve pompalı tüfek hasarını %15 artırır",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u20648",
    "en": "Increases force and damage of Throw by 4%\nIncreases duration of Lift, Warp, and Barrier by 4%\nStill provides Vanguard talent bonuses",
-   "tr": "",
+   "tr": "Fırlatma'nın kuvvetini ve hasarını %4 artırır\nKaldırma, Warp ve Bariyer süresini %4 artırır\nÖncü yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u20649",
    "en": "Reduces the recharge time on biotic talents by 18%\nStill provides Adept talent bonuses",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %18 azalır\nUsta yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u20650",
    "en": "Reduces the recharge time on biotic talents by 20%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %20 azalır",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u20651",
    "en": "Increases Barrier's shield strength and duration by 25%\nBarrier will regenerate 40 shields per second\n\nReduces the recharge time on biotic talents by 22%",
-   "tr": "",
+   "tr": "Bariyer'in kalkan gücünü ve süresini %25 artırır\nBariyer saniyede 40 kalkan yeniler\n\nBiyotik yeteneklerin yeniden dolum süresi %22 azalır",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u20652",
    "en": "Reduces the recharge time on biotic talents by 24%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %24 azalır",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u20653",
    "en": "Reduces the recharge time on biotic talents by 26%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %26 azalır",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u20654",
    "en": "Enemies affected by Stasis can still be damaged\n\nReduces the recharge time on biotic talents by 28%",
-   "tr": "",
+   "tr": "Stazis'ten etkilenen düşmanlara yine de hasar verilebilir\n\nBiyotik yeteneklerin yeniden dolum süresi %28 azalır",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u20655",
    "en": "Reduces the recharge time on biotic talents by 13%\nStill provides Sentinel talent bonuses",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %13 azalır\nNöbetçi yetenek bonuslarını sağlamaya devam eder",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u20656",
    "en": "Reduces the recharge time on biotic talents by 15%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %15 azalır",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u20657",
    "en": "Increases Barrier's shield strength and duration by 25%\nBarrier will regenerate 40 shields per second\n\nReduces the recharge time on biotic talents by 17%",
-   "tr": "",
+   "tr": "Bariyer'in kalkan gücünü ve süresini %25 artırır\nBariyer saniyede 40 kalkan yeniler\n\nBiyotik yeteneklerin yeniden dolum süresi %17 azalır",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u20658",
    "en": "Reduces the recharge time on biotic talents by 19%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %19 azalır",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u20659",
    "en": "Reduces the recharge time on biotic talents by 21%",
-   "tr": "",
+   "tr": "Biyotik yetenekler: yeniden dolum süresi %21 azalır",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u20660",
    "en": "Enemies affected by Stasis can still be damaged\n\nReduces the recharge time on biotic talents by 23%",
-   "tr": "",
+   "tr": "Stazis'ten etkilenen düşmanlara yine de hasar verilebilir\n\nBiyotik yeteneklerin yeniden dolum süresi %23 azalır",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u20661",
    "en": "Unlock Basic Armor",
-   "tr": "",
+   "tr": "Temel Zırhın Kilidini Aç",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u20662",
    "en": "An asari named Mallene Calis asked you to speak to Rafael Vargas on her behalf. You told her you were too busy. If you change your mind, speak to her again.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, ondan Rafael Vargas ile kendi adına konuşmanızı istedi. Çok meşgul olduğunuzu söylediniz. Fikrinizi değiştirirseniz onunla tekrar konuşun.",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u20663",
    "en": "Vargas is at the hotel bar. In order for Mallene's device to work, you have to keep him talking about business. He is a shrewd man who can tell if someone's wasting his time.",
-   "tr": "",
+   "tr": "Vargas otel barında. Mallene'in cihazının çalışması için onu iş hakkında konuşturmaya devam etmelisiniz. Zamanını boşa harcayan birini fark edebilen kurnaz bir adam.",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u20664",
    "en": "Keep Him Talking",
-   "tr": "",
+   "tr": "Konuşturmaya Devam Et",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u20665",
    "en": "An asari named Mallene Calis has asked you to wiretap Rafael Vargas. She gave you a device that will hack into his personal network as you speak to him.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı dinlemenizi istedi. Onunla konuşurken kişisel ağına sızacak bir cihaz verdi.",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u20666",
    "en": "An asari named Mallene Calis asked you to spy on Rafael Vargas. You refused.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı gözetlemenizi istedi. Reddettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u20667",
    "en": "Vargas became suspicious and left. You should tell Mallene her plan failed.",
-   "tr": "",
+   "tr": "Vargas şüphelenip ayrıldı. Mallene'e planının başarısız olduğunu söylemelisiniz.",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u20668",
    "en": "Cover Blown",
-   "tr": "",
+   "tr": "Cephe Dağıldı",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u20669",
    "en": "You told Vargas about Mallene's plot. She is still expecting you to return.",
-   "tr": "",
+   "tr": "Vargas'a Mallene'in planını anlattınız. Mallene hâlâ dönmenizi bekliyor.",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u20670",
    "en": "Turned Mallene In",
-   "tr": "",
+   "tr": "Mallene'i İhbar Ettiniz",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u20671",
    "en": "An asari named Mallene Calis asked you to spy on Rafael Vargas. You did as she asked.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı gözetlemenizi istedi. İstediğini yaptınız.",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u20672",
    "en": "An asari named Mallene Calis asked you to spy on Rafael Vargas. The plan failed when he became suspicious.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı gözetlemenizi istedi. Vargas şüphelenince plan başarısız oldu.",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u20673",
    "en": "You've successfully hacked into Vargas' network. Return to Mallene Callis.",
-   "tr": "",
+   "tr": "Vargas'ın ağına başarıyla sızdınız. Mallene Callis'e dönün.",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u20674",
    "en": "Hacking Complete",
-   "tr": "",
+   "tr": "Hackleme Tamamlandı",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u20675",
    "en": "An asari named Mallene Calis asked you to spy on Rafael Vargas. You quit the job before completion.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı gözetlemenizi istedi. İşi bitirmeden bıraktınız.",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u20676",
    "en": "An asari named Mallene Calis asked you to spy on Rafael Vargas. The plan failed when he became suspicious. You admitted the plot to him and turned over Mallene's cracking device, but afterwards warned the asari.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı gözetlemenizi istedi. Vargas şüphelenince plan başarısız oldu. Ona planı itiraf edip Mallene'in kırma cihazını teslim ettiniz, ama sonrasında asari'yi uyardınız.",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u20677",
    "en": "An asari named Mallene Calis asked you to spy on Rafael Vargas. You admitted the plot to him and turned over Mallene's cracking device. He will use it to feed the asari false information.",
-   "tr": "",
+   "tr": "Mallene Calis adlı bir asari, Rafael Vargas'ı gözetlemenizi istedi. Ona planı itiraf edip Mallene'in kırma cihazını teslim ettiniz. Vargas bunu asari'ye yanlış bilgi vermek için kullanacak.",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u20678",
    "en": "Dr. Cohen told you that several of the scientists at Rift Station were sickened by an experiment gone awry. Captain Ventralis won't allow anyone to go into the labs to manufacture a cure for them. He might make an exception in your case.",
-   "tr": "",
+   "tr": "Dr. Cohen, Rift Station'daki bilim insanlarından birkaçının ters giden bir deney yüzünden hastalandığını söyledi. Kaptan Ventralis, onlar için bir tedavi üretmek amacıyla kimsenin laboratuvarlara girmesine izin vermiyor. Sizin durumunuzda bir istisna yapabilir.",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u20679",
    "en": "You'll need to ask Ventralis for permission to enter the quarantine labs.",
-   "tr": "",
+   "tr": "Karantina laboratuvarlarına girmek için Ventralis'ten izin istemeniz gerekecek.",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u20680",
    "en": "Talk to Ventralis",
-   "tr": "",
+   "tr": "Ventralis ile Konuş",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u20681",
    "en": "Head to the quarantine lab, which is downstairs near the science team quarters. There should be equipment and notes that will allow you to replicate the scientists' work and create a cure. ",
-   "tr": "",
+   "tr": "Bilim ekibi odalarının yakınındaki alt katta bulunan karantina laboratuvarına gidin. Bilim insanlarının çalışmasını yeniden üretip bir tedavi yaratmanıza izin verecek ekipman ve notlar olmalı.",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u20682",
    "en": "Make a Cure",
-   "tr": "",
+   "tr": "Tedavi Yap",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u20683",
    "en": "You've got the cure. Return it to Dr. Cohen in the infirmary.",
-   "tr": "",
+   "tr": "Tedaviyi aldınız. Revirdeki Dr. Cohen'e götürün.",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u20684",
    "en": "Return to Cohen",
-   "tr": "",
+   "tr": "Cohen'e Dön",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u20685",
    "en": "Several of the scientists at Rift Station were sickened by an experiment gone awry. You went into the contaminated labs to make a cure for them; they should recover in time.",
-   "tr": "",
+   "tr": "Rift Station'daki bilim insanlarından birkaçı ters giden bir deney yüzünden hastalandı. Onlar için bir tedavi yapmak üzere kirlenmiş laboratuvarlara girdiniz; zamanla iyileşmeleri gerekir.",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u20686",
    "en": "Given the chaos caused by your breaking into the secret labs, you no longer have time to deal with this.",
-   "tr": "",
+   "tr": "Gizli laboratuvarlara zorla girmenizin yarattığı kaos yüzünden artık bununla ilgilenecek vaktiniz yok.",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u20687",
    "en": "Saren appears to have discovered a cure for the genophage and is breeding an army of krogan. Wrex is furious that Captain Kirrahe wants to destroy the cure. The Captain is worried about Wrex's state of mind and doesn't want to continue if Wrex is going to be a problem.",
-   "tr": "",
+   "tr": "Saren genophage'ın tedavisini keşfetmiş gibi görünüyor ve bir krogan ordusu yetiştiriyor. Wrex, Kaptan Kirrahe'nin tedaviyi yok etmek istemesine çok öfkeli. Kaptan, Wrex'in ruh halinden endişe ediyor ve Wrex sorun olacaksa devam etmek istemiyor.",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u20688",
    "en": "Virmire: Wrex and the Genophage",
-   "tr": "",
+   "tr": "Virmire: Wrex ve Genophage",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u20689",
    "en": "Wrex couldn't be reasoned with and you decided to kill him rather than risk the mission.",
-   "tr": "",
+   "tr": "Wrex ile mantıklı bir konuşma yapılamadı ve görevi riske atmaktansa onu öldürmeye karar verdiniz.",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u20690",
    "en": "Virmire: Wrex is Dead",
-   "tr": "",
+   "tr": "Virmire: Wrex Öldü",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u20691",
    "en": "Wrex couldn't be reasoned with and you decided to have Ashley kill him rather than risk the mission.",
-   "tr": "",
+   "tr": "Wrex ile mantıklı bir konuşma yapılamadı ve görevi riske atmaktansa Ashley'nin onu öldürmesine karar verdiniz.",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u20692",
    "en": "You tried to reason with Wrex but he became violent and Ashley killed him rather than risk losing you.",
-   "tr": "",
+   "tr": "Wrex ile konuşmaya çalıştınız ama o şiddete başvurdu ve Ashley, sizi kaybetmeyi göze almaktansa onu öldürdü.",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u20693",
    "en": "Speak with Wrex and calm him down.",
-   "tr": "",
+   "tr": "Wrex ile konuşun ve onu sakinleştirin.",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u20694",
    "en": "Talk to Wrex",
-   "tr": "",
+   "tr": "Wrex ile Konuş",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u20695",
    "en": "You convinced Wrex that destroying the genophage was the best thing for everyone, including the krogan. He isn't happy about it, but at least he understands.",
-   "tr": "",
+   "tr": "Wrex'i genophage'ı yok etmenin krogan dahil herkes için en iyisi olduğuna ikna ettiniz. Bundan hoşlanmıyor, ama en azından anlıyor.",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u20696",
    "en": "Virmire: Wrex is Convinced",
-   "tr": "",
+   "tr": "Virmire: Wrex İkna Oldu",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u20697",
    "en": "Platform",
-   "tr": "",
+   "tr": "Platform",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u20698",
    "en": "Someone has been killing every Alliance scientist who was involved in a secret project years ago. The only project member still alive is located in the Newton System of the Kepler Verge.",
-   "tr": "",
+   "tr": "Biri, yıllar önceki gizli bir projede yer alan her İttifak bilim insanını öldürüyor. Proje üyelerinden hayatta kalan tek kişi Kepler Verge'deki Newton Sistemi'nde bulunuyor.",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u20699",
    "en": "UNC: Dead Scientists",
-   "tr": "",
+   "tr": "UNC: Ölü Bilim İnsanları",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u20700",
    "en": "Years ago, a group of Alliance scientists conducted a secret project on Akuze, the planet where your entire unit was wiped out. Now someone is killing those scientists. The only project member still alive is located in the Newton system of the Kepler Verge.",
-   "tr": "",
+   "tr": "Yıllar önce bir grup İttifak bilim insanı, tüm biriminizin yok edildiği gezegen Akuze'de gizli bir proje yürüttü. Şimdi biri o bilim insanlarını öldürüyor. Proje üyelerinden hayatta kalan tek kişi Kepler Verge'deki Newton sisteminde bulunuyor.",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u20701",
    "en": "You killed Toombs, the man threatening the Alliance scientist.",
-   "tr": "",
+   "tr": "İttifak bilim insanını tehdit eden adam Toombs'u öldürdünüz.",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u20702",
    "en": "You killed Toombs in order to stop him from killing the Alliance scientist responsible for the secret experiments at Akuze. The scientist can now go to trial for his crimes.",
-   "tr": "",
+   "tr": "Toombs'u, Akuze'deki gizli deneylerden sorumlu İttifak bilim insanını öldürmesini engellemek için öldürdünüz. Bilim insanı artık işlediği suçlardan yargılanabilir.",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u20703",
    "en": "You allowed Toombs to kill the scientist who performed experiments on him after the massacre at Akuze. Toombs then took his own life.",
-   "tr": "",
+   "tr": "Toombs'un, Akuze katliamından sonra üzerinde deney yapan bilim insanını öldürmesine izin verdiniz. Toombs ardından kendi canına kıydı.",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u20704",
    "en": "You convinced Toombs to let the scientist live so he could stand trial for his actions. Toombs can now get the therapy he needs after his years of torture, and the scientist will spend the rest of his life in prison.",
-   "tr": "",
+   "tr": "Toombs'u, bilim insanının yaptıklarından dolayı yargılanabilmesi için onu yaşatmaya ikna ettiniz. Toombs artık yıllarca süren işkencesinin ardından ihtiyaç duyduğu tedaviyi alabilir ve bilim insanı hayatının geri kalanını hapiste geçirecek.",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u20705",
    "en": "You killed the scientist yourself so Toombs would not have to do so. Toombs can now get the therapy he needs, and no one will question a Spectre's decision.",
-   "tr": "",
+   "tr": "Toombs'un bunu yapmak zorunda kalmaması için bilim insanını kendiniz öldürdünüz. Toombs artık ihtiyaç duyduğu tedaviyi alabilir ve hiç kimse bir Spectre'ın kararını sorgulamayacak.",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u20706",
    "en": "Go to the Newton System in the Kepler Verge cluster and find the one remaining scientist assigned to the secret project.",
-   "tr": "",
+   "tr": "Kepler Verge kümesindeki Newton Sistemi'ne gidin ve gizli projeye atanan tek kalan bilim insanını bulun.",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u20707",
    "en": "Find the Scientist",
-   "tr": "",
+   "tr": "Bilim İnsanını Bul",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u20708",
    "en": "With the situation resolved, you should now make your report to Admiral Hackett.",
-   "tr": "",
+   "tr": "Durum çözüldüğüne göre şimdi Amiral Hackett'a raporunuzu vermelisiniz.",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u20709",
    "en": "Report to Hackett",
-   "tr": "",
+   "tr": "Hackett'a Rapor Ver",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u20710",
    "en": "You've discovered a locator signal for a major geth military installation. The geth are using the facility as a base of operations for their recent incursions into the Armstrong Cluster.",
-   "tr": "",
+   "tr": "Büyük bir geth askerî tesisinin konum sinyalini keşfettiniz. Geth'ler tesisi, Armstrong Kümesi'ne yaptıkları son saldırılar için harekât üssü olarak kullanıyor.",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u20711",
    "en": "Find and destroy the main geth base of operations in the Grissom System of the Armstrong Nebula cluster in order to stop the geth incursion.",
-   "tr": "",
+   "tr": "Geth saldırısını durdurmak için Armstrong Bulutsusu kümesinin Grissom Sistemi'ndeki ana geth harekât üssünü bulup yok edin.",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u20712",
    "en": "Eliminate Geth Bunker",
-   "tr": "",
+   "tr": "Geth Sığınağını Yok Et",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u20713",
    "en": "You have destroyed the geth bases and the geth bunker. For the moment, at least, the geth offensive has been halted.",
-   "tr": "",
+   "tr": "Geth üslerini ve geth sığınağını yok ettiniz. En azından şimdilik geth saldırısı durduruldu.",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u20714",
    "en": "You've arrived at Peak 15. The station is shut down.",
-   "tr": "",
+   "tr": "Peak 15'e ulaştınız. İstasyon kapalı.",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u20715",
    "en": "You've restored the Mira Virtual Intelligence.",
-   "tr": "",
+   "tr": "Mira Sanal Zekâsı'nı geri getirdiniz.",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u20716",
    "en": "Confirm Secondary Training",
-   "tr": "",
+   "tr": "İkincil Eğitimi Onayla",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u20717",
    "en": "An old Alliance espionage probe has turned up in the Voyager Cluster. These probes carried nuclear payloads, and if the Citadel discovers these nuclear booby-traps, it would greatly embarrass the Alliance. Your mission is to find, disable, and recover the probe.",
-   "tr": "",
+   "tr": "Voyager Kümesi'nde eski bir İttifak casusluk sondası ortaya çıktı. Bu sondalar nükleer yük taşıyordu ve Citadel bu nükleer tuzakları keşfederse İttifak çok utanç duyar. Göreviniz sondayı bulmak, devre dışı bırakmak ve geri almak.",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u20718",
    "en": "UNC: Espionage Probe",
-   "tr": "",
+   "tr": "UNC: Casusluk Sondası",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u20719",
    "en": "The probe was a trap set specifically to lure you in. Elanos Haliat, the man who masterminded the attack on Elysium, wants revenge on the Alliance for his defeat.",
-   "tr": "",
+   "tr": "Sonda, sizi çekmek için özellikle kurulmuş bir tuzaktı. Elysium saldırısının beyni olan Elanos Haliat, yenilgisinin intikamını İttifak'tan almak istiyor.",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u20720",
    "en": "The probe was a trap set specifically to lure you in. Elanos Haliat, the man who masterminded the attack on Elysium, wants revenge on you for heroically holding the line.",
-   "tr": "",
+   "tr": "Sonda, sizi çekmek için özellikle kurulmuş bir tuzaktı. Elysium saldırısının beyni olan Elanos Haliat, hattı kahramanca tuttuğunuz için sizden intikam almak istiyor.",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u20721",
    "en": "The probe's signal is coming from the Amazon System in the Voyager cluster. Head there and track it down.",
-   "tr": "",
+   "tr": "Sondanın sinyali Voyager kümesindeki Amazon Sistemi'nden geliyor. Oraya gidin ve izini sürün.",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u20722",
    "en": "Find the Probe",
-   "tr": "",
+   "tr": "Sondayı Bul",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u20723",
    "en": "Escape from the trap that Haliat has left for you. If possible, take down Haliat, as well.",
-   "tr": "",
+   "tr": "Haliat'ın sizin için bıraktığı tuzaktan kaçın. Mümkünse Haliat'ı da alt edin.",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u20724",
    "en": "You escaped from the trap Haliat laid for you and managed to kill him in the process.",
-   "tr": "",
+   "tr": "Haliat'ın sizin için kurduğu tuzaktan kaçtınız ve bu sırada onu öldürmeyi başardınız.",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u20725",
    "en": "Waste Container",
-   "tr": "",
+   "tr": "Atık Konteyneri",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u20726",
    "en": "Many systems will be inoperable until the equipment is repaired. Getting the computers operating would be a logical first step.",
-   "tr": "",
+   "tr": "Ekipman onarılana kadar birçok sistem çalışamaz. Bilgisayarları çalıştırmak mantıklı bir ilk adım olur.",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u20727",
    "en": "Power Down",
-   "tr": "",
+   "tr": "Güç Kesildi",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u20728",
    "en": "Peak 15's Virtual Intelligence computer program has suffered some kind of failure, and requires a manual reboot.",
-   "tr": "",
+   "tr": "Peak 15'in Sanal Zekâ bilgisayar programı bir tür arıza yaşadı ve elle yeniden başlatılması gerekiyor.",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u20729",
    "en": "Computers Damaged",
-   "tr": "",
+   "tr": "Bilgisayarlar Hasarlı",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u20730",
    "en": "You informed Admiral Kahoku of the fate of his men. Kahoku has promised to investigate their deaths further.",
-   "tr": "",
+   "tr": "Amiral Kahoku'yu adamlarının akıbetinden haberdar ettiniz. Kahoku ölümlerini daha ayrıntılı araştıracağına söz verdi.",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u20731",
    "en": "Ventralis told you that Benezia went to the Hot Labs. He gave you a pass to an elevator by the trams that can take you there.",
-   "tr": "",
+   "tr": "Ventralis, Benezia'nın Hot Labs'a gittiğini söyledi. Size tramvayların yanındaki ve sizi oraya götürebilecek bir asansör için geçiş izni verdi.",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u20732",
    "en": "Benezia Left",
-   "tr": "",
+   "tr": "Benezia Ayrıldı",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u20733",
    "en": "You've discovered a sealed section of the Rift Station labs. It would be possible to blast your way in, but there may be a more subtle way.",
-   "tr": "",
+   "tr": "Rift Station laboratuvarlarının mühürlenmiş bir bölümünü keşfettiniz. Zorla patlatarak girmek mümkün, ama daha ince bir yol olabilir.",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u20734",
    "en": "The Sealed Labs",
-   "tr": "",
+   "tr": "Mühürlü Laboratuvarlar",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u20735",
    "en": "You've entered an unguarded \"back door\" into the sealed areas of Rift Station. The guards are not alerted to your presence.",
-   "tr": "",
+   "tr": "Rift Station'ın mühürlenmiş bölgelerine açılan korumasız bir \"arka kapı\"ya girdiniz. Muhafızlar varlığınızdan haberdar değil.",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u20736",
    "en": "Sneaking In",
-   "tr": "",
+   "tr": "Gizlice Giriş",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u20737",
    "en": "You've broken into the sealed areas of Rift Station. The station is on alert, and the guards will shoot to kill.",
-   "tr": "",
+   "tr": "Rift Station'ın mühürlenmiş bölgelerine zorla girdiniz. İstasyon alarmda ve muhafızlar öldürmek için ateş edecek.",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u20738",
    "en": "Breaking In",
-   "tr": "",
+   "tr": "Zorla Giriş",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u20739",
    "en": "You have the card needed to arm the neutron purge. Use it on the controls in the Operations Center.",
-   "tr": "",
+   "tr": "Nötron tasfiyesini hazırlamak için gereken karta sahipsiniz. Operasyon Merkezi'ndeki kontrollerde kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u20740",
    "en": "The Pass Card",
-   "tr": "",
+   "tr": "Geçiş Kartı",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u20741",
    "en": "Admiral Hackett has asked you to negotiate a treaty with a man named Darius in the Plutus System system. The treaty concerns mining rights on an asteroid rich in Element Zero. You are authorized to make any financial or diplomatic concessions necessary to secure mining rights to the asteroid.",
-   "tr": "",
+   "tr": "Amiral Hackett, Plutus Sistemi'ndeki Darius adlı bir adamla antlaşma müzakere etmenizi istedi. Antlaşma, Element Sıfır bakımından zengin bir asteroitteki madencilik hakları hakkında. Asteroidin madencilik haklarını güvence altına almak için gerekli her mali veya diplomatik tavizi vermeye yetkilisiniz.",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u20742",
    "en": "UNC: The Negotiation",
-   "tr": "",
+   "tr": "UNC: Müzakere",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u20743",
    "en": "You have successfully negotiated a treaty with the warlord Darius. Admiral Hackett was surprised but pleased that you managed to solve the matter without hostilities.",
-   "tr": "",
+   "tr": "Savaşçı lider Darius ile başarıyla bir antlaşma müzakere ettiniz. Amiral Hackett, meseleyi çatışma çıkmadan çözmenize şaşırdı ama memnun oldu.",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u20744",
    "en": "You killed Darius and destabilized the region, which was apparently what Admiral Hackett was secretly hoping all along. With Darius dead, the criminal elements will be too busy fighting each other to mount attacks on the miners.",
-   "tr": "",
+   "tr": "Darius'u öldürüp bölgeyi istikrarsızlaştırdınız; görünüşe göre Amiral Hackett'ın başından beri gizlice umduğu da buydu. Darius ölünce suç unsurları birbirleriyle savaşmakla madencilere saldırı düzenlemekle uğraşamayacak kadar meşgul olacak.",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u20745",
    "en": "Meet Darius at the rendezvous point on the planet Nonuel in the Plutus System of the Hades Gamma cluster.",
-   "tr": "",
+   "tr": "Hades Gamma kümesinin Plutus Sistemi'ndeki Nonuel gezegeninde, buluşma noktasında Darius ile buluşun.",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u20746",
    "en": "Meet Darius",
-   "tr": "",
+   "tr": "Darius ile Buluş",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u20747",
    "en": "Make whatever concessions are necessary to secure the treaty with Darius.",
-   "tr": "",
+   "tr": "Darius ile antlaşmayı güvence altına almak için gereken her tavizi verin.",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u20748",
    "en": "Negotiate Treaty",
-   "tr": "",
+   "tr": "Antlaşmayı Müzakere Et",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u20749",
    "en": "Return to the Normandy and use the galaxy map to report the successful treaty negotiation to Admiral Hackett.",
-   "tr": "",
+   "tr": "Normandy'ye dönün ve başarılı antlaşma müzakeresini Amiral Hackett'a bildirmek için galaksi haritasını kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u20750",
    "en": "Return to the Normandy and use the galaxy map to report the death of Darius to Admiral Hackett.",
-   "tr": "",
+   "tr": "Normandy'ye dönün ve Darius'un ölümünü Amiral Hackett'a bildirmek için galaksi haritasını kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u20751",
    "en": "Negotiation Parameters",
-   "tr": "",
+   "tr": "Müzakere Parametreleri",
    "ctx": [
     "Startup"
    ]
