@@ -9,7 +9,7 @@
   {
    "key": "u02828",
    "en": "Just open the door.",
-   "tr": "",
+   "tr": "Sadece kapıyı aç.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -19,7 +19,7 @@
   {
    "key": "u02829",
    "en": "How would I fix that?",
-   "tr": "",
+   "tr": "Bunu nasıl düzeltirim?",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -29,7 +29,7 @@
   {
    "key": "u02830",
    "en": "When emergency protocols were implemented within the hot labs, the cabling was automatically ejected.",
-   "tr": "",
+   "tr": "Sıcak laboratuvarlarda acil durum protokolleri devreye girdiğinde kablolar otomatik olarak fırlatıldı.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -39,7 +39,7 @@
   {
    "key": "u02831",
    "en": "The valves to the helium-3 fuel line must be opened. This can be done at the controls on the reactor assembly proper.",
-   "tr": "",
+   "tr": "Helyum-3 yakıt hattının valfleri açılmalı. Bu, reaktör düzeneğinin kendisindeki kontrollerden yapılabilir.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -49,7 +49,7 @@
   {
    "key": "u02832",
    "en": "The landlines are designed for easy reconnection.",
-   "tr": "",
+   "tr": "Sabit hatlar kolay yeniden bağlanacak şekilde tasarlanmıştır.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -59,7 +59,7 @@
   {
    "key": "u02833",
    "en": "The router for the landlines is on the roof of Operations. Simply activate the controls, and the hardware will reconnect and reboot automatically.",
-   "tr": "",
+   "tr": "Sabit hatların yönlendiricisi Operasyon binasının çatısında. Kontrolleri etkinleştirmeniz yeterli, donanım otomatik olarak yeniden bağlanıp yeniden başlayacak.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -69,7 +69,7 @@
   {
    "key": "u02834",
    "en": "The chamber is equipped with failsafe system which vents a 5000-degree Kelvin plasma. This is sufficient to sterilize any potential contagion.",
-   "tr": "",
+   "tr": "Oda, 5000 Kelvin derecelik plazma boşaltan bir arıza emniyet sistemiyle donatılmıştır. Bu, olası her bulaşı sterilize etmeye yeter.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -79,7 +79,7 @@
   {
    "key": "u02836",
    "en": "Where's Benezia?",
-   "tr": "",
+   "tr": "Benezia nerede?",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC",
     "BIOA_ICE50_08_DSG_LOC",
@@ -89,7 +89,7 @@
   {
    "key": "u02837",
    "en": "A backup power system, Shepard. Must be for the station mainframe.",
-   "tr": "",
+   "tr": "Yedek güç sistemi Shepard. İstasyonun ana bilgisayarı için olmalı.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u02838",
    "en": "A backup power system, Commander. It must be for the station's mainframe.",
-   "tr": "",
+   "tr": "Yedek güç sistemi Komutan. İstasyonun ana bilgisayarı için olmalı.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u02839",
    "en": "Shepard, that is a backup power system for the station mainframe.",
-   "tr": "",
+   "tr": "Shepard, bu istasyon ana bilgisayarının yedek güç sistemi.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u02840",
    "en": "A backup power system, Commander. Must be for the station mainframe.",
-   "tr": "",
+   "tr": "Yedek güç sistemi Komutan. İstasyon ana bilgisayarı için olmalı.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u02841",
    "en": "So whack it and turn this thing on.",
-   "tr": "",
+   "tr": "O zaman vur ve şunu çalıştır.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u02842",
    "en": "Can we fix it? Get this place back online?",
-   "tr": "",
+   "tr": "Onarabilir miyiz? Burayı yeniden çevrimiçi yapabilir miyiz?",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u02843",
    "en": "We could probably get it back online.",
-   "tr": "",
+   "tr": "Muhtemelen yeniden çevrimiçi yapabiliriz.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u02844",
    "en": "The damage is not extensive. It could be repaired.",
-   "tr": "",
+   "tr": "Hasar kapsamlı değil. Onarılabilir.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u02845",
    "en": "It should be easy to fix it.",
-   "tr": "",
+   "tr": "Onarması kolay olmalı.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u02846",
    "en": "Critical startup error. Virtual Intelligence user interface offline. Manual boot required.",
-   "tr": "",
+   "tr": "Kritik başlatma hatası. Sanal Zekâ kullanıcı arayüzü çevrimdışı. Elle önyükleme gerekli.",
    "ctx": [
     "BIOA_ICE50_06_DSG_LOC"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u02847",
    "en": "Now entering main reactor.",
-   "tr": "",
+   "tr": "Ana reaktöre giriliyor.",
    "ctx": [
     "BIOA_ICE50_07_PLC_LOC"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u02848",
    "en": "All systems functioning within accepted tolerances.",
-   "tr": "",
+   "tr": "Tüm sistemler kabul edilen toleranslar içinde çalışıyor.",
    "ctx": [
     "BIOA_ICE50_07_PLC_LOC"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u02849",
    "en": "The He3 fuel line's cut.",
-   "tr": "",
+   "tr": "He3 yakıt hattı kesilmiş.",
    "ctx": [
     "BIOA_ICE50_08_DSG_LOC"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u02850",
    "en": "The He3 fuel line is cut.",
-   "tr": "",
+   "tr": "He3 yakıt hattı kesilmiş.",
    "ctx": [
     "BIOA_ICE50_08_DSG_LOC"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u02851",
    "en": "Now exiting to the roof.",
-   "tr": "",
+   "tr": "Çatıya çıkılıyor.",
    "ctx": [
     "BIOA_ICE50_09_PLC_LOC"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u02852",
    "en": "Inter-facility communications functioning normally.",
-   "tr": "",
+   "tr": "Tesisler arası iletişim normal çalışıyor.",
    "ctx": [
     "BIOA_ICE50_09_PLC_LOC"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u02853",
    "en": "...control grou-- ...loose in the... they're... can't escape... up the tunnels now. We're sorry. The leads couldn't get to... --struct. ..out while you can...",
-   "tr": "",
+   "tr": "...kontrol grub-- ...serbest kal... onlar... kaçamıyor... artık tünellerden yukarı. Üzgünüz. Liderler ulaşamadı... --yapı. ..yapabilirken çıkın...",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u02854",
    "en": "He killed himself because he was part of whatever happened here?",
-   "tr": "",
+   "tr": "Burada olan her neyse ona karıştığı için kendini mi öldürdü?",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u02855",
    "en": "Damned shame. God only gives you one life.",
-   "tr": "",
+   "tr": "Çok yazık. Tanrı insana sadece bir hayat verir.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u02856",
    "en": "Many salarians believe in a \"wheel of life.\" Your people call it \"reincarnation.\" My people have a similar philosophy.",
-   "tr": "",
+   "tr": "Birçok salarian \"hayat çarkına\" inanır. Sizin halkınız buna \"reenkarnasyon\" diyor. Benim halkımın da benzer bir felsefesi var.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u02857",
    "en": "He might disagree. Many salarians believe in a \"wheel of life.\" I believe your people call it \"reincarnation.\"",
-   "tr": "",
+   "tr": "O katılmayabilir. Birçok salarian \"hayat çarkına\" inanır. Sizin halkınıza göre bu \"reenkarnasyon\" sanırım.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u02858",
    "en": "He must have felt there was no hope of surviving. That killing himself would be easier.",
-   "tr": "",
+   "tr": "Hayatta kalma umudu olmadığını düşünmüş olmalı. Kendini öldürmenin daha kolay olacağını.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u02859",
    "en": "There must have been something he could do to help his comrades.",
-   "tr": "",
+   "tr": "Yoldaşlarına yardım etmek için yapabileceği bir şey olmalıydı.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u02860",
    "en": "Among my people, a suicide's body would be left for scavengers. The nathak will get to him eventually.",
-   "tr": "",
+   "tr": "Benim halkımda intihar edenin cesedi leşçillere bırakılır. Nathak'lar sonunda ona ulaşır.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u02861",
    "en": "He killed himself. Because he was part of whatever happened here.",
-   "tr": "",
+   "tr": "Kendini öldürdü. Çünkü burada olan her neyse onun parçasıydı.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u02862",
    "en": "They're locked in.",
-   "tr": "",
+   "tr": "Kilitli kalmışlar.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u02863",
    "en": "They are locked in.",
-   "tr": "",
+   "tr": "Kilitli kalmışlar.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u02864",
    "en": "I could bypass the door. It looks like the trams to the subsidiary stations are beyond it.",
-   "tr": "",
+   "tr": "Kapıyı atlatabilirim. Yan istasyonlara giden tramvaylar bunun ötesinde gibi.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u02865",
    "en": "The door could be finessed. It appears that the trams to the subsidiary stations are beyond it.",
-   "tr": "",
+   "tr": "Kapı idare edilebilir. Yan istasyonlara giden tramvaylar bunun ötesinde görünüyor.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u02866",
    "en": "We could hot-wire the door. Looks like the trams to the subsidiary stations are beyond it.",
-   "tr": "",
+   "tr": "Kapıyı kısa devre yaptırabiliriz. Yan istasyonlara giden tramvaylar bunun ötesinde gibi.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u02867",
    "en": "It seems the trams to the subsidiary stations are beyond this. That door could be finessed.",
-   "tr": "",
+   "tr": "Yan istasyonlara giden tramvaylar bunun ötesinde görünüyor. O kapı idare edilebilir.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u02868",
    "en": "That door could be finessed. Looks like the trams to the subsidiary stations are beyond it.",
-   "tr": "",
+   "tr": "O kapı idare edilebilir. Yan istasyonlara giden tramvaylar bunun ötesinde gibi.",
    "ctx": [
     "BIOA_ICE50_12_DSG_LOC"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u02869",
    "en": "Now arriving at Peak 15 Central Station.",
-   "tr": "",
+   "tr": "Peak 15 Merkez İstasyonu'na varılıyor.",
    "ctx": [
     "BIOA_ICE50_13_PLC_LOC"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u02870",
    "en": "Departing Central Station. Destination: Rift Station.",
-   "tr": "",
+   "tr": "Merkez İstasyon'dan ayrılıyor. Varış: Rift Station.",
    "ctx": [
     "BIOA_ICE50_13_PLC_LOC"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u02871",
    "en": "Now arriving at Rift Station, Binary Helix research facility.",
-   "tr": "",
+   "tr": "Binary Helix araştırma tesisi Rift Station'a varılıyor.",
    "ctx": [
     "BIOA_ICE50_13_PLC_LOC"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u02872",
    "en": "Departing Rift Station. Destination: Central Station.",
-   "tr": "",
+   "tr": "Rift Station'dan ayrılıyor. Varış: Merkez İstasyon.",
    "ctx": [
     "BIOA_ICE50_13_PLC_LOC"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u02873",
    "en": "Now entering decontamination and transit hub.",
-   "tr": "",
+   "tr": "Dekontaminasyon ve aktarma merkezine giriliyor.",
    "ctx": [
     "BIOA_ICE50_15_PLC_LOC"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u02874",
    "en": "User alert! Loose contaminants in the decontamination chamber. Access to passenger tramways inadvisable.",
-   "tr": "",
+   "tr": "Kullanıcı uyarısı! Dekontaminasyon odasında başıboş kirleticiler var. Yolcu tramvaylarına erişim tavsiye edilmez.",
    "ctx": [
     "BIOA_ICE50_15_PLC_LOC"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u02875",
    "en": "No hazardous or unauthorized materials detected.",
-   "tr": "",
+   "tr": "Tehlikeli veya yetkisiz madde tespit edilmedi.",
    "ctx": [
     "BIOA_ICE50_15_PLC_LOC"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u02876",
    "en": "Maybe those scientists can make us some kinda--I don't know--anti-bug plague. Or something.",
-   "tr": "",
+   "tr": "Belki şu bilim insanları bize bir tür--bilmem--böcek karşıtı veba falan yapabilir.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u02877",
    "en": "I'd kill for a P204. Just hold down the trigger and fzzzzap! Hallway full of flash-boiled bugs.",
-   "tr": "",
+   "tr": "Bir P204 için adam öldürürdüm. Tetiği basılı tut ve fzzzzzap! Koridor dolusu anında haşlanmış böcek.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u02878",
    "en": "Cap'n tell you about the hot labs? I wouldn't go there. Bug central.",
-   "tr": "",
+   "tr": "Kaptan sıcak laboratuvarlardan bahsetti mi? Ben gitmezdim. Böcek merkezi.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u02879",
    "en": "Didn't think I'd see this kind of action after retirement.",
-   "tr": "",
+   "tr": "Emekli olduktan sonra böyle bir aksiyon göreceğimi sanmazdım.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u02880",
    "en": "Sure could use some grenades right now.",
-   "tr": "",
+   "tr": "Şu an birkaç el bombası işime yarardı.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u02881",
    "en": "You should talk to the cap'n.",
-   "tr": "",
+   "tr": "Kaptanla konuşmalısın.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u02882",
    "en": "Get inside already. I wouldn't be out here if I didn't have to be.",
-   "tr": "",
+   "tr": "Hadi içeri gir artık. Zorunda olmasam burada olmazdım.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u02883",
    "en": "Something you need?",
-   "tr": "",
+   "tr": "İhtiyacın olan bir şey mi var?",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u02884",
    "en": "The facility's off the network. The only way to find out would be to send scouts down the elevator. I won't send my people to their death.",
-   "tr": "",
+   "tr": "Tesis ağdan çıktı. Öğrenmenin tek yolu keşifçileri asansörle aşağı göndermek. Adamlarımı ölüme göndermeyeceğim.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u02885",
    "en": "Since Mira's back online, I had a look at your record.",
-   "tr": "",
+   "tr": "Mira yeniden çevrimiçi olduğundan sicilinize baktım.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u02886",
    "en": "I hope you didn't use up all that luck on Akuze.",
-   "tr": "",
+   "tr": "Umarım tüm şansını Akuze'de harcamamışsındır.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u02887",
    "en": "I didn't expect to meet a Star of Terra recipient. What's a Skyllian hero doing up here?",
-   "tr": "",
+   "tr": "Terra Yıldızı sahibiyle karşılaşmayı beklemezdim. Bir Skyllian kahramanı burada ne yapıyor?",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u02888",
    "en": "No, thanks. It might jam on the ego.",
-   "tr": "",
+   "tr": "Hayır, sağ ol. Egoyu sıkıştırabilir.",
    "ctx": [
     "BIOA_ICE60_02_DSG_LOC"
    ]
