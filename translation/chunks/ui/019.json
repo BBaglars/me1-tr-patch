@@ -9,7 +9,7 @@
   {
    "key": "u21052",
    "en": "Gianna warned you that there has been an accident on Peak 15.",
-   "tr": "",
+   "tr": "Gianna, Peak 15'te bir kaza olduğu konusunda sizi uyardı.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u21053",
    "en": "Gianna's Warning",
-   "tr": "",
+   "tr": "Gianna'nın Uyarısı",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u21054",
    "en": "Geth Communications Disrupted",
-   "tr": "",
+   "tr": "Geth İletişimi Kesintiye Uğradı",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u21055",
    "en": "Satellite Uplink Disrupted",
-   "tr": "",
+   "tr": "Uydu Bağlantısı Kesintiye Uğradı",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u21056",
    "en": "Memory Core",
-   "tr": "",
+   "tr": "Bellek Çekirdeği",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u21057",
    "en": "You were attacked by geth in the quarantine lab. Han Olar told you they came from the nearby door to the maintenance area.",
-   "tr": "",
+   "tr": "Karantina laboratuvarında geth'ler size saldırdı. Han Olar, bakım bölgesine açılan yakındaki kapıdan geldiklerini söyledi.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u21058",
    "en": "You were attacked by geth in the quarantine lab. Han Olar told you they came from the sealed maintenance area. Dr. Cohen might be able to get you inside.",
-   "tr": "",
+   "tr": "Karantina laboratuvarında geth'ler size saldırdı. Han Olar, mühürlü bakım bölgesinden geldiklerini söyledi. Dr. Cohen sizi içeri sokabilir.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u21059",
    "en": "Geth Heavy Turret",
-   "tr": "",
+   "tr": "Geth Ağır Taret",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u21060",
    "en": "Alliance Heavy Turret",
-   "tr": "",
+   "tr": "İttifak Ağır Taret",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u21061",
    "en": "Satellite Uplink",
-   "tr": "",
+   "tr": "Uydu Bağlantısı",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u21062",
    "en": "Plaza Armature State: Offline",
-   "tr": "",
+   "tr": "Meydan Armatürü Durumu: Çevrimdışı",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u21063",
    "en": "You decided not to help Sha'ira with her problem. She is no longer interested in speaking with you.",
-   "tr": "",
+   "tr": "Sha'ira'nın sorununa yardım etmemeye karar verdiniz. Artık sizinle konuşmakla ilgilenmiyor.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u21064",
    "en": "Stasis Console",
-   "tr": "",
+   "tr": "Stazis Konsolu",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u21065",
    "en": "Get into Vehicle",
-   "tr": "",
+   "tr": "Araca Bin",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u21066",
    "en": "Talk",
-   "tr": "",
+   "tr": "Konuş",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u21067",
    "en": "Open",
-   "tr": "",
+   "tr": "Aç",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u21068",
    "en": "Easy Decryption",
-   "tr": "",
+   "tr": "Kolay Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u21069",
    "en": "Average Decryption",
-   "tr": "",
+   "tr": "Orta Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u21070",
    "en": "Hard Decryption",
-   "tr": "",
+   "tr": "Zor Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u21071",
    "en": "Decryption: Skill Too Low",
-   "tr": "",
+   "tr": "Şifre Çözme: Beceri Çok Düşük",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u21072",
    "en": "Decryption: Insufficient omni-gel",
-   "tr": "",
+   "tr": "Şifre Çözme: Omni-jel Yetersiz",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u21073",
    "en": "Decryption: Low omni-gel",
-   "tr": "",
+   "tr": "Şifre Çözme: Omni-jel Az",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u21074",
    "en": "Easy Electronics",
-   "tr": "",
+   "tr": "Kolay Elektronik",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u21075",
    "en": "Average Electronics",
-   "tr": "",
+   "tr": "Orta Elektronik",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u21076",
    "en": "Hard Electronics",
-   "tr": "",
+   "tr": "Zor Elektronik",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u21077",
    "en": "Electronics: Skill Too Low",
-   "tr": "",
+   "tr": "Elektronik: Beceri Çok Düşük",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u21078",
    "en": "Electronics: Insufficient omni-gel",
-   "tr": "",
+   "tr": "Elektronik: Omni-jel Yetersiz",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u21079",
    "en": "Electronics: Low omni-gel",
-   "tr": "",
+   "tr": "Elektronik: Omni-jel Az",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u21080",
    "en": "you have completed 482quest",
-   "tr": "",
+   "tr": "you have completed 482quest",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u21081",
    "en": "482quest",
-   "tr": "",
+   "tr": "482quest",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u21082",
    "en": "you have completed 482task",
-   "tr": "",
+   "tr": "you have completed 482task",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u21083",
    "en": "482task",
-   "tr": "",
+   "tr": "482task",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u21084",
    "en": "Supply Container",
-   "tr": "",
+   "tr": "Malzeme Konteyneri",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u21085",
    "en": "Turret Controls",
-   "tr": "",
+   "tr": "Taret Kontrolleri",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u21086",
    "en": "AA Turret Disabled",
-   "tr": "",
+   "tr": "Uçaksavar Taretti Devre Dışı",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u21087",
    "en": "Nuclear Warhead",
-   "tr": "",
+   "tr": "Nükleer Savaş Başlığı",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u21088",
    "en": "Assault Drone",
-   "tr": "",
+   "tr": "Taarruz Dronu",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u21089",
    "en": "Geth Rocket Drone",
-   "tr": "",
+   "tr": "Geth Roket Dronu",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u21090",
    "en": "Rocket Drone",
-   "tr": "",
+   "tr": "Roket Dronu",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u21091",
    "en": "You have completed quest 470",
-   "tr": "",
+   "tr": "You have completed quest 470",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u21092",
    "en": "470quest",
-   "tr": "",
+   "tr": "470quest",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u21093",
    "en": "You have completed task 470",
-   "tr": "",
+   "tr": "You have completed task 470",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u21094",
    "en": "470task",
-   "tr": "",
+   "tr": "470task",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u21095",
    "en": "Though the C-Sec officer insisted that he didn't need your help, you may still speak to the hanar preacher in the Presidium if you wish.",
-   "tr": "",
+   "tr": "C-Sec görevlisi yardımınıza ihtiyacı olmadığında ısrar etse de dilerseniz Presidium'daki hanar vaizle yine de konuşabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u21096",
    "en": "Speak with Hanar",
-   "tr": "",
+   "tr": "Hanar ile Konuş",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u21097",
    "en": "Pulse Rifle",
-   "tr": "",
+   "tr": "Darbeli Tüfek",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u21098",
    "en": "Geth Armory",
-   "tr": "",
+   "tr": "Geth Cephaneliği",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u21099",
    "en": "Few details are known about the manufacture of geth equipment, though their weapons and armor are of the highest quality.",
-   "tr": "",
+   "tr": "Geth teçhizatının üretimi hakkında çok az ayrıntı biliniyor, ancak silahları ve zırhları en yüksek kalitededir.",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u21100",
    "en": "Unable to dock module here.",
-   "tr": "",
+   "tr": "Modül buraya yerleştirilemiyor.",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u21101",
    "en": "Shutdown",
-   "tr": "",
+   "tr": "Kapat",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u21102",
    "en": "Core 3",
-   "tr": "",
+   "tr": "Çekirdek 3",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u21103",
    "en": "Core 1",
-   "tr": "",
+   "tr": "Çekirdek 1",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u21104",
    "en": "Core 2",
-   "tr": "",
+   "tr": "Çekirdek 2",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u21105",
    "en": "Choose module to move",
-   "tr": "",
+   "tr": "Taşınacak modülü seçin",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u21106",
    "en": "This core is empty",
-   "tr": "",
+   "tr": "Bu çekirdek boş",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u21107",
    "en": "Module in transit",
-   "tr": "",
+   "tr": "Modül aktarılıyor",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u21108",
    "en": "Though the hanar preacher did not request your help, you may still speak to the C-Sec officer in the Presidium if you wish.",
-   "tr": "",
+   "tr": "Hanar vaiz yardımınızı istemese de dilerseniz Presidium'daki C-Sec görevlisiyle yine de konuşabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u21109",
    "en": "Speak with C-Sec Officer",
-   "tr": "",
+   "tr": "C-Sec Görevlisi ile Konuş",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u21110",
    "en": "Select destination core",
-   "tr": "",
+   "tr": "Hedef çekirdeği seçin",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u21111",
    "en": "Enter Override Sequence",
-   "tr": "",
+   "tr": "Geçersiz Kılma Dizisini Girin",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u21112",
    "en": "Press [XBoxB_Btn_A] to show controls",
-   "tr": "",
+   "tr": "Kontrolleri göstermek için [XBoxB_Btn_A] tuşuna basın",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u21113",
    "en": "Holding module 1",
-   "tr": "",
+   "tr": "1. modül tutuluyor",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u21114",
    "en": "Holding module 2",
-   "tr": "",
+   "tr": "2. modül tutuluyor",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u21115",
    "en": "Holding module 3",
-   "tr": "",
+   "tr": "3. modül tutuluyor",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u21116",
    "en": "Holding module 4",
-   "tr": "",
+   "tr": "4. modül tutuluyor",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u21117",
    "en": "You do not possess the required skill.",
-   "tr": "",
+   "tr": "Gereken beceriye sahip değilsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u21118",
    "en": "Shepard's Locker",
-   "tr": "",
+   "tr": "Shepard'ın Dolabı",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u21119",
    "en": "I",
-   "tr": "",
+   "tr": "I",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u21120",
    "en": "II",
-   "tr": "",
+   "tr": "II",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u21121",
    "en": "III",
-   "tr": "",
+   "tr": "III",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u21122",
    "en": "IV",
-   "tr": "",
+   "tr": "IV",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u21123",
    "en": "V",
-   "tr": "",
+   "tr": "V",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u21124",
    "en": "Mako",
-   "tr": "",
+   "tr": "Mako",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u21125",
    "en": "Geth Dropship",
-   "tr": "",
+   "tr": "Geth Çıkarma Gemisi",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u21126",
    "en": "Generator still active. Gate override offline.",
-   "tr": "",
+   "tr": "Jeneratör hâlâ aktif. Kapı geçersiz kılma çevrimdışı.",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u21127",
    "en": "Recovered Items",
-   "tr": "",
+   "tr": "Kurtarılan Eşyalar",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u21128",
    "en": "Switch Squad Member",
-   "tr": "",
+   "tr": "Takım Üyesini Değiştir",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u21129",
    "en": "Toggle Helmet",
-   "tr": "",
+   "tr": "Kaskı Aç/Kapat",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u21130",
    "en": "Preview Item",
-   "tr": "",
+   "tr": "Eşyayı Önizle",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u21131",
    "en": "First Name:",
-   "tr": "",
+   "tr": "Ad:",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u21132",
    "en": "Last Name:",
-   "tr": "",
+   "tr": "Soyad:",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u21133",
    "en": "Close",
-   "tr": "",
+   "tr": "Kapat",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u21134",
    "en": "Value:",
-   "tr": "",
+   "tr": "Değer:",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u21135",
    "en": "Disarming",
-   "tr": "",
+   "tr": "Etkisiz Hale Getiriliyor",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u21136",
    "en": "Reprogramming Accepted",
-   "tr": "",
+   "tr": "Yeniden Programlama Kabul Edildi",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u21137",
    "en": "Mercenary Sniper",
-   "tr": "",
+   "tr": "Paralı Asker Keskin Nişancı",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u21138",
    "en": "Pirate Sniper",
-   "tr": "",
+   "tr": "Korsan Keskin Nişancı",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u21139",
    "en": "Pirate",
-   "tr": "",
+   "tr": "Korsan",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u21140",
    "en": "Elanos Haliat",
-   "tr": "",
+   "tr": "Elanos Haliat",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u21141",
    "en": "Dead Body",
-   "tr": "",
+   "tr": "Ölü Beden",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u21142",
    "en": "XP",
-   "tr": "",
+   "tr": "TP",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u21143",
    "en": "OVERHEAT",
-   "tr": "",
+   "tr": "AŞIRI ISINMA",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u21144",
    "en": "M",
-   "tr": "",
+   "tr": "M",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u21145",
    "en": "Use",
-   "tr": "",
+   "tr": "Kullan",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u21146",
    "en": "Map Quickslots",
-   "tr": "",
+   "tr": "Hızlı Yuvaları Eşle",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u21147",
    "en": "Omni-gel Cost",
-   "tr": "",
+   "tr": "Omni-jel Bedeli",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u21148",
    "en": "The three most politically important species in the galaxy.",
-   "tr": "",
+   "tr": "Galaksideki siyasi açıdan en önemli üç tür.",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u21149",
    "en": "Asari have a robust cellular regenerative system. While they do not heal faster than other species, asari are known to reach 1000 years of age.\n\nAlthough asari have one gender, they are not asexual. An asari provides two copies of her own genes to her offspring. The second set is altered in a unique process called melding.\n\nDuring melding, an asari consciously attunes her nervous system to her partner’s, sending and receiving electrical impulses directly through the skin. The partner can be another asari, or an alien of either gender. Effectively, the asari and her partner briefly become one unified nervous system.\n\nThis unique means of reproduction is the reason asari are talented biotics. Their evolved ability to consciously control nerve impulses is very similar to biotic training. Asari believe that their offspring acquire the best qualities of the \"father\" from the melded genes, but evidence is anecdotal.\n\nAsari pass through three climacteric life stages, marked by biochemical and physiological changes. The Maiden stage begins at birth and is marked by the drive to explore and experience. Most young asari are curious and restless.\n\nThe Matron stage of life begins around the age of 350, though it can be triggered earlier if the individual melds frequently. This period is marked by a desire to settle in one area and raise children.\n\nThe Matriarch stage begins around 700, or earlier if the individual melds rarely. Matriarchs become active in their community as sages and councilors, dispensing wisdom from centuries of experience.\n\nWhile each stage of life is marked by strong biological tendencies, individuals do make unexpected life choices. For example, there are Maidens who stay close to home rather than explore, Matrons who would rather work than build a family, and Matriarchs who have no interest in community affairs.\n\n",
-   "tr": "",
+   "tr": "Asari'lerin sağlam bir hücresel yenilenme sistemi vardır. Diğer türlerden daha hızlı iyileşmeseler de asari'lerin 1000 yaşına ulaştığı bilinir.\n\nAsari'lerin tek cinsiyeti olsa da eşeysiz değildirler. Bir asari yavrusuna kendi genlerinin iki kopyasını verir. İkinci set, kaynaşma denen benzersiz bir süreçle değiştirilir.\n\nKaynaşma sırasında bir asari bilinçli olarak sinir sistemini partnerinin sistemine uyumlar ve elektrik darbelerini doğrudan deri yoluyla gönderip alır. Partner başka bir asari ya da her iki cinsiyetten bir uzaylı olabilir. Fiilen asari ve partneri kısa bir süre için tek bir birleşik sinir sistemine dönüşür.\n\nAsari'lerin yetenekli biyotikler olmasının nedeni bu benzersiz üreme yöntemidir. Sinir darbelerini bilinçli olarak kontrol etme yönündeki gelişmiş yetenekleri, biyotik eğitimine çok benzer. Asari'ler yavrularının kaynaşan genlerden \"baba\"nın en iyi özelliklerini aldığına inanır, ancak kanıtlar tek tük anlatılara dayanır.\n\nAsari'ler biyokimyasal ve fizyolojik değişikliklerle belirginleşen üç kritik yaşam evresinden geçer. Maiden evresi doğumla başlar ve keşfetme ve deneyimleme dürtüsüyle belirginleşir. Çoğu genç asari meraklı ve huzursuzdur.\n\nMatron evresi 350 yaş civarında başlar, ancak bireyin sık sık kaynaşması halinde daha erken tetiklenebilir. Bu dönem tek bir yere yerleşme ve çocuk yetiştirme isteğiyle belirginleşir.\n\nMatriarch evresi 700 civarında başlar, bireyin nadiren kaynaşması halinde daha erken başlayabilir. Matriarch'lar yüzyılların deneyimiyle bilgelik dağıtan bilgeler ve danışmanlar olarak topluluklarında aktif hale gelir.\n\nHer yaşam evresi güçlü biyolojik eğilimlerle belirginleşse de bireyler beklenmedik yaşam tercihleri yapar. Örneğin keşfetmek yerine evine yakın kalan Maiden'lar, aile kurmak yerine çalışmayı tercih eden Matron'lar ve topluluk işleriyle ilgilenmeyen Matriarch'lar vardır.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u21150",
    "en": "Asari: Biology",
-   "tr": "",
+   "tr": "Asari: Biyoloji",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u21151",
    "en": "Because of their long lifespan, asari tend to have a 'long view' not common in other races. When they encounter a new species or situation, the asari are more comfortable with an extended period of passive observation and study than immediate action. They are unfazed that some of their investments or decisions may not pay off for decades or centuries. Matriarchs can seem to make incomprehensible decisions, but their insight is evident when their carefully-laid plans come to fruition. In interstellar relations, this long view manifests in an unspoken policy of centrism. The asari instinctively seek to maintain stable balances of economic, political, and military power.\n\nTraditionally, asari spread their influence through cultural domination and intellectual superiority. They invite new species of advanced development to join the galactic community, knowing that their ideals and beliefs will inevitably influence the existing culture.\n\n",
-   "tr": "",
+   "tr": "Uzun ömürleri nedeniyle asari'ler, diğer ırklarda yaygın olmayan bir \"uzun görüş\"e sahiptir. Yeni bir türle ya da duruma karşılaştıklarında asari'ler hemen harekete geçmek yerine uzun süreli pasif gözlem ve incelemeyle daha rahattır. Yatırımlarının veya kararlarının bir kısmının on yıllar ya da yüzyıllar boyunca karşılığını vermeyebileceği onları rahatsız etmez. Matriarch'lar anlaşılmaz kararlar veriyor gibi görünebilir, ancak özenle kurulan planları meyvesini verdiğinde öngörüleri ortaya çıkar. Yıldızlararası ilişkilerde bu uzun görüş, söylenmemiş bir merkezcilik politikası olarak kendini gösterir. Asari'ler içgüdüsel olarak ekonomik, siyasi ve askerî güç dengelerini istikrarlı tutmaya çalışır.\n\nGeleneksel olarak asari'ler nüfuzlarını kültürel egemenlik ve entelektüel üstünlük yoluyla yayar. Gelişmiş yeni türleri galaktik topluluğa katılmaya davet ederler; çünkü ideallerinin ve inançlarının mevcut kültürü kaçınılmaz olarak etkileyeceğini bilirler.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u21152",
    "en": "Asari: Culture",
-   "tr": "",
+   "tr": "Asari: Kültür",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u21153",
    "en": "The asari came late to the concept of world government. For centuries, their homeworld of Thessia was dotted with loose confederacies of great republican cities. The closest Earthly equivalent would be the ancient Mediterranean city-states. Since the asari culture values consensus and accommodation, there was little impetus to form larger principalities. Rather than hoard resources, the asari bartered freely. Rather than attack one another over differing philosophies, they sought to understand one another.\n\nOnly in the information age did the city-states grow close. Communication over internet evolved into an 'electronic democracy'. Asari have no politicians or elections, but a free-wheeling, all-inclusive legislature that citizens can participate in at will. Policy debates take place at all hours of the day, in official chat rooms and forums moderated by specially-programmed virtual intelligences. All aspects of policy are open to plebiscite at any time. In any given debate, the asari tend to lend the most credence to the opinions of any Matriarchs present, nearly always deferring to the experience of these millennia-old 'wise women'.\n\nAchieving consensus through public debate may take too long in a crisis. In cases where prompt, decisive action is required, the asari defer to the wisdom of local Matriarchs.\n\n\n\n",
-   "tr": "",
+   "tr": "Asari'ler dünya hükümeti kavramına geç geldi. Yüzyıllar boyunca ana gezegenleri Thessia, büyük cumhuriyet şehirlerinin gevşek konfederasyonlarıyla bezeliydi. Dünyadaki en yakın karşılık, antik Akdeniz şehir devletleri olurdu. Asari kültürü uzlaşıyı ve hoşgörüyü değer verdiğinden daha büyük prensipler kurmak için pek bir itici güç yoktu. Kaynak biriktirmek yerine asari'ler serbestçe takas yaptı. Farklı felsefeler yüzünden birbirlerine saldırmak yerine birbirlerini anlamaya çalıştılar.\n\nŞehir devletler ancak bilgi çağında yakınlaştı. İnternet üzerinden iletişim bir \"elektronik demokrasiye\" dönüştü. Asari'lerin siyasetçileri ya da seçimleri yoktur; vatandaşların dilediği gibi katılabildiği serbest, herkesi kapsayan bir yasama organı vardır. Politika tartışmaları günün her saatinde, özel olarak programlanmış sanal zekâlarca denetlenen resmî sohbet odalarında ve forumlarda yapılır. Politikanın her yönü her zaman halk oylamasına açıktır. Herhangi bir tartışmada asari'ler, orada bulunan Matriarch'ların görüşlerine en çok önem verir ve neredeyse her zaman bu binlerce yıllık \"bilge kadınların\" deneyimine uyar.\n\nKamuoyu tartışmasıyla uzlaşmaya varmak kriz anında çok uzun sürebilir. Hızlı ve kararlı eylemin gerektiği durumlarda asari'ler yerel Matriarch'ların bilgeliğine başvurur.\n\n\n\n",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u21154",
    "en": "Asari: Government",
-   "tr": "",
+   "tr": "Asari: Yönetim",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u21155",
    "en": "Interstellar colonization sparked a golden age of learning and cultural advancement for the asari. During this time, the Matriarchs became obsessed with achieving 'ultimate knowledge'. To that end, a small but dedicated group chose to leave Thessia hoping to find greater wisdom and true enlightenment.\n\nWithin a span of a few years, twenty-eight Matriarchs left Thessia with no destination in mind and no plan to return. Only six were ever heard from again. Of the other twenty- two, only Matriarch Dilinaga's remains were discovered, along with several writings during her journey.\n\nThe writings instantly became the subject of intense study and discussion. Hundreds of anthropologists and historians analyzed the writings and theorized on their meaning and importance to the asari race. For several generations, these writings were kept at Thessia Guildhall, the center for asari learning and research. Less than a century ago, these were finally made available to the public. Since arriving at the Farinah Museum, the Dilinaga exhibit has become one of most popular historical attractions on Thessia.\n\n",
-   "tr": "",
+   "tr": "Yıldızlararası kolonizasyon asari'ler için bir öğrenme ve kültürel ilerleme altın çağını başlattı. Bu dönemde Matriarch'lar \"nihai bilgi\"ye ulaşma takıntısı geliştirdi. Bu amaçla küçük ama kararlı bir grup, daha büyük bilgelik ve gerçek aydınlanma bulma umuduyla Thessia'yı terk etmeyi seçti.\n\nBirkaç yıl içinde yirmi sekiz Matriarch hiçbir hedef düşünmeden ve geri dönmeyi planlamadan Thessia'dan ayrıldı. Yalnızca altısından yeniden haber alındı. Diğer yirmi ikisinden yalnızca Matriarch Dilinaga'nın kalıntıları, yolculuğu sırasında yazdığı birkaç yazıyla birlikte bulundu.\n\nYazılar anında yoğun inceleme ve tartışma konusu oldu. Yüzlerce antropolog ve tarihçi yazıları analiz etti ve bunların asari ırkı için anlamı ve önemi hakkında kuramlar geliştirdi. Birkaç nesil boyunca bu yazılar, asari öğrenim ve araştırmasının merkezi olan Thessia Guildhall'da saklandı. Bir yüzyıldan kısa süre önce nihayet halka açıldı. Farinah Müzesi'ne gelişinden bu yana Dilinaga sergisi Thessia'nın en popüler tarihî cazibe merkezlerinden biri oldu.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u21156",
    "en": "The pantheistic mainstream asari religion is siari, which translates roughly as 'All is one.' The faithful agree on certain core truths: the universe is a consciousness, every life within it is an aspect of the greater whole, and death is a merging of one’s spiritual energy back into the greater universal consciousness. Siarists don't specifically believe in reincarnation; they believe that spiritual energy returned to the universal consciousness upon death will eventually be used to fill new mortal vessels.\n\nSiari became popular after the asari left their homeworld and discovered their ability to 'meld' with nearly any form of life. This ability is seen as proof that all life is fundamentally similar. Siari priestesses see their role as promoting unity between the disparate shards of the universe's awareness.\n\nBefore the rise of siari pantheism, asari religions were as diverse as their political opinions. The strongest survivor of those days is the monotheistic religion worshipping the goddess Athame. Like the asari, the goddess cycles through the triple aspects of maiden, matron, and matriarch.\n\n",
-   "tr": "",
+   "tr": "Ana akım panteist asari dini siari'dir; kabaca \"Her şey birdir\" anlamına gelir. İnananlar belirli temel gerçeklerde birleşir: evren bir bilinçtir, içindeki her yaşam daha büyük bütünün bir yönüdür ve ölüm, kişinin ruhsal enerjisinin daha büyük evrensel bilince geri karışmasıdır. Siari'ciler özellikle reenkarnasyona inanmaz; ölüm anında evrensel bilince dönen ruhsal enerjinin eninde sonunda yeni ölümlü kapları doldurmak için kullanılacağına inanırlar.\n\nSiari, asari'ler ana gezegenlerinden ayrılıp neredeyse her yaşam formuyla \"kaynaşabildiklerini\" keşfettikten sonra popüler oldu. Bu yetenek tüm yaşamın temelde benzer olduğunun kanıtı sayılır. Siari rahibeleri, rollerini evrenin farkındalığının dağınık parçaları arasında birliği teşvik etmek olarak görür.\n\nSiari panteizminin yükselişinden önce asari dinleri siyasi görüşleri kadar çeşitliydi. O günlerin en güçlü hayatta kalanı, tanrıça Athame'ye tapan tek tanrılı dindir. Asari'ler gibi tanrıça da maiden, matron ve matriarch üçlü yönünden geçer.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u21157",
    "en": "Asari: Religion",
-   "tr": "",
+   "tr": "Asari: Din",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u21158",
    "en": "Salarians are noted for their high-speed metabolism, which allows them to function on just one hour of sleep a day. Their minds and bodies work faster than most sapient races, making them seem restless or hyperactive. The drawback of this active metabolism is a short lifespan of around 40 human years.\n\nThe salarians are amphibian haplo-diploid egg-layers; unfertilized eggs produce males and fertilized eggs produce females. Once a year, a salarian female will lay a clutch of dozens of eggs. Social rules prevent all but a fraction from being fertilized. As a result, 90% of the species is male.\n\nSalarians have photographic memories and rarely forget a fact. They also possess a form of psychological 'imprinting', tending to defer to those they knew in their youth. Salarian hatching is a solemn ritual in which the clan Dalatrass (matriarch) isolates herself with the eggs. The young salarians psychologically imprint on her and tend to defer to her wishes.\n\nDuring the hatching of daughters, the Dalatrasses of the mother and father's clans are present at the imprinting. This ensures the offspring have equal loyalty to both, ensuring the desired dynastic and political unity.\n\n",
-   "tr": "",
+   "tr": "Salarian'lar günde yalnızca bir saat uykuyla çalışabilmelerini sağlayan yüksek hızlı metabolizmalarıyla dikkat çeker. Zihinleri ve bedenleri çoğu bilinçli ırktan daha hızlı çalışır; bu da onları huzursuz veya hiperaktif gösterir. Bu aktif metabolizmanın dezavantajı yaklaşık 40 insan yılı olan kısa ömürdür.\n\nSalarian'lar amfibi, haplo-diploid yumurtlayıcılardır; döllenmemiş yumurtalar erkekleri, döllenmiş yumurtalar dişileri üretir. Yılda bir kez dişi bir salarian onlarca yumurtadan oluşan bir kuluçka yumurtlar. Toplumsal kurallar yalnızca küçük bir kısmının döllenmesine izin verir. Sonuç olarak türün yüzde 90'ı erkektir.\n\nSalarian'ların fotografik hafızası vardır ve nadiren bir olguyu unutur. Ayrıca bir tür psikolojik \"damgalanmaya\" sahiptir ve gençliklerinde tanıdıkları kişilere boyun eğme eğilimi gösterirler. Salarian yumurtadan çıkışı, klan Dalatrass'ının (matriarch) yumurtalarla kendini tecrit ettiği ciddi bir ritüeldir. Genç salarian'lar psikolojik olarak ona damgalanır ve onun isteklerine boyun eğme eğilimindedir.\n\nKızların yumurtadan çıkışı sırasında annenin ve babanın klanlarının Dalatrass'ları damgalanmada hazır bulunur. Bu, yavruların ikisine de eşit sadakat duymasını ve istenen hanedan ve siyasi birliği sağlar.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u21159",
    "en": "Salarians: Biology",
-   "tr": "",
+   "tr": "Salarian'lar: Biyoloji",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u21160",
    "en": "The rare salarian females are cloistered on their worlds out of tradition and respect. Powerful female Dalatrasses are dynasts and political kingpins. They determine the political course of their respective regions through shrewd negotiation. Though male salarians rise to positions of great authority in business, academia, or the military, they rarely have any input on politics.\n\nDue to their method of reproduction, salarians have no concept of romantic love, sexual attraction, or the biological impulses and social rituals that complicate human lives. Male-female relationships are rare (due to the scarcity of females) and more akin to human friendship.\n\nSexuality is strictly for the purpose of reproduction. Ancient social codes determine who gets to fertilize eggs, which produces more daughters to continue a bloodline. Fertilization generally only occurs after months of negotiation between the parents' clans, and is done for purposes of political and dynastic alliance. No salarian would imagine defying this code.\n\nSalarian names are quite complex. A full name includes - in order - the name of a salarian's planet, duchy, barony, fiefdom, family, and finally, the given name.\n\n",
-   "tr": "",
+   "tr": "Nadir dişi salarian'lar gelenek ve saygı gereği gezegenlerinde inzivaya çekilmiştir. Güçlü dişi Dalatrass'lar hanedan sahibi ve siyasi baronlardır. Kurnaz müzakerelerle bölgelerinin siyasi rotasını belirlerler. Erkek salarian'lar iş dünyasında, akademide veya ordu içinde büyük yetki makamlarına yükselse de siyasette nadiren söz sahibi olurlar.\n\nÜreme yöntemleri nedeniyle salarian'ların romantik aşk, cinsel çekim ya da insan yaşamlarını karmaşıklaştıran biyolojik dürtü ve toplumsal ritüeller kavramı yoktur. Erkek-dişi ilişkileri (dişi azlığı nedeniyle) nadirdir ve insan arkadaşlığına daha yakındır.\n\nCinsellik yalnızca üreme amaçlıdır. Kadim toplumsal kurallar kimin yumurtaları dölleyeceğini belirler; bu da bir soyun devamı için daha fazla kız üretir. Döllenme genellikle yalnızca ebeveynlerin klanları arasında aylarca süren müzakerelerden sonra gerçekleşir ve siyasi ve hanedan ittifakı amacıyla yapılır. Hiçbir salarian bu koda karşı gelmeyi hayal edemez.\n\nSalarian isimleri oldukça karmaşıktır. Tam bir isim, sırasıyla bir salarian'ın gezegeninin, dükalığının, baronluğunun, derebeyliğinin, ailesinin ve son olarak verilen adının adından oluşur.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u21161",
    "en": "Salarians: Culture",
-   "tr": "",
+   "tr": "Salarian'lar: Kültür",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u21162",
    "en": "The salarian government is called the Salarian Union. It is a labyrinthine web of matrilineal bloodlines, with political alliances formed through interbreeding.\n\nIn many ways, the salarian political network functions like the noble families of Earth's Medieval Europe. Structurally, the government consists of fiefdoms, baronies, duchies, planets, and marches (colonization clusters). These are human nicknames; the original salarian is unpronounceable. Each area is ruled by a single Dalatrass (matriarchal head-of-household) and represents an increasing amount of territory and prestige within the salarian political web.\n\nApproaching 100 members, the first circle of a salarian's clan comprises parents, siblings, uncles, aunts, and cousins. The next circle includes second cousins, etc., and escalates to well over 1000 members. The fourth or fifth circle of a clan numbers into the millions. Salarian loyalty is greatest to their first circle and diminishes from there. Their photographic memories allow salarians recognize all their myriad relatives.\n\n",
-   "tr": "",
+   "tr": "Salarian hükümetine Salarian Birliği denir. Soy bağlarına dayalı, melezleşmeyle siyasi ittifakların kurulduğu dolambaçlı bir anaerkil kan bağları ağıdır.\n\nBirçok yönden salarian siyasi ağı, Dünya'nın Ortaçağ Avrupası'ndaki asil ailelere benzer işler. Yapısal olarak hükümet derebeylikler, baronluklar, dükalıklar, gezegenler ve marklardan (kolonizasyon kümeleri) oluşur. Bunlar insanların taktığı lakaplardır; özgün salarian dili telaffuz edilemez. Her bölge tek bir Dalatrass (anaerkil hane başı) tarafından yönetilir ve salarian siyasi ağında artan miktarda toprak ve itibarı temsil eder.\n\n100 üyeye yaklaşan bir salarian klanının ilk çemberi ebeveynleri, kardeşleri, amcaları, teyzeleri ve kuzenleri kapsar. Sonraki çember ikinci dereceden kuzenleri vb. içerir ve 1000'in çok üzerine çıkar. Bir klanın dördüncü veya beşinci çemberi milyonları bulur. Salarian sadakati ilk çembere en büyüktür ve oradan itibaren azalır. Fotografik hafızaları, salarian'ların sayısız akrabasının hepsini tanımasını sağlar.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u21163",
    "en": "Salarians: Government",
-   "tr": "",
+   "tr": "Salarian'lar: Yönetim",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u21164",
    "en": "In principle, the salarian military is similar to the Alliance, a small volunteer army that focuses on maneuver warfare. What differentiates the salarians is not their equipment or doctrine, but their intelligence services and rules of engagement. The salarians believe that a war should be won before it begins.\n\nConventional wisdom holds that the salarians know everything about everyone, and this is not far from the truth. In war, the unquestioned superiority of their intelligence services allows them to use their small military to maximum effectiveness. Well before fighting breaks out, they possess complete knowledge of their enemy’s positions, intentions, and timetable.\n\nIn every war the salarians have fought, they struck first and without warning. For the salarians, to know an enemy plans to attack and to let it happen is folly. To announce their own plans to attack is insanity. They find the human moral concepts of 'do not fire until fired upon' and 'declare a war before prosecuting it' incredibly naïve. In defensive wars, they execute devastating preemptive strikes hours before the enemy’s own attacks. On the offense, they have never telegraphed their intentions with a declaration of war before attacking.\n\nBiotics are virtually unknown in the salarian military. Those with such abilities are considered too valuable to be used as cannon fodder and are assigned to the intelligence services.\n\nWhile capable of defending themselves against most threats, the salarians know that they are small fish in a universe filled with sharks. As a point of survival, they have cultivated strong alliances with larger powers, particularly with the turians. Though the relationship between the two species was rocky at first due to the krogan uplift fiasco, the salarians take pains to keep this relationship strong enough that anyone who might threaten them risks turian intervention.\n\n",
-   "tr": "",
+   "tr": "Prensip olarak salarian ordusu, manevra savaşına odaklanan küçük bir gönüllü ordu olan İttifak'a benzer. Salarian'ları farklı kılan teçhizatları veya doktrinleri değil, istihbarat servisleri ve çatışma kurallarıdır. Salarian'lar bir savaşın başlamadan kazanılması gerektiğine inanır.\n\nGenel kanı, salarian'ların herkes hakkında her şeyi bildiği yönündedir ve bu gerçekten uzak değildir. Savaşta istihbarat servislerinin tartışılmaz üstünlüğü, küçük ordularını azami etkinlikle kullanmalarını sağlar. Çatışma başlamadan çok önce düşmanlarının konumları, niyetleri ve zaman çizelgesi hakkında tam bilgiye sahiptirler.\n\nSalarian'ların savaştığı her savaşta ilk vuran taraf onlar oldu ve bunu uyarısız yaptılar. Salarian'lara göre bir düşmanın saldırı planladığını bilip bunun olmasına izin vermek aptallıktır. Kendi saldırı planlarını duyurmak ise delilik. İnsanların \"ateş edilmedikçe ateş etme\" ve \"savaşı yürütmeden önce ilan et\" şeklindeki ahlaki kavramlarını inanılmaz derecede saf buluyorlar. Savunma savaşlarında düşmanın kendi saldırılarından saatler önce yıkıcı önleyici saldırılar gerçekleştirirler. Saldırıda ise saldırmadan önce savaş ilanıyla niyetlerini hiç belli etmediler.\n\nBiyotikler salarian ordusunda neredeyse hiç bilinmez. Bu yeteneklere sahip olanlar top yemi olarak kullanılamayacak kadar değerli sayılır ve istihbarat servislerine atanır.\n\nÇoğu tehdide karşı kendilerini savunabilseler de salarian'lar köpekbalıklarıyla dolu bir evrende küçük balık olduklarını bilir. Hayatta kalma meselesi olarak daha büyük güçlerle, özellikle turian'larla güçlü ittifaklar geliştirmişlerdir. İki tür arasındaki ilişki, krogan yükseltme fiyaskosu nedeniyle başta çalkantılı olsa da salarian'lar bu ilişkiyi, onları tehdit edebilecek herkesin turian müdahalesi riskini göze alacağı kadar güçlü tutmaya özen gösterir.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u21165",
    "en": "Salarians: Military Doctrine",
-   "tr": "",
+   "tr": "Salarian'lar: Askerî Doktrin",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u21166",
    "en": "The asari military resembles a collection of tribal warrior bands with no national structure. Each community organizes its own unit as the locals see fit, and elect a leader to command them. Units from populous cities are large and well-equipped, while those from farm villages may be only a few women with small arms. There is no uniform; everyone wears what they like. The asari military is not an irregular militia, however; those who serve are full-time professionals.\n\nThe average asari huntress is in the maiden stage of her life and has devoted 20-30 years to studying the martial arts. Asari choose to be warriors at a young age, and their education from that point is dedicated to sharpening the mind and body for that sole purpose. When they retire, they possess an alarming proficiency for killing.\n\nHuntresses fight individually or in pairs, depending on the tactics preferred in their town. One-on-one, a huntress is practically unbeatable, possessing profound tactical insight, a hunter's eye, and a dancer's grace and alacrity. Biotics are common enough that some capability is a requirement to be trained as a huntress; lack of biotic talent excludes a young asari from military service.\n\nWhile fluid and mobile, asari can't stand up in a firestorm the way a krogan, turian, or human could. Since their units are small and typically lack heavy armor and support weapons, they are almost incapable of fighting a conventional war, particularly one of a defensive nature. So asari units typically undertake special operations missions. Like an army of ninja, they are adept at ambush, infiltration, and assassination, demoralizing and defeating their enemies through intense, focused guerilla strikes.\n\nAs a popular turian saying puts it, 'The asari are the finest warriors in the galaxy. Fortunately, there are not many of them.'\n\n",
-   "tr": "",
+   "tr": "Asari ordusu, ulusal yapısı olmayan kabile savaşçı gruplarının bir koleksiyonuna benzer. Her topluluk kendi birimini yerel halkın uygun gördüğü gibi örgütler ve onlara komuta edecek bir lider seçer. Kalabalık şehirlerin birimleri büyük ve iyi donanımlıdır; çiftlik köylerinden gelenler ise hafif silahlı yalnızca birkaç kadından oluşabilir. Üniforma yoktur; herkes istediğini giyer. Ancak asari ordusu düzensiz bir milis değildir; hizmet edenler tam zamanlı profesyonellerdir.\n\nOrtalama bir asari avcı, hayatının maiden evresindedir ve 20-30 yılını dövüş sanatlarını öğrenmeye adamıştır. Asari'ler genç yaşta savaşçı olmayı seçer ve o andan sonraki eğitimleri zihin ve bedeni bu tek amaç için keskinleştirmeye adanır. Emekli olduklarında öldürmede ürkütücü bir ustalığa sahiptirler.\n\nAvcılar kasabalarında tercih edilen taktiklere göre bireysel ya da ikili savaşır. Bire bir bir avcı pratikte yenilmezdir; derin taktik içgörüsü, avcı gözü ve dansçı zarafeti ve çevikliğine sahiptir. Biyotikler yeterince yaygındır ki avcı olarak eğitilmek için bir miktar yetenek şarttır; biyotik yeteneğin olmaması genç bir asari'yi askerî hizmetten dışlar.\n\nAkıcı ve hareketli olsalar da asari'ler bir krogan, turian ya da insan gibi ateş fırtınasında ayakta duramaz. Birimleri küçük olup genellikle ağır zırh ve destek silahlarından yoksun olduğundan, özellikle savunma niteliğinde geleneksel bir savaşı yürütmeleri neredeyse imkânsızdır. Bu yüzden asari birimleri genellikle özel operasyon görevleri üstlenir. Bir ninja ordusu gibi pusu, sızma ve suikastta ustadırlar; yoğun, odaklanmış gerilla vuruşlarıyla düşmanlarının moralini bozar ve onları yenerler.\n\nPopüler bir turian sözünün dediği gibi, \"Asari'ler galaksinin en iyi savaşçılarıdır. Neyse ki sayıları çok değil.\"\n\n",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u21167",
    "en": "Asari: Military Doctrine",
-   "tr": "",
+   "tr": "Asari: Askerî Doktrin",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u21168",
    "en": "Salarian intelligence field agents are grouped into an organization called the Special Tasks Group. STG operators work in independent cells, performing dangerous missions such as counterterrorism, infiltration reconnaissance, assassination, and sabotage.\n\nThe STG is a proactive organization, puncturing worrisome trends before they become movements. At any time, a dozen groups are operating covertly within the lawless Terminus Systems, sowing dissent among the various factions. Civilian analysts also note how troublesome 'hinge point' individuals in Terminus frequently meet unexpected deaths.\n\nSTG operators are feared throughout the galaxy for their clear-eyed, remorseless practicality. They are willing to do whatever it takes to achieve their mission, even if it kills civilians or results in the team’s own destruction. In many ways, they are akin to the Council Spectres.\n\nRecently, a number of STG cells have been redeployed from Salarian Union. It is assumed they are in the Terminus and Attican Traverse, investigating reports of geth activity beyond the Perseus Veil.\n\n",
-   "tr": "",
+   "tr": "Salarian istihbarat saha ajanları, Özel Görev Grubu adlı bir örgütte toplanır. STG operatifleri bağımsız hücreler halinde çalışır; terörle mücadele, sızma keşfi, suikast ve sabotaj gibi tehlikeli görevler yürütür.\n\nSTG, endişe verici eğilimleri hareket haline gelmeden önce delen proaktif bir örgüttür. Her an düzine grup yasasız Terminus Sistemleri içinde gizlice faaliyet göstererek farklı hizipler arasında ihtilaf ekmektedir. Sivil analistler ayrıca Terminus'taki sorunlu \"menteşe noktası\" bireylerin sık sık beklenmedik ölümlerle karşılaştığına dikkat çeker.\n\nSTG operatifleri açık görüşlü, vicdansız pratikliği nedeniyle tüm galakside korkulur. Görevlerini başarmak için, sivilleri öldürse veya kendi ekiplerinin yok olmasıyla sonuçlansa bile gerekeni yapmaya hazırdırlar. Birçok yönden Konsey Spectre'larına benzerler.\n\nYakın zamanda bir dizi STG hücresi Salarian Birliği'nden başka yerlere konuşlandırıldı. Perseus Veil ötesindeki geth faaliyeti raporlarını araştırmak üzere Terminus ve Attican Traverse'te oldukları varsayılıyor.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u21169",
    "en": "Salarians: Special Tasks Group",
-   "tr": "",
+   "tr": "Salarian'lar: Özel Görev Grubu",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u21170",
    "en": "Before they joined the Citadel Council, the salarians' most potent military tool was a small reconnaissance team known as the League of One. Their primary training was in espionage and assassination. Never more than a dozen strong, the team was adept at infiltrating the tightest defenses and eliminating all necessary obstacles.\n\nOnly a few top members of government and military were privy to the League's identities. League members wore no distinguishing garments, and held no particular rank. The only evidence of their participation in the League was a small medallion presented to each member upon induction. This secrecy was maintained until the formation of the Council.\n\nIn an effort to dispel rumors and appease their new asari partners, the Salarian Union released all classified documents pertaining to the League. The League of One was suddenly exposed and in danger of being hunted by enemies of the salarians. Before any harm could be done, the team mysteriously disappeared. Most assumed this was a convenient lie to help hide their identities, but a few months later, the inner cabinet was murdered. Though there was no incriminating evidence, it was clear who was responsible.\n\nRealizing the threat posed by this rogue outfit, the Special Tasks Group dispatched a team of hunters. When they didn't return, the STG dispatched ten of its brightest operators with broad discretionary powers. Only two returned; they reported no evidence of the League.\n\nNo further incidents were reported and it was assumed the League was wiped out. Some recently declassified documents, however, have suggested there may have been a thirteenth member who eluded the salarian military.\n\n",
-   "tr": "",
+   "tr": "Konsey'e katılmadan önce salarian'ların en güçlü askerî aracı, League of One olarak bilinen küçük bir keşif ekibiydi. Esas eğitimleri casusluk ve suikast üzerineydi. Hiçbir zaman bir düzineyi geçmeyen ekip, en sıkı savunmalara sızma ve gerekli tüm engelleri ortadan kaldırma konusunda ustaydı.\n\nYalnızca hükümet ve ordunun birkaç üst düzey üyesi League'in kimliklerinden haberdardı. League üyeleri ayırt edici kıyafet giymez ve belirli bir rütbe taşımazdı. League'e katıldıklarına dair tek kanıt, katılımda her üyeye verilen küçük bir madalyondu. Bu gizlilik Konsey'in kurulmasına kadar korundu.\n\nSöylentileri bastırmak ve yeni asari ortaklarını memnun etmek amacıyla Salarian Birliği, League ile ilgili tüm gizli belgeleri yayımladı. League of One birdenbire ifşa oldu ve salarian'ların düşmanlarınca avlanma tehlikesine girdi. Zarar verilmeden önce ekip gizemli biçimde ortadan kayboldu. Çoğu bunun kimliklerini saklamak için uygun bir yalan olduğunu varsaydı, ancak birkaç ay sonra iç kabine suikasta uğradı. İtham edici kanıt olmasa da kimin sorumlu olduğu açıktı.\n\nBu başıboş ekibin oluşturduğu tehdidi fark eden Özel Görev Grubu bir avcı ekibi gönderdi. Dönmeyince STG, en parlak operatiflerinden onunu geniş takdir yetkisiyle gönderdi. Yalnızca ikisi döndü; League'e dair hiçbir kanıt bulmadıklarını bildirdiler.\n\nBaşka olay bildirilmedi ve League'in yok edildiği varsayıldı. Ancak yakın zamanda gizliliği kaldırılan bazı belgeler, salarian ordusundan kurtulan on üçüncü bir üye olabileceğini ima etti.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u21171",
    "en": "Salarians: League of One",
-   "tr": "",
+   "tr": "Salarian'lar: League of One",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u21172",
    "en": "The turian homeworld, Palaven, has a metal-poor core, generating a weak magnetic field and allowing more solar radiation into the atmosphere. To deal with this, most forms of life on Palaven evolved some form of metallic 'exoskeleton' to protect themselves. Their reflective plate-like skin makes turians less susceptible to long-term, low-level radiation exposure, but they do not possess any sort of 'natural armor'. A turian's thick skin does not stop projectiles and directed energy bolts.\n\nAlthough life on Palaven is carbon-based and oxygen-breathing, it is built on dextro-amino acids. This places the turians in a distinct minority on the galactic stage; the quarians are the only other known sapient dextro-protein race. The food of humans, asari, or salarians (who evolved in levo-amino acid-based biospheres), will at best pass through turian systems without providing any nutrition. At worst, it will trigger an allergic reaction that can be fatal if not immediately treated.\n\n",
-   "tr": "",
+   "tr": "Turian ana gezegeni Palaven'in çekirdeği metal bakımından fakirdir; bu da zayıf bir manyetik alan üretir ve atmosfere daha fazla güneş radyasyonu girmesine izin verir. Bununla başa çıkmak için Palaven'deki yaşam formlarının çoğu kendilerini korumak üzere bir tür metalik \"dış iskelet\" geliştirdi. Yansıtıcı plaka benzeri derileri, turian'ları uzun süreli, düşük düzey radyasyona daha az duyarlı kılar, ancak herhangi bir tür \"doğal zırha\" sahip değillerdir. Bir turian'ın kalın derisi mermileri ve yönlendirilmiş enerji darbelerini durdurmaz.\n\nPalaven'deki yaşam karbon temelli ve oksijen soluyan olsa da dekstro-amino asitler üzerine kuruludur. Bu, turian'ları galaktik sahnede belirgin bir azınlığa yerleştirir; quarian'lar bilinen diğer tek dekstro-proteinli bilinçli ırktır. İnsanların, asari'lerin veya salarian'ların (levo-amino asit temelli biyosferlerde evrilmiş) yiyecekleri en iyi ihtimalle turian sistemlerinden besin sağlamadan geçer. En kötü ihtimalle hemen tedavi edilmezse ölümcül olabilecek alerjik bir reaksiyonu tetikler.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u21173",
    "en": "Turians: Biology",
-   "tr": "",
+   "tr": "Turian'lar: Biyoloji",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u21174",
    "en": "While turians are individuals with personal desires, their instinct is to equate the self with the group, and set aside personal desires for the good of all.\n\nTurians are taught to have a strong sense of personal accountability, the 'turian honor' that other races find so remarkable. Turians are taught to own every decision they make, good or ill. The worst sin they can make in the eyes of their people is to lie about their own actions. Turians who murder will try to get away with it, but if directly questioned, most will confess the crime.\n\nTurians have a strong inclination toward public service and self-sacrifice, so they tend to be poor entrepreneurs. To compensate, they accepted the mercantile volus as a client race, offering protection in exchange for their fiscal expertise.\n\nThe turian military is the center of their society. It is not just an armed force; it is an all-encompassing public works organization. The military police are also the civic police. The fire brigades serve the civilian population as well as military facilities. The corps of engineers builds and maintains spaceports, schools, water purification plants, and power stations. The merchant marine ensures that all worlds get needed resources.\n\n",
-   "tr": "",
+   "tr": "Turian'lar kişisel arzuları olan bireyler olsalar da içgüdüleri benliği grupla özdeşleştirmek ve herkesin iyiliği için kişisel arzuları bir kenara bırakmaktır.\n\nTurian'lara diğer ırkların çok olağanüstü bulduğu güçlü bir kişisel sorumluluk duygusu, \"turian onuru\" öğretilir. Turian'lara verdikleri her kararı, iyi ya da kötü, sahiplenmeleri öğretilir. Halklarının gözünde yapabilecekleri en kötü günah, kendi eylemleri hakkında yalan söylemektir. Cinayet işleyen turian'lar paçayı kurtarmaya çalışır, ancak doğrudan sorgulanırsa çoğu suçu itiraf eder.\n\nTurian'lar kamu hizmeti ve fedakârlığa güçlü bir eğilim gösterdiğinden zayıf girişimciler olma eğilimindedir. Bunu telafi etmek için ticaretle uğraşan volus'u bir bağımlı ırk olarak kabul ettiler ve mali uzmanlıkları karşılığında koruma sundular.\n\nTurian ordusu toplumlarının merkezidir. Yalnızca silahlı bir güç değil, her şeyi kapsayan bir kamu işleri örgütüdür. Askerî polis aynı zamanda sivil polistir. İtfaiye birlikleri askerî tesislerin yanı sıra sivil nüfusa da hizmet eder. Mühendis birlikleri uzay limanları, okullar, su arıtma tesisleri ve enerji santralleri inşa eder ve bakımını yapar. Ticaret donanması tüm dünyaların ihtiyaç duyduğu kaynakları almasını sağlar.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u21175",
    "en": "Turians: Culture",
-   "tr": "",
+   "tr": "Turian'lar: Kültür",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u21176",
    "en": "The turian government is a hierarchical meritocracy. While it has great potential for misuse, this is tempered by the civic duty and personal responsibility turians learn in childhood.\n\nTurians have 27 citizenship tiers, beginning with civilians (client races and children). The initial period of military service is the second tier. Formal citizenship is conferred at the third tier, after boot camp. For client races, citizenship is granted after the individual musters out. Higher-ranked citizens are expected to lead and protect subordinates. Lower-ranked citizens are expected to obey and support superiors. Promotion to another tier of citizenship is based on the personal assessments of one’s superiors and co-rankers.\n\nThroughout their lives, turians ascend to higher tiers and are occasionally 'demoted' to lower ones. The stigma associated with demotion lies not on the individual, but on those who promoted him when he wasn’t ready for additional responsibility. This curbs the tendency to promote individuals into positions beyond their capabilities.\n\nSettling into a role and rank is not considered stagnation. Turians value knowing one's own limitations more than being ambitious.\n\nAt the top are the Primarchs, who each rule a colonization cluster. The Primarchs vote on matters of national import. They otherwise maintain a 'hands-off' policy, trusting the citizens on each level below them to do their jobs competently.\n\nTurians enjoy broad freedoms. So long as one completes his duties, and does not prevent others from completing theirs, nothing is forbidden. For example, there are no laws against recreational drug use, but if someone is unable to complete his duties due to drug use, his superiors step in. Judicial proceedings are 'interventions.' Peers express their concern, and try to convince the offender to change. If rehabilitation fails, turians have no qualms about sentencing dangerous individuals to life at hard labor for the state.\n\n",
-   "tr": "",
+   "tr": "Turian hükümeti hiyerarşik bir meritokrasidir. Kötüye kullanılma potansiyeli büyük olsa da bu, turian'ların çocuklukta öğrendiği yurttaşlık görevi ve kişisel sorumlulukla yumuşatılır.\n\nTurian'ların 27 vatandaşlık kademesi vardır; bunlar siviller (bağımlı ırklar ve çocuklar) ile başlar. İlk askerî hizmet dönemi ikinci kademedir. Resmî vatandaşlık acemi eğitiminden sonra üçüncü kademede verilir. Bağımlı ırklar için vatandaşlık, birey terhis olduktan sonra verilir. Daha yüksek rütbeli vatandaşlardan astlarına önderlik etmesi ve onları koruması beklenir. Daha düşük rütbeli vatandaşlardan üstlerine itaat etmesi ve onları desteklemesi beklenir. Başka bir vatandaşlık kademesine terfi, kişinin üstlerinin ve eş rütbelilerinin kişisel değerlendirmelerine dayanır.\n\nHayatları boyunca turian'lar daha yüksek kademelere yükselir ve ara sıra daha düşük kademelere \"indirilir\". Rütbe indirmeye bağlı damga, bireyde değil, ek sorumluluğa hazır olmadığı hâlde onu terfi ettirenlerdedir. Bu, bireyleri yeteneklerinin ötesindeki konumlara terfi ettirme eğilimini sınırlar.\n\nBir role ve rütbeye yerleşmek durgunluk sayılmaz. Turian'lar kişinin kendi sınırlarını bilmesine hırslı olmaktan daha çok değer verir.\n\nEn tepede her biri bir kolonizasyon kümesini yöneten Primarch'lar vardır. Primarch'lar ulusal önemi olan konularda oy kullanır. Bunun dışında \"müdahale etmeme\" politikası sürdürür ve altlarındaki her kademedeki vatandaşlara işlerini yetkin biçimde yapma konusunda güvenirler.\n\nTurian'lar geniş özgürlüklerin tadını çıkarır. Kişi görevlerini tamamladığı ve başkalarının görevlerini tamamlamasını engellemediği sürece hiçbir şey yasak değildir. Örneğin eğlence amaçlı uyuşturucu kullanımına karşı yasa yoktur, ancak biri uyuşturucu kullanımı nedeniyle görevlerini tamamlayamazsa üstleri devreye girer. Yargı süreçleri \"müdahale\"dir. Akranlar endişelerini dile getirir ve suçluyu değişmeye ikna etmeye çalışır. Rehabilitasyon başarısız olursa turian'lar tehlikeli bireyleri devlet için ömür boyu ağır işte çalışmaya mahkûm etmekte tereddüt etmez.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u21177",
    "en": "Turians: Government",
-   "tr": "",
+   "tr": "Turian'lar: Yönetim",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u21178",
    "en": "Although they lack the brutality of the krogan, the skill of the asari, and the virtuosity of the humans, the turian military has formidable discipline. Officers and NCOs are 'lifers' with years of field experience. Enlisted personnel are thoroughly trained and stay calm under fire. Turian units don’t break. Even if their entire line collapses, they fall back in order, setting ambushes as they go. A popular saying holds: 'You will only see a turian's back once he’s dead.'\n\nBoot camp begins on the 15th birthday. Soldiers receive a year of training before being assigned to a field unit; officers train for even longer. Most serve until the age of 30, at which point they become part of the Reserves. Even if they suffer injuries preventing front-line service, most do support work behind the lines.\n\nBiotics are uncommon. While admired for their exacting skills, biotics' motives are not always fully trusted by the common soldier. The turians prefer to assign their biotics to specialist teams called Cabals.\n\nCommand and control is decentralized and flexible. Individual squads can call for artillery and air support. They make extensive use of combat drones for light duties, and practice combined arms: infantry operates with armor, supported by overhead gunships. Strategically, they are methodical and patient, and dislike risky operations.\n\nTradition is important. Each legion has a full-time staff of historians who chronicle its battle honors in detail. The oldest have records dating back to the turian Iron Age. If a legion is destroyed in battle, it is reconstituted rather than replaced.\n\nThe turians recruit auxiliary units from conquered or absorbed minor races. Auxiliaries are generally light infantry or armored cavalry units that screen and support the main turian formations. At the conclusion of their service in the Auxiliaries, recruits are granted turian citizenship.\n\n",
-   "tr": "",
+   "tr": "Krogan'ın acımasızlığından, asari'lerin ustalığından ve insanların virtüözlüğünden yoksun olsalar da turian ordusunun müthiş bir disiplini vardır. Subaylar ve astsubaylar yılların saha deneyimine sahip \"kariyer askerleri\"dir. Erler iyi eğitilmiştir ve ateş altında sakin kalır. Turian birlikleri dağılmaz. Tüm hatları çökse bile düzenle geri çekilir ve giderken pusular kurarlar. Popüler bir söz şöyledir: \"Bir turian'ın sırtını ancak öldükten sonra görürsün.\"\n\nAcemi eğitimi 15. yaş gününde başlar. Askerler bir saha birimine atanmadan önce bir yıl eğitim alır; subaylar daha da uzun eğitilir. Çoğu 30 yaşına kadar hizmet eder ve sonrasında Yedek Kuvvetler'in parçası olur. Cephe hizmetini engelleyen yaralanmalar yaşasalar bile çoğu cephe gerisinde destek işleri yapar.\n\nBiyotikler nadirdir. Titiz becerileri için hayranlık duyulsa da biyotiklerin güdüleri sıradan asker tarafından tam olarak güvenilir bulunmaz. Turian'lar biyotiklerini Cabal denen uzman ekiplere atamayı tercih eder.\n\nKomuta ve kontrol merkezsiz ve esnektir. Bireysel manga birlikleri topçu ve hava desteği çağırabilir. Hafif görevler için muharebe dronlarını kapsamlı biçimde kullanırlar ve birleşik silahlar uygular: piyade zırhlı araçlarla çalışır, havadaki savaş helikopterleri tarafından desteklenir. Stratejik olarak yöntemli ve sabırlıdırlar ve riskli operasyonlardan hoşlanmazlar.\n\nGelenek önemlidir. Her lejyonun muharebe şereflerini ayrıntılı biçimde kaydeden tam zamanlı bir tarihçi kadrosu vardır. En eskilerin kayıtları turian Demir Çağı'na kadar uzanır. Bir lejyon savaşta yok edilirse yenisiyle değiştirilmek yerine yeniden oluşturulur.\n\nTurian'lar fethedilen ya da özümsenen küçük ırklardan yardımcı birlikler toplar. Yardımcı birlikler genellikle ana turian oluşumlarını kolaylaştıran ve destekleyen hafif piyade veya zırhlı süvari birimleridir. Yardımcı Birlikler'deki hizmetleri bittiğinde acemilere turian vatandaşlığı verilir.\n\n",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u21179",
    "en": "Turians: Military Doctrine",
-   "tr": "",
+   "tr": "Turian'lar: Askerî Doktrin",
    "ctx": [
     "Startup"
    ]
