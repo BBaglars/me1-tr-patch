@@ -9,7 +9,7 @@
   {
    "key": "u15857",
    "en": "At its current rate of acceleration, the asteroid will collide with Terra Nova in approximately four hours.",
-   "tr": "",
+   "tr": "Mevcut ivmelenme hızıyla asteroit yaklaşık dört saat içinde Terra Nova'ya çarpacak.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -18,7 +18,7 @@
   {
    "key": "u15858",
    "en": "Analysis: Torches must be disabled to cease the acceleration.",
-   "tr": "",
+   "tr": "Analiz: İvmelenmeyi durdurmak için meşaleler devre dışı bırakılmalı.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -27,7 +27,7 @@
   {
    "key": "u15859",
    "en": "Hello? Hello? I heard your transmission. Can you hear me?",
-   "tr": "",
+   "tr": "Alo? Alo? İletiminizi duydum. Beni duyabiliyor musunuz?",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -36,7 +36,7 @@
   {
    "key": "u15860",
    "en": "They haven't found me yet, but I can't talk long. ",
-   "tr": "",
+   "tr": "Henüz beni bulmadılar ama uzun konuşamam.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -45,7 +45,7 @@
   {
    "key": "u15861",
    "en": "Please. Shut down the fusion torches or we're all going to die.",
-   "tr": "",
+   "tr": "Lütfen. Füzyon meşalelerini kapatın yoksa hepimiz öleceğiz.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -54,7 +54,7 @@
   {
    "key": "u15862",
    "en": "God, I hope you're hearing this.",
-   "tr": "",
+   "tr": "Tanrım, umarım bunu duyuyorsunuzdur.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -63,7 +63,7 @@
   {
    "key": "u15863",
    "en": "Warning: Approaching operational boundary limits. Recall imminent.",
-   "tr": "",
+   "tr": "Uyarı: Operasyon sınır limitlerine yaklaşılıyor. Geri çağırma yakın.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -72,7 +72,7 @@
   {
    "key": "u15864",
    "en": "Warning: Boundaries exceeded. Commencing recall.",
-   "tr": "",
+   "tr": "Uyarı: Sınırlar aşıldı. Geri çağırma başlatılıyor.",
    "ctx": [
     "BIOA_UNC52_00_LAY_LOC",
     "BIOA_UNC52_CIN_LOC"
@@ -81,7 +81,7 @@
   {
    "key": "u15865",
    "en": "You're heading in the wrong direction. You've got to get to those torches.",
-   "tr": "",
+   "tr": "Yanlış yöne gidiyorsunuz. O meşalelere ulaşmalısınız.",
    "ctx": [
     "BIOA_UNC52_00main_DSG_LOC"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u15866",
    "en": "Can you hear me? The main facility is locked down.",
-   "tr": "",
+   "tr": "Beni duyabiliyor musunuz? Ana tesis kilitli.",
    "ctx": [
     "BIOA_UNC52_00main_DSG_LOC"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u15867",
    "en": "Please. You've got to get those torches offline before it's too late.",
-   "tr": "",
+   "tr": "Lütfen. Çok geç olmadan o meşaleleri devre dışı bırakmalısınız.",
    "ctx": [
     "BIOA_UNC52_00main_DSG_LOC"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u15868",
    "en": "This is Dr. Hymes. They found me. Damn batarians.",
-   "tr": "",
+   "tr": "Ben Dr. Hymes. Beni buldular. Lanet batarian'lar.",
    "ctx": [
     "BIOA_UNC52_00survey_DSG_LOC"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u15869",
    "en": "I can hear them out there, prowling around. Trying to find a way in.",
-   "tr": "",
+   "tr": "Dışarıda dolaştıklarını duyabiliyorum. İçeri girmenin yolunu arıyorlar.",
    "ctx": [
     "BIOA_UNC52_00survey_DSG_LOC"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u15870",
    "en": "It sounds like they're attaching something to the door. If I don't make it, tell my family I love them.",
-   "tr": "",
+   "tr": "Kapıya bir şey yerleştiriyorlar gibi geliyor. Başaramazsam aileme onları sevdiğimi söyleyin.",
    "ctx": [
     "BIOA_UNC52_00survey_DSG_LOC"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u15871",
    "en": "Warning: ground-penetrating radar detects anti-vehicle demolitions nearby. Proceed on foot.",
-   "tr": "",
+   "tr": "Uyarı: yer radarı yakında araç karşıtı patlayıcılar tespit etti. Yaya devam edin.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u15872",
    "en": "Warning: approaching explosives. Proceed with caution.",
-   "tr": "",
+   "tr": "Uyarı: yaklaşan patlayıcılar. Dikkatli ilerleyin.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u15873",
    "en": "Warning: anti-vehicle demolitions detected. Please proceed on foot.",
-   "tr": "",
+   "tr": "Uyarı: araç karşıtı patlayıcılar tespit edildi. Lütfen yaya devam edin.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u15874",
    "en": "Warning: pressure-sensitive mines detected. Recommend proceeding on foot.",
-   "tr": "",
+   "tr": "Uyarı: basınca duyarlı mayınlar tespit edildi. Yaya devam etmeniz önerilir.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u15875",
    "en": "Warning: anti-vehicle demolitions detected by ground-penetrating radar. Please proceed on foot.",
-   "tr": "",
+   "tr": "Uyarı: yer radarı tarafından araç karşıtı patlayıcılar tespit edildi. Lütfen yaya devam edin.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u15876",
    "en": "Warning: pressure sensitive demolitions detected. Exit from vehicle and proceed on foot.",
-   "tr": "",
+   "tr": "Uyarı: basınca duyarlı patlayıcılar tespit edildi. Araçtan inin ve yaya devam edin.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u15877",
    "en": "Warning: ground-penetrating radar detects pressure-sensitive demolitions. Recommend proceeding on foot.",
-   "tr": "",
+   "tr": "Uyarı: yer radarı basınca duyarlı patlayıcılar tespit etti. Yaya devam etmeniz önerilir.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u15878",
    "en": "Are you there? You've got to hurry. You've really pissed them off.",
-   "tr": "",
+   "tr": "Orada mısınız? Acele etmelisiniz. Onları gerçekten çok kızdırdınız.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -194,7 +194,7 @@
   {
    "key": "u15879",
    "en": "Their leader's setting charges everywhere. I think he's going to blow this whole facility.",
-   "tr": "",
+   "tr": "Liderleri her yere patlayıcı yerleştiriyor. Sanırım tüm tesisi patlatacak.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -203,7 +203,7 @@
   {
    "key": "u15880",
    "en": "Get away from there.",
-   "tr": "",
+   "tr": "Oradan uzaklaşın.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -212,7 +212,7 @@
   {
    "key": "u15881",
    "en": "Don't shoot. Please.",
-   "tr": "",
+   "tr": "Ateş etmeyin. Lütfen.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -221,7 +221,7 @@
   {
    "key": "u15882",
    "en": "You're headed in the right direction.",
-   "tr": "",
+   "tr": "Doğru yöne gidiyorsunuz.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -230,7 +230,7 @@
   {
    "key": "u15883",
    "en": "I don't know who you are, but I'm-- Damn it! Got to go.",
-   "tr": "",
+   "tr": "Kim olduğunuzu bilmiyorum ama ben-- Kahretsin! Gitmem lazım.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -239,7 +239,7 @@
   {
    "key": "u15884",
    "en": "Can you hear me? I'm getting all kinds of interference.",
-   "tr": "",
+   "tr": "Beni duyabiliyor musunuz? Her türlü parazit alıyorum.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -248,7 +248,7 @@
   {
    "key": "u15885",
    "en": "Damn this thing. Sorry, there's a lot of feedback.",
-   "tr": "",
+   "tr": "Lanet olsun şuna. Üzgünüm, çok fazla geri besleme var.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -257,7 +257,7 @@
   {
    "key": "u15886",
    "en": "I'll see if I can fix it. In the meantime, just keep doing what you're doing.",
-   "tr": "",
+   "tr": "Düzeltebilir miyim bakacağım. Bu arada yaptığınızı yapmaya devam edin.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_02_DSG_LOC"
@@ -266,7 +266,7 @@
   {
    "key": "u15887",
    "en": "Release the varren!",
-   "tr": "",
+   "tr": "Varren'leri salın!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -276,7 +276,7 @@
   {
    "key": "u15888",
    "en": "Take cover.",
-   "tr": "",
+   "tr": "Siper alın.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -286,7 +286,7 @@
   {
    "key": "u15889",
    "en": "Fresh meat.",
-   "tr": "",
+   "tr": "Taze et.",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -296,7 +296,7 @@
   {
    "key": "u15890",
    "en": "Harak. Chekt! Chekt!",
-   "tr": "",
+   "tr": "Harak. Chekt! Chekt!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -306,7 +306,7 @@
   {
    "key": "u15891",
    "en": "Perimeter breached!",
-   "tr": "",
+   "tr": "Çevre ihlal edildi!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -316,7 +316,7 @@
   {
    "key": "u15892",
    "en": "Arm the drones!",
-   "tr": "",
+   "tr": "Dronları silahlandırın!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -326,7 +326,7 @@
   {
    "key": "u15893",
    "en": "Send the drones in!",
-   "tr": "",
+   "tr": "Dronları gönderin!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -336,7 +336,7 @@
   {
    "key": "u15894",
    "en": "Humans! Take 'em out!",
-   "tr": "",
+   "tr": "İnsanlar! Hepsini indirin!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -346,7 +346,7 @@
   {
    "key": "u15895",
    "en": "Balak wants them all dead!",
-   "tr": "",
+   "tr": "Balak hepsinin ölmesini istiyor!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -356,7 +356,7 @@
   {
    "key": "u15896",
    "en": "Alliance military!",
-   "tr": "",
+   "tr": "İttifak ordusu!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -366,7 +366,7 @@
   {
    "key": "u15897",
    "en": "Die, human!",
-   "tr": "",
+   "tr": "Öl insan!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -376,7 +376,7 @@
   {
    "key": "u15898",
    "en": "Filthy human scum!",
-   "tr": "",
+   "tr": "Pis insan pisliği!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -386,7 +386,7 @@
   {
    "key": "u15899",
    "en": "Balak's down!",
-   "tr": "",
+   "tr": "Balak düştü!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -396,7 +396,7 @@
   {
    "key": "u15900",
    "en": "They got Charn!",
-   "tr": "",
+   "tr": "Charn'ı vurdular!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -406,7 +406,7 @@
   {
    "key": "u15901",
    "en": "D...d...d...die, human!",
-   "tr": "",
+   "tr": "Ö...ö...öl insan!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -416,7 +416,7 @@
   {
    "key": "u15902",
    "en": "Fall back to base!",
-   "tr": "",
+   "tr": "Üsse çekilin!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -426,7 +426,7 @@
   {
    "key": "u15903",
    "en": "Go! Go! Go!",
-   "tr": "",
+   "tr": "Gidin! Gidin! Gidin!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -436,7 +436,7 @@
   {
    "key": "u15904",
    "en": "Move it!",
-   "tr": "",
+   "tr": "Kıpırdayın!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -446,7 +446,7 @@
   {
    "key": "u15905",
    "en": "Hold the line!",
-   "tr": "",
+   "tr": "Hattı tutun!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -456,7 +456,7 @@
   {
    "key": "u15906",
    "en": "Death before surrender!",
-   "tr": "",
+   "tr": "Teslimiyetten önce ölüm!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -466,7 +466,7 @@
   {
    "key": "u15907",
    "en": "Attack!",
-   "tr": "",
+   "tr": "Saldırın!",
    "ctx": [
     "BIOA_UNC52_00torch_DSG_LOC",
     "BIOA_UNC52_01_DSG_LOC",
@@ -476,7 +476,7 @@
   {
    "key": "u15908",
    "en": "I'm reading that the torch is offline.",
-   "tr": "",
+   "tr": "Meşalenin çevrimdışı olduğunu görüyorum.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -484,7 +484,7 @@
   {
    "key": "u15909",
    "en": "Was that you? Can you hear me?",
-   "tr": "",
+   "tr": "Sen miydin? Beni duyabiliyor musun?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -492,7 +492,7 @@
   {
    "key": "u15910",
    "en": "My name's Kate Bowman. I'm an engineer. I was part of the team assigned to bring this asteroid to Terra Nova.",
-   "tr": "",
+   "tr": "Adım Kate Bowman. Mühendisim. Bu asteroidi Terra Nova'ya getirmekle görevlendirilen ekipteydim.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -500,7 +500,7 @@
   {
    "key": "u15911",
    "en": "We were attacked yesterday by batarian extremists. I've been hiding since they arrived.",
-   "tr": "",
+   "tr": "Dün batarian aşırıcıları tarafından saldırıya uğradık. Geldiklerinden beri saklanıyorum.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -508,7 +508,7 @@
   {
    "key": "u15912",
    "en": "I think they know the torch went out.",
-   "tr": "",
+   "tr": "Sanırım meşalenin söndüğünü biliyorlar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -516,7 +516,7 @@
   {
    "key": "u15913",
    "en": "Thanks. I'll contact you when I can.",
-   "tr": "",
+   "tr": "Teşekkürler. Elimden geldiğinde iletişime geçerim.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -524,7 +524,7 @@
   {
    "key": "u15914",
    "en": "I don't know. But if this asteroid isn't slowed, millions of people on Terra Nova are going to die.",
-   "tr": "",
+   "tr": "Bilmiyorum. Ama bu asteroit yavaşlatılmazsa Terra Nova'daki milyonlarca insan ölecek.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -532,7 +532,7 @@
   {
    "key": "u15915",
    "en": "If I find out anything I'll-- I've got to go. Good luck.",
-   "tr": "",
+   "tr": "Bir şey öğrenirsem-- Gitmem lazım. İyi şanslar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -540,7 +540,7 @@
   {
    "key": "u15916",
    "en": "Who are you? What's going on?",
-   "tr": "",
+   "tr": "Kimsiniz? Neler oluyor?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -548,7 +548,7 @@
   {
    "key": "u15917",
    "en": "I hear you. What's going on? Who are you?",
-   "tr": "",
+   "tr": "Sizi duyuyorum. Neler oluyor? Kimsiniz?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -556,7 +556,7 @@
   {
    "key": "u15918",
    "en": "Stay put. I'll get those other torches offline as soon as I can.",
-   "tr": "",
+   "tr": "Olduğun yerde kal. Diğer meşaleleri de elimden geldiğince çabuk devre dışı bırakacağım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -564,7 +564,7 @@
   {
    "key": "u15919",
    "en": "Why are they doing this?",
-   "tr": "",
+   "tr": "Bunu neden yapıyorlar?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -572,7 +572,7 @@
   {
    "key": "u15920",
    "en": "Who is this?",
-   "tr": "",
+   "tr": "Bu kim?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -580,7 +580,7 @@
   {
    "key": "u15921",
    "en": "I should keep moving.",
-   "tr": "",
+   "tr": "Hareket etmeye devam etmeliyim.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -588,7 +588,7 @@
   {
    "key": "u15922",
    "en": "What do they want?",
-   "tr": "",
+   "tr": "Ne istiyorlar?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC",
     "BIOA_WAR20_03f_DSG_LOC",
@@ -598,7 +598,7 @@
   {
    "key": "u15923",
    "en": "They were running checks on our perimeter equipment.",
-   "tr": "",
+   "tr": "Çevre ekipmanlarımızı kontrol ediyorlardı.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -606,7 +606,7 @@
   {
    "key": "u15924",
    "en": "Yeah, you're right. Saving Terra Nova's more important than my team.",
-   "tr": "",
+   "tr": "Evet haklısın. Terra Nova'yı kurtarmak ekibimden daha önemli.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -614,7 +614,7 @@
   {
    "key": "u15925",
    "en": "I heard a couple of them talking, they mentioned a \"Balak.\" It sounded like he's the one in charge.",
-   "tr": "",
+   "tr": "İki tanesinin konuştuğunu duydum, \"Balak\" demişlerdi. Sorumlu olan o gibi geliyordu.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -622,7 +622,7 @@
   {
    "key": "u15926",
    "en": "I did see groups head out to each of the torch stations. Couldn't say how many, though. Enough to give you a fight.",
-   "tr": "",
+   "tr": "Her meşale istasyonuna gruplar gittiğini gördüm. Kaç kişi olduklarını söyleyemem. Sana kavga çıkaracak kadar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -630,7 +630,7 @@
   {
    "key": "u15927",
    "en": "They didn't seem convinced this was a good idea, but they were scared of the guy. Scared enough to do what he wanted.",
-   "tr": "",
+   "tr": "Bunun iyi bir fikir olduğuna ikna olmuş görünmüyorlardı ama adamdan korkuyorlardı. İstediğini yapacak kadar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -638,7 +638,7 @@
   {
    "key": "u15928",
    "en": "The idea was to drag it into Terra Nova's orbit, mine it out, and in the end you'd have a basic structure for an orbital station.",
-   "tr": "",
+   "tr": "Fikir onu Terra Nova yörüngesine çekmek, madenini boşaltmak ve sonunda bir yörünge istasyonu için temel bir yapıya sahip olmaktı.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -646,7 +646,7 @@
   {
    "key": "u15929",
    "en": "It's a lot cheaper than getting everything up in to orbit from the planet's surface. The minerals we extract almost cover the costs.",
-   "tr": "",
+   "tr": "Her şeyi gezegen yüzeyinden yörüngeye çıkarmaktan çok daha ucuz. Çıkardığımız mineraller maliyeti neredeyse karşılıyor.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -654,7 +654,7 @@
   {
    "key": "u15930",
    "en": "Evacu--? Shepard, it took 30 years for the population to grow that large.",
-   "tr": "",
+   "tr": "Tahli--? Shepard, nüfusun bu kadar büyümesi 30 yıl sürdü.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -662,7 +662,7 @@
   {
    "key": "u15931",
    "en": "I'm sure they're moving people to remote areas, but they'd never be able to get more than a few thousand off-world.",
-   "tr": "",
+   "tr": "Eminim insanları uzak bölgelere taşıyorlar ama birkaç binden fazlasını gezegen dışına çıkaramazlar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -670,7 +670,7 @@
   {
    "key": "u15932",
    "en": "We just don't have enough ships. No one does. Well, maybe the quarians. But I don't see them suddenly showing up and offering us a ride.",
-   "tr": "",
+   "tr": "Yeterince gemimiz yok. Kimsede yok. Belki quarian'larda. Ama birden ortaya çıkıp bize yolculuk teklif edeceklerini sanmıyorum.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -678,7 +678,7 @@
   {
    "key": "u15933",
    "en": "She's one of my best engineers. She signed on with her brother. Aaron, I think his name is. He's part of the security detail. I hope they're okay.",
-   "tr": "",
+   "tr": "En iyi mühendislerimden biri. Kardeşiyle birlikte imza attı. Aaron, sanırım adı. Güvenlik ekibinde. Umarım iyiler.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -686,7 +686,7 @@
   {
    "key": "u15934",
    "en": "Smart as a whip and bold as they come. I hope she keeps hidden. If they find her...",
-   "tr": "",
+   "tr": "Kırbaç gibi zeki ve gelebildiği kadar cesur. Umarım saklanmaya devam eder. Onu bulurlarsa...",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -694,7 +694,7 @@
   {
    "key": "u15935",
    "en": "Ah, Katie. Don't do anything stupid.",
-   "tr": "",
+   "tr": "Ah Katie. Aptalca bir şey yapma.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -702,7 +702,7 @@
   {
    "key": "u15936",
    "en": "I think I'll make myself scarce in case any batarians come back. Good luck, Shepard.",
-   "tr": "",
+   "tr": "Batarian'lar dönerse diye ortadan kaybolacağım. İyi şanslar Shepard.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -710,7 +710,7 @@
   {
    "key": "u15937",
    "en": "Listen --  we don't have much time. The batarians fired up the fusion torches. You've got to shut them down before we hit Terra Nova!",
-   "tr": "",
+   "tr": "Dinle -- fazla zamanımız yok. Batarian'lar füzyon meşalelerini çalıştırdı. Terra Nova'ya çarpmadan onları kapatmalısın!",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -718,7 +718,7 @@
   {
    "key": "u15938",
    "en": "There are four million people down there, Shepard. I-- my family. They live in Aronas. My kids and grandkids. Nice community. Good schools...",
-   "tr": "",
+   "tr": "Orada dört milyon insan var Shepard. Ben-- ailem. Aronas'ta yaşıyorlar. Çocuklarım ve torunlarım. Güzel bir topluluk. İyi okullar...",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -726,7 +726,7 @@
   {
    "key": "u15939",
    "en": "We set them up when we arrived at Terra Nova. We use them for excavating. When the batarians landed, I rigged them with proximity detectors.",
-   "tr": "",
+   "tr": "Onları Terra Nova'ya vardığımızda kurduk. Kazı için kullanıyoruz. Batarian'lar indiğinde yakınlık dedektörleriyle donattım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -734,7 +734,7 @@
   {
    "key": "u15940",
    "en": "Caught a few of those sons-of-bitches by surprise.",
-   "tr": "",
+   "tr": "O piçlerin birkaçını gafil avladım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -742,7 +742,7 @@
   {
    "key": "u15941",
    "en": "Thanks. I wish I could have done more.",
-   "tr": "",
+   "tr": "Teşekkürler. Keşke daha fazlasını yapabilseydim.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -750,7 +750,7 @@
   {
    "key": "u15942",
    "en": "Sorry about that. I wasn't expecting reinforcements. I just rigged them up, then ran off to hide.",
-   "tr": "",
+   "tr": "Bunun için üzgünüm. Takviye beklemiyordum. Sadece kurdum, sonra saklanmaya kaçtım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -758,7 +758,7 @@
   {
    "key": "u15943",
    "en": "One of the torches is surrounded by live blasting caps. We were set up to excavate when we arrived at Terra Nova. I rigged them with proximity detectors.",
-   "tr": "",
+   "tr": "Meşalelerden biri canlı patlatma kapsülleriyle çevrili. Terra Nova'ya vardığımızda kazıya hazırlanmıştık. Onları yakınlık dedektörleriyle donattım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -766,7 +766,7 @@
   {
    "key": "u15944",
    "en": "That tank of yours will set them off, so you'll have to go in on foot. Even then, they'll explode if you get too close. Just go slow and easy and you should be fine.",
-   "tr": "",
+   "tr": "Tankınız onları tetikler, bu yüzden yaya girmeniz gerekecek. O zaman bile fazla yaklaşırsanız patlarlar. Yavaş ve sakin gidin, sorun olmaz.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -774,7 +774,7 @@
   {
    "key": "u15945",
    "en": "Look, you can disable them. Just not remotely. I didn't have the equipment to set it up differently.",
-   "tr": "",
+   "tr": "Bak, onları devre dışı bırakabilirsin. Sadece uzaktan değil. Başka türlü kurmak için ekipmanım yoktu.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -782,7 +782,7 @@
   {
    "key": "u15946",
    "en": "Not from here, no.",
-   "tr": "",
+   "tr": "Buradan değil, hayır.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -790,7 +790,7 @@
   {
    "key": "u15947",
    "en": "There are manual controls by the entrance to the torch facility, inside the blast zone. You can disarm the caps there.",
-   "tr": "",
+   "tr": "Meşale tesisinin girişinin yanında, patlama bölgesinin içinde manuel kontroller var. Kapsülleri orada etkisiz hale getirebilirsin.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -798,7 +798,7 @@
   {
    "key": "u15948",
    "en": "One last thing: I had a crew working off-site when the attack hit. I'm worried about them. ",
-   "tr": "",
+   "tr": "Son bir şey: Saldırı olduğunda tesis dışında çalışan bir ekibim vardı. Onlar için endişeleniyorum.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -806,7 +806,7 @@
   {
    "key": "u15949",
    "en": "But if you see them while-- No. You're right. Focus on the torches. Sorry.",
-   "tr": "",
+   "tr": "Ama onları görürsen-- Hayır. Haklısın. Meşalelere odaklan. Üzgünüm.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -814,7 +814,7 @@
   {
    "key": "u15950",
    "en": "Time's running short.",
-   "tr": "",
+   "tr": "Zaman daralıyor.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -822,7 +822,7 @@
   {
    "key": "u15951",
    "en": "Four-and-a-half million people are going to die in a few hours. Don't make me trot out some tired platitude about the needs of many versus few.",
-   "tr": "",
+   "tr": "Dört buçuk milyon insan birkaç saat içinde ölecek. Çoğunluğun ihtiyaçları azınlığınkinden önemlidir gibi bayat bir laf ettirme bana.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -830,7 +830,7 @@
   {
    "key": "u15952",
    "en": "I'll look for them. But the torches have to be my priority.",
-   "tr": "",
+   "tr": "Onları arayacağım. Ama meşaleler önceliğim olmalı.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -838,7 +838,7 @@
   {
    "key": "u15953",
    "en": "If I run into your people, I'll do what I can, but the torches have to come first.",
-   "tr": "",
+   "tr": "Adamlarınla karşılaşırsam elimden geleni yaparım ama meşaleler önce gelmeli.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -846,7 +846,7 @@
   {
    "key": "u15954",
    "en": "Any idea who's behind this? Who's leading them? That might provide a clue.",
-   "tr": "",
+   "tr": "Arkasında kim olduğunu biliyor musun? Onlara kim liderlik ediyor? Bu bir ipucu olabilir.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -854,7 +854,7 @@
   {
    "key": "u15955",
    "en": "Why were you moving this thing in the first place?",
-   "tr": "",
+   "tr": "Bu şeyi neden başta taşıyordunuz?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -862,7 +862,7 @@
   {
    "key": "u15956",
    "en": "Give me a worst case scenario. We can't stop the asteroid. Could the colony be evacuated?",
-   "tr": "",
+   "tr": "En kötü senaryoyu söyle. Asteroidi durduramazsak koloni tahliye edilebilir mi?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -870,7 +870,7 @@
   {
    "key": "u15957",
    "en": "What can you tell me about Kate?",
-   "tr": "",
+   "tr": "Kate hakkında bana ne söyleyebilirsin?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -878,7 +878,7 @@
   {
    "key": "u15958",
    "en": "Time's running short. I better get moving.",
-   "tr": "",
+   "tr": "Zaman daralıyor. Hareket etsem iyi olur.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -886,7 +886,7 @@
   {
    "key": "u15959",
    "en": "I'm impressed. That was a clever bit of improvisation.",
-   "tr": "",
+   "tr": "Etkilendim. Zekice bir doğaçlamaydı.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -894,7 +894,7 @@
   {
    "key": "u15960",
    "en": "The last thing I needed to deal with was a bunch of explosives. The batarians are bad enough.",
-   "tr": "",
+   "tr": "Uğraşmam gereken son şey bir sürü patlayıcıydı. Batarian'lar yeterince kötü.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -902,7 +902,7 @@
   {
    "key": "u15961",
    "en": "Should I requisition a cow to walk through ahead of me?",
-   "tr": "",
+   "tr": "Önümden geçsin diye bir inek mi istemeliyim?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -910,7 +910,7 @@
   {
    "key": "u15962",
    "en": "You set them up. Can you disable them?",
-   "tr": "",
+   "tr": "Sen kurdun. Devre dışı bırakabilir misin?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -918,7 +918,7 @@
   {
    "key": "u15963",
    "en": "Can you shut them off?",
-   "tr": "",
+   "tr": "Kapatabilir misin?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -926,7 +926,7 @@
   {
    "key": "u15964",
    "en": "I better get moving.",
-   "tr": "",
+   "tr": "Hareket etsem iyi olur.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -934,7 +934,7 @@
   {
    "key": "u15965",
    "en": "They're not a priority.",
-   "tr": "",
+   "tr": "Öncelik değiller.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -942,7 +942,7 @@
   {
    "key": "u15966",
    "en": "I'll do what I can.",
-   "tr": "",
+   "tr": "Elimden geleni yaparım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -950,7 +950,7 @@
   {
    "key": "u15967",
    "en": "If there's time.",
-   "tr": "",
+   "tr": "Zaman varsa.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -958,7 +958,7 @@
   {
    "key": "u15968",
    "en": "Batarian leader",
-   "tr": "",
+   "tr": "Batarian lider",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -966,7 +966,7 @@
   {
    "key": "u15970",
    "en": "Evacuate Terra Nova",
-   "tr": "",
+   "tr": "Terra Nova'yı tahliye et",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -974,7 +974,7 @@
   {
    "key": "u15971",
    "en": "That's all I need to know.",
-   "tr": "",
+   "tr": "Bilmem gereken bu kadar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -982,7 +982,7 @@
   {
    "key": "u15973",
    "en": "Good thinking.",
-   "tr": "",
+   "tr": "İyi düşünce.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -990,7 +990,7 @@
   {
    "key": "u15974",
    "en": "Made things tougher for me.",
-   "tr": "",
+   "tr": "İşimi zorlaştırdı.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -998,7 +998,7 @@
   {
    "key": "u15975",
    "en": "Simon. Simon Atwell. I'm the chief engineer on this rock.",
-   "tr": "",
+   "tr": "Simon. Simon Atwell. Bu kayanın baş mühendisiyim.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1006,7 +1006,7 @@
   {
    "key": "u15976",
    "en": "X57 is 22 kilometers long. Twice the size of the asteroid that wiped out the Earth's dinosaurs. It would be like millions of fusion bombs striking at once. Millions.",
-   "tr": "",
+   "tr": "X57 22 kilometre uzunluğunda. Dünya'daki dinozorları yok eden asteroidin iki katı. Aynı anda çarpan milyonlarca füzyon bombası gibi olur. Milyonlarca.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1014,7 +1014,7 @@
   {
    "key": "u15977",
    "en": "The heat of the blast... a thousand kilometers away, clothes will ignite. There'll be global wildfires. Air shock will flatten everything for hundreds of kilometers.",
-   "tr": "",
+   "tr": "Patlamanın sıcaklığı... bin kilometre ötede giysiler tutuşacak. Küresel orman yangınları çıkacak. Hava şoku yüzlerce kilometre boyunca her şeyi yerle bir edecek.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1022,7 +1022,7 @@
   {
    "key": "u15978",
    "en": "Terra Nova will die, Shepard. Not just our colony -- the planet. There'll be a climate shift. Mass extinctions. The ecosystem won't recover for thousands of years. Millions, maybe.",
-   "tr": "",
+   "tr": "Terra Nova ölecek Shepard. Sadece kolonimiz değil -- gezegen. İklim kayması olacak. Kitlesel yok oluşlar. Ekosistem binlerce yıl toparlanamaz. Belki milyonlarca.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1030,7 +1030,7 @@
   {
    "key": "u15979",
    "en": "That would be even worse! Tsunamis would sweep inland at hundreds of kilometers per hour.",
-   "tr": "",
+   "tr": "Bu daha da kötü olurdu! Tsunamiler saatte yüzlerce kilometre hızla karaya girerdi.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1038,7 +1038,7 @@
   {
    "key": "u15980",
    "en": "Millions of tons of water would be vaporized at the point of impact. Global cloud coverage. The plants could all die. And if they go, the whole ecosystem rolls over.",
-   "tr": "",
+   "tr": "Çarpma noktasında milyonlarca ton su buharlaşacak. Küresel bulut örtüsü. Tüm bitkiler ölebilir. Onlar giderse tüm ekosistem çöker.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1046,7 +1046,7 @@
   {
    "key": "u15981",
    "en": "I-- I'd have to run the numbers, but take my word for it: it'd be bad.",
-   "tr": "",
+   "tr": "Ben-- Hesapları yapmam gerekir ama bana güven: kötü olur.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1054,7 +1054,7 @@
   {
    "key": "u15982",
    "en": "I've heard all the stories. Slave rings ranching people like animals. Pirate bands burning colonies to the ground.",
-   "tr": "",
+   "tr": "Tüm hikâyeleri duydum. İnsanları hayvan gibi besleyen köle çeteleri. Kolonileri yakıp yıkan korsan grupları.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1062,7 +1062,7 @@
   {
    "key": "u15983",
    "en": "But this is.... The Citadel Conventions forbid asteroid drops. I never thought the batarians would go this far.",
-   "tr": "",
+   "tr": "Ama bu.... Citadel Sözleşmeleri asteroit düşürmeyi yasaklıyor. Batarian'ların bu kadar ileri gideceğini hiç düşünmemiştim.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1070,7 +1070,7 @@
   {
    "key": "u15984",
    "en": "I know you're scared. But I'm here to help. Commander Shepard, with the Alliance.",
-   "tr": "",
+   "tr": "Korktuğunu biliyorum. Ama yardım etmeye geldim. Komutan Shepard, İttifak'tan.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1078,7 +1078,7 @@
   {
    "key": "u15985",
    "en": "I'm here to help. Commander Shepard, of the Alliance frigate Normandy.",
-   "tr": "",
+   "tr": "Yardım etmeye geldim. İttifak firkateyni Normandy'den Komutan Shepard.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1086,7 +1086,7 @@
   {
    "key": "u15986",
    "en": "I don't have time to do the math in my head. What happens if we don't stop this rock?",
-   "tr": "",
+   "tr": "Hesabı kafamdan yapacak vaktim yok. Bu kayayı durdurmazsak ne olur?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1094,7 +1094,7 @@
   {
    "key": "u15987",
    "en": "Is there any chance it'll land in the oceans?",
-   "tr": "",
+   "tr": "Okyanuslara düşme ihtimali var mı?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1102,7 +1102,7 @@
   {
    "key": "u15988",
    "en": "The people back on Earth haven't been paying attention. Again. The batarians burned my home to the ground twenty years ago. They don't change.",
-   "tr": "",
+   "tr": "Dünya'daki insanlar yine dikkat etmiyordu. Batarian'lar yirmi yıl önce evimi yakıp yıktı. Değişmiyorlar.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1110,7 +1110,7 @@
   {
    "key": "u15989",
    "en": "I guess batarians are as bad as they say.",
-   "tr": "",
+   "tr": "Sanırım batarian'lar söylendiği kadar kötü.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1118,7 +1118,7 @@
   {
    "key": "u15990",
    "en": "This doesn't make any sense. Batarians run criminal gangs. Unethical, but profitable. They don't destroy worlds. What does this gain them?",
-   "tr": "",
+   "tr": "Bu hiç mantıklı değil. Batarian'lar suç çeteleri yönetir. Etik dışı ama kârlı. Dünyaları yok etmezler. Bundan ne kazanıyorlar?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1126,7 +1126,7 @@
   {
    "key": "u15991",
    "en": "Just be more careful.",
-   "tr": "",
+   "tr": "Sadece daha dikkatli ol.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1134,7 +1134,7 @@
   {
    "key": "u15992",
    "en": "I'm on your side.",
-   "tr": "",
+   "tr": "Senin tarafındayım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1142,7 +1142,7 @@
   {
    "key": "u15993",
    "en": "How bad is this going to be?",
-   "tr": "",
+   "tr": "Bu ne kadar kötü olacak?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1150,7 +1150,7 @@
   {
    "key": "u15994",
    "en": "What if it lands in the water?",
-   "tr": "",
+   "tr": "Ya suya düşerse?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1158,7 +1158,7 @@
   {
    "key": "u15995",
    "en": "Typical batarian move.",
-   "tr": "",
+   "tr": "Tipik batarian hamlesi.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1166,7 +1166,7 @@
   {
    "key": "u15996",
    "en": "Alien bastards.",
-   "tr": "",
+   "tr": "Uzaylı piçler.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1174,7 +1174,7 @@
   {
    "key": "u15997",
    "en": "Why would they do this?",
-   "tr": "",
+   "tr": "Bunu neden yapsınlar?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1182,7 +1182,7 @@
   {
    "key": "u15998",
    "en": "Yeah, I guess you're right. Is there anything else I can tell you?",
-   "tr": "",
+   "tr": "Evet, sanırım haklısın. Başka söyleyebileceğim bir şey var mı?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1190,7 +1190,7 @@
   {
    "key": "u15999",
    "en": "These batarians are ruthless. I saw them smash the faceplates of guys working vacuum. And those varren... I don't think they always wait for a corpse before feeding.",
-   "tr": "",
+   "tr": "Bu batarian'lar acımasız. Vakumda çalışan adamların yüz camlarını parçaladıklarını gördüm. Ve o varren'ler... yemeden önce cesedi bekledikleri sanmıyorum.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1198,7 +1198,7 @@
   {
    "key": "u16000",
    "en": "Easiest thing would be to tap into the transmission tower out on the surface. The equipment stations will show up on your sensors.",
-   "tr": "",
+   "tr": "En kolayı yüzeydeki iletim kulesine bağlanmak. Ekipman istasyonları sensörlerinde görünecek.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1206,7 +1206,7 @@
   {
    "key": "u16001",
    "en": "Oh. I-- I see. Well, then. I guess it's better than not knowing.",
-   "tr": "",
+   "tr": "Ah. Ben-- Anlıyorum. Neyse. Bilmemekten iyidir sanırım.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC",
     "BIOA_UNC52_05_DSG_LOC"
@@ -1215,7 +1215,7 @@
   {
    "key": "u16002",
    "en": "I-- I see. Well. Maybe the last is still out there. We can hope, right?",
-   "tr": "",
+   "tr": "Ben-- Anlıyorum. Neyse. Belki sonuncusu hâlâ dışarıdadır. Umut edebiliriz, değil mi?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1223,7 +1223,7 @@
   {
    "key": "u16003",
    "en": "I-- I see. Well. Maybe the other two are still out there. You never know.",
-   "tr": "",
+   "tr": "Ben-- Anlıyorum. Neyse. Belki diğer ikisi hâlâ dışarıdadır. Bilemezsin.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1231,7 +1231,7 @@
   {
    "key": "u16004",
    "en": "There were a bunch of engineers over at the main facility, but they're probably all dead. That, or being held hostage by the batarians.",
-   "tr": "",
+   "tr": "Ana tesiste bir sürü mühendis vardı ama muhtemelen hepsi öldü. Ya da batarian'lar tarafından rehin tutuluyor.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1239,7 +1239,7 @@
   {
    "key": "u16005",
    "en": "Katie's alive?",
-   "tr": "",
+   "tr": "Katie hayatta mı?",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1247,7 +1247,7 @@
   {
    "key": "u16006",
    "en": "Yeah, I know. It's just-- this isn't how I expected the world to be when I rolled out of bed this morning.",
-   "tr": "",
+   "tr": "Evet, biliyorum. Sadece-- bu sabah yataktan kalktığımda dünyanın böyle olmasını beklemiyordum.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1255,7 +1255,7 @@
   {
    "key": "u16007",
    "en": "They landed at the main facility. It's locked down now; they changed the pass codes. No idea what's going on inside.",
-   "tr": "",
+   "tr": "Ana tesise indiler. Şimdi kilitli; geçiş kodlarını değiştirdiler. İçeride ne olduğu hakkında hiçbir fikrim yok.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
@@ -1263,7 +1263,7 @@
   {
    "key": "u16008",
    "en": "The batarians aren't stupid. If they made a policy of this, the Council would declare war on them.",
-   "tr": "",
+   "tr": "Batarian'lar aptal değil. Bunu politika edinirlerse Konsey onlara savaş ilan eder.",
    "ctx": [
     "BIOA_UNC52_01_DSG_LOC"
    ]
