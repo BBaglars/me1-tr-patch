@@ -44,8 +44,8 @@ static void Usage()
           Reads <pkgs> packages (*_LOC_<pkgs>.pcc, Startup_<pkgs>.pcc), writes one JSON per package into <out>.
           --text selects which language's TLK exports are read (INT = tlk/tlk_M, DE = tlk_DE/tlk_M_DE). Default: text = pkgs.
   import  --src <dir with original packages> --json <dir with translated JSON> --out <staging dir>
-          [--pkgs DE|INT] [--target DE[,INT]] [--only <substr>]
-          Opens COPIES of <src>/<stem>_<pkgs>.pcc, writes tr into the tlk_<target>/tlk_M_<target> exports (default DE), saves to <out>.
+          [--pkgs INT|DE] [--target <default: same as --pkgs>[,..]] [--only <substr>]
+          Opens COPIES of <src>/<stem>_<pkgs>.pcc, writes tr into the tlk_<target>/tlk_M_<target> exports (default: same language as --pkgs, INT = plain tlk/tlk_M), saves to <out>.
   inspect <package.pcc>   Lists BioTlkFile exports.
   toc     --toc <original PCConsoleTOC.bin> --staged <dir with patched packages> --out <new PCConsoleTOC.bin>
           Copies the TOC, setting the size of every entry whose file name exists in <staged> to that file's length.
@@ -163,7 +163,7 @@ static int Export(string[] a)
 static int Import(string[] a)
 {
     string src = Arg(a, "--src"), json = Arg(a, "--json"), outDir = Arg(a, "--out");
-    string pkgs = Arg(a, "--pkgs", "DE"), target = Arg(a, "--target", "DE"), only = Arg(a, "--only");
+    string pkgs = Arg(a, "--pkgs", "INT"), target = Arg(a, "--target", pkgs), only = Arg(a, "--only");
     if (src == null || json == null || outDir == null) { Usage(); return 1; }
     string fs = Path.GetFullPath(src).TrimEnd('\\'), fo = Path.GetFullPath(outDir).TrimEnd('\\');
     if (fo.Equals(fs, StringComparison.OrdinalIgnoreCase) || fo.StartsWith(fs + "\\", StringComparison.OrdinalIgnoreCase))
