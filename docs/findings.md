@@ -39,3 +39,13 @@ Not done: string and word counts (waiting on the export tool).
 Toolsmith finding, relayed by the investigator: every `*_LOC_INT.pcc` also contains a `tlk_DE` export. With text language Deutsch and English VO enabled, the game may read German text from the INT packages instead of the `_LOC_DE.pcc` ones. If so, patching only the DE packages shows no Turkish.
 
 t33 must check which package set the game reads. If it reads INT, apply the same `tlk_DE` / `tlk_M_DE` patch to staged copies of the `*_LOC_INT.pcc` files too. That would also cover the 59 INT-only LOC files.
+
+## Offline glyph check (t33, toolsmith)
+- Method: `Me1Tlk swf <pkg> <dir>` dumps the GFxMovieInfo RawData of a package; `tools/swf_fonts.py` parses the DefineFont2/3 code tables.
+- Startup_INT/DE/GE/PLPC all carry the same `GUI_SF_Fonts_Fonts.swf` (identical MD5, 7,042,785 bytes). It holds three fonts: `Biomass_jpn` (7255 glyphs), `Tigensu_jpn` (7345), `Myriad Pro+DFGGothicP-W5` (7840).
+- All three contain every needed code point: Ğ ğ İ ı Ş ş Ç ç Ö ö Ü ü (parser sanity: Hiragana present, Thai absent). `gfxfontlib.swf` in Launcher\Content\fonts also has them.
+- Verdict: glyphs very likely render without any font work (fallback 0). Fallbacks 1-3 above stay as plan B; the in-game test below still confirms the language slot, which package set is read, and TOC acceptance.
+
+## In-game test set (glyphtest/)
+- Staging (not committed, 91 MB, rebuild with the commands in BUILD.md): `glyphtest/staging/CookedPCConsole/{Startup_DE,Startup_GE,BIOA_PRO10_00_DSG_LOC_DE,BIOA_PRO10_00_DSG_LOC_INT}.pcc` + `glyphtest/staging/PCConsoleTOC.bin` (4 sizes updated).
+- Startup_DE and Startup_GE: menu words (Options, Continue, Cancel, Back, Yes, No, Exit, Load/Save Game, Resume, Accept, Credits, Quit; 140 ids) become `TR <Turkish word> ĞğİıŞşÇçÖöÜü`. BIOA_PRO10_00_DSG: all 52 strings become `TR ĞğİıŞşÇçÖöÜü | Merhaba komutan, güvenli bölgeye çıkın. <English start>`; mirrored into tlk_DE of the LOC_INT package.

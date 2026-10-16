@@ -26,6 +26,7 @@ switch (args[0])
     case "import": return Import(args);
     case "inspect": return Inspect(args);
     case "toc": return Toc(args);
+    case "swf": return Swf(args);
     default: Usage(); return 1;
 }
 
@@ -270,4 +271,24 @@ static int Toc(string[] a)
     File.WriteAllBytes(outp, tbf.Save().ToArray());
     Console.WriteLine($"TOC written: sizeChanged={changed} sizeUnchanged={same} stagedFilesWithoutEntry={notInToc}");
     return notInToc > 0 ? 3 : 0;
+}
+
+// swf <package.pcc> <outDir>: lists class counts and dumps RawData of SwfMovie/GFxMovieInfo exports (read-only).
+static int Swf(string[] a)
+{
+    var p = MEPackageHandler.OpenMEPackage(a[1], forceLoadFromDisk: true);
+    Directory.CreateDirectory(a[2]);
+    foreach (var g in p.Exports.GroupBy(e => e.ClassName).OrderByDescending(g => g.Count()).Take(12)) Console.WriteLine($"class {g.Key}: {g.Count()}");
+    int n = 0;
+    foreach (var e in p.Exports.Where(x => x.ClassName is "GFxMovieInfo" or "SwfMovie"))
+    {
+        var raw = e.GetProperty<LegendaryExplorerCore.Unreal.ImmutableByteArrayProperty>("RawData");
+        if (raw == null) continue;
+        var bytes = raw.Bytes;
+        var file = Path.Combine(a[2], e.InstancedFullPath.Replace('.', '_') + ".swf");
+        File.WriteAllBytes(file, bytes);
+        Console.WriteLine($"  {e.InstancedFullPath}: {bytes.Length} bytes -> {file}");
+        n++;
+    }
+    return 0;
 }
