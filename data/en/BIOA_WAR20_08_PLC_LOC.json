@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "package": "BIOA_WAR20_08_PLC_LOC_INT.pcc",
+    "stem": "BIOA_WAR20_08_PLC_LOC",
+    "textLang": "INT",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171638",
+      "en": "Stand by, shore party.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171639",
+      "en": "Equalizing interior pressure with exterior atmosphere.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171640",
+      "en": "Logged: the Commanding Officer is ashore. XO Pressly has the deck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171641",
+      "en": "Decontamination in progress.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR20_08_PLC_LOC|nor20_trig04_airlock_D|171642",
+      "en": "Logged: the Commanding Officer is aboard. XO Pressly stands relieved.",
+      "tr": ""
+    }
+  ]
+}

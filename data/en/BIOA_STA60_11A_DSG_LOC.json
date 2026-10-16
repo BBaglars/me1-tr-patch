@@ -1,0 +1,630 @@
+{
+  "meta": {
+    "package": "BIOA_STA60_11A_DSG_LOC_INT.pcc",
+    "stem": "BIOA_STA60_11A_DSG_LOC",
+    "textLang": "INT",
+    "sets": 5
+  },
+  "entries": [
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|145642",
+      "en": "You must talk to the Council to gain access to the Wards.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|148499",
+      "en": "The keeper scan has been uploaded to the database.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|148500",
+      "en": "You do not have the proper keycard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|163019",
+      "en": "Get to the Quarian and warn her before it's too late!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139806",
+      "en": "Anybody got a spare credit? Credits for a vet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139807",
+      "en": "Hey, what's your story, buddy?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139808",
+      "en": "Anybody got tram fare? I have to get to another ward.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139809",
+      "en": "I've only got 20. Think that's enough for whisky?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139810",
+      "en": "Think I'm starting to get the shakes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139812",
+      "en": "Hey. Hey! You're the Shepard kid!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139813",
+      "en": "C'mon, just talk to me a minute!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139814",
+      "en": "You don't remember me, do you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140180",
+      "en": "Hey, back again, eh? Don't suppose you got any credits to spare?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140181",
+      "en": "Did she? I wonder.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140182",
+      "en": "What's to talk about, kid?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140183",
+      "en": "Why? You think you've got something profound to say about it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140184",
+      "en": "People tied like prize hogs. Locked in cages, clawing and screaming as they're loaded into cargo pods.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140185",
+      "en": "And we couldn't reach them. The batarian defenses had us pinned. Dozens died trying to advance. All we could do was watch as they hauled people away.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140186",
+      "en": "I've been looking for 13 years for something to make that sight go away. What have you got? Huh?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140187",
+      "en": "What? You think I drink because I like lying in the gutter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140188",
+      "en": "If you don't have a better option, just give me 20 credits. A good bottle of whisky. Enough to stop the dreams.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140189",
+      "en": "Great. Sixty meals of ramen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140190",
+      "en": "All right. Thanks. You're trying to help. I guess.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140191",
+      "en": "Tell your mom I said hi, okay?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140192",
+      "en": "The VAO--? God. If she wants me to go talk to someone, fine. I'll do it. For her. She always stuck up for me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140193",
+      "en": "Heh. She always was naive. All the VAO does is pump you full of chemicals.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140194",
+      "en": "Yeah. Thanks for the help.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140195",
+      "en": "You don't want to help, fine. I'll go to the damn VAO. Got nothing else to do but talk about my \"feelings.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140196",
+      "en": "You've got a smart mouth, kid. Funny how your mom never mentioned that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140197",
+      "en": "If she wants to talk, tell her she can reach me through the Citadel VAO.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140198",
+      "en": "Damn right it is.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140199",
+      "en": "Yeah, right. So we all have it tough, huh? I get what you're saying.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140200",
+      "en": "Don't worry about me, kid. I won't bother you again. Tell your mom I said hi.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140202",
+      "en": "No batarians come here, you know? That's good. Good.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140203",
+      "en": "You ever just sit and watch people? You can learn a lot.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140204",
+      "en": "Thanks for the credits, kid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140205",
+      "en": "I'll be fine. Don't worry about me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140206",
+      "en": "Hey. Been a long time, huh?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140207",
+      "en": "No, no. I knew your parents, kid!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140208",
+      "en": "I guess you don't remember me. Lieutenant Zabaleta? I worked with your mother.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140209",
+      "en": "We served on the carrier Einstein. That was 12, 13 years back. You were just a kid then.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140210",
+      "en": "\"Retired,\" yeah. You know how it is. Times are tough for vets. They always are.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140212",
+      "en": "Hey, call your mom up and ask. She'd remember old Zabaleta. She'd vouch for me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140213",
+      "en": "Listen. I need a favor. I'm kind of short on money these days. I hate hitting you up for money, but a man's gotta eat, right?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140214",
+      "en": "So, uh, could you spare something? Maybe 20 credits?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140215",
+      "en": "Hey, you're a good kid, you know that? Thanks.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140216",
+      "en": "Nah, nah. I'll just get a-- a meal. You know.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140219",
+      "en": "I'm not a bad guy, kid. Just took my share of lumps. Don't judge me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140220",
+      "en": "Yeah, that's okay. I get it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140221",
+      "en": "You ever want to come by and talk, I'll be here. Heh. Can't afford a ticket home, right?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140222",
+      "en": "I spoke to my mother. She told me about what happened on Mindoir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140224",
+      "en": "Already hitting me up for money? I came here to talk about Mindoir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140226",
+      "en": "I heard you were at Mindoir. I wanted to talk about what you saw.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140230",
+      "en": "I'm not going to give you money to drink yourself to death. You need to stop this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140231",
+      "en": "Right. Because forgetting is much easier than dealing with it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140232",
+      "en": "I can't help you if you don't want to be helped. Do you really want to get over what you saw?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140234",
+      "en": "I'm not going to give you money to blow on booze. I'll give you a line of credit at a grocery store.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140238",
+      "en": "My mother said to go to the Veteran's Affairs Office. You're not the only one who's seen that brand of hell. They can help.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140241",
+      "en": "Like I'm going to waste good money on you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140243",
+      "en": "You want to play the martyr, whine to the other bums. You want to get better, try the Veteran's Office. We've got seven million vets. Someone else has been through this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140247",
+      "en": "If booze is all you want, fine. It's your choice.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140249",
+      "en": "Would if I could, but I'm between paydays myself.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140253",
+      "en": "I'm sorry. Do we know each other?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140254",
+      "en": "Someone else who \"knows\" me now that I'm famous. We go to kindergarten together or something?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140256",
+      "en": "Have we met?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140258",
+      "en": "I didn't see her much that tour. The ship was on patrol most of the time.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140259",
+      "en": "I guess you're not in the service anymore, huh?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140261",
+      "en": "And you expect me to just take your word for that?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140262",
+      "en": "Sorry, I don't remember you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140265",
+      "en": "Yeah, it's not a problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140267",
+      "en": "Twenty isn't enough to get you back on your feet, is it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140270",
+      "en": "You're barking up the wrong Shepard. Maybe my mother would help you. I think you'll just blow it on booze.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140272",
+      "en": "Sorry, I don't have that much right now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140273",
+      "en": "Sorry, I don't have that much right now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140276",
+      "en": "You did know my mother.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140277",
+      "en": "Is that all you think about?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140278",
+      "en": "Tell me about Mindoir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140284",
+      "en": "You need help.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140285",
+      "en": "Nice attitude.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140286",
+      "en": "Work with me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140288",
+      "en": "I'll give you 20 for food.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140289",
+      "en": "The Veteran's Affairs Office",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140290",
+      "en": "Screw you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140291",
+      "en": "\"No one understands! Waaah!\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140292",
+      "en": "Take the money.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140293",
+      "en": "I don't have 20 credits.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140307",
+      "en": "Who are you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140308",
+      "en": "What do you want?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140309",
+      "en": "It has?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140312",
+      "en": "The Einstein, you said?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140313",
+      "en": "You don't look like a soldier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140314",
+      "en": "This is bull.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140315",
+      "en": "Your name doesn't ring a bell.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140319",
+      "en": "I'll give you the money.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140320",
+      "en": "Is 20 enough?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140322",
+      "en": "You're just a drunk.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140323",
+      "en": "[LIE] I don't have 20.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140324",
+      "en": "I don't have 20.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84441",
+      "en": "So, how are you liking your posting at the Academy?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84442",
+      "en": "Yeah, it's the busiest station on the Citadel. You'll never get bored.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84443",
+      "en": "I guess not, but you could still use a few more men.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84444",
+      "en": "That's why we brought you here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84445",
+      "en": "Sure, but there's still way more complaints than the officers can handle.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84446",
+      "en": "That's just life near the wards, kid. You'll get used to it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84448",
+      "en": "He always stops in for a few games of quasar before he makes his drop.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84449",
+      "en": "Fist is gonna be pissed if we take down his supplier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84450",
+      "en": "That's the point. We want him angry. Angry people make mistakes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84451",
+      "en": "There's just something about Fist that makes me nervous.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84452",
+      "en": "Good. He's a dangerous man. Now keep your eyes peeled for our mark.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84453",
+      "en": "What do you say we head down to Chora's Den after shift?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84454",
+      "en": "Sounds good. Some of the others are going for Novillo's farewell thing.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84455",
+      "en": "Damn, I forgot that was today. Where's he going again?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84456",
+      "en": "Noveria. Apparently, they've got a huge demand for corporate security.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84457",
+      "en": "Noveria? Isn't that the frozen planet?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84458",
+      "en": "Yeah, I wouldn't go, but I guess the pay's pretty good.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84459",
+      "en": "Huh.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|104583",
+      "en": "It's good. Busy though. I can't believe how many people you get coming in from the wards.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|113726",
+      "en": "Do you really think we'll find him down here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136938",
+      "en": "Our quarry has employed a hidden relay to redirect their signal. I shall trace the new signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136939",
+      "en": "Looks like whoever it was bounced the signal off a hidden relay. I'll trace the new signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136940",
+      "en": "Looks like they bounced their signal off a relay. I'll trace the new signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136941",
+      "en": "Looks like they bounced their signal off a relay. I'll trace the new signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136942",
+      "en": "Looks like they bounced their signal off a relay. I'll trace the new signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136943",
+      "en": "Looks like a relay. I'll trace the new signal.",
+      "tr": ""
+    }
+  ]
+}

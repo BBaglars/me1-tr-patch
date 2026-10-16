@@ -1,0 +1,945 @@
+{
+  "meta": {
+    "package": "BIOA_UNC52_01_DSG_LOC_INT.pcc",
+    "stem": "BIOA_UNC52_01_DSG_LOC",
+    "textLang": "INT",
+    "sets": 3
+  },
+  "entries": [
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175927",
+      "en": "I'm reading that the torch is offline.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175928",
+      "en": "Was that you? Can you hear me?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175929",
+      "en": "My name's Kate Bowman. I'm an engineer. I was part of the team assigned to bring this asteroid to Terra Nova.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175930",
+      "en": "We were attacked yesterday by batarian extremists. I've been hiding since they arrived.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175931",
+      "en": "I think they know the torch went out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175933",
+      "en": "Thanks. I'll contact you when I can.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175934",
+      "en": "I don't know. But if this asteroid isn't slowed, millions of people on Terra Nova are going to die.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175936",
+      "en": "If I find out anything I'll-- I've got to go. Good luck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175938",
+      "en": "Who are you? What's going on?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175939",
+      "en": "I hear you. What's going on? Who are you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175942",
+      "en": "Stay put. I'll get those other torches offline as soon as I can.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175944",
+      "en": "Why are they doing this?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175948",
+      "en": "Who is this?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175949",
+      "en": "Yes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175952",
+      "en": "I should keep moving.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175953",
+      "en": "What do they want?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178840",
+      "en": "They were running checks on our perimeter equipment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178841",
+      "en": "Yeah, you're right. Saving Terra Nova's more important than my team.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178842",
+      "en": "I heard a couple of them talking, they mentioned a \"Balak.\" It sounded like he's the one in charge.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178843",
+      "en": "I did see groups head out to each of the torch stations. Couldn't say how many, though. Enough to give you a fight.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178844",
+      "en": "They didn't seem convinced this was a good idea, but they were scared of the guy. Scared enough to do what he wanted.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178845",
+      "en": "The idea was to drag it into Terra Nova's orbit, mine it out, and in the end you'd have a basic structure for an orbital station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178846",
+      "en": "It's a lot cheaper than getting everything up in to orbit from the planet's surface. The minerals we extract almost cover the costs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178848",
+      "en": "Evacu--? Shepard, it took 30 years for the population to grow that large.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178849",
+      "en": "I'm sure they're moving people to remote areas, but they'd never be able to get more than a few thousand off-world.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178850",
+      "en": "We just don't have enough ships. No one does. Well, maybe the quarians. But I don't see them suddenly showing up and offering us a ride.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178851",
+      "en": "She's one of my best engineers. She signed on with her brother. Aaron, I think his name is. He's part of the security detail. I hope they're okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178852",
+      "en": "Smart as a whip and bold as they come. I hope she keeps hidden. If they find her...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178853",
+      "en": "Ah, Katie. Don't do anything stupid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178854",
+      "en": "I think I'll make myself scarce in case any batarians come back. Good luck, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178858",
+      "en": "Listen --  we don't have much time. The batarians fired up the fusion torches. You've got to shut them down before we hit Terra Nova!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178859",
+      "en": "There are four million people down there, Shepard. I-- my family. They live in Aronas. My kids and grandkids. Nice community. Good schools...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178867",
+      "en": "We set them up when we arrived at Terra Nova. We use them for excavating. When the batarians landed, I rigged them with proximity detectors.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178868",
+      "en": "Caught a few of those sons-of-bitches by surprise.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178869",
+      "en": "Thanks. I wish I could have done more.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178870",
+      "en": "Sorry about that. I wasn't expecting reinforcements. I just rigged them up, then ran off to hide.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178872",
+      "en": "One of the torches is surrounded by live blasting caps. We were set up to excavate when we arrived at Terra Nova. I rigged them with proximity detectors.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178873",
+      "en": "That tank of yours will set them off, so you'll have to go in on foot. Even then, they'll explode if you get too close. Just go slow and easy and you should be fine.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178874",
+      "en": "Look, you can disable them. Just not remotely. I didn't have the equipment to set it up differently.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178875",
+      "en": "Not from here, no.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178876",
+      "en": "There are manual controls by the entrance to the torch facility, inside the blast zone. You can disarm the caps there.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178878",
+      "en": "One last thing: I had a crew working off-site when the attack hit. I'm worried about them. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178879",
+      "en": "But if you see them while-- No. You're right. Focus on the torches. Sorry.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178883",
+      "en": "Time's running short.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178885",
+      "en": "Four-and-a-half million people are going to die in a few hours. Don't make me trot out some tired platitude about the needs of many versus few.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178886",
+      "en": "I'll look for them. But the torches have to be my priority.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178887",
+      "en": "If I run into your people, I'll do what I can, but the torches have to come first.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178890",
+      "en": "Any idea who's behind this? Who's leading them? That might provide a clue.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178893",
+      "en": "Why were you moving this thing in the first place?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178896",
+      "en": "Give me a worst case scenario. We can't stop the asteroid. Could the colony be evacuated?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178900",
+      "en": "What can you tell me about Kate?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178902",
+      "en": "Time's running short. I better get moving.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178915",
+      "en": "I'm impressed. That was a clever bit of improvisation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178917",
+      "en": "The last thing I needed to deal with was a bunch of explosives. The batarians are bad enough.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178921",
+      "en": "Should I requisition a cow to walk through ahead of me?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178923",
+      "en": "You set them up. Can you disable them?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178930",
+      "en": "Figures.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178931",
+      "en": "Can you shut them off?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178936",
+      "en": "I better get moving.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178938",
+      "en": "They're not a priority.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178939",
+      "en": "I'll do what I can.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178940",
+      "en": "If there's time.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178943",
+      "en": "Batarian leader",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178944",
+      "en": "Asteroid X57",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178945",
+      "en": "Evacuate Terra Nova",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178947",
+      "en": "That's all I need to know.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178954",
+      "en": "Kate Bowman",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178969",
+      "en": "Good thinking.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178970",
+      "en": "Made things tougher for me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179133",
+      "en": "Simon. Simon Atwell. I'm the chief engineer on this rock.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179136",
+      "en": "X57 is 22 kilometers long. Twice the size of the asteroid that wiped out the Earth's dinosaurs. It would be like millions of fusion bombs striking at once. Millions.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179137",
+      "en": "The heat of the blast... a thousand kilometers away, clothes will ignite. There'll be global wildfires. Air shock will flatten everything for hundreds of kilometers.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179138",
+      "en": "Terra Nova will die, Shepard. Not just our colony -- the planet. There'll be a climate shift. Mass extinctions. The ecosystem won't recover for thousands of years. Millions, maybe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179139",
+      "en": "That would be even worse! Tsunamis would sweep inland at hundreds of kilometers per hour.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179140",
+      "en": "Millions of tons of water would be vaporized at the point of impact. Global cloud coverage. The plants could all die. And if they go, the whole ecosystem rolls over.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179141",
+      "en": "I-- I'd have to run the numbers, but take my word for it: it'd be bad.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179143",
+      "en": "I've heard all the stories. Slave rings ranching people like animals. Pirate bands burning colonies to the ground.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179144",
+      "en": "But this is.... The Citadel Conventions forbid asteroid drops. I never thought the batarians would go this far.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179146",
+      "en": "Hey.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179147",
+      "en": "I know you're scared. But I'm here to help. Commander Shepard, with the Alliance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179150",
+      "en": "I'm here to help. Commander Shepard, of the Alliance frigate Normandy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179157",
+      "en": "I don't have time to do the math in my head. What happens if we don't stop this rock?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179161",
+      "en": "Is there any chance it'll land in the oceans?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179164",
+      "en": "The people back on Earth haven't been paying attention. Again. The batarians burned my home to the ground twenty years ago. They don't change.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179165",
+      "en": "I guess batarians are as bad as they say.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179166",
+      "en": "This doesn't make any sense. Batarians run criminal gangs. Unethical, but profitable. They don't destroy worlds. What does this gain them?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179170",
+      "en": "Just be more careful.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179174",
+      "en": "I'm on your side.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179182",
+      "en": "How bad is this going to be?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179186",
+      "en": "What if it lands in the water?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179187",
+      "en": "Typical batarian move.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179188",
+      "en": "Alien bastards.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179189",
+      "en": "Why would they do this?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179261",
+      "en": "Yeah, I guess you're right. Is there anything else I can tell you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179266",
+      "en": "These batarians are ruthless. I saw them smash the faceplates of guys working vacuum. And those varren... I don't think they always wait for a corpse before feeding.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179267",
+      "en": "Easiest thing would be to tap into the transmission tower out on the surface. The equipment stations will show up on your sensors.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179268",
+      "en": "Oh. I-- I see. Well, then. I guess it's better than not knowing.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179269",
+      "en": "I-- I see. Well. Maybe the last is still out there. We can hope, right?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179270",
+      "en": "I-- I see. Well. Maybe the other two are still out there. You never know.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179271",
+      "en": "There were a bunch of engineers over at the main facility, but they're probably all dead. That, or being held hostage by the batarians.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179272",
+      "en": "Katie's alive?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179276",
+      "en": "Yeah, I know. It's just-- this isn't how I expected the world to be when I rolled out of bed this morning.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179277",
+      "en": "They landed at the main facility. It's locked down now; they changed the pass codes. No idea what's going on inside.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179278",
+      "en": "The batarians aren't stupid. If they made a policy of this, the Council would declare war on them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179279",
+      "en": "My opinion: these guys aren't backed by their government. They've got to be working on their own.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179280",
+      "en": "I just don't want the Terra Firma Party using a threat to my home as an excuse to invade somebody else's.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179281",
+      "en": "You were on the ground when this happened. How many batarians have you seen, and where?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179282",
+      "en": "The Conventions only apply to Council-aligned races. The batarian government is a rogue state.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179285",
+      "en": "If the batarians can't keep their own crazies in line, we'll do it for them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179286",
+      "en": "We can worry about who to blame later.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179289",
+      "en": "Batarians everywhere, and I need to shut down all three torches. Anything else I should know?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179293",
+      "en": "Any idea where I can find them?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179295",
+      "en": "I think I found them. Their bodies, anyway.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179297",
+      "en": "I already found two of them. They didn't make it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179299",
+      "en": "I came across a member of your crew. He didn't make it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179304",
+      "en": "A woman named Kate Bowman contacted me. The batarians haven't found her yet.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179306",
+      "en": "You'd better find a good place to hide. If the batarians come back and find you...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179307",
+      "en": "Why was this place surrounded by blasting caps?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179308",
+      "en": "I ran into a field of blasting caps. You know anything about them?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179310",
+      "en": "Stay here. I'm going to go remind some batarians about Mindoir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179311",
+      "en": "Time's running short. I'm going to go punch this mountain into space.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179312",
+      "en": "Most batarians aren't genocidal madmen. But these ones are terrorists.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179314",
+      "en": "They're not all like this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179315",
+      "en": "Enemy numbers",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179316",
+      "en": "Why wouldn't they?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179318",
+      "en": "I understand the situation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179322",
+      "en": "That's no excuse.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179323",
+      "en": "It doesn't matter now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179328",
+      "en": "Where would your crew be?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179329",
+      "en": "It's too late for them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179330",
+      "en": "Two are dead.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179331",
+      "en": "At least one is dead.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179339",
+      "en": "One of them got away.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179341",
+      "en": "Stay out of sight.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179342",
+      "en": "Blasting caps",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179343",
+      "en": "Blasting caps",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179344",
+      "en": "Time for some payback.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179345",
+      "en": "Enough talk.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179355",
+      "en": "Oh, god!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179356",
+      "en": "I didn't mean to... are you hurt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179357",
+      "en": "Sorry. I didn't even realize you were human until... well. Guess I'm not much of a soldier.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179358",
+      "en": "Sorry. I thought you were one of them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179359",
+      "en": "Yeah, okay. I'll remember that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179361",
+      "en": "Takes more than that one shot to bring me down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179362",
+      "en": "You can't go firing your weapon at everything that moves! What the hell's wrong with you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179363",
+      "en": "Here's a tip: two eyes, human. Four eyes, batarian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179364",
+      "en": "Leave the fighting to me from now on. Commander Shepard, Systems Alliance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179365",
+      "en": "My shields took the hit. No damage done. I'm with the Alliance. Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179367",
+      "en": "Don't worry about me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179368",
+      "en": "What were you thinking?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179369",
+      "en": "I'm okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179370",
+      "en": "I am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179371",
+      "en": "Are you blind, or just stupid?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179372",
+      "en": "Forget about it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179373",
+      "en": "Just be more careful.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179374",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179375",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179376",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179377",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179378",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179379",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179380",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179381",
+      "en": "I think that's all I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179382",
+      "en": "Yeah, I think I'll make myself scarce. Good luck, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179627",
+      "en": "The Conventions don't apply.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179108",
+      "en": "Release the varren!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179109",
+      "en": "Look out!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179110",
+      "en": "Take cover.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179111",
+      "en": "Fresh meat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179112",
+      "en": "Harak. Chekt! Chekt!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179113",
+      "en": "Perimeter breached!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179114",
+      "en": "Arm the drones!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179115",
+      "en": "Send the drones in!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179116",
+      "en": "Humans! Take 'em out!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179117",
+      "en": "Balak wants them all dead!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179118",
+      "en": "Alliance military!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179119",
+      "en": "Die, human!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179120",
+      "en": "Filthy human scum!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179121",
+      "en": "Balak's down!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179122",
+      "en": "They got Charn!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179123",
+      "en": "D...d...d...die, human!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179124",
+      "en": "Fall back to base!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179125",
+      "en": "Go! Go! Go!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179126",
+      "en": "Move it!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179127",
+      "en": "Hold the line!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179128",
+      "en": "Death before surrender!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179347",
+      "en": "Attack!",
+      "tr": ""
+    }
+  ]
+}

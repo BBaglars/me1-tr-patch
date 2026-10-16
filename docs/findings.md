@@ -34,3 +34,8 @@ Source: s3-investigator report. VERIFIED = read from files on disk. INFERRED = r
 4. The 59 INT-only LOC files are not covered by a DE patch; the INT-to-DE mapping report (t20) decides.
 
 Not done: string and word counts (waiting on the export tool).
+
+## Addendum: INT packages also hold a German TLK
+Toolsmith finding, relayed by the investigator: every `*_LOC_INT.pcc` also contains a `tlk_DE` export. With text language Deutsch and English VO enabled, the game may read German text from the INT packages instead of the `_LOC_DE.pcc` ones. If so, patching only the DE packages shows no Turkish.
+
+t33 must check which package set the game reads. If it reads INT, apply the same `tlk_DE` / `tlk_M_DE` patch to staged copies of the `*_LOC_INT.pcc` files too. That would also cover the 59 INT-only LOC files.

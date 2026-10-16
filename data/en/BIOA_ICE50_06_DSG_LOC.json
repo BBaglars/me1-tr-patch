@@ -1,0 +1,885 @@
+{
+  "meta": {
+    "package": "BIOA_ICE50_06_DSG_LOC_INT.pcc",
+    "stem": "BIOA_ICE50_06_DSG_LOC",
+    "textLang": "INT",
+    "sets": 4
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152989",
+      "en": "You download the evidence from Lorik's computer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152990",
+      "en": "Quarantine lab locked down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152991",
+      "en": "Fuel lines fixed.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152992",
+      "en": "Mira offline.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152993",
+      "en": "Landlines repaired.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152995",
+      "en": "This door can only be opened by Anoleis' assistant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|152996",
+      "en": "Synthetic Insights lockdown. Authorization Kaira Stirling.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|156875",
+      "en": "Elevator locked down by order of Captain J. Ventralis.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|159157",
+      "en": "Reactor power restored.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|159158",
+      "en": "Not enough power for restart.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|159170",
+      "en": "Memory bypass successful.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|159171",
+      "en": "Electronic locks offline. Please consult station Virtual Intelligence.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|159173",
+      "en": "Connection ports out of sequence. Unable to dock data module.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|159946",
+      "en": "Memory Core 1 damaged. Transfer module stack to Core 2 or 3 to reactivate. Press Escape to Exit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|160950",
+      "en": "This elevator is only accessible to Binary Helix employees.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|160959",
+      "en": "Elevator locked down until purge activated.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|162700",
+      "en": "Emergency exit only.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|162701",
+      "en": "Purge armed.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|162770",
+      "en": "Authorization Required.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|164577",
+      "en": "Maintenance door locked. Authorization required.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|165286",
+      "en": "Hotlabs not accessible.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|171751",
+      "en": "Synthetic Insights security disabled.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|172900",
+      "en": "Repairs incomplete.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice00_popup_text_D|172903",
+      "en": "Core reactivated",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29127",
+      "en": "Online. How may I assist you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29129",
+      "en": "Critical Failure: Loose contaminants in the decontamination chambers. Access to passenger tramways inadvisable.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29130",
+      "en": "Critical Failure: Landline connections are disabled. Passenger tram systems are offline.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29131",
+      "en": "Report complete. Do you have an additional systems status query?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29137",
+      "en": "Access is not recommended. However, authorized personnel may override the lock. You have such authorization.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29138",
+      "en": "Controls for the failsafe systems are located in the security checkpoint outside decontamination.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29140",
+      "en": "Critical systems are operating within normal tolerances. There are 1,473,831 faults in non-critical systems.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29145",
+      "en": "Very well, Commander. Logging you out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29146",
+      "en": "It looks like you're trying to restore this facility. Would you like help?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29148",
+      "en": "This system is monitored to respond to the name \"Mira.\" May I ask your name?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29149",
+      "en": "One moment, please. Council authority confirmed. You are entitled to Secure Access of all systems. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29150",
+      "en": "Please note that queries relating to corporate secrets require Privileged Access. Privileged Access is only available to Binary Helix executives. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29151",
+      "en": "One moment, please. Service record confirmed. Due to the current emergency, you are entitled to Secure Access of all systems. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29153",
+      "en": "To determine the data access available to you. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29167",
+      "en": "This system is ready to process queries. You may access me at any holographic interface within Peak 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29172",
+      "en": "Tell me what happened here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29173",
+      "en": "I need a status report. What systems are down?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29182",
+      "en": "What's this about loose contaminants?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29183",
+      "en": "You won't let us through decon?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29184",
+      "en": "How do I activate the failsafe system?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29185",
+      "en": "What are the landlines, and why are they disabled?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29188",
+      "en": "What would it take to get the decon failsafes operating again?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29190",
+      "en": "Unlock the decontamination chamber.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29192",
+      "en": "The creatures we've encountered here. Did they come from the labs?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29193",
+      "en": "How do I reconnect the landlines?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29196",
+      "en": "That's all I need right now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29197",
+      "en": "You're the virtual intelligence that runs this place?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29199",
+      "en": "Commander Shepard.  I work for the Citadel's Special Tactics and Reconnaissance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29202",
+      "en": "Commander Shepard, Systems Alliance Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29206",
+      "en": "Why do you need to know?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29224",
+      "en": "Help would be great. Who are you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29225",
+      "en": "How do I shut this thing up?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29319",
+      "en": "Connections restored. Processing new data. User alert! Unable to connect to hot lab facilities.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29332",
+      "en": "User alert! The failsafe system is currently inoperable.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29356",
+      "en": "I'm sorry, but I need a more specific query.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29357",
+      "en": "I'm sorry, but I was offline at the time. Shutdown could occur if reactor breach seems likely, or in the case of catastrophic laboratory containment failure.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29360",
+      "en": "Emergency guidelines suggest the frigid environment will kill biological contagions. It may also damage mechanical ones.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29363",
+      "en": "In the event Peak 15 must be sterilized for security purposes, my program and data are purged.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29364",
+      "en": "My systems are permanently disabled. To be \"killed,\" I would need to be alive. I am merely a database program.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29379",
+      "en": "What's the status of Rift Station?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29384",
+      "en": "Tell me what occurred immediately before you shut down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29423",
+      "en": "Give me a status report on the hot labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29430",
+      "en": "Why were you taken offline?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29431",
+      "en": "They kill you if something goes wrong?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29572",
+      "en": "Rift Station has been locked down by the staff. There are presently no contaminants within the facility.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29573",
+      "en": "Yes, though the number of personnel is below the official staff count.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29574",
+      "en": "I am sorry. The network connections to the labs have been damaged. Data is limited.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29583",
+      "en": "I'm sorry, Commander. Inquiries related to our research require Privileged Access. Only executives of Binary Helix have that level of clearance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29584",
+      "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29585",
+      "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29586",
+      "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29587",
+      "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29588",
+      "en": "Turn off the heat, and hope the cold puts whatever you have unleashed to sleep.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29594",
+      "en": "Stage I alert issued at hot labs. Contaminants released from Laboratory Pod Gamma. Emergency protocols implemented.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29595",
+      "en": "Stage II alert issued at hot labs. Isolation Tube breached. Trams shut down. Landline to Hot Labs disconnected.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29596",
+      "en": "Stage III alert issued locally. Contaminants in tram tunnels. Station shutdown and evacuation initiated. Code Omega sent.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29598",
+      "en": "I'm sorry, Commander. Inquiries related to our research require Privileged Access. Only executives of Binary Helix have that clearance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29603",
+      "en": "The staff is alive, then?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29620",
+      "en": "What sort of \"contaminants\" escaped?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29715",
+      "en": "Online. Connected to subsidiary facilities. How may I assist you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29716",
+      "en": "Emergency procedures require each facility to isolate itself to prevent the spread of contagion.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29717",
+      "en": "It would also appear that there are several employees quarantined for medical treatment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29718",
+      "en": "The passenger trams can bring you to the facility. Further access will be at the discretion of the security forces there.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29720",
+      "en": "There is a hardware fault in the control system. This can be repaired on-site using a standard omni-tool.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29732",
+      "en": "User alert. Contaminants are present within the decontamination chambers. Passage is not recommended.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29733",
+      "en": "Very well, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29737",
+      "en": "Unfortunately, the failsafe system is disabled at this time.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29742",
+      "en": "Why is Rift Station locked down?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29744",
+      "en": "If it's locked down, will I be able to enter?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29756",
+      "en": "Override. Open the doors now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29758",
+      "en": "How do I get rid of the contaminants?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29760",
+      "en": "What's the problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29762",
+      "en": "I don't have time for this. Override and open the doors.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29765",
+      "en": "I'm afraid not. My last log entry is shortly after the Stage II containment alert was sounded.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|29768",
+      "en": "You have no idea what's going on inside?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|31433",
+      "en": "The hot labs isolate dangerous biological or cybernetic contaminants during development.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|31434",
+      "en": "The complex is built within a glacier. In the event of an accident, it can be irradiated and sunk into the ice.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|31437",
+      "en": "Give me an overview of the facility.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|35751",
+      "en": "Lady Benezia departed on the passenger tramway to the Rift Station subsidiary labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|35753",
+      "en": "User alert! The tramway system is currently inoperable.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|35756",
+      "en": "I need to find Matriarch Benezia.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40918",
+      "en": "Rift Station",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40919",
+      "en": "Hot Labs",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40921",
+      "en": "Facility overview",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40923",
+      "en": "Internal status",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40926",
+      "en": "I'm in a hurry.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40930",
+      "en": "How would I fix it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40931",
+      "en": "Just open it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40932",
+      "en": "How do I fix them?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40933",
+      "en": "Hostile creatures",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40934",
+      "en": "Other topics.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40935",
+      "en": "Why can't I leave?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40937",
+      "en": "Log out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40959",
+      "en": "Do it anyway.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40960",
+      "en": "What do you recommend?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40963",
+      "en": "Can it be fixed?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40964",
+      "en": "Override.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40968",
+      "en": "Your shutdown",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40970",
+      "en": "Your final logs",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40980",
+      "en": "They kill you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|40996",
+      "en": "Contaminants",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41004",
+      "en": "Loose contaminants?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41005",
+      "en": "What landlines?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41011",
+      "en": "You won't let us out?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41012",
+      "en": "How do I activate the purge?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41053",
+      "en": "You're the station VI?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41054",
+      "en": "Yes, I would.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41055",
+      "en": "Crap, a pop-up.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41057",
+      "en": "I'm a Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41058",
+      "en": "I'm Alliance Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41059",
+      "en": "For what purpose?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41085",
+      "en": "Staff",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41086",
+      "en": "Locked down",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|41087",
+      "en": "Can I get in?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|85570",
+      "en": "Basic Access is limited to non-secure queries. Secure Access allows most system functions. Privileged Access is available only to executives of Binary Helix.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|85571",
+      "en": "I need instructions on how to repair the station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|85573",
+      "en": "Give me a damage report.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|94588",
+      "en": "One moment, please. Diagnostics in progress.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|94589",
+      "en": "What's the situation here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|94591",
+      "en": "Give me a damage report.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|102729",
+      "en": "Releasing safeties. Proceed at your discretion.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|118421",
+      "en": "Can I get rid of them?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149336",
+      "en": "What should I do?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149698",
+      "en": "Critical Failure: Main reactor shut down in accordance with emergency containment procedures. Manual restart required.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149700",
+      "en": "The landlines connect my mainframes here at Central Station to the various sub-facilities of Peak 15.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149701",
+      "en": "This allows the crew to remotely access my databases from the comfort and security of their labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149702",
+      "en": "Dangerous biological agents are present in the tramway decontamination chamber.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149703",
+      "en": "The tram station has been sealed in the interest of crew safety. Activation of the failsafe plasma jets is recommended prior to access.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149705",
+      "en": "Do you know why the reactor was shut down?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149708",
+      "en": "What do I need to do to get the power back on?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149710",
+      "en": "The main reactor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149719",
+      "en": "Just open the door.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149722",
+      "en": "How would I fix that?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149862",
+      "en": "When emergency protocols were implemented within the hot labs, the cabling was automatically ejected.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149865",
+      "en": "The valves to the helium-3 fuel line must be opened. This can be done at the controls on the reactor assembly proper.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149866",
+      "en": "The landlines are designed for easy reconnection.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149867",
+      "en": "The router for the landlines is on the roof of Operations. Simply activate the controls, and the hardware will reconnect and reboot automatically.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|149868",
+      "en": "The chamber is equipped with failsafe system which vents a 5000-degree Kelvin plasma. This is sufficient to sterilize any potential contagion.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|158800",
+      "en": "That makes sense.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_mira_D|166993",
+      "en": "Where's Benezia?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149311",
+      "en": "A backup power system, Shepard. Must be for the station mainframe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149312",
+      "en": "A backup power system, Commander. It must be for the station's mainframe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149313",
+      "en": "Shepard, that is a backup power system for the station mainframe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149314",
+      "en": "A backup power system, Commander. Must be for the station mainframe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149315",
+      "en": "A backup power system, Shepard. Must be for the station mainframe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149316",
+      "en": "So whack it and turn this thing on.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149317",
+      "en": "Can we fix it? Get this place back online?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149318",
+      "en": "We could probably get it back online.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149319",
+      "en": "The damage is not extensive. It could be repaired.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig04_mira_off_D|149320",
+      "en": "It should be easy to fix it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE50_06_DSG_LOC|ice50_trig10_mira_bsod_D|28242",
+      "en": "Critical startup error. Virtual Intelligence user interface offline. Manual boot required.",
+      "tr": ""
+    }
+  ]
+}

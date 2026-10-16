@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "package": "BIOA_LOS00_Bridge_CIN_LOC_INT.pcc",
+    "stem": "BIOA_LOS00_Bridge_CIN_LOC",
+    "textLang": "INT",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|31483",
+      "en": "Activate the defenses! Seal the station!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|31484",
+      "en": "The arms aren't moving! Systems not responding!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|31485",
+      "en": "Abandon the Citadel! Evacuate the Council!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|99878",
+      "en": "Open the mass relays. The fleet needs reinforcements!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|99879",
+      "en": "The relays are locked! Someone's taken over all the systems!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|134985",
+      "en": "Citadel control! Citadel control! Do you copy?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_LOS00_Bridge_CIN_LOC|los40_oculon_attack_d|134986",
+      "en": "We're getting hammered out here! Why won't you respond? Citadel control? Citadel control!",
+      "tr": ""
+    }
+  ]
+}

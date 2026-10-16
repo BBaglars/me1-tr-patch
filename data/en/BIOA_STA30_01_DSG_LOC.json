@@ -1,0 +1,1580 @@
+{
+  "meta": {
+    "package": "BIOA_STA30_01_DSG_LOC_INT.pcc",
+    "stem": "BIOA_STA30_01_DSG_LOC",
+    "textLang": "INT",
+    "sets": 6
+  },
+  "entries": [
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158682",
+      "en": "You have no available Citadel Rapid Transit destinations.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158683",
+      "en": "Please choose a Citadel Rapid Transit destination.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158686",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158687",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158688",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158690",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158692",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158694",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158696",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158700",
+      "en": "Embassies",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158701",
+      "en": "Exit",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158702",
+      "en": "Citadel Tower",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158704",
+      "en": "Financial District",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158706",
+      "en": "Med Clinic",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158708",
+      "en": "Markets",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158710",
+      "en": "C-Sec",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158852",
+      "en": "Presidium Locations",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158853",
+      "en": "Wards Locations",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158854",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158855",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158856",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158857",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158858",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158859",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158860",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158861",
+      "en": " ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158862",
+      "en": "Presidium Locations",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158863",
+      "en": "Wards Locations",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158864",
+      "en": "Back",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158865",
+      "en": "Consort Chambers",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158866",
+      "en": "Wards Access",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158867",
+      "en": "Back",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158868",
+      "en": "Flux",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|158869",
+      "en": "Chora's Den",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta00_cab_D|159576",
+      "en": "Please choose a Citadel Rapid Transit destination.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106322",
+      "en": "Congratulations, Shepard. Heard they made you a Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106323",
+      "en": "I'm glad somebody got the Council to see Saren for what he really is.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106356",
+      "en": "I resigned from C-Sec after the Council ignored my investigation. I was sick of all the politics.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106357",
+      "en": "You're the only one who seems to be doing anything about Saren. Let me come with you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106358",
+      "en": "Commander Shepard. Have you reconsidered? Do you want me to come with you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106359",
+      "en": "All turians are not the same. I'm not like Saren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106360",
+      "en": "I couldn't prove it in my investigation, but I knew what was really going on. Saren's a traitor to the Council, and a disgrace to my people!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106361",
+      "en": "I'll be here if you change your mind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106362",
+      "en": "Just think about it, Shepard. If you change your mind, come look for me in the C-Sec Academy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106363",
+      "en": "You won't regret this, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106364",
+      "en": "I appreciate that, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106365",
+      "en": "Something I can help you with, Garrus?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106366",
+      "en": "What do you want?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106368",
+      "en": "You're a turian. Why do you want to bring him down?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106369",
+      "en": "I don't need a turian shooting me in the back when I least expect it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106371",
+      "en": "I don't want you on this mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106373",
+      "en": "Welcome aboard, Garrus.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106374",
+      "en": "Thanks.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106375",
+      "en": "What are you doing here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106376",
+      "en": "I'm in a hurry.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106378",
+      "en": "You've made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106379",
+      "en": "Why do you hate Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106380",
+      "en": "Forget it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106381",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106382",
+      "en": "You've made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106384",
+      "en": "You made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_garrus_D|106385",
+      "en": "No.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138101",
+      "en": "Commander Shepard? Sorry to bother you. This is Lieutenant Girard down in the docking bay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138102",
+      "en": "There's a woman here, uh... She was rescued from batarian slavers a few weeks ago. She's from Mindoir. I guess she was taken. In the raid on your town.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138103",
+      "en": "Not really. She's a little messed up.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138104",
+      "en": "Understood, Commander. But she's barricaded herself in the docking bay with a gun. If you have time, we could use your help talking her down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138105",
+      "en": "Yes ma'am. Sorry, ma'am.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138106",
+      "en": "Yes sir. Sorry, sir.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138107",
+      "en": "She got free somehow. Grabbed a gun from one of my guys.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138108",
+      "en": "Now she's holed up here in the docking bay. She, uh-- She says she wants to die.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138109",
+      "en": "I hoped you'd talk to her. It's a long shot, but you went through the same thing. The raid. I figured maybe you could talk her out of her tree. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138110",
+      "en": "I, uh-- Understood, Commander. We'll try to handle her ourselves. Sorry to bother you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138111",
+      "en": "Anything you can do would be great. I don't want to-- She's been through enough. I'll have my men stand by for you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138113",
+      "en": "She's been a slave for the past 13 years? Is she all right?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138115",
+      "en": "I'm busy right now, Lieutenant.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138117",
+      "en": "You mean she was taken in the raid that killed my parents.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138122",
+      "en": "I'm on my way, Lieutenant. Sit tight.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138123",
+      "en": "Lieutenant, if she wants to die, let her die. That's her choice to make. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138125",
+      "en": "I'm not trained for that, but I'll do what I can.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138128",
+      "en": "How can I help?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138129",
+      "en": "Not now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138130",
+      "en": "When my parents died.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138137",
+      "en": "I'll help.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138138",
+      "en": "Let her do it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta20_trig04_remember_me_D|138139",
+      "en": "I'll try.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136025",
+      "en": "Khalisah bint Sinan Al-Jilani, Westerlund News. Would you answer a few questions for our viewers?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136026",
+      "en": "People back home have heard a lot of wild stories about you, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136027",
+      "en": "I can give you the chance to set the record straight. What do you say?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136028",
+      "en": "You've been given a unique position to represent our race. People want to get a sense of how you'll do that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136029",
+      "en": "Your choice, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136030",
+      "en": "I'm sure our viewers will understand.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136031",
+      "en": "Humans have been trying to get the respect of the galactic community for 26 years. With that in mind, what are your feelings on being the first human Spectre?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136032",
+      "en": "Some have said your appointment is the Citadel \"throwing humans a bone.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136033",
+      "en": "Some believe that without firm action on our part, the Council will continue to treat us like \"poor relations.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136034",
+      "en": "But there's a difference between protecting human interests and Citadel interests.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136035",
+      "en": "Have you encountered any situations where the Citadel asked you to place its needs before the needs of Earth?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136036",
+      "en": "You can't just walk away, Commander. The public has a right to know!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136037",
+      "en": "Isn't it true you're just a shill for the Council?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136038",
+      "en": "You really do believe that, don't you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136039",
+      "en": "I think our viewers will be glad to hear that, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136040",
+      "en": "You son of a bitch!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136041",
+      "en": "You bitch!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136042",
+      "en": "I'll make sure everyone in the Alliance sees that! Your career is over!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136043",
+      "en": "That's not quite an answer, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136044",
+      "en": "You've been given command of an advanced human warship for your missions. Is there anything you'd like to say about it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136045",
+      "en": "So the turians have knowledge of the Normandy that is being kept secret from the Alliance public?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136046",
+      "en": "That's gratifying. Many defeatist officers claim that the Alliance can't compete with the naval power of, say, the turians.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136047",
+      "en": "Some members of that crew are aliens, as I recall.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136048",
+      "en": "Do you think it was appropriate to hand Earth's most advanced warship over to the Citadel?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136049",
+      "en": "Human, yes. But you do work for the Citadel now, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136050",
+      "en": "No offense intended, Commander. I'm sure you have to follow the orders of your superiors. Of course, now your superiors are aliens.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136051",
+      "en": "So this was only to help you. In your new job working for the Citadel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136052",
+      "en": "Speaking of your new job, did the Council order you to sabotage human research concern on Noveria?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136053",
+      "en": "That's a surprising revelation, Commander. We've had nothing but stonewalling from Binary Helix.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136054",
+      "en": "It's gratifying to see someone who'll make tough choices to protect the lives of humans.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136055",
+      "en": "So you were there on a mission from the Council? That's very interesting.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136056",
+      "en": "In your opinion, Commander, who should be held responsible for the failure of the colony on Feros?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136057",
+      "en": "If memory serves, ExoGeni mainly invests in worlds where alien artifacts might be uncovered.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136058",
+      "en": "It's curious how often these \"peace-loving\" aliens attack us first. First the turians, and now this species.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136059",
+      "en": "I suppose you'll have to accept the judgment of history, then.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136064",
+      "en": "Given your recent experiences, do you think humanity will ever get the respect it deserves from the galactic community?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136065",
+      "en": "You're an idealist, Commander. But a sincere one. I hope you're right.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136066",
+      "en": "I hope they remember that when they pass the next defense budget.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136067",
+      "en": "One last question, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136068",
+      "en": "Rumors back home say you're tracking a \"rogue Spectre\" named Saren. Do you have any comment on that?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136069",
+      "en": "That's... surprising, Commander. The official line says Eden Prime was attacked by rogue synthetics.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136070",
+      "en": "Strong words. It's a good time for strong words.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136071",
+      "en": "Good luck in your mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136072",
+      "en": "Don't worry. We'll find out. The eyes of Earth are on you. Don't let us down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136073",
+      "en": "Thank you for your time, Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136074",
+      "en": "I'm not in the mood, Miss Al-Jilani.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136075",
+      "en": "What sort of questions?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136077",
+      "en": "What do you want to know?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136079",
+      "en": "I don't have time to justify myself to your viewers. I have a galaxy to save. Excuse me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136081",
+      "en": "So long as you understand that I may not be able to answer all questions.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136083",
+      "en": "The Spectres represent the best of every species in the galaxy. To be asked to join them is an honor.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136085",
+      "en": "We all know it should have happened years ago. I hope the Council realizes that we won't sit at the kids' table forever.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136087",
+      "en": "I try to keep in mind that it's just another form of duty. I still wear a uniform.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136089",
+      "en": "Hold on. It's pretty clear you have an agenda here. I'm not going to be part of it. Excuse me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136092",
+      "en": "The Council is concerned with the needs of whole galactic community. We're part of that community now. Our needs are on their agenda, but we're one of many.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136094",
+      "en": "I think they know not to ask me to work against my own people.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136096",
+      "en": "I've had enough of your snide insinuations.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136100",
+      "en": "The Spectre charter allows me to complete my missions any way I see fit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136102",
+      "en": "Actually, the Normandy was co-developed by human and turian engineers. Its design incorporates many innovations. All of which are classified, I'm afraid.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136104",
+      "en": "The Normandy is a triumph of human engineering. Like our development of fighter carriers, it shows other races that we're able to think \"outside the box.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136106",
+      "en": "Many details are still classified, I'm afraid. I can tell you she's a fine ship, and has the best crew I've ever served with.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136108",
+      "en": "I wasn't aware it had been \"handed over\" to anyone. I'm in command, and last I checked, I'm human. Same goes for my crew.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136110",
+      "en": "Ms. Al-Jilani, I wear the Alliance uniform. And if you think anyone other than me says where the Normandy can go, you're sadly mistaken.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136112",
+      "en": "The Normandy has only been loaned to the Citadel. It's a legal technicality that allows me to use her in my new role as Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136114",
+      "en": "The Council had nothing to do with it. There was an accident at Binary Helix labs. In the interest of protecting the company's confidentiality, I can't say more.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136116",
+      "en": "I made that call to save myself, my crew, and the inhabitants of Noveria. And I'd do it again.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136118",
+      "en": "I'm afraid I can't discuss the details of my missions. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136120",
+      "en": "ExoGeni Corp. settled Feros knowing full well the danger it posed to colonists. You could say they were banking on it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136122",
+      "en": "I can't discuss the particulars, but a previously-undocumented species was discovered in the ruins.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136124",
+      "en": "Me. I resolved the situation to the best of my ability. The results weren't all I hoped for. But I still don't see what I could have done differently.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136132",
+      "en": "Respect's a funny thing. People always assume they deserve it. The truth is, respect is earned. And I firmly believe we can earn it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136134",
+      "en": "Ever read Machiavelli? He believed it's better to be feared than loved. We build a few dozen more dreadnoughts, I guarantee we'll be respected.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136137",
+      "en": "Saren instigated the attack on our colony at Eden Prime. Once his involvement was proven to the Council, I was assigned to bring him in.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136139",
+      "en": "For a long time, the Council sat on their hands with regard to Saren. I have to wonder where their thumbs were.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136142",
+      "en": "I'm afraid I can't comment on whatever my current assignment may or may not be.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136145",
+      "en": "Go away.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136146",
+      "en": "Depends.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136148",
+      "en": "All right.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136149",
+      "en": "I say get stuffed.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136150",
+      "en": "Some topics are classified.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136154",
+      "en": "Honored.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136155",
+      "en": "It's overdue.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136156",
+      "en": "It's just another job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136160",
+      "en": "This interview is over.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136161",
+      "en": "It's not like that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136162",
+      "en": "They know better.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136163",
+      "en": "Time to shut you up!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136164",
+      "en": "They don't question me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136173",
+      "en": "The turians helped build it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136174",
+      "en": "A great human innovation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136175",
+      "en": "She's a fine ship.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136179",
+      "en": "The crew is still Alliance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136180",
+      "en": "I command the Normandy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136181",
+      "en": "That's only a formality.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136185",
+      "en": "There was an accident.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136186",
+      "en": "I blew up the hotlabs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136187",
+      "en": "That's classified.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136191",
+      "en": "ExoGeni.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136192",
+      "en": "The Thorian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136193",
+      "en": "I'm responsible.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136203",
+      "en": "If we earn it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136204",
+      "en": "When we're strong.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136208",
+      "en": "He was behind Eden Prime.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136209",
+      "en": "The Council protected him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|136210",
+      "en": "I can't confirm or deny that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|169023",
+      "en": "Commander Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|169025",
+      "en": "It's inappropriate for an active-duty officer to publicly comment on politics.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_khalisah_D|169026",
+      "en": "It's not my place to say.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105308",
+      "en": "Witnesses saw you making threats in Fist's bar. Stay away from him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105309",
+      "en": "I don't take orders from you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105310",
+      "en": "Last I heard, Fist still had her. Probably somewhere inside his club. You help me kill Fist, she's all yours.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105311",
+      "en": "Can't tell you much. All I got was a coded message with the details of the job. Standard procedure.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105312",
+      "en": "What about Garrus? That turian? He wants to take Saren down, too.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105313",
+      "en": "He was here just before you showed up. Said he was going to follow up a lead on his investigation. Wanted to speak to the doctor at the med clinic.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105314",
+      "en": "This is your only warning, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105315",
+      "en": "You should warn Fist. I will kill him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105316",
+      "en": "You want me to arrest you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105317",
+      "en": "I want you to try.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105318",
+      "en": "Go on. Get out of here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105319",
+      "en": "Do I know you, human?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105320",
+      "en": "Shepard? Commander Shepard? I've heard a lot about you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105321",
+      "en": "Now I recognize you. Commander Shepard, from the Alliance. I've heard a lot about you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105322",
+      "en": "We're both warriors, Shepard. Out of respect, I'll give you fair warning. I'm going to kill Fist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105323",
+      "en": "Fist knows you're coming. We'll have a better chance if we all work together.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105324",
+      "en": "Fist knows you're coming. We'll have a better chance if we all work together.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105325",
+      "en": "Fist knows you're coming. We'll have a better chance if we all work together.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105326",
+      "en": "My people have a saying: Seek the enemy of your enemy, and you will find a friend.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105327",
+      "en": "Let's go. I hate to keep Fist waiting.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105328",
+      "en": "Yes, human?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105329",
+      "en": "Barla Von is a wise man. We may share a common goal, human.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105330",
+      "en": "Hah! I like you, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105331",
+      "en": "I've been hired to kill the owner of Chora's Den. A man named Fist. He did something very foolish.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105332",
+      "en": "He betrayed the Shadow Broker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105333",
+      "en": "A quarian showed up here on the Citadel. She was on the run. She wanted to trade information for a safe place to hide, so she went to Fist.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105334",
+      "en": "He promised to arrange a meeting between her and the Shadow Broker. Instead, he contacted Saren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105335",
+      "en": "Well, the quarian has something that connects Saren to the geth. He paid Fist a small fortune for her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105336",
+      "en": "He's just greedy. Saren paid him a small fortune for the quarian. He had to. She has evidence connecting him to the geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105337",
+      "en": "If we get our hands on that evidence, we can prove that Saren's a traitor! The Council will have to listen to us.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105340",
+      "en": "What does Saren have to do with this?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105342",
+      "en": "Fist's not too smart.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105344",
+      "en": "Saren might already have her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105345",
+      "en": "Where's the quarian now?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105346",
+      "en": "I want to know more about your employer.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105348",
+      "en": "Time we paid Fist a visit.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105349",
+      "en": "He might come in handy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105350",
+      "en": "Move out!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105351",
+      "en": "We can handle this on our own.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105357",
+      "en": "My name's Shepard. I'm going after Fist. Thought you might want to come along.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105359",
+      "en": "I'm going after Fist. I don't want you getting in my way.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105365",
+      "en": "Does this mean you're part of my team, Wrex?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105366",
+      "en": "Glad to have you on the team, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105367",
+      "en": "I think we're going to get along just fine, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105368",
+      "en": "I'm trying to bring down Saren. Barla Von said to talk to you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105369",
+      "en": "Spit it out. Or are you trying to build suspense?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105371",
+      "en": "Enlighten me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105372",
+      "en": "What did he do?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105374",
+      "en": "He betrayed the Shadow Broker.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105383",
+      "en": "My name's Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105384",
+      "en": "You will.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105385",
+      "en": "Fist is mine!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105392",
+      "en": "So you'll join?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105393",
+      "en": "Welcome aboard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105394",
+      "en": "I like that saying.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105395",
+      "en": "You can help me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105396",
+      "en": "We need to talk.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105397",
+      "en": "Wrex?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105398",
+      "en": "How so?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105399",
+      "en": "Get to the point.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105400",
+      "en": "What goal?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105402",
+      "en": "Tell me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105403",
+      "en": "Let me guess.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105406",
+      "en": "Why?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105407",
+      "en": "Big mistake.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105410",
+      "en": "We might be too late.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105411",
+      "en": "I have to find her!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105412",
+      "en": "What about the Shadow Broker?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105413",
+      "en": "It's a deal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105415",
+      "en": "We could use him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105416",
+      "en": "We don't need him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_krogan_cutscene_D|105417",
+      "en": "Let's go.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106387",
+      "en": "You. Human. You the one they call Shepard?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106388",
+      "en": "The name's Wrex. The Shadow Broker paid me a lot of money to get rid of Fist. Only you got there first.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106389",
+      "en": "When I get paid to do a job, I finish it. Alone. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106390",
+      "en": "I don't like where this is going.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106391",
+      "en": "I don't like where this is going.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106392",
+      "en": "I don't like where this is going.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106393",
+      "en": "But I didn't finish this job, Shepard. You did. So the payment is yours.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106394",
+      "en": "I won't take credit for someone else's work. I transferred the payment into your account.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106395",
+      "en": "I liked the way you handled Fist. Now I hear you're going after Saren. I was thinking I should come along.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106396",
+      "en": "Figured I'd see you again. You want me to come with you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106397",
+      "en": "I'm not in this for the money. I want to be where the action is.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106398",
+      "en": "There's a storm coming. And you and Saren are right in the middle of it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106399",
+      "en": "Those aren't krogan! They're servants. They grovel at Saren's feet to lick his boots, trading their freedom for promises of wealth and power.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106400",
+      "en": "My people were a proud species once. Some of us still remember that. I won't bow down to Saren like the others.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106401",
+      "en": "I don't cause problems; I solve them. You go after Saren, you'll be glad I'm around.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106402",
+      "en": "You know where to find me if you change your mind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106403",
+      "en": "Your loss. If you change your mind, come look me up. I'll be over in Chora's Den.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106404",
+      "en": "Smart move, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106405",
+      "en": "That's me. Commander Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106406",
+      "en": "Is there a problem?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106407",
+      "en": "Who wants to know?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106408",
+      "en": "Sounds like I did your job for you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106409",
+      "en": "It's not my fault you were slow on the draw.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106410",
+      "en": "Taking care of Fist was part of my investigation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106413",
+      "en": "You're going to pay me for getting rid of Fist?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106414",
+      "en": "Bounty hunters don't just go around paying off people who take their contracts.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106416",
+      "en": "You're a bounty hunter. What do you get out of going after Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106418",
+      "en": "Why me? Saren's already got a lot of krogan working for him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106420",
+      "en": "A krogan's more trouble than I need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106421",
+      "en": "I don't want you on this mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106423",
+      "en": "We'll take you with us, Wrex.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106424",
+      "en": "Yes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106425",
+      "en": "Why?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106426",
+      "en": "Maybe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106427",
+      "en": "You're welcome.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106428",
+      "en": "So?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106429",
+      "en": "I was just doing my job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106432",
+      "en": "Are you serious?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106433",
+      "en": "What?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106434",
+      "en": "What's the catch?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106436",
+      "en": "You've made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106437",
+      "en": "Why do you want to join me?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106438",
+      "en": "You've made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106439",
+      "en": "Forget it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106440",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106442",
+      "en": "Why not join Saren?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106444",
+      "en": "You made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106445",
+      "en": "You made your case.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA30_01_DSG_LOC|sta30_wrex_D|106446",
+      "en": "No.",
+      "tr": ""
+    }
+  ]
+}

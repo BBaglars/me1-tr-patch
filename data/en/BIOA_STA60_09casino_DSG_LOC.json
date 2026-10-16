@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "package": "BIOA_STA60_09casino_DSG_LOC_INT.pcc",
+    "stem": "BIOA_STA60_09casino_DSG_LOC",
+    "textLang": "INT",
+    "sets": 4
+  },
+  "entries": [
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta00_popup_text_D|145642",
+      "en": "You must talk to the Council to gain access to the Wards.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta00_popup_text_D|148499",
+      "en": "The keeper scan has been uploaded to the database.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta00_popup_text_D|148500",
+      "en": "You do not have the proper keycard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta00_popup_text_D|163019",
+      "en": "Get to the Quarian and warn her before it's too late!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81903",
+      "en": "Welcome to Flux. Name's Doran. What can I do for you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81904",
+      "en": "Owner, cook, and bartender. I've even been known to dance a little when the mood strikes me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81905",
+      "en": "Enjoy your time here at Flux.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81906",
+      "en": "Among other things, yes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81910",
+      "en": "Let me see that. You got that from Schells, didn't you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81912",
+      "en": "I saw him using it earlier. Tossed him out on his ass for it, too. Thanks for bringing this to me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81913",
+      "en": "I agree with you on that. Thanks again. Take a few shots at the quasar, on the house.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81914",
+      "en": "I suppose it is. Take a few tries of quasar, on the house.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81916",
+      "en": "Hello again. Can I help you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81917",
+      "en": "Well, Jenna left to work at Chora's Den. Now her sister Rita is all worried she might be in some kind of trouble. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81919",
+      "en": "Not much chance Jenna will change her mind, though. She's a stubborn one.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81925",
+      "en": "Are you the owner?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81926",
+      "en": "Goodbye.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81927",
+      "en": "Is this a casino?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81931",
+      "en": "I've got something you might be interested in.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81934",
+      "en": "Cheaters shouldn't prosper.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81935",
+      "en": "I think that tool should be worth something to you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81937",
+      "en": "Just passing through.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81938",
+      "en": "What can you tell me about the sisters working for you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81941",
+      "en": "I should be going.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81947",
+      "en": "You own this place?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81948",
+      "en": "Nothing.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81949",
+      "en": "Flux",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81953",
+      "en": "[Give him Schells' tool.]",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81958",
+      "en": "No problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81959",
+      "en": "Payment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81960",
+      "en": "Nope.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81961",
+      "en": "Rita and Jenna",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|81964",
+      "en": "Goodbye.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|89505",
+      "en": "We've got some quasar stations if you're interested.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|89506",
+      "en": "If she wanted to come back, I'd take her in a second. The customers loved her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_doran_D|113765",
+      "en": "I'm watching you. No more tricks or you'll be out on your ass too.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_ai_conv1_D|136947",
+      "en": "I believe this machine has been tampered with, and someone is funneling credits to a private account. I will attempt to trace the signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_ai_conv1_D|136948",
+      "en": "I think somebody rigged this machine to funnel credits through the system. Let me trace the signal.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_ai_conv1_D|136949",
+      "en": "Someone rigged this machine to funnel credits their way. I'll run a trace.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_ai_conv1_D|136950",
+      "en": "Someone rigged this machine to funnel credits their way. I'll run a trace.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_ai_conv1_D|136951",
+      "en": "Someone rigged this machine to funnel credits their way. I'll run a trace.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_ai_conv1_D|136952",
+      "en": "Someone rigged this machine to funnel credits their way.  I'll trace it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89544",
+      "en": "I need to speak with you a moment.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89545",
+      "en": "You've got the same device Schells had earlier. Did he give it to you, or did you take it from him?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89546",
+      "en": "Never mind. It doesn't matter how you got it. But I can't let you keep it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89547",
+      "en": "Don't make a scene, Commander.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89548",
+      "en": "Now, I suggest you stick to playing the game fairly, or not at all.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89549",
+      "en": "Your luck seems... unnatural, human.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89550",
+      "en": "Don't often see someone getting as lucky as you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89553",
+      "en": "I don't think you're going to take it from me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89554",
+      "en": "I don't know what you're talking about.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89555",
+      "en": "I'm not hurting anyone.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89559",
+      "en": "Too bad.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89560",
+      "en": "What device?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|89561",
+      "en": "Why not?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_STA60_09casino_DSG_LOC|sta60_trig_doran_reacts_D|104675",
+      "en": "I've already recovered the credits you won.",
+      "tr": ""
+    }
+  ]
+}

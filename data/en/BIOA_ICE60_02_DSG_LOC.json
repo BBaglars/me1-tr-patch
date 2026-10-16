@@ -1,0 +1,930 @@
+{
+  "meta": {
+    "package": "BIOA_ICE60_02_DSG_LOC_INT.pcc",
+    "stem": "BIOA_ICE60_02_DSG_LOC",
+    "textLang": "INT",
+    "sets": 3
+  },
+  "entries": [
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80153",
+      "en": "Maybe those scientists can make us some kinda--I don't know--anti-bug plague. Or something.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80157",
+      "en": "I'd kill for a P204. Just hold down the trigger and fzzzzap! Hallway full of flash-boiled bugs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80158",
+      "en": "Cap'n tell you about the hot labs? I wouldn't go there. Bug central.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80159",
+      "en": "Didn't think I'd see this kind of action after retirement.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80161",
+      "en": "Sure could use some grenades right now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80162",
+      "en": "You should talk to the cap'n.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80163",
+      "en": "Get inside already. I wouldn't be out here if I didn't have to be.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79586",
+      "en": "Something you need?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79587",
+      "en": "The facility's off the network. The only way to find out would be to send scouts down the elevator. I won't send my people to their death.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79588",
+      "en": "Since Mira's back online, I had a look at your record.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79592",
+      "en": "I hope you didn't use up all that luck on Akuze.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79596",
+      "en": "I didn't expect to meet a Star of Terra recipient. What's a Skyllian hero doing up here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79597",
+      "en": "No, thanks. It might jam on the ego.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79598",
+      "en": "You've got quite the reputation.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79599",
+      "en": "Well, we've got some problems that could use your attention.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79600",
+      "en": "The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79601",
+      "en": "The first we knew, the bastards were clawing into my command post. We had a lot more staff then.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79602",
+      "en": "Yeah? Sure as hell doesn't feel like it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79603",
+      "en": "You got my support.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79604",
+      "en": "I'm no xenobiologist. They're fast, vicious, and there's a hell of a lot of them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79606",
+      "en": "The board sent an asari to clean up the mess. She went to the hot labs yesterday. We haven't heard from her since.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79607",
+      "en": "I don't know. I don't see what one person could do.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79608",
+      "en": "A Matriarch has the skill to keep herself alive for a long time.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79611",
+      "en": "All I can do is hold out here and protect the civilians.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79614",
+      "en": "Stand down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79615",
+      "en": "Sorry. We couldn't be sure what was on the tram.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79616",
+      "en": "Even hopped up on stims, my people know the rule. Two legs good, four legs bad.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79617",
+      "en": "Hell if I know. I'm not assuming any-goddamn-thing.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79618",
+      "en": "Encountered, fought, seen men ripped apart by. We're all working on stims.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79619",
+      "en": "Bugs. Zillions of 'em, coming up the tunnels from the hot labs. My team's been running on stims for days.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79620",
+      "en": "Look. You're human, and that's enough that I won't shoot. But I'd like to know who you are.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79622",
+      "en": "Huh. I won't look a heavily-armed horse in the mouth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79623",
+      "en": "Didn't figure you space jockeys liked getting mud on your boots.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79624",
+      "en": "Benezia? Yeah. She came through here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79628",
+      "en": "She hasn't come back here. You came through Central Station, so she ain't there.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79630",
+      "en": "You want my personal opinion? Labs like that exist to do stupid crap that gets people killed.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79633",
+      "en": "It's built into one of the glaciers further down the mountain. Real old, thick, stable one. Something goes wrong, they heat it up and sink it into the ice.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79635",
+      "en": "I can't talk about everything. What do you need to know? ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79637",
+      "en": "Beats me. I'm not supposed to know. So long as people don't start dying, it's not my problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79638",
+      "en": "It's designed to survive a breach. The turrets and alarms are routed from a control room out by the quarantine labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79640",
+      "en": "Secure enough that you shouldn't poke in corners.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79641",
+      "en": "Only the best get assigned to high-security facilities like this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79642",
+      "en": "Have you checked the layout yet? Easily defensible by a few people. That's not counting the automated defenses.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79644",
+      "en": "What impresses me most is the turrets, alarms, and cameras. They're all routed through a central location, out by the quarantine labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79645",
+      "en": "One guy can lock down the whole facility. The security hub's the last logical fallback, and we'd have cover from the turrets all the way.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79646",
+      "en": "Yeah. I have enough to worry about.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79648",
+      "en": "We weren't expecting the initial wave. They made it inside. We lost some good people.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79649",
+      "en": "Those of us left are shorthanded. We've kept order by long shifts and stims. I don't like it, but I don't see an alternative.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79650",
+      "en": "You and me both.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79651",
+      "en": "I need to know more about the situation in the hot labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79653",
+      "en": "You're certain the Matriarch is still in the hot labs?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79654",
+      "en": "Did the aliens come from inside the facility, or did they attack from outside?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79658",
+      "en": "Tell me about the structure of the hot labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79661",
+      "en": "Tell me about Rift Station.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79662",
+      "en": "What kind of research is done here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79664",
+      "en": "Tell me about the defenses here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79666",
+      "en": "I was just impressed with your operation. Being able to weather a week of assaults is no mean feat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79668",
+      "en": "I just wanted to offer some deployment advice. You're lucky these things are dumb animals. Three coordinated guys could take this place.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79670",
+      "en": "Automated defenses can be overriden.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79671",
+      "en": "Maybe I was wrong.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79673",
+      "en": "I'll keep out of your hair.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79675",
+      "en": "How are your people holding up?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79677",
+      "en": "I've got work to do.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79684",
+      "en": "I've always had enough to fall back on.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79685",
+      "en": "Only people with no skill need luck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79687",
+      "en": "All the heroes from Skyllia got shipped home in coolers.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79688",
+      "en": "Want me to autograph your gun?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79690",
+      "en": "I see a problem, I take care of it. That's the job I signed up for.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79692",
+      "en": "Then stow the pleasantries and give me a sitrep.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79693",
+      "en": "We can talk later. What's the situation?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79695",
+      "en": "You were taken by surprise and had civilians to protect. You did a good job, Captain.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79697",
+      "en": "I'm packing fire and steel. They want to fight with claws and teeth, it's their funeral.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79699",
+      "en": "We've never seen anything like them. What do you know?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79702",
+      "en": "Benezia. Is she still over there?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79707",
+      "en": "I'm not going to let any of your people die. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79709",
+      "en": "I've got business with her. Stay out of my way.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79712",
+      "en": "I'd only be upset if they had fired.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79714",
+      "en": "Can those things work a train's controls?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79716",
+      "en": "I take it you've encountered those things.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79718",
+      "en": "I'd do the same. What's going on here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79721",
+      "en": "My name's Shepard. I'm a Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79723",
+      "en": "Commander Shepard, Systems Alliance Navy. My crew came up from Hanshan.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79725",
+      "en": "Call me Shepard. I was sent to find an asari Matriarch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79729",
+      "en": "The hot labs",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79730",
+      "en": "This facility",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79731",
+      "en": "Goodbye.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79733",
+      "en": "Benezia",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79734",
+      "en": "The bugs came from the lab?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79736",
+      "en": "What's the facility like?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79741",
+      "en": "What do they do here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79742",
+      "en": "How secure are you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79744",
+      "en": "Your staff",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79750",
+      "en": "You survived somehow.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79751",
+      "en": "This place is vulnerable.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79752",
+      "en": "Understood.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79755",
+      "en": "Computers can be hacked.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79756",
+      "en": "Sounds good so far.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79770",
+      "en": "I'm good.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79771",
+      "en": "I make my own luck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79773",
+      "en": "I'm no damned hero.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79774",
+      "en": "Take advantage of it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79776",
+      "en": "I believe in being thorough.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79777",
+      "en": "So don't jerk me around.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79778",
+      "en": "What's going on here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79781",
+      "en": "You did well.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79782",
+      "en": "We'll clean them out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79783",
+      "en": "What are they?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79788",
+      "en": "I need to talk to her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79789",
+      "en": "I'll see what I can do.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79790",
+      "en": "I'm not here to help.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79798",
+      "en": "No autopsy, no foul.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79799",
+      "en": "Can they run a train?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79800",
+      "en": "Expecting hostile company?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79801",
+      "en": "I don't blame you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79807",
+      "en": "I'm a Spectre.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79808",
+      "en": "Alliance Navy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79809",
+      "en": "I'm here for Benezia.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|80204",
+      "en": "Ask Dr. Olar. He's the only one who made it out of the hot labs. He's the only volus left in here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|80206",
+      "en": "What can you tell me about the aliens?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|80208",
+      "en": "Aliens",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81317",
+      "en": "God. I wish we could help those guys. I really do. But we can't risk contamination now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81318",
+      "en": "Dr. Iallis? But she seemed like the most stable one here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81319",
+      "en": "She was a commando in Benezia's service. A squad of geth were with her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81320",
+      "en": "She was a huntress, pledged to the Matriarch. A group of geth were with her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81321",
+      "en": "She was a commando in Benezia's service. A squad of geth were with her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81322",
+      "en": "She was a huntress working for the Matriarch. A group of geth were with her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81323",
+      "en": "She was a commando in Benezia's service. A group of geth were with her.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81324",
+      "en": "Geth? I didn't know. God's honest truth, I thought she was just another egghead. Son of a bitch.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81325",
+      "en": "Yeah, I hear th--",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81326",
+      "en": "Hell! Man the perimeter!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81328",
+      "en": "Yeah. But you also have extra guns.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81329",
+      "en": "All right. You want to gamble with your life, you're not under my command. I'll have the guard let you in, but he'll lock the door behind you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81330",
+      "en": " He'll run a full scan before he'll let you out. If there are any anomalies, you stay in there.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81332",
+      "en": "I'll radio ahead to let the guard know. Good luck.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81333",
+      "en": "I've heard about the problems in the quarantine lab. I'd like to recover the toxin cure.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81335",
+      "en": "I was attacked by the asari who was in here. She killed your guard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81344",
+      "en": "We're not part of your defense plans. We're consuming extra rations, extra medi-gel...",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81346",
+      "en": "If we survive, your employers will want a report from me. I wonder how much insurance they have on those scientists?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81347",
+      "en": "Dr. Cohen says there's no risk of contamination.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81349",
+      "en": "Those are reasonable precautions.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81350",
+      "en": "Great. We'll be stuck unless he decides we're healthy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81352",
+      "en": "If that's the only way you'll let us in, I agree.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81354",
+      "en": "I want to help Dr. Cohen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81355",
+      "en": "I was attacked.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81357",
+      "en": "Let us risk it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81358",
+      "en": "I'll have to report this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81359",
+      "en": "It's not contagious.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81362",
+      "en": "That's fair.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81363",
+      "en": "I don't like being trapped.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81364",
+      "en": "If that's what it takes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81863",
+      "en": "Yeah, thanks for your help back there.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81864",
+      "en": "The attack just now! Where were you?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81865",
+      "en": "Thanks for the vote of confidence.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81866",
+      "en": "If you don't want to help us here, why don't you go to the hot labs?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81867",
+      "en": "It looked like you could handle it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81868",
+      "en": "If you need my help for a probing attack, this place is doomed.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81869",
+      "en": "I don't know what you're talking about.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81870",
+      "en": "You ever heard of keeping a reserve?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81873",
+      "en": "You didn't need me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81874",
+      "en": "\"You're welcome.\"",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81875",
+      "en": "What?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81876",
+      "en": "I was ready if you needed me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|101435",
+      "en": "I'm Captain Ventralis. Why don't you get inside our defense perimeter so we can talk?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|101436",
+      "en": "Oh, if you need any first aid, Dr. Cohen's downstairs in the med bay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|102849",
+      "en": "I heard that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|102850",
+      "en": "Yeah. Sorry.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|120390",
+      "en": "You couldn't handle it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|120391",
+      "en": "I doubt that's enough.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147190",
+      "en": "Sorry. I didn't mean to pry.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147191",
+      "en": "Nothing is ever secure enough. But I don't plan on testing it personally.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147192",
+      "en": "Just curious.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147193",
+      "en": "Yeah, right.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|149300",
+      "en": "There's an emergency elevator out by the trams. This card will let you activate it. It can take you down to the hot labs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|149301",
+      "en": "Normally, the crew gets to the labs using a tram from Central Station. We've got an elevator that connects directly, but it's for emergency use only.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|149303",
+      "en": "Uh, listen. I'm not sending my people people down there. It's too dangerous. You understand?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81565",
+      "en": "Thanks for the help. Every few hours, a group comes up the tram tunnel. It's actually better since we locked down the elevator.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81566",
+      "en": "Their only other option is over the mountain and down through the ducts. And they freeze like everyone else.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81567",
+      "en": "I don't know why they keep throwing themselves against our defenses. Even animals should learn not to stick their noses where it hurts.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81568",
+      "en": "I'll do whatever I can.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81569",
+      "en": "We're all in the same boat.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81570",
+      "en": "They always attack here? It's an obvious killzone.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81573",
+      "en": "No problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81574",
+      "en": "I'd be stupid to not help.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81575",
+      "en": "Kind of a futile attack.",
+      "tr": ""
+    }
+  ]
+}
