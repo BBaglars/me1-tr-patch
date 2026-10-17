@@ -9,7 +9,7 @@
   {
    "key": "u12582",
    "en": "Nice to see so many humans working for C-Sec.",
-   "tr": "",
+   "tr": "C-Sec için çalışan bu kadar insan görmek güzel.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u12583",
    "en": "C-Sec seems more like a military operation than a police force.",
-   "tr": "",
+   "tr": "C-Sec bir polis gücünden çok askerî operasyona benziyor.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u12584",
    "en": "Did you know Citadel Security is the largest multi-species law enforcement agency in Council Space?",
-   "tr": "",
+   "tr": "Citadel Güvenliği'nin Konsey Uzayı'ndaki en büyük çok türlü kolluk kurumu olduğunu biliyor muydun?",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u12585",
    "en": "It was the turians who first suggested creating a single organization to maintain order on the Citadel. Perhaps that is why more than half of the force is turian.",
-   "tr": "",
+   "tr": "Citadel'de düzeni korumak için tek bir örgüt kurulmasını ilk turian'lar önerdi. Belki gücün yarısından fazlasının turian olmasının nedeni budur.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u12586",
    "en": "I used to have an office here. Spent half my time doing paperwork.",
-   "tr": "",
+   "tr": "Eskiden burada bir ofisim vardı. Zamanımın yarısını evrak işleriyle geçirirdim.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u12587",
    "en": "You always see a few civilians hanging around the Academy waiting to speak to an officer about some problem or other.",
-   "tr": "",
+   "tr": "Akademi'nin çevresinde hep birkaç sivil bir subayla bir sorun için konuşmak üzere bekler.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u12588",
    "en": "Every time I visit the Citadel, C-Sec brings me here for a friendly chat.",
-   "tr": "",
+   "tr": "Citadel'i her ziyaret edişimde C-Sec beni buraya dostça bir sohbet için getiriyor.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u12589",
    "en": "If C-Sec were better at its job, there'd be no need for bounty hunters like me.",
-   "tr": "",
+   "tr": "C-Sec işini daha iyi yapsa benim gibi ödül avcılarına gerek kalmazdı.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u12590",
    "en": "When I first arrived on the Citadel, I spent nearly three hours being questioned by the officers here before they would let me enter the wards.",
-   "tr": "",
+   "tr": "Citadel'e ilk geldiğimde Wards'a girmeme izin vermeden önce buradaki subaylarca neredeyse üç saat sorgulandım.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u12591",
    "en": "Quarians aren't too popular with Citadel Security. They think we're all beggars and thieves.",
-   "tr": "",
+   "tr": "Quarian'lar Citadel Güvenliği'nde pek sevilmez. Hepimizin dilenci ve hırsız olduğunu sanıyorlar.",
    "ctx": [
     "BIOA_STA30_00_DSG_LOC"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u12592",
    "en": "How are you holding up, Lieutenant?",
-   "tr": "",
+   "tr": "Nasıl dayanıyorsun, Teğmen?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -99,7 +99,7 @@
   {
    "key": "u12593",
    "en": "Not too bad. No headaches worth mentioning lately. Maybe I'm getting used to the strain.",
-   "tr": "",
+   "tr": "Fena değil. Son zamanlarda bahsetmeye değer baş ağrısı yok. Belki gerginliğe alışıyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -109,7 +109,7 @@
   {
    "key": "u12594",
    "en": "Maybe you've just got a good stress release. I know that knocking the geth on their synthetic asses gets rid of my headaches.",
-   "tr": "",
+   "tr": "Belki iyi bir stres atma yöntemin vardır. Geth'in sentetik kıçlarını tekmelemek benim baş ağrılarımı geçiriyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -119,7 +119,7 @@
   {
    "key": "u12595",
    "en": "Is it true that your biotic implants cause headaches, Lieutenant? I know some meditation exercises that might help.",
-   "tr": "",
+   "tr": "Biyotik implantlarının baş ağrısına yol açtığı doğru mu, Teğmen? Yardımcı olabilecek bazı meditasyon egzersizleri biliyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -129,7 +129,7 @@
   {
    "key": "u12596",
    "en": "Thanks, Liara. I'd appreciate that. Makes me wonder what it would have been like to have asari tutors instead of turians.",
-   "tr": "",
+   "tr": "Teşekkürler, Liara. Takdir ederim. Turian yerine asari eğitmenlerim olsaydı nasıl olurdu merak ediyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -139,7 +139,7 @@
   {
    "key": "u12597",
    "en": "Given the attitude most young human males display toward my people, it seems turians were the best choice. ",
-   "tr": "",
+   "tr": "Çoğu genç insan erkeğinin halkıma karşı sergilediği tutum düşünülürse turian'lar en iyi seçimmiş gibi.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -149,7 +149,7 @@
   {
    "key": "u12598",
    "en": "Your biotics are impressive, Lieutenant. I'm surprised that humans stopped using the L2 configuration with results like yours.",
-   "tr": "",
+   "tr": "Biyotiklerin etkileyici, Teğmen. İnsanların senin gibi sonuçlar veren L2 yapılandırmasını bırakmasına şaşırdım.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -159,7 +159,7 @@
   {
    "key": "u12599",
    "en": "Is it true humans stopped using the biotic implants you were fitted with, Lieutenant?",
-   "tr": "",
+   "tr": "İnsanların sana takılan biyotik implantları kullanmayı bıraktığı doğru mu, Teğmen?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -169,7 +169,7 @@
   {
    "key": "u12600",
    "en": "You've got impressive biotic power. Humans should never have switched to the weaker L3 implants.",
-   "tr": "",
+   "tr": "Etkileyici biyotik gücün var. İnsanlar daha zayıf L3 implantlarına geçmemeliydi.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -179,7 +179,7 @@
   {
    "key": "u12601",
    "en": "My headaches can be pretty bad, and I'm one of the lucky L2 implants. The L3's are safer.",
-   "tr": "",
+   "tr": "Baş ağrılarım oldukça kötü olabiliyor ve ben şanslı L2 implantlılardanım. L3'ler daha güvenli.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -189,7 +189,7 @@
   {
    "key": "u12602",
    "en": "Humanity will be judged by the sacrifices its people are willing to make, Lieutenant. The turians would have kept the L2 implants.",
-   "tr": "",
+   "tr": "İnsanlık, halkının yapmaya istekli olduğu fedakârlıklarla yargılanacak, Teğmen. Turian'lar L2 implantlarını sürdürürdü.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -199,7 +199,7 @@
   {
    "key": "u12603",
    "en": "That makes sense. What use is harnessing that power if it causes more harm than good to your people?",
-   "tr": "",
+   "tr": "Mantıklı. Halkına yarardan çok zarar veriyorsa o gücü dizginlemenin ne yararı var?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -209,7 +209,7 @@
   {
    "key": "u12604",
    "en": "You don't stop using a gun just because the kickback has a little sting.",
-   "tr": "",
+   "tr": "Geri tepmesi biraz acıtıyor diye silah kullanmayı bırakmazsın.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -219,7 +219,7 @@
   {
    "key": "u12605",
    "en": "Am I imagining things, LT, or are your abilities growing in strength?",
-   "tr": "",
+   "tr": "Hayal mi görüyorum, Teğmen, yoksa yeteneklerin güçleniyor mu?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -229,7 +229,7 @@
   {
    "key": "u12606",
    "en": "Lieutenant? In the last few fights, your biotics seemed to pack more punch. Is it practice, or are you actually getting stronger?",
-   "tr": "",
+   "tr": "Teğmen? Son birkaç çatışmada biyotiklerin daha çok darbe vurdu. Pratik mi, yoksa gerçekten güçleniyor musun?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -239,7 +239,7 @@
   {
    "key": "u12607",
    "en": "Your biotic skill is extremely impressive, Lieutenant. I rarely see anyone with your level of ability.",
-   "tr": "",
+   "tr": "Biyotik becerin son derece etkileyici, Teğmen. Senin seviyende yeteneği olan birini nadiren görüyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -249,7 +249,7 @@
   {
    "key": "u12608",
    "en": "Biotics are rare among quarians. I don't believe I've seen anyone except the asari with your strength, Lieutenant.",
-   "tr": "",
+   "tr": "Biyotik quarian'lar arasında nadir. Asari dışında senin gücünde kimseyi gördüğümü sanmıyorum, Teğmen.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -259,7 +259,7 @@
   {
    "key": "u12609",
    "en": "Your biotics are coming along nicely. In the last fight, it looked like you even surprised yourself.",
-   "tr": "",
+   "tr": "Biyotiklerin güzel ilerliyor. Son çatışmada kendini bile şaşırtmış gibiydin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -269,7 +269,7 @@
   {
    "key": "u12610",
    "en": "I've always held back a little when I used my powers on living targets. Fear of hurting someone, I guess.",
-   "tr": "",
+   "tr": "Güçlerimi canlı hedeflerde kullanırken hep biraz geri durdum. Birine zarar verme korkusu sanırım.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -279,7 +279,7 @@
   {
    "key": "u12611",
    "en": "After what I saw on Eden Prime, I'm not holding back any more. Not against the geth, not against anyone.",
-   "tr": "",
+   "tr": "Eden Prime'da gördüklerimden sonra artık geri durmuyorum. Geth'e karşı da, kimseye karşı da.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -289,7 +289,7 @@
   {
    "key": "u12612",
    "en": "So, Williams, are you happy you signed on with Commander Shepard?",
-   "tr": "",
+   "tr": "Peki, Williams, Komutan Shepard'la katıldığına memnun musun?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -299,7 +299,7 @@
   {
    "key": "u12613",
    "en": "I'm not sure, Lieutenant. Every time I think I have a handle on things, the universe banks hard to port.",
-   "tr": "",
+   "tr": "Emin değilim, Teğmen. Her işleri kavradığımı sandığımda evren sert bir şekilde sancağa yatıyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -309,7 +309,7 @@
   {
    "key": "u12614",
    "en": "Well, don't let anybody know. A big gun and a confident attitude will get you through a lot in life.",
-   "tr": "",
+   "tr": "Şey, kimse bilmesin. Büyük bir silah ve kendinden emin bir tutum hayatta çok yere götürür.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -319,7 +319,7 @@
   {
    "key": "u12615",
    "en": "All this violence sometimes catches me by surprise. I imagine that your military training prepared you for it, Chief Williams.",
-   "tr": "",
+   "tr": "Bu kadar şiddet bazen beni şaşırtıyor. Askerî eğitiminin seni buna hazırladığını tahmin ediyorum, Başçavuş Williams.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -329,7 +329,7 @@
   {
    "key": "u12616",
    "en": "Do you feel that your training in the human military prepared you well for your duties, Gunnery Chief?",
-   "tr": "",
+   "tr": "İnsan ordusundaki eğitiminin seni görevlerine iyi hazırladığını düşünüyor musun, Topçu Başçavuş?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -339,7 +339,7 @@
   {
    "key": "u12617",
    "en": "My people are wanderers, not military leaders. All this fighting seems strange. It must be more familiar for you, Chief Williams.",
-   "tr": "",
+   "tr": "Halkım göçebe, askerî lider değil. Tüm bu savaş garip geliyor. Senin için daha tanıdık olmalı, Başçavuş Williams.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -349,7 +349,7 @@
   {
    "key": "u12618",
    "en": "This about normal for a human soldier's tour of duty, Williams?",
-   "tr": "",
+   "tr": "Bu, bir insan askerinin görev turu için olağan sayılır mı, Williams?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -359,7 +359,7 @@
   {
    "key": "u12619",
    "en": "Trying to take down a rogue Spectre and his army of synthetics? No, they didn't cover this in Basic.",
-   "tr": "",
+   "tr": "Başıboş bir Spectre'ı ve sentetik ordusunu indirmeye çalışmak mı? Hayır, bunu Temel Eğitim'de işlemediler.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -369,7 +369,7 @@
   {
    "key": "u12620",
    "en": "Well, Garrus, any regrets about leaving Citadel Security?",
-   "tr": "",
+   "tr": "Peki, Garrus, Citadel Güvenliği'nden ayrıldığına pişman mısın?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -379,7 +379,7 @@
   {
    "key": "u12621",
    "en": "So, Garrus, any regrets about leaving C-Sec?",
-   "tr": "",
+   "tr": "Ee, Garrus, C-Sec'ten ayrıldığına pişman mısın?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -389,7 +389,7 @@
   {
    "key": "u12622",
    "en": "Now that you have experienced a Spectre's life firsthand, Garrus, do you regret leaving your security position?",
-   "tr": "",
+   "tr": "Artık bir Spectre'ın hayatını bizzat deneyimlediğine göre, Garrus, güvenlik görevini bıraktığına pişman mısın?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -399,7 +399,7 @@
   {
    "key": "u12623",
    "en": "Do you ever regret leaving Citadel Security to pursue Saren, Garrus?",
-   "tr": "",
+   "tr": "Saren'in peşine düşmek için Citadel Güvenliği'ni bıraktığına hiç pişman oluyor musun, Garrus?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -409,7 +409,7 @@
   {
    "key": "u12624",
    "en": "So, how about it, Garrus? Is this better than C-Sec?",
-   "tr": "",
+   "tr": "Ee, ne dersin, Garrus? Bu C-Sec'ten iyi mi?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -419,7 +419,7 @@
   {
    "key": "u12625",
    "en": "Fighting a rogue Spectre with countless lives at stake and no regulations to get in the way? I'd say that beats C-Sec.",
-   "tr": "",
+   "tr": "Sayısız hayatın tehlikede olduğu ve yolunuza çıkacak yönetmeliklerin olmadığı başıboş bir Spectre'la savaşmak mı? Bence bu C-Sec'i yener.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -429,7 +429,7 @@
   {
    "key": "u12626",
    "en": "Well, we don't lack for excitement, that's for sure.",
-   "tr": "",
+   "tr": "Şey, heyecan eksikliğimiz yok, kesin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -439,7 +439,7 @@
   {
    "key": "u12627",
    "en": "True enough. I'd rather be fighting than trust it to somebody else.",
-   "tr": "",
+   "tr": "Doğru. Başkasına bırakmaktansa savaşmayı tercih ederim.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -449,7 +449,7 @@
   {
    "key": "u12628",
    "en": "I am unsure how the imminent destruction of all organic life \"beats\" anything, but your enthusiasm is comforting nonetheless.",
-   "tr": "",
+   "tr": "Tüm organik yaşamın yaklaşan yıkımının herhangi bir şeyi nasıl \"yendiğinden\" emin değilim ama coşkun yine de teselli edici.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -459,7 +459,7 @@
   {
    "key": "u12629",
    "en": "I'm pleased that the imminent destruction of all organic life has improved your career opportunities.",
-   "tr": "",
+   "tr": "Tüm organik yaşamın yaklaşan yıkımının kariyer fırsatlarını artırmasına sevindim.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -469,7 +469,7 @@
   {
    "key": "u12630",
    "en": "There may just be hope for you yet, turian.",
-   "tr": "",
+   "tr": "Belki senin için de umut vardır, turian.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -479,7 +479,7 @@
   {
    "key": "u12631",
    "en": "Saren was one of the most respected turians in the galaxy, Garrus. Are you going to be okay going up against him?",
-   "tr": "",
+   "tr": "Saren galaksinin en saygın turian'larından biriydi, Garrus. Ona karşı çıkmak sorun olmayacak mı?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -489,7 +489,7 @@
   {
    "key": "u12632",
    "en": "Garrus, perhaps it is my own trouble with Benezia that makes me ask, but do you feel comfortable facing a respected turian Spectre like Saren?",
-   "tr": "",
+   "tr": "Garrus, belki Benezia'yla kendi sorunum yüzünden soruyorum ama Saren gibi saygın bir turian Spectre'la yüzleşmekte rahat mısın?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -499,7 +499,7 @@
   {
    "key": "u12633",
    "en": "Garrus--if you do not mind me asking--how do you feel about hunting a turian?",
-   "tr": "",
+   "tr": "Garrus, sakıncası yoksa soracağım, bir turian'ı avlamak sana nasıl hissettiriyor?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -509,7 +509,7 @@
   {
    "key": "u12634",
    "en": "Must be hard for you, Garrus, knowing that the person behind all this death and destruction is a turian Spectre.",
-   "tr": "",
+   "tr": "Senin için zor olmalı, Garrus, tüm bu ölümün ve yıkımın arkasındaki kişinin turian bir Spectre olduğunu bilmek.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -519,7 +519,7 @@
   {
    "key": "u12635",
    "en": "Saren is either a traitor or a madman. Taking him down will restore the good name of turians everywhere.",
-   "tr": "",
+   "tr": "Saren ya hain ya deli. Onu indirmek her yerde turian'ların iyi adını geri getirecek.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -529,7 +529,7 @@
   {
    "key": "u12636",
    "en": "Just keep saying that, especially to humans. We've got a lot of angry people right now.",
-   "tr": "",
+   "tr": "Böyle söylemeye devam et, özellikle insanlara. Şu an çok öfkeli insan var.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -539,7 +539,7 @@
   {
    "key": "u12637",
    "en": "With your respect for the Spectres, I thought you might hesitate. I am glad I was wrong.",
-   "tr": "",
+   "tr": "Spectre'lara olan saygın yüzünden tereddüt edeceğini sandım. Yanıldığıma sevindim.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -549,7 +549,7 @@
   {
    "key": "u12638",
    "en": "Things are different among my people. There are so few of us. We are expected to be loyal, even when it is difficult.",
-   "tr": "",
+   "tr": "Halkımda işler farklı. Çok azız. Zor olduğunda bile sadık olmamız bekleniyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -559,7 +559,7 @@
   {
    "key": "u12639",
    "en": "Glad to hear it. I was losing sleep over the prospect of people not loving the turians.",
-   "tr": "",
+   "tr": "Duyduğuma sevindim. İnsanların turian'ları sevmemesi ihtimali yüzünden uykum kaçıyordu.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -569,7 +569,7 @@
   {
    "key": "u12640",
    "en": "I'm surprised you're willing to fight krogan, Wrex. I thought you'd stand with your own.",
-   "tr": "",
+   "tr": "Krogan'la savaşmaya istekli olmana şaşırdım, Wrex. Kendi türünle durursun sanmıştım.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -579,7 +579,7 @@
   {
    "key": "u12641",
    "en": "Considering the diminished numbers of the krogan, Wrex, I'm surprised that you are willing to fight and kill them.",
-   "tr": "",
+   "tr": "Krogan'ın azalan sayısı düşünülürse, Wrex, onlarla savaşıp öldürmeye istekli olmana şaşırıyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -589,7 +589,7 @@
   {
    "key": "u12642",
    "en": "I'm surprised that you're willing to kill your own, Wrex. Aren't the krogan just a few generations away from extinction?",
-   "tr": "",
+   "tr": "Kendi türünü öldürmeye istekli olmana şaşırdım, Wrex. Krogan birkaç nesil uzakta yok olmanın eşiğinde değil mi?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -599,7 +599,7 @@
   {
    "key": "u12643",
    "en": "You don't get it. For all your talk of honor and pride, the turians never had to test their principles in a real struggle.",
-   "tr": "",
+   "tr": "Anlamıyorsun. Tüm onur ve gurur lafına rağmen turian'lar ilkelerini hiç gerçek bir mücadelede sınamak zorunda kalmadı.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -609,7 +609,7 @@
   {
    "key": "u12644",
    "en": "How can you fight your own people, Wrex? There aren't that many of you left.",
-   "tr": "",
+   "tr": "Kendi halkınla nasıl savaşabilirsin, Wrex? Pek kalmadınız.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -619,7 +619,7 @@
   {
    "key": "u12645",
    "en": "Anyone who fights us is either stupid or on Saren's payroll. Killing the latter is business. Killing the former is a favor to the universe.",
-   "tr": "",
+   "tr": "Bizimle savaşan ya aptal ya da Saren'in maaşında. İkincisini öldürmek iş. Birincisini öldürmek evrene iyilik.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -629,7 +629,7 @@
   {
    "key": "u12646",
    "en": "So, Liara, you've spent fifty years studying Prothean ruins and artifacts?",
-   "tr": "",
+   "tr": "Yani, Liara, elli yılı Prothean kalıntıları ve eserlerini inceleyerek mi geçirdin?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -639,7 +639,7 @@
   {
    "key": "u12647",
    "en": "With all this exploration of Prothean culture, this must be like a survey for you, Liara.",
-   "tr": "",
+   "tr": "Prothean kültürünün tüm bu keşfiyle bu senin için bir tür etüt olmalı, Liara.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -649,7 +649,7 @@
   {
    "key": "u12648",
    "en": "So you've spent your entire adult life just studying old Prothean junk?",
-   "tr": "",
+   "tr": "Yani bütün yetişkin hayatını eski Prothean hurdasını inceleyerek mi geçirdin?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -659,7 +659,7 @@
   {
    "key": "u12649",
    "en": "Our travels now are somewhat different from my normal excavations. I would prefer lengthier studies... and fewer explosions.",
-   "tr": "",
+   "tr": "Şimdiki seyahatlerimiz olağan kazılarımdan biraz farklı. Daha uzun çalışmalar... ve daha az patlama tercih ederdim.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -669,7 +669,7 @@
   {
    "key": "u12650",
    "en": "I think you've spoken for scientists everywhere, Liara.",
-   "tr": "",
+   "tr": "Sanırım her yerdeki bilim insanları adına konuştun, Liara.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -679,7 +679,7 @@
   {
    "key": "u12651",
    "en": "The loss of all this Prothean technology is just one more thing Saren will have to pay for.",
-   "tr": "",
+   "tr": "Tüm bu Prothean teknolojisinin kaybı, Saren'in ödeyeceği bir şey daha.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -689,7 +689,7 @@
   {
    "key": "u12652",
    "en": "Yes. Most of the technology I had hoped to bring back to the flotilla has subsequently attempted to kill us.",
-   "tr": "",
+   "tr": "Evet. Filoya geri getirmeyi umduğum teknolojinin çoğu sonradan bizi öldürmeye çalıştı.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -699,7 +699,7 @@
   {
    "key": "u12653",
    "en": "It's good for you. A nice explosion every now and then keeps the mind sharp.",
-   "tr": "",
+   "tr": "Sana iyi geliyor. Arada bir güzel bir patlama zihni keskin tutar.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -709,7 +709,7 @@
   {
    "key": "u12654",
    "en": "I've heard some humans are angry at the quarians after the attack on Eden Prime. After all, you created the geth.",
-   "tr": "",
+   "tr": "Eden Prime saldırısından sonra bazı insanların quarian'lara kızgın olduğunu duydum. Sonuçta geth'i siz yarattınız.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -719,7 +719,7 @@
   {
    "key": "u12655",
    "en": "Tali, are the quarians concerned that the return of the geth will lead to more anger against your people?",
-   "tr": "",
+   "tr": "Tali, quarian'lar geth'in dönüşünün halkınıza karşı daha fazla öfkeye yol açacağından endişe ediyor mu?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -729,7 +729,7 @@
   {
    "key": "u12656",
    "en": "The geth killed billions and forced us from our homeworld. Most quarians believe we have paid properly for our mistake.",
-   "tr": "",
+   "tr": "Geth milyarları öldürdü ve bizi ana dünyamızdan zorla çıkardı. Çoğu quarian hatamızın bedelini gereğince ödediğimize inanıyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -739,7 +739,7 @@
   {
    "key": "u12657",
    "en": "Hopefully having you with us fighting Saren will change people's minds.",
-   "tr": "",
+   "tr": "Umarım seninle Saren'e karşı savaşmamız insanların fikrini değiştirir.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -749,7 +749,7 @@
   {
    "key": "u12658",
    "en": "I hope the other races view matters in the same light.",
-   "tr": "",
+   "tr": "Umarım diğer ırklar meseleye aynı gözle bakar.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -759,7 +759,7 @@
   {
    "key": "u12659",
    "en": "The quarians endangered the entire galaxy when they let the geth break free. I hope your people are properly contrite, Tali.",
-   "tr": "",
+   "tr": "Quarian'lar geth'in özgürleşmesine izin verince tüm galaksiyi tehlikeye attı. Umarım halkın gereğince pişmandır, Tali.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -769,7 +769,7 @@
   {
    "key": "u12660",
    "en": "As the turians are properly contrite for releasing the genophage upon the krogan?",
-   "tr": "",
+   "tr": "Turian'ların genophage'ı krogan'a salmaktan gereğince pişman olduğu gibi mi?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -779,7 +779,7 @@
   {
    "key": "u12661",
    "en": "You're assuming that sterilizing them was a mistake.",
-   "tr": "",
+   "tr": "Onları kısırlaştırmanın hata olduğunu varsayıyorsun.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -789,7 +789,7 @@
   {
    "key": "u12662",
    "en": "You quarians messed up the whole galaxy when you let the geth break free. Do your people ever talk about it?",
-   "tr": "",
+   "tr": "Siz quarian'lar geth'in özgürleşmesine izin verince tüm galaksiyi berbat ettiniz. Halkın bundan hiç bahsediyor mu?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -799,7 +799,7 @@
   {
    "key": "u12663",
    "en": "Do the krogan talk about starting a foolish war that resulted in the turians sterilizing your people?",
-   "tr": "",
+   "tr": "Krogan, turian'ların halkınızı kısırlaştırmasına yol açan aptalca savaşı başlatmaktan bahsediyor mu?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -809,7 +809,7 @@
   {
    "key": "u12664",
    "en": "All the time.",
-   "tr": "",
+   "tr": "Hep.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -819,7 +819,7 @@
   {
    "key": "u12665",
    "en": "Tali, why do you quarians wear those suits all the time? Is it a cultural thing?",
-   "tr": "",
+   "tr": "Tali, siz quarian'lar neden hep o giysileri giyiyorsunuz? Kültürel bir şey mi?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -829,7 +829,7 @@
   {
    "key": "u12666",
    "en": "Hey Tali, I heard a rumor that under those environmental suits, you quarians are partially synthetic.",
-   "tr": "",
+   "tr": "Hey Tali, o çevre giysilerinin altında quarian'ların kısmen sentetik olduğuna dair bir söylenti duydum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -839,7 +839,7 @@
   {
    "key": "u12667",
    "en": "I am curious about the helmet you always wear, Tali. Does it contain technical augmentation systems?",
-   "tr": "",
+   "tr": "Hep taktığın kaskı merak ediyorum, Tali. Teknik güçlendirme sistemleri içeriyor mu?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -849,7 +849,7 @@
   {
    "key": "u12668",
    "en": "Your choice in armor is awfully limited, Tali. Couldn't you wear something without a helmet?",
-   "tr": "",
+   "tr": "Zırh seçeneğin çok kısıtlı, Tali. Kasksız bir şey giyemez misin?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -859,7 +859,7 @@
   {
    "key": "u12669",
    "en": "What's with the helmets, Tali? Are all quarians shy, or do you not believe in letting outsiders see your faces?",
-   "tr": "",
+   "tr": "Bu kasklar ne, Tali? Tüm quarian'lar utangaç mı, yoksa yabancıların yüzünüzü görmesine inanmıyor musunuz?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -869,7 +869,7 @@
   {
    "key": "u12670",
    "en": "No. Living in the clean environment of the flotilla has weakened our immune systems. The environmental suits protect against diseases.",
-   "tr": "",
+   "tr": "Hayır. Filonun temiz ortamında yaşamak bağışıklık sistemimizi zayıflattı. Çevre giysileri hastalıklardan korur.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -879,7 +879,7 @@
   {
    "key": "u12671",
    "en": "Oh. Well, I'll try not to sneeze.",
-   "tr": "",
+   "tr": "Ah. Şey, hapşırmamaya çalışırım.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -889,7 +889,7 @@
   {
    "key": "u12672",
    "en": "It still makes you look a little like a geth, though. I'm just saying.",
-   "tr": "",
+   "tr": "Yine de seni biraz geth'e benzetiyor. Sadece söylüyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -899,7 +899,7 @@
   {
    "key": "u12673",
    "en": "I suppose that makes it more likely you will return from your Pilgrimage, then. You are only truly safe on your flotilla.",
-   "tr": "",
+   "tr": "Sanırım bu Hacından dönme ihtimalini artırıyor. Gerçekten yalnızca filonda güvendesin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -909,7 +909,7 @@
   {
    "key": "u12674",
    "en": "So your people are forever wandering, and now they couldn't settle if they wanted to. I'm sorry.",
-   "tr": "",
+   "tr": "Yani halkın sonsuza dek göçebe ve artık isteseler de yerleşemezler. Üzgünüm.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -919,7 +919,7 @@
   {
    "key": "u12675",
    "en": "Naturally. Anything that isn't constantly challenged grows weak.",
-   "tr": "",
+   "tr": "Doğal olarak. Sürekli zorlanmayan her şey zayıflar.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -929,7 +929,7 @@
   {
    "key": "u12676",
    "en": "Those asari commandos are impressive. Lightly armored, but their speed more than makes up for it.",
-   "tr": "",
+   "tr": "Şu asari komandolar etkileyici. Hafif zırhlılar ama hızları bunu fazlasıyla karşılıyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -939,7 +939,7 @@
   {
    "key": "u12677",
    "en": "Unless that speed lets them outrun bullets, I'm more inclined to stick with nice solid armor and a big gun.",
-   "tr": "",
+   "tr": "Hızları kurşunlardan kaçmalarına yetmedikçe sağlam zırh ve büyük silahı tercih ederim.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -949,7 +949,7 @@
   {
    "key": "u12678",
    "en": "Is it common for human women to be front-rank fighters, Chief Williams? I know that salarian women do not serve in the military.",
-   "tr": "",
+   "tr": "İnsan kadınların ön saf savaşçı olması yaygın mı, Başçavuş Williams? Salarian kadınların orduda hizmet etmediğini biliyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -959,7 +959,7 @@
   {
    "key": "u12679",
    "en": "I'm surprised to see you on the front lines, Chief Williams. Most women I've observed in your Alliance military serve in support roles.",
-   "tr": "",
+   "tr": "Seni ön cephede görünce şaşırdım, Başçavuş Williams. İttifak ordunuzda gözlemlediğim kadınların çoğu destek rollerinde.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -969,7 +969,7 @@
   {
    "key": "u12680",
    "en": "It's becoming more common, but it took a long time to prove that \"ladies\" could handle an assault rifle or a shotgun.",
-   "tr": "",
+   "tr": "Yaygınlaşıyor ama \"hanımların\" bir taarruz tüfeğini ya da pompalıyı kullanabileceğini kanıtlamak uzun zaman aldı.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -979,7 +979,7 @@
   {
    "key": "u12681",
    "en": "I doubt anyone who saw your skill under fire could remain skeptical.",
-   "tr": "",
+   "tr": "Ateş altındaki becerini gören kimsenin şüpheci kalabileceğini sanmıyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -989,7 +989,7 @@
   {
    "key": "u12682",
    "en": "On the flotilla, we don't have the luxury of sexism. We need the best hands for every available job.",
-   "tr": "",
+   "tr": "Filoda cinsiyetçilik lüksümüz yok. Her mevcut iş için en iyi ellere ihtiyacımız var.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -999,7 +999,7 @@
   {
    "key": "u12683",
    "en": "Sounds nice, but I don't think I could get used to the uniform.",
-   "tr": "",
+   "tr": "Hoş geliyor ama üniformaya alışabileceğimi sanmıyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1009,7 +1009,7 @@
   {
    "key": "u12684",
    "en": "Such enforced roles are common in dual-sexed societies. I was fortunate not to have to deal with that particular burden.",
-   "tr": "",
+   "tr": "Bu tür zorunlu roller çift cinsiyetli toplumlarda yaygın. O yükle uğraşmak zorunda kalmadığım için şanslıydım.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1019,7 +1019,7 @@
   {
    "key": "u12685",
    "en": "You handle yourself well, Williams. It's surprising. Krogan women have to stay home to try to reproduce.",
-   "tr": "",
+   "tr": "Kendini iyi idare ediyorsun, Williams. Şaşırtıcı. Krogan kadınları üremeye çalışmak için evde kalmak zorunda.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1029,7 +1029,7 @@
   {
    "key": "u12686",
    "en": "Sorry to disappoint, Wrex. I'm not the stay-at-home kind.",
-   "tr": "",
+   "tr": "Hayal kırıklığına uğrattığım için üzgünüm, Wrex. Evde kalan tipten değilim.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1039,7 +1039,7 @@
   {
    "key": "u12687",
    "en": "Didn't say I was disappointed. I could get used to killing with women around. Gives the fight a different flavor.",
-   "tr": "",
+   "tr": "Hayal kırıklığına uğradığımı söylemedim. Çevrede kadınlar varken öldürmeye alışabilirim. Savaşa farklı bir tat veriyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1049,7 +1049,7 @@
   {
    "key": "u12688",
    "en": "I haven't spent much time with krogan before, Wrex. I have to say, you're not what I expected.",
-   "tr": "",
+   "tr": "Daha önce krogan'larla pek vakit geçirmedim, Wrex. Söylemeliyim ki beklediğim gibi değilsin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1059,7 +1059,7 @@
   {
    "key": "u12689",
    "en": "I haven't spent much time with any krogan before you, Wrex. I have to say, you're not what I expected.",
-   "tr": "",
+   "tr": "Senden önce hiçbir krogan'la pek vakit geçirmedim, Wrex. Söylemeliyim ki beklediğim gibi değilsin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1069,7 +1069,7 @@
   {
    "key": "u12690",
    "en": "Right. Because you humans have a wide range of cultures and attitudes, but krogan all think and act exactly alike.",
-   "tr": "",
+   "tr": "Doğru. Çünkü siz insanların geniş bir kültür ve tutum yelpazesi var ama krogan hepsi aynı düşünüp aynı davranıyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1079,7 +1079,7 @@
   {
    "key": "u12691",
    "en": "Whoa! I didn't mean... look, just forget I said anything!",
-   "tr": "",
+   "tr": "Vay! Demek istemedim... bak, söylediğimi unut!",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1089,7 +1089,7 @@
   {
    "key": "u12692",
    "en": "Look, I didn't mean--- Just forget I said anything.",
-   "tr": "",
+   "tr": "Bak, demek istemedim... Söylediğimi unut.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1099,7 +1099,7 @@
   {
    "key": "u12693",
    "en": "You are unlike the other krogan I have met, Wrex. Your do not share the bloodlust of your people.",
-   "tr": "",
+   "tr": "Tanıştığım diğer krogan'lara benzemiyorsun, Wrex. Halkının kan hırsını paylaşmıyorsun.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1109,7 +1109,7 @@
   {
    "key": "u12694",
    "en": "I'd been raised to see krogan as bloodthirsty thugs, but you've surprised me, Wrex. You are different.",
-   "tr": "",
+   "tr": "Krogan'ı kana susamış serseriler olarak görmem öğretilmişti ama beni şaşırttın, Wrex. Farklısın.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1119,7 +1119,7 @@
   {
    "key": "u12695",
    "en": "The genophage is a lot easier to swallow when all krogan are savage monsters, isn't it? ",
-   "tr": "",
+   "tr": "Tüm krogan vahşi canavarsa genophage'ı yutmak çok daha kolay, değil mi?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1129,7 +1129,7 @@
   {
    "key": "u12696",
    "en": "Why don't you head back to the Normandy, kid? If you stay here in the real world, you might have to learn something.",
-   "tr": "",
+   "tr": "Normandy'ye geri dönsene evlat? Gerçek dünyada kalırsan bir şey öğrenmek zorunda kalabilirsin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1139,7 +1139,7 @@
   {
    "key": "u12697",
    "en": "Wrex, forgive the impertinence, but you are not like the krogan described in the stories on the flotilla.",
-   "tr": "",
+   "tr": "Wrex, küstahlığımı affet ama filodaki hikâyelerde anlatılan krogan'a benzemiyorsun.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1149,7 +1149,7 @@
   {
    "key": "u12698",
    "en": "When you're young, you go looking for every fight you can. You get older, you realize that the best fights will find you.",
-   "tr": "",
+   "tr": "Gençken bulabildiğin her kavgayı ararsın. Yaşlanınca en iyi kavgaların seni bulduğunu anlarsın.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1159,7 +1159,7 @@
   {
    "key": "u12699",
    "en": "Liara, if your people don't need implants to use biotics, how come asari don't use biotics more often?",
-   "tr": "",
+   "tr": "Liara, halkın biyotik kullanmak için implanta ihtiyaç duymuyorsa asari neden biyotikleri daha sık kullanmıyor?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1169,7 +1169,7 @@
   {
    "key": "u12700",
    "en": "So, Doctor T'Soni, are all asari biotics? I heard Lieutenant Alenko say something about you not needing implants.",
-   "tr": "",
+   "tr": "Peki, Doktor T'Soni, tüm asari biyotik mi? Teğmen Alenko'nun implanta ihtiyacın olmadığını söylediğini duydum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1179,7 +1179,7 @@
   {
    "key": "u12701",
    "en": "Sometimes I envy your biotic abilities, Doctor. But then, all your people have such skill.",
-   "tr": "",
+   "tr": "Bazen biyotik yeteneklerini kıskanıyorum, Doktor. Ama tüm halkın bu beceriye sahip.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1189,7 +1189,7 @@
   {
    "key": "u12702",
    "en": "Your biotic skill is extremely impressive, Doctor T'soni. Is that typical among asari?",
-   "tr": "",
+   "tr": "Biyotik becerin son derece etkileyici, Doktor T'soni. Asari arasında tipik mi bu?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1199,7 +1199,7 @@
   {
    "key": "u12703",
    "en": "Your biotics are pretty powerful. Are all asari that strong?",
-   "tr": "",
+   "tr": "Biyotiklerin oldukça güçlü. Tüm asari bu kadar güçlü mü?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1209,7 +1209,7 @@
   {
    "key": "u12704",
    "en": "While the asari have natural biotic abilities, not all have the desire nor the skill to use their abilities effectively.",
-   "tr": "",
+   "tr": "Asari doğal biyotik yeteneklere sahip olsa da hepsinin bu yetenekleri etkili kullanma isteği ya da becerisi yok.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1219,7 +1219,7 @@
   {
    "key": "u12705",
    "en": "Are you kidding? To have that ability, without implants, and choose not to learn? I'll never understand the asari.",
-   "tr": "",
+   "tr": "Şaka mı yapıyorsun? İmplantsız o yeteneğe sahip olup öğrenmemeyi seçmek mi? Asari'yi asla anlamayacağım.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1229,7 +1229,7 @@
   {
    "key": "u12706",
    "en": "To have so many potential biotics that people can choose not to train... I imagine the lieutenant would be jealous.",
-   "tr": "",
+   "tr": "Eğitmemeyi seçebilecek kadar çok potansiyel biyotik olması... Teğmenin kıskanacağını hayal ediyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1239,7 +1239,7 @@
   {
    "key": "u12707",
    "en": "Of course. I intended no disrespect to the effort you have put into your training. Pardon me.",
-   "tr": "",
+   "tr": "Elbette. Eğitimine verdiğin emeğe saygısızlık etmek istemedim. Affet.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1249,7 +1249,7 @@
   {
    "key": "u12708",
    "en": "And the asari are the most advanced race on the Council. I wonder if all Citadel races will eventually be natural biotics.",
-   "tr": "",
+   "tr": "Ve asari Konsey'in en gelişmiş ırkı. Eninde sonunda tüm Citadel ırklarının doğal biyotik olup olmayacağını merak ediyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1259,7 +1259,7 @@
   {
    "key": "u12709",
    "en": "All that power, and some asari don't use it? You could've conquered the galaxy if you'd wanted to.",
-   "tr": "",
+   "tr": "Bunca güç ve bazı asari kullanmıyor mu? İstesen galaksiyi fethedebilirdin.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1269,7 +1269,7 @@
   {
    "key": "u12710",
    "en": "Evidently, we do not want to.",
-   "tr": "",
+   "tr": "Anlaşılan istemiyoruz.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1279,7 +1279,7 @@
   {
    "key": "u12711",
    "en": "Hearing about the Protheans makes me wonder if some distant civilization is going to find our artifacts someday and study us.",
-   "tr": "",
+   "tr": "Prothean'ları dinlemek, uzak bir medeniyetin bir gün bizim eserlerimizi bulup bizi inceleyip incelemeyeceğini merak ettiriyor.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1289,7 +1289,7 @@
   {
    "key": "u12712",
    "en": "No, sir. When some distant civilization finds our artifacts, we'll be right there to explain what they are.",
-   "tr": "",
+   "tr": "Hayır, efendim. Uzak bir medeniyet eserlerimizi bulduğunda biz de orada ne olduklarını açıklamak için olacağız.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1299,7 +1299,7 @@
   {
    "key": "u12713",
    "en": "I hope so, Williams, but I'll bet the Protheans thought the same thing.",
-   "tr": "",
+   "tr": "Umarım öyledir, Williams ama bahse girerim Prothean'lar da aynısını düşünmüştür.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1309,7 +1309,7 @@
   {
    "key": "u12714",
    "en": "I have often wondered the same thing, Lieutenant. Artifacts of vanished cultures are reminders of our own mortality.",
-   "tr": "",
+   "tr": "Ben de sık sık aynısını merak ettim, Teğmen. Yok olmuş kültürlerin eserleri kendi ölümlülüğümüzü hatırlatır.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1319,7 +1319,7 @@
   {
    "key": "u12715",
    "en": "All empires fall, Lieutenant. We can only hope that what we leave behind inspires respect and admiration.",
-   "tr": "",
+   "tr": "Tüm imparatorluklar çöker, Teğmen. Yalnızca geride bıraktıklarımızın saygı ve hayranlık uyandırmasını umabiliriz.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1329,7 +1329,7 @@
   {
    "key": "u12716",
    "en": "The worlds we abandoned when the geth revolted serve as just such an example. It is a reminder of our mortality.",
-   "tr": "",
+   "tr": "Geth isyan edince terk ettiğimiz dünyalar tam böyle bir örnek. Ölümlülüğümüzün hatırlatıcısı.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1339,7 +1339,7 @@
   {
    "key": "u12717",
    "en": "Feeling mortal, Alenko?",
-   "tr": "",
+   "tr": "Ölümlü mü hissediyorsun, Alenko?",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1349,7 +1349,7 @@
   {
    "key": "u12718",
    "en": "I'm not afraid to die. I guess I just want to be remembered by more than a few trinkets in a ruin somewhere.",
-   "tr": "",
+   "tr": "Ölmekten korkmuyorum. Sanırım bir harabede birkaç süs eşyasından fazlasıyla hatırlanmak istiyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1359,7 +1359,7 @@
   {
    "key": "u12719",
    "en": "It's strange. The geth are attacking, and everyone around here is still worried about ordinary business.",
-   "tr": "",
+   "tr": "Tuhaf. Geth saldırıyor ve buradaki herkes hâlâ sıradan işler için endişeli.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1369,7 +1369,7 @@
   {
    "key": "u12720",
    "en": "It's politics, Williams. The Council won't raise the alarm until they're certain about the threat.",
-   "tr": "",
+   "tr": "Siyaset, Williams. Konsey tehditten emin olana dek alarm vermeyecek.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1379,7 +1379,7 @@
   {
    "key": "u12721",
    "en": "The threat? Did they not see the vids of Eden Prime? See, this is why I hate politics.",
-   "tr": "",
+   "tr": "Tehdit mi? Eden Prime'ın videolarını görmediler mi? Gördün mü, politikadan bu yüzden nefret ediyorum.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1389,7 +1389,7 @@
   {
    "key": "u12722",
    "en": "I find it comforting. The pain and joy of ordinary life... that is what we are fighting to protect.",
-   "tr": "",
+   "tr": "Ben teselli edici buluyorum. Sıradan hayatın acısı ve sevinci... savunmak için savaştığımız şey bu.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1399,7 +1399,7 @@
   {
    "key": "u12723",
    "en": "You're military, Chief Williams. They're civilians. Civilians never believe the enemy is coming until they're at the gates.",
-   "tr": "",
+   "tr": "Sen askersin, Başçavuş Williams. Onlar sivil. Siviller düşman kapıya dayanana dek geldiğine asla inanmaz.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1409,7 +1409,7 @@
   {
    "key": "u12724",
    "en": "It's necessary, Chief Williams. Even if it comes to a full-scale war, someone has to provide food to eat and a home to return to.",
-   "tr": "",
+   "tr": "Gerekli, Başçavuş Williams. Tam ölçekli savaşa varsa bile birinin yiyecek ve dönecek ev sağlaması gerek.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1419,7 +1419,7 @@
   {
    "key": "u12725",
    "en": "Let them stay ignorant. If our mission reaches the point where these people need to worry about the geth, we've already lost.",
-   "tr": "",
+   "tr": "Cahil kalsınlar. Görevimiz bu insanların geth için endişelenmesi gereken noktaya ulaşırsa zaten kaybetmişiz demektir.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1429,7 +1429,7 @@
   {
    "key": "u12726",
    "en": "Are you okay, Tali? It looked like you got some dirty looks back there.",
-   "tr": "",
+   "tr": "İyi misin, Tali? Arkada bazı kötü bakışlar aldın gibi.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1439,7 +1439,7 @@
   {
    "key": "u12727",
    "en": "I could not help but notice that you are attracting some unfriendly stares, Tali.",
-   "tr": "",
+   "tr": "Bazı gönülsüz bakışları çektiğini fark etmeden duramadım, Tali.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1449,7 +1449,7 @@
   {
    "key": "u12728",
    "en": "You seem to be attracting unwanted attention, Tali. Several passersby were staring at you.",
-   "tr": "",
+   "tr": "İstenmeyen ilgi çekiyor gibisin, Tali. Birkaç yoldan geçen sana bakıyordu.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1459,7 +1459,7 @@
   {
    "key": "u12729",
    "en": "Some people back there didn't like you, Tali.",
-   "tr": "",
+   "tr": "Arkadaki bazı insanlar senden hoşlanmadı, Tali.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1469,7 +1469,7 @@
   {
    "key": "u12730",
    "en": "Many think less of quarians for traveling in the flotilla, and for creating the geth. They see us as scavengers, little better than thieves.",
-   "tr": "",
+   "tr": "Pek çoğu quarian'ları filoda seyahat ettikleri ve geth'i yarattıkları için küçük görüyor. Bizi leşçi, hırsızdan pek iyi olmayan biri olarak görüyorlar.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
@@ -1479,7 +1479,7 @@
   {
    "key": "u12731",
    "en": "Forget them. Anyone that ignorant isn't worth listening to, anyway.",
-   "tr": "",
+   "tr": "Onları boş ver. O kadar cahil biri zaten dinlenmeye değmez.",
    "ctx": [
     "BIOA_STA30_00_PLC_LOC",
     "BIOA_STA30_00news_DSG_LOC",
