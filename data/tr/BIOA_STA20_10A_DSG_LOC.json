@@ -1,0 +1,1120 @@
+{
+ "meta": {
+  "package": "BIOA_STA20_10A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA20_10A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158682",
+   "en": "You have no available Citadel Rapid Transit destinations.",
+   "tr": "Kullanabileceğiniz Citadel Hızlı Ulaşım hedefi yok."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158683",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158686",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158687",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158688",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158690",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158692",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158694",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158696",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158700",
+   "en": "Embassies",
+   "tr": "Büyükelçilikler"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158701",
+   "en": "Exit",
+   "tr": "Çıkış"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158702",
+   "en": "Citadel Tower",
+   "tr": "Citadel Tower"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158704",
+   "en": "Financial District",
+   "tr": "Finans Bölgesi"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158706",
+   "en": "Med Clinic",
+   "tr": "Sağlık Kliniği"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158708",
+   "en": "Markets",
+   "tr": "Pazarlar"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158710",
+   "en": "C-Sec",
+   "tr": "C-Sec"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158852",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158853",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158854",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158855",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158856",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158857",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158858",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158859",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158860",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158861",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158862",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158863",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158864",
+   "en": "Back",
+   "tr": "Geri"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158865",
+   "en": "Consort Chambers",
+   "tr": "Refakatçi Odaları"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158866",
+   "en": "Wards Access",
+   "tr": "Wards Girişi"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158867",
+   "en": "Back",
+   "tr": "Geri"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158868",
+   "en": "Flux",
+   "tr": "Flux"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|158869",
+   "en": "Chora's Den",
+   "tr": "Chora's Den"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta00_cab_D|159576",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83602",
+   "en": "Yes, Commander? Is there something you need?",
+   "tr": "Evet, Komutan? Bir şeye mi ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83603",
+   "en": "About twenty years ago, I was part of a mission in the Skyllian Verge. I was working with Saren to find and remove a known terrorist threat.",
+   "tr": "Yaklaşık yirmi yıl önce Skyllian Verge'de bir görevin parçasıydım. Bilinen bir terör tehdidini bulup ortadan kaldırmak için Saren'le çalışıyordum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83604",
+   "en": "Saren eliminated his target. But a lot of people died along the way. Innocent people. And the official records just covered it all up.",
+   "tr": "Saren hedefini ortadan kaldırdı. Ama yol boyunca çok kişi öldü. Masum insanlar. Ve resmî kayıtlar hepsini örttü."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83605",
+   "en": "But I saw how he operates. No conscience. No hesitation. He'd kill a thousand innocent civilians to end a war without a second thought.",
+   "tr": "Ama nasıl çalıştığını gördüm. Vicdan yok. Tereddüt yok. Bir savaşı bitirmek için bin masum sivili ikinci düşünmeden öldürür."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83607",
+   "en": "I know how the world works, Commander. Sometimes you're forced to make unpleasant decisions.",
+   "tr": "Dünyanın nasıl işlediğini biliyorum, Komutan. Bazen hoş olmayan kararlar vermeye zorlanırsınız."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83608",
+   "en": "But only if there's no other way. Saren doesn't even look for another option. He's twisted, broken. He likes the violence, the killing. And he knows how to cover his tracks.",
+   "tr": "Ama yalnızca başka yol yoksa. Saren başka seçenek aramıyor bile. Çarpık, kırık biri. Şiddetten, öldürmekten hoşlanıyor. Ve izlerini nasıl sileceğini biliyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83611",
+   "en": "He's just frustrated. The Council's always preaching that we need to be part of the galactic community. But for them it's a one-way street.",
+   "tr": "Sadece hayal kırıklığına uğramış. Konsey hep galaktik topluluğun parçası olmamız gerektiğini vaaz ediyor. Ama onlar için tek yönlü bir yol."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83612",
+   "en": "They want us to expand and settle unstable regions like the Skyllian Verge and the Attican Traverse. But when we run into trouble, they don't want to help us out.",
+   "tr": "Skyllian Verge ve Attican Traverse gibi istikrarsız bölgeleri genişletip yerleşmemizi istiyorlar. Ama başımız belaya girdiğinde yardım etmek istemiyorlar."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83613",
+   "en": "Everyone knows it's only a matter of time until we get a seat on the Council. The ambassador just thinks it should happen sooner rather than later. And I agree.",
+   "tr": "Herkes Konsey'de bir koltuk almamızın an meselesi olduğunu biliyor. Büyükelçi sadece bunun daha geç değil daha erken olması gerektiğini düşünüyor. Ben de katılıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83614",
+   "en": "Of course they would! If we did everything they told us to, they'd love to have us on the Council. But it wouldn't be much of a deal for us.",
+   "tr": "Elbette! Onların dediği her şeyi yapsak bizi Konsey'de görmeye bayılırlar. Ama bizim için pek bir anlaşma olmazdı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83616",
+   "en": "I understand their side. They don't want us dominating the Council. It's founded on cooperation and alliances. But we have to look out for our own interests, too.",
+   "tr": "Onların tarafını anlıyorum. Konsey'e hâkim olmamızı istemiyorlar. İşbirliği ve ittifaklara dayanıyor. Ama biz de kendi çıkarlarımızı gözetmeliyiz."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83617",
+   "en": "If the Council passes a ruling on an interstellar matter, we have to follow it. We don't have the fleets or political allies to defy them.",
+   "tr": "Konsey yıldızlararası bir konuda karar verirse uymak zorundayız. Karşı gelecek filolarımız ya da siyasi müttefiklerimiz yok."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83618",
+   "en": "Once we get a seat on the Council, we'll be able to influence those rulings, protect our own interests. No more jumping through hoops whenever we want something.",
+   "tr": "Konsey'de bir koltuğumuz olunca bu kararları etkileyebilir, kendi çıkarlarımızı koruyabiliriz. Bir şey istediğimizde artık çemberlerden geçmeyeceğiz."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83625",
+   "en": "He's a necessary evil of galactic politics. Buying and selling information is part of the game, and the Shadow Broker just happens to be the best player on the field.",
+   "tr": "Galaktik siyasetin gerekli bir kötülüğü. Bilgi alıp satmak oyunun parçası ve Shadow Broker sahanın en iyi oyuncusu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83626",
+   "en": "Always sells to the highest bidder. Doesn't get involved in politics. Doesn't pick sides. A simple system, but it works.",
+   "tr": "Hep en çok ödeyene satar. Siyasete karışmaz. Taraf tutmaz. Basit bir sistem ama işe yarıyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83627",
+   "en": "He's not a threat to anyone. Not directly. He's just a resource we can use. Or she is. Or maybe they are. Nobody really knows.",
+   "tr": "Kimse için tehdit değil. En azından doğrudan değil. Sadece kullanabileceğimiz bir kaynak. Ya da kadın. Ya da onlar. Kimse gerçekten bilmiyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83635",
+   "en": "The guy joined C-Sec about twenty years ago. He's been an embarrassment to our species ever since.",
+   "tr": "Adam yaklaşık yirmi yıl önce C-Sec'e katıldı. O zamandan beri türümüz için utanç kaynağı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83636",
+   "en": "Roughing up suspects in custody, bribery accusations, alcohol and drug use. The embassy used to step in when he got in trouble, but I guess enough was enough.",
+   "tr": "Gözaltındaki şüphelilere sert davranma, rüşvet suçlamaları, alkol ve uyuşturucu kullanımı. Büyükelçilik belaya girdiğinde araya girerdi ama sanırım yeter dediler."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83637",
+   "en": "He was one of the first human C-Sec officers. Guess it would have looked bad if he got fired.",
+   "tr": "İlk insan C-Sec subaylarından biriydi. Kovulsa kötü görünürdü sanırım."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83638",
+   "en": "A lot of backroom deals were worked out over the years to keep him on the force. Politics is a dirty business sometimes.",
+   "tr": "Yıllar içinde onu kadroda tutmak için pek çok kulis anlaşması yapıldı. Siyaset bazen kirli iştir."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83639",
+   "en": "But it looks like his time's run out. We've got enough humans in C-Sec now to stop protecting him.",
+   "tr": "Ama sanırım vakti doldu. Artık C-Sec'te onu korumayı bırakacak kadar insan var."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83640",
+   "en": "Harkin may be human, but he's also an ass. He's had more than his share of chances.",
+   "tr": "Harkin insan olabilir ama aynı zamanda bir pislik. Payına düşenden fazla şans buldu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83641",
+   "en": "If the embassy wasn't protecting him, he would've been fired fifteen years ago. C-Sec is better off without him.",
+   "tr": "Büyükelçilik onu korumasa on beş yıl önce kovulurdu. C-Sec onsuz daha iyi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83642",
+   "en": "He specializes in moving large sums of money without leaving a paper trail. A financial genius. Doesn't do anything illegal, but he knows all the loopholes.",
+   "tr": "Büyük miktarda parayı kâğıt izi bırakmadan taşımada uzman. Finansal bir deha. Yasadışı hiçbir şey yapmıyor ama tüm boşlukları biliyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83643",
+   "en": "He's got an impressive client list: ambassadors, diplomats, Spectres. That's probably why the Shadow Broker uses him.",
+   "tr": "Etkileyici bir müşteri listesi var: büyükelçiler, diplomatlar, Spectre'lar. Shadow Broker'ın onu kullanmasının nedeni muhtemelen bu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83655",
+   "en": "You and Saren have a history. What happened?",
+   "tr": "Sizin ve Saren'in geçmişi var. Ne oldu?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83659",
+   "en": "Sometimes a thousand people must die so a million can live.",
+   "tr": "Bazen bir milyon kişinin yaşaması için bin kişinin ölmesi gerekir."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83660",
+   "en": "Killing innocents doesn't end wars. It causes them.",
+   "tr": "Masumları öldürmek savaşları bitirmez. Başlatır."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83664",
+   "en": "Our ambassador doesn't seem to get along with the Council.",
+   "tr": "Büyükelçimiz Konsey'le pek geçinmiyor gibi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83667",
+   "en": "Maybe they'd let us join the Council if we were more willing to cooperate with the other species.",
+   "tr": "Belki diğer türlerle işbirliğine daha istekli olsaydık Konsey'e katılmamıza izin verirlerdi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83670",
+   "en": "Who cares if we get a seat on the Council? What's the big deal?",
+   "tr": "Konsey'de koltuk almamız kimin umurunda? Önemi ne?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83673",
+   "en": "I want to know more about the Spectres.",
+   "tr": "Spectre'lar hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83678",
+   "en": "Tell me more about the Shadow Broker.",
+   "tr": "Bana Shadow Broker hakkında daha fazlasını anlat."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83681",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83687",
+   "en": "You don't think much of Harkin.",
+   "tr": "Harkin hakkında pek iyi düşünmüyorsunuz."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83689",
+   "en": "The guy's a scumbag. He should have been cut loose a long time ago.",
+   "tr": "Adam bir pislik. Çok önce kovulmalıydı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83692",
+   "en": "I thought this embassy was supposed to help humans.",
+   "tr": "Bu büyükelçiliğin insanlara yardım etmesi gerekiyordu sanıyordum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83694",
+   "en": "Tell me about Barla Von.",
+   "tr": "Bana Barla Von'dan bahset."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83712",
+   "en": "Harkin",
+   "tr": "Harkin"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83713",
+   "en": "Barla Von",
+   "tr": "Barla Von"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83719",
+   "en": "Why protect him?",
+   "tr": "Neden korusun?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83720",
+   "en": "They abandoned him?",
+   "tr": "Onu terk mi ettiler?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83733",
+   "en": "What about you and Saren?",
+   "tr": "Peki ya siz ve Saren?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83734",
+   "en": "Council and the Ambassador",
+   "tr": "Konsey ve Büyükelçi"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83735",
+   "en": "Spectres",
+   "tr": "Spectre'lar"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83736",
+   "en": "Shadow Broker",
+   "tr": "Shadow Broker"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83737",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83741",
+   "en": "So would I.",
+   "tr": "Ben de."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83742",
+   "en": "He's a monster.",
+   "tr": "O bir canavar."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83748",
+   "en": "We're too independent.",
+   "tr": "Fazla bağımsızız."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|83749",
+   "en": "Why do we bother?",
+   "tr": "Neden uğraşıyoruz?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84353",
+   "en": "I knew he'd try to stir up trouble. But Harkin isn't as smart as he thinks he is. I was never a Spectre. Not really.",
+   "tr": "Sorun çıkarmaya çalışacağını biliyordum. Ama Harkin sandığı kadar akıllı değil. Ben hiç Spectre olmadım. Gerçekten değil."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84354",
+   "en": "The Council sent Saren to keep an eye on me and evaluate my performance. Just like they sent Nihlus to keep tabs on you.",
+   "tr": "Konsey beni izlemesi ve performansımı değerlendirmesi için Saren'i gönderdi. Tıpkı sizi izlemesi için Nihlus'u gönderdikleri gibi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84355",
+   "en": "It's not something I'm proud of. I had a chance to become the first human Spectre and I failed. Saren made sure of that.",
+   "tr": "Gurur duyduğum bir şey değil. İlk insan Spectre olma şansım vardı ve başaramadım. Saren bunu garantiledi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84356",
+   "en": "I'll be here if you need anything.",
+   "tr": "Bir şeye ihtiyacınız olursa buradayım."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84358",
+   "en": "I trusted you. You betrayed me.",
+   "tr": "Sana güvendim. Bana ihanet ettin."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84359",
+   "en": "I think I deserve the whole story.",
+   "tr": "Bence tüm hikâyeyi hak ediyorum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84361",
+   "en": "Harkin spilled your dirty little secret. He told me you were a Spectre!",
+   "tr": "Harkin kirli küçük sırrını ifşa etti. Bana Spectre olduğunu söyledi!"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84362",
+   "en": "You used to be a Spectre!",
+   "tr": "Eskiden Spectre'dın!"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84364",
+   "en": "You lied to me.",
+   "tr": "Bana yalan söyledin."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|84365",
+   "en": "What happened?",
+   "tr": "Ne oldu?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85257",
+   "en": "It's close to twenty years ago now. Ambassador Goyle was our representative here on the Citadel. Like Udina, she wanted to get a human into the Spectres. She chose me.",
+   "tr": "Neredeyse yirmi yıl önce. Büyükelçi Goyle Citadel'deki temsilcimizdi. Udina gibi o da Spectre'lara bir insan sokmak istedi. Beni seçti."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85258",
+   "en": "We had intel on a rogue scientist being funded by batarian interests. He was trying to set up a facility to develop illegal AI technology out in the Verge.",
+   "tr": "Verge'de yasadışı YZ teknolojisi geliştirmek için bir tesis kurmaya çalışan, batarian çıkarlarınca finanse edilen başıboş bir bilim insanı hakkında istihbaratımız vardı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85259",
+   "en": "We tracked the scientist to a refining facility on Camala. He was hidden away somewhere inside, protected by an army of batarian mercenaries.",
+   "tr": "Bilim insanının izini Camala'daki bir rafineriye kadar sürdük. İçeride bir yerde, batarian paralı askerlerden oluşan bir ordunun koruması altında saklanıyordu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85260",
+   "en": "The plan was simple: sneak into the plant, capture the scientist, sneak back out. Quick, quiet, and a minimum of bloodshed.",
+   "tr": "Plan basitti: tesise gizlice girip bilim insanını yakalamak, gizlice çıkmak. Hızlı, sessiz ve asgari kan dökülmesiyle."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85261",
+   "en": "Saren and I split up to cover more ground. Then, about halfway through the mission, there was a massive explosion in the refinery core.",
+   "tr": "Saren'le daha fazla alanı kapatmak için ayrıldık. Sonra, görevin yaklaşık yarısında rafineri çekirdeğinde devasa bir patlama oldu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85265",
+   "en": "Officially, it was ruled an accident. But I think Saren detonated it on purpose to draw off the enemy guards.",
+   "tr": "Resmî olarak kaza sayıldı. Ama bence Saren düşman muhafızlarını uzaklaştırmak için kasten patlattı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85266",
+   "en": "The explosion tore the refinery to shreds. The whole place was on fire. Black chemical clouds poured out into the atmosphere. Nobody inside survived.",
+   "tr": "Patlama rafineriyi paramparça etti. Her yer yanıyordu. Siyah kimyasal bulutlar atmosfere yayıldı. İçerideki kimse hayatta kalmadı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85267",
+   "en": "There was a camp for the workers and their families nearby. Between the fires and the toxic fumes, the final death count was over five hundred. Mostly civilians.",
+   "tr": "Yakında işçiler ve aileleri için bir kamp vardı. Yangınlar ve zehirli dumanlar arasında nihai ölü sayısı beş yüzü aştı. Çoğu sivil."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85268",
+   "en": "Saren didn't care. The target was eliminated. Mission accomplished. And I ended up taking the blame. That ended all talk of me joining the Spectres.",
+   "tr": "Saren umursamadı. Hedef ortadan kaldırıldı. Görev tamam. Ve suçu ben üstlendim. Bu, Spectre'lara katılmam hakkındaki tüm konuşmaları bitirdi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85269",
+   "en": "In his report, Saren accused me of blowing his cover. He said it was my fault the guards were ready for us. He claimed that's why it turned into a massacre.",
+   "tr": "Raporunda Saren beni örtümü ifşa etmekle suçladı. Muhafızların bize hazır olmasının benim suçum olduğunu söyledi. Bunun bir katliama dönüşmesinin nedeni bu dedi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85270",
+   "en": "Saren's report was all the proof the Council needed to kill my chances of becoming a Spectre.",
+   "tr": "Saren'in raporu Konsey'in Spectre olma şansımı öldürmesi için gereken tüm kanıttı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85271",
+   "en": "I don't. I blame Saren. I think he wanted things to go bad. He was looking for an excuse to blow that refinery.",
+   "tr": "Etmiyorum. Saren'i suçluyorum. Bence işlerin kötü gitmesini istedi. O rafineriyi havaya uçurmak için bir bahane arıyordu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85273",
+   "en": "Maybe he just likes the violence. Maybe he was just trying to make me look bad to keep humans out of the Spectres. If so, he pulled it off.",
+   "tr": "Belki sadece şiddeti seviyordu. Belki insanları Spectre'lardan uzak tutmak için beni kötü göstermeye çalışıyordu. Öyleyse başardı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85274",
+   "en": "Who do you think the Council was going to listen to? Me? Or their best agent?",
+   "tr": "Konsey'in kimi dinleyeceğini sanıyorsun? Beni mi? Yoksa en iyi ajanlarını mı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85275",
+   "en": "I had a bad feeling about him right from the start. I should've been more careful. Maybe I could have stopped things before they got out of hand.",
+   "tr": "Başından beri ondan kötü bir his aldım. Daha dikkatli olmalıydım. Belki işler elden çıkmadan durdurabilirdim."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85276",
+   "en": "You're right, Commander. It's no good living in the past. We need to stay focused on exposing Saren's current crimes.",
+   "tr": "Haklısınız, Komutan. Geçmişte yaşamanın yararı yok. Saren'in şimdiki suçlarını ifşa etmeye odaklanmalıyız."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85278",
+   "en": "Why weren't you honest with me?",
+   "tr": "Neden bana dürüst olmadınız?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85287",
+   "en": "Sounds like overkill to me.",
+   "tr": "Bana abartı gibi geliyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85290",
+   "en": "Saren caused the explosion. How'd he pin it on you?",
+   "tr": "Patlamaya Saren neden oldu. Suçu size nasıl yıktı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85292",
+   "en": "Don't blame yourself, Captain.",
+   "tr": "Kendinizi suçlamayın, Kaptan."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85295",
+   "en": "Why'd you let him get away with it?",
+   "tr": "Neden yanına kâr kalmasına izin verdiniz?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85297",
+   "en": "The only thing I care about is stopping Saren.",
+   "tr": "Umursadığım tek şey Saren'i durdurmak."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85298",
+   "en": "I want to know the truth about you and Saren. I want to know about the mission you were on together all those years ago.",
+   "tr": "Siz ve Saren hakkındaki gerçeği bilmek istiyorum. Yıllar önce birlikte çıktığınız görevi bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85299",
+   "en": "You worked with the Spectres.",
+   "tr": "Spectre'larla çalıştınız."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85301",
+   "en": "Why hide this?",
+   "tr": "Neden sakladınız?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85302",
+   "en": "This doesn't matter.",
+   "tr": "Bunun önemi yok."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85313",
+   "en": "That's a little extreme.",
+   "tr": "Bu biraz aşırı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85316",
+   "en": "You got blamed?",
+   "tr": "Suçlandınız mı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85319",
+   "en": "It wasn't your fault.",
+   "tr": "Sizin suçunuz değildi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85320",
+   "en": "That's not fair!",
+   "tr": "Bu haksızlık!"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85321",
+   "en": "Forget about the past.",
+   "tr": "Geçmişi boş verin."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|85325",
+   "en": "Forget about the past.",
+   "tr": "Geçmişi boş verin."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87470",
+   "en": "Yes, Commander?",
+   "tr": "Evet, Komutan?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87472",
+   "en": "But you're the one who can stop Saren. I believe in you, Shepard. If that means I have to step aside, so be it.",
+   "tr": "Ama Saren'i durdurabilecek olan sizsiniz. Sana inanıyorum, Shepard. Bunun için yoldan çekilmem gerekirse öyle olsun."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87476",
+   "en": "How are you holding up?",
+   "tr": "Nasıl dayanıyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87477",
+   "en": "What can you tell me about Noveria?",
+   "tr": "Noveria hakkında bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87478",
+   "en": "Any extra intel you can give me on our colony at Feros?",
+   "tr": "Feros'taki kolonimiz hakkında ek istihbarat verebilir misin?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87479",
+   "en": "What do you know about the Artemis Tau cluster?",
+   "tr": "Artemis Tau Kümesi hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87480",
+   "en": "Do you know anything about Virmire?",
+   "tr": "Virmire hakkında bir şey biliyor musun?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87485",
+   "en": "Are you okay?",
+   "tr": "İyi misin?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87486",
+   "en": "Noveria",
+   "tr": "Noveria"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87487",
+   "en": "Feros",
+   "tr": "Feros"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87488",
+   "en": "Artemis Tau Cluster",
+   "tr": "Artemis Tau Kümesi"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|87489",
+   "en": "Virmire",
+   "tr": "Virmire"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93807",
+   "en": "Where did you hear that name? Never mind. I don't want to know.",
+   "tr": "O adı nereden duydun? Boş ver. Bilmek istemiyorum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93810",
+   "en": "Banes is dead. Has been for quite some time.",
+   "tr": "Banes öldü. Hayli zamandır."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93815",
+   "en": "I don't know much about it. You should talk to Admiral Kahoku. One of his crews discovered Banes' body.",
+   "tr": "Pek bir şey bilmiyorum. Amiral Kahoku'yla konuşmalısın. Mürettebatından biri Banes'in cesedini buldu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93816",
+   "en": "Last I heard, he was up in the Tower trying to get the Council to investigate Banes' death.",
+   "tr": "En son duyduğumda Tower'daydı, Konsey'i Banes'in ölümünü araştırmaya ikna etmeye çalışıyordu."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93818",
+   "en": "You should mention Banes the next time you see him. See if he'll tell you anything.",
+   "tr": "Onu bir dahaki sefere gördüğünde Banes'ten bahset. Bir şey söyler mi bak."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93819",
+   "en": "Is there anything else, Commander?",
+   "tr": "Başka bir şey var mı, Komutan?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93820",
+   "en": "Where can I find Admiral Kahoku?",
+   "tr": "Amiral Kahoku'yu nerede bulabilirim?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93821",
+   "en": "What do you know about Armistan Banes?",
+   "tr": "Armistan Banes hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93825",
+   "en": "The people I spoke with seemed to think he was still alive.",
+   "tr": "Konuştuğum insanlar onun hâlâ hayatta olduğunu düşünüyor gibiydi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93830",
+   "en": "Any idea how to find him?",
+   "tr": "Onu nasıl bulacağıma dair fikrin var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93832",
+   "en": "I might look into it later.",
+   "tr": "Belki sonra bakarım."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93834",
+   "en": "I spoke to Kahoku. He never brought it up.",
+   "tr": "Kahoku'yla konuştum. Hiç bahsetmedi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93836",
+   "en": "Kahoku.",
+   "tr": "Kahoku."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93838",
+   "en": "Banes?",
+   "tr": "Banes mi?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93842",
+   "en": "Are you sure?",
+   "tr": "Emin misiniz?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93843",
+   "en": "That's strange.",
+   "tr": "Bu garip."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93848",
+   "en": "Where is he?",
+   "tr": "Nerede o?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93849",
+   "en": "If I have time.",
+   "tr": "Vaktim olursa."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|93850",
+   "en": "I met him.",
+   "tr": "Onunla tanıştım."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94457",
+   "en": "The colony tried to build on what the Protheans left behind. We lost all contact with them when the geth attacked.",
+   "tr": "Koloni Prothean'ların geride bıraktıkları üzerine inşa etmeye çalıştı. Geth saldırdığında onlarla tüm teması kaybettik."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94458",
+   "en": "Not much. I've never been there myself. A handful of systems with a few small uncharted worlds, but no real colonies.",
+   "tr": "Pek bir şey yok. Kendim hiç gitmedim. Birkaç küçük keşfedilmemiş dünyaya sahip bir avuç sistem ama gerçek koloni yok."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94460",
+   "en": "Might not be easy finding Dr. T'Soni out there. My advice is to look for the world with the Prothean ruins.",
+   "tr": "Orada Dr. T'Soni'yi bulmak kolay olmayabilir. Tavsiyem Prothean kalıntıları olan dünyaya bakman."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94461",
+   "en": "Sorry, Shepard. I'd never even heard of it before all this. You'll have to go there and check it out yourself.",
+   "tr": "Üzgünüm, Shepard. Bütün bunlardan önce adını bile duymamıştım. Oraya gidip kendin bakmalısın."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94462",
+   "en": "Noveria's trouble. Always has been. The whole planet's basically a center for corporations to conduct illegal research.",
+   "tr": "Noveria sorunlu. Hep öyleydi. Tüm gezegen temelde şirketlerin yasadışı araştırma yaptığı bir merkez."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94464",
+   "en": "Watch your back there, Shepard. Spectres are about the only form of Citadel authority Noveria respects, but they aren't popular.",
+   "tr": "Orada sırtını kolla, Shepard. Spectre'lar Noveria'nın saygı duyduğu tek Citadel otoritesi sayılır ama sevilmiyorlar."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|94465",
+   "en": "The entire planet used to be one giant Prothean city. Mostly ruins now, but some of the infrastructure is still intact.",
+   "tr": "Tüm gezegen eskiden dev bir Prothean şehriydi. Çoğu harabe ama altyapının bir kısmı hâlâ sağlam."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104411",
+   "en": "Good luck, Shepard. I'll be over in the ambassador's office if you need anything else.",
+   "tr": "İyi şanslar, Shepard. Başka bir şeye ihtiyacın olursa büyükelçinin ofisinde olacağım."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104694",
+   "en": "They're not your typical government agency. They tend to work alone, behind the scenes. They take care of problems the Council can't.",
+   "tr": "Tipik bir devlet kurumu değiller. Tek başlarına, perde arkasında çalışırlar. Konsey'in halledemediği sorunlarla ilgilenirler."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104695",
+   "en": "It's not easy preserving peace across an entire galaxy. The Council prefers to use diplomacy and negotiation, but sometimes more extreme measures are needed.",
+   "tr": "Bütün bir galakside barışı korumak kolay değil. Konsey diplomasiyi ve müzakereyi tercih eder ama bazen daha uç önlemler gerekir."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104696",
+   "en": "You can't just apply to join. There's no training program. Spectres aren't made -- they're born.",
+   "tr": "Öylece başvuramazsınız. Eğitim programı yok. Spectre'lar yapılmaz, doğar."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104697",
+   "en": "The Council's always looking for exceptional individuals. People who can get the job done, like you. They've been watching you for years.",
+   "tr": "Konsey hep istisnai bireyler arar. İşi bitirebilen insanlar, senin gibi. Yıllardır seni izliyorlar."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104698",
+   "en": "They see something in you. They want you on their side. Nihlus was supposed to give them a final recommendation, but with him gone, things are still up in the air.",
+   "tr": "İçinde bir şey görüyorlar. Seni yanlarında istiyorlar. Nihlus onlara nihai bir öneri verecekti ama o gidince işler hâlâ belirsiz."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104699",
+   "en": "There is no command structure. Each Spectre answers directly to the Council. Sometimes they're sent on specific missions. Other times they act on their own.",
+   "tr": "Komuta yapısı yok. Her Spectre doğrudan Konsey'e hesap verir. Bazen belirli görevlere gönderilirler. Bazen kendi başlarına hareket ederler."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104700",
+   "en": "They tend to operate outside the law. Do whatever it takes to accomplish their goals. And the Council just turns a blind eye. Spectres have a lot of power, Shepard.",
+   "tr": "Yasanın dışında çalışma eğilimindeler. Hedeflerine ulaşmak için ne gerekirse yaparlar. Ve Konsey göz yumar. Spectre'ların çok gücü var, Shepard."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104701",
+   "en": "It doesn't happen often. The Council is careful when they select their candidates.",
+   "tr": "Sık olmaz. Konsey adaylarını seçerken dikkatlidir."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104702",
+   "en": "But when something does go wrong, there's usually only one solution: send another Spectre to bring the rogue agent down.",
+   "tr": "Ama bir şey ters gittiğinde genelde tek çözüm var: başıboş ajanı indirmek için başka bir Spectre göndermek."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104703",
+   "en": "Everything about them is classified. We don't even know how many there are. The latest Alliance estimate puts their numbers under a hundred.",
+   "tr": "Hepsi gizli. Kaç kişi olduğunu bile bilmiyoruz. İttifak'ın son tahmini sayılarını yüzün altında gösteriyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104704",
+   "en": "But the Council couldn't do its job without them. They're the Citadel's top agents. The last line of defense. The final option before open war.",
+   "tr": "Ama Konsey onlarsız işini yapamaz. Citadel'in en iyi ajanları. Son savunma hattı. Açık savaştan önceki son seçenek."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104705",
+   "en": "The entire galaxy respects and fears them. If a Spectre shows up, you know something big is about to happen.",
+   "tr": "Tüm galaksi onlara saygı duyar ve onlardan korkar. Bir Spectre ortaya çıkarsa büyük bir şeyin olmak üzere olduğunu bilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104706",
+   "en": "Take this mess we're in now. If humanity had a seat on the Council, we'd just send the Citadel fleet out to take care of Saren and his geth. Problem solved.",
+   "tr": "Şu içinde bulunduğumuz karmaşaya bakın. İnsanlığın Konsey'de koltuğu olsaydı Citadel filosunu Saren'le geth'ine bakmaya gönderirdik. Sorun çözüldü."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104708",
+   "en": "How do they decide who becomes a Spectre?",
+   "tr": "Kimin Spectre olacağına nasıl karar veriyorlar?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104711",
+   "en": "What's their command structure like?",
+   "tr": "Komuta yapıları nasıl?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104713",
+   "en": "What happens when a Spectre goes rogue. Like Saren?",
+   "tr": "Bir Spectre başıboş kalırsa ne olur? Saren gibi?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104715",
+   "en": "They sound like shadow operatives.",
+   "tr": "Gölge ajanlar gibi görünüyorlar."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104719",
+   "en": "How are they chosen?",
+   "tr": "Nasıl seçiliyorlar?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104720",
+   "en": "How are they organized?",
+   "tr": "Nasıl örgütlenmişler?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104721",
+   "en": "If one goes too far?",
+   "tr": "Biri çok ileri giderse?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104722",
+   "en": "Is this legal?",
+   "tr": "Bu yasal mı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104729",
+   "en": "It's not common knowledge. Military's keeping it under wraps.",
+   "tr": "Genel bilgi değil. Ordu üstünü kapalı tutuyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104730",
+   "en": "Banes was doing some high level work for the Alliance. Stuff even I wasn't aware of.",
+   "tr": "Banes İttifak için üst düzey işler yapıyordu. Benim bile haberdar olmadığım şeyler."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104731",
+   "en": "One day, he turns up dead on a drifting scout ship. Everyone suspects it was foul play, but it was never officially investigated.",
+   "tr": "Bir gün sürüklenen bir keşif gemisinde ölü bulundu. Herkes bir oyun olduğundan şüphelendi ama hiç resmen soruşturulmadı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104732",
+   "en": "So why are people talking like he's still alive?",
+   "tr": "O zaman insanlar neden hâlâ hayattaymış gibi konuşuyor?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104735",
+   "en": "This is a cover up if I ever heard one.",
+   "tr": "Hayatımda duyduğum en bariz örtbas."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104736",
+   "en": "What can you tell me about the ship?",
+   "tr": "Gemi hakkında ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104737",
+   "en": "I don't believe you.",
+   "tr": "Sana inanmıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104740",
+   "en": "Sounds suspicious.",
+   "tr": "Şüpheli görünüyor."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|104741",
+   "en": "Scout ship.",
+   "tr": "Keşif gemisi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106165",
+   "en": "Honestly? This isn't how I pictured my career coming to an end. Pushing papers really isn't my thing.",
+   "tr": "Dürüst olmak gerekirse kariyerimin böyle bitmesini hayal etmemiştim. Evrak sürmek bana göre değil."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106166",
+   "en": "You're right, Commander. It's no good living in the past. ",
+   "tr": "Haklısınız, Komutan. Geçmişte yaşamanın yararı yok."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106168",
+   "en": "Tell me what happened with you and Saren twenty years ago.",
+   "tr": "Yirmi yıl önce sizinle Saren arasında ne olduğunu anlatın."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106169",
+   "en": "You and Saren have a past.",
+   "tr": "Sizinle Saren'in bir geçmişi var."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106467",
+   "en": "Harkin's probably getting drunk at Chora's Den. It's a dingy little club in the lower section of the wards.",
+   "tr": "Harkin muhtemelen Chora's Den'de sarhoş oluyordur. Wards'ın alt kısmındaki kasvetli küçük bir kulüp."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106468",
+   "en": "Couldn't hurt to go talk to him. Just be careful. I wouldn't call him reliable.",
+   "tr": "Gidip konuşmanın zararı olmaz. Sadece dikkatli ol. Güvenilir diyemem."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106469",
+   "en": "You should talk to Barla Von. Over in the financial district. Rumor has it he's an agent for the Shadow Broker.",
+   "tr": "Barla Von'la konuşmalısın. Finans bölgesinde. Söylentiye göre Shadow Broker'ın ajanı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106470",
+   "en": "The Shadow Broker?",
+   "tr": "Shadow Broker mı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106471",
+   "en": "An information dealer. Buys and sells secrets to the highest bidder. I've heard Barla Von's one of the top representatives.",
+   "tr": "Bir bilgi satıcısı. Sırları en çok ödeyene alıp satıyor. Barla Von'un üst düzey temsilcilerinden biri olduğunu duydum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106472",
+   "en": "He might know something about Saren. But his information won't come cheap.",
+   "tr": "Saren hakkında bir şey biliyor olabilir. Ama bilgisi ucuz gelmez."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106473",
+   "en": "I thought you said he was a drunken loser.",
+   "tr": "Sarhoş bir ezik olduğunu söylediğini sanıyordum."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106474",
+   "en": "Maybe there's another way to find evidence against Saren.",
+   "tr": "Belki Saren'e karşı kanıt bulmanın başka bir yolu vardır."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106478",
+   "en": "Any other leads?",
+   "tr": "Başka ipucu var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106479",
+   "en": "You want me to go see him?",
+   "tr": "Onu görmeye gitmemi mi istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|106480",
+   "en": "Other Leads",
+   "tr": "Diğer İpuçları"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|127805",
+   "en": "Alliance intel had done all the work, but the Council wanted a Spectre involved. We compromised: I was assigned to help Saren in his investigation.",
+   "tr": "İttifak istihbaratı tüm işi yapmıştı ama Konsey bir Spectre'ın dahil olmasını istedi. Uzlaştık: Saren'in soruşturmasına yardım etmek üzere atandım."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143702",
+   "en": "This went way beyond a  simple diversion, Commander.",
+   "tr": "Bu basit bir oyalamanın çok ötesine geçti, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143703",
+   "en": "I'm guessing things didn't go as planned.",
+   "tr": "Sanırım işler planlandığı gibi gitmedi."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143704",
+   "en": "How many casualties?",
+   "tr": "Kaç kayıp?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143705",
+   "en": "He was smart. You needed a diversion.",
+   "tr": "Akıllıydı. Bir oyalamaya ihtiyacınız vardı."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143707",
+   "en": "Something went wrong?",
+   "tr": "Bir şey mi ters gitti?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143708",
+   "en": "Was anyone hurt?",
+   "tr": "Yaralanan oldu mu?"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|143709",
+   "en": "Good plan.",
+   "tr": "İyi plan."
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|158312",
+   "en": "That's not fair!",
+   "tr": "Bu haksızlık!"
+  },
+  {
+   "key": "BIOA_STA20_10A_DSG_LOC|sta20_captain_D|158313",
+   "en": "It wasn't your fault.",
+   "tr": "Sizin suçunuz değildi."
+  }
+ ]
+}

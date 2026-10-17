@@ -1,0 +1,25 @@
+{
+ "meta": {
+  "package": "BIOA_ICE50_09_PLC_LOC_INT.pcc",
+  "stem": "BIOA_ICE50_09_PLC_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE50_09_PLC_LOC|ice50_trig27_elv_roof_D|150049",
+   "en": "Now exiting to the roof.",
+   "tr": "Çatıya çıkılıyor."
+  },
+  {
+   "key": "BIOA_ICE50_09_PLC_LOC|ice50_trig27_elv_roof_D|150050",
+   "en": "User alert! Landline connections are disabled. Passenger trams are offline.",
+   "tr": "Kullanıcı uyarısı! Sabit hat bağlantıları devre dışı. Yolcu tramvayları çevrimdışı."
+  },
+  {
+   "key": "BIOA_ICE50_09_PLC_LOC|ice50_trig27_elv_roof_D|150051",
+   "en": "Inter-facility communications functioning normally.",
+   "tr": "Tesisler arası iletişim normal çalışıyor."
+  }
+ ]
+}

@@ -1,0 +1,2225 @@
+{
+ "meta": {
+  "package": "BIOA_STA70_02A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA70_02A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 11
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130706",
+   "en": "Go take care of your mission if it's so important! Just leave me alone.",
+   "tr": "Görevin bu kadar önemliyse git ilgilen! Sadece beni rahat bırak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130707",
+   "en": "Really? You're serious? I'll upload them to your ship right away!",
+   "tr": "Gerçekten mi? Ciddi misin? Hemen gemine yükleyeceğim!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130708",
+   "en": "Please let me know when you find him.",
+   "tr": "Onu bulunca lütfen haber ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130709",
+   "en": "Any news? Did you find my brother yet?",
+   "tr": "Haber var mı? Kardeşimi buldun mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130710",
+   "en": "Any news on my brother yet?",
+   "tr": "Kardeşim hakkında haber var mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130711",
+   "en": "But you didn't find his body, right? That means he might still be alive.",
+   "tr": "Ama cesedini bulmadın, değil mi? Bu hâlâ hayatta olabileceği anlamına gelir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130712",
+   "en": "Please. You've got to keep looking. Don't give up now.",
+   "tr": "Lütfen. Aramaya devam etmelisin. Şimdi pes etme."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130713",
+   "en": "Please let me know as soon as you find Willem.",
+   "tr": "Willem'i bulur bulmaz lütfen haber ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130714",
+   "en": "I really appreciate what you're doing for me. Please let me know as soon as you find any information on my brother.",
+   "tr": "Benim için yaptıklarını gerçekten takdir ediyorum. Kardeşim hakkında herhangi bir bilgi bulduğunda lütfen haber ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130715",
+   "en": "I'm on a break.",
+   "tr": "Moladayım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130716",
+   "en": "Talk to someone else if you need anything. I've got a lot on my mind.",
+   "tr": "Bir şeye ihtiyacın varsa başka biriyle konuş. Aklımda çok şey var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130717",
+   "en": "Hmmm... maybe you can. You're a soldier, right? You ever head out to the Traverse?",
+   "tr": "Hmmm... belki yardım edebilirsin. Askersin, değil mi? Hiç Traverse'e çıktın mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130718",
+   "en": "A Spectre? I heard they were thinking about letting humans into the ranks. About time.",
+   "tr": "Spectre mı? İnsanların saflara alınmasını düşündüklerini duymuştum. Zamanı gelmişti."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130719",
+   "en": "That means you can go anywhere you want, right? Even out into the Traverse?",
+   "tr": "Bu istediğin her yere gidebilirsin demek, değil mi? Traverse'e bile?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130720",
+   "en": "My brother's the captain of a ship called the Majesty. It was crossing the Traverse a few days ago when it disappeared. Just dropped right off the grid.",
+   "tr": "Kardeşim Majesty adında bir geminin kaptanı. Birkaç gün önce Traverse'i geçerken kayboldu. Şebekeden birden düştü."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130721",
+   "en": "That usually means one of two things: they had massive mechanical failure, or they were attacked.",
+   "tr": "Bu genelde iki şeyden biri demek: büyük mekanik arıza ya da saldırıya uğradılar."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130722",
+   "en": "Privateers. Slavers. Mercs looking for an easy score. There's a lot of nasty sorts out in the Traverse.",
+   "tr": "Korsanlar. Köle tacirleri. Kolay av arayan paralı askerler. Traverse'te bir sürü kötü tip var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130723",
+   "en": "I won't give up on my brother. Not yet. I've got the coordinates for the last transmission from his vessel.",
+   "tr": "Kardeşimden vazgeçmeyeceğim. Henüz değil. Gemisinden gelen son iletimin koordinatları bende."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130724",
+   "en": "My brother's just a small independent trader; ships like his disappear in the Traverse all the time.",
+   "tr": "Kardeşim sadece küçük bağımsız bir tüccar; onunki gibi gemiler Traverse'te sürekli kaybolur."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130725",
+   "en": "Don't let the name fool you. The Majesty's just a small trading vessel. Only a handful of crew. But he kept it in good condition. I don't think mechanical failure is too likely.",
+   "tr": "İsme aldanma. Majesty sadece küçük bir ticaret gemisi. Sadece bir avuç mürettebat. Ama iyi durumda tutardı. Mekanik arıza olması pek olası değil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130726",
+   "en": "But they don't have any real weapons or shields. If anyone did come after them, the Majesty'd be a sitting duck.",
+   "tr": "Ama gerçek silahları ya da kalkanları yok. Onlara kim saldırdıysa Majesty hazır hedefti."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130727",
+   "en": "I can't afford to pay you anything. If I had that kind of cash, I'd have hired a recovery team to track him down already.",
+   "tr": "Sana hiçbir şey ödeyemem. O kadar param olsaydı onu bulacak bir kurtarma ekibi çoktan tutmuştum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130728",
+   "en": "Maybe you could look into this as a personal favor, you know? We humans have to stick together.",
+   "tr": "Belki bunu kişisel bir iyilik olarak araştırabilirsin, anlıyor musun? Biz insanlar birbirimize destek olmalıyız."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130729",
+   "en": "I'll forward them to your ship right away. Please let me know as soon as you find him.",
+   "tr": "Hemen geminize ileteceğim. Onu bulur bulmaz haber verin lütfen."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130730",
+   "en": "Then why the hell are you bothering me?",
+   "tr": "O zaman neden beni rahatsız ediyorsun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130731",
+   "en": "Willem's... dead? I guess I should've expected this.",
+   "tr": "Willem... öldü mü? Sanırım bunu beklemeliydim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130732",
+   "en": "When his ship dropped out of contact, I just knew. But I kept hoping he might still be alive.",
+   "tr": "Gemisi iletişimden düştüğünde biliyordum. Ama hâlâ hayatta olabileceğini umuyordum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130733",
+   "en": "Thank you for finding him. It's better to know one way or the other. That's what they say, right?",
+   "tr": "Onu bulduğun için teşekkürler. Bir şekilde bilmek daha iyi. Öyle diyorlar, değil mi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130734",
+   "en": "You're right. It's worse not knowing. That's what they all say, at least.",
+   "tr": "Haklısın. Bilmemek daha kötü. En azından hepsi öyle diyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130735",
+   "en": "Maybe. But sometimes I think false hope is better than no hope at all.",
+   "tr": "Belki. Ama bazen yanlış umudun hiç umut olmamasından iyi olduğunu düşünüyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130736",
+   "en": "Please excuse me. I need to go make arrangements for his funeral.",
+   "tr": "Lütfen mazur görün. Cenaze düzenlemelerini yapmam gerek."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130738",
+   "en": "You've got those coordinates for your brother's ship?",
+   "tr": "Kardeşinin gemisinin koordinatları sende mi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130740",
+   "en": "I found the remains of the Majesty. Looks like it was hit by privateers.",
+   "tr": "Majesty'nin enkazını buldum. Korsanlar tarafından vurulmuş gibi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130743",
+   "en": "I haven't found him yet.",
+   "tr": "Henüz onu bulamadım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130745",
+   "en": "Maybe I can help.",
+   "tr": "Belki yardım edebilirim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130746",
+   "en": "The Traverse is a rough place. We're out there quite a bit.",
+   "tr": "Traverse sert bir yer. Orada epey bulunuyoruz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130747",
+   "en": "I'm not just some soldier. I'm a Spectre.",
+   "tr": "Ben sıradan bir asker değilim. Bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130750",
+   "en": "Sometimes.",
+   "tr": "Bazen."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130752",
+   "en": "Any idea why someone would attack them?",
+   "tr": "Birinin onlara neden saldırdığına dair bir fikrin var mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130754",
+   "en": "Neither one of those options leaves a lot of hope.",
+   "tr": "Bu seçeneklerin hiçbiri fazla umut bırakmıyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130755",
+   "en": "Isn't anyone else looking into this?",
+   "tr": "Başka kimse buna bakmıyor mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130756",
+   "en": "What kind of ship was it?",
+   "tr": "Ne tür bir gemiydi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130758",
+   "en": "What's in this for me?",
+   "tr": "Bundan bana ne?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130760",
+   "en": "If your brother's still alive, I'll find him. Give me the coordinates.",
+   "tr": "Kardeşin hâlâ hayattaysa onu bulurum. Koordinatları ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130761",
+   "en": "Give me the coordinates.",
+   "tr": "Koordinatları ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130762",
+   "en": "If my mission fails, trillions of people die! I don't have time to go looking for missing traders.",
+   "tr": "Görevim başarısız olursa trilyonlarca insan ölür! Kayıp tüccarları aramaya vaktim yok."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130764",
+   "en": "I found your brother's body. His ship was attacked by privateers.",
+   "tr": "Kardeşinin cesedini buldum. Gemisine korsanlar saldırmış."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130766",
+   "en": "I'm sorry for your loss.",
+   "tr": "Kaybın için üzgünüm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130768",
+   "en": "I figured you'd want to know the truth, no matter how painful.",
+   "tr": "Ne kadar acı olursa olsun gerçeği bilmek isteyeceğini düşündüm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130770",
+   "en": "False hope doesn't do anybody any good.",
+   "tr": "Yanlış umut kimseye iyilik etmez."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130773",
+   "en": "Fair enough.",
+   "tr": "Yeterince adil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130774",
+   "en": "I want to help you now.",
+   "tr": "Şimdi sana yardım etmek istiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130776",
+   "en": "I found his ship.",
+   "tr": "Gemisini buldum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130777",
+   "en": "He's still missing.",
+   "tr": "Hâlâ kayıp."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130781",
+   "en": "What's wrong?",
+   "tr": "Sorun ne?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130782",
+   "en": "Willem's dead.",
+   "tr": "Willem öldü."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130783",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130784",
+   "en": "More than I like.",
+   "tr": "İstediğimden fazla."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130785",
+   "en": "I'm Commander Shepard.",
+   "tr": "Ben Komutan Shepard."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130786",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130790",
+   "en": "Attacked?",
+   "tr": "Saldırıya mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130791",
+   "en": "Those are both bad.",
+   "tr": "İkisi de kötü."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130793",
+   "en": "Authorities",
+   "tr": "Yetkililer"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130794",
+   "en": "Brother's ship",
+   "tr": "Kardeşin gemisi"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130795",
+   "en": "Reward",
+   "tr": "Ödül"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130796",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130797",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130798",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130803",
+   "en": "This must be hard on you.",
+   "tr": "Bu senin için zor olmalı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130804",
+   "en": "I thought you'd want to know.",
+   "tr": "Bilmek isteyeceğini düşündüm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|130805",
+   "en": "You were fooling yourself.",
+   "tr": "Kendini kandırıyordun."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sp101_garoth_D|144462",
+   "en": "[sigh] I hope he's okay.",
+   "tr": "[iç çeker] Umarım iyidir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158682",
+   "en": "You have no available Citadel Rapid Transit destinations.",
+   "tr": "Kullanabileceğiniz Citadel Hızlı Ulaşım hedefi yok."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158683",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158686",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158687",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158688",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158690",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158692",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158694",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158696",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158700",
+   "en": "Embassies",
+   "tr": "Büyükelçilikler"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158701",
+   "en": "Exit",
+   "tr": "Çıkış"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158702",
+   "en": "Citadel Tower",
+   "tr": "Citadel Tower"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158704",
+   "en": "Financial District",
+   "tr": "Finans Bölgesi"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158706",
+   "en": "Med Clinic",
+   "tr": "Sağlık Kliniği"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158708",
+   "en": "Markets",
+   "tr": "Pazarlar"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158710",
+   "en": "C-Sec",
+   "tr": "C-Sec"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158852",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158853",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158854",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158855",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158856",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158857",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158858",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158859",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158860",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158861",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158862",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158863",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158864",
+   "en": "Back",
+   "tr": "Geri"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158865",
+   "en": "Consort Chambers",
+   "tr": "Refakatçi Odaları"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158866",
+   "en": "Wards Access",
+   "tr": "Wards Girişi"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158867",
+   "en": "Back",
+   "tr": "Geri"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158868",
+   "en": "Flux",
+   "tr": "Flux"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|158869",
+   "en": "Chora's Den",
+   "tr": "Chora's Den"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_cab_D|159576",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_popup_text_D|145642",
+   "en": "You must talk to the Council to gain access to the Wards.",
+   "tr": "Wards'a girmek için Konsey ile konuşmalısınız."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_popup_text_D|148499",
+   "en": "The keeper scan has been uploaded to the database.",
+   "tr": "Bekçi taraması veri tabanına yüklendi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_popup_text_D|148500",
+   "en": "You do not have the proper keycard.",
+   "tr": "Uygun anahtar karta sahip değilsiniz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta00_popup_text_D|163019",
+   "en": "Get to the Quarian and warn her before it's too late!",
+   "tr": "Çok geç olmadan Quarian'a ulaş ve onu uyar!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_amb_reporter_D|140178",
+   "en": "Commander Shepard? Excuse me, Commander Shepard!",
+   "tr": "Komutan Shepard? Affedersiniz, Komutan Shepard!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_amb_reporter_D|140456",
+   "en": "Commander Shepard, could I have another word with you?",
+   "tr": "Komutan Shepard, sizinle bir kez daha konuşabilir miyim?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145498",
+   "en": "Um, yes. Is there something you want?",
+   "tr": "Ee, evet. Bir şey mi istiyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145499",
+   "en": "Keepers? I've got no interest in the kee--",
+   "tr": "Bekçiler mi? Bekçilerle ilgilenmiyorum--"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145500",
+   "en": "Don't get coy. I know what I saw.",
+   "tr": "Naz yapma. Ne gördüğümü biliyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145501",
+   "en": "Don't play dumb. We saw you trying to do something with the keeper.",
+   "tr": "Aptalı oynama. Bekçiyle bir şey yapmaya çalıştığını gördük."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145502",
+   "en": "Don't waste our time. I can see the lie on your face, salarian.",
+   "tr": "Vaktimizi boşa harcama. Yalanı yüzünde görebiliyorum salarian."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145503",
+   "en": "Don't lie to me! I can smell your fear a mile away.",
+   "tr": "Bana yalan söyleme! Korkunu bir mil öteden koklayabiliyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145504",
+   "en": "We mean no harm. Just tell us the truth.",
+   "tr": "Zarar vermek niyetinde değiliz. Sadece gerçeği söyle."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145505",
+   "en": "I... uh. I'm not so sure I should be talking to you about this.",
+   "tr": "Ben... ee. Bu konuyu sizinle konuşmam gerektiğinden emin değilim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145506",
+   "en": "All right. I guess it wouldn't hurt to tell you.",
+   "tr": "Pekâlâ. Söylemenin zararı olmaz sanırım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145507",
+   "en": "No. I guess it wouldn't hurt to tell you.",
+   "tr": "Hayır. Söylemenin zararı olmaz sanırım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145508",
+   "en": "I'm using a small scanner to gather readings on the keepers.",
+   "tr": "Bekçiler hakkında ölçüm toplamak için küçük bir tarayıcı kullanıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145509",
+   "en": "So far, I've had mixed results. I find it difficult to get near the creatures.",
+   "tr": "Şimdiye kadar sonuçlar karışık. Yaratıklara yaklaşmak zor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145510",
+   "en": "Well, technically we're not supposed to disturb the keepers.",
+   "tr": "Şey, teknik olarak bekçileri rahatsız etmemiz gerekmiyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145511",
+   "en": "I don't really think my scanning disturbs them, but the authorities might disagree.",
+   "tr": "Taramamın onları rahatsız ettiğini sanmıyorum ama yetkililer aksini düşünebilir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145512",
+   "en": "I'd like to do it more openly, but it's not really worth getting arrested over.",
+   "tr": "Bunu daha açık yapmak isterdim ama tutuklanmaya değmez."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145513",
+   "en": "Trying to learn whatever I can about the keepers.",
+   "tr": "Bekçiler hakkında öğrenebildiğimi öğrenmeye çalışıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145514",
+   "en": "We see them working everywhere, yet we know so little about them.",
+   "tr": "Her yerde çalıştıklarını görüyoruz ama onlar hakkında çok az şey biliyoruz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145515",
+   "en": "I'm a scientist. I want to know what makes them tick.",
+   "tr": "Ben bir bilim insanıyım. Onları neyin harekete geçirdiğini bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145516",
+   "en": "So long.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145517",
+   "en": "Why are you so interested in the keepers?",
+   "tr": "Bekçilere neden bu kadar ilgilisin?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145524",
+   "en": "I'm going.",
+   "tr": "Gidiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145525",
+   "en": "Just tell me what you're doing. I'm not here to get you into trouble.",
+   "tr": "Sadece ne yaptığını söyle. Seni başını belaya sokmaya gelmedim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145526",
+   "en": "We're just talking. Is there something wrong with that?",
+   "tr": "Sadece konuşuyoruz. Bunda bir sorun mu var?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145529",
+   "en": "Why were you being so secretive about it, though?",
+   "tr": "Peki bunu neden bu kadar gizli yapıyordun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145533",
+   "en": "I could help you out. I'm not worried about the authorities.",
+   "tr": "Sana yardım edebilirim. Yetkililerden endişe etmiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145535",
+   "en": "What are you doing with the data once you've scanned it?",
+   "tr": "Taradıktan sonra verilerle ne yapıyorsun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145539",
+   "en": "Following the keepers?",
+   "tr": "Bekçileri mi izliyorsun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145547",
+   "en": "No, thanks.",
+   "tr": "Hayır, sağ olun."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145548",
+   "en": "Relax.",
+   "tr": "Rahatla."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145549",
+   "en": "Why not?",
+   "tr": "Neden olmasın?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145552",
+   "en": "I see.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145553",
+   "en": "Why the lies?",
+   "tr": "Yalanlar neden?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145557",
+   "en": "Let me help.",
+   "tr": "Yardım edeyim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145559",
+   "en": "Why are you doing this?",
+   "tr": "Bunu neden yapıyorsun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145726",
+   "en": "Oh, it's you again. Is there something you want?",
+   "tr": "Ah, yine sen. Bir şey mi istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145727",
+   "en": "Again? (sigh) If you insist.",
+   "tr": "Yine mi? (iç çeker) Israr edersen."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145728",
+   "en": "I'll even send a few credits your way for each unique scan.",
+   "tr": "Her benzersiz tarama için sana birkaç kredi bile göndereceğim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145729",
+   "en": "Yes. I have much work myself.",
+   "tr": "Evet. Benim de yapacak çok işim var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145730",
+   "en": "Thanks to you, I'll finally have time to get it done.",
+   "tr": "Senin sayende sonunda bitirmeye vaktim olacak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145731",
+   "en": "So long. And good luck with the scanning.",
+   "tr": "Hoşça kal. Taramada iyi şanslar."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145734",
+   "en": "Thank you.",
+   "tr": "Teşekkür ederim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145736",
+   "en": "Hmm. Well, I suppose I could use the help.",
+   "tr": "Hmm. Şey, yardıma ihtiyacım olabilir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145740",
+   "en": "Activate it each time you see a keeper. All collected data will automatically upload to my database.",
+   "tr": "Bir bekçi gördüğünde etkinleştir. Toplanan tüm veriler otomatik olarak veri tabanıma yüklenecek."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145741",
+   "en": "Tell me again what it is you're trying to do.",
+   "tr": "Ne yapmaya çalıştığını bana bir daha anlat."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145745",
+   "en": "I should get going, then.",
+   "tr": "O halde gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145750",
+   "en": "I've decided to help you out. Just tell me what I need to do.",
+   "tr": "Sana yardım etmeye karar verdim. Sadece ne yapmam gerektiğini söyle."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145751",
+   "en": "I'll leave you alone.",
+   "tr": "Seni rahat bırakacağım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145758",
+   "en": "Remind me what you're doing.",
+   "tr": "Ne yaptığını hatırlat."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145759",
+   "en": "You need my help.",
+   "tr": "Yardımıma ihtiyacın var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145760",
+   "en": "I've decided to help you.",
+   "tr": "Sana yardım etmeye karar verdim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145762",
+   "en": "No. Nothing.",
+   "tr": "Hayır. Hiçbir şey."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|145773",
+   "en": "Got it.",
+   "tr": "Anlaşıldı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148817",
+   "en": "I don't even know who you are.",
+   "tr": "Kim olduğunu bile bilmiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148818",
+   "en": "A Spectre? Well, nobody would dare stop you. All right, then.",
+   "tr": "Spectre mı? Şey, kimse seni durdurmaya cesaret edemez. Pekâlâ."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148819",
+   "en": "You'll need this. It's the scanning device I developed.",
+   "tr": "Buna ihtiyacın olacak. Geliştirdiğim tarama cihazı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148820",
+   "en": "Oh, fine.",
+   "tr": "Ah, peki."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148821",
+   "en": "I'm Commander Shepard, with the Alliance military.",
+   "tr": "Ben Komutan Shepard, İttifak ordusundan."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148823",
+   "en": "My name's Shepard. I'm with Special Tactics and Reconnaissance.",
+   "tr": "Adım Shepard. Özel Taktikler ve Keşif'tenim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148825",
+   "en": "If you don't want my help, just forget it.",
+   "tr": "Yardımımı istemiyorsan boş ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148826",
+   "en": "I'm with the Alliance.",
+   "tr": "İttifak'tanım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148827",
+   "en": "I'm a Spectre.",
+   "tr": "Ben bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|148828",
+   "en": "Forget this.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_D|154853",
+   "en": "Not interested.",
+   "tr": "İlgilenmiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145479",
+   "en": "Hmm. Not enough data yet.",
+   "tr": "Hmm. Henüz yeterli veri yok."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145480",
+   "en": "Why won't it move on? It's just standing there.",
+   "tr": "Neden devam etmiyor? Öylece duruyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145481",
+   "en": "I wonder if it knows what I'm doing?",
+   "tr": "Acaba ne yaptığımı biliyor mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145482",
+   "en": "Just a few more scans and I'll know for sure.",
+   "tr": "Birkaç tarama daha ve emin olacağım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145483",
+   "en": "Please do not disturb the keepers.",
+   "tr": "Lütfen bekçileri rahatsız etmeyin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145484",
+   "en": "What? Oh. No. I wasn't-- Never mind.",
+   "tr": "Ne? Ah. Hayır. Ben-- Boş verin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145485",
+   "en": "That guy's up to something.",
+   "tr": "O adam bir şeyler çeviriyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145486",
+   "en": "What guy?",
+   "tr": "Hangi adam?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_chorban_triggers_D|145487",
+   "en": "The one over by the keeper.",
+   "tr": "Bekçinin yanındaki."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139902",
+   "en": "I'm Emily Wong. I'm an investigative journalist working here on the Citadel. Could I have a moment of your time?",
+   "tr": "Ben Emily Wong. Citadel'de çalışan bir araştırmacı gazeteciyim. Bir dakikanızı alabilir miyim?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139903",
+   "en": "I don't want an interview. I'm looking for information.",
+   "tr": "Röportaj istemiyorum. Bilgi arıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139904",
+   "en": "I've been hunting for evidence of corruption and organized crime on the Citadel, but there are places I can't go.",
+   "tr": "Citadel'deki yolsuzluğun ve organize suçun kanıtlarını arıyorum ama gidemediğim yerler var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139905",
+   "en": "I was hoping you might share anything you find during your own investigation. I can make it worth your time.",
+   "tr": "Kendi soruşturmanız sırasında bulduğunuz şeyleri benimle paylaşırsınız diye umuyordum. Zamanınıza değecek bir karşılık verebilirim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139906",
+   "en": "I'm a good journalist, Commander Shepard. Word gets around.",
+   "tr": "İyi bir gazeteciyim, Komutan Shepard. Haberler duyuluyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139907",
+   "en": "You wouldn't be investigating if it weren't big. And if it's big, it's something I'd like to hear about.",
+   "tr": "Büyük olmasa soruşturmazdınız. Büyükse de duymak isteyeceğim bir şeydir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139908",
+   "en": "I'm using every source I can find, but I think I've got a better shot with you.",
+   "tr": "Bulabildiğim her kaynağı kullanıyorum ama sanırım sizinle daha iyi bir şansım var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139909",
+   "en": "According to your file, you survived back on Akuze when everyone else in your squad got killed.",
+   "tr": "Dosyanıza göre Akuze'de timinizin geri kalanı öldürülürken siz hayatta kalmışsınız."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139910",
+   "en": "If anyone can find the worst elements of the Citadel and live to tell about it, it's you.",
+   "tr": "Citadel'in en kötü unsurlarını bulup bunu anlatmak için yaşayabilecek biri varsa, o sizsiniz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139911",
+   "en": "I've read your file. If anyone is going to uncover corruption here, it's the hero of the Skyllian Blitz.",
+   "tr": "Dosyanızı okudum. Burada yolsuzluğu ortaya çıkaracak biri varsa, o Skyllian Blitz'in kahramanıdır."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139912",
+   "en": "I read about the Siege of Torfan. Sending your men to their deaths, shooting slavers as they tried to surrender...",
+   "tr": "Torfan Kuşatması'nı okudum. Adamlarınızı ölüme göndermeniz, teslim olmaya çalışan köle taciri vurmanız..."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139913",
+   "en": "I need someone who isn't afraid to get their hands dirty, someone who'll do what needs to be done. That's you.",
+   "tr": "Ellerini kirletmekten korkmayan, yapılması gerekeni yapacak birine ihtiyacım var. O sizsiniz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139914",
+   "en": "Thank you, Commander. You won't regret it.",
+   "tr": "Teşekkür ederim Komutan. Pişman olmayacaksınız."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139915",
+   "en": "I don't have time to give interviews, Ms. Wong.",
+   "tr": "Röportaj verecek vaktim yok, Bayan Wong."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139917",
+   "en": "What do you need?",
+   "tr": "Neye ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139919",
+   "en": "How do you know I'm investigating anything here on the Citadel?",
+   "tr": "Citadel'de bir şey soruşturduğumu nereden biliyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139920",
+   "en": "How do you know that my investigation is going to uncover anything you need?",
+   "tr": "Soruşturmamın ihtiyacınız olan bir şeyi ortaya çıkaracağını nereden biliyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139921",
+   "en": "You've got to have access to better sources. Why contact me?",
+   "tr": "Daha iyi kaynaklara erişiminiz olmalı. Neden benimle iletişime geçtiniz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139925",
+   "en": "Sounds like a good cause. If I find any information, it's yours.",
+   "tr": "İyi bir dava gibi. Bir bilgi bulursam sizindir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139926",
+   "en": "No promises, but if I find anything relating to your case, I'll inform you.",
+   "tr": "Söz vermiyorum ama davanızla ilgili bir şey bulursam size haber veririm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139927",
+   "en": "I'm here to do my job, not yours. Goodbye, Ms. Wong.",
+   "tr": "Ben kendi işimi yapmaya geldim, sizinkini değil. Hoşça kalın, Bayan Wong."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139928",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139929",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139930",
+   "en": "What is it?",
+   "tr": "Ne o?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139933",
+   "en": "Source of information",
+   "tr": "Bilgi kaynağı"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139934",
+   "en": "How investigations are linked",
+   "tr": "Soruşturmalar nasıl bağlantılı"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139935",
+   "en": "Why me",
+   "tr": "Neden ben"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139936",
+   "en": "Consider it done.",
+   "tr": "Hallolmuş say."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139937",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|139938",
+   "en": "Not a chance.",
+   "tr": "Asla."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140121",
+   "en": "I know you didn't want to help, but you've taken down Fist. ",
+   "tr": "Yardım etmek istemediğinizi biliyorum ama Fist'i alt ettiniz. "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140122",
+   "en": "Word on the street is that you've been busy. Congratulations on taking down Fist.",
+   "tr": "Sokaktaki söylentiye göre meşgul olmuşsunuz. Fist'i alt ettiğiniz için tebrikler."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140123",
+   "en": "I was sure he was a big player in anything going on here. Did you find anything in his office that could help me?",
+   "tr": "Burada olan her şeyde büyük bir oyuncu olduğundan emindim. Ofisinde bana yardımcı olabilecek bir şey buldunuz mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140124",
+   "en": "I'm Emily Wong. I'm a journalist investigating corruption on the Citadel.",
+   "tr": "Ben Emily Wong. Citadel'deki yolsuzluğu araştıran bir gazeteciyim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140125",
+   "en": "You recently took down a man named Fist, reportedly a member of some sort of organized crime ring.",
+   "tr": "Yakın zamanda Fist adında bir adamı alt ettiniz; bildirildiğine göre bir tür organize suç şebekesinin üyesiymiş."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140126",
+   "en": "Did you find any evidence in his office? Is there anything you can share with me?",
+   "tr": "Ofisinde herhangi bir kanıt buldunuz mu? Benimle paylaşabileceğiniz bir şey var mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140127",
+   "en": "I'm sorry you feel that way, Commander. I'd hoped you'd see the benefit of working with the press.",
+   "tr": "Böyle düşünmenize üzüldüm, Komutan. Basınla çalışmanın faydasını göreceğinizi umuyordum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140128",
+   "en": "I won't trouble you any further.",
+   "tr": "Sizi daha fazla rahatsız etmeyeceğim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140129",
+   "en": "You've got Fist's files? This could be even bigger than I'd hoped!",
+   "tr": "Fist'in dosyaları sizde mi? Bu umduğumdan bile büyük olabilir!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140130",
+   "en": "Here, Commander. For your trouble.",
+   "tr": "Buyurun Komutan. Zahmetinize karşılık."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140131",
+   "en": "I didn't tell you to kill Fist!",
+   "tr": "Size Fist'i öldürün demedim!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140132",
+   "en": "But you're right. I suppose that I did ask you to help me, so... Here. This should be more than adequate.",
+   "tr": "Ama haklısınız. Sanırım benden yardım etmenizi isteyen bendim, o yüzden... Buyurun. Bu fazlasıyla yeterli olmalı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140133",
+   "en": "Exclusive? You talk to me before you talk to anyone else?",
+   "tr": "Özel mi? Başkasıyla konuşmadan önce benimle mi konuşacaksınız?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140134",
+   "en": "That would be worth quite a bit, and I'd be very happy to compensate you accordingly. Here you are.",
+   "tr": "Bu epey değerli olur ve sizi buna göre ödüllendirmekten çok memnun olurum. Buyurun."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140135",
+   "en": "Thank you, Commander. I'll certainly let you know if I find out anything that helps you.",
+   "tr": "Teşekkür ederim Komutan. Size yardımı dokunacak bir şey öğrenirsem kesinlikle haber veririm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140136",
+   "en": "Now, if you'll excuse me, I should go see what's on these disks.",
+   "tr": "Şimdi izin verirseniz bu disklerde ne var bakmam gerek."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140143",
+   "en": "Nothing I intend to share with the press. These are for an official investigation.",
+   "tr": "Basınla paylaşmayı düşündüğüm bir şey yok. Bunlar resmi bir soruşturma için."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140145",
+   "en": "These OSDs might have the information you're looking for.",
+   "tr": "Aradığınız bilgi bu OSD'lerde olabilir."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140147",
+   "en": "I had to kill people for these disks. They're worth more than you're offering.",
+   "tr": "Bu diskler için insan öldürmek zorunda kaldım. Önerdiğinizden daha değerliler."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140150",
+   "en": "What would my future cooperation be worth? Say, an interview when my investigation is over?",
+   "tr": "Gelecekteki iş birliğimin değeri ne olur? Mesela soruşturmam bittiğinde bir röportaj?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140153",
+   "en": "Pleasure doing business with you.",
+   "tr": "Sizinle iş yapmak bir zevkti."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140154",
+   "en": "People need to hear this story. I'm glad I could help.",
+   "tr": "İnsanların bu hikâyeyi duyması gerek. Yardımcı olabildiğime sevindim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140160",
+   "en": "Would these help?",
+   "tr": "Bunlar işe yarar mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140163",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140164",
+   "en": "Would these help?",
+   "tr": "Bunlar işe yarar mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140165",
+   "en": "I found some disks.",
+   "tr": "Birkaç disk buldum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140168",
+   "en": "Fine.",
+   "tr": "Peki."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140169",
+   "en": "You owe me more.",
+   "tr": "Bana daha fazlasını borçlusunuz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140170",
+   "en": "I can offer more.",
+   "tr": "Daha fazlasını önerebilirim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140171",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140172",
+   "en": "It was no trouble.",
+   "tr": "Sorun değildi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140336",
+   "en": "I'm already getting readings. This is going to make a great story!",
+   "tr": "Şimdiden okumalar alıyorum. Bu harika bir haber olacak!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140337",
+   "en": "Thank you so much for your help! Here, this is everything I've got from my publisher's budget.",
+   "tr": "Yardımınız için çok teşekkür ederim! Buyurun, yayıncımın bütçesinden elimde ne varsa bu."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140338",
+   "en": "I appreciate your support. I hope this will save some lives in the long run.",
+   "tr": "Desteğinizi takdir ediyorum. Umarım bu uzun vadede bazı hayatları kurtarır."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140339",
+   "en": "Of course, Commander Shepard. I won't trouble you any further.",
+   "tr": "Tabii, Komutan Shepard. Sizi daha fazla rahatsız etmeyeceğim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140340",
+   "en": "Thank you again for your help. I'm going to go show this to my publisher!",
+   "tr": "Yardımınız için tekrar teşekkürler. Bunu yayıncıma göstermeye gidiyorum!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140341",
+   "en": "Hello again. Is there a problem? I'm not detecting any signals from the bug yet.",
+   "tr": "Yine merhaba. Bir sorun mu var? Böcekten henüz hiçbir sinyal almıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140342",
+   "en": "In the space traffic control room, ideally on a terminal that gives me a good view of the room.",
+   "tr": "Uzay trafik kontrol odasında, ideal olarak odayı iyi gören bir terminalde."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140343",
+   "en": "But I never got a signal! They couldn't have found it that quickly!",
+   "tr": "Ama hiç sinyal almadım! Bu kadar çabuk bulmuş olamazlar!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140344",
+   "en": "I guess they've had other people try to get inside before. I should have considered that.",
+   "tr": "Herhalde daha önce de içeri girmeye çalışan olmuştur. Bunu düşünmeliydim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140345",
+   "en": "No! No, of course not.",
+   "tr": "Hayır! Hayır, tabii ki hayır."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140346",
+   "en": "Here. This is what I was going to pay you. Thanks for trying, anyway.",
+   "tr": "Buyurun. Size ödemeyi düşündüğüm miktar bu. Yine de denediğiniz için sağ olun."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140347",
+   "en": "Now, if you'll excuse me, I should go talk to my publishers about finding another story.",
+   "tr": "Şimdi izin verirseniz yayıncılarımla başka bir hikâye bulma konusunda konuşmam gerek."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140348",
+   "en": "Why not? The controllers need someone to tell their story, and the public deserves to know!",
+   "tr": "Neden olmasın? Kontrolörlerin hikâyelerini anlatacak birine ihtiyacı var ve halk bilmeyi hak ediyor!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140349",
+   "en": "No! The last thing I want is for experienced controllers replaced with inexperienced ones!",
+   "tr": "Hayır! En son istediğim şey deneyimli kontrolörlerin deneyimsizlerle değiştirilmesi!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140350",
+   "en": "No, of course not! I'm trying to protect public safety. I'm trying to help people!",
+   "tr": "Hayır, tabii ki hayır! Kamu güvenliğini korumaya çalışıyorum. İnsanlara yardım etmeye çalışıyorum!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140351",
+   "en": "I'll have to rethink this story. Maybe if I sell it as tough workers in a thankless job, they'd give me an interview.",
+   "tr": "Bu hikâyeyi yeniden düşünmem gerekecek. Belki onu nankör bir işte çalışan zorlu işçiler olarak sunarsam bana röportaj verirler."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140352",
+   "en": "Here. Thanks for investigating, and for the new information. I'm going to talk to my publisher.",
+   "tr": "Buyurun. Araştırdığınız ve yeni bilgi için teşekkürler. Yayıncımla konuşacağım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140353",
+   "en": "Hello again, Commander! I've got a proposition for you.",
+   "tr": "Yine merhaba, Komutan! Size bir teklifim var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140354",
+   "en": "Since you helped me get information on the crime syndicate, I've gotten a lot more backing from my publishers.",
+   "tr": "Suç örgütü hakkında bilgi edinmeme yardım ettiğiniz için yayıncılarımdan çok daha fazla destek aldım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140355",
+   "en": "I'm investigating traffic controller conditions now, and I wondered if you could help.",
+   "tr": "Şimdi trafik kontrolörlerinin çalışma koşullarını araştırıyorum ve yardım edebilir misiniz diye merak ettim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140356",
+   "en": "Actually, in a way, it's more important. This isn't about people getting rich. This is about safety.",
+   "tr": "Aslında bir bakıma daha önemli. Bu insanların zengin olmasıyla ilgili değil. Güvenlikle ilgili."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140357",
+   "en": "I've heard rumors that the space traffic controllers are overworked to a dangerous degree.",
+   "tr": "Uzay trafik kontrolörlerinin tehlikeli derecede fazla çalıştırıldığına dair söylentiler duydum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140358",
+   "en": "I can't get into the control room, but you could. If you planted a bug inside, I could crack the story.",
+   "tr": "Kontrol odasına giremiyorum ama siz girebilirsiniz. İçeriye bir böcek yerleştirirseniz hikâyeyi çözebilirim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140359",
+   "en": "There's a difference between overworked and dangerous.",
+   "tr": "Fazla çalışmak ile tehlikeli olmak arasında fark var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140360",
+   "en": "Traffic at the Citadel has increased by 300% in the last century, but traffic controller resources haven't kept up.",
+   "tr": "Citadel'deki trafik son yüzyılda %300 arttı ama trafik kontrolörü kaynakları buna yetişemedi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140361",
+   "en": "We already have several last-minute wave-offs per week. Do we have to wait for a full-blown disaster?",
+   "tr": "Haftada zaten birkaç son dakika iniş iptali oluyor. Tam bir felaketi mi beklememiz gerekiyor?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140362",
+   "en": "Ideally, there will be calls to improve working conditions by hiring more controllers and upgrading systems.",
+   "tr": "İdeal olarak daha fazla kontrolör işe alıp sistemleri yükselterek çalışma koşullarını iyileştirme çağrıları olacak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140363",
+   "en": "The Council won't pay for improvements voluntarily. This story will provide that pressure.",
+   "tr": "Konsey iyileştirmeler için kendiliğinden ödeme yapmaz. Bu hikâye gereken baskıyı sağlayacak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140364",
+   "en": "Just audio and video. I'm not trying to tap into the traffic control system, if that's what you're worried about.",
+   "tr": "Yalnızca ses ve görüntü. Endişeniz buysa trafik kontrol sistemine bağlanmaya çalışmıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140365",
+   "en": "I just need to hear and see them in order to correlate their activity with traffic efficiency.",
+   "tr": "Faaliyetlerini trafik verimliliğiyle ilişkilendirmek için onları yalnızca duyup görmem yeterli."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140366",
+   "en": "Absolutely not. I made certain that the frequencies it uses won't interfere with anything.",
+   "tr": "Kesinlikle hayır. Kullandığı frekansların hiçbir şeye karışmayacağından emin oldum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140367",
+   "en": "Excellent. Just place it on a terminal with a good view of the area.",
+   "tr": "Mükemmel. Sadece bölgeyi iyi gören bir terminale yerleştirin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140368",
+   "en": "Thank you again for your help. In the long run, this story is going to save lives.",
+   "tr": "Yardımınız için tekrar teşekkürler. Uzun vadede bu hikâye hayat kurtaracak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140369",
+   "en": "Of course, Commander. I apologize for bothering you.",
+   "tr": "Tabii, Komutan. Sizi rahatsız ettiğim için özür dilerim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140372",
+   "en": "It was no problem. Good luck with your story. It deserves to be heard.",
+   "tr": "Sorun değildi. Hikâyenizde iyi şanslar. Duyulmayı hak ediyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140374",
+   "en": "I did this as a favor, Ms. Wong. You're on your own now.",
+   "tr": "Bunu bir iyilik olarak yaptım, Bayan Wong. Artık kendi başınızasınız."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140376",
+   "en": "Could you tell me where you want me to plant the bug again?",
+   "tr": "Böceği nereye yerleştirmemi istediğinizi tekrar söyler misiniz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140377",
+   "en": "I'll let you know when it's done. Goodbye.",
+   "tr": "İş bitince haber veririm. Hoşça kalın."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140378",
+   "en": "I planted the bug. If you aren't getting a signal, they must have found it.",
+   "tr": "Böceği yerleştirdim. Sinyal almıyorsanız bulmuş olmalılar."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140379",
+   "en": "They must have. Their security must be tighter than you thought.",
+   "tr": "Bulmuş olmalılar. Güvenlikleri düşündüğünüzden sıkı olmalı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140381",
+   "en": "Are you calling me a liar?",
+   "tr": "Bana yalancı mı diyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140384",
+   "en": "I'm not going to plant this bug. This isn't a good idea.",
+   "tr": "Bu böceği yerleştirmeyeceğim. Bu iyi bir fikir değil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140385",
+   "en": "If you publish this, controllers will just be fired and replaced. Do you want that?",
+   "tr": "Bunu yayımlarsanız kontrolörler kovulup yerlerine başkaları alınır. Bunu mu istiyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140387",
+   "en": "It's all under control. Were you truly concerned, or just digging for ratings?",
+   "tr": "Her şey kontrol altında. Gerçekten endişeli miydiniz yoksa sadece reyting mi peşindeydiniz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140392",
+   "en": "That seems like a step down from wide-scale corruption.",
+   "tr": "Bu, geniş çaplı yolsuzluktan bir adım geri gibi görünüyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140394",
+   "en": "What do you want me to do?",
+   "tr": "Ne yapmamı istiyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140396",
+   "en": "Everyone knows space traffic controllers are overworked. How is this news?",
+   "tr": "Herkes uzay trafik kontrolörlerinin fazla çalıştırıldığını biliyor. Bunun nesi haber?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140399",
+   "en": "If you crack this story, what's likely to happen?",
+   "tr": "Bu hikâyeyi çözerseniz muhtemelen ne olur?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140401",
+   "en": "What will this bug allow you to pick up?",
+   "tr": "Bu böcek neleri yakalamanıza olanak tanır?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140403",
+   "en": "This bug you want me to plant -- could it interfere with traffic signals?",
+   "tr": "Yerleştirmemi istediğiniz bu böcek trafik sinyallerine karışabilir mi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140404",
+   "en": "I can't promise anything, but I'll see what I can do. Give me the bug.",
+   "tr": "Söz veremem ama elimden geleni yaparım. Böceği verin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140406",
+   "en": "I'm trying to solve real problems, Ms. Wong. I don't have time for this! Goodbye.",
+   "tr": "Gerçek sorunları çözmeye çalışıyorum, Bayan Wong. Buna vaktim yok! Hoşça kalın."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140409",
+   "en": "It's a good cause.",
+   "tr": "İyi bir dava."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140410",
+   "en": "You're welcome.",
+   "tr": "Rica ederim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140411",
+   "en": "This was the last time.",
+   "tr": "Bu son seferdi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140414",
+   "en": "Where do you want it?",
+   "tr": "Nereye yerleştireyim?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140415",
+   "en": "I'll talk to you later. ",
+   "tr": "Sonra konuşuruz. "
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140416",
+   "en": "[LIE] I already did it.",
+   "tr": "[YALAN] Zaten yaptım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140417",
+   "en": "I've changed my mind.",
+   "tr": "Fikrimi değiştirdim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140418",
+   "en": "Don't hold your breath.",
+   "tr": "Çok bekleme."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140419",
+   "en": "I'll work on it.",
+   "tr": "Üzerinde çalışacağım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140420",
+   "en": "Don't hold your breath.",
+   "tr": "Çok bekleme."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140421",
+   "en": "I'll work on it.",
+   "tr": "Üzerinde çalışacağım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140422",
+   "en": "They're smart.",
+   "tr": "Akıllılar."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140423",
+   "en": "What else could it be?",
+   "tr": "Başka ne olabilir?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140424",
+   "en": "It's the truth.",
+   "tr": "Gerçek bu."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140428",
+   "en": "You'll ruin their lives.",
+   "tr": "Hayatlarını mahvedeceksiniz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140429",
+   "en": "This story won't help.",
+   "tr": "Bu hikâye işe yaramaz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140430",
+   "en": "There is no story.",
+   "tr": "Ortada hikâye yok."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140436",
+   "en": "Traffic controllers?",
+   "tr": "Trafik kontrolörleri mi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140437",
+   "en": "What kind of help?",
+   "tr": "Ne tür bir yardım?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140438",
+   "en": "No. Goodbye.",
+   "tr": "Hayır. Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140441",
+   "en": "Importance of story",
+   "tr": "Hikâyenin önemi"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140442",
+   "en": "Results of story",
+   "tr": "Hikâyenin sonuçları"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140443",
+   "en": "Function of bug",
+   "tr": "Böceğin işlevi"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140444",
+   "en": "Danger of bug",
+   "tr": "Böceğin tehlikesi"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140445",
+   "en": "I'll try.",
+   "tr": "Deneyeceğim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140446",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140449",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140451",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140453",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|140454",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta20_reporter_D|142537",
+   "en": "I see, Commander. I apologize.",
+   "tr": "Anlıyorum, Komutan. Özür dilerim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84409",
+   "en": "Don't be ridiculous. The volus won't be joining the Council for years.",
+   "tr": "Saçmalama. Volus yıllarca Konsey'e katılmayacak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84410",
+   "en": "I'm not so sure. The humans are making a strong push and you can bet the volus will be right on their coattails if they succeed.",
+   "tr": "Pek emin değilim. İnsanlar güçlü bir hamle yapıyor ve başarırlarsa volus'un hemen peşlerinden geleceğine bahse girebilirsin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84411",
+   "en": "Allowing the humans to join is a sound strategic move, but the volus?  No, the hanar are likely to be next, then the elcor.",
+   "tr": "İnsanların katılmasına izin vermek mantıklı bir stratejik hamle ama volus mu? Hayır, sırada büyük ihtimalle hanar, sonra elcor var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84412",
+   "en": "You may be right. Though the hanar need to lighten up a bit first.",
+   "tr": "Haklı olabilirsin. Gerçi hanar'ın önce biraz gevşemesi gerek."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84413",
+   "en": "You just don't like them because you have trouble understanding them.",
+   "tr": "Sadece onları anlamakta zorlandığın için onlardan hoşlanmıyorsun."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84414",
+   "en": "Maybe, but I wouldn't believe everything you hear.",
+   "tr": "Belki ama duyduğun her şeye inanmazdım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84415",
+   "en": "But that's just it. I'm hearing it everywhere. It's not just isolated rumors.",
+   "tr": "Ama mesele de bu. Her yerde duyuyorum. Sadece izole söylentiler değil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84416",
+   "en": "Do you really think Saren could be involved in something like that without the Council knowing it?",
+   "tr": "Saren'in Konsey'in haberi olmadan böyle bir şeye karışabileceğini gerçekten düşünüyor musun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84417",
+   "en": "Maybe the Council does know. Everyone already assumes he's just doing their dirty work.",
+   "tr": "Belki Konsey biliyordur. Herkes zaten onun kirli işlerini yaptığını varsayıyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84418",
+   "en": "That's dangerous talk. I'd be careful who you mention that to.",
+   "tr": "Bu tehlikeli bir konuşma. Bunu kime söylediğine dikkat ederdim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84419",
+   "en": "I know. But if it's true, shouldn't we be doing something about it?",
+   "tr": "Biliyorum. Ama doğruysa bu konuda bir şey yapmamız gerekmez mi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_amb_diplomats_D|84420",
+   "en": "No, and I'll thank you to keep me out of it if you do.",
+   "tr": "Hayır, ve yaparsan beni karıştırmamanı rica ederim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103522",
+   "en": "Saren's hiding something! Give me more time. Stall them.",
+   "tr": "Saren bir şey saklıyor! Bana biraz daha zaman ver. Onları oyala."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103523",
+   "en": "Stall the Council? Don't be ridiculous! Your investigation is over, Garrus.",
+   "tr": "Konsey'i oyalamak mı? Saçmalama! Soruşturman bitti Garrus."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103524",
+   "en": "Commander Shepard? Garrus Vakarian. I was the officer in charge of the C-Sec investigation into Saren.",
+   "tr": "Komutan Shepard? Garrus Vakarian. Saren'le ilgili C-Sec soruşturmasından sorumlu memurdum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103525",
+   "en": "That was Executor Pallin, head of Citadel Security. My boss. He'll be presenting my findings on Saren to the Council.",
+   "tr": "O, Citadel Güvenliği başkanı İcra Memuru Pallin'di. Patronum. Saren hakkındaki bulgularımı Konsey'e o sunacak."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103526",
+   "en": "I don't trust him. Something about him rubs me the wrong way. ",
+   "tr": "Ona güvenmiyorum. Onda beni rahatsız eden bir şey var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103527",
+   "en": "But he's a Spectre; everything he touches is classified. I can't find any hard evidence.",
+   "tr": "Ama o bir Spectre; dokunduğu her şey gizli. Sağlam bir kanıt bulamıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103528",
+   "en": "Saren's a Spectre. Most of his activities are classified. I couldn't find anything solid.",
+   "tr": "Saren bir Spectre. Faaliyetlerinin çoğu gizli. Sağlam bir şey bulamadım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103529",
+   "en": "But I know he's up to something. Like you humans say, I feel it in my gut.",
+   "tr": "Ama bir şeyler çevirdiğini biliyorum. Sizin insanların dediği gibi, içgüdülerimle hissediyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103530",
+   "en": "I think the Council's ready for us, Commander.",
+   "tr": "Sanırım Konsey bize hazır Komutan."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103531",
+   "en": "Good luck, Shepard. Maybe they'll listen to you.",
+   "tr": "İyi şanslar Shepard. Belki seni dinlerler."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103532",
+   "en": "You don't want to keep the Council waiting.",
+   "tr": "Konsey'i bekletmek istemezsin."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103535",
+   "en": "Who were you just talking to?",
+   "tr": "Az önce kimle konuşuyordun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103536",
+   "en": "Sounds like you really want to bring him down.",
+   "tr": "Onu gerçekten indirmek istiyorsun gibi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103539",
+   "en": "Sounds like you came up empty.",
+   "tr": "Eli boş döndün gibi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103540",
+   "en": "Come across anything I should know about?",
+   "tr": "Bilmem gereken bir şey buldun mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103546",
+   "en": "Who was that?",
+   "tr": "O kimdi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103547",
+   "en": "You don't like Saren.",
+   "tr": "Saren'den hoşlanmıyorsun."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103548",
+   "en": "You blew it.",
+   "tr": "Batırdın."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_garrus_D|103549",
+   "en": "What did you find?",
+   "tr": "Ne buldun?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|124905",
+   "en": "Congratulations on becoming the first human Spectre, Commander. I'm certain you'll be up to the challenge.",
+   "tr": "İlk insan Spectre olduğunuz için tebrikler Komutan. Göreve hazır olduğunuzdan eminim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125192",
+   "en": "Commander. Any luck finding my recon group?",
+   "tr": "Komutan. Keşif grubumu bulma konusunda şansınız oldu mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125193",
+   "en": "Well. I'll let you get to it, then.",
+   "tr": "Şey. O halde sizi işinizle baş başa bırakayım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125195",
+   "en": "One of my crews found him. Frozen stiff on board a derelict vessel.",
+   "tr": "Mürettebatımdan biri onu buldu. Terk edilmiş bir gemide donmuş halde."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125196",
+   "en": "The missing recon group, the one I sent you to find. They were scouting the system we found Banes' ship in.",
+   "tr": "Kayıp keşif grubu, bulmanız için gönderdiğim. Banes'in gemisini bulduğumuz sistemi keşfediyorlardı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125199",
+   "en": "Commander. Is there something you need? If not, I've got some things I need to take care of.",
+   "tr": "Komutan. Bir şeye mi ihtiyacınız var? Yoksa halletmem gereken bazı işler var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125200",
+   "en": "My name is Admiral Kahoku. It's about time the Alliance got one of our own in with the Spectres. We need people like you to deal with our... problems.",
+   "tr": "Adım Amiral Kahoku. İttifak'ın sonunda Spectre'lara bizden birini sokmasının zamanı geldi. Sizin gibi insanlara sorunlarımızla ilgilenmek için ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125201",
+   "en": "I'm getting stonewalled by bureaucratic assholes. Nothing new.",
+   "tr": "Bürokrat pislikler beni oyalıyor. Yeni bir şey yok."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125202",
+   "en": "Maybe you can help me, Shepard. One of my recon teams was investigating some strange activity out in the Traverse.",
+   "tr": "Belki bana yardım edebilirsiniz Shepard. Keşif ekiplerimden biri Traverse'te garip bir faaliyeti araştırıyordu."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125205",
+   "en": "Not as much as I'd like to.",
+   "tr": "İstediğim kadar değil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125206",
+   "en": "I sent a recon group to investigate the system where we found his body.",
+   "tr": "Cesedini bulduğumuz sisteme bir keşif grubu gönderdim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125207",
+   "en": "We lost contact yesterday. Now I can't get clearance to check it out - suddenly it's a restricted area.",
+   "tr": "Dün bağlantıyı kaybettik. Şimdi kontrol etmek için izin alamıyorum - birden kısıtlı bölge oldu."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125208",
+   "en": "I appreciate that, Commander. I was running out of options.",
+   "tr": "Bunu takdir ediyorum Komutan. Seçeneklerim tükeniyordu."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125209",
+   "en": "Well, that's more than most will commit to.",
+   "tr": "Şey, bu çoğunun söz vereceğinden fazlası."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125210",
+   "en": "I'm going to stay here and see if I can find anything out through official channels. Won't hold my breath, though.",
+   "tr": "Burada kalıp resmî kanallardan bir şey bulabilir miyim bakacağım. Ama umutlanmıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125211",
+   "en": "I'll upload the info on where my team was last seen to your ship. Maybe you can get some answers.",
+   "tr": "Ekibimin en son nerede görüldüğüne dair bilgiyi geminize yükleyeceğim. Belki cevap bulabilirsiniz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125212",
+   "en": "Commander.",
+   "tr": "Komutan."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125213",
+   "en": "Commander.",
+   "tr": "Komutan."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125214",
+   "en": "I'm just waiting for someone, Commander.",
+   "tr": "Sadece birini bekliyorum Komutan."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125215",
+   "en": "Come and see me later, Commander. I'm busy right now.",
+   "tr": "Sonra gelip beni görün Komutan. Şu an meşgulüm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125216",
+   "en": "Not now, Commander.",
+   "tr": "Şimdi olmaz Komutan."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125228",
+   "en": "Not yet, Admiral.",
+   "tr": "Henüz değil Amiral."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125229",
+   "en": "Captain Anderson said you had information on Banes.",
+   "tr": "Kaptan Anderson Banes hakkında bilgi sahibi olduğunuzu söyledi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125232",
+   "en": "You should have mentioned this earlier, Admiral.",
+   "tr": "Bunu daha önce söylemeliydiniz Amiral."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125234",
+   "en": "I appreciate that.",
+   "tr": "Bunu takdir ediyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125235",
+   "en": "Is something wrong, Admiral?",
+   "tr": "Bir sorun mu var Amiral?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125241",
+   "en": "Captain Anderson said you'd have information on Banes.",
+   "tr": "Kaptan Anderson Banes hakkında bilginiz olduğunu söyledi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125244",
+   "en": "I'll find them, Admiral.",
+   "tr": "Onları bulacağım Amiral."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125246",
+   "en": "I'll look for them if I have time.",
+   "tr": "Vaktim olursa onları ararım."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125249",
+   "en": "I have to go, Admiral.",
+   "tr": "Gitmem gerek Amiral."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125266",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125267",
+   "en": "Banes.",
+   "tr": "Banes."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125270",
+   "en": "Why didn't you tell me?",
+   "tr": "Neden bana söylemediniz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125273",
+   "en": "Thank you.",
+   "tr": "Teşekkür ederim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125274",
+   "en": "Problems",
+   "tr": "Sorunlar"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125275",
+   "en": "Banes",
+   "tr": "Banes"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125276",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125285",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125286",
+   "en": "Okay.",
+   "tr": "Tamam."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125287",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125339",
+   "en": "Commander Shepard, isn't it? My name is Admiral Kahoku. Is there something I can do for you?",
+   "tr": "Komutan Shepard, değil mi? Adım Amiral Kahoku. Sizin için yapabileceğim bir şey var mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|125340",
+   "en": "Commander. Any word on my missing men?",
+   "tr": "Komutan. Kayıp adamlarım hakkında haber var mı?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138421",
+   "en": "I'm a senior officer with the Alliance. I knew about your candidacy before the Normandy was sent to Eden Prime.",
+   "tr": "İttifak'ta kıdemli bir subayım. Normandy Eden Prime'a gönderilmeden önce adaylığınızdan haberim vardı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138422",
+   "en": "Yes - that's right. They went missing a few days ago. I've been trying to find out what happened to them, but I keep getting the run around from Alliance brass.",
+   "tr": "Evet - doğru. Birkaç gün önce kayboldular. Ne olduğunu öğrenmeye çalışıyorum ama İttifak komutanlığı beni oyalıyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138423",
+   "en": "Do you know something about this, Commander?",
+   "tr": "Bu konuda bir şey biliyor musunuz Komutan?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138424",
+   "en": "A... a thresher maw? That's not... my men wouldn't just stumble into a thresher nest! Not the entire unit!",
+   "tr": "Bir... bir thresher maw mu? Bu... adamlarım öylece bir thresher yuvasına rastlamazdı! Tüm birim değil!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138425",
+   "en": "Damn it! I had a bad feeling about this ever since my team disappeared. An Alliance beacon used as bait, my unit wiped out... and nobody seems to know anything about it!",
+   "tr": "Kahretsin! Ekibim kaybolduğundan beri bu konuda kötü bir önsezim vardı. Yem olarak kullanılan bir İttifak işaret fişeği, birimim yok edildi... ve kimse bu konuda bir şey bilmiyor gibi!"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138426",
+   "en": "Commander, I appreciate what you did. Now I need to do my part. The families of those marines deserve to know why they died.",
+   "tr": "Komutan, yaptığınızı takdir ediyorum. Şimdi benim payıma düşeni yapmam gerek. O denizcilerin aileleri neden öldüklerini bilmeyi hak ediyor."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138427",
+   "en": "Not right now, Shepard. But I'll let you know as soon as I find something out.",
+   "tr": "Şu an değil Shepard. Ama bir şey öğrenir öğrenmez haber vereceğim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138428",
+   "en": "I will, Shepard. I'll let you know when I find anything out.",
+   "tr": "Vereceğim Shepard. Bir şey öğrenince haber veririm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138429",
+   "en": "You've already done enough, Shepard. The rest is up to me.",
+   "tr": "Zaten yeterince şey yaptınız Shepard. Gerisi bana kalmış."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138430",
+   "en": "Banes is already dead. It's too late for him. I'm only concerned about my team. Someone has to find them.",
+   "tr": "Banes çoktan öldü. Onun için çok geç. Sadece ekibimle ilgileniyorum. Birinin onları bulması gerek."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138431",
+   "en": "Please, Shepard. I'm counting on you.",
+   "tr": "Lütfen Shepard. Size güveniyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138432",
+   "en": "But that doesn't apply to you, Shepard. Spectres can go anywhere they want. You could find out why my team dropped out of contact.",
+   "tr": "Ama bu sizin için geçerli değil Shepard. Spectre'lar istedikleri her yere gidebilir. Ekibimin neden iletişimi kestiğini öğrenebilirsiniz."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138433",
+   "en": "Sorry, I don't think we've met.",
+   "tr": "Üzgünüm, tanıştığımızı sanmıyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138434",
+   "en": "Who told you I was a Spectre?",
+   "tr": "Spectre olduğumu kim söyledi?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138437",
+   "en": "You sent a recon team out into the Artemis Tau cluster?",
+   "tr": "Artemis Tau kümesine bir keşif ekibi mi gönderdiniz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138439",
+   "en": "I'm not sure how to tell you this, Admiral. Your men were killed by a thresher maw.",
+   "tr": "Bunu size nasıl söyleyeceğimi bilmiyorum Amiral. Adamlarınızı bir thresher maw öldürdü."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138440",
+   "en": "They were killed by a thresher maw.",
+   "tr": "Onları bir thresher maw öldürdü."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138441",
+   "en": "I found them. What was left of them. They ran into a thresher maw.",
+   "tr": "Onları buldum. Geriye kalanını. Bir thresher maw'a rastlamışlar."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138442",
+   "en": "Somebody lured them there with an Alliance distress beacon. Placed it perfectly so they'd land right beside the thresher nest.",
+   "tr": "Biri onları bir İttifak imdat işaret fişeğiyle oraya çekmiş. Tam thresher yuvasının yanına inecek şekilde yerleştirmiş."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138444",
+   "en": "Anything you need from me?",
+   "tr": "Benden bir şey gerekiyor mu?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138446",
+   "en": "I hope you find what you're after, Admiral.",
+   "tr": "Umarım aradığınızı bulursunuz Amiral."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138448",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138452",
+   "en": "I found your men.",
+   "tr": "Adamlarınızı buldum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138454",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138455",
+   "en": "I've got bad news.",
+   "tr": "Kötü haberlerim var."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138456",
+   "en": "They're dead.",
+   "tr": "Öldüler."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138457",
+   "en": "It wasn't their fault.",
+   "tr": "Onların suçu değildi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138458",
+   "en": "They were set up.",
+   "tr": "Tuzağa düşürüldüler."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138459",
+   "en": "It was a trap.",
+   "tr": "Bu bir tuzaktı."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138461",
+   "en": "Can I help?",
+   "tr": "Yardım edebilir miyim?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138462",
+   "en": "Good luck.",
+   "tr": "İyi şanslar."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138463",
+   "en": "Not my problem.",
+   "tr": "Benim sorunum değil."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138469",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|138470",
+   "en": "How do you know about that?",
+   "tr": "Bunu nereden biliyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|156735",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_kahoku_D|156736",
+   "en": "I'm on it.",
+   "tr": "Hallediyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_tig_kahoku_D|134496",
+   "en": "No. I'm waiting to speak with one of the Councilor's assistants.",
+   "tr": "Hayır. Konsey Üyesi'nin asistanlarından biriyle konuşmayı bekliyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_tig_kahoku_D|134497",
+   "en": "No. I just want to ask a couple of questions.",
+   "tr": "Hayır. Sadece birkaç soru sormak istiyorum."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_tig_kahoku_D|134498",
+   "en": "No. I haven't spoken to him before. This is the first time I've requested an audience.",
+   "tr": "Hayır. Onunla daha önce konuşmadım. Bu ilk görüşme talebim."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_tig_kahoku_D|134499",
+   "en": "Yeah, I'll wait. Doesn't seem like I have much choice.",
+   "tr": "Evet, bekleyeceğim. Pek seçeneğim yok gibi."
+  },
+  {
+   "key": "BIOA_STA70_02A_DSG_LOC|sta70_tig_kahoku_D|134500",
+   "en": "Yes. I'm still waiting.",
+   "tr": "Evet. Hâlâ bekliyorum."
+  }
+ ]
+}

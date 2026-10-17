@@ -1,0 +1,930 @@
+{
+ "meta": {
+  "package": "BIOA_ICE60_14_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE60_14_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30522",
+   "en": "Online. How can I help you?",
+   "tr": "Çevrimiçi. Size nasıl yardımcı olabilirim?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30523",
+   "en": "I'm sorry, but I can't do that without proper code authorization.",
+   "tr": "Üzgünüm ama uygun kod yetkisi olmadan bunu yapamam."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30524",
+   "en": "Lady Benezia, an executive secretary of Binary Helix, is on the operations deck.",
+   "tr": "Binary Helix yönetici sekreteri Leydi Benezia, operasyon güvertesinde."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30525",
+   "en": "Yaroslev Tartakovsky, director of operations, is on the operations deck.",
+   "tr": "Operasyon direktörü Yaroslev Tartakovsky, operasyon güvertesinde."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30526",
+   "en": "Logging you out, Commander.",
+   "tr": "Oturumunuz kapatılıyor Komutan."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30527",
+   "en": "Connecting. I have full access to the facility, and am at your disposal.",
+   "tr": "Bağlanıyor. Tesise tam erişimim var ve emrinizdeyim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30529",
+   "en": "Verified. Code Omega execution in 120 seconds.",
+   "tr": "Doğrulandı. Kod Omega uygulaması 120 saniye içinde."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30530",
+   "en": "That is not the correct code. Please report to security for arrest and interrogation.",
+   "tr": "Bu doğru kod değil. Lütfen tutuklama ve sorgu için güvenliğe bildirin."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30532",
+   "en": "Who would have those codes?",
+   "tr": "Bu kodlar kimde olur?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30533",
+   "en": "Who would have those codes?",
+   "tr": "Bu kodlar kimde olur?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30534",
+   "en": "Who would have those codes?",
+   "tr": "Bu kodlar kimde olur?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30535",
+   "en": "Who would have those codes?",
+   "tr": "Bu kodlar kimde olur?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30536",
+   "en": "Who would have those codes?",
+   "tr": "Bu kodlar kimde olur?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30537",
+   "en": "Director of Operations Yaroslev Tartakovsky or any executive officer of Binary Helix.",
+   "tr": "Operasyon Direktörü Yaroslev Tartakovsky ya da Binary Helix'in herhangi bir yönetici görevlisi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30538",
+   "en": "I'm sorry. While functional, the system is not armed.",
+   "tr": "Üzgünüm. İşlevsel olsa da sistem silahlandırılmadı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30539",
+   "en": "The purge controls are on the operations deck. A clearance key from one of the senior scientists is required to arm the system.",
+   "tr": "Temizleme kontrolleri operasyon güvertesinde. Sistemi silahlandırmak için kıdemli bilim insanlarından birinin yetki anahtarı gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30543",
+   "en": "User alert! Neutron purge system active. Evacuation recommended.",
+   "tr": "Kullanıcı uyarısı! Nötron temizleme sistemi etkin. Tahliye önerilir."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30544",
+   "en": "User alert! The neutron purge system is armed. Activation will begin a two-minute countdown to facility sterilization.",
+   "tr": "Kullanıcı uyarısı! Nötron temizleme sistemi silahlandırıldı. Etkinleştirme, tesisin sterilizasyonuna iki dakikalık bir geri sayım başlatacak."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30545",
+   "en": "Employees must reach minimum safe distance. Failure to evacuate may result in serious genetic damage.",
+   "tr": "Çalışanlar asgari güvenli mesafeye ulaşmalı. Tahliye edilmemesi ciddi genetik hasara yol açabilir."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30546",
+   "en": "Containment breach in Laboratory Pod Gamma. The neutron purge system is functional, but has not been armed.",
+   "tr": "Gamma Laboratuvar Kapsülü'nde izolasyon ihlali. Nötron temizleme sistemi işlevsel ama silahlandırılmadı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30548",
+   "en": "There are no asari visible to my remaining internal sensors.",
+   "tr": "Kalan dahili sensörlerimle görünür asari yok."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30549",
+   "en": "The neutron purge is a failsafe system installed within the isolation tube area. In the event of irretrievable containment loss, it is used to resolve the situation.",
+   "tr": "Nötron temizleme, izolasyon tüpü bölgesine kurulu bir arıza emniyet sistemi. Geri döndürülemez izolasyon kaybı durumunda durumu çözmek için kullanılır."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30550",
+   "en": "I'm sorry. The sensor network is too damaged to provide an accurate count.",
+   "tr": "Üzgünüm. Sensör ağı doğru sayım sağlamak için fazla hasarlı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30551",
+   "en": "\"Guessing\" is beyond my design parameters, Commander.",
+   "tr": "\"Tahmin etmek\" tasarım parametrelerimin ötesinde Komutan."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30553",
+   "en": "Activate the neutron purge.",
+   "tr": "Nötron temizlemesini etkinleştir."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30554",
+   "en": "Code input: 875-020-079. Code Omega local execution.",
+   "tr": "Kod girişi: 875-020-079. Kod Omega yerel uygulaması."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30555",
+   "en": "Uh, sic semper tyrana--[cough]",
+   "tr": "Ee, sic semper tyrannis--[öksürür]"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30563",
+   "en": "Who would have the code?",
+   "tr": "Kod kimde olur?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30564",
+   "en": "How do I arm it?",
+   "tr": "Nasıl silahlandırırım?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30568",
+   "en": "What's the status of the facility?",
+   "tr": "Tesisin durumu nedir?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30571",
+   "en": "Is there an asari here?",
+   "tr": "Burada bir asari var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30573",
+   "en": "I need information on the neutron purge.",
+   "tr": "Nötron temizleme hakkında bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30574",
+   "en": "How many of those things are in here?",
+   "tr": "Burada kaç tane o şeylerden var?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30575",
+   "en": "Give me your best guess.",
+   "tr": "En iyi tahminini ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30576",
+   "en": "Are there any survivors in here?",
+   "tr": "Burada hayatta kalan var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|30578",
+   "en": "We're moving on.",
+   "tr": "İlerliyoruz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34837",
+   "en": "Most of the energy is released in the form of high-speed neutrons. This radiation is instantly lethal to any known form of life within 500 meters.",
+   "tr": "Enerjinin çoğu yüksek hızlı nötronlar biçiminde salınır. Bu radyasyon, 500 metre içindeki bilinen tüm yaşam biçimleri için anında ölümcüldür."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34839",
+   "en": "Important safety tip: don't hit big red buttons.",
+   "tr": "Önemli güvenlik ipucu: büyük kırmızı düğmelere basma."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34840",
+   "en": "Okay, that's bad. Important safety tip: don't hit big red buttons.",
+   "tr": "Tamam, bu kötü. Önemli güvenlik ipucu: büyük kırmızı düğmelere basma."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34841",
+   "en": "Hmph. Just a pleasant afternoon in the sun for a krogan.",
+   "tr": "Hmph. Bir krogan için sadece güneşte hoş bir öğleden sonra."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34842",
+   "en": "The purge is lethal to all known forms of--",
+   "tr": "Temizleme bilinen tüm yaşam biçimleri için ölümcül--"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34843",
+   "en": "Shut up. Last thing I need is some virtual wench questioning my fitness.",
+   "tr": "Kapa çeneni. Şu an en son ihtiyacım olan şey, uygunluğumu sorgulayan sanal bir kadın."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34844",
+   "en": "We would be wise to avoid touching any controls without reading the instructions.",
+   "tr": "Talimatları okumadan hiçbir kontrole dokunmamak akıllıca olur."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34845",
+   "en": "It's always a good idea to RTFM, ma'am.",
+   "tr": "Kılavuzu okumak her zaman iyi fikirdir hanımefendi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34846",
+   "en": "To what?",
+   "tr": "Neyi?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34847",
+   "en": "As if we needed more reasons to avoid touching things in here.",
+   "tr": "Buradaki şeylere dokunmamak için sanki daha fazla sebebe ihtiyacımız vardı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34848",
+   "en": "There is an asari I cannot identify standing next to you.",
+   "tr": "Yanınızda tanımlayamadığım bir asari duruyor."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34849",
+   "en": "There are no others visible to my remaining internal sensors.",
+   "tr": "Kalan dahili sensörlerimle görünür başka kimse yok."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34850",
+   "en": "The purge is a neutron burst weapon. Two volumes of fissionable materials are brought together to form a critical mass.",
+   "tr": "Temizleme bir nötron patlaması silahıdır. Fisyon yapabilen iki madde hacmi kritik kütle oluşturmak üzere bir araya getirilir."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34855",
+   "en": "What exactly does this thing do?",
+   "tr": "Bu şey tam olarak ne yapıyor?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|34875",
+   "en": "How you tolerate literal-minded VIs is beyond me.",
+   "tr": "Kelimesi kelimesine anlayan VI'lara nasıl katlandığını anlamıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41822",
+   "en": "Initiate the neutron purge.",
+   "tr": "Nötron temizlemesini başlat."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41825",
+   "en": "Matriarch Benezia",
+   "tr": "Matriarch Benezia"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41826",
+   "en": "The neutron purge.",
+   "tr": "Nötron temizleme."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41827",
+   "en": "Hostile creatures",
+   "tr": "Düşman yaratıklar"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41828",
+   "en": "Crew survivors",
+   "tr": "Hayatta kalan mürettebat"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41832",
+   "en": "\"Resolve\" sounds final.",
+   "tr": "\"Çözmek\" kesin bir şey gibi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41839",
+   "en": "Estimate.",
+   "tr": "Tahmin."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41848",
+   "en": "Situation report.",
+   "tr": "Durum raporu."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41849",
+   "en": "Log out.",
+   "tr": "Oturumu kapat."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41850",
+   "en": "I have the code.",
+   "tr": "Kod bende."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41851",
+   "en": "[Mumble something]",
+   "tr": "[Bir şeyler mırıldan]"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41852",
+   "en": "Where can I get it?",
+   "tr": "Nereden alabilirim?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|41860",
+   "en": "What do I do?",
+   "tr": "Ne yapmalıyım?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85592",
+   "en": "It's always a good idea to RTFM, Doctor.",
+   "tr": "Kılavuzu okumak her zaman iyi fikirdir Doktor."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85593",
+   "en": "That is advisable for all systems within this facility.",
+   "tr": "Bu tesisteki tüm sistemler için tavsiye edilir."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85596",
+   "en": "How many rachni are in here?",
+   "tr": "Burada kaç rachni var?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|85598",
+   "en": "Rachni",
+   "tr": "Rachni"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_mira_D|148911",
+   "en": "There are no other living crew members within the lab structure.",
+   "tr": "Laboratuvar yapısının içinde başka canlı mürettebat yok."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30753",
+   "en": "Are you here to secure the situation?",
+   "tr": "Durumu kontrol altına almak için mi geldin?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30754",
+   "en": "I am Yaroslav Tartakovsky, the operations director. I would stand and shake hand, but... Ehh.",
+   "tr": "Ben Yaroslav Tartakovsky, operasyon direktörü. Kalkıp el sıkardım ama... Ehh."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30755",
+   "en": "No! Listen. The rachni are intelligent species. They achieve star travel. They are not animals.",
+   "tr": "Hayır! Dinle. Rachni zeki tür. Yıldızlar arası seyahat başardılar. Hayvan değiller."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30756",
+   "en": "No. They're more dangerous.",
+   "tr": "Hayır. Daha tehlikeliler."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30757",
+   "en": "No. They're far more dangerous.",
+   "tr": "Hayır. Çok daha tehlikeliler."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30758",
+   "en": "No. They're far more dangerous.",
+   "tr": "Hayır. Çok daha tehlikeliler."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30762",
+   "en": "I am he. I direct the operations. I am not doing so much directing now.",
+   "tr": "Benim. Operasyonları ben yönetiyorum. Şimdi pek yönetmiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30763",
+   "en": "I am certain you are having strong feelings. But what has happened here, it is our fault. You understand?",
+   "tr": "Eminim güçlü duygular içindesin. Ama burada olanlar, bizim suçumuz. Anlıyor musun?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30765",
+   "en": "You must listen to me. If we do not contain our mistake, they will drop bombs from the battlestations. You understand?",
+   "tr": "Beni dinlemelisin. Hatamızı kontrol altına almazsak savaş istasyonlarından bomba atacaklar. Anlıyor musun?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30766",
+   "en": "Ehh. I am only following the orders.",
+   "tr": "Ehh. Ben sadece emirleri uyguluyorum."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30767",
+   "en": "Binary Helix found an egg. It was on a derelict ship, thousands of years drifting.",
+   "tr": "Binary Helix bir yumurta buldu. Terk edilmiş bir gemideydi, binlerce yıl sürüklenmiş."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30768",
+   "en": "This was rachni ship. Inside they find many eggs in cryogenic suspension.",
+   "tr": "Bu rachni gemisiydi. İçinde kriyojenik askıda çok yumurta buldular."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30769",
+   "en": "Yes. Very tough, to be so long frozen. That it survived the centuries -- this is miraculous.",
+   "tr": "Evet. Çok dayanıklı, o kadar uzun donmuş kalmak. Yüzyıllarca hayatta kalması mucize."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30770",
+   "en": "I'm not sure I would qualify this as a miracle.",
+   "tr": "Bunu mucize olarak nitelendireceğimden emin değilim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30772",
+   "en": "Binary Helix plan to clone rachni. Mass-produce them. Create an army.",
+   "tr": "Binary Helix rachni klonlamayı planlıyor. Seri üretmek. Ordu yaratmak."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30773",
+   "en": "But when they get here, they find this egg is not a common rachni. It is a queen.",
+   "tr": "Ama buraya gelince bu yumurtanın sıradan bir rachni olmadığını görüyorlar. Bir kraliçe."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30776",
+   "en": "Queens are born carrying the genetic code of their fathers. Eggs are carried away from the colony to hatch alone.",
+   "tr": "Kraliçeler babalarının genetik koduyla doğar. Yumurtalar koloniden uzaklaştırılıp tek başına çıkar."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30780",
+   "en": "After she lays eggs, they move her to Rift Station. They are thinking that without her, they can raise the babies to be obedient.",
+   "tr": "Yumurta bıraktıktan sonra onu Rift Station'a taşıdılar. Onsuz yavruları itaatkâr yetiştirebileceklerini düşünüyorlar."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30782",
+   "en": "I am thinking that without a queen, rachni do not develop properly. Her mind is shaping theirs. These rachni are uncontrollable.",
+   "tr": "Ben düşünüyorum ki kraliçe olmadan rachni düzgün gelişmez. Onun zihni onlarınkini şekillendirir. Bu rachni'ler kontrol edilemez."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30787",
+   "en": "Eh, you will forgive, but she is not a thing you leave out for viewing.",
+   "tr": "Eh, bağışla ama o, görmek için dışarıda bırakılacak bir şey değil."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30788",
+   "en": "Ehh. This was exactly the wrong thing to do.",
+   "tr": "Ehh. Bu tam olarak yanlış şeydi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30789",
+   "en": "That's right, I'm a Council Spectre. Who're you?",
+   "tr": "Doğru, ben bir Konsey Spectre'ıyım. Sen kimsin?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30791",
+   "en": "You let these things out?",
+   "tr": "Bu şeyleri sen mi saldın?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30793",
+   "en": "I don't understand anything yet. What were you doing here?",
+   "tr": "Henüz hiçbir şey anlamıyorum. Burada ne yapıyordunuz?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30795",
+   "en": "A thousand-year-old egg hatched?",
+   "tr": "Bin yıllık bir yumurta çatladı mı?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30815",
+   "en": "Then all we need to do is bring her here.",
+   "tr": "O halde tek yapmamız gereken onu buraya getirmek."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30816",
+   "en": "This is fascinating, but we don't have time to chat.",
+   "tr": "Bu büyüleyici ama sohbet edecek vaktimiz yok."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30818",
+   "en": "Are you telling me I shouldn't kill these things?",
+   "tr": "Bu şeyleri öldürmemem gerektiğini mi söylüyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30820",
+   "en": "I didn't see her when I was there.",
+   "tr": "Oradayken onu görmedim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30822",
+   "en": "Obviously, they were wrong.",
+   "tr": "Belli ki yanılmışlar."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30824",
+   "en": "We'll take care of her later.",
+   "tr": "Onunla sonra ilgileniriz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30829",
+   "en": "They brought it here to wake it up?",
+   "tr": "Onu uyandırmak için mi buraya getirdiler?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30831",
+   "en": "They should've destroyed it. Why hatch it?",
+   "tr": "Onu yok etmeleri gerekirdi. Neden çatlattılar?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30833",
+   "en": "I understand that we'll be dead soon. Talk fast.",
+   "tr": "Yakında öleceğimizi anlıyorum. Hızlı konuş."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30835",
+   "en": "Mira said there was a \"Tartakovsky\" in here.",
+   "tr": "Mira burada bir \"Tartakovsky\" olduğunu söyledi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30837",
+   "en": "If by \"secure\" you mean \"shoot every monster I see,\" sure.",
+   "tr": "\"Güvenceye almak\" derken \"gördüğüm her canavarı vur\" demek istiyorsan, tabii."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30933",
+   "en": "I have not so much time. I die under ice. Is not so bad death. I am born in Arhangelsk. There is closure.",
+   "tr": "Çok zamanım yok. Buzun altında ölüyorum. Kötü ölüm değil. Arhangelsk'te doğdum. Bir döngü kapanıyor."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30934",
+   "en": "Nah, nah. What I ask for, eh? A strong vodka is nice, but it would just leak out.",
+   "tr": "Yok, yok. Ne isterim ki, ha? Güçlü votka güzel olurdu ama sızardı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30935",
+   "en": "I am certain my body screams bloody murder. Shock is maybe not all so bad, eh?",
+   "tr": "Eminim bedenim çığlık atıyor. Şok belki o kadar kötü değil, ha?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30936",
+   "en": "Code is 875-020-079. You tell Mira that, then tell her, \"Code Omega local execution.\" Everything run automatic from there.",
+   "tr": "Kod 875-020-079. Mira'ya bunu söyle, sonra \"Kod Omega yerel uygulaması\" de. Her şey oradan otomatik gider."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30937",
+   "en": "You leave quickly, yes? I will become puddle of goo, but I am thinking I will not care so much.",
+   "tr": "Çabuk gidersin, evet? Ben bir çamur birikintisine döneceğim ama sanırım pek umursamayacağım."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30938",
+   "en": "Ehh. This is all for me, I am thinking. I try to think of good, inspiring last words. Maybe something li-- ahhhh...",
+   "tr": "Ehh. Bunların hepsi benim için, sanırım. İyi, ilham verici son sözler düşünmeye çalışıyorum. Belki şuna benzer bir şey-- ahhhh..."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30939",
+   "en": "I am feeling not so well.",
+   "tr": "Kendimi pek iyi hissetmiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30942",
+   "en": "No. I am sorry, but this will not work. ",
+   "tr": "Hayır. Üzgünüm ama bu işe yaramaz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30944",
+   "en": "These rachni are beyond saving. It is a sad thing, but they must be euthanized. I am thinking that the neutron purge must be set off.",
+   "tr": "Bu rachni'ler kurtarılamaz. Üzücü bir şey ama ötanazi edilmeli. Bence nötron temizleme başlatılmalı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30949",
+   "en": "Ehh. I do not want so much to be here myself. But the Mira system, she will not let you leave.",
+   "tr": "Ehh. Ben de burada olmak istemiyorum. Ama Mira sistemi gitmene izin vermez."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30950",
+   "en": "Is failsafe, you understand? You leave without arranging to eliminate rachni, maybe they spread.",
+   "tr": "Arıza emniyeti bu, anlıyor musun? Rachni'yi yok etmeyi ayarlamadan gidersen belki yayılırlar."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30951",
+   "en": "Sure, sure. I wait here. I am not so much good for searching now, yes? Haha.",
+   "tr": "Tabii, tabii. Burada beklerim. Şimdi arama için pek iyi değilim, evet? Haha."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30952",
+   "en": "It creates burst of neutron radiation. Kills everything within the station. Things beyond get genetic damage of varying degree.",
+   "tr": "Nötron radyasyonu patlaması yaratır. İstasyondaki her şeyi öldürür. Ötesindekiler değişen derecede genetik hasar alır."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30956",
+   "en": "Ehh. Actually, I was to tell you the opposite.",
+   "tr": "Ehh. Aslında sana tam tersini söyleyecektim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30961",
+   "en": "Is there anything we can do for you?",
+   "tr": "Senin için yapabileceğimiz bir şey var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30963",
+   "en": "You don't look good.",
+   "tr": "İyi görünmüyorsun."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30965",
+   "en": "I need the purge code, Tartakovsky.",
+   "tr": "Temizleme koduna ihtiyacım var Tartakovsky."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30979",
+   "en": "I don't have time for this. If the Matriarch isn't here, we're leaving.",
+   "tr": "Buna vaktim yok. Matriarch burada değilse gidiyoruz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30981",
+   "en": "Once the purge is armed we'll have to fight our way out. Give us a minute to patch up and rearm.",
+   "tr": "Temizleme silahlandırıldığında çıkış yolumuzu savaşarak açmak zorunda kalacağız. Yara sarıp yeniden silahlanmamız için bir dakika ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30982",
+   "en": "I'm not familiar with the purge system.",
+   "tr": "Temizleme sistemine aşina değilim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30984",
+   "en": "How do we set off the purge?",
+   "tr": "Temizlemeyi nasıl başlatırız?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|30991",
+   "en": "How are you holding up?",
+   "tr": "Nasıl dayanıyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|31053",
+   "en": "Asari? I have not seen one.",
+   "tr": "Asari mi? Görmedim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|31054",
+   "en": "Wait. Is there an asari Matriarch here?",
+   "tr": "Bekle. Burada bir asari Matriarch var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41861",
+   "en": "Can we help?",
+   "tr": "Yardım edebilir miyiz?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41862",
+   "en": "Aren't you in pain?",
+   "tr": "Acı çekmiyor musun?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41877",
+   "en": "I didn't see a queen there.",
+   "tr": "Orada bir kraliçe görmedim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41878",
+   "en": "That didn't work.",
+   "tr": "İşe yaramadı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41879",
+   "en": "We'll kill her too.",
+   "tr": "Onu da öldüreceğiz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41886",
+   "en": "We can save them.",
+   "tr": "Onları kurtarabiliriz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41887",
+   "en": "We're running out of time.",
+   "tr": "Zamanımız tükeniyor."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41889",
+   "en": "So what?",
+   "tr": "Ee, ne olmuş?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41895",
+   "en": "Neutron purge?",
+   "tr": "Nötron temizleme mi?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41896",
+   "en": "Just tell me how.",
+   "tr": "Sadece nasıl olduğunu söyle."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41899",
+   "en": "To hell with this.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41900",
+   "en": "Give us a minute.",
+   "tr": "Bize bir dakika ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41920",
+   "en": "The purge code.",
+   "tr": "Temizleme kodu."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41928",
+   "en": "I'm a Spectre.",
+   "tr": "Ben bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41929",
+   "en": "Are you all right?",
+   "tr": "İyi misin?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41930",
+   "en": "You're Tartakovsky?",
+   "tr": "Sen Tartakovsky misin?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41931",
+   "en": "If you mean \"exterminate.\"",
+   "tr": "\"Yok etmek\" demek istiyorsan."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41934",
+   "en": "Where's Benezia?",
+   "tr": "Benezia nerede?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41935",
+   "en": "You let them loose?",
+   "tr": "Onları sen mi saldın?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41936",
+   "en": "What did you do?",
+   "tr": "Ne yaptın?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41937",
+   "en": "Talk fast, then.",
+   "tr": "O halde hızlı konuş."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41941",
+   "en": "That egg was ancient!",
+   "tr": "O yumurta antikti!"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41942",
+   "en": "They hatched it?",
+   "tr": "Çatlattılar mı?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|41943",
+   "en": "I would have smashed it.",
+   "tr": "Ben onu ezerdim."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86031",
+   "en": "Mother always say I would meet a bad end.",
+   "tr": "Annem hep kötü sonla karşılaşacağımı söylerdi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86032",
+   "en": "That is so. Billions of lives lost in that war, on both sides.",
+   "tr": "Öyle. O savaşta iki tarafta da milyarlarca can kaybı oldu."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86033",
+   "en": "Rachni? The krogan wiped them out a thousand years ago.",
+   "tr": "Rachni mi? Krogan onları bin yıl önce yok etti."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86043",
+   "en": "Rachni are extinct.",
+   "tr": "Rachni soyu tükendi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86665",
+   "en": "She must be at Rift Station, Commander.",
+   "tr": "Rift Station'da olmalı Komutan."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86666",
+   "en": "She must be at Rift Station, Commander.",
+   "tr": "Rift Station'da olmalı Komutan."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86667",
+   "en": "She must be at Rift Station, Commander.",
+   "tr": "Rift Station'da olmalı Komutan."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86668",
+   "en": "She is safe, then. At Rift Station.",
+   "tr": "O halde güvende. Rift Station'da."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86669",
+   "en": "She must be at Rift Station, then.",
+   "tr": "O halde Rift Station'da olmalı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|86670",
+   "en": "This is not important. You must be listening.",
+   "tr": "Bu önemli değil. Dinlemelisin."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102781",
+   "en": "Queens can lay eggs in hours, and have a colony in days. This is how they spread so quickly.",
+   "tr": "Kraliçeler saatler içinde yumurta bırakabilir, günler içinde koloni kurar. Bu yüzden bu kadar çabuk yayılırlar."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102783",
+   "en": "Hold on. Don't you need a male to get eggs?",
+   "tr": "Dur. Yumurta için erkek gerekmez mi?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102784",
+   "en": "Separating them from their mother didn't work.",
+   "tr": "Onları annelerinden ayırmak işe yaramadı."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102788",
+   "en": "What about a male?",
+   "tr": "Erkek ne olacak?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102789",
+   "en": "The rachni aren't obedient.",
+   "tr": "Rachni itaatkâr değil."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|102790",
+   "en": "We'll kill the queen too.",
+   "tr": "Kraliçeyi de öldüreceğiz."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|146270",
+   "en": "Wait. Wait!",
+   "tr": "Bekle. Bekle!"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|148845",
+   "en": "What does the purge do?",
+   "tr": "Temizleme ne yapar?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|148846",
+   "en": "How do I trigger the purge?",
+   "tr": "Temizlemeyi nasıl başlatırım?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|155851",
+   "en": "Arming controls are nearby. All you do is insert the key. Then I will give Mira destruct co--. UH!",
+   "tr": "Silahlandırma kontrolleri yakınında. Tek yapacağın anahtarı takmak. Sonra Mira'ya imha kod-- UH!"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166957",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166958",
+   "en": "They got what was coming.",
+   "tr": "Hak ettikleri başlarına geldi."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166959",
+   "en": "Your experiment failed.",
+   "tr": "Deneyiniz başarısız oldu."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|166960",
+   "en": "To hell with this.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171025",
+   "en": "Just wait here.",
+   "tr": "Sadece burada bekle."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171026",
+   "en": "Give us a minute to prepare.",
+   "tr": "Hazırlanmamız için bir dakika ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171445",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|171446",
+   "en": "To hell with this.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|172286",
+   "en": "How do we set off the purge?",
+   "tr": "Temizlemeyi nasıl başlatırız?"
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|172288",
+   "en": "Just tell me how.",
+   "tr": "Sadece nasıl olduğunu söyle."
+  },
+  {
+   "key": "BIOA_ICE60_14_DSG_LOC|ice70_tartakovsky_D|172584",
+   "en": "How do I trigger the purge?",
+   "tr": "Temizlemeyi nasıl başlatırım?"
+  }
+ ]
+}

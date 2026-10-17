@@ -1,0 +1,970 @@
+{
+ "meta": {
+  "package": "BIOA_STA20_07A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA20_07A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 5
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_amb_samesh_D|137535",
+   "en": "Excuse me, Commander Shepard? Could you spare a moment of your time?",
+   "tr": "Affedersiniz, Komutan Shepard? Bana biraz vaktinizi ayırır mısınız?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23005",
+   "en": "Greetings, and welcome to the Presidium. My name is Avina, and I am pleased to be your virtual guide throughout this level of the Citadel space station.",
+   "tr": "Merhaba, Presidium'a hoş geldiniz. Adım Avina ve Citadel uzay istasyonunun bu katında sanal rehberiniz olmaktan memnuniyet duyuyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23006",
+   "en": "I am a fully interactive virtual intelligence, programmed to provide spontaneous guidance at predetermined locations of interest throughout this level of the Citadel.",
+   "tr": "Citadel'in bu katındaki ilgi çekici konumlarda anlık rehberlik sağlamak üzere programlanmış, tam etkileşimli sanal bir zekâyım."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23007",
+   "en": "I may also be contacted through any of the Presidium VI terminals, should you require assistance.",
+   "tr": "Yardıma ihtiyaç duyarsanız Presidium VI terminallerinden herhangi biri aracılığıyla da bana ulaşabilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23008",
+   "en": "You are standing at Presidium Tourism Terminal I. On either side of this lobby are the embassies of the various Citadel races, along with C-Sec headquarters.",
+   "tr": "Presidium Turizm Terminali I'de duruyorsunuz. Bu lobinin iki yanında çeşitli Citadel ırklarının büyükelçilikleri ve C-Sec karargâhı bulunuyor."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23009",
+   "en": "What does that mean?",
+   "tr": "Bu ne demek?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23011",
+   "en": "Tell me about the embassies.",
+   "tr": "Bana büyükelçiliklerden bahset."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23013",
+   "en": "What can you tell me about the Citadel Council?",
+   "tr": "Citadel Konseyi hakkında bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23014",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23191",
+   "en": "Our records indicate this is your first time on the Citadel. A brief orientation session is customary. Please allow me to do my job.",
+   "tr": "Kayıtlarımız bunun Citadel'e ilk gelişiniz olduğunu gösteriyor. Kısa bir oryantasyon âdettendir. Lütfen işimi yapmama izin verin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23193",
+   "en": "I apologize if you found my service unsatisfactory. Please submit any complaints in writing to the Citadel Tourist and Visitor Board. Have a nice day.",
+   "tr": "Hizmetimi yetersiz bulduysanız özür dilerim. Lütfen şikâyetlerinizi yazılı olarak Citadel Turist ve Ziyaretçi Kurulu'na iletin. İyi günler."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23194",
+   "en": "Welcome to Presidium Tourism Terminal I. There are many points of interest here, including the Citadel Embassies and C-Sec headquarters.",
+   "tr": "Presidium Turizm Terminali I'e hoş geldiniz. Citadel Büyükelçilikleri ve C-Sec karargâhı dahil birçok ilgi çekici nokta var."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23195",
+   "en": "On the far end of this level you can see the Citadel Tower, where the Council meets regularly to discuss matters of interstellar importance.",
+   "tr": "Bu katın uzak ucunda, Konsey'in yıldızlararası önemdeki konuları görüşmek üzere düzenli toplandığı Citadel Tower'ı görebilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23196",
+   "en": "Each species in Citadel space important enough to be consulted on matters of galactic politics maintains an embassy on the Presidium.",
+   "tr": "Galaktik siyaset konularında danışılacak kadar önemli her Citadel uzayı türü Presidium'da bir büyükelçilik bulundurur."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23197",
+   "en": "The volus were the first non-Council species to be granted an embassy, roughly 2,384 galactic standard years ago. As Citadel space has expanded, more embassies have been added.",
+   "tr": "Konsey dışı türlerden büyükelçilik verilen ilk tür yaklaşık 2.384 galaktik standart yıl önce volus'tu. Citadel uzayı genişledikçe daha fazla büyükelçilik eklendi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23198",
+   "en": "The most recently added embassy belongs to your own species: humanity. It was added nineteen galactic standard years ago, despite some rather vocal opposition.",
+   "tr": "En son eklenen büyükelçilik sizin kendi türünüze, insanlığa ait. Bazı oldukça yüksek sesli muhalefete rağmen on dokuz galaktik standart yıl önce eklendi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23199",
+   "en": "In the early years following the formation of the Council the volus were--apart from the asari and salarians--the most populous and widespread species in Citadel space.",
+   "tr": "Konsey'in kurulmasını izleyen ilk yıllarda volus, asari ve salarian dışında Citadel uzayının en kalabalık ve yaygın türüydü."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23200",
+   "en": "They established many new colonies and trading outposts, and they petitioned the Council for a greater role in determining interstellar policy.",
+   "tr": "Pek çok yeni koloni ve ticaret karakolu kurdular ve Konsey'den yıldızlararası politikayı belirlemede daha büyük rol istediler."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23201",
+   "en": "In recognition of their work to expand interstellar trade and establish a standardized galactic economy, the volus were granted an embassy here on the Citadel.",
+   "tr": "Yıldızlararası ticareti genişletme ve standartlaştırılmış galaktik ekonomi kurma çabalarının karşılığında volus'a Citadel'de bir büyükelçilik verildi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23202",
+   "en": "The Council races have extensive responsibilities. They must provide personnel and ships for the Citadel fleets. They often provide economic aid in times of disaster.",
+   "tr": "Konsey ırklarının kapsamlı sorumlulukları var. Citadel filoları için personel ve gemi sağlamak zorundalar. Felaket zamanlarında sıklıkla ekonomik yardım sunarlar."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23203",
+   "en": "It would be unfair to demand such an enormous burden of a species unable to meet these obligations. The embassies allow lesser species to have a voice on the Citadel.",
+   "tr": "Bu yükümlülükleri karşılayamayan bir türden bu kadar büyük bir yük istemek haksızlık olurdu. Büyükelçilikler daha küçük türlere Citadel'de söz hakkı verir."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23204",
+   "en": "I apologize if my personality has offended you. Please submit all formal complaints in writing to the Citadel Tourist and Visitor Board.",
+   "tr": "Kişiliğim sizi gücendirdiyse özür dilerim. Lütfen tüm resmî şikâyetleri yazılı olarak Citadel Turist ve Ziyaretçi Kurulu'na iletin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23208",
+   "en": "Goodbye, and thank you for using Avina. Please enjoy your visit to the Citadel.",
+   "tr": "Hoşça kalın ve Avina'yı kullandığınız için teşekkürler. Citadel ziyaretinizin tadını çıkarın."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23209",
+   "en": "I don't need a guide.",
+   "tr": "Rehbere ihtiyacım yok."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23214",
+   "en": "I'll pass.",
+   "tr": "Pas geçeyim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23219",
+   "en": "How come the volus were the first species given an embassy?",
+   "tr": "Neden büyükelçilik verilen ilk tür volus oldu?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23222",
+   "en": "Why weren't they made a Council race?",
+   "tr": "Neden Konsey ırkı yapılmadılar?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23224",
+   "en": "That's pretty damn arrogant!",
+   "tr": "Bu çok kibirli!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|23228",
+   "en": "Why were people trying to keep my species out?",
+   "tr": "İnsanlar türümü neden dışarıda tutmaya çalışıyordu?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24571",
+   "en": "Some species felt humanity was given preferential treatment. It often takes a century or more before a new species is granted an embassy.",
+   "tr": "Bazı türler insanlığa ayrıcalıklı muamele yapıldığını düşündü. Yeni bir türe büyükelçilik verilmesi genelde yüzyıl ya da daha uzun sürer."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24572",
+   "en": "The Council gave a great deal of thought to this matter. In the end, they decided humanity's impact on Citadel space was significant enough to warrant an embassy.",
+   "tr": "Konsey bu konuyu uzun uzun düşündü. Sonunda insanlığın Citadel uzayı üzerindeki etkisinin bir büyükelçiliği haklı çıkaracak kadar önemli olduğuna karar verdiler."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24573",
+   "en": "I am not programmed to make that kind of qualified judgment. My code is limited to information and simple interaction simulations.",
+   "tr": "Bu tür nitelikli yargıda bulunmak üzere programlanmadım. Kodum bilgi ve basit etkileşim simülasyonlarıyla sınırlı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24581",
+   "en": "Originally, the Council consisted of representatives from the asari and salarians, the two dominant species in Citadel space.",
+   "tr": "Aslen Konsey, Citadel uzayının iki baskın türü olan asari ve salarian temsilcilerinden oluşuyordu."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24582",
+   "en": "Since then, the three Council races have worked together to ensure the peaceful coexistence of the galactic community, while preserving individual autonomy for each species.",
+   "tr": "O zamandan beri üç Konsey ırkı, her tür için bireysel özerkliği korurken galaktik topluluğun barışçıl bir arada yaşamasını sağlamak için birlikte çalıştı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24583",
+   "en": "I am not programmed to make that kind of qualified judgment. My code is limited to information and simple interaction simulations.",
+   "tr": "Bu tür nitelikli yargıda bulunmak üzere programlanmadım. Kodum bilgi ve basit etkileşim simülasyonlarıyla sınırlı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24588",
+   "en": "Do you agree with their decision?",
+   "tr": "Kararlarına katılıyor musun?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|24595",
+   "en": "It can't be as simple as that. There must be problems somewhere in the system.",
+   "tr": "Bu kadar basit olamaz. Sistemde bir yerlerde sorunlar olmalı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46410",
+   "en": "Embassies",
+   "tr": "Büyükelçilikler"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46413",
+   "en": "What do you think?",
+   "tr": "Ne düşünüyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46420",
+   "en": "Sounds too perfect.",
+   "tr": "Fazla mükemmel geliyor."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46430",
+   "en": "Virtual guide?",
+   "tr": "Sanal rehber mi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46431",
+   "en": "No, thanks.",
+   "tr": "Hayır, sağ olun."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46435",
+   "en": "Not interested.",
+   "tr": "İlgilenmiyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46439",
+   "en": "Citadel Council",
+   "tr": "Citadel Konseyi"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46440",
+   "en": "Log off.",
+   "tr": "Oturumu kapat."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46443",
+   "en": "Why were the volus first?",
+   "tr": "Volus neden ilk oldu?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46445",
+   "en": "Why was humanity opposed?",
+   "tr": "İnsanlığa neden karşı çıkıldı?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46448",
+   "en": "Just an embassy?",
+   "tr": "Sadece bir büyükelçilik mi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|46451",
+   "en": "Lesser species?",
+   "tr": "Daha küçük türler mi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106500",
+   "en": "The term Spectre is derived from the branch of Special Tactics and Reconnaissance. Each Spectre agent is hand-picked by the Council.",
+   "tr": "Spectre terimi Özel Taktik ve Keşif kolundan türemiştir. Her Spectre ajanı Konsey tarafından elle seçilir."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106501",
+   "en": "Their primary role is preserving galactic stability and resolving volatile situations that cannot be handled through normal political channels.",
+   "tr": "Başlıca rolleri galaktik istikrarı korumak ve normal siyasi kanallarla ele alınamayan patlayıcı durumları çözmektir."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106502",
+   "en": "In this role, they are granted extraterritorial rights and jurisdictions. Spectres answer to no law or authority except the Council itself.",
+   "tr": "Bu rolde ülke dışı haklar ve yetki alanları verilir. Spectre'lar Konsey'in kendisi dışında hiçbir yasaya ya da otoriteye hesap vermez."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106503",
+   "en": "Citadel Security serves as law enforcement for all regions of the Citadel, though the majority of officers serve in the wards.",
+   "tr": "Citadel Güvenliği Citadel'in tüm bölgelerinde kolluk görevi görür, ancak subayların çoğu Wards'ta çalışır."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106504",
+   "en": "Executor Pallin, a turian, is the current head of C-Sec, but individuals from virtually every species across Citadel space serve as officers beneath him.",
+   "tr": "Bir turian olan İcra Memuru Pallin şu an C-Sec'in başındadır, ancak onun altında Citadel uzayındaki hemen her türden bireyler subay olarak görev yapar."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106505",
+   "en": "If you wish to learn more, Executor Pallin's office is located in the C-Sec headquarters just across the lobby.",
+   "tr": "Daha fazlasını öğrenmek isterseniz İcra Memuru Pallin'in ofisi lobinin hemen karşısındaki C-Sec karargâhındadır."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106506",
+   "en": "Roughly 1,304 galactic standard years ago, turians were invited to join the Council in recognition of the role they played during the Krogan Rebellion.",
+   "tr": "Yaklaşık 1.304 galaktik standart yıl önce turian'lar, Krogan İsyanı sırasında oynadıkları rolün tanınması olarak Konsey'e katılmaya davet edildi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106509",
+   "en": "Do you know anything about Spectres?",
+   "tr": "Spectre'lar hakkında bir şey biliyor musun?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106512",
+   "en": "I want to know more about Citadel Security.",
+   "tr": "Citadel Güvenliği hakkında daha fazlasını öğrenmek istiyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106516",
+   "en": "So are you a person or a program?",
+   "tr": "Yani sen insan mısın program mı?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106517",
+   "en": "Give me the tour.",
+   "tr": "Turu ver."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106519",
+   "en": "Spectres",
+   "tr": "Spectre'lar"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106520",
+   "en": "C-Sec",
+   "tr": "C-Sec"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106527",
+   "en": "Are you real?",
+   "tr": "Gerçek misin?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|106528",
+   "en": "Sounds interesting.",
+   "tr": "İlginç geliyor."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_embassy_D|157623",
+   "en": "Are you real?",
+   "tr": "Gerçek misin?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_triggers_D|111694",
+   "en": "Welcome to the Presidium. Allow me to be your guide.",
+   "tr": "Presidium'a hoş geldiniz. Rehberiniz olmama izin verin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_triggers_D|111695",
+   "en": "Look at that bug thing over there. What's it doing?",
+   "tr": "Şuradaki böceğimsi şeye bak. Ne yapıyor?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_avina_triggers_D|111696",
+   "en": "Please do not disturb the keepers.",
+   "tr": "Lütfen bekçileri rahatsız etmeyin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30446",
+   "en": "Good day, Commander. The human ambassador is up the stairs, first room on the right.",
+   "tr": "İyi günler, Komutan. İnsan büyükelçi merdivenlerin yukarısında, sağdaki ilk oda."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30447",
+   "en": "My name is Saphyria. I am the administrative assistant for the embassies.",
+   "tr": "Adım Saphyria. Büyükelçiliklerin idari asistanıyım."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30448",
+   "en": "This is the Presidium. More specifically, you are at the Citadel Embassies. ",
+   "tr": "Burası Presidium. Daha doğrusu Citadel Büyükelçiliklerindesiniz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30449",
+   "en": "If you have more questions, please access Avina.",
+   "tr": "Daha fazla sorunuz varsa lütfen Avina'ya erişin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30450",
+   "en": "Have a pleasant day.",
+   "tr": "İyi günler dilerim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30454",
+   "en": "Is there something else I can help you with, Commander?",
+   "tr": "Size yardımcı olabileceğim başka bir şey var mı, Komutan?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30457",
+   "en": "What's your name? What do you do here?",
+   "tr": "Adın ne? Burada ne iş yapıyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30458",
+   "en": "What is this place?",
+   "tr": "Burası ne?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|30461",
+   "en": "I should be going now.",
+   "tr": "Şimdi gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|47071",
+   "en": "Personal question",
+   "tr": "Kişisel soru"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|47072",
+   "en": "Location",
+   "tr": "Konum"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|47073",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|89773",
+   "en": "The embassies are the hub of all Citadel politics. When you represent trillions of citizens it tends to get a little busy.",
+   "tr": "Büyükelçilikler tüm Citadel siyasetinin merkezi. Trilyonlarca vatandaşı temsil ettiğinde biraz yoğun oluyor."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|89774",
+   "en": "Oh, Avina is the virtual guide for the Citadel. Feel free to access the terminal yourself.",
+   "tr": "Ah, Avina Citadel'in sanal rehberi. Terminale kendiniz de erişebilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|89775",
+   "en": "You seem to be distracted.",
+   "tr": "Dalgın görünüyorsun."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|89777",
+   "en": "What's that?",
+   "tr": "O ne?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|89778",
+   "en": "Busy?",
+   "tr": "Meşgul mü?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|89780",
+   "en": "Avina?",
+   "tr": "Avina?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|90541",
+   "en": "Yes. I receive reports on all newly arrived dignitaries and notable people.",
+   "tr": "Evet. Yeni gelen tüm devlet adamları ve önemli kişiler hakkında rapor alıyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|90542",
+   "en": "You know who I am?",
+   "tr": "Kim olduğumu biliyor musun?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|90543",
+   "en": "Commander?",
+   "tr": "Komutan?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_receptionist_D|168850",
+   "en": "Have we met?",
+   "tr": "Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137375",
+   "en": "Hello again, Commander. Has there been any word?",
+   "tr": "Yeniden merhaba, Komutan. Haber var mı?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137376",
+   "en": "Thank you. I will return home and begin my preparations.",
+   "tr": "Teşekkürler. Eve dönüp hazırlıklarıma başlayacağım."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137377",
+   "en": "This isn't about them! This is about my wife, the woman the military killed!",
+   "tr": "Bu onlarla ilgili değil! Bu karımla ilgili, ordunun öldürdüğü kadınla!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137378",
+   "en": "You think I have not given enough? Do not speak to me of duty! My wife is dead!",
+   "tr": "Yeterince vermediğimi mi sanıyorsunuz? Bana görevden söz etmeyin! Karım öldü!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137379",
+   "en": "Yes she is, Mr. Bhatia. She died fighting for what she believed in.",
+   "tr": "Evet öldü, Bay Bhatia. İnandığı şey için savaşırken öldü."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137380",
+   "en": "She sacrificed her life to keep you safe. I think she'd want to make the most of that sacrifice.",
+   "tr": "Sizi güvende tutmak için hayatını feda etti. Bence bu fedakârlığın en iyi şekilde değerlendirilmesini isterdi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137381",
+   "en": "You are right, Miss Williams. She would not flinch from her duty. ",
+   "tr": "Haklısınız, Bayan Williams. Görevinden çekinmezdi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137382",
+   "en": "I just want her to come home. I miss her so much.",
+   "tr": "Sadece eve gelmesini istiyorum. Onu çok özlüyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137383",
+   "en": "Let them run their tests. Let my wife save lives, so that others are spared the loss I feel today.",
+   "tr": "Testlerini yapsınlar. Karım hayat kurtarsın ki başkaları bugün hissettiğim kayıptan kurtulsun."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137384",
+   "en": "Goodbye. Thank you for finding me answers.",
+   "tr": "Hoşça kalın. Bana cevap bulduğunuz için teşekkürler."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137385",
+   "en": "Commander Shepard? My name is Samesh Bhatia. Forgive the intrusion, but I have nowhere else to turn.",
+   "tr": "Komutan Shepard? Adım Samesh Bhatia. Rahatsızlığı affedin ama başvuracak başka kimsem yok."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137386",
+   "en": "My wife was a marine. She was in the 212 on Eden Prime.",
+   "tr": "Karım bir deniz piyadesiydi. Eden Prime'daki 212'deydi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137387",
+   "en": "Wait. The 212? Your wife was Serviceman Nirali Bhatia? I'm Gunnery Chief Ashley Williams. I served in her unit.",
+   "tr": "Dur. 212 mi? Karınız Er Nirali Bhatia mıydı? Ben Topçu Başçavuşu Ashley Williams. Onun birliğinde hizmet ettim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137388",
+   "en": "Chief Williams. It is a pleasure. Nirali spoke of you with great respect.",
+   "tr": "Başçavuş Williams. Memnun oldum. Nirali sizden büyük saygıyla söz ederdi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137389",
+   "en": "I'm so sorry for your loss, Mr. Bhatia. Nirali was a good woman. What can we do for you?",
+   "tr": "Kaybınız için çok üzgünüm, Bay Bhatia. Nirali iyi bir kadındı. Sizin için ne yapabiliriz?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137390",
+   "en": "The 212? Isn't that Ashley's unit? She might want to meet Mr. Bhatia.",
+   "tr": "212 mi? Ashley'nin birliği değil mi? Bay Bhatia'yla tanışmak isteyebilir."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137391",
+   "en": "I've requested that my wife's body be returned to me for cremation, but the military has refused my request.",
+   "tr": "Karımın cesedinin yakılmak üzere bana iade edilmesini istedim ama ordu talebimi reddetti."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137392",
+   "en": "I don't know. All I know is that they have declared it impossible for my wife to be returned to me.",
+   "tr": "Bilmiyorum. Tek bildiğim karımın bana iade edilmesinin imkânsız olduğunu ilan etmeleri."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137393",
+   "en": "Mr. Bhatia, rest assured that we will avenge your wife's death. We're dealing with the people who attacked Eden Prime.",
+   "tr": "Bay Bhatia, karınızın ölümünün öcünü alacağımıza emin olabilirsiniz. Eden Prime'a saldıran kişilerle ilgileniyoruz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137394",
+   "en": "I understand. You have many important things to do.",
+   "tr": "Anlıyorum. Yapacak çok önemli işiniz var."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137395",
+   "en": "If you do have time, however, Mr. Bosker is the man in charge of my case. He is in the expensive bar over there.",
+   "tr": "Vaktiniz olursa davamdan sorumlu adam Bay Bosker. Şuradaki pahalı barda."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137396",
+   "en": "The man in charge of my case is Mr. Bosker. When I last saw him, he was in the expensive bar over there.",
+   "tr": "Davamdan sorumlu adam Bay Bosker. Onu son gördüğümde şuradaki pahalı bardaydı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137397",
+   "en": "Thank you for your time. I just want to give my wife a proper funeral and the respect she deserves.",
+   "tr": "Vaktiniz için teşekkürler. Sadece karıma düzgün bir cenaze töreni ve hak ettiği saygıyı vermek istiyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137398",
+   "en": "It does not bring me happiness, but it may bring me peace. Goodbye, Commander.",
+   "tr": "Mutluluk getirmez ama belki huzur getirir. Hoşça kalın, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137399",
+   "en": "Samesh? I don't know if this helps, but your wife.... Nirali loved you very much. ",
+   "tr": "Samesh? Yardımı olur mu bilmiyorum ama karınız... Nirali sizi çok severdi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137400",
+   "en": "She missed your cooking, and she played recordings of you every night before she went to sleep.",
+   "tr": "Yemeklerinizi özlerdi ve her gece uyumadan önce kayıtlarınızı oynatırdı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137401",
+   "en": "I know, Miss Williams. But thank you. It is nice to hear it again.",
+   "tr": "Biliyorum, Bayan Williams. Ama teşekkürler. Bunu yeniden duymak güzel."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137404",
+   "en": "Mr. Bhatia, I'm Ashley Williams. I served with your wife in the 212. I wanted to tell you how sorry I am.",
+   "tr": "Bay Bhatia, ben Ashley Williams. Karınızla 212'de hizmet ettim. Ne kadar üzgün olduğumu söylemek istedim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137405",
+   "en": "Gunnery Chief Williams? My wife spoke of you with great respect. Thank you.",
+   "tr": "Topçu Başçavuşu Williams? Karım sizden büyük saygıyla söz ederdi. Teşekkürler."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137406",
+   "en": "Has any progress been made with Mr. Bosker? Will he return my wife's body?",
+   "tr": "Bay Bosker'la bir ilerleme oldu mu? Karımın cesedini iade edecek mi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137407",
+   "en": "Hello, Commander. Has any progress been made with Mr. Bosker? Will he return my wife's body?",
+   "tr": "Merhaba, Komutan. Bay Bosker'la bir ilerleme oldu mu? Karımın cesedini iade edecek mi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137408",
+   "en": "He was in the expensive bar over there.",
+   "tr": "Şuradaki pahalı bardaydı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137409",
+   "en": "As I said, I have been told nothing. I don't understand why they won't release her body to me!",
+   "tr": "Dediğim gibi bana hiçbir şey söylenmedi. Cesedini neden bana vermediklerini anlamıyorum!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137410",
+   "en": "Thank you, Commander.",
+   "tr": "Teşekkür ederim, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137411",
+   "en": "Yes, you told me as much. I don't care what the military wants for her!",
+   "tr": "Evet, bana bunu söylemiştiniz. Ordunun onun için ne istediği umurumda değil!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137412",
+   "en": "My wife finished her service when she gave her life on Eden Prime. It is time for her to come home.",
+   "tr": "Karım Eden Prime'da hayatını verdiğinde hizmetini bitirdi. Eve gelme zamanı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137413",
+   "en": "Tests? They are holding my wife's body for tests?",
+   "tr": "Testler mi? Karımın cesedini testler için mi tutuyorlar?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137414",
+   "en": "My wife served the Alliance faithfully. She gave her life for humanity! And this is how they repay her?",
+   "tr": "Karım İttifak'a sadakatle hizmet etti. İnsanlık için hayatını verdi! Ve karşılığı bu mu?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137415",
+   "en": "Thank you. Please let me know what can be done.",
+   "tr": "Teşekkürler. Lütfen ne yapılabileceğini bana bildirin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137416",
+   "en": "Nirali always said that the military sticks together. Why should this be any different?",
+   "tr": "Nirali hep ordunun birbirini kolladığını söylerdi. Bu neden farklı olsun?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137417",
+   "en": "I knew my wife might one day give her life for the military. I did not think you would take her body as well!",
+   "tr": "Karımın bir gün ordu için hayatını verebileceğini biliyordum. Cesedini de alacağınızı düşünmemiştim!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137418",
+   "en": "I know those tests are important, Commander, but we could have found another way.",
+   "tr": "O testlerin önemli olduğunu biliyorum, Komutan, ama başka bir yol bulabilirdik."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137419",
+   "en": "We could have found another way.",
+   "tr": "Başka bir yol bulabilirdik."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137420",
+   "en": "What right does the military have to hold her body? She has already given her life!",
+   "tr": "Ordunun cesedini tutmaya ne hakkı var? Zaten hayatını verdi!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137421",
+   "en": "It doesn't matter! She's dead! ",
+   "tr": "Fark etmez! O öldü!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137422",
+   "en": "Your wife is coming home, Mr. Bhatia.",
+   "tr": "Karınız eve geliyor, Bay Bhatia."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137423",
+   "en": "I reminded Mr. Bosker what we're fighting for. Your wife is coming home.",
+   "tr": "Bay Bosker'a ne için savaştığımızı hatırlattım. Karınız eve geliyor."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137432",
+   "en": "Where can I find this Mr. Bosker?",
+   "tr": "Bu Bay Bosker'ı nerede bulurum?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137433",
+   "en": "Tell me again what you'd been told about your wife.",
+   "tr": "Karınız hakkında size söylenenleri bana bir daha anlatın."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137434",
+   "en": "Not yet. I'll be back when I have more to tell you.",
+   "tr": "Henüz değil. Anlatacak daha çok şeyim olunca döneceğim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137435",
+   "en": "They're running medical studies on Nirali. That's why they won't release the body.",
+   "tr": "Nirali üzerinde tıbbi çalışmalar yapıyorlar. Cesedi bu yüzden vermiyorlar."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137436",
+   "en": "It's not as simple as I'd hoped. The military needs your wife's body for important tests.",
+   "tr": "Umduğum kadar basit değil. Ordunun karınızın cesedine önemli testler için ihtiyacı var."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137439",
+   "en": "It's unacceptable. I'll let you know what I can do.",
+   "tr": "Kabul edilemez. Ne yapabileceğimi size bildireceğim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137440",
+   "en": "I'm not going to go against the military, Mr. Bhatia. I can't help you.",
+   "tr": "Orduya karşı gelmeyeceğim, Bay Bhatia. Size yardım edemem."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137443",
+   "en": "The dead stay dead, Chief. We have to focus on the living.",
+   "tr": "Ölüler ölü kalır, Başçavuş. Yaşayanlara odaklanmalıyız."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137444",
+   "en": "It had to be done, Chief. You know that.",
+   "tr": "Yapılması gerekiyordu, Başçavuş. Bunu biliyorsun."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137445",
+   "en": "Mr. Bhatia, your wife died defending humanity. We still need her help.",
+   "tr": "Bay Bhatia, karınız insanlığı savunurken öldü. Hâlâ yardımına ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137446",
+   "en": "She died a hero, Mr. Bhatia. And now she has a chance to save even more lives.",
+   "tr": "Kahraman olarak öldü, Bay Bhatia. Ve şimdi daha da çok hayat kurtarma şansı var."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137447",
+   "en": "If the military had asked your wife to submit to tests to save human lives, what would she have said?",
+   "tr": "Ordu karınızdan insan hayatlarını kurtarmak için testlere girmesini isteseydi ne derdi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137449",
+   "en": "Samesh, right now, more people are going to die unless the military runs those tests.",
+   "tr": "Samesh, şu an ordu bu testleri yapmazsa daha çok insan ölecek."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137450",
+   "en": "The geth killed your wife. And they'll kill a lot more if we don't run those tests!",
+   "tr": "Geth karınızı öldürdü. Ve bu testleri yapmazsak çok daha fazlasını öldürecek!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137451",
+   "en": "This is war! People die! If you want to keep that to a minimum, let them run those tests!",
+   "tr": "Bu savaş! İnsanlar ölür! Bunu en aza indirmek istiyorsanız testleri yapmalarına izin verin!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137458",
+   "en": "What do you need?",
+   "tr": "Neye ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137459",
+   "en": "A lot of people want my help these days. What makes you special?",
+   "tr": "Bugünlerde pek çok kişi yardımımı istiyor. Sizi özel yapan ne?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137460",
+   "en": "It's no trouble. What can I do for you?",
+   "tr": "Sorun değil. Sizin için ne yapabilirim?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137466",
+   "en": "Why did they refuse your request? There's got to be some reason.",
+   "tr": "Talebinizi neden reddettiler? Bir nedeni olmalı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137467",
+   "en": "We'll look into it.",
+   "tr": "Bakarız."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137468",
+   "en": "There's no reason for your wife's body to be held like this. Just wait here.",
+   "tr": "Karınızın cesedinin böyle tutulması için neden yok. Burada bekleyin."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137469",
+   "en": "I'm concerned with the living, not the dead. I don't have time for this.",
+   "tr": "Ben yaşayanlarla ilgileniyorum, ölülerle değil. Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137473",
+   "en": "I can put in a word with the embassy and speed things along.",
+   "tr": "Büyükelçiliğe bir söz söyleyip işleri hızlandırabilirim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137475",
+   "en": "It's done.",
+   "tr": "Tamam, yapıldı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137476",
+   "en": "I took care of it.",
+   "tr": "Hallettim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137477",
+   "en": "She's coming home.",
+   "tr": "Eve geliyor."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137486",
+   "en": "Bosker's location",
+   "tr": "Bosker'ın konumu"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137487",
+   "en": "Wife",
+   "tr": "Karı"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137488",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137489",
+   "en": "They're running tests.",
+   "tr": "Testler yapıyorlar."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137490",
+   "en": "There's a problem.",
+   "tr": "Bir sorun var."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137492",
+   "en": "We'll fix this.",
+   "tr": "Bunu düzelteceğiz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137494",
+   "en": "We'll fix this.",
+   "tr": "Bunu düzelteceğiz."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137495",
+   "en": "I'll work on it.",
+   "tr": "Üzerinde çalışacağım."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137496",
+   "en": "I'm done with this.",
+   "tr": "Bununla işim bitti."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137497",
+   "en": "This is important.",
+   "tr": "Bu önemli."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137498",
+   "en": "This is war.",
+   "tr": "Bu savaş."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137501",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137502",
+   "en": "It was the right decision.",
+   "tr": "Doğru karardı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137503",
+   "en": "We had no choice.",
+   "tr": "Seçeneğimiz yoktu."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137504",
+   "en": "She did it willingly.",
+   "tr": "İsteyerek yaptı."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137505",
+   "en": "She can still help.",
+   "tr": "Hâlâ yardım edebilir."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137506",
+   "en": "What would she want?",
+   "tr": "Ne isterdi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137508",
+   "en": "Lives are at stake!",
+   "tr": "Hayatlar tehlikede!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137509",
+   "en": "The military didn't kill her.",
+   "tr": "Ordu onu öldürmedi."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137510",
+   "en": "Wake up, Samesh!",
+   "tr": "Kendine gel, Samesh!"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137517",
+   "en": "I'm listening.",
+   "tr": "Dinliyorum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137518",
+   "en": "What is it?",
+   "tr": "Ne o?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137519",
+   "en": "I'm happy to help.",
+   "tr": "Yardım etmekten memnunum."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137525",
+   "en": "That's garbage.",
+   "tr": "Bu saçmalık."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137526",
+   "en": "Did they say why?",
+   "tr": "Nedenini söylediler mi?"
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137527",
+   "en": "Let me help.",
+   "tr": "Yardım edeyim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137528",
+   "en": "I'll find out.",
+   "tr": "Öğreneceğim."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137529",
+   "en": "We'll put this right. ",
+   "tr": "Bunu doğru yola sokacağız."
+  },
+  {
+   "key": "BIOA_STA20_07A_DSG_LOC|sta20_samesh_D|137530",
+   "en": "This is pointless.",
+   "tr": "Bu anlamsız."
+  }
+ ]
+}

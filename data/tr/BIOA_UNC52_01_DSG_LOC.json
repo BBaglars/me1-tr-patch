@@ -1,0 +1,945 @@
+{
+ "meta": {
+  "package": "BIOA_UNC52_01_DSG_LOC_INT.pcc",
+  "stem": "BIOA_UNC52_01_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175927",
+   "en": "I'm reading that the torch is offline.",
+   "tr": "Meşalenin çevrimdışı olduğunu görüyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175928",
+   "en": "Was that you? Can you hear me?",
+   "tr": "Sen miydin? Beni duyabiliyor musun?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175929",
+   "en": "My name's Kate Bowman. I'm an engineer. I was part of the team assigned to bring this asteroid to Terra Nova.",
+   "tr": "Adım Kate Bowman. Mühendisim. Bu asteroidi Terra Nova'ya getirmekle görevlendirilen ekipteydim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175930",
+   "en": "We were attacked yesterday by batarian extremists. I've been hiding since they arrived.",
+   "tr": "Dün batarian aşırıcıları tarafından saldırıya uğradık. Geldiklerinden beri saklanıyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175931",
+   "en": "I think they know the torch went out.",
+   "tr": "Sanırım meşalenin söndüğünü biliyorlar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175933",
+   "en": "Thanks. I'll contact you when I can.",
+   "tr": "Teşekkürler. Elimden geldiğinde iletişime geçerim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175934",
+   "en": "I don't know. But if this asteroid isn't slowed, millions of people on Terra Nova are going to die.",
+   "tr": "Bilmiyorum. Ama bu asteroit yavaşlatılmazsa Terra Nova'daki milyonlarca insan ölecek."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175936",
+   "en": "If I find out anything I'll-- I've got to go. Good luck.",
+   "tr": "Bir şey öğrenirsem-- Gitmem lazım. İyi şanslar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175938",
+   "en": "Who are you? What's going on?",
+   "tr": "Kimsiniz? Neler oluyor?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175939",
+   "en": "I hear you. What's going on? Who are you?",
+   "tr": "Sizi duyuyorum. Neler oluyor? Kimsiniz?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175942",
+   "en": "Stay put. I'll get those other torches offline as soon as I can.",
+   "tr": "Olduğun yerde kal. Diğer meşaleleri de elimden geldiğince çabuk devre dışı bırakacağım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175944",
+   "en": "Why are they doing this?",
+   "tr": "Bunu neden yapıyorlar?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175948",
+   "en": "Who is this?",
+   "tr": "Bu kim?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175949",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175952",
+   "en": "I should keep moving.",
+   "tr": "Hareket etmeye devam etmeliyim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_human_console_D|175953",
+   "en": "What do they want?",
+   "tr": "Ne istiyorlar?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178840",
+   "en": "They were running checks on our perimeter equipment.",
+   "tr": "Çevre ekipmanlarımızı kontrol ediyorlardı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178841",
+   "en": "Yeah, you're right. Saving Terra Nova's more important than my team.",
+   "tr": "Evet haklısın. Terra Nova'yı kurtarmak ekibimden daha önemli."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178842",
+   "en": "I heard a couple of them talking, they mentioned a \"Balak.\" It sounded like he's the one in charge.",
+   "tr": "İki tanesinin konuştuğunu duydum, \"Balak\" demişlerdi. Sorumlu olan o gibi geliyordu."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178843",
+   "en": "I did see groups head out to each of the torch stations. Couldn't say how many, though. Enough to give you a fight.",
+   "tr": "Her meşale istasyonuna gruplar gittiğini gördüm. Kaç kişi olduklarını söyleyemem. Sana kavga çıkaracak kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178844",
+   "en": "They didn't seem convinced this was a good idea, but they were scared of the guy. Scared enough to do what he wanted.",
+   "tr": "Bunun iyi bir fikir olduğuna ikna olmuş görünmüyorlardı ama adamdan korkuyorlardı. İstediğini yapacak kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178845",
+   "en": "The idea was to drag it into Terra Nova's orbit, mine it out, and in the end you'd have a basic structure for an orbital station.",
+   "tr": "Fikir onu Terra Nova yörüngesine çekmek, madenini boşaltmak ve sonunda bir yörünge istasyonu için temel bir yapıya sahip olmaktı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178846",
+   "en": "It's a lot cheaper than getting everything up in to orbit from the planet's surface. The minerals we extract almost cover the costs.",
+   "tr": "Her şeyi gezegen yüzeyinden yörüngeye çıkarmaktan çok daha ucuz. Çıkardığımız mineraller maliyeti neredeyse karşılıyor."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178848",
+   "en": "Evacu--? Shepard, it took 30 years for the population to grow that large.",
+   "tr": "Tahli--? Shepard, nüfusun bu kadar büyümesi 30 yıl sürdü."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178849",
+   "en": "I'm sure they're moving people to remote areas, but they'd never be able to get more than a few thousand off-world.",
+   "tr": "Eminim insanları uzak bölgelere taşıyorlar ama birkaç binden fazlasını gezegen dışına çıkaramazlar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178850",
+   "en": "We just don't have enough ships. No one does. Well, maybe the quarians. But I don't see them suddenly showing up and offering us a ride.",
+   "tr": "Yeterince gemimiz yok. Kimsede yok. Belki quarian'larda. Ama birden ortaya çıkıp bize yolculuk teklif edeceklerini sanmıyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178851",
+   "en": "She's one of my best engineers. She signed on with her brother. Aaron, I think his name is. He's part of the security detail. I hope they're okay.",
+   "tr": "En iyi mühendislerimden biri. Kardeşiyle birlikte imza attı. Aaron, sanırım adı. Güvenlik ekibinde. Umarım iyiler."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178852",
+   "en": "Smart as a whip and bold as they come. I hope she keeps hidden. If they find her...",
+   "tr": "Kırbaç gibi zeki ve gelebildiği kadar cesur. Umarım saklanmaya devam eder. Onu bulurlarsa..."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178853",
+   "en": "Ah, Katie. Don't do anything stupid.",
+   "tr": "Ah Katie. Aptalca bir şey yapma."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178854",
+   "en": "I think I'll make myself scarce in case any batarians come back. Good luck, Shepard.",
+   "tr": "Batarian'lar dönerse diye ortadan kaybolacağım. İyi şanslar Shepard."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178858",
+   "en": "Listen --  we don't have much time. The batarians fired up the fusion torches. You've got to shut them down before we hit Terra Nova!",
+   "tr": "Dinle -- fazla zamanımız yok. Batarian'lar füzyon meşalelerini çalıştırdı. Terra Nova'ya çarpmadan onları kapatmalısın!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178859",
+   "en": "There are four million people down there, Shepard. I-- my family. They live in Aronas. My kids and grandkids. Nice community. Good schools...",
+   "tr": "Orada dört milyon insan var Shepard. Ben-- ailem. Aronas'ta yaşıyorlar. Çocuklarım ve torunlarım. Güzel bir topluluk. İyi okullar..."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178867",
+   "en": "We set them up when we arrived at Terra Nova. We use them for excavating. When the batarians landed, I rigged them with proximity detectors.",
+   "tr": "Onları Terra Nova'ya vardığımızda kurduk. Kazı için kullanıyoruz. Batarian'lar indiğinde yakınlık dedektörleriyle donattım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178868",
+   "en": "Caught a few of those sons-of-bitches by surprise.",
+   "tr": "O piçlerin birkaçını gafil avladım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178869",
+   "en": "Thanks. I wish I could have done more.",
+   "tr": "Teşekkürler. Keşke daha fazlasını yapabilseydim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178870",
+   "en": "Sorry about that. I wasn't expecting reinforcements. I just rigged them up, then ran off to hide.",
+   "tr": "Bunun için üzgünüm. Takviye beklemiyordum. Sadece kurdum, sonra saklanmaya kaçtım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178872",
+   "en": "One of the torches is surrounded by live blasting caps. We were set up to excavate when we arrived at Terra Nova. I rigged them with proximity detectors.",
+   "tr": "Meşalelerden biri canlı patlatma kapsülleriyle çevrili. Terra Nova'ya vardığımızda kazıya hazırlanmıştık. Onları yakınlık dedektörleriyle donattım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178873",
+   "en": "That tank of yours will set them off, so you'll have to go in on foot. Even then, they'll explode if you get too close. Just go slow and easy and you should be fine.",
+   "tr": "Tankınız onları tetikler, bu yüzden yaya girmeniz gerekecek. O zaman bile fazla yaklaşırsanız patlarlar. Yavaş ve sakin gidin, sorun olmaz."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178874",
+   "en": "Look, you can disable them. Just not remotely. I didn't have the equipment to set it up differently.",
+   "tr": "Bak, onları devre dışı bırakabilirsin. Sadece uzaktan değil. Başka türlü kurmak için ekipmanım yoktu."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178875",
+   "en": "Not from here, no.",
+   "tr": "Buradan değil, hayır."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178876",
+   "en": "There are manual controls by the entrance to the torch facility, inside the blast zone. You can disarm the caps there.",
+   "tr": "Meşale tesisinin girişinin yanında, patlama bölgesinin içinde manuel kontroller var. Kapsülleri orada etkisiz hale getirebilirsin."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178878",
+   "en": "One last thing: I had a crew working off-site when the attack hit. I'm worried about them. ",
+   "tr": "Son bir şey: Saldırı olduğunda tesis dışında çalışan bir ekibim vardı. Onlar için endişeleniyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178879",
+   "en": "But if you see them while-- No. You're right. Focus on the torches. Sorry.",
+   "tr": "Ama onları görürsen-- Hayır. Haklısın. Meşalelere odaklan. Üzgünüm."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178883",
+   "en": "Time's running short.",
+   "tr": "Zaman daralıyor."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178885",
+   "en": "Four-and-a-half million people are going to die in a few hours. Don't make me trot out some tired platitude about the needs of many versus few.",
+   "tr": "Dört buçuk milyon insan birkaç saat içinde ölecek. Çoğunluğun ihtiyaçları azınlığınkinden önemlidir gibi bayat bir laf ettirme bana."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178886",
+   "en": "I'll look for them. But the torches have to be my priority.",
+   "tr": "Onları arayacağım. Ama meşaleler önceliğim olmalı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178887",
+   "en": "If I run into your people, I'll do what I can, but the torches have to come first.",
+   "tr": "Adamlarınla karşılaşırsam elimden geleni yaparım ama meşaleler önce gelmeli."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178890",
+   "en": "Any idea who's behind this? Who's leading them? That might provide a clue.",
+   "tr": "Arkasında kim olduğunu biliyor musun? Onlara kim liderlik ediyor? Bu bir ipucu olabilir."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178893",
+   "en": "Why were you moving this thing in the first place?",
+   "tr": "Bu şeyi neden başta taşıyordunuz?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178896",
+   "en": "Give me a worst case scenario. We can't stop the asteroid. Could the colony be evacuated?",
+   "tr": "En kötü senaryoyu söyle. Asteroidi durduramazsak koloni tahliye edilebilir mi?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178900",
+   "en": "What can you tell me about Kate?",
+   "tr": "Kate hakkında bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178902",
+   "en": "Time's running short. I better get moving.",
+   "tr": "Zaman daralıyor. Hareket etsem iyi olur."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178915",
+   "en": "I'm impressed. That was a clever bit of improvisation.",
+   "tr": "Etkilendim. Zekice bir doğaçlamaydı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178917",
+   "en": "The last thing I needed to deal with was a bunch of explosives. The batarians are bad enough.",
+   "tr": "Uğraşmam gereken son şey bir sürü patlayıcıydı. Batarian'lar yeterince kötü."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178921",
+   "en": "Should I requisition a cow to walk through ahead of me?",
+   "tr": "Önümden geçsin diye bir inek mi istemeliyim?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178923",
+   "en": "You set them up. Can you disable them?",
+   "tr": "Sen kurdun. Devre dışı bırakabilir misin?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178930",
+   "en": "Figures.",
+   "tr": "Tahmin edilir."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178931",
+   "en": "Can you shut them off?",
+   "tr": "Kapatabilir misin?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178936",
+   "en": "I better get moving.",
+   "tr": "Hareket etsem iyi olur."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178938",
+   "en": "They're not a priority.",
+   "tr": "Öncelik değiller."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178939",
+   "en": "I'll do what I can.",
+   "tr": "Elimden geleni yaparım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178940",
+   "en": "If there's time.",
+   "tr": "Zaman varsa."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178943",
+   "en": "Batarian leader",
+   "tr": "Batarian lider"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178944",
+   "en": "Asteroid X57",
+   "tr": "X57 Asteroidi"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178945",
+   "en": "Evacuate Terra Nova",
+   "tr": "Terra Nova'yı tahliye et"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178947",
+   "en": "That's all I need to know.",
+   "tr": "Bilmem gereken bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178954",
+   "en": "Kate Bowman",
+   "tr": "Kate Bowman"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178969",
+   "en": "Good thinking.",
+   "tr": "İyi düşünce."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|178970",
+   "en": "Made things tougher for me.",
+   "tr": "İşimi zorlaştırdı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179133",
+   "en": "Simon. Simon Atwell. I'm the chief engineer on this rock.",
+   "tr": "Simon. Simon Atwell. Bu kayanın baş mühendisiyim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179136",
+   "en": "X57 is 22 kilometers long. Twice the size of the asteroid that wiped out the Earth's dinosaurs. It would be like millions of fusion bombs striking at once. Millions.",
+   "tr": "X57 22 kilometre uzunluğunda. Dünya'daki dinozorları yok eden asteroidin iki katı. Aynı anda çarpan milyonlarca füzyon bombası gibi olur. Milyonlarca."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179137",
+   "en": "The heat of the blast... a thousand kilometers away, clothes will ignite. There'll be global wildfires. Air shock will flatten everything for hundreds of kilometers.",
+   "tr": "Patlamanın sıcaklığı... bin kilometre ötede giysiler tutuşacak. Küresel orman yangınları çıkacak. Hava şoku yüzlerce kilometre boyunca her şeyi yerle bir edecek."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179138",
+   "en": "Terra Nova will die, Shepard. Not just our colony -- the planet. There'll be a climate shift. Mass extinctions. The ecosystem won't recover for thousands of years. Millions, maybe.",
+   "tr": "Terra Nova ölecek Shepard. Sadece kolonimiz değil -- gezegen. İklim kayması olacak. Kitlesel yok oluşlar. Ekosistem binlerce yıl toparlanamaz. Belki milyonlarca."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179139",
+   "en": "That would be even worse! Tsunamis would sweep inland at hundreds of kilometers per hour.",
+   "tr": "Bu daha da kötü olurdu! Tsunamiler saatte yüzlerce kilometre hızla karaya girerdi."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179140",
+   "en": "Millions of tons of water would be vaporized at the point of impact. Global cloud coverage. The plants could all die. And if they go, the whole ecosystem rolls over.",
+   "tr": "Çarpma noktasında milyonlarca ton su buharlaşacak. Küresel bulut örtüsü. Tüm bitkiler ölebilir. Onlar giderse tüm ekosistem çöker."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179141",
+   "en": "I-- I'd have to run the numbers, but take my word for it: it'd be bad.",
+   "tr": "Ben-- Hesapları yapmam gerekir ama bana güven: kötü olur."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179143",
+   "en": "I've heard all the stories. Slave rings ranching people like animals. Pirate bands burning colonies to the ground.",
+   "tr": "Tüm hikâyeleri duydum. İnsanları hayvan gibi besleyen köle çeteleri. Kolonileri yakıp yıkan korsan grupları."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179144",
+   "en": "But this is.... The Citadel Conventions forbid asteroid drops. I never thought the batarians would go this far.",
+   "tr": "Ama bu.... Citadel Sözleşmeleri asteroit düşürmeyi yasaklıyor. Batarian'ların bu kadar ileri gideceğini hiç düşünmemiştim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179146",
+   "en": "Hey.",
+   "tr": "Hey."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179147",
+   "en": "I know you're scared. But I'm here to help. Commander Shepard, with the Alliance.",
+   "tr": "Korktuğunu biliyorum. Ama yardım etmeye geldim. Komutan Shepard, İttifak'tan."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179150",
+   "en": "I'm here to help. Commander Shepard, of the Alliance frigate Normandy.",
+   "tr": "Yardım etmeye geldim. İttifak firkateyni Normandy'den Komutan Shepard."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179157",
+   "en": "I don't have time to do the math in my head. What happens if we don't stop this rock?",
+   "tr": "Hesabı kafamdan yapacak vaktim yok. Bu kayayı durdurmazsak ne olur?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179161",
+   "en": "Is there any chance it'll land in the oceans?",
+   "tr": "Okyanuslara düşme ihtimali var mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179164",
+   "en": "The people back on Earth haven't been paying attention. Again. The batarians burned my home to the ground twenty years ago. They don't change.",
+   "tr": "Dünya'daki insanlar yine dikkat etmiyordu. Batarian'lar yirmi yıl önce evimi yakıp yıktı. Değişmiyorlar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179165",
+   "en": "I guess batarians are as bad as they say.",
+   "tr": "Sanırım batarian'lar söylendiği kadar kötü."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179166",
+   "en": "This doesn't make any sense. Batarians run criminal gangs. Unethical, but profitable. They don't destroy worlds. What does this gain them?",
+   "tr": "Bu hiç mantıklı değil. Batarian'lar suç çeteleri yönetir. Etik dışı ama kârlı. Dünyaları yok etmezler. Bundan ne kazanıyorlar?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179170",
+   "en": "Just be more careful.",
+   "tr": "Sadece daha dikkatli ol."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179174",
+   "en": "I'm on your side.",
+   "tr": "Senin tarafındayım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179182",
+   "en": "How bad is this going to be?",
+   "tr": "Bu ne kadar kötü olacak?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179186",
+   "en": "What if it lands in the water?",
+   "tr": "Ya suya düşerse?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179187",
+   "en": "Typical batarian move.",
+   "tr": "Tipik batarian hamlesi."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179188",
+   "en": "Alien bastards.",
+   "tr": "Uzaylı piçler."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179189",
+   "en": "Why would they do this?",
+   "tr": "Bunu neden yapsınlar?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179261",
+   "en": "Yeah, I guess you're right. Is there anything else I can tell you?",
+   "tr": "Evet, sanırım haklısın. Başka söyleyebileceğim bir şey var mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179266",
+   "en": "These batarians are ruthless. I saw them smash the faceplates of guys working vacuum. And those varren... I don't think they always wait for a corpse before feeding.",
+   "tr": "Bu batarian'lar acımasız. Vakumda çalışan adamların yüz camlarını parçaladıklarını gördüm. Ve o varren'ler... yemeden önce cesedi bekledikleri sanmıyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179267",
+   "en": "Easiest thing would be to tap into the transmission tower out on the surface. The equipment stations will show up on your sensors.",
+   "tr": "En kolayı yüzeydeki iletim kulesine bağlanmak. Ekipman istasyonları sensörlerinde görünecek."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179268",
+   "en": "Oh. I-- I see. Well, then. I guess it's better than not knowing.",
+   "tr": "Ah. Ben-- Anlıyorum. Neyse. Bilmemekten iyidir sanırım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179269",
+   "en": "I-- I see. Well. Maybe the last is still out there. We can hope, right?",
+   "tr": "Ben-- Anlıyorum. Neyse. Belki sonuncusu hâlâ dışarıdadır. Umut edebiliriz, değil mi?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179270",
+   "en": "I-- I see. Well. Maybe the other two are still out there. You never know.",
+   "tr": "Ben-- Anlıyorum. Neyse. Belki diğer ikisi hâlâ dışarıdadır. Bilemezsin."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179271",
+   "en": "There were a bunch of engineers over at the main facility, but they're probably all dead. That, or being held hostage by the batarians.",
+   "tr": "Ana tesiste bir sürü mühendis vardı ama muhtemelen hepsi öldü. Ya da batarian'lar tarafından rehin tutuluyor."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179272",
+   "en": "Katie's alive?",
+   "tr": "Katie hayatta mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179276",
+   "en": "Yeah, I know. It's just-- this isn't how I expected the world to be when I rolled out of bed this morning.",
+   "tr": "Evet, biliyorum. Sadece-- bu sabah yataktan kalktığımda dünyanın böyle olmasını beklemiyordum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179277",
+   "en": "They landed at the main facility. It's locked down now; they changed the pass codes. No idea what's going on inside.",
+   "tr": "Ana tesise indiler. Şimdi kilitli; geçiş kodlarını değiştirdiler. İçeride ne olduğu hakkında hiçbir fikrim yok."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179278",
+   "en": "The batarians aren't stupid. If they made a policy of this, the Council would declare war on them.",
+   "tr": "Batarian'lar aptal değil. Bunu politika edinirlerse Konsey onlara savaş ilan eder."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179279",
+   "en": "My opinion: these guys aren't backed by their government. They've got to be working on their own.",
+   "tr": "Fikrim: bu adamların arkasında hükûmetleri yok. Kendi başlarına çalışıyor olmalılar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179280",
+   "en": "I just don't want the Terra Firma Party using a threat to my home as an excuse to invade somebody else's.",
+   "tr": "Terra Firma Partisi'nin evime yönelik bir tehdidi başkasının evini işgal etmek için bahane etmesini istemiyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179281",
+   "en": "You were on the ground when this happened. How many batarians have you seen, and where?",
+   "tr": "Bu olurken yerdeydin. Kaç batarian gördün ve nerede?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179282",
+   "en": "The Conventions only apply to Council-aligned races. The batarian government is a rogue state.",
+   "tr": "Sözleşmeler yalnızca Konsey'e bağlı ırklar için geçerli. Batarian hükûmeti haydut bir devlet."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179285",
+   "en": "If the batarians can't keep their own crazies in line, we'll do it for them.",
+   "tr": "Batarian'lar kendi çılgınlarını kontrol edemiyorsa biz onların yerine yaparız."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179286",
+   "en": "We can worry about who to blame later.",
+   "tr": "Kimi suçlayacağımızı sonra düşünürüz."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179289",
+   "en": "Batarians everywhere, and I need to shut down all three torches. Anything else I should know?",
+   "tr": "Her yerde batarian var ve üç meşaleyi de kapatmam gerekiyor. Bilmem gereken başka bir şey var mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179293",
+   "en": "Any idea where I can find them?",
+   "tr": "Onları nerede bulabileceğime dair bir fikrin var mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179295",
+   "en": "I think I found them. Their bodies, anyway.",
+   "tr": "Sanırım onları buldum. En azından cesetlerini."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179297",
+   "en": "I already found two of them. They didn't make it.",
+   "tr": "Onlardan ikisini zaten buldum. Kurtulamamışlar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179299",
+   "en": "I came across a member of your crew. He didn't make it.",
+   "tr": "Ekibinden biriyle karşılaştım. Kurtulamamış."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179304",
+   "en": "A woman named Kate Bowman contacted me. The batarians haven't found her yet.",
+   "tr": "Kate Bowman adında bir kadın benimle iletişime geçti. Batarian'lar henüz onu bulamamış."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179306",
+   "en": "You'd better find a good place to hide. If the batarians come back and find you...",
+   "tr": "İyi bir saklanma yeri bulsan iyi olur. Batarian'lar dönüp seni bulursa..."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179307",
+   "en": "Why was this place surrounded by blasting caps?",
+   "tr": "Burası neden patlatma kapsülleriyle çevriliydi?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179308",
+   "en": "I ran into a field of blasting caps. You know anything about them?",
+   "tr": "Bir patlatma kapsülü alanına girdim. Onlar hakkında bir şey biliyor musun?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179310",
+   "en": "Stay here. I'm going to go remind some batarians about Mindoir.",
+   "tr": "Burada kal. Gidip bazı batarian'lara Mindoir'i hatırlatacağım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179311",
+   "en": "Time's running short. I'm going to go punch this mountain into space.",
+   "tr": "Zaman daralıyor. Gidip bu dağı uzaya yumruklayacağım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179312",
+   "en": "Most batarians aren't genocidal madmen. But these ones are terrorists.",
+   "tr": "Çoğu batarian soykırımcı delilerden değil. Ama bunlar terörist."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179314",
+   "en": "They're not all like this.",
+   "tr": "Hepsi böyle değil."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179315",
+   "en": "Enemy numbers",
+   "tr": "Düşman sayısı"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179316",
+   "en": "Why wouldn't they?",
+   "tr": "Neden olmasınlar?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179318",
+   "en": "I understand the situation.",
+   "tr": "Durumu anlıyorum."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179322",
+   "en": "That's no excuse.",
+   "tr": "Bu mazeret olmaz."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179323",
+   "en": "It doesn't matter now.",
+   "tr": "Artık önemi yok."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179328",
+   "en": "Where would your crew be?",
+   "tr": "Ekibin nerede olurdu?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179329",
+   "en": "It's too late for them.",
+   "tr": "Onlar için çok geç."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179330",
+   "en": "Two are dead.",
+   "tr": "İkisi öldü."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179331",
+   "en": "At least one is dead.",
+   "tr": "En az biri öldü."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179339",
+   "en": "One of them got away.",
+   "tr": "Biri kurtuldu."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179341",
+   "en": "Stay out of sight.",
+   "tr": "Gözden uzak dur."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179342",
+   "en": "Blasting caps",
+   "tr": "Patlatma kapsülleri"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179343",
+   "en": "Blasting caps",
+   "tr": "Patlatma kapsülleri"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179344",
+   "en": "Time for some payback.",
+   "tr": "İntikam zamanı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179345",
+   "en": "Enough talk.",
+   "tr": "Yeter konuştuk."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179355",
+   "en": "Oh, god!",
+   "tr": "Aman Tanrım!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179356",
+   "en": "I didn't mean to... are you hurt?",
+   "tr": "Kastetmemiştim... yaralandın mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179357",
+   "en": "Sorry. I didn't even realize you were human until... well. Guess I'm not much of a soldier.",
+   "tr": "Üzgünüm. İnsan olduğunu anlayana kadar... şey. Sanırım pek asker sayılmam."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179358",
+   "en": "Sorry. I thought you were one of them.",
+   "tr": "Üzgünüm. Onlardan biri sandım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179359",
+   "en": "Yeah, okay. I'll remember that.",
+   "tr": "Evet, tamam. Aklımda tutacağım."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179361",
+   "en": "Takes more than that one shot to bring me down.",
+   "tr": "Beni indirmek için o tek atıştan fazlası gerekir."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179362",
+   "en": "You can't go firing your weapon at everything that moves! What the hell's wrong with you?",
+   "tr": "Hareket eden her şeye ateş edemezsin! Senin neyin var?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179363",
+   "en": "Here's a tip: two eyes, human. Four eyes, batarian.",
+   "tr": "Bir ipucu: iki göz, insan. Dört göz, batarian."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179364",
+   "en": "Leave the fighting to me from now on. Commander Shepard, Systems Alliance.",
+   "tr": "Bundan sonra dövüşü bana bırak. Komutan Shepard, Sistemler İttifakı."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179365",
+   "en": "My shields took the hit. No damage done. I'm with the Alliance. Commander Shepard.",
+   "tr": "Kalkanlarım darbeyi emdi. Hasar yok. İttifak'tanım. Komutan Shepard."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179367",
+   "en": "Don't worry about me.",
+   "tr": "Benim için endişelenme."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179368",
+   "en": "What were you thinking?",
+   "tr": "Ne düşünüyordun?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179369",
+   "en": "I'm okay.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179370",
+   "en": "I am.",
+   "tr": "Benim."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179371",
+   "en": "Are you blind, or just stupid?",
+   "tr": "Kör müsün, yoksa sadece aptal mı?"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179372",
+   "en": "Forget about it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179373",
+   "en": "Just be more careful.",
+   "tr": "Sadece daha dikkatli ol."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179374",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179375",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179376",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179377",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179378",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179379",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179380",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179381",
+   "en": "I think that's all I need.",
+   "tr": "Sanırım ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179382",
+   "en": "Yeah, I think I'll make myself scarce. Good luck, Shepard.",
+   "tr": "Evet, sanırım ortadan kaybolacağım. İyi şanslar Shepard."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_surveyor_D|179627",
+   "en": "The Conventions don't apply.",
+   "tr": "Sözleşmeler geçerli değil."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179108",
+   "en": "Release the varren!",
+   "tr": "Varren'leri salın!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179109",
+   "en": "Look out!",
+   "tr": "Dikkat!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179110",
+   "en": "Take cover.",
+   "tr": "Siper alın."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179111",
+   "en": "Fresh meat.",
+   "tr": "Taze et."
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179112",
+   "en": "Harak. Chekt! Chekt!",
+   "tr": "Harak. Chekt! Chekt!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179113",
+   "en": "Perimeter breached!",
+   "tr": "Çevre ihlal edildi!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179114",
+   "en": "Arm the drones!",
+   "tr": "Dronları silahlandırın!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179115",
+   "en": "Send the drones in!",
+   "tr": "Dronları gönderin!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179116",
+   "en": "Humans! Take 'em out!",
+   "tr": "İnsanlar! Hepsini indirin!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179117",
+   "en": "Balak wants them all dead!",
+   "tr": "Balak hepsinin ölmesini istiyor!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179118",
+   "en": "Alliance military!",
+   "tr": "İttifak ordusu!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179119",
+   "en": "Die, human!",
+   "tr": "Öl insan!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179120",
+   "en": "Filthy human scum!",
+   "tr": "Pis insan pisliği!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179121",
+   "en": "Balak's down!",
+   "tr": "Balak düştü!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179122",
+   "en": "They got Charn!",
+   "tr": "Charn'ı vurdular!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179123",
+   "en": "D...d...d...die, human!",
+   "tr": "Ö...ö...öl insan!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179124",
+   "en": "Fall back to base!",
+   "tr": "Üsse çekilin!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179125",
+   "en": "Go! Go! Go!",
+   "tr": "Gidin! Gidin! Gidin!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179126",
+   "en": "Move it!",
+   "tr": "Kıpırdayın!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179127",
+   "en": "Hold the line!",
+   "tr": "Hattı tutun!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179128",
+   "en": "Death before surrender!",
+   "tr": "Teslimiyetten önce ölüm!"
+  },
+  {
+   "key": "BIOA_UNC52_01_DSG_LOC|prc1_trig_batarians_D|179347",
+   "en": "Attack!",
+   "tr": "Saldırın!"
+  }
+ ]
+}

@@ -1,0 +1,630 @@
+{
+ "meta": {
+  "package": "BIOA_STA60_11A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA60_11A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 5
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|145642",
+   "en": "You must talk to the Council to gain access to the Wards.",
+   "tr": "Wards'a girmek için Konsey ile konuşmalısınız."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|148499",
+   "en": "The keeper scan has been uploaded to the database.",
+   "tr": "Bekçi taraması veri tabanına yüklendi."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|148500",
+   "en": "You do not have the proper keycard.",
+   "tr": "Uygun anahtar karta sahip değilsiniz."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta00_popup_text_D|163019",
+   "en": "Get to the Quarian and warn her before it's too late!",
+   "tr": "Çok geç olmadan Quarian'a ulaş ve onu uyar!"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139806",
+   "en": "Anybody got a spare credit? Credits for a vet?",
+   "tr": "Kimsede fazladan kredi var mı? Bir gazi için kredi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139807",
+   "en": "Hey, what's your story, buddy?",
+   "tr": "Hey, hikâyen ne dostum?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139808",
+   "en": "Anybody got tram fare? I have to get to another ward.",
+   "tr": "Kimsede tramvay ücreti var mı? Başka bir bölgeye gitmem lazım."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139809",
+   "en": "I've only got 20. Think that's enough for whisky?",
+   "tr": "Sadece 20 var. Sence viski için yeter mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139810",
+   "en": "Think I'm starting to get the shakes.",
+   "tr": "Sanırım titremeye başlıyorum."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139812",
+   "en": "Hey. Hey! You're the Shepard kid!",
+   "tr": "Hey. Hey! Sen Shepard'ın çocuğusun!"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139813",
+   "en": "C'mon, just talk to me a minute!",
+   "tr": "Hadi ama, benimle bir dakika konuş!"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_amb_zabaleta_D|139814",
+   "en": "You don't remember me, do you?",
+   "tr": "Beni hatırlamıyorsun, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140180",
+   "en": "Hey, back again, eh? Don't suppose you got any credits to spare?",
+   "tr": "Hey, yine mi geldin? Fazladan kredin yoktur herhalde?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140181",
+   "en": "Did she? I wonder.",
+   "tr": "Öyle mi? Merak ediyorum."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140182",
+   "en": "What's to talk about, kid?",
+   "tr": "Konuşacak ne var evlat?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140183",
+   "en": "Why? You think you've got something profound to say about it?",
+   "tr": "Neden? Bu konuda söyleyecek derin bir şeyin olduğunu mu sanıyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140184",
+   "en": "People tied like prize hogs. Locked in cages, clawing and screaming as they're loaded into cargo pods.",
+   "tr": "İnsanlar ödüllü domuzlar gibi bağlanmış. Kafeslerde kilitli, kargo kapsüllerine yüklenirken pençeleşip çığlık atıyorlar."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140185",
+   "en": "And we couldn't reach them. The batarian defenses had us pinned. Dozens died trying to advance. All we could do was watch as they hauled people away.",
+   "tr": "Onlara ulaşamadık. Batarian savunmaları bizi sıkıştırmıştı. İlerlemeye çalışırken düzinelercesi öldü. Tek yapabildiğimiz insanların sürüklenip götürülmesini izlemekti."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140186",
+   "en": "I've been looking for 13 years for something to make that sight go away. What have you got? Huh?",
+   "tr": "13 yıldır o görüntüyü silecek bir şey arıyorum. Sende ne var? Ha?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140187",
+   "en": "What? You think I drink because I like lying in the gutter?",
+   "tr": "Ne? Sırf sevdiğim için mi kaldırımda yattığımı sanıyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140188",
+   "en": "If you don't have a better option, just give me 20 credits. A good bottle of whisky. Enough to stop the dreams.",
+   "tr": "Daha iyi bir seçeneğin yoksa sadece bana 20 kredi ver. İyi bir şişe viski. Rüyaları durduracak kadar."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140189",
+   "en": "Great. Sixty meals of ramen.",
+   "tr": "Harika. Altmış öğün ramen."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140190",
+   "en": "All right. Thanks. You're trying to help. I guess.",
+   "tr": "Tamam. Sağ ol. Yardım etmeye çalışıyorsun. Sanırım."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140191",
+   "en": "Tell your mom I said hi, okay?",
+   "tr": "Annene selam söyle, olur mu?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140192",
+   "en": "The VAO--? God. If she wants me to go talk to someone, fine. I'll do it. For her. She always stuck up for me.",
+   "tr": "Gaziler İşleri Ofisi mi? Tanrım. Annen biriyle konuşmamı istiyorsa tamam. Yaparım. Onun için. Hep beni savundu."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140193",
+   "en": "Heh. She always was naive. All the VAO does is pump you full of chemicals.",
+   "tr": "Heh. Hep saftı. Gaziler İşleri Ofisi'nin yaptığı tek şey seni kimyasallarla doldurmak."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140194",
+   "en": "Yeah. Thanks for the help.",
+   "tr": "Evet. Yardımın için sağ ol."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140195",
+   "en": "You don't want to help, fine. I'll go to the damn VAO. Got nothing else to do but talk about my \"feelings.\"",
+   "tr": "Yardım etmek istemiyorsan tamam. Lanet Gaziler Ofisi'ne giderim. \"Duygularımı\" konuşmaktan başka yapacak işim yok."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140196",
+   "en": "You've got a smart mouth, kid. Funny how your mom never mentioned that.",
+   "tr": "Zeki bir ağzın var evlat. Annenin bundan hiç bahsetmemesi komik."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140197",
+   "en": "If she wants to talk, tell her she can reach me through the Citadel VAO.",
+   "tr": "Konuşmak istiyorsa Citadel Gaziler Ofisi'nden bana ulaşabileceğini söyle."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140198",
+   "en": "Damn right it is.",
+   "tr": "Kesinlikle öyle."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140199",
+   "en": "Yeah, right. So we all have it tough, huh? I get what you're saying.",
+   "tr": "Evet, tabii. Yani hepimizin zor günleri var, ha? Ne demek istediğini anlıyorum."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140200",
+   "en": "Don't worry about me, kid. I won't bother you again. Tell your mom I said hi.",
+   "tr": "Beni dert etme evlat. Seni bir daha rahatsız etmeyeceğim. Annene selam söyle."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140202",
+   "en": "No batarians come here, you know? That's good. Good.",
+   "tr": "Buraya batarian gelmez, biliyor musun? Bu iyi. İyi."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140203",
+   "en": "You ever just sit and watch people? You can learn a lot.",
+   "tr": "Hiç oturup insanları izledin mi? Çok şey öğrenebilirsin."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140204",
+   "en": "Thanks for the credits, kid.",
+   "tr": "Kredi için sağ ol evlat."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140205",
+   "en": "I'll be fine. Don't worry about me.",
+   "tr": "İyi olacağım. Beni dert etme."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140206",
+   "en": "Hey. Been a long time, huh?",
+   "tr": "Hey. Uzun zaman oldu, ha?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140207",
+   "en": "No, no. I knew your parents, kid!",
+   "tr": "Hayır, hayır. Ana babanı tanıyordum evlat!"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140208",
+   "en": "I guess you don't remember me. Lieutenant Zabaleta? I worked with your mother.",
+   "tr": "Sanırım beni hatırlamıyorsun. Teğmen Zabaleta? Annenle çalıştım."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140209",
+   "en": "We served on the carrier Einstein. That was 12, 13 years back. You were just a kid then.",
+   "tr": "Einstein uçak gemisinde görev yaptık. 12, 13 yıl önceydi. O zamanlar çocuktun."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140210",
+   "en": "\"Retired,\" yeah. You know how it is. Times are tough for vets. They always are.",
+   "tr": "\"Emekli,\" evet. Nasıl olduğunu bilirsin. Gaziler için zamanlar zor. Hep öyle."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140212",
+   "en": "Hey, call your mom up and ask. She'd remember old Zabaleta. She'd vouch for me.",
+   "tr": "Hey, annene telefon et ve sor. Yaşlı Zabaleta'yı hatırlar. Benim için kefil olur."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140213",
+   "en": "Listen. I need a favor. I'm kind of short on money these days. I hate hitting you up for money, but a man's gotta eat, right?",
+   "tr": "Dinle. Bir iyiliğe ihtiyacım var. Bu günlerde parasızım. Senden para istemekten nefret ediyorum ama adamın yemesi lazım, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140214",
+   "en": "So, uh, could you spare something? Maybe 20 credits?",
+   "tr": "Yani, ee, biraz ayırabilir misin? Belki 20 kredi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140215",
+   "en": "Hey, you're a good kid, you know that? Thanks.",
+   "tr": "Hey, iyi bir çocuksun, biliyor musun? Sağ ol."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140216",
+   "en": "Nah, nah. I'll just get a-- a meal. You know.",
+   "tr": "Yok, yok. Sadece bir-- yemek yiyeceğim. Bilirsin."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140219",
+   "en": "I'm not a bad guy, kid. Just took my share of lumps. Don't judge me.",
+   "tr": "Kötü bir adam değilim evlat. Sadece payıma düşen darbeleri aldım. Beni yargılama."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140220",
+   "en": "Yeah, that's okay. I get it.",
+   "tr": "Evet, sorun değil. Anlıyorum."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140221",
+   "en": "You ever want to come by and talk, I'll be here. Heh. Can't afford a ticket home, right?",
+   "tr": "Konuşmak için uğramak istersen burada olacağım. Heh. Eve bilet alamam, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140222",
+   "en": "I spoke to my mother. She told me about what happened on Mindoir.",
+   "tr": "Annemle konuştum. Mindoir'de olanları bana anlattı."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140224",
+   "en": "Already hitting me up for money? I came here to talk about Mindoir.",
+   "tr": "Zaten benden para mı istiyorsun? Buraya Mindoir'i konuşmaya geldim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140226",
+   "en": "I heard you were at Mindoir. I wanted to talk about what you saw.",
+   "tr": "Mindoir'de olduğunu duydum. Gördüklerin hakkında konuşmak istedim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140230",
+   "en": "I'm not going to give you money to drink yourself to death. You need to stop this.",
+   "tr": "İçerek kendini öldürmen için sana para vermeyeceğim. Bunu bırakmalısın."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140231",
+   "en": "Right. Because forgetting is much easier than dealing with it.",
+   "tr": "Doğru. Çünkü unutmak onunla baş etmekten çok daha kolay."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140232",
+   "en": "I can't help you if you don't want to be helped. Do you really want to get over what you saw?",
+   "tr": "Yardım istemiyorsan sana yardım edemem. Gördüklerini gerçekten atlatmak istiyor musun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140234",
+   "en": "I'm not going to give you money to blow on booze. I'll give you a line of credit at a grocery store.",
+   "tr": "İçkiye harcaman için sana para vermeyeceğim. Bir markette kredi hattı açarım."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140238",
+   "en": "My mother said to go to the Veteran's Affairs Office. You're not the only one who's seen that brand of hell. They can help.",
+   "tr": "Annem Gaziler İşleri Ofisi'ne gitmeni söyledi. O cehennemi gören tek kişi sen değilsin. Yardım edebilirler."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140241",
+   "en": "Like I'm going to waste good money on you.",
+   "tr": "Sanki sana iyi para harcayacağım."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140243",
+   "en": "You want to play the martyr, whine to the other bums. You want to get better, try the Veteran's Office. We've got seven million vets. Someone else has been through this.",
+   "tr": "Şehit rolü oynamak istiyorsan diğer serserilere sızlan. İyileşmek istiyorsan Gaziler Ofisi'ni dene. Yedi milyon gazimiz var. Başkası da bunu yaşamıştır."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140247",
+   "en": "If booze is all you want, fine. It's your choice.",
+   "tr": "Tek istediğin içkiyse peki. Seçim senin."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140249",
+   "en": "Would if I could, but I'm between paydays myself.",
+   "tr": "Yapabilsem yapardım ama ben de maaşlar arası bir dönemdeyim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140253",
+   "en": "I'm sorry. Do we know each other?",
+   "tr": "Üzgünüm. Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140254",
+   "en": "Someone else who \"knows\" me now that I'm famous. We go to kindergarten together or something?",
+   "tr": "Ünlü olduğumdan beri beni \"tanıyan\" biri daha. Anaokulunda mı birlikte okuduk falan?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140256",
+   "en": "Have we met?",
+   "tr": "Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140258",
+   "en": "I didn't see her much that tour. The ship was on patrol most of the time.",
+   "tr": "O turda onu pek görmedim. Gemi çoğu zaman devriyedeydi."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140259",
+   "en": "I guess you're not in the service anymore, huh?",
+   "tr": "Sanırım artık hizmette değilsin, ha?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140261",
+   "en": "And you expect me to just take your word for that?",
+   "tr": "Ve bunun için sözüne inanmamı mı bekliyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140262",
+   "en": "Sorry, I don't remember you.",
+   "tr": "Üzgünüm, seni hatırlamıyorum."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140265",
+   "en": "Yeah, it's not a problem.",
+   "tr": "Evet, sorun değil."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140267",
+   "en": "Twenty isn't enough to get you back on your feet, is it?",
+   "tr": "Yirmi seni ayağa kaldırmaya yetmez, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140270",
+   "en": "You're barking up the wrong Shepard. Maybe my mother would help you. I think you'll just blow it on booze.",
+   "tr": "Yanlış Shepard'ı yakaladın. Belki annem sana yardım ederdi. Bence sen sadece içkiye harcayacaksın."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140272",
+   "en": "Sorry, I don't have that much right now.",
+   "tr": "Üzgünüm, şu an o kadar param yok."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140273",
+   "en": "Sorry, I don't have that much right now.",
+   "tr": "Üzgünüm, şu an o kadar param yok."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140276",
+   "en": "You did know my mother.",
+   "tr": "Annemi tanıyordun."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140277",
+   "en": "Is that all you think about?",
+   "tr": "Tek düşündüğün bu mu?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140278",
+   "en": "Tell me about Mindoir.",
+   "tr": "Bana Mindoir'den bahset."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140284",
+   "en": "You need help.",
+   "tr": "Yardıma ihtiyacın var."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140285",
+   "en": "Nice attitude.",
+   "tr": "Güzel tavır."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140286",
+   "en": "Work with me.",
+   "tr": "Benimle çalış."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140288",
+   "en": "I'll give you 20 for food.",
+   "tr": "Yemek için sana 20 vereyim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140289",
+   "en": "The Veteran's Affairs Office",
+   "tr": "Gaziler İşleri Ofisi"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140290",
+   "en": "Screw you.",
+   "tr": "Canın cehenneme."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140291",
+   "en": "\"No one understands! Waaah!\"",
+   "tr": "\"Kimse anlamıyor! Vaaah!\""
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140292",
+   "en": "Take the money.",
+   "tr": "Parayı al."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140293",
+   "en": "I don't have 20 credits.",
+   "tr": "20 kredim yok."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140307",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140308",
+   "en": "What do you want?",
+   "tr": "Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140309",
+   "en": "It has?",
+   "tr": "Öyle mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140312",
+   "en": "The Einstein, you said?",
+   "tr": "Einstein mı dedin?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140313",
+   "en": "You don't look like a soldier.",
+   "tr": "Asker gibi görünmüyorsun."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140314",
+   "en": "This is bull.",
+   "tr": "Bu saçmalık."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140315",
+   "en": "Your name doesn't ring a bell.",
+   "tr": "Adın bana bir şey ifade etmiyor."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140319",
+   "en": "I'll give you the money.",
+   "tr": "Parayı vereceğim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140320",
+   "en": "Is 20 enough?",
+   "tr": "20 yeter mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140322",
+   "en": "You're just a drunk.",
+   "tr": "Sen sadece bir ayyaşsın."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140323",
+   "en": "[LIE] I don't have 20.",
+   "tr": "[LIE] 20'm yok."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta20_zabaleta_D|140324",
+   "en": "I don't have 20.",
+   "tr": "20'm yok."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84441",
+   "en": "So, how are you liking your posting at the Academy?",
+   "tr": "Peki Akademi'deki görevinden memnun musun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84442",
+   "en": "Yeah, it's the busiest station on the Citadel. You'll never get bored.",
+   "tr": "Evet, Citadel'in en yoğun istasyonu. Asla sıkılmazsın."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84443",
+   "en": "I guess not, but you could still use a few more men.",
+   "tr": "Sanırım değil ama yine de birkaç adam daha işine yarar."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84444",
+   "en": "That's why we brought you here.",
+   "tr": "Seni bu yüzden buraya getirdik."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84445",
+   "en": "Sure, but there's still way more complaints than the officers can handle.",
+   "tr": "Elbette ama şikâyetler hâlâ memurların halledebileceğinden çok daha fazla."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84446",
+   "en": "That's just life near the wards, kid. You'll get used to it.",
+   "tr": "Wards yakınında hayat böyle evlat. Alışırsın."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84448",
+   "en": "He always stops in for a few games of quasar before he makes his drop.",
+   "tr": "Teslimat yapmadan önce hep birkaç quasar oyunu için uğrar."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84449",
+   "en": "Fist is gonna be pissed if we take down his supplier.",
+   "tr": "Tedarikçisini indirirsek Fist çok kızacak."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84450",
+   "en": "That's the point. We want him angry. Angry people make mistakes.",
+   "tr": "Mesele de bu. Onun kızmasını istiyoruz. Kızgın insanlar hata yapar."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84451",
+   "en": "There's just something about Fist that makes me nervous.",
+   "tr": "Fist'te beni gerginleştiren bir şey var."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84452",
+   "en": "Good. He's a dangerous man. Now keep your eyes peeled for our mark.",
+   "tr": "İyi. Tehlikeli bir adam. Şimdi hedefimiz için gözlerini aç."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84453",
+   "en": "What do you say we head down to Chora's Den after shift?",
+   "tr": "Mesai sonrası Chora's Den'e gitmeye ne dersin?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84454",
+   "en": "Sounds good. Some of the others are going for Novillo's farewell thing.",
+   "tr": "Güzel. Bazıları Novillo'nun veda partisine gidiyor."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84455",
+   "en": "Damn, I forgot that was today. Where's he going again?",
+   "tr": "Lanet olsun, bugün olduğunu unutmuşum. Nereye gidiyordu yine?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84456",
+   "en": "Noveria. Apparently, they've got a huge demand for corporate security.",
+   "tr": "Noveria. Anlaşılan kurumsal güvenliğe büyük talep var."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84457",
+   "en": "Noveria? Isn't that the frozen planet?",
+   "tr": "Noveria mı? Donmuş gezegen değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84458",
+   "en": "Yeah, I wouldn't go, but I guess the pay's pretty good.",
+   "tr": "Evet, ben gitmezdim ama maaş epey iyi sanırım."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|84459",
+   "en": "Huh.",
+   "tr": "Hı."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|104583",
+   "en": "It's good. Busy though. I can't believe how many people you get coming in from the wards.",
+   "tr": "İyi. Ama yoğun. Wards'tan buraya ne kadar çok insan geldiğine inanamıyorum."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_amb_choras_cops_D|113726",
+   "en": "Do you really think we'll find him down here?",
+   "tr": "Onu gerçekten burada bulacağımızı sanıyor musun?"
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136938",
+   "en": "Our quarry has employed a hidden relay to redirect their signal. I shall trace the new signal.",
+   "tr": "Hedefimiz sinyalini yönlendirmek için gizli bir röle kullanmış. Yeni sinyali izleyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136939",
+   "en": "Looks like whoever it was bounced the signal off a hidden relay. I'll trace the new signal.",
+   "tr": "Görünüşe göre her kimse sinyali gizli bir röleden sektirmiş. Yeni sinyali izleyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136940",
+   "en": "Looks like they bounced their signal off a relay. I'll trace the new signal.",
+   "tr": "Görünüşe göre sinyallerini bir röleden sektirmişler. Yeni sinyali izleyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136941",
+   "en": "Looks like they bounced their signal off a relay. I'll trace the new signal.",
+   "tr": "Görünüşe göre sinyallerini bir röleden sektirmişler. Yeni sinyali izleyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136942",
+   "en": "Looks like they bounced their signal off a relay. I'll trace the new signal.",
+   "tr": "Görünüşe göre sinyallerini bir röleden sektirmişler. Yeni sinyali izleyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_11A_DSG_LOC|sta60_trig_ai_conv2_D|136943",
+   "en": "Looks like a relay. I'll trace the new signal.",
+   "tr": "Bir röleye benziyor. Yeni sinyali izleyeceğim."
+  }
+ ]
+}

@@ -1,0 +1,975 @@
+{
+ "meta": {
+  "package": "BIOA_STA60_07A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA60_07A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_amb_negotiator_D|136698",
+   "en": "Pardon me, soldier. Could I take a moment of your time?",
+   "tr": "Affedersin asker. Bir dakikanı alabilir miyim?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136699",
+   "en": "Soldier, I've got a major situation, and I need help from somebody with humanity's interests at heart.",
+   "tr": "Asker, büyük bir durumum var ve insanlığın çıkarlarını gözeten birinden yardıma ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136700",
+   "en": "Of course. Right to business. That's why humanity has the best damn fleet in the galaxy.",
+   "tr": "Elbette. Hemen işe giriyoruz. İnsanlığın galaksideki en iyi filoya sahip olmasının nedeni bu."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136701",
+   "en": "My name is Elias Keeler. I'm an Alliance negotiator. We've got a big session coming up with the salarians. ",
+   "tr": "Adım Elias Keeler. İttifak müzakerecisiyim. Salarian'larla büyük bir oturumumuz var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136702",
+   "en": "You wouldn't believe what's riding on this. I'm fighting for humanity on this one, just like you are!",
+   "tr": "Neyin tehlikede olduğuna inanamazsın. Bu konuda insanlık için savaşıyorum, tıpkı senin gibi!"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136703",
+   "en": "I'm not on the front lines, but I'm making sure our jobs don't get outsourced to the aliens.",
+   "tr": "Ön cephede değilim ama işlerimizin uzaylılara devredilmemesini sağlıyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136704",
+   "en": "I need every edge I can get. Specifically, I need a certain mental stimulant.",
+   "tr": "Her avantaja ihtiyacım var. Özellikle belirli bir zihinsel uyarıcıya."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136705",
+   "en": "In order to do my best for humanity, I need the best resources on the market.",
+   "tr": "İnsanlık için elimden gelenin en iyisini yapmak için piyasadaki en iyi kaynaklara ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136706",
+   "en": "There's a mental stimulant that increases alertness and cognitive function.",
+   "tr": "Uyanıklığı ve bilişsel işlevi artıran bir zihinsel uyarıcı var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136707",
+   "en": "I need you to buy a mental stimulant for me. ",
+   "tr": "Benim için bir zihinsel uyarıcı satın almanı istiyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136708",
+   "en": "It's legal but restricted. I've purchased the monthly limit, and I need more from the med bay.",
+   "tr": "Yasal ama kısıtlı. Aylık limiti aldım ve sağlık biriminden daha fazlasına ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136709",
+   "en": "The salarians want to set up long-term trade agreements. There are billions of credits at stake.",
+   "tr": "Salarian'lar uzun vadeli ticaret anlaşmaları yapmak istiyor. Milyarlarca kredi söz konusu."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136710",
+   "en": "If I don't get the drug, my assistant will take over and mess up the whole deal. It would be a disaster.",
+   "tr": "İlacı almazsam asistanım devralıp tüm anlaşmayı berbat edecek. Felaket olur."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136711",
+   "en": "I don't know the medical terms, but it increases mental capacity, short-term recall, that sort of thing.",
+   "tr": "Tıbbi terimleri bilmiyorum ama zihinsel kapasiteyi, kısa süreli hatırlamayı, bu tür şeyleri artırıyor."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136713",
+   "en": "The negotiations were supposed to be last week, but the salarians stalled it, probably deliberately.",
+   "tr": "Müzakereler geçen hafta olacaktı ama salarian'lar ertelemiş, muhtemelen bilerek."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136714",
+   "en": "If I don't get the stimulant, I'll be a wreck. My assistant will take over, and that would be a disaster.",
+   "tr": "Uyarıcıyı almazsam perişan olurum. Asistanım devralır ve bu felaket olur."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136715",
+   "en": "I understand. I'll pay you back for it, and I can even throw in a little extra.",
+   "tr": "Anlıyorum. Sana geri öderim, hatta biraz fazlasını da veririm."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136716",
+   "en": "Thanks for your help. Like I said, you can find the stimulant over in the med bay.",
+   "tr": "Yardımın için teşekkürler. Dediğim gibi, uyarıcıyı sağlık biriminde bulabilirsin."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136717",
+   "en": "What century are you living in? Do you think those salarians hesitate before amping themselves up?",
+   "tr": "Hangi yüzyılda yaşıyorsun? O salarian'ların kendilerini güçlendirmeden önce tereddüt ettiğini mi sanıyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136718",
+   "en": "If you won't help me keep humanity strong, I'll find somebody else who will!",
+   "tr": "İnsanlığı güçlü tutmama yardım etmeyeceksen yardım edecek başkasını bulurum!"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136719",
+   "en": "Perfect. The salarians will never see me coming. Here. This is for your trouble.",
+   "tr": "Mükemmel. Salarian'lar beni hiç fark etmeyecek. İşte. Zahmetin için."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136720",
+   "en": "What is... this isn't the stimulant! What did you give me?",
+   "tr": "Bu ne... bu uyarıcı değil! Bana ne verdin?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136721",
+   "en": "It's commander, actually. What do you want?",
+   "tr": "Aslında Komutan. Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136722",
+   "en": "What kind of situation are we talking about?",
+   "tr": "Ne tür bir durumdan bahsediyoruz?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136726",
+   "en": "I don't remember seeing you hip-deep in geth back on Eden Prime.",
+   "tr": "Eden Prime'da geth'in içinde boğazına kadar olduğunu görmediğimi hatırlıyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136729",
+   "en": "I understand. It's important. So what do you need?",
+   "tr": "Anlıyorum. Önemli. Peki neye ihtiyacın var?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136732",
+   "en": "Don't try to sell me on this. Just tell me what you want.",
+   "tr": "Bana bunu satmaya çalışma. Sadece ne istediğini söyle."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136734",
+   "en": "Why is this deal so important?",
+   "tr": "Bu anlaşma neden bu kadar önemli?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136736",
+   "en": "What is this stimulant, exactly?",
+   "tr": "Bu uyarıcı tam olarak nedir?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136738",
+   "en": "If you know the monthly limits, why did you go over them?",
+   "tr": "Aylık limitleri biliyorsan neden aştın?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136740",
+   "en": "Is your assistant incompetent or just inexperienced?",
+   "tr": "Asistanın beceriksiz mi yoksa sadece deneyimsiz mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136741",
+   "en": "I'll see what I can do, but I can't guarantee anything.",
+   "tr": "Ne yapabileceğime bakacağım ama bir şey garanti edemem."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136745",
+   "en": "I'll get back to you.",
+   "tr": "Sana döneceğim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136746",
+   "en": "Here's the drug you asked for.",
+   "tr": "İstediğin ilaç burada."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136747",
+   "en": "Here. This should take care of all your problems.",
+   "tr": "Al. Bu tüm sorunlarını halletmeli."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136748",
+   "en": "I'm not just a soldier.",
+   "tr": "Ben sadece asker değilim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136749",
+   "en": "What is it?",
+   "tr": "Ne o?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136750",
+   "en": "I'm listening.",
+   "tr": "Dinliyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136753",
+   "en": "You're a pencil-pusher.",
+   "tr": "Sen bir kalem efendisisin."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136754",
+   "en": "I get it.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136755",
+   "en": "Cut the act.",
+   "tr": "Rol yapmayı bırak."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136761",
+   "en": "The negotiation",
+   "tr": "Müzakere"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136762",
+   "en": "The drug",
+   "tr": "İlaç"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136763",
+   "en": "Drug dosage",
+   "tr": "İlaç dozu"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136765",
+   "en": "No promises.",
+   "tr": "Söz vermiyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136767",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136768",
+   "en": "(Give him the stimulant.)",
+   "tr": "(Ona uyarıcıyı ver.)"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136769",
+   "en": "(Give him the depressant.)",
+   "tr": "(Ona yatıştırıcıyı ver.)"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136773",
+   "en": "What's wrong with him?",
+   "tr": "Onun nesi var?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136798",
+   "en": "If you've gotten your temper back under control, I could still use help.",
+   "tr": "Öfkeni yeniden kontrol altına aldıysan hâlâ yardıma ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136799",
+   "en": "I tell you what: this will be the last time I use the stimulant. After this deal is finished, I'll get treatment.",
+   "tr": "Şöyle yapalım: bu uyarıcıyı kullandığım son sefer olacak. Bu anlaşma bitince tedavi olacağım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136800",
+   "en": "You don't understand! Humanity needs me, and I need that stimulant! Without it, I'll...",
+   "tr": "Anlamıyorsun! İnsanlığın bana ihtiyacı var ve bana o uyarıcı lazım! O olmadan ben..."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136801",
+   "en": "I don't know anymore. I get so tired when I run out of the stimulant. I just need one more boost.",
+   "tr": "Artık bilmiyorum. Uyarıcım bitince çok yoruluyorum. Sadece bir destek daha lazım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136802",
+   "en": "You're right. I-- I'll go tell my assistant. I shouldn't be working like this.",
+   "tr": "Haklısın. Ben-- Gidip asistanıma söyleyeceğim. Böyle çalışmamalıyım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136803",
+   "en": "I'll get help. I'm just sorry it came to this.",
+   "tr": "Yardım alacağım. Sadece buraya geldiği için üzgünüm."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136805",
+   "en": "As we agreed, I'll get treatment when the deal is done. Thank you for your help.",
+   "tr": "Anlaştığımız gibi anlaşma bitince tedavi olacağım. Yardımın için teşekkürler."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136806",
+   "en": "Thanks for your help. I won't trouble you again.",
+   "tr": "Yardımın için teşekkürler. Seni bir daha rahatsız etmeyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136807",
+   "en": "You bastard... You... set me up...",
+   "tr": "Seni piç... Beni... tuzağa düşürdün..."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136808",
+   "en": "Alien... loving... scum...",
+   "tr": "Uzaylı... sever... pislik..."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136809",
+   "en": "Any luck getting what I asked for?",
+   "tr": "İstediğimi almada şansın oldu mu?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136810",
+   "en": "It helps me stay focused, and it keeps me sharp. Nothing gets by me when I'm on it.",
+   "tr": "Odaklanmama yardım ediyor ve zihnimi keskin tutuyor. Onun etkisindeyken hiçbir şey gözümden kaçmaz."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136811",
+   "en": "Worse. He's an alien sympathizer.",
+   "tr": "Daha kötüsü. O bir uzaylı sempatizanı."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136812",
+   "en": "My assistant wants to bend over backwards for the Citadel races. He wants to show them we're reasonable!",
+   "tr": "Asistanım Citadel ırklarına karşı ayakta durmak istiyor. Onlara makul olduğumuzu göstermek istiyor!"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136813",
+   "en": "No race will respect us until we show them who's in charge! That's what it took with the turians. Forget my assistant.",
+   "tr": "Kimin sorumlu olduğunu göstermedikçe hiçbir ırk bize saygı göstermez! Turian'larla gereken buydu. Asistanımı boş ver."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136814",
+   "en": "Like I already told you, after this deal is done, I'll get treatment.",
+   "tr": "Daha önce söylediğim gibi, bu anlaşma bitince tedavi olacağım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136815",
+   "en": "It might look that way from the outside, but this is just a one-time slip-up.",
+   "tr": "Dışarıdan öyle görünebilir ama bu sadece tek seferlik bir hata."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136816",
+   "en": "All the top negotiators are on stimulants close to the legal limit. It's the way the game is played.",
+   "tr": "Tüm üst düzey müzakereciler yasal limite yakın uyarıcı kullanıyor. Oyun böyle oynanıyor."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136817",
+   "en": "Maybe you're right. I've been trying to keep humanity strong, and maybe I've pushed myself too hard.",
+   "tr": "Belki haklısın. İnsanlığı güçlü tutmaya çalışıyordum ve belki kendimi çok zorladım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136820",
+   "en": "You should put some trust in your assistant. Didn't you train him?",
+   "tr": "Asistanına biraz güvenmelisin. Onu sen eğitmedin mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136822",
+   "en": "We need to talk about your drug addiction again.",
+   "tr": "Uyuşturucu bağımlılığın hakkında yeniden konuşmalıyız."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136823",
+   "en": "Keeler, you've got a problem. You need to get treatment.",
+   "tr": "Keeler, bir sorunun var. Tedavi olmalısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136825",
+   "en": "Will overdosing on stimulants and getting arrested help humanity, Keeler?",
+   "tr": "Aşırı uyarıcı alıp tutuklanmak insanlığa yardım eder mi Keeler?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136826",
+   "en": "I don't see all the top negotiators soliciting help to go over the legal limit, Keeler.",
+   "tr": "Tüm üst düzey müzakerecilerin yasal limiti aşmak için yardım istediğini görmüyorum Keeler."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136828",
+   "en": "You won't be doing humanity any favors if you overdose during negotiations. Get help now.",
+   "tr": "Müzakere sırasında aşırı doz alırsan insanlığa iyilik yapmış olmazsın. Hemen yardım al."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136829",
+   "en": "No trade negotiation is worth ruining your life for. Let it go and get help.",
+   "tr": "Hiçbir ticaret müzakeresi hayatını mahvetmeye değmez. Bırak ve yardım al."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136831",
+   "en": "There's no shame in having a problem, but you have to get treatment.",
+   "tr": "Sorun yaşamanın utanılacak bir yanı yok ama tedavi olmalısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136832",
+   "en": "That sounds like an addict talking, Keeler. What does it take to convince you?",
+   "tr": "Bu bir bağımlının konuşması gibi Keeler. Seni ikna etmek için ne gerekir?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136834",
+   "en": "Getting you your drug fix isn't high on my list of priorities, Keeler.",
+   "tr": "Sana ilaç bulmak önceliklerim arasında üst sıralarda değil Keeler."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136836",
+   "en": "You're an addict and a bigot. Your assistant will do a better job. You need to get help.",
+   "tr": "Sen bir bağımlı ve bağnazsın. Asistanın daha iyi iş çıkarır. Yardım almalısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136837",
+   "en": "This deal is too important to have a drug addict negotiating it. You need to get help.",
+   "tr": "Bu anlaşma, bir uyuşturucu bağımlısının müzakere etmesine bırakılamayacak kadar önemli. Yardım almalısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136838",
+   "en": "Humanity doesn't need drug addicts negotiating important deals. Get some rest.",
+   "tr": "İnsanlığın önemli anlaşmalar için uyuşturucu bağımlılarına ihtiyacı yok. Biraz dinlen."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136841",
+   "en": "Let's discuss your problem.",
+   "tr": "Sorununu konuşalım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136842",
+   "en": "You're an addict.",
+   "tr": "Sen bir bağımlısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136843",
+   "en": "I'm leaving.",
+   "tr": "Gidiyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136844",
+   "en": "Have a little faith.",
+   "tr": "Biraz güven."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136845",
+   "en": "Have a little faith.",
+   "tr": "Biraz güven."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136846",
+   "en": "I'm sure it will be fine.",
+   "tr": "Eminim iyi olacak."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136849",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136850",
+   "en": "If you say so.",
+   "tr": "Öyle diyorsan."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136852",
+   "en": "If you say so.",
+   "tr": "Öyle diyorsan."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136853",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136854",
+   "en": "Don't be an idiot.",
+   "tr": "Aptal olma."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136855",
+   "en": "Then the game is wrong.",
+   "tr": "O zaman oyun yanlış."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136857",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136858",
+   "en": "If you say so.",
+   "tr": "Öyle diyorsan."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136859",
+   "en": "No. You'll go now.",
+   "tr": "Hayır. Şimdi gidiyorsun."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136860",
+   "en": "You need help.",
+   "tr": "Yardıma ihtiyacın var."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136862",
+   "en": "You'll be okay.",
+   "tr": "İyi olacaksın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136863",
+   "en": "Get treatment.",
+   "tr": "Tedavi ol."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136864",
+   "en": "Listen to yourself.",
+   "tr": "Kendini dinle."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136867",
+   "en": "I couldn't risk it.",
+   "tr": "Riske giremedim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136868",
+   "en": "Sorry, Keeler.",
+   "tr": "Üzgünüm Keeler."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136869",
+   "en": "I couldn't risk it.",
+   "tr": "Riske giremedim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136870",
+   "en": "Sorry, Keeler.",
+   "tr": "Üzgünüm Keeler."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta20_negotiator_D|136871",
+   "en": "A lesson.",
+   "tr": "Bir ders."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|77276",
+   "en": "Yeah, what is it?",
+   "tr": "Evet, ne var?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81636",
+   "en": "Doran didn't have a clue what I was doing. He assumed I was cheating.",
+   "tr": "Doran ne yaptığım hakkında hiçbir fikri yoktu. Hile yaptığımı varsaydı."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81637",
+   "en": "Either you're cheating or you're not.",
+   "tr": "Ya hile yapıyorsun ya yapmıyorsun."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81638",
+   "en": "I was just tipping the scales in my favor. Only as an experiment.",
+   "tr": "Sadece terazileri lehime çeviriyordum. Yalnızca deney olarak."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81640",
+   "en": "To you, maybe. But this device is merely intended to simulate situations and record results.",
+   "tr": "Senin için belki. Ama bu cihaz yalnızca durumları simüle edip sonuçları kaydetmek için."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81642",
+   "en": "Recording losses is easy, of course. Nobody notices those.",
+   "tr": "Kayıpları kaydetmek tabii kolay. Kimse fark etmez."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81654",
+   "en": "Mmh.",
+   "tr": "Mmh."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81655",
+   "en": "Why were you tossed out of there?",
+   "tr": "Neden oradan atıldın?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81656",
+   "en": "Seems the owner didn't like the way you played their games.",
+   "tr": "Görünüşe göre sahibi oyunlarını oynama biçiminden hoşlanmadı."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81659",
+   "en": "It still sounds like cheating to me.",
+   "tr": "Bana hâlâ hile gibi geliyor."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81676",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81677",
+   "en": "What happened?",
+   "tr": "Ne oldu?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81678",
+   "en": "You cheated?",
+   "tr": "Hile mi yaptın?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81679",
+   "en": "Nothing.",
+   "tr": "Hiçbir şey."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81682",
+   "en": "Explain.",
+   "tr": "Açıkla."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81966",
+   "en": "I'm getting to it.",
+   "tr": "Ona geliyorum."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81967",
+   "en": "Here you go. I hope it's what you're looking for.",
+   "tr": "İşte. Umarım aradığın budur."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81968",
+   "en": "Actually, I gave your device to Doran.",
+   "tr": "Aslında cihazını Doran'a verdim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81969",
+   "en": "Not yet.",
+   "tr": "Henüz değil."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81970",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81971",
+   "en": "Gave it away.",
+   "tr": "Verdim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81972",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81973",
+   "en": "Soon.",
+   "tr": "Yakında."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|81974",
+   "en": "It's gone.",
+   "tr": "Gitti."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|85042",
+   "en": "Ah, change your mind? Are you going to help me record those wins?",
+   "tr": "Ah, fikrini mi değiştirdin? O kazançları kaydetmeme yardım edecek misin?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|85043",
+   "en": "You again. What do you want now?",
+   "tr": "Yine sen. Şimdi ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88882",
+   "en": "Hey. The system is a big success.",
+   "tr": "Hey. Sistem büyük bir başarı."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88883",
+   "en": "Many thanks.",
+   "tr": "Çok teşekkürler."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88885",
+   "en": "[sigh] What am I going to do now?",
+   "tr": "[iç çeker] Şimdi ne yapacağım?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88886",
+   "en": "I'm ruined. Ruined!",
+   "tr": "Mahvoldum. Mahvoldum!"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88887",
+   "en": "Excellent indeed. This will provide me with invaluable data.",
+   "tr": "Gerçekten mükemmel. Bu bana paha biçilmez veri sağlayacak."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88888",
+   "en": "You enjoy those winnings. I'm going to get this system completed.",
+   "tr": "O kazançların tadını çıkar. Ben bu sistemi tamamlayacağım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88889",
+   "en": "But that was years of work. What am I going to do now?",
+   "tr": "Ama bu yıllarca emekti. Şimdi ne yapacağım?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88890",
+   "en": "Maybe you should put your talents to better use.",
+   "tr": "Belki yeteneklerini daha iyi kullanmalısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88891",
+   "en": "You're no help at all.",
+   "tr": "Hiç yardımcı değilsin."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88892",
+   "en": "This is absolutely the worst day of my life.",
+   "tr": "Bu hayatımın kesinlikle en kötü günü."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88897",
+   "en": "Doran caught me cheating and took it from me.",
+   "tr": "Doran hile yaptığımı yakalayıp aldı."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88904",
+   "en": "I lost it.",
+   "tr": "Kaybettim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|88905",
+   "en": "Doran found out.",
+   "tr": "Doran öğrendi."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|89539",
+   "en": "Well, don't wait forever.",
+   "tr": "Şey, sonsuza dek bekleme."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|90368",
+   "en": "So, did you record five wins with the device yet?",
+   "tr": "Peki cihazla beş kazanç kaydettin mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101090",
+   "en": "You were cheating, though, weren't you?",
+   "tr": "Hile yapıyordun ama, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101091",
+   "en": "I know Doran. If he says you're cheating, you're cheating.",
+   "tr": "Doran'ı tanırım. Hile yaptığını söylüyorsa yapıyorsundur."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101092",
+   "en": "But you were cheating, were you not?",
+   "tr": "Ama hile yapıyordun, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|101093",
+   "en": "And yet here you are, cheater.",
+   "tr": "Yine de buradasın, hilekâr."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104508",
+   "en": "Ah, now you're getting to the heart of it.",
+   "tr": "Ah, şimdi işin özüne geliyorsun."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104509",
+   "en": "I've spent the last five years developing a system that can accurately predict wins and losses on the quasar.",
+   "tr": "Son beş yılı quasar'da kazanç ve kayıpları doğru tahmin edebilen bir sistem geliştirerek geçirdim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104510",
+   "en": "I just need a few more recorded wins and I can complete the algorithms.",
+   "tr": "Algoritmaları tamamlamak için sadece birkaç kayıtlı kazanç daha lazım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104511",
+   "en": "It's illegal to use my system. But I won't use it, I'll sell it to others.",
+   "tr": "Sistemimi kullanmak yasadışı. Ama ben kullanmayacağım, başkalarına satacağım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104512",
+   "en": "Hmm. I suppose I could let you try it.",
+   "tr": "Hmm. Sanırım denemene izin verebilirim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104513",
+   "en": "I just need a few more wins recorded.",
+   "tr": "Sadece birkaç kazanç daha kaydetmem lazım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104514",
+   "en": "Of course, if you get caught with the device, well, you saw what happened to me.",
+   "tr": "Elbette cihazla yakalanırsan, şey, bana ne olduğunu gördün."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104515",
+   "en": "Here you go. When you've recorded enough wins, it will let you know.",
+   "tr": "İşte. Yeterince kazanç kaydettiğinde sana haber verir."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104516",
+   "en": "Well, off you go. That data won't collect itself.",
+   "tr": "Hadi git. O veri kendi kendine toplanmaz."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104517",
+   "en": "Hmph. Suit yourself. Well, I have some calculations to do. Goodbye.",
+   "tr": "Hmph. Nasıl istersen. Şey, yapacak hesaplarım var. Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104518",
+   "en": "Keep your winnings. That should be payment enough, I think.",
+   "tr": "Kazançlarını sakla. Bence yeterli bir ödeme."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104519",
+   "en": "The device is set to emit a frequency that will slightly increase your odds.",
+   "tr": "Cihaz şansını biraz artıracak bir frekans yayacak şekilde ayarlandı."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104520",
+   "en": "Nothing like my system eventually will, but enough to allow you to record your wins more quickly.",
+   "tr": "Sistemimin sonunda yapacağına hiç benzemiyor ama kazançlarını daha hızlı kaydetmene yetecek."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104521",
+   "en": "What? No. This device is archaic. It uses brute force to achieve its goal. Besides, you saw how easily it was detected.",
+   "tr": "Ne? Hayır. Bu cihaz ilkel. Amacına ulaşmak için kaba kuvvet kullanıyor. Üstelik ne kadar kolay tespit edildiğini gördün."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104522",
+   "en": "My system, when it's complete, will be far more efficient and completely undetectable.",
+   "tr": "Sistemim tamamlandığında çok daha verimli ve tamamen tespit edilemez olacak."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104523",
+   "en": "Maybe you should put your talents to better use.",
+   "tr": "Belki yeteneklerini daha iyi kullanmalısın."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104524",
+   "en": "Get a job.",
+   "tr": "Bir iş bul."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104525",
+   "en": "You could put your talents to better use.",
+   "tr": "Yeteneklerini daha iyi kullanabilirsin."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104526",
+   "en": "You are smart. Apply yourself.",
+   "tr": "Zekisin. Kendini ver."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104527",
+   "en": "Why do you need to record these outcomes?",
+   "tr": "Bu sonuçları neden kaydetmen gerekiyor?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104530",
+   "en": "Can you do that? Isn't that illegal?",
+   "tr": "Bunu yapabilir misin? Bu yasadışı değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104531",
+   "en": "Maybe I could get you the proof you need.",
+   "tr": "Belki sana ihtiyacın olan kanıtı getirebilirim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104534",
+   "en": "I'll help you out.",
+   "tr": "Sana yardım edeceğim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104536",
+   "en": "I think I'll take my chances, the old-fashioned way.",
+   "tr": "Sanırım eski usul şansımı deneyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104537",
+   "en": "What's in this for me?",
+   "tr": "Bundan bana ne?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104538",
+   "en": "Does the device help me win?",
+   "tr": "Cihaz kazanmama yardım ediyor mu?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104540",
+   "en": "Why don't you just sell the device, then?",
+   "tr": "O zaman cihazı neden satmıyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104551",
+   "en": "Maybe not.",
+   "tr": "Belki hayır."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104552",
+   "en": "Experiment?",
+   "tr": "Deney mi?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104554",
+   "en": "So why do it?",
+   "tr": "O zaman neden yapıyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104556",
+   "en": "Just play the game.",
+   "tr": "Sadece oyunu oyna."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104559",
+   "en": "How will that work?",
+   "tr": "Bu nasıl işleyecek?"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104560",
+   "en": "Interesting.",
+   "tr": "İlginç."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104564",
+   "en": "Let me do it.",
+   "tr": "Bırak ben yapayım."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104565",
+   "en": "I won't help you cheat.",
+   "tr": "Hile yapmana yardım etmem."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104566",
+   "en": "Payment",
+   "tr": "Ödeme"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104567",
+   "en": "Device",
+   "tr": "Cihaz"
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|104570",
+   "en": "Just sell it as is.",
+   "tr": "Olduğu gibi sat."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|162904",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|162905",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|162906",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|166651",
+   "en": "You bet.",
+   "tr": "Elbette."
+  },
+  {
+   "key": "BIOA_STA60_07A_DSG_LOC|sta60_schells_D|166652",
+   "en": "Isn't that still cheating?",
+   "tr": "Bu yine de hile değil mi?"
+  }
+ ]
+}

@@ -1,0 +1,930 @@
+{
+ "meta": {
+  "package": "BIOA_ICE60_02_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE60_02_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80153",
+   "en": "Maybe those scientists can make us some kinda--I don't know--anti-bug plague. Or something.",
+   "tr": "Belki şu bilim insanları bize bir tür--bilmem--böcek karşıtı veba falan yapabilir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80157",
+   "en": "I'd kill for a P204. Just hold down the trigger and fzzzzap! Hallway full of flash-boiled bugs.",
+   "tr": "Bir P204 için adam öldürürdüm. Tetiği basılı tut ve fzzzzzap! Koridor dolusu anında haşlanmış böcek."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80158",
+   "en": "Cap'n tell you about the hot labs? I wouldn't go there. Bug central.",
+   "tr": "Kaptan sıcak laboratuvarlardan bahsetti mi? Ben gitmezdim. Böcek merkezi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80159",
+   "en": "Didn't think I'd see this kind of action after retirement.",
+   "tr": "Emekli olduktan sonra böyle bir aksiyon göreceğimi sanmazdım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80161",
+   "en": "Sure could use some grenades right now.",
+   "tr": "Şu an birkaç el bombası işime yarardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80162",
+   "en": "You should talk to the cap'n.",
+   "tr": "Kaptanla konuşmalısın."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_ambient_barricade_2_D|80163",
+   "en": "Get inside already. I wouldn't be out here if I didn't have to be.",
+   "tr": "Hadi içeri gir artık. Zorunda olmasam burada olmazdım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79586",
+   "en": "Something you need?",
+   "tr": "İhtiyacın olan bir şey mi var?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79587",
+   "en": "The facility's off the network. The only way to find out would be to send scouts down the elevator. I won't send my people to their death.",
+   "tr": "Tesis ağdan çıktı. Öğrenmenin tek yolu keşifçileri asansörle aşağı göndermek. Adamlarımı ölüme göndermeyeceğim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79588",
+   "en": "Since Mira's back online, I had a look at your record.",
+   "tr": "Mira yeniden çevrimiçi olduğundan sicilinize baktım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79592",
+   "en": "I hope you didn't use up all that luck on Akuze.",
+   "tr": "Umarım tüm şansını Akuze'de harcamamışsındır."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79596",
+   "en": "I didn't expect to meet a Star of Terra recipient. What's a Skyllian hero doing up here?",
+   "tr": "Terra Yıldızı sahibiyle karşılaşmayı beklemezdim. Bir Skyllian kahramanı burada ne yapıyor?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79597",
+   "en": "No, thanks. It might jam on the ego.",
+   "tr": "Hayır, sağ ol. Egoyu sıkıştırabilir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79598",
+   "en": "You've got quite the reputation.",
+   "tr": "Epey bir ününüz var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79599",
+   "en": "Well, we've got some problems that could use your attention.",
+   "tr": "Şey, ilgine ihtiyaç duyan bazı sorunlarımız var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79600",
+   "en": "The aliens overran the hot labs last week. Only Han Olar got out, and he ain't all there any more.",
+   "tr": "Uzaylılar geçen hafta sıcak laboratuvarları bastı. Sadece Han Olar çıkabildi ve artık aklı yerinde değil."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79601",
+   "en": "The first we knew, the bastards were clawing into my command post. We had a lot more staff then.",
+   "tr": "İlk fark ettiğimizde o piçler komuta noktamı yırtıyordu. O zamanlar çok daha fazla personelimiz vardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79602",
+   "en": "Yeah? Sure as hell doesn't feel like it.",
+   "tr": "Öyle mi? Hiç de öyle hissettirmiyor."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79603",
+   "en": "You got my support.",
+   "tr": "Desteğim sende."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79604",
+   "en": "I'm no xenobiologist. They're fast, vicious, and there's a hell of a lot of them.",
+   "tr": "Ksenobiyolog değilim. Hızlılar, vahşiler ve çok sayıdalar."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79606",
+   "en": "The board sent an asari to clean up the mess. She went to the hot labs yesterday. We haven't heard from her since.",
+   "tr": "Kurul işleri toparlamak için bir asari gönderdi. Dün sıcak laboratuvarlara gitti. O zamandan beri haber alamadık."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79607",
+   "en": "I don't know. I don't see what one person could do.",
+   "tr": "Bilmem. Tek bir kişinin ne yapabileceğini göremiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79608",
+   "en": "A Matriarch has the skill to keep herself alive for a long time.",
+   "tr": "Bir Matriarch kendini uzun süre hayatta tutacak beceriye sahiptir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79611",
+   "en": "All I can do is hold out here and protect the civilians.",
+   "tr": "Elimden gelen tek şey burada dayanıp sivilleri korumak."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79614",
+   "en": "Stand down.",
+   "tr": "Silahlarınızı indirin."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79615",
+   "en": "Sorry. We couldn't be sure what was on the tram.",
+   "tr": "Üzgünüm. Tramvayda ne olduğundan emin olamadık."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79616",
+   "en": "Even hopped up on stims, my people know the rule. Two legs good, four legs bad.",
+   "tr": "Uyarıcıyla kafaları dumanlı olsa bile adamlarım kuralı bilir. İki ayaklı iyi, dört ayaklı kötü."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79617",
+   "en": "Hell if I know. I'm not assuming any-goddamn-thing.",
+   "tr": "Bilmem. Hiçbir şeyi varsaymıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79618",
+   "en": "Encountered, fought, seen men ripped apart by. We're all working on stims.",
+   "tr": "Karşılaştık, savaştık, adamların parçalandığını gördük. Hepimiz uyarıcıyla ayaktayız."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79619",
+   "en": "Bugs. Zillions of 'em, coming up the tunnels from the hot labs. My team's been running on stims for days.",
+   "tr": "Böcekler. Milyonlarca, sıcak laboratuvarlardan tünellerden yukarı geliyorlar. Ekibim günlerdir uyarıcıyla ayakta."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79620",
+   "en": "Look. You're human, and that's enough that I won't shoot. But I'd like to know who you are.",
+   "tr": "Bak. İnsansın, vurmamam için bu yeter. Ama kim olduğunu bilmek isterim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79622",
+   "en": "Huh. I won't look a heavily-armed horse in the mouth.",
+   "tr": "Hı. Ağır silahlı bir ata diş bakmam."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79623",
+   "en": "Didn't figure you space jockeys liked getting mud on your boots.",
+   "tr": "Siz uzay jokeylerinin botlarına çamur bulaştırmayı sevdiğini sanmazdım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79624",
+   "en": "Benezia? Yeah. She came through here.",
+   "tr": "Benezia mı? Evet. Buradan geçti."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79628",
+   "en": "She hasn't come back here. You came through Central Station, so she ain't there.",
+   "tr": "Buraya geri dönmedi. Merkez İstasyon'dan geldin, yani orada da değil."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79630",
+   "en": "You want my personal opinion? Labs like that exist to do stupid crap that gets people killed.",
+   "tr": "Kişisel fikrimi mi istiyorsun? Böyle laboratuvarlar insanları öldüren aptalca işler yapmak için var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79633",
+   "en": "It's built into one of the glaciers further down the mountain. Real old, thick, stable one. Something goes wrong, they heat it up and sink it into the ice.",
+   "tr": "Dağın biraz aşağısındaki buzullardan birinin içine inşa edildi. Çok eski, kalın, sabit bir tane. Bir şey ters giderse ısıtıp buza gömüyorlar."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79635",
+   "en": "I can't talk about everything. What do you need to know? ",
+   "tr": "Her şeyi konuşamam. Ne bilmen gerekiyor?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79637",
+   "en": "Beats me. I'm not supposed to know. So long as people don't start dying, it's not my problem.",
+   "tr": "Bana sorma. Bilmem gerekmiyor. İnsanlar ölmeye başlamadıkça benim sorunum değil."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79638",
+   "en": "It's designed to survive a breach. The turrets and alarms are routed from a control room out by the quarantine labs.",
+   "tr": "İhlale dayanacak şekilde tasarlandı. Taretler ve alarmlar karantina laboratuvarlarının yanındaki bir kontrol odasından yönetiliyor."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79640",
+   "en": "Secure enough that you shouldn't poke in corners.",
+   "tr": "Yeterince güvenli, yani köşeleri kurcalamaman gerekir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79641",
+   "en": "Only the best get assigned to high-security facilities like this.",
+   "tr": "Buraya sadece en iyiler atanır."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79642",
+   "en": "Have you checked the layout yet? Easily defensible by a few people. That's not counting the automated defenses.",
+   "tr": "Yerleşim planına baktın mı? Birkaç kişiyle kolayca savunulur. Otomatik savunmaları saymıyorum bile."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79644",
+   "en": "What impresses me most is the turrets, alarms, and cameras. They're all routed through a central location, out by the quarantine labs.",
+   "tr": "En çok taretler, alarmlar ve kameralar etkiledi beni. Hepsi karantina laboratuvarlarının yanındaki merkezi bir noktadan yönetiliyor."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79645",
+   "en": "One guy can lock down the whole facility. The security hub's the last logical fallback, and we'd have cover from the turrets all the way.",
+   "tr": "Tek adam tüm tesisi kilitleyebilir. Güvenlik merkezi son mantıklı geri çekilme noktası ve taretler bizi sonuna kadar kollar."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79646",
+   "en": "Yeah. I have enough to worry about.",
+   "tr": "Evet. Endişelenecek yeterince şeyim var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79648",
+   "en": "We weren't expecting the initial wave. They made it inside. We lost some good people.",
+   "tr": "İlk dalgayı beklemiyorduk. İçeri girdiler. İyi adamlar kaybettik."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79649",
+   "en": "Those of us left are shorthanded. We've kept order by long shifts and stims. I don't like it, but I don't see an alternative.",
+   "tr": "Geriye kalanlarımızın sayısı az. Düzeni uzun vardiyalar ve uyarıcılarla sağladık. Hoşuma gitmiyor ama alternatif görmüyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79650",
+   "en": "You and me both.",
+   "tr": "İkimiz de."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79651",
+   "en": "I need to know more about the situation in the hot labs.",
+   "tr": "Sıcak laboratuvarlardaki durum hakkında daha fazla bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79653",
+   "en": "You're certain the Matriarch is still in the hot labs?",
+   "tr": "Matriarch'ın hâlâ sıcak laboratuvarlarda olduğundan emin misiniz?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79654",
+   "en": "Did the aliens come from inside the facility, or did they attack from outside?",
+   "tr": "Uzaylılar tesisin içinden mi geldi, yoksa dışarıdan mı saldırdı?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79658",
+   "en": "Tell me about the structure of the hot labs.",
+   "tr": "Bana sıcak laboratuvarların yapısını anlat."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79661",
+   "en": "Tell me about Rift Station.",
+   "tr": "Bana Rift Station'dan bahset."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79662",
+   "en": "What kind of research is done here?",
+   "tr": "Burada ne tür araştırmalar yapılıyor?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79664",
+   "en": "Tell me about the defenses here.",
+   "tr": "Bana buradaki savunmaları anlat."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79666",
+   "en": "I was just impressed with your operation. Being able to weather a week of assaults is no mean feat.",
+   "tr": "Operasyonunuzdan etkilendim. Bir haftalık saldırıya dayanabilmek küçümsenecek bir şey değil."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79668",
+   "en": "I just wanted to offer some deployment advice. You're lucky these things are dumb animals. Three coordinated guys could take this place.",
+   "tr": "Sana sadece konuşlanma tavsiyesi vermek istedim. Bu şeylerin aptal hayvanlar olması şansın. Üç koordineli adam burayı alabilir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79670",
+   "en": "Automated defenses can be overriden.",
+   "tr": "Otomatik savunmalar devre dışı bırakılabilir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79671",
+   "en": "Maybe I was wrong.",
+   "tr": "Belki yanılmışımdır."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79673",
+   "en": "I'll keep out of your hair.",
+   "tr": "Yolundan çekilirim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79675",
+   "en": "How are your people holding up?",
+   "tr": "Adamların nasıl dayanıyor?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79677",
+   "en": "I've got work to do.",
+   "tr": "Yapacak işim var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79684",
+   "en": "I've always had enough to fall back on.",
+   "tr": "Hep geri çekilecek yeterince şeyim oldu."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79685",
+   "en": "Only people with no skill need luck.",
+   "tr": "Şansa yalnızca beceriksizler ihtiyaç duyar."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79687",
+   "en": "All the heroes from Skyllia got shipped home in coolers.",
+   "tr": "Skyllia'nın bütün kahramanları soğutucularda eve gönderildi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79688",
+   "en": "Want me to autograph your gun?",
+   "tr": "Silahını imzalamamı ister misin?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79690",
+   "en": "I see a problem, I take care of it. That's the job I signed up for.",
+   "tr": "Bir sorun görürsem hallederim. İmzaladığım iş bu."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79692",
+   "en": "Then stow the pleasantries and give me a sitrep.",
+   "tr": "O halde nezaketi bırak da bana durum raporu ver."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79693",
+   "en": "We can talk later. What's the situation?",
+   "tr": "Sonra konuşuruz. Durum nedir?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79695",
+   "en": "You were taken by surprise and had civilians to protect. You did a good job, Captain.",
+   "tr": "Sürpriz yaşadınız ve korumanız gereken siviller vardı. İyi iş çıkardınız Kaptan."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79697",
+   "en": "I'm packing fire and steel. They want to fight with claws and teeth, it's their funeral.",
+   "tr": "Ateş ve çelik taşıyorum. Pençe ve dişle savaşmak istiyorlarsa bu onların cenazesi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79699",
+   "en": "We've never seen anything like them. What do you know?",
+   "tr": "Onlar gibi bir şey hiç görmedik. Ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79702",
+   "en": "Benezia. Is she still over there?",
+   "tr": "Benezia. Hâlâ orada mı?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79707",
+   "en": "I'm not going to let any of your people die. ",
+   "tr": "Adamlarınızdan birinin ölmesine izin vermeyeceğim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79709",
+   "en": "I've got business with her. Stay out of my way.",
+   "tr": "Onunla işim var. Yoluma çıkma."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79712",
+   "en": "I'd only be upset if they had fired.",
+   "tr": "Ancak ateş etselerdi üzülürdüm."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79714",
+   "en": "Can those things work a train's controls?",
+   "tr": "O şeyler bir trenin kontrollerini kullanabilir mi?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79716",
+   "en": "I take it you've encountered those things.",
+   "tr": "Sanırım o şeylerle karşılaştınız."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79718",
+   "en": "I'd do the same. What's going on here?",
+   "tr": "Ben de aynısını yapardım. Burada neler oluyor?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79721",
+   "en": "My name's Shepard. I'm a Spectre.",
+   "tr": "Adım Shepard. Bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79723",
+   "en": "Commander Shepard, Systems Alliance Navy. My crew came up from Hanshan.",
+   "tr": "Komutan Shepard, Sistemler İttifakı Donanması. Mürettebatım Hanshan'dan geldi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79725",
+   "en": "Call me Shepard. I was sent to find an asari Matriarch.",
+   "tr": "Bana Shepard de. Bir asari Matriarch'ı bulmak için gönderildim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79729",
+   "en": "The hot labs",
+   "tr": "Sıcak laboratuvarlar"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79730",
+   "en": "This facility",
+   "tr": "Bu tesis"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79731",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79733",
+   "en": "Benezia",
+   "tr": "Benezia"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79734",
+   "en": "The bugs came from the lab?",
+   "tr": "Böcekler laboratuvardan mı geldi?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79736",
+   "en": "What's the facility like?",
+   "tr": "Tesis nasıl bir yer?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79741",
+   "en": "What do they do here?",
+   "tr": "Burada ne yapıyorlar?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79742",
+   "en": "How secure are you?",
+   "tr": "Ne kadar güvendesiniz?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79744",
+   "en": "Your staff",
+   "tr": "Personeliniz"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79750",
+   "en": "You survived somehow.",
+   "tr": "Bir şekilde hayatta kaldınız."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79751",
+   "en": "This place is vulnerable.",
+   "tr": "Burası savunmasız."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79752",
+   "en": "Understood.",
+   "tr": "Anlaşıldı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79755",
+   "en": "Computers can be hacked.",
+   "tr": "Bilgisayarlar hacklenebilir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79756",
+   "en": "Sounds good so far.",
+   "tr": "Şimdiye kadar iyi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79770",
+   "en": "I'm good.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79771",
+   "en": "I make my own luck.",
+   "tr": "Şansımı kendim yaratırım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79773",
+   "en": "I'm no damned hero.",
+   "tr": "Lanet bir kahraman değilim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79774",
+   "en": "Take advantage of it.",
+   "tr": "Bundan yararlan."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79776",
+   "en": "I believe in being thorough.",
+   "tr": "Titiz olmaya inanırım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79777",
+   "en": "So don't jerk me around.",
+   "tr": "O halde bana kafa tutma."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79778",
+   "en": "What's going on here?",
+   "tr": "Burada neler oluyor?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79781",
+   "en": "You did well.",
+   "tr": "İyi iş çıkardın."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79782",
+   "en": "We'll clean them out.",
+   "tr": "Onları temizleyeceğiz."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79783",
+   "en": "What are they?",
+   "tr": "Neler bunlar?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79788",
+   "en": "I need to talk to her.",
+   "tr": "Onunla konuşmam lazım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79789",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79790",
+   "en": "I'm not here to help.",
+   "tr": "Yardım etmeye gelmedim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79798",
+   "en": "No autopsy, no foul.",
+   "tr": "Otopsi yok, suç yok."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79799",
+   "en": "Can they run a train?",
+   "tr": "Tren kullanabilirler mi?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79800",
+   "en": "Expecting hostile company?",
+   "tr": "Düşman bir ziyaret mi bekliyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79801",
+   "en": "I don't blame you.",
+   "tr": "Seni suçlamıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79807",
+   "en": "I'm a Spectre.",
+   "tr": "Ben bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79808",
+   "en": "Alliance Navy.",
+   "tr": "İttifak Donanması."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|79809",
+   "en": "I'm here for Benezia.",
+   "tr": "Benezia için buradayım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|80204",
+   "en": "Ask Dr. Olar. He's the only one who made it out of the hot labs. He's the only volus left in here.",
+   "tr": "Dr. Olar'a sorun. Sıcak laboratuvarlardan çıkabilen tek kişi o. Burada kalan tek volus."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|80206",
+   "en": "What can you tell me about the aliens?",
+   "tr": "Uzaylılar hakkında bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|80208",
+   "en": "Aliens",
+   "tr": "Uzaylılar"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81317",
+   "en": "God. I wish we could help those guys. I really do. But we can't risk contamination now.",
+   "tr": "Tanrım. Keşke o adamlara yardım edebilsek. Gerçekten. Ama şimdi bulaş riskine giremeyiz."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81318",
+   "en": "Dr. Iallis? But she seemed like the most stable one here.",
+   "tr": "Dr. Iallis mi? Ama buradaki en dengeli kişi gibi görünüyordu."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81319",
+   "en": "She was a commando in Benezia's service. A squad of geth were with her.",
+   "tr": "Benezia'nın hizmetinde bir komandoydu. Yanında bir geth ekibi vardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81320",
+   "en": "She was a huntress, pledged to the Matriarch. A group of geth were with her.",
+   "tr": "Matriarch'a bağlı bir avcıydı. Yanında bir geth grubu vardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81321",
+   "en": "She was a commando in Benezia's service. A squad of geth were with her.",
+   "tr": "Benezia'nın hizmetinde bir komandoydu. Yanında bir geth ekibi vardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81322",
+   "en": "She was a huntress working for the Matriarch. A group of geth were with her.",
+   "tr": "Matriarch için çalışan bir avcıydı. Yanında bir geth grubu vardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81323",
+   "en": "She was a commando in Benezia's service. A group of geth were with her.",
+   "tr": "Benezia'nın hizmetinde bir komandoydu. Yanında bir geth grubu vardı."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81324",
+   "en": "Geth? I didn't know. God's honest truth, I thought she was just another egghead. Son of a bitch.",
+   "tr": "Geth mi? Bilmiyordum. Yemin ederim sadece bir başka kafa işçisi sanmıştım. Pislik."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81325",
+   "en": "Yeah, I hear th--",
+   "tr": "Evet, duydu--"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81326",
+   "en": "Hell! Man the perimeter!",
+   "tr": "Lanet! Çevreyi tutun!"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81328",
+   "en": "Yeah. But you also have extra guns.",
+   "tr": "Evet. Ama fazladan silahların da var."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81329",
+   "en": "All right. You want to gamble with your life, you're not under my command. I'll have the guard let you in, but he'll lock the door behind you.",
+   "tr": "Pekâlâ. Hayatınla kumar oynamak istiyorsan benim emrimde değilsin. Muhafıza seni içeri almasını söylerim ama kapıyı arkandan kilitler."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81330",
+   "en": " He'll run a full scan before he'll let you out. If there are any anomalies, you stay in there.",
+   "tr": " Çıkmana izin vermeden önce tam tarama yapacak. Herhangi bir anormallik varsa orada kalırsın."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81332",
+   "en": "I'll radio ahead to let the guard know. Good luck.",
+   "tr": "Muhafıza haber vermek için önceden telsiz çekerim. İyi şanslar."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81333",
+   "en": "I've heard about the problems in the quarantine lab. I'd like to recover the toxin cure.",
+   "tr": "Karantina laboratuvarındaki sorunları duydum. Toksin tedavisini almak istiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81335",
+   "en": "I was attacked by the asari who was in here. She killed your guard.",
+   "tr": "Burada olan asari bana saldırdı. Muhafızınızı öldürdü."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81344",
+   "en": "We're not part of your defense plans. We're consuming extra rations, extra medi-gel...",
+   "tr": "Savunma planlarınızın parçası değiliz. Fazladan erzak, fazladan medi-jel tüketiyoruz..."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81346",
+   "en": "If we survive, your employers will want a report from me. I wonder how much insurance they have on those scientists?",
+   "tr": "Hayatta kalırsak işverenleriniz benden rapor isteyecek. Bu bilim insanları için ne kadar sigorta yaptırmışlardır acaba?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81347",
+   "en": "Dr. Cohen says there's no risk of contamination.",
+   "tr": "Dr. Cohen bulaş riski olmadığını söylüyor."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81349",
+   "en": "Those are reasonable precautions.",
+   "tr": "Bunlar makul önlemler."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81350",
+   "en": "Great. We'll be stuck unless he decides we're healthy.",
+   "tr": "Harika. O bizi sağlıklı bulmazsa burada mahsur kalırız."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81352",
+   "en": "If that's the only way you'll let us in, I agree.",
+   "tr": "İçeri girmemize izin vermenin tek yolu buysa kabul ediyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81354",
+   "en": "I want to help Dr. Cohen.",
+   "tr": "Dr. Cohen'e yardım etmek istiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81355",
+   "en": "I was attacked.",
+   "tr": "Saldırıya uğradım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81357",
+   "en": "Let us risk it.",
+   "tr": "Riske girelim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81358",
+   "en": "I'll have to report this.",
+   "tr": "Bunu bildirmek zorunda kalacağım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81359",
+   "en": "It's not contagious.",
+   "tr": "Bulaşıcı değil."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81362",
+   "en": "That's fair.",
+   "tr": "Haklısın."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81363",
+   "en": "I don't like being trapped.",
+   "tr": "Kapana kısılmaktan hoşlanmam."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81364",
+   "en": "If that's what it takes.",
+   "tr": "Gerekiyorsa."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81863",
+   "en": "Yeah, thanks for your help back there.",
+   "tr": "Evet, orada yardımın için sağ ol."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81864",
+   "en": "The attack just now! Where were you?",
+   "tr": "Az önceki saldırı! Neredeydin?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81865",
+   "en": "Thanks for the vote of confidence.",
+   "tr": "Güven oyu için teşekkürler."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81866",
+   "en": "If you don't want to help us here, why don't you go to the hot labs?",
+   "tr": "Bize burada yardım etmek istemiyorsan neden sıcak laboratuvarlara gitmiyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81867",
+   "en": "It looked like you could handle it.",
+   "tr": "Halledebilecek gibi görünüyordun."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81868",
+   "en": "If you need my help for a probing attack, this place is doomed.",
+   "tr": "Bir yoklama saldırısı için yardımıma ihtiyacın varsa burası mahvolmuş."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81869",
+   "en": "I don't know what you're talking about.",
+   "tr": "Ne dediğini bilmiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81870",
+   "en": "You ever heard of keeping a reserve?",
+   "tr": "Yedek tutmayı hiç duydun mu?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81873",
+   "en": "You didn't need me.",
+   "tr": "Bana ihtiyacın yoktu."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81874",
+   "en": "\"You're welcome.\"",
+   "tr": "\"Rica ederim.\""
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81875",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|81876",
+   "en": "I was ready if you needed me.",
+   "tr": "İhtiyacın olursa hazırdım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|101435",
+   "en": "I'm Captain Ventralis. Why don't you get inside our defense perimeter so we can talk?",
+   "tr": "Ben Kaptan Ventralis. Savunma çevremizin içine girsene, konuşabilelim?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|101436",
+   "en": "Oh, if you need any first aid, Dr. Cohen's downstairs in the med bay.",
+   "tr": "Ha, ilk yardıma ihtiyacın olursa Dr. Cohen aşağıda, sağlık biriminde."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|102849",
+   "en": "I heard that.",
+   "tr": "Duydum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|102850",
+   "en": "Yeah. Sorry.",
+   "tr": "Evet. Üzgünüm."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|120390",
+   "en": "You couldn't handle it?",
+   "tr": "Halledemedin mi?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|120391",
+   "en": "I doubt that's enough.",
+   "tr": "Bunun yeterli olduğundan şüpheliyim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147190",
+   "en": "Sorry. I didn't mean to pry.",
+   "tr": "Üzgünüm. Kurcalamak istemedim."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147191",
+   "en": "Nothing is ever secure enough. But I don't plan on testing it personally.",
+   "tr": "Hiçbir şey asla yeterince güvenli değildir. Ama bunu bizzat sınamayı planlamıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147192",
+   "en": "Just curious.",
+   "tr": "Sadece merak."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|147193",
+   "en": "Yeah, right.",
+   "tr": "Evet, tabii."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|149300",
+   "en": "There's an emergency elevator out by the trams. This card will let you activate it. It can take you down to the hot labs.",
+   "tr": "Tramvayların yanında bir acil durum asansörü var. Bu kart onu etkinleştirmeni sağlar. Seni sıcak laboratuvarlara indirebilir."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|149301",
+   "en": "Normally, the crew gets to the labs using a tram from Central Station. We've got an elevator that connects directly, but it's for emergency use only.",
+   "tr": "Normalde mürettebat laboratuvarlara Merkez İstasyon'dan tramvayla gider. Doğrudan bağlayan bir asansörümüz var ama sadece acil durum için."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_julethventralis_D|149303",
+   "en": "Uh, listen. I'm not sending my people people down there. It's too dangerous. You understand?",
+   "tr": "Şey, dinle. Adamlarımı oraya göndermiyorum. Çok tehlikeli. Anlıyor musun?"
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81565",
+   "en": "Thanks for the help. Every few hours, a group comes up the tram tunnel. It's actually better since we locked down the elevator.",
+   "tr": "Yardımın için sağ ol. Birkaç saatte bir tramvay tünelinden bir grup geliyor. Asansörü kilitlediğimizden beri aslında daha iyi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81566",
+   "en": "Their only other option is over the mountain and down through the ducts. And they freeze like everyone else.",
+   "tr": "Onların tek alternatifi dağın üstünden geçip kanallardan inmek. Ve herkes gibi donuyorlar."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81567",
+   "en": "I don't know why they keep throwing themselves against our defenses. Even animals should learn not to stick their noses where it hurts.",
+   "tr": "Neden savunmamıza kendilerini atmaya devam ettiklerini bilmiyorum. Hayvanlar bile burnunu acıtan yere sokmamayı öğrenmeli."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81568",
+   "en": "I'll do whatever I can.",
+   "tr": "Elimden geleni yaparım."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81569",
+   "en": "We're all in the same boat.",
+   "tr": "Hepimiz aynı gemideyiz."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81570",
+   "en": "They always attack here? It's an obvious killzone.",
+   "tr": "Hep burada mı saldırıyorlar? Bariz bir ölüm bölgesi."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81573",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81574",
+   "en": "I'd be stupid to not help.",
+   "tr": "Yardım etmemek aptallık olur."
+  },
+  {
+   "key": "BIOA_ICE60_02_DSG_LOC|ice60_trig09_assault_complete_D|81575",
+   "en": "Kind of a futile attack.",
+   "tr": "Biraz boşuna bir saldırı."
+  }
+ ]
+}

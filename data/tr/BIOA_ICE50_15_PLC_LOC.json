@@ -1,0 +1,25 @@
+{
+ "meta": {
+  "package": "BIOA_ICE50_15_PLC_LOC_INT.pcc",
+  "stem": "BIOA_ICE50_15_PLC_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE50_15_PLC_LOC|ice50_trig28_elv_decon_D|150054",
+   "en": "Now entering decontamination and transit hub.",
+   "tr": "Dekontaminasyon ve aktarma merkezine giriliyor."
+  },
+  {
+   "key": "BIOA_ICE50_15_PLC_LOC|ice50_trig28_elv_decon_D|150055",
+   "en": "User alert! Loose contaminants in the decontamination chamber. Access to passenger tramways inadvisable.",
+   "tr": "Kullanıcı uyarısı! Dekontaminasyon odasında başıboş kirleticiler var. Yolcu tramvaylarına erişim tavsiye edilmez."
+  },
+  {
+   "key": "BIOA_ICE50_15_PLC_LOC|ice50_trig28_elv_decon_D|150056",
+   "en": "No hazardous or unauthorized materials detected.",
+   "tr": "Tehlikeli veya yetkisiz madde tespit edilmedi."
+  }
+ ]
+}

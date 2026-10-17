@@ -1,0 +1,820 @@
+{
+ "meta": {
+  "package": "BIOA_ICE60_06_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE60_06_DSG_LOC",
+  "textLang": "INT",
+  "sets": 8
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80779",
+   "en": "I'm unarmed!",
+   "tr": "Silahsızım!"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80780",
+   "en": "I won't cause any trouble! I won't!",
+   "tr": "Sorun çıkarmayacağım! Çıkarmayacağım!"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80782",
+   "en": "I wish they'd let us work. If I had something to do, it'd take my mind off...",
+   "tr": "Keşke çalışmamıza izin verseler. Yapacak bir işim olsa aklım şuradan uzaklaşırdı..."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80783",
+   "en": "Zev says the others are recovering. Guess they'll be awake when they're eaten.",
+   "tr": "Zev diğerlerinin iyileştiğini söylüyor. Herhalde yenirken uyanık olacaklar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80786",
+   "en": "What was that noise? Did rachni get in here? Did you kill them?",
+   "tr": "O ses neydi? Rachni mi girdi? Onları öldürdün mü?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80790",
+   "en": "It could be worse, right? I could be one of those guys in the med bay.",
+   "tr": "Daha kötü olabilirdi, değil mi? Sağlık birimindeki adamlardan biri olabilirdim."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80792",
+   "en": "Got to keep the mood light. I mean, if you don't laugh, you'll-- Yeah. You just have to.",
+   "tr": "Havayı hafif tutmak lazım. Yani gülmezsen-- Evet. Mecbursun."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80793",
+   "en": "I should have taken my vacation. No, I had to get those last few alleles nailed down.",
+   "tr": "İznimi kullanmalıydım. Hayır, şu son alelleri kesinleştirmem gerekiyordu."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80794",
+   "en": "Ventralis kept us all alive. He must know what he's doing.",
+   "tr": "Ventralis hepimizi hayatta tuttu. Ne yaptığını biliyor olmalı."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_3_D|80795",
+   "en": "You'll do something about those things, right?",
+   "tr": "O şeylerle ilgili bir şey yapacaksın, değil mi?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80815",
+   "en": "I'm unarmed!",
+   "tr": "Silahsızım!"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80816",
+   "en": "Stop! I'm not a threat!",
+   "tr": "Dur! Tehdit değilim!"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80818",
+   "en": "Maybe the bean-counters will review my request for more lab safety features.",
+   "tr": "Belki hesapçılar laboratuvar güvenlik özellikleri talebimi gözden geçirir."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80822",
+   "en": "We were running on batteries before the connection to Central was restored.",
+   "tr": "Merkez bağlantısı yeniden kurulana kadar pillerle çalışıyorduk."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80823",
+   "en": "I'm more afraid of the guards now. They've been getting twitchy.",
+   "tr": "Şimdi muhafızlardan daha çok korkuyorum. Tetikte gerginleştiler."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80825",
+   "en": "I used to have nightmares like this. Too many cheap horror vids before lights-out.",
+   "tr": "Eskiden bu tür kâbuslar görürdüm. Işıklar kapanmadan önce fazla ucuz korku videosu."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80826",
+   "en": "Can you get us off the mountain?",
+   "tr": "Bizi dağdan çıkarabilir misin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_ambient_scientist_4_D|80827",
+   "en": "I didn't think we'd ever need the guards here.",
+   "tr": "Burada muhafızlara hiç ihtiyaç duyacağımızı düşünmemiştim."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82217",
+   "en": "Everywhere I go, I'm the only survivor. Maybe you'd better stand back.",
+   "tr": "Gittiğim her yerde hayatta kalan tek kişi benim. Belki geri çekilsen iyi olur."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82219",
+   "en": "They came out of there.",
+   "tr": "Oradan çıktılar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82220",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82221",
+   "en": "About the rachni?",
+   "tr": "Rachni hakkında mı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82222",
+   "en": "Rachni? That's preposterous.",
+   "tr": "Rachni mi? Bu saçma."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82223",
+   "en": "Don't screw with me. They can't be rachni.",
+   "tr": "Benimle dalga geçme. Rachni olamazlar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82224",
+   "en": "Rachni? I don't believe that.",
+   "tr": "Rachni mi? Buna inanmıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82225",
+   "en": "\"Rachni?\" I think I've heard that before.",
+   "tr": "\"Rachni\" mi? Sanırım bunu daha önce duydum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82226",
+   "en": "I've heard that word before.",
+   "tr": "Bu kelimeyi daha önce duydum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82235",
+   "en": "They found it in a derelict ship. An egg. Waiting since the last battles. They brought it here--",
+   "tr": "Terk edilmiş bir gemide buldular. Bir yumurta. Son savaşlardan beri bekliyordu. Buraya getirdiler--"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82236",
+   "en": "Shut up! God. You want to get us killed?",
+   "tr": "Kapa çeneni! Tanrım. Hepimizi öldürtmek mi istiyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82237",
+   "en": "I don't have any control over who lives or dies here. Do you?",
+   "tr": "Burada kimin yaşayıp öleceği üzerinde hiç kontrolüm yok. Sende var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82238",
+   "en": "If you're going to be crazy, be the quiet kind.",
+   "tr": "Deli olacaksan sessiz olanından ol."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82239",
+   "en": "It's possible. The specimens were sensitive to biotics.",
+   "tr": "Mümkün. Örnekler biyotiklere duyarlıydı."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82241",
+   "en": "I killed her.",
+   "tr": "Onu ben öldürdüm."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82242",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82243",
+   "en": "Who?",
+   "tr": "Kim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82244",
+   "en": "Answer the question.",
+   "tr": "Soruya cevap ver."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82245",
+   "en": "Who?",
+   "tr": "Kim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82246",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82247",
+   "en": "Doctor Zhonmua. We were going to lunch when the alarms went off. I ran into the tram. And I closed the doors.",
+   "tr": "Doktor Zhonmua. Alarmlar çaldığında öğle yemeğine gidiyorduk. Tramvaya koştum. Ve kapıları kapattım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82249",
+   "en": "She banged on the window once. Then they sliced her to pieces. Her head came apart like a melon.",
+   "tr": "Bir kez cama vurdu. Sonra onu parçalara ayırdılar. Kafası kavun gibi dağıldı."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82250",
+   "en": "I closed the door. I killed her.",
+   "tr": "Kapıyı kapattım. Onu ben öldürdüm."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82251",
+   "en": "You think I want absolution? There is none.",
+   "tr": "Af mı istediğimi sanıyorsun? Af yok."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82252",
+   "en": "Of course. That is perfectly true.",
+   "tr": "Elbette. Bu tamamen doğru."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82253",
+   "en": "Yeah.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82254",
+   "en": "You came to find out about them, didn't you?",
+   "tr": "Onlar hakkında bilgi almaya geldin, değil mi?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82255",
+   "en": "I wish I were crazy. It would be easier.",
+   "tr": "Keşke deli olsaydım. Daha kolay olurdu."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82257",
+   "en": "I'm Olar. Han Olar.",
+   "tr": "Ben Olar. Han Olar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82258",
+   "en": "I need to know more about those things out there.",
+   "tr": "Dışarıdaki o şeyler hakkında daha fazlasını bilmem gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82265",
+   "en": "Where did they come from?",
+   "tr": "Nereden geldiler?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82266",
+   "en": "You're involved in this. What can you tell me?",
+   "tr": "Bu işe karıştın. Bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82270",
+   "en": "Could Matriarch Benezia survive in the hot labs?",
+   "tr": "Matriarch Benezia sıcak laboratuvarlarda hayatta kalabilir mi?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82272",
+   "en": "I heard you were at the hot labs. How did you make it out alive?",
+   "tr": "Sıcak laboratuvarlarda olduğunu duydum. Nasıl sağ çıktın?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82282",
+   "en": "Tell me what you know. I'll make your survival mean something.",
+   "tr": "Bildiklerini anlat. Hayatta kalmanı anlamlı kılacağım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82283",
+   "en": "The only thing you could do was save yourself.",
+   "tr": "Yapabileceğin tek şey kendini kurtarmaktı."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82284",
+   "en": "If you hadn't, you'd be dead, too.",
+   "tr": "Yapmasaydın sen de ölürdün."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82285",
+   "en": "I'll be leaving now.",
+   "tr": "Şimdi gidiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82287",
+   "en": "You mean those things out there?",
+   "tr": "Dışarıdaki şeyleri mi kastediyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82288",
+   "en": "Are you trying to be cryptic, or are you just nuts?",
+   "tr": "Gizemli mi görünmeye çalışıyorsun, yoksa gerçekten deli misin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82291",
+   "en": "And you would be?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82292",
+   "en": "Tell me about the aliens.",
+   "tr": "Bana uzaylılardan bahset."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82293",
+   "en": "Benezia",
+   "tr": "Benezia"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82294",
+   "en": "Your survival",
+   "tr": "Hayatta kalman"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82295",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82298",
+   "en": "How did they get here?",
+   "tr": "Buraya nasıl geldiler?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82299",
+   "en": "What do you know?",
+   "tr": "Ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82317",
+   "en": "Help me beat them.",
+   "tr": "Onları yenmeme yardım et."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82318",
+   "en": "Better her than you.",
+   "tr": "Sen değil de o."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82319",
+   "en": "You did what you had to.",
+   "tr": "Yapman gerekeni yaptın."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82321",
+   "en": "You mean the aliens?",
+   "tr": "Uzaylıları mı kastediyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82322",
+   "en": "You always that vague? ",
+   "tr": "Hep bu kadar belirsiz misin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|82323",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83985",
+   "en": "Why do you think? We know what they did.",
+   "tr": "Ne sanıyorsun? Ne yaptıklarını biliyoruz."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83986",
+   "en": "A team lead would have access. Like Dr. Cohen. He's in the medical bay.",
+   "tr": "Ekip lideri erişebilir. Mesela Dr. Cohen. Sağlık biriminde."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83987",
+   "en": "The company wants to bury their mistake. They sent a Matriarch to make us disappear.",
+   "tr": "Şirket hatalarını gömmek istiyor. Bizi yok etmek için bir Matriarch gönderdiler."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83988",
+   "en": "Benezia? She's ali--? She's here?",
+   "tr": "Benezia mı? Hayat--ta mı? Burada mı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83993",
+   "en": "She ordered Ventralis to send you to the hot labs. She expected the rachni to kill you.",
+   "tr": "Ventralis'e seni sıcak laboratuvarlara göndermesini emretti. Rachni'nin seni öldürmesini bekliyordu."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83994",
+   "en": "Through the checkpoint. Just keep going.",
+   "tr": "Kontrol noktasından. Yürümeye devam et."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83996",
+   "en": "Do whatever you like. I'm getting off this mountain.",
+   "tr": "Ne istersen yap. Ben bu dağdan gidiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83997",
+   "en": "Are you here for me?",
+   "tr": "Benim için mi geldin?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83998",
+   "en": "Do what you want. It doesn't matter.",
+   "tr": "Ne istersen yap. Önemi yok."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|83999",
+   "en": "Get it over with.",
+   "tr": "Bitir şu işi."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84001",
+   "en": "The synthetics that attacked you.",
+   "tr": "Sana saldıran sentetikler."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84002",
+   "en": "I won't let anything happen. Why did she try to kill you?",
+   "tr": "Hiçbir şeyin olmasına izin vermeyeceğim. Seni neden öldürmeye çalıştı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84003",
+   "en": "I need you to listen to me. Are you listening? What happened here?",
+   "tr": "Beni dinlemeni istiyorum. Dinliyor musun? Burada ne oldu?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84004",
+   "en": "How can I get into the maintenance area?",
+   "tr": "Bakım bölümüne nasıl girebilirim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84005",
+   "en": "They're killing the science team. Why?",
+   "tr": "Bilim ekibini öldürüyorlar. Neden?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84013",
+   "en": "Just point me in the right direction.",
+   "tr": "Beni sadece doğru yöne yönlendir."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84017",
+   "en": "Let's go collect the lady.",
+   "tr": "Gidip hanımı alalım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84020",
+   "en": "You mean the ge-- the inorganics the asari had with her?",
+   "tr": "Ge-- Asari'nin yanında getirdiği inorganik varlıkları mı kastediyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84021",
+   "en": "That door's locked. How can I get in?",
+   "tr": "O kapı kilitli. Nasıl girebilirim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84022",
+   "en": "Who came out of what?",
+   "tr": "Kim neyden çıktı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84023",
+   "en": "You're safe with me.",
+   "tr": "Benimle güvendesin."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84024",
+   "en": "Get a hold of yourself.",
+   "tr": "Kendine gel."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84025",
+   "en": "Why were you attacked?",
+   "tr": "Neden saldırıya uğradın?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84033",
+   "en": "Where do I go?",
+   "tr": "Nereye gideyim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84035",
+   "en": "We'll get her.",
+   "tr": "Onu alacağız."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84040",
+   "en": "The geth?",
+   "tr": "Geth mi?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84041",
+   "en": "How do I get in there?",
+   "tr": "Oraya nasıl girerim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84042",
+   "en": "Huh?",
+   "tr": "Hı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|84043",
+   "en": "Can I get into maintenance?",
+   "tr": "Bakıma girebilir miyim?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|85946",
+   "en": "The krogan wiped them out a thousand years ago.",
+   "tr": "Krogan onları bin yıl önce yok etti."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|85947",
+   "en": "The rachni are extinct.",
+   "tr": "Rachni soyu tükendi."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|101473",
+   "en": "Crazy? I'm sane. God, am I sane.",
+   "tr": "Deli mi? Ben aklı başındayım. Tanrım, aklım yerinde."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|101474",
+   "en": "Yes. I'm the only survivor from the hot lab, you know.",
+   "tr": "Evet. Sıcak laboratuvardan sağ kalan tek kişiyim, biliyorsun."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|101475",
+   "en": "I told you all I can. We brought the rachni back from the dead. In retrospect, a bad decision.",
+   "tr": "Söyleyebileceğimin hepsini söyledim. Rachni'yi ölümden geri getirdik. Geriye dönüp bakınca kötü bir karar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|102842",
+   "en": "Benezia brought them with her.",
+   "tr": "Benezia onları yanında getirdi."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|147261",
+   "en": "I need to know everything about the rachni.",
+   "tr": "Rachni hakkında her şeyi bilmem gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|147262",
+   "en": "Tell me about the rachni.",
+   "tr": "Bana rachni'den bahset."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_hanolar_D|163537",
+   "en": "She's there now?",
+   "tr": "Şimdi orada mı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81777",
+   "en": "What do you want?",
+   "tr": "Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81778",
+   "en": "Yeah, right.",
+   "tr": "Evet, tabii."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81780",
+   "en": "I told you to leave.",
+   "tr": "Sana gitmeni söylemiştim."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81781",
+   "en": "You know what's in there? You want to kill us all?",
+   "tr": "İçeride ne olduğunu biliyor musun? Hepimizi öldürmek mi istiyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81782",
+   "en": "I've had four hours of sleep in the last three days. I don't need this.",
+   "tr": "Son üç günde dört saat uyudum. Buna ihtiyacım yok."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81783",
+   "en": "I thought this was going to be a quiet shift.",
+   "tr": "Bunun sakin bir vardiya olacağını sanmıştım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81784",
+   "en": "You're not part of the crew.",
+   "tr": "Mürettebattan değilsin."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81785",
+   "en": "There aren't any human Spectres.",
+   "tr": "İnsan Spectre diye bir şey yok."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81786",
+   "en": "Great. Another human wandering around where they're not wanted.",
+   "tr": "Harika. İstenmedikleri yerlerde dolaşan bir insan daha."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81788",
+   "en": "Look, plague doesn't care who you are. This lab is under quarantine.",
+   "tr": "Bak, veba kim olduğunu umursamaz. Bu laboratuvar karantinada."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81789",
+   "en": "Yeah, he radioed. He also said you have to prove you're not contaminated to get out.",
+   "tr": "Evet, telsizle bildirdi. Ayrıca çıkmak için bulaşık olmadığını kanıtlaman gerektiğini söyledi."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81790",
+   "en": "You got a death wish, you should stand watches on the barricade.",
+   "tr": "Ölüm isteğin varsa barikatta nöbet tutmalısın."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81791",
+   "en": "Nothing. Sorry to bother you.",
+   "tr": "Hiçbir şey. Rahatsız ettiğim için özür dilerim."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81794",
+   "en": "Call me Shepard. I'm a Spectre, sent by the Citadel.",
+   "tr": "Bana Shepard de. Citadel tarafından gönderilen bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81796",
+   "en": "Commander Shepard, Systems Alliance Navy.",
+   "tr": "Komutan Shepard, Sistemler İttifakı Donanması."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81798",
+   "en": "My name's Shepard.",
+   "tr": "Adım Shepard."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81801",
+   "en": "I have Ventralis' permission to go in there.",
+   "tr": "Oraya girmek için Ventralis'in iznim var."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81804",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81807",
+   "en": "I'm a Spectre.",
+   "tr": "Ben bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81808",
+   "en": "Alliance Navy.",
+   "tr": "İttifak Donanması."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81809",
+   "en": "I'm Shepard.",
+   "tr": "Ben Shepard."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_quarantine_guard_D|81810",
+   "en": "I'm here to make a cure.",
+   "tr": "Tedavi yapmaya geldim."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|80840",
+   "en": "Okay, this one'll get you.",
+   "tr": "Tamam, bu seni güldürür."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|80841",
+   "en": "How can you tell jokes?",
+   "tr": "Nasıl şaka yapabiliyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|80842",
+   "en": "So, this hydrogen atom says to another hydrogen: \"I lost my electron!\"",
+   "tr": "Bir hidrojen atomu diğerine diyor ki: \"Elektronumu kaybettim!\""
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|80843",
+   "en": "And the other hydrogen says, \"Man, are you sure?\"",
+   "tr": "Diğer hidrojen de diyor ki: \"Dostum, emin misin?\""
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|80844",
+   "en": "\"I'm positive!\"",
+   "tr": "\"Eminim!\""
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|80845",
+   "en": "Just shut up. God.",
+   "tr": "Kapa çeneni. Tanrım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig06_science_joke_D|97296",
+   "en": "I've heard this one.",
+   "tr": "Bunu duymuştum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig10_lab_exit_D|81851",
+   "en": "Commander. Looks like that asari \"doctor\" killed the guard.",
+   "tr": "Komutan. Görünüşe göre o asari \"doktor\" muhafızı öldürdü."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig10_lab_exit_D|81852",
+   "en": "Huh. The asari garroted the guard. No witnesses.",
+   "tr": "Hı. Asari muhafızı boğdu. Tanık yok."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig10_lab_exit_D|81853",
+   "en": "Commander. Looks like that asari \"doctor\" killed the guard.",
+   "tr": "Komutan. Görünüşe göre o asari \"doktor\" muhafızı öldürdü."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig10_lab_exit_D|81854",
+   "en": "Commander. Looks like that asari \"doctor\" killed the guard.",
+   "tr": "Komutan. Görünüşe göre o asari \"doktor\" muhafızı öldürdü."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig10_lab_exit_D|81855",
+   "en": "She killed the guard, Shepard. Just for being in her way.",
+   "tr": "Muhafızı öldürdü Shepard. Sırf yoluna çıktığı için."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|81856",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|81857",
+   "en": "Then step away from the door.",
+   "tr": "O zaman kapıdan çekil."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|81858",
+   "en": "Could you open the door?",
+   "tr": "Kapıyı açar mısın?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|81859",
+   "en": "Just looking around.",
+   "tr": "Sadece etrafa bakıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|81860",
+   "en": "We need to leave.",
+   "tr": "Gitmemiz lazım."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|81861",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86651",
+   "en": "You have a cure?",
+   "tr": "Elinde bir tedavi var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86652",
+   "en": "Then let's see it.",
+   "tr": "O zaman göster."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86653",
+   "en": "The captain says I'm responsible for you not contaminating everyone. I want to see a cure in your hand.",
+   "tr": "Kaptan, herkese bulaştırmamanızdan benim sorumlu olduğumu söylüyor. Elinde bir tedavi görmek istiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86654",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86656",
+   "en": "Not yet.",
+   "tr": "Henüz değil."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86659",
+   "en": "[LIE] Yes.",
+   "tr": "[LIE] Evet."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|86660",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|120386",
+   "en": "Don't \"what\" me, mister. Open the damn door.",
+   "tr": "\"Ne\" deme bana bayım. Aç şu lanet kapıyı."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|120387",
+   "en": "You have a hearing problem? Let me out.",
+   "tr": "İşitme sorunun mu var? Beni çıkar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|120388",
+   "en": "Let me out.",
+   "tr": "Beni çıkar."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig11_lab_sealed_D|120389",
+   "en": "Open up.",
+   "tr": "Aç."
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig12_olar_execution_D|81879",
+   "en": "Will I get a \"you know too much\" speech?",
+   "tr": "\"Çok şey biliyorsun\" konuşması mı yapacaksın?"
+  },
+  {
+   "key": "BIOA_ICE60_06_DSG_LOC|ice60_trig12_olar_execution_D|81880",
+   "en": "Shut up.",
+   "tr": "Kapa çeneni."
+  }
+ ]
+}

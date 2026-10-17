@@ -1,0 +1,1455 @@
+{
+ "meta": {
+  "package": "BIOA_STA30_04A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA30_04A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 5
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80425",
+   "en": "No offense, Commander, but what the hell were you thinking?",
+   "tr": "Alınmayın, Komutan ama ne düşünüyordunuz?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80426",
+   "en": "You could've blown Jenna's cover.",
+   "tr": "Jenna'nın örtüsünü bozabilirdiniz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80427",
+   "en": "We were there to help her get out.",
+   "tr": "Onun çıkmasına yardım etmek için oradaydık."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80428",
+   "en": "I gathered that. It might seem cold letting her take all the risk. But we're keeping a close eye on her.",
+   "tr": "Anladım. Tüm riski onun almasına izin vermek soğuk görünebilir. Ama onu yakından izliyoruz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80429",
+   "en": "This job isn't easy and it's usually unpleasant. I'll take help anywhere I can find it.",
+   "tr": "Bu iş kolay değil ve genelde hoş da değil. Bulduğum her yardımı alırım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80430",
+   "en": "But since you're so concerned with her safety, maybe there's a way we can help each other.",
+   "tr": "Ama onun güvenliği bu kadar önemliyse belki birbirimize yardım edebiliriz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80431",
+   "en": "You C-Sec grunts are always trying to play the angles.",
+   "tr": "Siz C-Sec neferleri hep açı oynamaya çalışıyorsunuz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80432",
+   "en": "It's part of the job. Now are you going to help me or not?",
+   "tr": "İşin parçası. Şimdi bana yardım edecek misin, etmeyecek misin?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80433",
+   "en": "I do have several contingencies; she's just my option \"A\".",
+   "tr": "Birkaç acil durum planım var; o sadece \"A\" seçeneğim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80434",
+   "en": "Okay, maybe you're right. She's not really cut out for this, anyway.",
+   "tr": "Tamam, belki haklısın. Zaten bu iş için pek uygun değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80435",
+   "en": "I'll cut her loose, even get her out of Chora's Den, no strings attached. But....",
+   "tr": "Onu serbest bırakırım, hatta Chora's Den'den çıkarırım, hiçbir koşul olmadan. Ama..."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80436",
+   "en": "That still leaves my case unsolved. I could still use your help.",
+   "tr": "Bu hâlâ davamı çözülmemiş bırakıyor. Yine de yardımınızdan yararlanabilirim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80437",
+   "en": "I'm trying to track down an illegal arms producer. I just need some of their product.",
+   "tr": "Yasadışı bir silah üreticisinin izini sürmeye çalışıyorum. Ürünlerinden bazılarına ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80438",
+   "en": "Thanks to Jenna's intel, I've learned there's a seller here on the Citadel.",
+   "tr": "Jenna'nın istihbaratı sayesinde Citadel'de bir satıcı olduğunu öğrendim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80439",
+   "en": "Meet our man, named Jax, pick up the mods and bring them back here. That'll give me everything I need.",
+   "tr": "Jax adındaki adamımızla buluş, modları al ve buraya getir. Bu bana ihtiyacım olan her şeyi verir."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80440",
+   "en": "Come on, Commander, we're on the same side here.",
+   "tr": "Hadi, Komutan, aynı taraftayız."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80441",
+   "en": "Fine. But Jenna stays right where she is until this case is solved.",
+   "tr": "Peki. Ama Jenna dava çözülene dek olduğu yerde kalıyor."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80442",
+   "en": "All right. I think we're done here, then. I'll have Jenna removed from Chora's Den, just like I said.",
+   "tr": "Pekâlâ. Sanırım burada işimiz bitti. Dediğim gibi Jenna'yı Chora's Den'den çıkartacağım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80447",
+   "en": "I don't follow you.",
+   "tr": "Anlamıyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80450",
+   "en": "It's too dangerous. You need to find another way.",
+   "tr": "Çok tehlikeli. Başka bir yol bulmalısın."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80451",
+   "en": "Do you really need to risk her life to get the information you want?",
+   "tr": "İstediğin bilgiyi almak için gerçekten onun hayatını riske atman gerekiyor mu?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80452",
+   "en": "But you're still using her.",
+   "tr": "Ama yine de onu kullanıyorsun."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80456",
+   "en": "You're a smart guy, Chellick. Figure out another way.",
+   "tr": "Akıllı bir adamsın, Chellick. Başka bir yol bul."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80458",
+   "en": "Come on, Chellick. Do you really need a little human girl to help you solve your case?",
+   "tr": "Hadi, Chellick. Davanı çözmek için gerçekten küçük bir insan kıza ihtiyacın var mı?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80461",
+   "en": "I'll help you, but I need some details.",
+   "tr": "Sana yardım edeceğim ama bazı ayrıntılara ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80464",
+   "en": "I'll persuade Jax to tell me where these mods are coming from.",
+   "tr": "Jax'i bu modların nereden geldiğini söylemeye ikna edeceğim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80465",
+   "en": "Where can I find this Jax?",
+   "tr": "Bu Jax'i nerede bulurum?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80466",
+   "en": "Why are you so concerned about these mods?",
+   "tr": "Bu modlar seni neden bu kadar ilgilendiriyor?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80467",
+   "en": "This is just too much work.",
+   "tr": "Bu çok fazla iş."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80468",
+   "en": "Sorry, Chellick, it's not going to happen.",
+   "tr": "Üzgünüm, Chellick, olmayacak."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80471",
+   "en": "What makes them illegal?",
+   "tr": "Onları yasadışı yapan ne?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80472",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80475",
+   "en": "Sorry?",
+   "tr": "Efendim?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80478",
+   "en": "Get her out.",
+   "tr": "Onu çıkar."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80479",
+   "en": "Is it worth it?",
+   "tr": "Buna değer mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80480",
+   "en": "I saw that.",
+   "tr": "Gördüm."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80484",
+   "en": "You don't need her.",
+   "tr": "Ona ihtiyacın yok."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80485",
+   "en": "Pathetic.",
+   "tr": "Zavallı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80486",
+   "en": "All right. What do you need?",
+   "tr": "Peki. Neye ihtiyacın var?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80487",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80493",
+   "en": "I could just ask him.",
+   "tr": "Ona sorabilirim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|80494",
+   "en": "Sounds good.",
+   "tr": "Kulağa iyi geliyor."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81251",
+   "en": "What do you suppose happens when we lose that edge?",
+   "tr": "O avantajı kaybettiğimizde ne olacağını sanıyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81252",
+   "en": "These give criminals an advantage we can't afford to let them keep.",
+   "tr": "Bunlar suçlulara elimizden kaçırmayı göze alamayacağımız bir avantaj sağlıyor."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81253",
+   "en": "No. You tip Jax off and all my leads will disappear faster than you can say \"bad bust\".",
+   "tr": "Hayır. Jax'i uyarırsan tüm ipuçlarım \"kötü baskın\" demenden hızlı kaybolur."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81254",
+   "en": "Jax is down in the lower level of the markets. I'll send word through our channels that you're the buyer.",
+   "tr": "Jax çarşıların alt katında. Alıcı olduğunu kanallarımız aracılığıyla haber vereceğim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81255",
+   "en": "That's it? Just buy the weapons?",
+   "tr": "Hepsi bu mu? Sadece silahları almak mı?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81256",
+   "en": "That's it. Now, Jax will have his boys with him, but I don't want this turning into a firefight.",
+   "tr": "Hepsi bu. Jax yanında adamlarıyla olacak ama bunun çatışmaya dönüşmesini istemiyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81257",
+   "en": "Good luck, Commander.",
+   "tr": "İyi şanslar, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81258",
+   "en": "We have access to some of the most sophisticated weaponry there is. It's what gives us our edge.",
+   "tr": "Var olan en sofistike silahların bazılarına erişimimiz var. Bize avantajımızı veren bu."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81259",
+   "en": "This'll be over quickly.",
+   "tr": "Bu çabuk biter."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81260",
+   "en": "I'll make sure that things don't get out of hand.",
+   "tr": "İşlerin elden çıkmamasını sağlarım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81269",
+   "en": "I'll get going.",
+   "tr": "Gidiyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81270",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81273",
+   "en": "I can talk to this Jax.",
+   "tr": "Bu Jax'le konuşabilirim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|81274",
+   "en": "I see your point.",
+   "tr": "Haklı olduğunu görüyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85048",
+   "en": "What the hell happened down there, Commander?",
+   "tr": "Aşağıda ne oldu böyle, Komutan?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85049",
+   "en": "Commander. I hear you have something for me.",
+   "tr": "Komutan. Bende bir şey olduğunu duydum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85050",
+   "en": "Excellent. This is everything I need. Hmm... maybe more than I need.",
+   "tr": "Mükemmel. İhtiyacım olan her şey bu. Hmm... belki ihtiyacımdan fazlası."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85051",
+   "en": "As for Jenna, I'll make sure we get her out of Chora's Den immediately.",
+   "tr": "Jenna'ya gelince, onu hemen Chora's Den'den çıkaracağımızdan emin olacağım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85052",
+   "en": "I appreciate your help. It shows a lot of integrity. You didn't need to do anything after I let Jenna go.",
+   "tr": "Yardımınızı takdir ediyorum. Çok dürüstlük gösteriyor. Jenna'yı bıraktıktan sonra bir şey yapmanıza gerek yoktu."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85054",
+   "en": "Commander. Been to see Jax yet?",
+   "tr": "Komutan. Jax'i gördünüz mü?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85055",
+   "en": "Good. Don't keep Jax waiting too long.",
+   "tr": "İyi. Jax'i çok bekletmeyin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85056",
+   "en": "Jax needed killing. Here's your shipment.",
+   "tr": "Jax'in öldürülmesi gerekiyordu. İşte sevkiyatın."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85057",
+   "en": "Here's your shipment, Chellick.",
+   "tr": "İşte sevkiyatın, Chellick."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85060",
+   "en": "I'll get to it soon.",
+   "tr": "Yakında hallederim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85061",
+   "en": "Tell me again where I can find him.",
+   "tr": "Onu nerede bulacağımı bir daha söyle."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85062",
+   "en": "I didn't like him.",
+   "tr": "Ondan hoşlanmadım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85064",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85067",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85068",
+   "en": "Where's Jax?",
+   "tr": "Jax nerede?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|85069",
+   "en": "Not yet.",
+   "tr": "Henüz değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88470",
+   "en": "Damn it. I've got to get on this right away, before Jax's superiors get wind of his death.",
+   "tr": "Kahretsin. Jax'in üstleri ölümünden haberdar olmadan hemen harekete geçmeliyim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88472",
+   "en": "Jenna will be removed from harm's way.",
+   "tr": "Jenna tehlikeden uzaklaştırılacak."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88473",
+   "en": "You've put me in a bit of bind here, Commander.",
+   "tr": "Beni biraz zor durumda bıraktınız, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88474",
+   "en": "Now, I need to the get these mods into evidence. Thanks again, Shepard.",
+   "tr": "Şimdi bu modları delil olarak kaydetmem gerek. Tekrar teşekkürler, Shepard."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88475",
+   "en": "See yourself out when you're ready.",
+   "tr": "Hazır olduğunuzda çıkış yolunu kendiniz bulun."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88476",
+   "en": "Quit your whining. Here's your shipment.",
+   "tr": "Sızlanmayı kes. İşte sevkiyatın."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88477",
+   "en": "What about our deal?",
+   "tr": "Peki ya anlaşmamız?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88483",
+   "en": "Shut up.",
+   "tr": "Kapa çeneni."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|88484",
+   "en": "Get her out.",
+   "tr": "Onu çıkar."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|89481",
+   "en": "Commander. I'm a little busy right now.",
+   "tr": "Komutan. Şu an biraz meşgulüm."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|89482",
+   "en": "Good to see you, Commander.",
+   "tr": "Sizi görmek güzel, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|89484",
+   "en": "Not now.",
+   "tr": "Şimdi değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|89485",
+   "en": "I'm busy, Commander.",
+   "tr": "Meşgulüm, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|89486",
+   "en": "Here, Commander, take this. I won't need it and you've earned some payment for your work.",
+   "tr": "Buyurun, Komutan, bunu alın. Bana gerekmez ve işiniz için biraz ödemeyi hak ettiniz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|89499",
+   "en": "What do you need?",
+   "tr": "Neye ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101219",
+   "en": "We were there to help her.",
+   "tr": "Ona yardım etmek için oradaydık."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101220",
+   "en": "Always thinking ahead, Detective?",
+   "tr": "Hep bir adım önde mi düşünüyorsun, Dedektif?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101221",
+   "en": "Always playing the angles, Detective?",
+   "tr": "Hep açı mı oynuyorsun, Dedektif?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101222",
+   "en": "Shrewd, Detective.",
+   "tr": "Kurnaz, Dedektif."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101223",
+   "en": "Nice to see you're still working all the angles, Chellick.",
+   "tr": "Hâlâ tüm açıları denediğini görmek güzel, Chellick."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101225",
+   "en": "Just buy the weapons? That's it?",
+   "tr": "Sadece silahları almak mı? Hepsi bu mu?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101226",
+   "en": "You just want us to buy the weapons? That's it?",
+   "tr": "Sadece silahları almamızı mı istiyorsun? Hepsi bu mu?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101227",
+   "en": "Just buy the weapons? That's it?",
+   "tr": "Sadece silahları almak mı? Hepsi bu mu?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101228",
+   "en": "So we just purchase these weapons?",
+   "tr": "Yani bu silahları satın mı alıyoruz?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101229",
+   "en": "We were there to help her.",
+   "tr": "Ona yardım etmek için oradaydık."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101230",
+   "en": "We were trying to help her.",
+   "tr": "Ona yardım etmeye çalışıyorduk."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|101231",
+   "en": "We were just getting information, Chellick.",
+   "tr": "Biz sadece bilgi alıyorduk, Chellick."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104572",
+   "en": "It's not that simple, Shepard.",
+   "tr": "O kadar basit değil, Shepard."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104573",
+   "en": "Excuse me?",
+   "tr": "Efendim?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104574",
+   "en": "Watch your tone, Chellick.",
+   "tr": "Tonuna dikkat et, Chellick."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104576",
+   "en": "Jenna first.",
+   "tr": "Önce Jenna."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104577",
+   "en": "Don't cross me.",
+   "tr": "Bana oyun oynama."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104578",
+   "en": "Keeping tabs on me?",
+   "tr": "Beni mi izliyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104579",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104580",
+   "en": "Careful.",
+   "tr": "Dikkatli ol."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|104582",
+   "en": "All right.",
+   "tr": "Pekâlâ."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|124168",
+   "en": "So long, Chellick.",
+   "tr": "Hoşça kal, Chellick."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|124169",
+   "en": "Long shifts, short nights?",
+   "tr": "Uzun vardiyalar, kısa geceler mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|124170",
+   "en": "Work keeping you up at nights, Chellick?",
+   "tr": "İş geceleri uykunu kaçırıyor mu, Chellick?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|124173",
+   "en": "Bye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|124174",
+   "en": "Tough.",
+   "tr": "Kötü şans."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|124175",
+   "en": "Sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|163995",
+   "en": "Sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|172535",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|172536",
+   "en": "Sure.",
+   "tr": "Tabii."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_chellik_D|172538",
+   "en": "Alright.",
+   "tr": "Peki."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76291",
+   "en": "Hey there-- oh. You're not C-Sec, are you? Did you want something?",
+   "tr": "Merhaba... ah. C-Sec değilsin, değil mi? Bir şey mi istedin?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76292",
+   "en": "I think I'll be going.",
+   "tr": "Sanırım gideyim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76293",
+   "en": "What were you trying to explain to the officer before?",
+   "tr": "Az önce subaya ne anlatmaya çalışıyordun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76294",
+   "en": "What are you doing here?",
+   "tr": "Burada ne yapıyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76295",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76296",
+   "en": "I overheard you.",
+   "tr": "Seni duydum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|76297",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77842",
+   "en": "Oh. All right then.",
+   "tr": "Ah. Peki o zaman."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77843",
+   "en": "I am Jahleed. I came here to seek aid from the authorities, but they won't listen to me.",
+   "tr": "Ben Jahleed. Yetkililerden yardım istemeye geldim ama beni dinlemiyorlar."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77844",
+   "en": "My colleague is trying to kill me. And I thought we were friends.",
+   "tr": "İş arkadaşım beni öldürmeye çalışıyor. Ve ben arkadaş olduğumuzu sanıyordum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77845",
+   "en": "He's changed. He won't talk to me at work any more, and... he started following me.",
+   "tr": "Değişti. İşte benimle artık konuşmuyor ve... beni takip etmeye başladı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77846",
+   "en": "Yesterday, he followed me all the way home. Just waiting for a chance.",
+   "tr": "Dün beni evime kadar takip etti. Sadece fırsat bekliyordu."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77848",
+   "en": "I don't care what anyone thinks; he wants me gone. I know it.",
+   "tr": "Kimsenin ne düşündüğü umurumda değil; benim gitmemi istiyor. Biliyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77849",
+   "en": "Would you? That's all I want: someone to talk to him. Tell him to leave me alone.",
+   "tr": "Eder misiniz? İstediğim tek şey biri onunla konuşsun. Beni rahat bırakmasını söylesin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77851",
+   "en": "He thinks he can just push me around, but you'll show him, won't you?",
+   "tr": "Beni itip kakabileceğini sanıyor ama siz ona gösterirsiniz, değil mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77852",
+   "en": "Oh, right. Well, he wanted to meet with me down in the wards, near the markets. He said he just wanted to talk, but I know better.",
+   "tr": "Ah, doğru. Şey, Wards'ta, çarşıların yakınında benimle buluşmak istedi. Sadece konuşmak istediğini söyledi ama ben daha iyisini biliyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77853",
+   "en": "His name's Chorban. He's a salarian. You shouldn't have any trouble. He's just a scientist.",
+   "tr": "Adı Chorban. Bir salarian. Sorun yaşamazsınız. O sadece bir bilim insanı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77854",
+   "en": "I've met some dangerous scientists in my time.",
+   "tr": "Zamanında bazı tehlikeli bilim insanlarıyla tanıştım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77855",
+   "en": "Um, I suppose you're right. Well, good luck. Let me know what he says.",
+   "tr": "Şey, sanırım haklısınız. Şey, iyi şanslar. Ne dediğini bana bildirin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77856",
+   "en": "All right. You're not the first one to say so. Goodbye, then.",
+   "tr": "Peki. Bunu söyleyen ilk siz değilsiniz. O zaman hoşça kalın."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77857",
+   "en": "Oh, there you are. Have you spoken with Chorban yet?",
+   "tr": "Ah, buradasınız. Chorban'la konuştunuz mu?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77858",
+   "en": "Oh, I think you'll find him down in the wards, near the markets. Good luck.",
+   "tr": "Ah, sanırım onu Wards'ta, çarşıların yakınında bulacaksınız. İyi şanslar."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77860",
+   "en": "How do you know he wants you dead?",
+   "tr": "Seni öldürmek istediğini nereden biliyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77864",
+   "en": "Is there something I can do? Talk to your friend, maybe?",
+   "tr": "Yapabileceğim bir şey var mı? Belki arkadaşınla konuşurum?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77868",
+   "en": "Just tell me where he is and I'll go find him.",
+   "tr": "Nerede olduğunu söyle, gidip onu bulurum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77872",
+   "en": "I don't have time for this right now.",
+   "tr": "Şu an bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77873",
+   "en": "I haven't gone there yet.",
+   "tr": "Henüz oraya gitmedim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77874",
+   "en": "I'll get to it when I get to it.",
+   "tr": "Sırası gelince hallederim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77875",
+   "en": "Where is Chorban again?",
+   "tr": "Chorban yine nerede?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77877",
+   "en": "Kill you?",
+   "tr": "Seni öldürmek mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77878",
+   "en": "What do you need?",
+   "tr": "Neye ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77879",
+   "en": "Can't help you.",
+   "tr": "Yardım edemem."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77886",
+   "en": "I'll talk to him.",
+   "tr": "Onunla konuşacağım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77890",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77891",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77892",
+   "en": "Directions.",
+   "tr": "Yol tarifi."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77985",
+   "en": "Of course, I'm sure you will deal with it appropriately. Good luck.",
+   "tr": "Elbette, eminim uygun şekilde ilgilenirsiniz. İyi şanslar."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77986",
+   "en": "Oh, it's you again. They still won't believe me, you know. Nobody believes me.",
+   "tr": "Ah, yine siz. Yine de bana inanmıyorlar, biliyorsunuz. Kimse inanmıyor."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77987",
+   "en": "What won't anybody believe?",
+   "tr": "Kimse neye inanmıyor?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77988",
+   "en": "I'll just be on my way.",
+   "tr": "Yoluma gidiyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77989",
+   "en": "What do you want us to believe?",
+   "tr": "Bizim neye inanmamızı istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77990",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77991",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|77992",
+   "en": "Really?",
+   "tr": "Gerçekten mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78074",
+   "en": "But I can't. What will happen to the data when I'm gone? Who will carry on our research?",
+   "tr": "Ama yapamam. Gittiğimde verilere ne olacak? Araştırmamızı kim sürdürecek?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78075",
+   "en": "You should've thought of that before you stole the data.",
+   "tr": "Verileri çalmadan önce bunu düşünmeliydin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78076",
+   "en": "But this data could be used to unravel all the secrets of the keepers! Think what we could learn about the Citadel!",
+   "tr": "Ama bu veri bekçilerin tüm sırlarını çözmek için kullanılabilir! Citadel hakkında neler öğrenebileceğimizi bir düşünün!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78077",
+   "en": "Well, it's still very preliminary. But our initial scans suggest the keepers are as old as the Citadel itself. ",
+   "tr": "Şey, hâlâ çok ön aşamada. Ama ilk taramalarımız bekçilerin Citadel'in kendisi kadar eski olduğunu gösteriyor."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78079",
+   "en": "We might learn how the Citadel was built. Or why the keepers always rearrange things. The possibilities are limitless!",
+   "tr": "Citadel'in nasıl inşa edildiğini öğrenebiliriz. Ya da bekçilerin her şeyi neden hep yeniden düzenlediğini. Olasılıklar sınırsız!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78080",
+   "en": "I suppose I should. All right, I'll take it back and continue work on it there.",
+   "tr": "Sanırım yapmalıyım. Peki, geri götürüp orada çalışmaya devam edeceğim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78081",
+   "en": "No, please. I'll do anything. I've got credits. Let me go and you can have them, all of them.",
+   "tr": "Hayır, lütfen. Her şeyi yaparım. Param var. Bırakın gideyim, hepsi sizin olsun."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78082",
+   "en": "What's going on over here? Is this volus causing you some trouble, Commander?",
+   "tr": "Burada neler oluyor? Bu volus size sorun mu çıkarıyor, Komutan?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78083",
+   "en": "Really? I think you'd better come with me.",
+   "tr": "Gerçekten mi? Bence benimle gelsen iyi olur."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78084",
+   "en": "But....",
+   "tr": "Ama..."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78085",
+   "en": "I'll take it from here, Commander. Thanks for your help.",
+   "tr": "Buradan sonrasını ben hallederim, Komutan. Yardımınız için teşekkürler."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78086",
+   "en": "But the data! You don't know what you've done!",
+   "tr": "Ama veriler! Ne yaptığını bilmiyorsun!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78087",
+   "en": "All right, save it for your lawyer.",
+   "tr": "Tamam, bunu avukatına sakla."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78088",
+   "en": "If you say so. I'll be right over here if you change your mind.",
+   "tr": "Sen öyle diyorsan. Fikrini değiştirirsen şuradayım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78089",
+   "en": "Thank you. That was too close.",
+   "tr": "Teşekkür ederim. Çok yakındı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78090",
+   "en": "Oh, right. There you go. That's just about everything I've got.",
+   "tr": "Ah, doğru. Buyurun. Bende kalan hemen her şey bu."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78091",
+   "en": "All right, I will. I'll take it back to work and continue developing it there.",
+   "tr": "Peki, yapacağım. İşe geri götürüp orada geliştirmeye devam edeceğim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78092",
+   "en": "Thank you for not turning me in. I'll make the most of this second chance, I promise you.",
+   "tr": "Beni ihbar etmediğiniz için teşekkürler. Bu ikinci şansı en iyi şekilde değerlendireceğim, size söz veriyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78093",
+   "en": "Um... Commander? Would you be interested in helping me study the keepers?",
+   "tr": "Şey... Komutan? Bekçileri incelememe yardım etmekle ilgilenir misiniz?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78094",
+   "en": "Hello again. Did you have any luck finding Chorban?",
+   "tr": "Yeniden merhaba. Chorban'ı bulabildiniz mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78095",
+   "en": "But I didn't do anything to you!",
+   "tr": "Ama ben sana hiçbir şey yapmadım!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78096",
+   "en": "Lying? Why would I lie to you?",
+   "tr": "Yalan mı? Neden size yalan söyleyeyim?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78097",
+   "en": "What about the keeper data? We know about that.",
+   "tr": "Peki ya bekçi verileri? Onu biliyoruz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78098",
+   "en": "Uh, he told you? I didn't mean for any of this to happen.",
+   "tr": "Şey, size mi söyledi? Bunların hiçbirinin olmasını istememiştim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78099",
+   "en": "I was afraid Chorban would kill me to get the data, so I... well, I was hoping you'd take care of him.",
+   "tr": "Chorban'ın verileri almak için beni öldüreceğinden korktum, bu yüzden... şey, onunla sizin ilgilenmenizi umdum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78102",
+   "en": "This is serious, Jahleed. You could spend the rest of your life locked up.",
+   "tr": "Bu ciddi, Jahleed. Hayatının geri kalanını hapiste geçirebilirsin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78103",
+   "en": "I can't let this continue any further. I'm reporting what you did.",
+   "tr": "Bunun daha fazla sürmesine izin veremem. Yaptıklarını bildiriyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78106",
+   "en": "Tell me more about this data.",
+   "tr": "Bana bu verilerden daha fazla bahset."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78109",
+   "en": "If it's that important, then take it back to the people it belongs to.",
+   "tr": "O kadar önemliyse ait olduğu insanlara geri götür."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78110",
+   "en": "I can't let your actions go unpunished.",
+   "tr": "Eylemlerinin cezasız kalmasına izin veremem."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78112",
+   "en": "He's admitted to stealing data from his workplace.",
+   "tr": "İşyerinden veri çaldığını itiraf etti."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78117",
+   "en": "Everything's okay, Officer. Thanks for asking.",
+   "tr": "Her şey yolunda, subay. Sorduğunuz için teşekkürler."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78119",
+   "en": "Now you can return the favor by filling up my bank account.",
+   "tr": "Şimdi karşılığında banka hesabımı doldurabilirsin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78121",
+   "en": "Return the data or I'll have you arrested, right here, right now.",
+   "tr": "Verileri geri ver yoksa seni burada, şimdi tutuklatırım."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78123",
+   "en": "Have a nice day, Jahleed.",
+   "tr": "İyi günler, Jahleed."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78124",
+   "en": "Just go.",
+   "tr": "Sadece git."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78125",
+   "en": "I killed him, and I've come back for you.",
+   "tr": "Onu öldürdüm ve sana geri döndüm."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78126",
+   "en": "I found out you've been lying to me, Jahleed.",
+   "tr": "Bana yalan söylediğini öğrendim, Jahleed."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78129",
+   "en": "He's dead.",
+   "tr": "Öldü."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78130",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78134",
+   "en": "You're in trouble.",
+   "tr": "Başın belada."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78135",
+   "en": "You idiot!",
+   "tr": "Aptal!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78136",
+   "en": "I'm turning you in.",
+   "tr": "Seni ihbar ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78139",
+   "en": "Go on.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78140",
+   "en": "Explain.",
+   "tr": "Açıkla."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78143",
+   "en": "Then do it legally.",
+   "tr": "O zaman yasal yoldan yap."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78144",
+   "en": "Too bad.",
+   "tr": "Çok yazık."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78145",
+   "en": "Take it back!",
+   "tr": "Geri al!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78147",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78148",
+   "en": "We're fine.",
+   "tr": "İyiyiz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78154",
+   "en": "Payment.",
+   "tr": "Ödeme."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78157",
+   "en": "Fine.",
+   "tr": "Peki."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78158",
+   "en": "Whatever.",
+   "tr": "Her neyse."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|78159",
+   "en": "Good.",
+   "tr": "İyi."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90224",
+   "en": "Oh, it's you. Did you change your mind? Do you have time to help me now?",
+   "tr": "Ah, sizsiniz. Fikrinizi mi değiştirdiniz? Şimdi yardım edecek vaktiniz var mı?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90225",
+   "en": "I just want someone to talk to my colleague. He's been acting strange and I think he wants to kill me.",
+   "tr": "Sadece biri iş arkadaşımla konuşsun istiyorum. Tuhaf davranıyor ve beni öldürmek istediğini düşünüyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90226",
+   "en": "What did you need?",
+   "tr": "Neye ihtiyacın vardı?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90227",
+   "en": "No thanks.",
+   "tr": "Hayır, sağ ol."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90228",
+   "en": "How can I help?",
+   "tr": "Nasıl yardım edebilirim?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90229",
+   "en": "Sure.",
+   "tr": "Tabii."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90379",
+   "en": "This is not good.",
+   "tr": "Bu hiç iyi değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90380",
+   "en": "Why won't anyone believe me?",
+   "tr": "Neden kimse bana inanmıyor?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|90381",
+   "en": "I'm not leaving until somebody looks into this.",
+   "tr": "Biri bunu araştırana dek gitmiyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101258",
+   "en": "Some scientists can be very dangerous.",
+   "tr": "Bazı bilim insanları çok tehlikeli olabilir."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101259",
+   "en": "Well, good luck.",
+   "tr": "Şey, iyi şanslar."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101260",
+   "en": "What about the keeper data?",
+   "tr": "Peki ya bekçi verileri?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101261",
+   "en": "You forgot to mention the data about the keeper.",
+   "tr": "Bekçiyle ilgili verileri söylemeyi unutmuşsun."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101262",
+   "en": "What about the data? You did not mentioned that before.",
+   "tr": "Ya veriler? Bunu daha önce söylemedin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101263",
+   "en": "You lied to us about the keeper data.",
+   "tr": "Bekçi verileri hakkında bize yalan söyledin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101264",
+   "en": "It's a bit late to be thinking about that.",
+   "tr": "Bunu düşünmek için biraz geç."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101265",
+   "en": "Too late, volus. You had your chance.",
+   "tr": "Çok geç, volus. Şansın vardı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101266",
+   "en": "You should've thought of that sooner.",
+   "tr": "Daha önce düşünmeliydin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101267",
+   "en": "It's a shame, but you should have considered the consequences before you acted.",
+   "tr": "Yazık ama harekete geçmeden önce sonuçlarını düşünmeliydin."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101287",
+   "en": "I don't care.",
+   "tr": "Umurumda değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|101288",
+   "en": "Yes. I'll help you.",
+   "tr": "Evet. Sana yardım edeceğim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121585",
+   "en": "Well, I thought I'd ask. So long.",
+   "tr": "Şey, sormak istedim. Hoşça kalın."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121586",
+   "en": "Just take this scanner. Every time you see a keeper, scan it.",
+   "tr": "Şu tarayıcıyı al. Bir bekçi gördüğünde tara."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121587",
+   "en": "Whenever you get a unique scan I'll reimburse you. That's it.",
+   "tr": "Benzersiz bir tarama aldığında seni geri ödeyeceğim. Hepsi bu."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121588",
+   "en": "Good luck, and so long.",
+   "tr": "İyi şanslar ve hoşça kal."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121589",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121590",
+   "en": "What do you need me to do?",
+   "tr": "Benden ne yapmamı istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121593",
+   "en": "Sounds interesting.",
+   "tr": "İlginç geliyor."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121594",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|121595",
+   "en": "Sure.",
+   "tr": "Tabii."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145282",
+   "en": "You're... you're helping us? But... well, if you say so.",
+   "tr": "Siz... bize yardım mı ediyorsunuz? Ama... siz öyle diyorsanız."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145283",
+   "en": "Well, if Chorban can forgive and forget, then so can I.",
+   "tr": "Şey, Chorban affedip unutabilirse ben de edebilirim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145284",
+   "en": "I appreciate the help, Commander. I better go get that data analyzed.",
+   "tr": "Yardımınızı takdir ediyorum, Komutan. Gidip şu verileri analiz ettirsem iyi olur."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145287",
+   "en": "Chorban? That's the guy who asked us to scan the keepers.",
+   "tr": "Chorban mı? Bizden bekçileri taramamızı isteyen adam."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145288",
+   "en": "Chorban? That's the guy who asked us to scan the keepers.",
+   "tr": "Chorban mı? Bizden bekçileri taramamızı isteyen adam."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145289",
+   "en": "Chorban? Isn't that the salarian who asked us to scan the keepers?",
+   "tr": "Chorban mı? Bizden bekçileri taramamızı isteyen salarian değil mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145290",
+   "en": "Chorban? Wasn't that the salarian who asked us to scan the keepers?",
+   "tr": "Chorban mı? Bizden bekçileri taramamızı isteyen salarian o değil miydi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145291",
+   "en": "Chorban? That's the guy who wanted us to scan the keepers.",
+   "tr": "Chorban mı? Bekçileri taramamızı isteyen adam."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145292",
+   "en": "The keepers? Well... even more reason to go after him. That's against regulations.",
+   "tr": "Bekçiler mi? Şey... peşinden gitmek için bir neden daha. Bu yönetmeliklere aykırı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145293",
+   "en": "Anything's possible with Chorban these days.",
+   "tr": "Bugünlerde Chorban'la her şey mümkün."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145296",
+   "en": "I'm scanning the keepers for Chorban. But you two need to stop fighting.",
+   "tr": "Chorban için bekçileri tarıyorum. Ama ikiniz kavgayı bırakmalısınız."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145301",
+   "en": "I'd better look into this right away. Find out what he's up to.",
+   "tr": "Hemen araştırsam iyi olur. Neyin peşinde olduğunu öğreneyim."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145302",
+   "en": "If I find out he's lied to me....",
+   "tr": "Bana yalan söylediğini öğrenirsem..."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145306",
+   "en": "It's okay.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145307",
+   "en": "We're in this together.",
+   "tr": "Bu işte birlikteyiz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145308",
+   "en": "Relax. I'm helping out.",
+   "tr": "Rahat ol. Yardım ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145312",
+   "en": "How can I help?",
+   "tr": "Nasıl yardım edebilirim?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145315",
+   "en": "Good point.",
+   "tr": "İyi nokta."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145316",
+   "en": "Bastard.",
+   "tr": "Alçak."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|145317",
+   "en": "I see.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|153967",
+   "en": "Not now.",
+   "tr": "Şimdi değil."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|153968",
+   "en": "Leave it to me.",
+   "tr": "Bana bırakın."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|153969",
+   "en": "That's a serious claim.",
+   "tr": "Bu ciddi bir iddia."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|163996",
+   "en": "Definitely.",
+   "tr": "Kesinlikle."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|165476",
+   "en": "He didn't make it.",
+   "tr": "Başaramadı."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|165477",
+   "en": "I'm afraid so.",
+   "tr": "Korkarım öyle."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|165478",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|165479",
+   "en": "You idiot!",
+   "tr": "Aptal!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_jahleed_D|171633",
+   "en": "You idiot!",
+   "tr": "Aptal!"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_officer_01_D|77271",
+   "en": "Hello, Commander.",
+   "tr": "Merhaba, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_officer_01_D|89788",
+   "en": "Can't help you right now.",
+   "tr": "Şu an yardım edemem."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_officer_01_D|89789",
+   "en": "Sorry, Commander. I'm just waiting for a report from my supervisor.",
+   "tr": "Üzgünüm, Komutan. Amirimden bir rapor bekliyorum."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_officer_01_D|146205",
+   "en": "Been to Flux's yet?",
+   "tr": "Flux'a gittiniz mi?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75830",
+   "en": "Okay, Jahleed. Let me get this straight. Your business partner... Chorban. He's threatened you?",
+   "tr": "Tamam, Jahleed. Anladığımdan emin olayım. İş ortağın... Chorban. Seni tehdit mi etti?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75831",
+   "en": "Well, no, not exactly. But he wants to meet with me. I think he's going to kill me.",
+   "tr": "Şey, hayır, tam olarak değil. Ama benimle buluşmak istiyor. Sanırım beni öldürecek."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75832",
+   "en": "And why do you think that?",
+   "tr": "Peki bunu neden düşünüyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75833",
+   "en": "I-- I can't really get into the details. But Chorban will kill me if I leave here unprotected.",
+   "tr": "Ben... Ayrıntıya giremem. Ama buradan korumasız çıkarsam Chorban beni öldürür."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75834",
+   "en": "I can't help you. Not unless you give me something more to go on.",
+   "tr": "Sana yardım edemem. Üzerine gideceğim daha fazla bilgi vermedikçe olmaz."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75835",
+   "en": "I-- I can't. I'm sorry.",
+   "tr": "Ben... Yapamam. Üzgünüm."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|75836",
+   "en": "Then I've got other work to do.",
+   "tr": "O zaman yapacak başka işlerim var."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|113720",
+   "en": "But--",
+   "tr": "Ama..."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_01_jahleedfears_D|113721",
+   "en": "But nothing! Don't bother me unless you're willing to give me details.",
+   "tr": "Ama yok! Ayrıntı vermeye istekli olmadıkça beni rahatsız etme."
+  },
+  {
+   "key": "BIOA_STA30_04A_DSG_LOC|sta30_trig_here2see_chellick_D|88493",
+   "en": "Detective Chellick. Come into my office. I want to discuss this in private.",
+   "tr": "Dedektif Chellick. Ofisime gel. Bunu özelde konuşmak istiyorum."
+  }
+ ]
+}

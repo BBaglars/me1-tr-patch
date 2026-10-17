@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "package": "BIOA_STA30_03A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA30_03A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta00_popup_text_D|145642",
+   "en": "You must talk to the Council to gain access to the Wards.",
+   "tr": "Wards'a girmek için Konsey ile konuşmalısınız."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta00_popup_text_D|148499",
+   "en": "The keeper scan has been uploaded to the database.",
+   "tr": "Bekçi taraması veri tabanına yüklendi."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta00_popup_text_D|148500",
+   "en": "You do not have the proper keycard.",
+   "tr": "Uygun anahtar karta sahip değilsiniz."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta00_popup_text_D|163019",
+   "en": "Get to the Quarian and warn her before it's too late!",
+   "tr": "Çok geç olmadan Quarian'a ulaş ve onu uyar!"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88910",
+   "en": "Hello, Commander.",
+   "tr": "Merhaba, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88911",
+   "en": "One sec, looking you up.",
+   "tr": "Bir saniye, sizi arıyorum."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88912",
+   "en": "Commander Shepard, here with the Alliance Military. First time on the Citadel. That about right?",
+   "tr": "Komutan Shepard, İttifak Ordusu'ndan. Citadel'de ilk kez. Doğru mu?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88913",
+   "en": "I'm the C-Sec requisitions officer. I need to make sure our buyers are authorized.",
+   "tr": "Ben C-Sec tedarik subayıyım. Alıcılarımızın yetkili olduğundan emin olmam gerek."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88914",
+   "en": "Just checking for C-Sec records. I can only sell goods to authorized personnel.",
+   "tr": "Sadece C-Sec kayıtlarını kontrol ediyorum. Mallarımı yalnızca yetkili personele satabilirim."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88916",
+   "en": "I'll open the rare stocks for you, Commander. Enjoy.",
+   "tr": "Nadir stokları sizin için açıyorum, Komutan. Keyfini çıkarın."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88917",
+   "en": "Sounds good. Let me just set you up... whoa. This must be a mistake.",
+   "tr": "Güzel. Sizi ayarlayayım... vay. Bu bir hata olmalı."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88918",
+   "en": "System's telling me to offer you our select stock... Spectre?",
+   "tr": "Sistem bana seçkin stoğumuzu sunmamı söylüyor... Spectre?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88920",
+   "en": "Well... I'd heard about that, but I didn't realize it was you. Sorry, Commander.",
+   "tr": "Şey... Bunu duymuştum ama sizin olduğunuzu fark etmedim. Kusura bakmayın, Komutan."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88921",
+   "en": "Excellent. I hope you find what you're looking for.",
+   "tr": "Mükemmel. Aradığınızı bulursunuz umarım."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88922",
+   "en": "Sure thing, Commander. You have a good day, now.",
+   "tr": "Tabii, Komutan. İyi günler."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88924",
+   "en": "How do you know who I am?",
+   "tr": "Kim olduğumu nereden biliyorsun?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88925",
+   "en": "How did you know all that?",
+   "tr": "Bunların hepsini nereden biliyordun?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88926",
+   "en": "Who wants to know?",
+   "tr": "Kim soruyor?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88928",
+   "en": "Show me what you've got.",
+   "tr": "Neyin var göster bakalım."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88932",
+   "en": "Just show me what you've got.",
+   "tr": "Neyin var göster."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88933",
+   "en": "I think I'll be going.",
+   "tr": "Sanırım gideyim."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88935",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88937",
+   "en": "You know me?",
+   "tr": "Beni tanıyor musun?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88938",
+   "en": "Sure is.",
+   "tr": "Elbette."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88939",
+   "en": "Why?",
+   "tr": "Neden?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88941",
+   "en": "I need supplies.",
+   "tr": "Malzemeye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88942",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88946",
+   "en": "I'm done.",
+   "tr": "Bitirdim."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88947",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|88948",
+   "en": "Whatever.",
+   "tr": "Her neyse."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|89111",
+   "en": "So, will you be purchasing anything today, Commander Shepard?",
+   "tr": "Peki bugün bir şey satın alacak mısınız, Komutan Shepard?"
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|171836",
+   "en": "Maybe.",
+   "tr": "Belki."
+  },
+  {
+   "key": "BIOA_STA30_03A_DSG_LOC|sta30_requisition_officer_D|171837",
+   "en": "Why?",
+   "tr": "Neden?"
+  }
+ ]
+}

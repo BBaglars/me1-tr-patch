@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "package": "BIOA_WAR40_05_DSG_LOC_INT.pcc",
+  "stem": "BIOA_WAR40_05_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60771",
+   "en": "The last batch went south. What are they looking for?",
+   "tr": "Son grup ters gitti. Ne arıyorlar?"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60772",
+   "en": "We're picking up a comm signal. It's weak, but there's definitely someone out here.",
+   "tr": "Bir haberleşme sinyali yakalıyoruz. Zayıf ama kesinlikle burada biri var."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60773",
+   "en": "Got some kind of comm signal. It's too weak to pinpoint, but someone is definitely out here.",
+   "tr": "Bir tür haberleşme sinyali yakaladım. Konumunu belirleyemeyecek kadar zayıf ama kesinlikle burada biri var."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60774",
+   "en": "We are receiving a weak comm signal. I cannot pinpoint its location through the geth interference.",
+   "tr": "Zayıf bir haberleşme sinyali alıyoruz. Geth parazitinden dolayı konumunu belirleyemiyorum."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60775",
+   "en": "I'm picking up a comm signal. It's too weak to pinpoint, but there's definitely someone out here.",
+   "tr": "Bir haberleşme sinyali yakalıyorum. Konumunu belirleyemeyecek kadar zayıf ama kesinlikle burada biri var."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60776",
+   "en": "We're receiving a weak comm signal. I can't pinpoint its location through the geth interference.",
+   "tr": "Zayıf bir haberleşme sinyali alıyoruz. Geth parazitinden dolayı konumunu belirleyemiyorum."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60778",
+   "en": "More chatter, Commander Shepard. I still can't get a fix on the location.",
+   "tr": "Daha fazla konuşma Komutan Shepard. Hâlâ konumu belirleyemiyorum."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60779",
+   "en": "More on the comm, Commander, but I still can't get a fix on it.",
+   "tr": "Telsizde daha fazlası Komutan ama hâlâ konumunu belirleyemiyorum."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60780",
+   "en": "More communication, Commander, but I am still unable to pinpoint its origin.",
+   "tr": "Daha fazla iletişim Komutan ama hâlâ kaynağını belirleyemiyorum."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60781",
+   "en": "More chatter, Commander. Still no fix.",
+   "tr": "Daha fazla konuşma Komutan. Hâlâ konum yok."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60782",
+   "en": "More chatter incoming, Commander. Still no fix.",
+   "tr": "Daha fazla konuşma geliyor Komutan. Hâlâ konum yok."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60783",
+   "en": "Any sign of movement? Lizbeth could still be in there. It's only been a few days.",
+   "tr": "Hareket belirtisi var mı? Lizbeth hâlâ orada olabilir. Sadece birkaç gün oldu."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60785",
+   "en": "She's my daughter. I'll wait as long as I have to.",
+   "tr": "Benim kızım. Gerektiği kadar beklerim."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60787",
+   "en": "We've got movement... some kind of vehicle. Not one of the geth.",
+   "tr": "Hareket var... bir tür araç. Geth'ten değil."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60788",
+   "en": "They've got us on visual. We must be close.",
+   "tr": "Bizi görüyorlar. Yakın olmalıyız."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60789",
+   "en": "They're not our concern. We need to find those geth.",
+   "tr": "Onlar bizim endişemiz değil. O geth'i bulmalıyız."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60791",
+   "en": "Shouldn't we be more concerned about the geth?",
+   "tr": "Geth konusunda daha çok endişelenmemiz gerekmez mi?"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60792",
+   "en": "Forget them. We need to deal with the geth.",
+   "tr": "Onları boş ver. Geth'le ilgilenmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60793",
+   "en": "We should deal with the geth first.",
+   "tr": "Önce geth'le ilgilenmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60794",
+   "en": "Dealing with the geth is more important.",
+   "tr": "Geth'le ilgilenmek daha önemli."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60795",
+   "en": "They've seen us. They must be nearby.",
+   "tr": "Bizi görmüşler. Yakında olmalılar."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60796",
+   "en": "Sounds like they've spotted us. They must be close.",
+   "tr": "Bizi fark etmişler gibi. Yakın olmalılar."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60797",
+   "en": "They must be close enough to see us.",
+   "tr": "Bizi görecek kadar yakın olmalılar."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60798",
+   "en": "Whoever that is, they must be close to have seen us.",
+   "tr": "Kim olursa olsun, bizi görecek kadar yakın olmalı."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60800",
+   "en": "They're coming right for us. Damn it! Is this comm unshielded? Son of a b--",
+   "tr": "Doğruca bize geliyorlar. Kahretsin! Bu telsiz korumasız mı? Seni--"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60801",
+   "en": "We seem to have alarmed them.",
+   "tr": "Sanırım onları alarma geçirdik."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60802",
+   "en": "We seem to have caused some concern.",
+   "tr": "Sanırım biraz endişe yarattık."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60803",
+   "en": "That got their attention.",
+   "tr": "Bu dikkatlerini çekti."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60804",
+   "en": "Sounds like that got their attention.",
+   "tr": "Dikkatlerini çekmiş gibi."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60805",
+   "en": "Well, we won't be surprising them.",
+   "tr": "Şey, onları şaşırtmayacağız."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|60807",
+   "en": "It's moving off, right to the ExoGeni headquarters.",
+   "tr": "Uzaklaşıyor, doğruca ExoGeni karargâhına."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|77157",
+   "en": "Proceed to WAR40(refugee camp) or WAR50(ExoGeni building/geth base)",
+   "tr": "WAR40 (mülteci kampı) ya da WAR50 (ExoGeni binası/geth üssü) yönüne ilerleyin"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|77158",
+   "en": "WAR40 (refugee camp)",
+   "tr": "WAR40 (mülteci kampı)"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|77159",
+   "en": "WAR50(ExoGeni/geth base)",
+   "tr": "WAR50 (ExoGeni/geth üssü)"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|77160",
+   "en": "WAR40 (refugee camp)",
+   "tr": "WAR40 (mülteci kampı)"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|77161",
+   "en": "WAR50(ExoGeni/geth base)",
+   "tr": "WAR50 (ExoGeni/geth üssü)"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|103324",
+   "en": "Forget them. We need to find the geth.",
+   "tr": "Onları boş ver. Geth'i bulmalıyız."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|103325",
+   "en": "Those poor fools are in for a nasty surprise.",
+   "tr": "O zavallı aptallar nahoş bir sürprizle karşılaşacak."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|103986",
+   "en": "... anybody. Is there anyone picking this up?",
+   "tr": "... kimse. Bunu alan var mı?"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|103987",
+   "en": "Get away from that radio.",
+   "tr": "Şu telsizden uzak dur."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|103988",
+   "en": "[static] ... this is Juliana Baynham of Feros colony. Please help us... [static]",
+   "tr": "[parazit] ... ben Feros kolonisinden Juliana Baynham. Lütfen bize yardım edin... [parazit]"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|103989",
+   "en": "That's my mom. Stop. Stop the rover.",
+   "tr": "O benim annem. Dur. Aracı durdur."
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|120019",
+   "en": "That's my mom!",
+   "tr": "O benim annem!"
+  },
+  {
+   "key": "BIOA_WAR40_05_DSG_LOC|war40_radiochatter_D|120020",
+   "en": "What was that all about?",
+   "tr": "Bunun hepsi neydi?"
+  }
+ ]
+}

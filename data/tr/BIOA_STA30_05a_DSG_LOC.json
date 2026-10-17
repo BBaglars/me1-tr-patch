@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "package": "BIOA_STA30_05a_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA30_05a_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA30_05a_DSG_LOC|sta00_popup_text_D|145642",
+   "en": "You must talk to the Council to gain access to the Wards.",
+   "tr": "Wards'a girmek için Konsey ile konuşmalısınız."
+  },
+  {
+   "key": "BIOA_STA30_05a_DSG_LOC|sta00_popup_text_D|148499",
+   "en": "The keeper scan has been uploaded to the database.",
+   "tr": "Bekçi taraması veri tabanına yüklendi."
+  },
+  {
+   "key": "BIOA_STA30_05a_DSG_LOC|sta00_popup_text_D|148500",
+   "en": "You do not have the proper keycard.",
+   "tr": "Uygun anahtar karta sahip değilsiniz."
+  },
+  {
+   "key": "BIOA_STA30_05a_DSG_LOC|sta00_popup_text_D|163019",
+   "en": "Get to the Quarian and warn her before it's too late!",
+   "tr": "Çok geç olmadan Quarian'a ulaş ve onu uyar!"
+  }
+ ]
+}

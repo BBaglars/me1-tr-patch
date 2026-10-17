@@ -1,0 +1,1155 @@
+{
+ "meta": {
+  "package": "BIOA_STA20_10E_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA20_10E_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83760",
+   "en": "Krogan on Virmire! Hard to believe, Commander. Good thing those salarians were there to back up your report.",
+   "tr": "Virmire'da krogan! İnanmak zor, Komutan. İyi ki o salarian'lar raporunuzu desteklemek için oradaydı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83764",
+   "en": "I agree with you. I don't want giant telepathic insects running around in my galaxy. But you could have been more discreet.",
+   "tr": "Sana katılıyorum. Galaksimde telepatik dev böceklerin dolaşmasını istemem. Ama daha ketum olabilirdin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83765",
+   "en": "I can't believe you let that queen live. There's a reason their species was nearly wiped out. You should have finished them off!",
+   "tr": "O kraliçeyi yaşatmana inanamıyorum. O türün neredeyse yok edilmesinin bir nedeni var. Onları bitirmeliydin!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83766",
+   "en": "Really? I'm glad you're an expert on a species we know virtually nothing about. I hope we're both still around in fifty years to see if you're right.",
+   "tr": "Gerçekten mi? Hakkında neredeyse hiçbir şey bilmediğimiz bir tür konusunda uzman olduğuna sevindim. Elli yıl sonra hâlâ buralarda olup haklı mısın göreceğimizi umarım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83768",
+   "en": "Fine. I'll just tell everyone we figured it was a good idea to release a fertile rachni queen in the wilds of Noveria. I'm sure nobody will have a problem with that.",
+   "tr": "Peki. Herkese Noveria'nın vahşi doğasında doğurgan bir rachni kraliçesi salmanın iyi fikir olduğunu düşündüğümüzü söylerim. Eminim kimsenin buna itirazı olmaz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83769",
+   "en": "You're not making my life easy, Shepard. Firefights in the wards? An all-out assault on Chora's Den? Do you know how many--",
+   "tr": "Hayatımı kolaylaştırmıyorsun, Shepard. Wards'ta çatışmalar mı? Chora's Den'e topyekûn saldırı mı? Kaç tane..."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83771",
+   "en": "This is an outrage! The Council would step in if the geth attacked a turian colony!",
+   "tr": "Bu skandal! Geth bir turian kolonisine saldırsa Konsey araya girerdi!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83772",
+   "en": "The turians don't found colonies on the borders of the Terminus Systems, Ambassador.",
+   "tr": "Turian'lar Terminus Sistemleri sınırlarında koloni kurmaz, Büyükelçi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83773",
+   "en": "What about Saren? You can't just ignore a rogue Spectre. I demand action!",
+   "tr": "Peki ya Saren? Başıboş bir Spectre'ı görmezden gelemezsiniz. Eylem talep ediyorum!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83776",
+   "en": "You don't get to make demands of the Council, Ambassador.",
+   "tr": "Konsey'den talepte bulunamazsınız, Büyükelçi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83780",
+   "en": "Citadel Security is investigating your charges against Saren. We will discuss the C-Sec findings at the hearing. Not before.",
+   "tr": "Citadel Güvenliği Saren'e karşı suçlamalarınızı soruşturuyor. C-Sec bulgularını duruşmada tartışacağız. Öncesinde değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83781",
+   "en": "Captain Anderson. I see you brought half your crew with you.",
+   "tr": "Kaptan Anderson. Mürettebatınızın yarısını getirmişsiniz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83783",
+   "en": "They were not happy about it. Saren's their top agent. They don't like him being accused of treason.",
+   "tr": "Bundan hoşlanmadılar. Saren onların en iyi ajanı. Vatana ihanetle suçlanmasından hoşlanmıyorlar."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83799",
+   "en": "Shepard - you and the others can meet us at the Citadel Tower. Top level. I'll make sure you have clearance to get in.",
+   "tr": "Shepard, sen ve diğerleri bizimle Citadel Tower'da buluşabilir. En üst kat. Girmeniz için yetkiniz olmasını sağlarım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83806",
+   "en": "I saw your Feros report. If we had known anything about the Thorian, ExoGeni would never have been given the permits to start a colony there.",
+   "tr": "Feros raporunuzu gördüm. Thorian hakkında bir şey bilseydik ExoGeni'ye orada koloni başlatmak için izin asla verilmezdi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83807",
+   "en": "I just wish you'd saved the colony. We can't afford too many failures in the Traverse. It's one of our major expansion regions.",
+   "tr": "Keşke koloniyi kurtarsaydınız. Traverse'te çok fazla başarısızlığı kaldıramayız. Önemli genişleme bölgelerimizden biri."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83814",
+   "en": "Thank God the colony survived. We can't afford to have too many failures out in the Traverse. It's one of our major expansion regions.",
+   "tr": "Neyse ki koloni kurtuldu. Traverse'te çok fazla başarısızlığı kaldıramayız. Önemli genişleme bölgelerimizden biri."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83817",
+   "en": "I heard what happened out in the Artemis Tau cluster. The Council wasn't too happy about the destruction of those Prothean ruins.",
+   "tr": "Artemis Tau Kümesi'nde olanları duydum. Konsey o Prothean kalıntılarının yıkılmasından pek hoşnut değildi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83823",
+   "en": "Your Noveria report raised a few eyebrows in the Council, Shepard.",
+   "tr": "Noveria raporunuz Konsey'de birkaç kaşı kaldırdı, Shepard."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83824",
+   "en": "I don't know what's funnier: you finding a species they thought they'd wiped out 2000 years ago, or their reaction when they found out you finished them off!",
+   "tr": "Hangisi daha komik bilmiyorum: 2000 yıl önce yok ettiklerini sandıkları bir türü bulmanız mı, yoksa onları bitirdiğinizi öğrendiklerinde verdikleri tepki mi!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83829",
+   "en": "I had no other choice.",
+   "tr": "Başka seçeneğim yoktu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83830",
+   "en": "The rachni were monsters. I couldn't let them live.",
+   "tr": "Rachni canavardı. Yaşamalarına izin veremezdim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83832",
+   "en": "This queen isn't like the others. She's not interested in conquest or war.",
+   "tr": "Bu kraliçe diğerleri gibi değil. Fetih ya da savaşla ilgilenmiyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83834",
+   "en": "You weren't there, Ambassador. It was my call. I did the right thing.",
+   "tr": "Orada değildiniz, Büyükelçi. Karar benimdi. Doğru olanı yaptım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83886",
+   "en": "All in a day's work, Ambassador.",
+   "tr": "Günlük iş, Büyükelçi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83887",
+   "en": "I'm the one who destroyed the Thorian. I don't remember seeing you around.",
+   "tr": "Thorian'ı yok eden benim. Sizi orada gördüğümü hatırlamıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83894",
+   "en": "There's nothing funny about what I did.",
+   "tr": "Yaptığımın komik bir yanı yok."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83912",
+   "en": "That's my job.",
+   "tr": "Benim işim bu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83913",
+   "en": "We? You weren't there.",
+   "tr": "Biz mi? Orada değildiniz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83920",
+   "en": "You're sick.",
+   "tr": "Hastasınız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83921",
+   "en": "It was necessary.",
+   "tr": "Gerekliydi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83922",
+   "en": "They had to die.",
+   "tr": "Ölmeleri gerekiyordu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83926",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|83927",
+   "en": "It was my decision.",
+   "tr": "Karar benimdi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86585",
+   "en": "I was on my Pilgrimage, my rite of passage into adulthood.",
+   "tr": "Hacımdaydım, yetişkinliğe geçiş ritüelimdeydim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86586",
+   "en": "During my travels I began hearing reports of geth. Since they drove my people into exile, the geth have never ventured beyond the Veil. I was curious.",
+   "tr": "Seyahatlerim sırasında geth raporları duymaya başladım. Halkımı sürgüne gönderdiklerinden beri geth Veil'in ötesine hiç çıkmadı. Merak ettim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86587",
+   "en": "I tracked a patrol of geth to an uncharted world. I waited for one to become separated from its unit. Then I disabled it and removed its memory core.",
+   "tr": "Bir geth devriyesini haritası çıkmamış bir dünyaya kadar izledim. Birinin birliğinden ayrılmasını bekledim. Sonra devre dışı bırakıp bellek çekirdeğini çıkardım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86588",
+   "en": "My people created the geth. If you're quick, careful, and lucky small caches of data can sometimes be saved.",
+   "tr": "Halkım geth'i yarattı. Hızlı, dikkatli ve şanslıysan bazen küçük veri önbellekleri kurtarılabilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86590",
+   "en": "Most of the core was wiped clean. But I salvaged something from its audio banks.",
+   "tr": "Çekirdeğin çoğu silinmişti. Ama ses bankalarından bir şey kurtardım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86599",
+   "en": "I've never heard of this before.",
+   "tr": "Bunu daha önce hiç duymadım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86601",
+   "en": "How did you manage to preserve the memory core?",
+   "tr": "Bellek çekirdeğini nasıl korumayı başardın?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86614",
+   "en": "Pilgrimage?",
+   "tr": "Hac mı?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86618",
+   "en": "Is that true?",
+   "tr": "Bu doğru mu?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86730",
+   "en": "Eden Prime was a major victory! The beacon has brought us one step closer to finding the Conduit.",
+   "tr": "Eden Prime büyük bir zaferdi! İşaret fişeği bizi Conduit'i bulmaya bir adım daha yaklaştırdı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86896",
+   "en": "My name is Tali!",
+   "tr": "Adım Tali!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86897",
+   "en": "The Pilgrimage proves we are willing to give of ourselves for the greater good. What does it say about me if I turn my back on this?",
+   "tr": "Hac, büyük iyilik için kendimizden verecek olduğumuzu kanıtlıyor. Buna sırt çevirirsem bu benim hakkımda ne söyler?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86898",
+   "en": "Saren is a danger to the entire galaxy. My Pilgrimage can wait.",
+   "tr": "Saren tüm galaksi için tehlike. Hacım bekleyebilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86899",
+   "en": "She's already survived a run-in with the geth, Shepard. And we need all the help we can get. Take her with you.",
+   "tr": "Geth'le bir karşılaşmadan zaten sağ çıktı, Shepard. Ve alabileceğimiz tüm yardıma ihtiyacımız var. Onu yanında götür."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86902",
+   "en": "Thanks. You won't regret this.",
+   "tr": "Teşekkürler. Pişman olmayacaksın."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86905",
+   "en": "I thought you were on your Pilgrimage.",
+   "tr": "Hacında olduğunu sanıyordum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86907",
+   "en": "I think this is more than you can handle.",
+   "tr": "Bence bu başa çıkabileceğinden fazla."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86912",
+   "en": "I'll take all the help I can get.",
+   "tr": "Alabileceğim her yardımı alırım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86916",
+   "en": "What about your quest?",
+   "tr": "Peki ya görevin?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86917",
+   "en": "You're not ready for this.",
+   "tr": "Buna hazır değilsin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|86918",
+   "en": "Join us.",
+   "tr": "Bize katıl."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87356",
+   "en": "I've got big news for you, Shepard. Captain Anderson is stepping down as commanding officer of the Normandy. The ship is yours now.",
+   "tr": "Sana büyük bir haberim var, Shepard. Kaptan Anderson Normandy'nin komuta subaylığını bırakıyor. Gemi artık senin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87375",
+   "en": "I was in your shoes twenty years ago, Shepard. They were considering me for the Spectres.",
+   "tr": "Yirmi yıl önce senin yerindeydim, Shepard. Beni Spectre'lar için düşünüyorlardı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87376",
+   "en": "What was I supposed to say? \"I could've been a Spectre but I blew it\"? I failed, Commander. It's not something I'm proud of.",
+   "tr": "Ne söyleyecektim? \"Spectre olabilirdim ama berbat ettim\" mi? Başaramadım, Komutan. Gurur duyduğum bir şey değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87377",
+   "en": "I failed. I couldn't make the cut. It's not something I'm proud of.",
+   "tr": "Başaramadım. Elemeyi geçemedim. Gurur duyduğum bir şey değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87379",
+   "en": "Ask me later and I'll tell you the whole story. For now, all you need to know is I was sent on a mission with Saren, and he made sure the Council rejected me.",
+   "tr": "Sonra sor, tüm hikâyeyi anlatırım. Şimdilik bilmen gereken, Saren'le bir göreve gönderildiğim ve Konsey'in beni reddetmesini onun sağladığı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87394",
+   "en": "Why didn't you ever mention this?",
+   "tr": "Neden bundan hiç bahsetmediniz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87396",
+   "en": "What happened?",
+   "tr": "Ne oldu?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87414",
+   "en": "You hid this from me!",
+   "tr": "Bunu benden sakladınız!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|87415",
+   "en": "What went wrong?",
+   "tr": "Neyin ters gittiğini söyler misiniz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103483",
+   "en": "Humanity was well aware of the risks when you went into the Traverse.",
+   "tr": "İnsanlık Traverse'e girerken riskleri çok iyi biliyordu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103484",
+   "en": "Just the ground team from Eden Prime. In case you had any questions.",
+   "tr": "Sadece Eden Prime'dan kara ekibi. Sorunuz olursa diye."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103485",
+   "en": "I have the mission reports. I assume they're accurate?",
+   "tr": "Görev raporlarım var. Doğru olduklarını varsayıyorum?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103486",
+   "en": "They are. Sounds like you convinced the Council to give us an audience.",
+   "tr": "Öyle. Konsey'i bize bir görüşme vermeye ikna etmişsiniz gibi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103487",
+   "en": "Settle down, Commander. You've already done more than enough to jeopardize your candidacy for the Spectres.",
+   "tr": "Sakin olun, Komutan. Spectre adaylığınızı tehlikeye atmak için zaten yeterinden fazlasını yaptınız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103489",
+   "en": "That's Saren's fault, not hers! ",
+   "tr": "Bu Saren'in suçu, onun değil!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103490",
+   "en": "That's Saren's fault, not his!",
+   "tr": "Bu Saren'in suçu, onun değil!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103491",
+   "en": "Then we better hope the C-Sec investigation turns up evidence to support our accusations. Otherwise the Council might use this as an excuse to keep you out of the Spectres.",
+   "tr": "O zaman C-Sec soruşturmasının suçlamalarımızı destekleyen kanıt bulmasını umalım. Yoksa Konsey bunu sizi Spectre'lardan uzak tutmak için bahane olarak kullanabilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103492",
+   "en": "Come with me, Captain. I want to go over a few things before the hearing.",
+   "tr": "Benimle gelin, Kaptan. Duruşmadan önce birkaç şeyi gözden geçirmek istiyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103493",
+   "en": "And that's why I hate politicians.",
+   "tr": "İşte bu yüzden politikacılardan nefret ediyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103498",
+   "en": "Saren's a threat to every human colony out there. If they don't stop him, I will!",
+   "tr": "Saren oradaki her insan kolonisi için tehdit. Onu durdurmazlarsa ben durduracağım!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|103513",
+   "en": "It's the truth.",
+   "tr": "Gerçek bu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105941",
+   "en": "She's quick and quiet and you know the crew. Perfect ship for a Spectre. Treat her well, Commander.",
+   "tr": "Hızlı ve sessiz, mürettebatı da tanıyorsunuz. Bir Spectre için mükemmel gemi. İyi bakın ona, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105942",
+   "en": "We can't all be the hero who charges in to save the day, Commander. But we each serve humanity in our own way.",
+   "tr": "Hepimiz günü kurtarmaya atılan kahraman olamayız, Komutan. Ama her birimiz insanlığa kendi yolumuzla hizmet ediyoruz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105943",
+   "en": "You can't escape interstellar politics. It's part of the big picture. And sometimes it isn't pretty.",
+   "tr": "Yıldızlararası siyasetten kaçamazsınız. Büyük resmin parçası. Ve bazen hoş değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105944",
+   "en": "Sometimes I envy you, Commander. Running around the galaxy, doing whatever you please, never worried about the long-term consequences.",
+   "tr": "Bazen sizi kıskanıyorum, Komutan. Galakside dolaşıp istediğiniz her şeyi yapıyorsunuz, uzun vadeli sonuçlar için endişe duymuyorsunuz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105945",
+   "en": "No, you leave that to me. I have to look at the big picture. And usually it's not very pretty.",
+   "tr": "Hayır, onu bana bırakın. Büyük resme bakmak zorundayım. Ve genelde çok hoş değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105946",
+   "en": "Just ignore him, Shepard. The ambassador's a little bitter sometimes. Comes with the job.",
+   "tr": "Onu boş ver, Shepard. Büyükelçi bazen biraz ekşi. İşin getirdiği bir şey."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105947",
+   "en": "This isn't a game, Ambassador. Commander Shepard's out there trying to stop Saren from destroying the galaxy!",
+   "tr": "Bu bir oyun değil, Büyükelçi! Komutan Shepard orada Saren'in galaksiyi yok etmesini durdurmaya çalışıyor!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105948",
+   "en": "I know, I know. Just try to be a little more careful. The Council's watching you. And we all get judged on how you behave.",
+   "tr": "Biliyorum, biliyorum. Sadece biraz daha dikkatli olmaya çalışın. Konsey sizi izliyor. Ve hepimiz davranışlarınıza göre yargılanıyoruz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105949",
+   "en": "Relax, Shepard. You did the right thing. I don't want giant telepathic insects running around the galaxy. I just wish you had been more discreet.",
+   "tr": "Rahat ol, Shepard. Doğru olanı yaptın. Galakside dolaşan telepatik dev böcekler istemem. Sadece daha ketum olmanı dilerdim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105950",
+   "en": "The Council keeps throwing around words like genocide. I have to go calm them down.",
+   "tr": "Konsey soykırım gibi kelimeler savuruyor. Gidip onları sakinleştirmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105951",
+   "en": "Genocide of an entire species is a terrible tragedy, Ambassador. Shepard did the right thing.",
+   "tr": "Bütün bir türün soykırımı korkunç bir trajedi, Büyükelçi. Shepard doğru olanı yaptı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105952",
+   "en": "Who's this? A quarian? What are you up to, Shepard?",
+   "tr": "Bu da kim? Bir quarian mı? Neyin peşindesin, Shepard?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105953",
+   "en": "Really? Maybe you better start at the beginning, Miss...?",
+   "tr": "Gerçekten mi? Belki en baştan başlasanız iyi olur, Bayan...?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105954",
+   "en": "I apologize, Commander. This whole thing with Saren has me a bit on edge.",
+   "tr": "Özür dilerim, Komutan. Saren'le olan tüm bu iş beni biraz geriyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105955",
+   "en": "Maybe we should just start at the beginning, Miss...?",
+   "tr": "Belki en baştan başlamalıyız, Bayan...?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105956",
+   "en": "My name is Tali. Tali' Zorah nar Rayya.",
+   "tr": "Adım Tali. Tali'Zorah nar Rayya."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105957",
+   "en": "We don't see many quarians here. Why did you leave the flotilla?",
+   "tr": "Burada pek quarian görmüyoruz. Filodan neden ayrıldın?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105958",
+   "en": "It is a tradition among my people. When we reach maturity, we leave the ships of our parents and our people behind.",
+   "tr": "Halkım arasında bir gelenek. Olgunluğa ulaştığımızda ebeveynlerimizin ve halkımızın gemilerini geride bırakırız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105959",
+   "en": "Alone, we search the stars, only returning to the flotilla once we have discovered something of value. In this way, we prove ourselves worthy of adulthood.",
+   "tr": "Tek başımıza yıldızları ararız, ancak değerli bir şey keşfettiğimizde filoya dönerüz. Böylece yetişkinliği hak ettiğimizi kanıtlarız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105960",
+   "en": "It could be resources like food or fuel. Or some type of useful technology. Or even knowledge that will make life easier on the flotilla.",
+   "tr": "Yiyecek ya da yakıt gibi kaynaklar olabilir. Ya da bir tür faydalı teknoloji. Hatta filoda hayatı kolaylaştıracak bilgi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105961",
+   "en": "Through our Pilgrimage, we prove that we will contribute to the community, rather than being a burden on our limited resources.",
+   "tr": "Hacımızla, sınırlı kaynaklarımıza yük olmak yerine topluluğa katkıda bulunacağımızı kanıtlarız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105962",
+   "en": "I thought the geth fried their memory cores when they died. Some kind of defense mechanism.",
+   "tr": "Geth'in öldüklerinde bellek çekirdeklerini kızarttığını sanıyordum. Bir tür savunma mekanizması."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105963",
+   "en": "And one step closer to the return of the Reapers.",
+   "tr": "Ve Biçiciler'in dönüşüne bir adım daha yakın."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105967",
+   "en": "According to the memory core, the Reapers were a hyper-advanced machine race that existed 50,000 years ago.",
+   "tr": "Bellek çekirdeğine göre Biçiciler 50.000 yıl önce var olan aşırı gelişmiş bir makine ırkıydı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105968",
+   "en": "The Reapers hunted the Protheans to total extinction, and then they vanished. At least, that's what the geth believe.",
+   "tr": "Biçiciler Prothean'ları tam yok oluşa dek avladı, sonra ortadan kayboldu. En azından geth buna inanıyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105969",
+   "en": "Sounds a little far-fetched.",
+   "tr": "Biraz inandırıcı gelmiyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105970",
+   "en": "The geth revere the Reapers as gods, the pinnacle of non-organic life. And they believe Saren knows how to bring the Reapers back.",
+   "tr": "Geth Biçiciler'i tanrı olarak, inorganik yaşamın zirvesi olarak yüceltiyor. Ve Saren'in Biçiciler'i nasıl geri getireceğini bildiğine inanıyorlar."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105971",
+   "en": "The Council is just going to love this!",
+   "tr": "Konsey buna bayılacak!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105972",
+   "en": "We have to tell them! Even if they don't believe anything else, this proves Saren is a traitor.",
+   "tr": "Onlara söylemeliyiz! Geri kalanına inanmasalar bile bu Saren'in hain olduğunu kanıtlıyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105973",
+   "en": "No matter what they think about the rest of this, those audio files prove Saren's a traitor.",
+   "tr": "Geri kalanı hakkında ne düşünürlerse düşünsünler, o ses dosyaları Saren'in hain olduğunu kanıtlıyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105974",
+   "en": "The captain's right. We need to present this to the Council right away.",
+   "tr": "Kaptan haklı. Bunu hemen Konsey'e sunmalıyız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105975",
+   "en": "Anderson and I will go ahead to get things ready with the Council. Take a few minutes to collect yourself, then meet us in the Tower.",
+   "tr": "Anderson ve ben Konsey'le işleri hazırlamak için öne geçeceğiz. Birkaç dakika kendine gel, sonra Tower'da bizimle buluş."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105976",
+   "en": "What about her? The quarian?",
+   "tr": "Peki ya o? Quarian?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105977",
+   "en": "What about her? The quarian?",
+   "tr": "Peki ya o? Quarian?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105978",
+   "en": "What about her? The quarian?",
+   "tr": "Peki ya o? Quarian?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105979",
+   "en": "You needed your own ship. A Spectre can't answer to anyone but the Council. And it's time for me to step down.",
+   "tr": "Kendi gemine ihtiyacın vardı. Bir Spectre Konsey dışında kimseye hesap veremez. Ve benim geri çekilme vaktim geldi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105980",
+   "en": "I had my shot. It came and went. Now you have a chance to make up for my mistakes.",
+   "tr": "Şansım vardı. Geldi ve gitti. Şimdi benim hatalarımı telafi etme şansın var."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105981",
+   "en": "I know you will, Commander.",
+   "tr": "Edeceğini biliyorum, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105982",
+   "en": "Saren's gone. Don't even try to find him. But we know what he's after: the Conduit. He's got his geth scouring the Traverse looking for clues.",
+   "tr": "Saren gitti. Bulmaya bile çalışma. Ama peşinde olduğu şeyi biliyoruz: Conduit. Geth'ini ipuçları aramak için Traverse'te dolaştırıyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105983",
+   "en": "We had reports of geth in the Feros system shortly before our colony there dropped out of contact. And there have been sightings around Noveria.",
+   "tr": "Kolonimizle temas kopmadan kısa süre önce Feros sisteminde geth raporları aldık. Noveria çevresinde de görüldüler."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105984",
+   "en": "Find out what Saren was after on Feros and Noveria. Maybe you can figure out where the Conduit is before he does.",
+   "tr": "Saren'in Feros ve Noveria'da neyin peşinde olduğunu bul. Belki Conduit'in nerede olduğunu o bulmadan çözebilirsin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105985",
+   "en": "I'm with the Council on this one, Shepard. I'm not sure they even exist.",
+   "tr": "Bu konuda Konsey'in yanındayım, Shepard. Var olduklarından bile emin değilim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105986",
+   "en": "But if they do exist, the Conduit's the key to bringing them back. Stop Saren from getting the Conduit and we stop the Reapers from returning.",
+   "tr": "Ama varsalar Conduit onları geri getirmenin anahtarı. Saren'in Conduit'i ele geçirmesini engellersek Biçiciler'in dönüşünü de engelleriz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105987",
+   "en": "We have one more lead. Matriarch Benezia, the other voice on that recording? She has a daughter, a scientist who specializes in the Protheans.",
+   "tr": "Bir ipucumuz daha var. Matriarch Benezia, o kayıttaki diğer ses? Prothean'lar konusunda uzman bir bilim insanı olan bir kızı var."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105988",
+   "en": "We don't know if she's involved but it might be a good idea to try and find her. See what she knows. Her name's Liara. Dr. Liara T'Soni.",
+   "tr": "Karışıp karışmadığını bilmiyoruz ama onu bulmak iyi fikir olabilir. Ne bildiğine bakarız. Adı Liara. Dr. Liara T'Soni."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105989",
+   "en": "It's your decision, Commander. You're a Spectre now. You don't answer to us.",
+   "tr": "Karar senin, Komutan. Artık bir Spectre'sın. Bize hesap vermezsin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105990",
+   "en": "But your actions still reflect on humanity as a whole. You make a mess and I get stuck cleaning it up.",
+   "tr": "Ama eylemlerin yine de bir bütün olarak insanlığa yansıyor. Sen karışıklık çıkarıyorsun, ben temizlemek zorunda kalıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105991",
+   "en": "Glad to hear it, Commander. Remember: you were a human long before you were a Spectre.",
+   "tr": "Duyduğuma sevindim, Komutan. Unutma: Spectre olmadan çok önce insandın."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105992",
+   "en": "Not exactly the answer I was looking for, Shepard. Remember: you were a human long before you were a Spectre.",
+   "tr": "Aradığım cevap tam bu değildi, Shepard. Unutma: Spectre olmadan çok önce insandın."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105993",
+   "en": "I have a meeting to get to. Captain Anderson can answer any questions you might have.",
+   "tr": "Gitmem gereken bir toplantı var. Sorularını Kaptan Anderson yanıtlayabilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105994",
+   "en": "Between the visions and your warnings about the Reapers, the Council's starting to think you're a little unstable.",
+   "tr": "Vizyonlar ve Biçiciler hakkındaki uyarıların arasında Konsey biraz dengesiz olduğunu düşünmeye başlıyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105995",
+   "en": "I think you get results. As long as you keep getting the job done, there's nothing to worry about.",
+   "tr": "Sen sonuç alıyorsun. İşi bitirmeye devam ettiğin sürece endişelenecek bir şey yok."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105996",
+   "en": "I have. Just make sure you keep getting results and we won't have a problem.",
+   "tr": "Aldım. Sadece sonuç almaya devam et, sorun yaşamayız."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105997",
+   "en": "It's not personal, Shepard. Just keep getting results and they'll leave you alone.",
+   "tr": "Kişisel değil, Shepard. Sonuç almaya devam et, seni rahat bırakırlar."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|105999",
+   "en": "This isn't right! The Normandy belongs to you!",
+   "tr": "Bu doğru değil! Normandy sana ait!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106000",
+   "en": "I want the truth. Why are you stepping down, sir?",
+   "tr": "Gerçeği istiyorum. Neden geri çekiliyorsunuz, efendim?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106001",
+   "en": "Come clean with me, Captain. You owe me that much.",
+   "tr": "Bana açık olun, Kaptan. Bunu bana borçlusunuz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106002",
+   "en": "Does this have to do with Saren keeping you out of the Spectres?",
+   "tr": "Bunun Saren'in sizi Spectre'lardan uzak tutmasıyla bir ilgisi var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106003",
+   "en": "I won't let you down, sir.",
+   "tr": "Sizi yüzüstü bırakmayacağım, efendim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106004",
+   "en": "Saren's not going to get away this time.",
+   "tr": "Saren bu sefer kurtulamayacak."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106005",
+   "en": "I'll take good care of her, sir.",
+   "tr": "Ona iyi bakacağım, efendim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106006",
+   "en": "What kind of leads do we have?",
+   "tr": "Ne tür ipuçlarımız var?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106009",
+   "en": "The Reapers are the real threat.",
+   "tr": "Gerçek tehdit Biçiciler."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106011",
+   "en": "I'll stop him.",
+   "tr": "Onu durduracağım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106012",
+   "en": "Anything else?",
+   "tr": "Başka bir şey var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106014",
+   "en": "The colonists on Feros might still be alive.",
+   "tr": "Feros'taki kolonistler hâlâ hayatta olabilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106015",
+   "en": "Sounds like we should head for the Artemis Tau cluster.",
+   "tr": "Artemis Tau Kümesi'ne gitmeliyiz gibi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106016",
+   "en": "Maybe I can get to Noveria before the geth.",
+   "tr": "Belki Noveria'ya geth'ten önce varabilirim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106018",
+   "en": "I'll try not to make things any harder on you, Ambassador.",
+   "tr": "İşlerinizi daha da zorlaştırmamaya çalışacağım, Büyükelçi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106020",
+   "en": "I'll do whatever it takes to stop Saren.",
+   "tr": "Saren'i durdurmak için ne gerekirse yaparım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106021",
+   "en": "I'll take care of Saren. You take care of the political fallout.",
+   "tr": "Saren'le ben ilgilenirim. Siz siyasi sonuçlarla ilgilenin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106025",
+   "en": "What about you?",
+   "tr": "Ya sen?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106026",
+   "en": "Tell them not to worry.",
+   "tr": "Endişelenmemelerini söyleyin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106027",
+   "en": "How many more times do I have to prove myself before they start to listen to me?",
+   "tr": "Beni dinlemeye başlamaları için kendimi kaç kez daha kanıtlamam gerek?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106028",
+   "en": "I'm out to stop Saren. Nothing else matters.",
+   "tr": "Ben Saren'i durdurmak için buradayım. Başka hiçbir şey önemli değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106029",
+   "en": "I would've saved the colony if I could've. But stopping Saren is more important.",
+   "tr": "Elimden gelseydi koloniyi kurtarırdım. Ama Saren'i durdurmak daha önemli."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106030",
+   "en": "You don't give a damn about the colonists. It's all just politics to you, isn't it?",
+   "tr": "Kolonistlerin umurunuzda değil. Sizin için hepsi siyaset, değil mi?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106039",
+   "en": "Making your day, Ambassador. She has information linking Saren to the geth.",
+   "tr": "Gününüzü güzelleştiriyorum, Büyükelçi. Saren'i geth'e bağlayan bilgisi var."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106040",
+   "en": "You wanted proof Saren's a traitor. This is it.",
+   "tr": "Saren'in hain olduğuna dair kanıt istemiştiniz. İşte bu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106042",
+   "en": "This quarian can help us bring down Saren. I would've told you that if you hadn't jumped down my throat.",
+   "tr": "Bu quarian Saren'i indirmemize yardım edebilir. Boğazıma sarılmasaydınız bunu söylerdim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106048",
+   "en": "What kinds of things do you look for?",
+   "tr": "Ne tür şeyler arıyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106050",
+   "en": "Tell us what you found.",
+   "tr": "Bulduklarınızı bize anlatın."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106051",
+   "en": "Where's the proof you promised?",
+   "tr": "Söz verdiğiniz kanıt nerede?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106052",
+   "en": "What kind of evidence did you find? How did you get it?",
+   "tr": "Ne tür kanıt buldunuz? Nasıl elde ettiniz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106054",
+   "en": "What did you find out?",
+   "tr": "Ne öğrendiniz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106057",
+   "en": "Saren won't get out of this one.",
+   "tr": "Saren bundan kurtulamayacak."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106064",
+   "en": "The vision on Eden Prime -- I understand it now. I saw the Protheans being wiped out by the Reapers.",
+   "tr": "Eden Prime'daki vizyon, şimdi anlıyorum. Prothean'ların Biçiciler tarafından yok edildiğini gördüm."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106066",
+   "en": "They won't believe you anyway. Just keep them out of this.",
+   "tr": "Yine de inanmayacaklar. Onları bunun dışında tut."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106068",
+   "en": "The Reapers are a threat to every species in Citadel space. We have to tell them.",
+   "tr": "Biçiciler Citadel uzayındaki her tür için tehdit. Onlara söylemeliyiz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106069",
+   "en": "This is a lot to handle. They might just ignore everything we tell them.",
+   "tr": "Bu çok ağır. Söylediğimiz her şeyi görmezden gelebilirler."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106077",
+   "en": "Forced retirement?",
+   "tr": "Zorunlu emeklilik mi?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106078",
+   "en": "What's going on?",
+   "tr": "Neler oluyor?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106079",
+   "en": "I will.",
+   "tr": "Yapacağım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106080",
+   "en": "There's more to this.",
+   "tr": "Bunda daha fazlası var."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106081",
+   "en": "Because of Saren?",
+   "tr": "Saren yüzünden mi?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106082",
+   "en": "You should have told me.",
+   "tr": "Bana söylemeliydiniz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106083",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106084",
+   "en": "Saren will pay.",
+   "tr": "Saren ödeyecek."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106085",
+   "en": "Why are you doing this?",
+   "tr": "Bunu neden yapıyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106086",
+   "en": "Any word on Saren?",
+   "tr": "Saren hakkında haber var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106089",
+   "en": "What about the Reapers?",
+   "tr": "Peki ya Biçiciler?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106090",
+   "en": "Is that it?",
+   "tr": "Hepsi bu mu?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106092",
+   "en": "Count on me.",
+   "tr": "Bana güvenin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106093",
+   "en": "I'm on it.",
+   "tr": "Hallediyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106095",
+   "en": "I'll start with Feros.",
+   "tr": "Feros'la başlayacağım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106096",
+   "en": "I'll start there.",
+   "tr": "Oradan başlayacağım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106097",
+   "en": "I'm going to Noveria.",
+   "tr": "Noveria'ya gidiyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106099",
+   "en": "I'll be careful.",
+   "tr": "Dikkatli olacağım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106100",
+   "en": "It might be necessary.",
+   "tr": "Gerekli olabilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106101",
+   "en": "That's your job.",
+   "tr": "Senin işin bu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106106",
+   "en": "What do you think?",
+   "tr": "Ne düşünüyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106107",
+   "en": "I'm fine.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106108",
+   "en": "They're idiots!",
+   "tr": "Aptallar!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106109",
+   "en": "They were expendable.",
+   "tr": "Harcanabilirlerdi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106110",
+   "en": "I did my best.",
+   "tr": "Elimden geleni yaptım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106111",
+   "en": "That's all you care about?",
+   "tr": "Umursadığın tek şey bu mu?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106118",
+   "en": "They've learned.",
+   "tr": "Öğrendiler."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106121",
+   "en": "She can help us.",
+   "tr": "Bize yardım edebilir."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106122",
+   "en": "Just doing my job.",
+   "tr": "Sadece işimi yapıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106123",
+   "en": "Shut up and I'll tell you.",
+   "tr": "Sus da sana anlatayım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106129",
+   "en": "Please, continue.",
+   "tr": "Lütfen devam edin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106130",
+   "en": "Get to the point.",
+   "tr": "Asıl konuya gel."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106131",
+   "en": "What about Saren?",
+   "tr": "Peki ya Saren?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106133",
+   "en": "Something of value?",
+   "tr": "Değerli bir şey mi?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106134",
+   "en": "And what did you find?",
+   "tr": "Ve ne buldunuz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106137",
+   "en": "Go on.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106140",
+   "en": "We've got him!",
+   "tr": "Onu yakaladık!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106148",
+   "en": "She's right.",
+   "tr": "Haklı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106149",
+   "en": "It's not far-fetched.",
+   "tr": "Havadan değil."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106150",
+   "en": "It's true.",
+   "tr": "Doğru."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106152",
+   "en": "Don't tell them.",
+   "tr": "Onlara söyleme."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106153",
+   "en": "They need to know.",
+   "tr": "Bilmeleri gerek."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106154",
+   "en": "Will they believe it?",
+   "tr": "İnanacaklar mı?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106162",
+   "en": "You could be useful.",
+   "tr": "İşe yarayabilirsin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106163",
+   "en": "You could be useful.",
+   "tr": "İşe yarayabilirsin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|106621",
+   "en": "You saw me in the alley, Commander. You know what I can do. Let me come with you.",
+   "tr": "Beni ara sokakta gördünüz, Komutan. Neler yapabileceğimi biliyorsunuz. Sizinle gelmeme izin verin."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147348",
+   "en": "That's Saren's voice. This proves he was involved in the attack!",
+   "tr": "Bu Saren'in sesi. Bu saldırıya karıştığını kanıtlıyor!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147349",
+   "en": "The Conduit must have something to do with the beacon. Maybe it's some kind of Prothean technology... like a weapon.",
+   "tr": "Conduit'in işaret fişeğiyle bir ilgisi olmalı. Belki bir tür Prothean teknolojisi... bir silah gibi."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147350",
+   "en": "Wait... there's more. Saren wasn't working alone.",
+   "tr": "Dur... daha var. Saren tek başına çalışmıyordu."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147351",
+   "en": "Eden Prime was a major victory! The beacon has brought us one step closer to finding the Conduit.",
+   "tr": "Eden Prime büyük bir zaferdi! İşaret fişeği bizi Conduit'i bulmaya bir adım daha yaklaştırdı."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147352",
+   "en": "I don't recognize that other voice. The one talking about Reapers.",
+   "tr": "Diğer sesi tanımıyorum. Biçiciler'den bahseden."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147353",
+   "en": "He said Eden Prime brought him one step closer to finding the Conduit. Any idea what that means?",
+   "tr": "Eden Prime'ın onu Conduit'i bulmaya bir adım daha yaklaştırdığını söyledi. Bunun ne anlama geldiğini biliyor musunuz?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147358",
+   "en": "Are they some kind of new alien species?",
+   "tr": "Bir tür yeni uzaylı türü mü?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147359",
+   "en": "I feel like I've heard that name before...",
+   "tr": "Sanki bu adı daha önce duymuş gibiyim..."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147360",
+   "en": "What's the Conduit?",
+   "tr": "Conduit nedir?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147365",
+   "en": "Reapers? What are they?",
+   "tr": "Biçiciler mi? Onlar ne?"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147366",
+   "en": "Reapers? Sounds familiar.",
+   "tr": "Biçiciler mi? Tanıdık geliyor."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147387",
+   "en": "The mission on Eden Prime was a chance to prove you could get the job done. Instead, Nihlus ended up dead and the beacon was destroyed!",
+   "tr": "Eden Prime görevi işi bitirebileceğini kanıtlama şansıydı. Bunun yerine Nihlus öldü ve işaret fişeği yok edildi!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147388",
+   "en": "Saren's a threat to every human colony out there. He needs to be stopped. The Council has to listen to us!",
+   "tr": "Saren oradaki her insan kolonisi için tehdit. Durdurulmalı. Konsey bizi dinlemeli!"
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147389",
+   "en": "I'm not going to sit on my ass just because the Council doesn't want to do anything. If they won't stop Saren, I will.",
+   "tr": "Konsey hiçbir şey yapmak istemiyor diye oturmayacağım. Saren'i durdurmazlarsa ben durduracağım."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147391",
+   "en": "He's dangerous.",
+   "tr": "Tehlikeli."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|147392",
+   "en": "They're blind.",
+   "tr": "Körler."
+  },
+  {
+   "key": "BIOA_STA20_10E_DSG_LOC|sta20_human_ambassador_enter_D|149082",
+   "en": "We have reports she was exploring an archeological dig on one of the uncharted worlds in the Artemis Tau cluster.",
+   "tr": "Artemis Tau Kümesi'ndeki keşfedilmemiş dünyalardan birinde bir arkeolojik kazıyı keşfettiğine dair raporlarımız var."
+  }
+ ]
+}

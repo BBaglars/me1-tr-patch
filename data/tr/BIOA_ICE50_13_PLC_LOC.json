@@ -1,0 +1,30 @@
+{
+ "meta": {
+  "package": "BIOA_ICE50_13_PLC_LOC_INT.pcc",
+  "stem": "BIOA_ICE50_13_PLC_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE50_13_PLC_LOC|ice50_trig24_tram_60_D|97024",
+   "en": "Now arriving at Peak 15 Central Station.",
+   "tr": "Peak 15 Merkez İstasyonu'na varılıyor."
+  },
+  {
+   "key": "BIOA_ICE50_13_PLC_LOC|ice50_trig24_tram_60_D|97025",
+   "en": "Departing Central Station. Destination: Rift Station.",
+   "tr": "Merkez İstasyon'dan ayrılıyor. Varış: Rift Station."
+  },
+  {
+   "key": "BIOA_ICE50_13_PLC_LOC|ice60_trig08_tram_D|80856",
+   "en": "Now arriving at Rift Station, Binary Helix research facility.",
+   "tr": "Binary Helix araştırma tesisi Rift Station'a varılıyor."
+  },
+  {
+   "key": "BIOA_ICE50_13_PLC_LOC|ice60_trig08_tram_D|80857",
+   "en": "Departing Rift Station. Destination: Central Station.",
+   "tr": "Rift Station'dan ayrılıyor. Varış: Merkez İstasyon."
+  }
+ ]
+}

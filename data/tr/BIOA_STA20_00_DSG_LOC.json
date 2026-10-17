@@ -1,0 +1,115 @@
+{
+ "meta": {
+  "package": "BIOA_STA20_00_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA20_00_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta00_popup_text_D|145642",
+   "en": "You must talk to the Council to gain access to the Wards.",
+   "tr": "Wards'a girmek için Konsey ile konuşmalısınız."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta00_popup_text_D|148499",
+   "en": "The keeper scan has been uploaded to the database.",
+   "tr": "Bekçi taraması veri tabanına yüklendi."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta00_popup_text_D|148500",
+   "en": "You do not have the proper keycard.",
+   "tr": "Uygun anahtar karta sahip değilsiniz."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta00_popup_text_D|163019",
+   "en": "Get to the Quarian and warn her before it's too late!",
+   "tr": "Çok geç olmadan Quarian'a ulaş ve onu uyar!"
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159375",
+   "en": "Big place.",
+   "tr": "Büyük yer."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159377",
+   "en": "It sure is peaceful here.",
+   "tr": "Burası gerçekten huzurlu."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159379",
+   "en": "I can't tell the aliens from the animals.",
+   "tr": "Uzaylıları hayvanlardan ayıramıyorum."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159380",
+   "en": "They've built themselves quite the lake. Wonder if anyone ever drowned in it?",
+   "tr": "Kendilerine epey bir göl yapmışlar. Acaba içinde boğulan oldu mu?"
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159381",
+   "en": "This place is a little too perfect. Like they're hiding something.",
+   "tr": "Burası biraz fazla mükemmel. Sanki bir şey saklıyorlar."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159383",
+   "en": "This is truly magnificent! Most Prothean architecture I see is in ruins.",
+   "tr": "Bu gerçekten muhteşem! Gördüğüm Prothean mimarisinin çoğu harabe."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159384",
+   "en": "The sheer size of this place is overwhelming.",
+   "tr": "Burasının büyüklüğü bunaltıcı."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159385",
+   "en": "Remarkable -- nature and technology combined in one elegant whole.",
+   "tr": "Dikkat çekici, doğa ve teknoloji tek zarif bütünde birleşmiş."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159387",
+   "en": "My first C-Sec posting was here on the Presidium. Mostly for show; not much crime up here.",
+   "tr": "İlk C-Sec görevim burada, Presidium'daydı. Çoğu gösteri içindi; burada pek suç olmuyor."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159388",
+   "en": "It never gets dark here. They keep the artificial sunlight on at all times.",
+   "tr": "Burası hiç kararmıyor. Yapay güneş ışığını her zaman açık tutuyorlar."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159389",
+   "en": "The ambassadors have this beautiful park to relax in, but most of them are too busy to ever use it.",
+   "tr": "Büyükelçilerin dinlenmek için bu güzel parkı var ama çoğu kullanamayacak kadar meşgul."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159391",
+   "en": "I get the feeling they're not used to seeing krogan walking around up here.",
+   "tr": "Buralarda krogan dolaşmaya alışkın olmadıkları hissini alıyorum."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159392",
+   "en": "I could use a snack. Think there's any fish out in that lake?",
+   "tr": "Bir atıştırmalığa ihtiyacım var. Sence göldeki balık var mı?"
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159393",
+   "en": "Tranquil. Calm. Relaxing. Wake me when this is over.",
+   "tr": "Sakin. Huzurlu. Dinlendirici. Bu bitince beni uyandır."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159395",
+   "en": "So much empty space. A thousand of my people could live here and hardly even see each other.",
+   "tr": "Çok boş alan. Halkımdan bin kişi burada yaşayıp birbirini neredeyse hiç görmeyebilir."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159396",
+   "en": "They built a lake on a space station! I can't even imagine the resources needed to maintain it.",
+   "tr": "Bir uzay istasyonuna göl yapmışlar! Bakımı için gereken kaynakları hayal bile edemiyorum."
+  },
+  {
+   "key": "BIOA_STA20_00_DSG_LOC|sta20_banter_00_D|159397",
+   "en": "My people used to have an embassy here. But after we created the geth, we were no longer welcome.",
+   "tr": "Halkımın burada eskiden büyükelçiliği vardı. Ama geth'i yarattıktan sonra artık hoş karşılanmadık."
+  }
+ ]
+}

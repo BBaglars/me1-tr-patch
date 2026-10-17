@@ -1,0 +1,685 @@
+{
+ "meta": {
+  "package": "BIOA_LOS40_05_PLC_LOC_INT.pcc",
+  "stem": "BIOA_LOS40_05_PLC_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130860",
+   "en": "In other news, ExoGeni Corp is still denying reports that one of their survey teams has gone missing in the Hades Gamma cluster.",
+   "tr": "Diğer haberlerde, ExoGeni Corp, araştırma ekiplerinden birinin Hades Gamma kümesinde kaybolduğu yönündeki haberleri hâlâ yalanlıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130861",
+   "en": "In breaking news, Chairman Burns of the Parliament Subcommittee on Transhuman Studies has been kidnapped by biotic extremists.",
+   "tr": "Son dakika: Parlamento Transhuman Çalışmalar Alt Komitesi Başkanı Burns, biyotik aşırılıkçılar tarafından kaçırıldı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130864",
+   "en": "Presidium technicians are struggling to understand why a computer system catastrophically overloaded recently.",
+   "tr": "Presidium teknisyenleri, bir bilgisayar sisteminin yakın zamanda neden felaket düzeyinde aşırı yüklendiğini anlamaya çalışıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130866",
+   "en": "Alliance officials report that a geth incursion into the Armstrong Cluster has been repulsed, with the geth suffering heavy casualties.",
+   "tr": "İttifak yetkilileri, Armstrong Kümesi'ne yönelik geth saldırısının püskürtüldüğünü, geth'in ağır kayıplar verdiğini bildirdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130867",
+   "en": "A research facility in the Hades Gamma cluster was the victim of an attack by biotic extremists.",
+   "tr": "Hades Gamma kümesindeki bir araştırma tesisi biyotik aşırılıkçıların saldırısına uğradı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130868",
+   "en": "Miners in the Skyllian Verge are planning to resume operations on an asteroid rich in element zero.",
+   "tr": "Skyllian Verge'deki madenciler, element sıfır bakımından zengin bir asteroitte faaliyetlere yeniden başlamayı planlıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130871",
+   "en": "A research station on Noveria has reportedly been destroyed. The exact cause is currently unknown.",
+   "tr": "Noveria'daki bir araştırma istasyonunun yok edildiği bildirildi. Kesin neden şu anda bilinmiyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130872",
+   "en": "A salarian excavation team has run into an unexpected problem after unearthing a Prothean dig site.",
+   "tr": "Bir salarian kazı ekibi, bir Prothean kazı alanını ortaya çıkardıktan sonra beklenmedik bir sorunla karşılaştı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130873",
+   "en": "In entertainment news, Francis Kitt has announced plans to direct \"Hamlet\" with elcor cast members.",
+   "tr": "Eğlence haberlerinde, Francis Kitt \"Hamlet\"i elcor oyuncularla yönetme planlarını duyurdu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|130874",
+   "en": "Treaty negotiations between the Alliance and the salarian republic have finally concluded.",
+   "tr": "İttifak ile salarian cumhuriyeti arasındaki antlaşma müzakereleri nihayet sonuçlandı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|134763",
+   "en": "When asked why communication with the survey team was suddenly cut off last week, company officials refused to comment.",
+   "tr": "Geçen hafta etüt ekibiyle iletişimin neden aniden kesildiği sorulduğunda şirket yetkilileri yorum yapmayı reddetti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|134764",
+   "en": "ExoGeni Corp recently released an official statement regarding their missing survey team in the Hades Gamma cluster.",
+   "tr": "ExoGeni Corp, Hades Gamma kümesinde kaybolan etüt ekibiyle ilgili yakın zamanda resmî bir açıklama yayımladı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|134765",
+   "en": "According to the statement, the remains of the survey team were discovered not far from their abandoned research camp. There were no survivors.",
+   "tr": "Açıklamaya göre etüt ekibinin kalıntıları terk edilmiş araştırma kamplarının çok uzağında olmayan bir yerde bulundu. Hayatta kalan yok."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|134766",
+   "en": "It is believed the researchers were the victims of a random attack by raiders or mercenaries. Names will be released after next of kin are notified.",
+   "tr": "Araştırmacıların haydutların ya da paralı askerlerin rastgele bir saldırısının kurbanı olduğu sanılıyor. İsimler yakınlarına haber verildikten sonra açıklanacak."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|135603",
+   "en": "C-Sec has declined to press charges in the death of human Conrad Verner, who was killed yesterday morning after assaulting a group of turians in a restaurant in the Wards.",
+   "tr": "C-Sec, dün sabah Wards'taki bir restoranda bir grup turian'a saldırdıktan sonra öldürülen insan Conrad Verner'ın ölümüyle ilgili dava açmayı reddetti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|136490",
+   "en": "Reporter Khalisah al-Jilani recently attempted to land an interview with Commander Shepard, the first human Spectre.",
+   "tr": "Muhabir Khalisah al-Jilani, ilk insan Spectre olan Komutan Shepard'la röportaj yapmaya çalıştı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|136493",
+   "en": "When pressed on the issues, however, Commander Shepard reportedly lost control and assaulted the reporter.",
+   "tr": "Ancak konulara baskı yapıldığında Komutan Shepard'ın kontrolünü kaybedip muhabire saldırdığı bildirildi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|136494",
+   "en": "Commander Shepard answered difficult questions, demonstrating that under the military uniform is a keen diplomatic mind.",
+   "tr": "Komutan Shepard zor soruları yanıtlayarak askerî üniformanın altında keskin bir diplomatik zekâ olduğunu gösterdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|137652",
+   "en": "Terra Firma Party candidate Charles Saracino confirms that the first human Spectre endorsed his candidacy.",
+   "tr": "Terra Firma Partisi adayı Charles Saracino, ilk insan Spectre'ın adaylığını desteklediğini doğruladı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|138917",
+   "en": "Admiral Kahoku, a respected member of the Alliance military, has passed away.",
+   "tr": "İttifak ordusunun saygın üyelerinden Amiral Kahoku hayatını kaybetti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|138918",
+   "en": "Because Verner initiated the assault, it has been ruled self-defense. Ambassador Udina has no plans to appeal the ruling.",
+   "tr": "Saldırıyı Verner başlattığı için olay meşru müdafaa sayıldı. Büyükelçi Udina karara itiraz etmeyi planlamıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|140921",
+   "en": "Alliance officials have raided a dangerous cult controlled by a former Alliance officer, Major Kyle.",
+   "tr": "İttifak yetkilileri, eski bir İttifak subayı olan Binbaşı Kyle'ın yönettiği tehlikeli bir tarikata baskın düzenledi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143041",
+   "en": "The biotics commandeered a freighter and were last seen in the Hades Gamma cluster. No demands have yet been made.",
+   "tr": "Biyotikler bir yük gemisine el koydu ve en son Hades Gamma kümesinde görüldü. Henüz herhangi bir talepte bulunulmadı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143044",
+   "en": "Technicians are reportedly unsure of what caused the malfunction, or even what the system was originally designed to do.",
+   "tr": "Teknisyenlerin arızanın nedeninden, hatta sistemin aslında ne amaçla tasarlandığından bile emin olmadığı bildiriliyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143045",
+   "en": "C-Sec is investigating the possible vandalism or misuse of public property.",
+   "tr": "C-Sec, kamu malına olası zarar verme ya da kötüye kullanım olduğunu soruşturuyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143046",
+   "en": "In the event of future geth activity, the Alliance plans to maintain a strong security presence in the area.",
+   "tr": "Gelecekte bir geth faaliyeti olursa İttifak bölgede güçlü bir güvenlik varlığı sürdürmeyi planlıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143047",
+   "en": "Major Kyle and his cultists refused to surrender and were killed in the resulting firefight.",
+   "tr": "Binbaşı Kyle ve tarikatçıları teslim olmayı reddetti ve çıkan çatışmada öldürüldü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143048",
+   "en": "Major Kyle surrendered and is now being treated for severe post-traumatic stress disorder.",
+   "tr": "Binbaşı Kyle teslim oldu ve şu anda ağır travma sonrası stres bozukluğu için tedavi ediliyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143049",
+   "en": "The veteran soldier, who won the love of his troops during conflict with the batarians, died of natural causes.",
+   "tr": "Batarian'larla çatışma sırasında askerlerinin sevgisini kazanan emektar asker doğal nedenlerle öldü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143050",
+   "en": "Kahoku is survived by his wife and three children, who are planning a small, private memorial service. ",
+   "tr": "Kahoku'nun geride eşi ve üç çocuğu kaldı; aile küçük, özel bir anma töreni planlıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143051",
+   "en": "A daring Alliance raid killed the biotics. Miraculously, none of the researchers were harmed.",
+   "tr": "Cesur bir İttifak baskını biyotikleri öldürdü. Mucize eseri hiçbir araştırmacı zarar görmedi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143052",
+   "en": "Drugged researchers were used as human shields, and there were several civilian casualties in the ensuing Alliance raid.",
+   "tr": "İlaçla sersemletilmiş araştırmacılar canlı kalkan olarak kullanıldı ve ardından gelen İttifak baskınında birkaç sivil öldü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143053",
+   "en": "The facility is expected to re-open soon, with tighter security measures in place.",
+   "tr": "Tesisin daha sıkı güvenlik önlemleriyle yakında yeniden açılması bekleniyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143054",
+   "en": "The drugged researchers attacked Alliance soldiers, and the rescue operation became a brutal massacre.",
+   "tr": "İlaçla sersemletilmiş araştırmacılar İttifak askerlerine saldırdı ve kurtarma operasyonu acımasız bir katliama dönüştü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143055",
+   "en": "The research center is unlikely to re-open in the near future.",
+   "tr": "Araştırma merkezinin yakın gelecekte yeniden açılması olası değil."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143056",
+   "en": "Raids by a criminal warlord had recently disrupted mining operations in the area.",
+   "tr": "Suçlu bir savaş lordunun baskınları yakın zamanda bölgedeki madencilik faaliyetlerini aksattı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143057",
+   "en": "After negotiations with the Alliance military, however, the warlord has allowed mining operations to resume.",
+   "tr": "Ancak İttifak ordusuyla yapılan müzakerelerin ardından savaş lordu madencilik faaliyetlerinin yeniden başlamasına izin verdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143058",
+   "en": "The warlord was subsequently killed, however, and infighting among his lieutenants has made future raids unlikely.",
+   "tr": "Ancak savaş lordu sonradan öldürüldü ve yardımcıları arasındaki iç çatışmalar gelecekteki baskınları olasılık dışı bıraktı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143059",
+   "en": "Nonya Tombiri has been arrested and removed from her post as administrator of the Caleston mining station.",
+   "tr": "Nonya Tombiri tutuklandı ve Caleston madencilik istasyonu yöneticiliğinden alındı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143060",
+   "en": "Administrator Nonya Tombiri of the Caleston mining station has vanished and is presumed dead following a violent incident at her offices.",
+   "tr": "Caleston madencilik istasyonu yöneticisi Nonya Tombiri, ofislerinde yaşanan şiddet olayının ardından ortadan kayboldu ve öldüğü varsayılıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143061",
+   "en": "Local officials have not provided details, but Tombiri was allegedly involved with the Caleston Cartel, a group of red sand dealers.",
+   "tr": "Yerel yetkililer ayrıntı vermedi ancak Tombiri'nin bir kırmızı kum satıcıları grubu olan Caleston Karteli'yle bağlantılı olduğu öne sürüldü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143062",
+   "en": "Administrator Tombiri's successor has not yet been named.",
+   "tr": "Yönetici Tombiri'nin halefi henüz belirlenmedi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143063",
+   "en": "Administrator Tombiri of the Caleston mining station reports that the Caleston Cartel has been brought to justice.",
+   "tr": "Caleston madencilik istasyonu yöneticisi Tombiri, Caleston Karteli'nin adalete teslim edildiğini bildirdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143064",
+   "en": "The Cartel, a powerful group of red sand dealers, has defied authorities for years.",
+   "tr": "Güçlü bir kırmızı kum satıcıları grubu olan Kartel, yıllardır yetkililere meydan okuyordu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143065",
+   "en": "EAE, which owns the Caleston mining facility, was reportedly pleased that the Cartel is no longer operating in its station.",
+   "tr": "Caleston madencilik tesisinin sahibi EAE'nin, Kartel'in istasyonunda artık faaliyet göstermemesinden memnun olduğu bildirildi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143066",
+   "en": "ExoGeni officials have announced that their research colony on Feros is being shut down.",
+   "tr": "ExoGeni yetkilileri, Feros'taki araştırma kolonilerinin kapatıldığını duyurdu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143067",
+   "en": "Difficult living conditions combined with poor yield of viable discoveries made it unfeasible economically to keep the colony going.",
+   "tr": "Zor yaşam koşulları ve uygulanabilir keşiflerin düşük verimi, koloniyi sürdürmeyi ekonomik olarak imkânsız kıldı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143068",
+   "en": "After years of poor economic performance, ExoGeni has announced that its research colony on Feros is finally returning a profit.",
+   "tr": "Yıllarca süren kötü ekonomik performansın ardından ExoGeni, Feros'taki araştırma kolonisinin sonunda kâr getirmeye başladığını duyurdu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143069",
+   "en": "New discoveries and a dedicated colonization effort have finally paid off for ExoGeni.",
+   "tr": "Yeni keşifler ve kararlı bir kolonileşme çabası sonunda ExoGeni için meyve verdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143070",
+   "en": "ExoGeni's stock rose sharply with the announcement, with investors pleased at this surprising news.",
+   "tr": "ExoGeni'nin hisseleri açıklamayla keskin biçimde yükseldi; yatırımcılar bu şaşırtıcı haberden memnun."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143249",
+   "en": "Given the research conducted on Noveria, many are blaming the destruction on an experiment gone awry.",
+   "tr": "Noveria'da yürütülen araştırmalar göz önüne alındığında, birçok kişi yıkımı ters giden bir deneye bağlıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143250",
+   "en": "Reports indicate that Administrator Anoleis died during the disaster. A new administrator has yet to be appointed.",
+   "tr": "Raporlar, Yönetici Anoleis'in felaket sırasında öldüğünü gösteriyor. Yeni bir yönetici henüz atanmadı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143251",
+   "en": "Administrator Anoleis currently faces criminal charges as a result of the disaster, although the nature of the charges remains unclear.",
+   "tr": "Yönetici Anoleis şu anda felaket nedeniyle cezai suçlamalarla karşı karşıya, ancak suçlamaların niteliği belirsiz."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143252",
+   "en": "Administrator Anoleis has released few details, except to say that investigations and repairs are ongoing.",
+   "tr": "Yönetici Anoleis, soruşturmaların ve onarımların sürdüğünü söylemek dışında pek ayrıntı vermedi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143253",
+   "en": "Hanar protesters have blockaded the dig site, claiming that artifacts of \"the Enkindlers\", as the hanar call them, should not be disturbed.",
+   "tr": "Hanar protestocular, hanar'ın \"Enkindlers\" dediği varlıkların eserlerine dokunulmaması gerektiğini söyleyerek kazı alanını ablukaya aldı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143254",
+   "en": "The excavation team has appealed to hanar representatives on the Citadel to reach a diplomatic solution.",
+   "tr": "Kazı ekibi, diplomatik bir çözüm bulması için Citadel'deki hanar temsilcilerine başvurdu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143255",
+   "en": "The production will open dramatic theater to the elcor with a Hamlet who uses elcor body language and pheromones.",
+   "tr": "Yapım, elcor beden dilini ve feromonlarını kullanan bir Hamlet'le dramatik tiyatroyu elcor'a açacak."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143256",
+   "en": "Kitt claims that he is also excited by giving a human audience the chance to judge Hamlet by his deeds and not his emotions.",
+   "tr": "Kitt, insan izleyicilere Hamlet'i duygularıyla değil eylemleriyle yargılama fırsatı vermekten de heyecan duyduğunu söylüyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143257",
+   "en": "Binary Helix has settled out-of-court with a krogan group that had accused the genetics corporation of fraud.",
+   "tr": "Binary Helix, genetik şirketini dolandırıcılıkla suçlayan bir krogan grubuyla mahkeme dışı anlaştı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143258",
+   "en": "The krogan group had contracted Binary Helix to perform studies with a long-range goal of curing their genetic sterilization.",
+   "tr": "Krogan grubu, genetik kısırlıklarını tedavi etmeyi uzun vadeli hedefleyen çalışmalar yapması için Binary Helix'le sözleşme yapmıştı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143259",
+   "en": "The group later sued for a return of investment money when the study produced no viable results.",
+   "tr": "Grup, çalışma uygulanabilir sonuç vermeyince yatırım paralarının iadesi için dava açtı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143260",
+   "en": "Salarian officials are complaining that the Alliance made unreasonable demands in hard-line negotiation tactics.",
+   "tr": "Salarian yetkilileri, İttifak'ın sert pazarlık taktikleriyle makul olmayan talepler öne sürdüğünden şikâyetçi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143261",
+   "en": "The resulting deal, negotiated by Elias Keeler, will bring billions of credits to the Alliance.",
+   "tr": "Elias Keeler'ın müzakere ettiği anlaşma İttifak'a milyarlarca kredi getirecek."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143262",
+   "en": "Salarians praised the openness and flexibility of Alliance negotiators in pursuing a deal that benefited both sides.",
+   "tr": "Salarian'lar, İttifak müzakerecilerinin her iki tarafa da yarar sağlayan bir anlaşma peşindeki açıklığını ve esnekliğini övdü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143263",
+   "en": "The deal was brokered by new Alliance negotiator Thomas Kent after his mentor Elias Keeler withdrew, citing health reasons.",
+   "tr": "Anlaşma, akıl hocası Elias Keeler sağlık nedenleriyle çekildikten sonra yeni İttifak müzakerecisi Thomas Kent tarafından sağlandı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143264",
+   "en": "Unfortunately, Shepard refused to answer questions, raising concerns regarding the Spectre's commitment to humanity.",
+   "tr": "Ne yazık ki Shepard soruları yanıtlamayı reddetti ve bu, Spectre'ın insanlığa bağlılığı konusunda endişelere yol açtı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143265",
+   "en": "We'll have exclusive footage later today.",
+   "tr": "Özel görüntüleri bugün ilerleyen saatlerde yayınlayacağız."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143269",
+   "en": "Coming up in a report later today, Emily Wong investigates corruption on the Citadel and uncovers a full-blown crime syndicate.",
+   "tr": "Bugün ilerleyen saatlerdeki haberde Emily Wong Citadel'deki yolsuzluğu araştırıyor ve tam teşekküllü bir suç örgütünü ortaya çıkarıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143271",
+   "en": "Have increases in Citadel traffic endangered our safety? Emily Wong offers an inside look at the dangerous world of space-traffic control.",
+   "tr": "Citadel'deki trafik artışı güvenliğimizi tehlikeye mi attı? Emily Wong uzay trafik kontrolünün tehlikeli dünyasına içeriden bir bakış sunuyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|143272",
+   "en": "Later today, Emily Wong goes inside the fast-paced world of space-traffic controllers with an exclusive interview.",
+   "tr": "Bugün ilerleyen saatlerde Emily Wong, özel bir röportajla uzay trafik kontrolörlerinin hızlı tempolu dünyasının içine giriyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147295",
+   "en": "The Council isn't going to ask me any questions, are they?",
+   "tr": "Konsey bana soru sormayacak, değil mi?"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147296",
+   "en": "I can't believe the Council ignored all the evidence against Saren!",
+   "tr": "Konsey'in Saren aleyhindeki tüm kanıtları görmezden geldiğine inanamıyorum!"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147299",
+   "en": "Welcome to Port Hanshan, the galaxy's most respected site for independent scientific research and development.",
+   "tr": "Bağımsız bilimsel araştırma ve geliştirme için galaksinin en saygın merkezi Port Hanshan'a hoş geldiniz."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147306",
+   "en": "In light of the recent attack on Eden Prime, many colonial investors are pulling their support for future projects.",
+   "tr": "Eden Prime'a yapılan son saldırı ışığında birçok koloni yatırımcısı gelecekteki projelere desteğini çekiyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147307",
+   "en": "In remembrance of Eden Prime, we present another profile in courage with Serviceman Nirali Bhatia.",
+   "tr": "Eden Prime anısına, Er Nirali Bhatia ile bir cesaret portresi daha sunuyoruz."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147308",
+   "en": "Reports are circulating that Alliance Ambassador Udina has accused a Spectre of orchestrating the attack on Eden Prime.",
+   "tr": "İttifak Büyükelçisi Udina'nın bir Spectre'ı Eden Prime saldırısını planlamakla suçladığına dair haberler dolaşıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147309",
+   "en": "In a further developments in the Eden Prime investigation, the Council has reportedly revoked the Spectre status of one of its operatives.",
+   "tr": "Eden Prime soruşturmasındaki yeni gelişmede, Konsey'in ajanlarından birinin Spectre statüsünü iptal ettiği bildirildi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147418",
+   "en": "Celebrations are being planned for the anniversary of the end of the Rachni Wars.",
+   "tr": "Rachni Savaşları'nın bitişinin yıl dönümü için kutlamalar planlanıyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147419",
+   "en": "Many Council worlds, particularly asari and salarian colonies, will hold victory parades to commemorate the defeat of the invading rachni.",
+   "tr": "Başta asari ve salarian kolonileri olmak üzere pek çok Konsey dünyası, istilacı rachni'nin yenilgisini anmak için zafer geçitleri düzenleyecek."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|147420",
+   "en": "In a rare admission of debt, several asari colonies have invited krogan to be honored for the victories the uplifted krogan made possible.",
+   "tr": "Nadir bir borç itirafıyla birkaç asari kolonisi, yükseltilen krogan'ın mümkün kıldığı zaferler için krogan'ı onurlandırmak üzere davet etti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148929",
+   "en": "A devoted wife and talented chef, Serviceman Bhatia joined the Alliance military under the deferred education plan.",
+   "tr": "Sadık bir eş ve yetenekli bir aşçı olan Er Bhatia, ertelenmiş eğitim planı kapsamında İttifak ordusuna katıldı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148930",
+   "en": "After finishing her service, Bhatia planned to open a restaurant. Instead, she gave her life protecting the colonists of Eden Prime.",
+   "tr": "Hizmetini bitirdikten sonra Bhatia bir restoran açmayı planlıyordu. Bunun yerine Eden Prime kolonistlerini korurken hayatını verdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148931",
+   "en": "For more profiles in courage, or to explore opportunities in the military, please visit the Alliance military on the extranet, keyword \"courage\".",
+   "tr": "Daha fazla cesaret portresi için ya da askerî fırsatları keşfetmek için lütfen ekstranette \"cesaret\" anahtar kelimesiyle İttifak ordusunu ziyaret edin."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148932",
+   "en": "Udina reportedly based his accusation upon eyewitness accounts of the scene, but lacked the evidence to demand further investigation.",
+   "tr": "Udina'nın suçlamasını olay yerindeki görgü tanıklarının ifadelerine dayandırdığı bildiriliyor ama daha ileri soruşturma talep edecek kanıttan yoksundu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148933",
+   "en": "When asked to comment, a Council spokesperson would only state that the investigation of the attacks upon Eden Prime was currently ongoing.",
+   "tr": "Yorum istenen Konsey sözcüsü yalnızca Eden Prime saldırılarının soruşturmasının sürdüğünü söyledi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148934",
+   "en": "While the unnamed operative has not yet been apprehended, a Council spokesman confirmed that corrective actions had been taken.",
+   "tr": "Adı açıklanmayan ajan henüz yakalanmasa da bir Konsey sözcüsü düzeltici adımların atıldığını doğruladı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148937",
+   "en": "I doubt it. We've made our reports. Now we just have to trust Ambassador Udina.",
+   "tr": "Sanmıyorum. Raporlarımızı verdik. Şimdi sadece Büyükelçi Udina'ya güvenmemiz gerek."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148938",
+   "en": "No we don't, sir.",
+   "tr": "Hayır, gerekmiyor, efendim."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148939",
+   "en": "Saren's one of their best operatives. It's only natural that they'd take his word over ours.",
+   "tr": "Saren en iyi ajanlarından biri. Onun sözüne bizimkinden çok güvenmeleri doğal."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148940",
+   "en": "Oh, so now we just chase leads while this smug turian runs around with his geth troopers.",
+   "tr": "Ah, yani şimdi bu kendini beğenmiş turian geth askerleriyle dolanırken biz de ipuçlarının peşinde koşacağız."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148941",
+   "en": "That's politics, Chief.",
+   "tr": "Politika bu, Başçavuş."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148942",
+   "en": "I hate politics.",
+   "tr": "Politikadan nefret ediyorum."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148943",
+   "en": "I'm going to enjoy the look on the Council's face when they see evidence they can't just ignore.",
+   "tr": "Konsey'in yüzünün, görmezden gelemeyecekleri kanıtı görünce alacağı hâli izlemekten zevk alacağım."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148944",
+   "en": "I just hope it isn't too late. All this time we spent hunting for evidence gave Saren a nice head start.",
+   "tr": "Umarım çok geç değildir. Kanıt aramak için harcadığımız tüm bu zaman Saren'e iyi bir fark attı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148945",
+   "en": "There's no way the Council can ignore us this time. Saren's days as a Spectre are done.",
+   "tr": "Bu sefer Konsey bizi görmezden gelemez. Saren'in Spectre olarak günleri bitti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148946",
+   "en": "If they had listened to me earlier, Saren would already be in custody. Every life lost because of that delay is on the Council's head.",
+   "tr": "Beni daha önce dinleselerdi Saren çoktan gözaltında olurdu. O gecikme yüzünden kaybedilen her can Konsey'in boynunda."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148947",
+   "en": "There's no way the Council can ignore us this time. Saren's days as a Spectre are done.",
+   "tr": "Bu sefer Konsey bizi görmezden gelemez. Saren'in Spectre olarak günleri bitti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148948",
+   "en": "Don't congratulate yourself too much. All this time you were hunting for evidence, Saren was moving forward with his plan.",
+   "tr": "Kendinizi fazla kutlamayın. Siz kanıt ararken Saren planını ilerletmeye devam etti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148949",
+   "en": "If the evidence is worth trying to kill me for, I hope it is sufficient to motivate the Council.",
+   "tr": "Kanıt beni öldürmeye değecek kadar önemliyse umarım Konsey'i harekete geçirmeye yeter."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148950",
+   "en": "You know, Saren would already be in custody if you'd gone straight to the Council with your information.",
+   "tr": "Biliyor musun, bilgilerinle doğrudan Konsey'e gitseydin Saren çoktan gözaltında olurdu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148951",
+   "en": "A lone quarian with no credentials? The  Council would laugh me out of the chambers. That is, if Saren hadn't killed me by then.",
+   "tr": "Kimliği olmayan yalnız bir quarian mı? Konsey beni salondan güle güle kovardı. Tabii Saren o zamana kadar beni öldürmediyse."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148952",
+   "en": "Watch yourself out there. Fai Dan said we wouldn't have any cover.",
+   "tr": "Dikkatli ol. Fai Dan sığınak olmayacağını söyledi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148953",
+   "en": "I imagine I've been in as many trench fights as you have, Lieutenant... if not more.",
+   "tr": "Sanırım ben de en az sizin kadar siper savaşı yaşadım, Teğmen... hatta daha fazla."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148954",
+   "en": "Keep your head down out there. Fai Dan said we wouldn't have any cover.",
+   "tr": "Başını aşağıda tut. Fai Dan sığınak olmayacağını söyledi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148955",
+   "en": "I shall endeavor to follow your lead.",
+   "tr": "Önderliğinizi izlemeye çalışacağım."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148956",
+   "en": "Are you certain that this is the proper path? Fai Dan said we would not have cover from the geth.",
+   "tr": "Bunun doğru yol olduğundan emin misiniz? Fai Dan geth'e karşı siperimiz olmayacağını söylemişti."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148957",
+   "en": "Commander Shepard is choosing the best option. We can take the geth. The tunnels are an unknown quantity.",
+   "tr": "Komutan Shepard en iyi seçeneği seçiyor. Geth'i alt edebiliriz. Tüneller bilinmeyen bir şey."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148958",
+   "en": "Multiple opponents and no cover makes for a difficult fight. Be careful out there.",
+   "tr": "Birden çok düşman ve siper yokluğu zor bir savaş demek. Dikkatli ol."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148959",
+   "en": "At least the geth are a known quantity. Who knows what the beasts in the tunnels are like?",
+   "tr": "En azından geth bilinen bir güç. Tünellerdeki canavarların nasıl olduğunu kim bilebilir?"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148960",
+   "en": "This is going to be bad, isn't it? Fai Dan said there was no cover out there.",
+   "tr": "Bu kötü olacak, değil mi? Fai Dan orada hiç siper olmadığını söyledi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148961",
+   "en": "I'll take a tough fight over tunnels. In a tunnel, they always know where you are.",
+   "tr": "Tünellere göre zor bir savaşı tercih ederim. Tünelde her zaman nerede olduğunu bilirler."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148962",
+   "en": "For your own safety, and to protect the privacy of others, you are required to obey any directions given by our security personnel.",
+   "tr": "Kendi güvenliğiniz ve başkalarının gizliliğinin korunması için güvenlik personelimizin verdiği tüm yönergelere uymanız gerekmektedir."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148963",
+   "en": "If you have questions or concerns, our friendly administrative staff is always available. Thank you, and enjoy your stay.",
+   "tr": "Sorularınız ya da endişeleriniz varsa nazik idari personelimiz her zaman hizmetinizde. Teşekkür ederiz, konaklamanızın keyfini çıkarın."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148964",
+   "en": "I have studied the Protheans for decades, but I have never felt this sense of foreboding. What will we find down there?",
+   "tr": "Prothean'ları onlarca yıldır inceliyorum ama hiç böyle bir kötü önsezi yaşamamıştım. Aşağıda ne bulacağız?"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148965",
+   "en": "Whatever we find, be cautious. If this were simply an automated trap, Saren would have triggered it as well.",
+   "tr": "Ne bulursak bulalım dikkatli olun. Bu sadece otomatik bir tuzak olsaydı Saren de tetiklerdi."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148966",
+   "en": "If this were simply an automated trap, Saren would have triggered it. What do you think this is?",
+   "tr": "Bu sadece otomatik bir tuzak olsaydı Saren tetiklerdi. Sence bu ne?"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148967",
+   "en": "Whatever it is, we should be careful.",
+   "tr": "Her ne ise, dikkatli olmalıyız."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148968",
+   "en": "What do you think we're going to find down here? It has to be useful, if it specifically targeted us.",
+   "tr": "Sence aşağıda ne bulacağız? Bizi özellikle hedef aldıysa faydalı olmalı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148969",
+   "en": "I don't know. I just hope that whatever's down here is friendly. We've got enough enemies at the moment.",
+   "tr": "Bilmiyorum. Umarım aşağıdaki her ne ise dosttur. Şu an yeterince düşmanımız var."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148970",
+   "en": "Whatever's down here is Prothean, right? So it has to be on our side, against the Reapers.",
+   "tr": "Aşağıdaki her şey Prothean, değil mi? O zaman Biçiciler'e karşı bizim tarafımızda olmalı."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148971",
+   "en": "I'm not putting faith in anybody being on our side. Not any more.",
+   "tr": "Kimsenin bizim tarafımızda olduğuna güvenmiyorum. Artık değil."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148972",
+   "en": "What the hell is down here? Is this just another trap, or did we finally run into some good luck?",
+   "tr": "Aşağıda ne var, Allah aşkına? Bu da başka bir tuzak mı, yoksa sonunda şansımız mı döndü?"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148973",
+   "en": "Don't get your hopes up. The only thing we can depend on right now is ourselves.",
+   "tr": "Umutlanma. Şu an güvenebileceğimiz tek şey kendimiz."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148976",
+   "en": "Proponents of expanded human colonization insist that Eden Prime was an isolated case. Nevertheless, colonist enrollment has dropped sharply.",
+   "tr": "Genişleyen insan kolonileşmesinin savunucuları Eden Prime'ın münferit bir olay olduğunda ısrar ediyor. Yine de koloni başvuruları keskin biçimde düştü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|148977",
+   "en": "Many colonial proposals are on hold until backers have some reassurance that human colonies will be adequately protected.",
+   "tr": "Birçok koloni teklifi, destekçiler insan kolonilerinin yeterince korunacağına dair güvence alana dek askıda."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149101",
+   "en": "All their culture, all their advanced technology, and the Protheans were taken in by the Reapers, just as we were. They failed.",
+   "tr": "Tüm kültürleri, tüm gelişmiş teknolojileri ve Prothean'lar da tıpkı bizim gibi Biçiciler'e kandı. Başarısız oldular."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149102",
+   "en": "Just like my people. But they also gave us a chance to save ourselves. We must hurry!",
+   "tr": "Tıpkı benim halkım gibi. Ama bize kendimizi kurtarma şansı da verdiler. Acele etmeliyiz!"
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149103",
+   "en": "It's tragic. For all their great achievements, the Protheans lost everything, just like my people. Even their last plan failed.",
+   "tr": "Trajik. Tüm büyük başarılarına rağmen Prothean'lar tıpkı benim halkım gibi her şeylerini kaybetti. Son planları bile başarısız oldu."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149104",
+   "en": "The Protheans did not fail. They gave us a chance. It falls to us to make the most of it, so I suggest we hurry.",
+   "tr": "Prothean'lar başarısız olmadı. Bize bir şans verdiler. Bundan en iyi şekilde yararlanmak bize düşüyor, bu yüzden acele etmemizi öneririm."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149105",
+   "en": "So many races look up to the Protheans as paragons of civilization. But they were fooled by the Reapers, just as we were. They failed.",
+   "tr": "Pek çok ırk Prothean'lara medeniyetin örnekleri olarak bakıyor. Ama onlar da tıpkı bizim gibi Biçiciler'e kandı. Başarısız oldular."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149106",
+   "en": "Not entirely. They've given us a weapon. They've given us a chance... if we can just get there in time.",
+   "tr": "Tamamen değil. Bize bir silah verdiler. Bize bir şans verdiler... yeter ki zamanında oraya ulaşalım."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149107",
+   "en": "So many dead for a plan that accomplished nothing. Saren gets through the Conduit, the Reapers arrive, and the Protheans fail.",
+   "tr": "Hiçbir şey başarmayan bir plan için bu kadar ölü. Saren Conduit'ten geçiyor, Biçiciler geliyor ve Prothean'lar başarısız oluyor."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149108",
+   "en": "We can get there in time. Their plan only fails if we do, and I've come too far to watch Saren win.",
+   "tr": "Zamanında oraya ulaşabiliriz. Plan ancak biz başarısız olursak başarısız olur ve ben Saren'in kazanmasını izlemek için buraya kadar gelmedim."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149109",
+   "en": "I can't believe it. So many dead, and it was all for nothing. The Protheans fell right into the Reapers' trap, just like we did.",
+   "tr": "İnanamıyorum. Bu kadar ölü ve hepsi boşunaymış. Prothean'lar tıpkı bizim gibi Biçiciler'in tuzağına düştü."
+  },
+  {
+   "key": "BIOA_LOS40_05_PLC_LOC|sp_news_vids_D|149110",
+   "en": "Keep it moving. I've got no intention of ending up like them.",
+   "tr": "Yürümeye devam et. Onlar gibi bitmeye hiç niyetim yok."
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "meta": {
+  "package": "BIOA_UNC52_00main_DSG_LOC_INT.pcc",
+  "stem": "BIOA_UNC52_00main_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_UNC52_00main_DSG_LOC|prc1_trig_main_facility_radio_D|175076",
+   "en": "You're heading in the wrong direction. You've got to get to those torches.",
+   "tr": "Yanlış yöne gidiyorsunuz. O meşalelere ulaşmalısınız."
+  },
+  {
+   "key": "BIOA_UNC52_00main_DSG_LOC|prc1_trig_main_facility_radio_D|175077",
+   "en": "Can you hear me? The main facility is locked down.",
+   "tr": "Beni duyabiliyor musunuz? Ana tesis kilitli."
+  },
+  {
+   "key": "BIOA_UNC52_00main_DSG_LOC|prc1_trig_main_facility_radio_D|175078",
+   "en": "Please. You've got to get those torches offline before it's too late.",
+   "tr": "Lütfen. Çok geç olmadan o meşaleleri devre dışı bırakmalısınız."
+  }
+ ]
+}

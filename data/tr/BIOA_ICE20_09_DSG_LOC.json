@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "package": "BIOA_ICE20_09_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE20_09_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78803",
+   "en": "Go on through, Commander.",
+   "tr": "Geçin Komutan."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78804",
+   "en": "Access to the garage is restricted.",
+   "tr": "Garaja erişim kısıtlıdır."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78805",
+   "en": "Yes, that's genuine. Drive safely. The weather's supposed to be pretty bad out in the Aleutsk Valley.",
+   "tr": "Evet, bu geçerli. Güvenli sürün. Aleutsk Vadisi'nde hava epey kötü olacakmış."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78807",
+   "en": "If you want to enter the garage, you need authorization from Mr. Anoleis. No exceptions. Sorry.",
+   "tr": "Garaja girmek istiyorsanız Bay Anoleis'ten izin almanız gerekir. İstisna yok. Üzgünüm."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78809",
+   "en": "Have a good day.",
+   "tr": "İyi günler."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78810",
+   "en": "I have authorization. Excuse me.",
+   "tr": "Yetkim var. Müsaadenizle."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78812",
+   "en": "I'm on Citadel business. I need to leave this station.",
+   "tr": "Citadel işi için buradayım. Bu istasyondan ayrılmam gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78817",
+   "en": "Fine, I was just passing by.",
+   "tr": "Tamam, sadece geçiyordum."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78819",
+   "en": "I have a pass.",
+   "tr": "Bir geçiş kartım var."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78820",
+   "en": "Stand aside.",
+   "tr": "Çekil."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|78822",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig07_garage_D|143717",
+   "en": "I have to leave.",
+   "tr": "Gitmem gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|29797",
+   "en": "What the-- What are these things? Fan out and secure the area! No one gets in or out!",
+   "tr": "Ne-- Bunlar da ne? Dağılın ve bölgeyi güvenliğe alın! Kimse girip çıkamaz!"
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|29798",
+   "en": "What did you do here, Commander?",
+   "tr": "Burada ne yaptınız Komutan?"
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|29824",
+   "en": "The geth ambushed us. We fought back. That's it.",
+   "tr": "Geth pusu kurdu. Karşılık verdik. O kadar."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|29828",
+   "en": "Me? I'm the victim here! The geth attacked us.",
+   "tr": "Ben mi? Burada kurban benim! Geth bize saldırdı."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|29829",
+   "en": "Only what I had to. I didn't ask the geth to attack.",
+   "tr": "Sadece yapmam gerekeni. Geth'in saldırmasını ben istemedim."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|40801",
+   "en": "I defeated a geth ambush.",
+   "tr": "Bir geth pususunu püskürttüm."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|40809",
+   "en": "I defended myself.",
+   "tr": "Kendimi savundum."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|40810",
+   "en": "Just business.",
+   "tr": "Sadece iş."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78878",
+   "en": "Geth? You expect me to-- Where did they come from?",
+   "tr": "Geth mi? Benden-- Nereden geldiler?"
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78879",
+   "en": "If I were to guess, the Matriarch packed them in the shipping containers she arrived with.",
+   "tr": "Tahmin etmem gerekirse Matriarch bunları getirdiği nakliye konteynerlerine doldurmuş."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78880",
+   "en": "If I were to guess, the Matriarch packed them in the shipping containers she arrived with.",
+   "tr": "Tahmin etmem gerekirse Matriarch bunları getirdiği nakliye konteynerlerine doldurmuş."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78881",
+   "en": "The asari bitch came with a bunch of cargo. They were probably packed in those.",
+   "tr": "Asari kadın bir sürü kargoyla geldi. Muhtemelen onlara doldurulmuşlardır."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78882",
+   "en": "If I were to guess, Benezia packed them in the shipping containers she arrived with.",
+   "tr": "Tahmin etmem gerekirse Benezia bunları geldiği nakliye konteynerlerine doldurmuş."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78883",
+   "en": "I do not believe that. We did thorough scans of those. There were no power sources, no element zero masses...",
+   "tr": "Buna inanmıyorum. Onları detaylı taradık. Güç kaynağı yoktu, element sıfır kütlesi yoktu..."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78884",
+   "en": "If Benezia-sama's containers were packed with these things, there are many more out there.",
+   "tr": "Benezia-sama'nın konteynerleri bu şeylerle doluysa dışarıda çok daha fazlası var."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78885",
+   "en": "Dozens at least. They are machines. You could pack them tightly.",
+   "tr": "En az onlarca. Makineler onlar. Sıkıca paketlenebilirler."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78886",
+   "en": "I appreciate that. My people are good, but few of them have combat experience.",
+   "tr": "Bunu takdir ediyorum. Adamlarım iyi ama pek azının savaş deneyimi var."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78887",
+   "en": "For three centuries, everyone has said, \"The geth do not come out of the Veil.\" What is happening out there?",
+   "tr": "Üç yüzyıldır herkes \"Geth Peçe'den çıkmaz\" dedi. Orada neler oluyor?"
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78888",
+   "en": "I must report to the Executive Board. If word gets out about loose geth, there may be an investor panic.",
+   "tr": "Yönetim Kurulu'na rapor vermeliyim. Başıboş geth haberi yayılırsa yatırımcı paniği olabilir."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78895",
+   "en": "I need numbers, Captain. A dozen? A hundred?",
+   "tr": "Rakamlara ihtiyacım var Kaptan. Bir düzine mi? Yüz mü?"
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78897",
+   "en": "We've fought geth before. We'll take care of them for you.",
+   "tr": "Geth'le daha önce savaştık. Sizin için onlarla ilgileniriz."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78899",
+   "en": "We may be seeing a lot more of these things in the coming months.",
+   "tr": "Önümüzdeki aylarda bu şeylerden çok daha fazlasını görebiliriz."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78908",
+   "en": "How many more?",
+   "tr": "Daha kaç tane?"
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78909",
+   "en": "We'll handle them.",
+   "tr": "Biz hallederiz."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|78910",
+   "en": "Now you know what to look for.",
+   "tr": "Artık neye bakacağınızı biliyorsunuz."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|101411",
+   "en": "The same thing that happens to all species, Captain. Evolution.",
+   "tr": "Tüm türlerin başına gelen şey Kaptan. Evrim."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig09_maeko_post_garage_D|158953",
+   "en": "Safe money says Benezia had them in those shipping containers she arrived with.",
+   "tr": "Güvenli bahis, Benezia'nın onları geldiği nakliye konteynerlerinde taşıdığı."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig12_garage_ambush_D|86643",
+   "en": "Guess we know what the Matriarch had in the crates.",
+   "tr": "Sanırım Matriarch'ın sandıklarda ne taşıdığını öğrendik."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig12_garage_ambush_D|86644",
+   "en": "So that's what the asari had in the crates.",
+   "tr": "Demek asari kadının sandıklarındaki buymuş."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig12_garage_ambush_D|86645",
+   "en": "I'd say these are what the Matriarch had in the crates.",
+   "tr": "Matriarch'ın sandıklarda taşıdığı şeyler bunlar diyebilirim."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig12_garage_ambush_D|86646",
+   "en": "I'd say these are what the Matriarch had in the crates.",
+   "tr": "Matriarch'ın sandıklarda taşıdığı şeyler bunlar diyebilirim."
+  },
+  {
+   "key": "BIOA_ICE20_09_DSG_LOC|ice20_trig12_garage_ambush_D|86647",
+   "en": "Guess we know what Benezia had in the crates.",
+   "tr": "Sanırım Benezia'nın sandıklarda ne taşıdığını öğrendik."
+  }
+ ]
+}

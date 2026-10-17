@@ -1,0 +1,1945 @@
+{
+ "meta": {
+  "package": "BIOA_ICE20_03A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE20_03A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_ambient_investigator_D|27290",
+   "en": "Please don't touch anything.",
+   "tr": "Lütfen hiçbir şeye dokunmayın."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_ambient_investigator_D|27291",
+   "en": "I'm trying to work here.",
+   "tr": "Burada çalışmaya çalışıyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_ambient_investigator_D|27292",
+   "en": "You're in my light.",
+   "tr": "Işığımı kapatıyorsunuz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_ambient_investigator_D|27293",
+   "en": "You're disturbing the crime scene. Could you find someplace else to be?",
+   "tr": "Olay yerini bozuyorsunuz. Başka bir yerde durabilir misiniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25683",
+   "en": "I acquiesced to your demands. Do not press me for more. There are limits.",
+   "tr": "Taleplerinize boyun eğdim. Daha fazlası için üstelemeyin. Sınırlar var."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25684",
+   "en": "We both gained from our arrangement. Why don't you go look for Lady Benezia?",
+   "tr": "Anlaşmamızdan ikimiz de kazançlı çıktık. Neden gidip Leydi Benezia'yı aramıyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25685",
+   "en": "You will excuse me if I don't stand up.",
+   "tr": "Ayağa kalkmazsam mazur görürsünüz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25686",
+   "en": "Yes, isn't everything?",
+   "tr": "Evet, her şey öyle değil mi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25687",
+   "en": "Businesses come here to avoid the second-guessing of galactic law.",
+   "tr": "Şirketler, galaktik yasanın sorgulamalarından kaçınmak için buraya gelir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25689",
+   "en": "Just so we understand each other.",
+   "tr": "Birbirimizi anlamamız için."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25690",
+   "en": "I will not allow you to harass our clients. This world is private property.",
+   "tr": "Müşterilerimizi rahatsız etmenize izin vermeyeceğim. Bu dünya özel mülktür."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25692",
+   "en": "I trust you can show yourself out.",
+   "tr": "Kapıyı bulabileceğinizi umarım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25693",
+   "en": "Don't be ridiculous. Do you think a for-profit company would take no precautions against loss of life and material?",
+   "tr": "Saçmalamayın. Kâr amaçlı bir şirketin can ve mal kaybına karşı önlem almayacağını mı sanıyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25694",
+   "en": "Project leads have the final say here. Not meddlesome politicians.",
+   "tr": "Burada son sözü proje yöneticileri söyler. Burnunu sokan politikacılar değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25695",
+   "en": "Nevertheless, I have a responsibility to keep you away from them. Spectres are not encumbered by a need for due process.",
+   "tr": "Yine de sizi onlardan uzak tutmak benim sorumluluğum. Spectre'lar usulüne uygun işlem gerekliliğiyle kısıtlı değildir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25697",
+   "en": "Spectre. Have you, by any chance, acquired Mr. Qui'in's so-called \"evidence?\"",
+   "tr": "Spectre. Bu arada Bay Qui'in'in sözde \"delillerini\" aldınız mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25698",
+   "en": "Please do not weary me with more talk. Noveria does not run itself.",
+   "tr": "Lütfen daha fazla konuşarak beni yormayın. Noveria kendi kendine işlemez."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25699",
+   "en": "I presume you are here to present me with Opold's package?",
+   "tr": "Sanırım bana Opold'un paketini getirdiniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25700",
+   "en": "I am in the middle of nine things, all of them annoying. What do you want now?",
+   "tr": "Dokuz işin ortasındayım ve hepsi sinir bozucu. Şimdi ne istiyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25726",
+   "en": "I'll be leaving now.",
+   "tr": "Şimdi gidiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25727",
+   "en": "Are you telling me you have no safety protocols?",
+   "tr": "Güvenlik protokolünüz olmadığını mı söylüyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25729",
+   "en": "And I represent the \"second-guessing of galactic law.\"",
+   "tr": "Ben de \"galaktik yasanın sorgulanması\"nı temsil ediyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25730",
+   "en": "I'm not here to investigate your tenants.",
+   "tr": "Kiracılarınızı soruşturmaya gelmedim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25734",
+   "en": "I've acquired Qui'in's evidence of your misconduct. Let's talk.",
+   "tr": "Sizin suistimalinize dair Qui'in'in delillerini aldım. Konuşalım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25735",
+   "en": "Your secretary is a plant for the Executive Board. Internal Affairs, she said.",
+   "tr": "Sekreteriniz Yönetim Kurulu'nun adamı. İç Soruşturma olduğunu söyledi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25736",
+   "en": "Opold wants me to smuggle a package through security.",
+   "tr": "Opold, bir paketi güvenlikten kaçırmamı istiyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25754",
+   "en": "I'm leaving.",
+   "tr": "Gidiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|25755",
+   "en": "I'm conducting an investigation. It's a matter of galactic security.",
+   "tr": "Bir soruşturma yürütüyorum. Bu galaktik güvenlik meselesi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26027",
+   "en": "We are back in contact with Peak 15. They say you destroyed the hot lab facility and killed Lady Benezia.",
+   "tr": "Peak 15 ile yeniden bağlantı kurduk. Sıcak laboratuvar tesisini yok edip Leydi Benezia'yı öldürdüğünüzü söylüyorlar."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26028",
+   "en": "I need more than your word to act on that. Bring me whatever he's smuggling and I'll act accordingly.",
+   "tr": "Buna dayanarak harekete geçmek için sözünüzden fazlası gerek. Kaçırdığı şeyi bana getirin, ona göre hareket ederim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26029",
+   "en": "I am no weapons expert, but it seems to me that this is a rather advanced device. Certainly contraband.",
+   "tr": "Silah uzmanı değilim ama bana bu oldukça gelişmiş bir cihaz gibi görünüyor. Kesinlikle kaçak mal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26030",
+   "en": "It would have been unfortunate if this had reached its buyer.",
+   "tr": "Alıcısına ulaşsaydı talihsiz olurdu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26032",
+   "en": "I am willing to give you 200 credits and a pass to leave Hanshan. Not without an understanding between us, of course.",
+   "tr": "Size 200 kredi ve Hanshan'dan ayrılmak için bir geçiş kartı vermeye hazırım. Elbette aramızda bir anlayış olmadan değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26033",
+   "en": "You can only go to Peak 15 to speak to Lady Benezia. If you cause trouble, or if the staff asks you to leave, you will be thrown offworld.",
+   "tr": "Peak 15'e yalnızca Leydi Benezia ile konuşmak için gidebilirsiniz. Sorun çıkarırsanız ya da personel gitmenizi isterse gezegenden atılırsınız."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26034",
+   "en": "I understand your meaning perfectly. I will give you an additional 400 credits, for a total of 600.",
+   "tr": "Ne demek istediğinizi gayet iyi anlıyorum. Size 400 kredi daha vereceğim, toplam 600."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26035",
+   "en": "If there is nothing else, I would like to go back to work.",
+   "tr": "Başka bir şey yoksa işime dönmek istiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26036",
+   "en": "Of course. That makes perfect sense. I wouldn't know what to do with it anyway. It would be best if you kept it.",
+   "tr": "Elbette. Çok mantıklı. Zaten onunla ne yapacağımı bilemezdim. En iyisi sizde kalması."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26037",
+   "en": "Er, oh, uh, of course.",
+   "tr": "Ee, ah, ıh, elbette."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26038",
+   "en": "How interesting. There is a limited number of people who could provide one. I will increase the reward to 600 credits. ",
+   "tr": "Ne ilginç. Bir tane sağlayabilecek insan sayısı sınırlı. Ödülü 600 krediye çıkaracağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26039",
+   "en": "That is not the response I anticipated from a Spectre. I may have underestimated you.",
+   "tr": "Bu, bir Spectre'dan beklediğim cevap değil. Sizi hafife almış olabilirim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26040",
+   "en": "You are shrewd to use this as leverage. If it is a serious infraction, I will give you a pass.",
+   "tr": "Bunu koz olarak kullanmanız akıllıca. Ciddi bir ihlalse size bir geçiş kartı vereceğim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26042",
+   "en": "I would compensate you. The precise amount in credits depends on the severity of Opold's crime.",
+   "tr": "Sizi tazmin ederim. Kredi olarak kesin miktar, Opold'un suçunun ciddiyetine bağlı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26043",
+   "en": "No one here is fond of trials. They make shareholders nervous.",
+   "tr": "Burada kimse yargılamaları sevmez. Hissedarları gerer."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26044",
+   "en": "More likely we would simply let him go. Of course, he would be blacklisted by the companies here.",
+   "tr": "Büyük ihtimalle onu bırakırdık. Elbette buradaki şirketler tarafından kara listeye alınırdı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26045",
+   "en": "I appreciate your report.",
+   "tr": "Raporunuzu takdir ediyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26048",
+   "en": "She arrived a few days ago, accompanied by a personal escort and some cargo. She is up at Peak 15.",
+   "tr": "Birkaç gün önce kişisel eskortu ve biraz kargoyla geldi. Peak 15'te."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26050",
+   "en": "If I knew, I wouldn't be at liberty to say. She came here as Agent Saren's executor.",
+   "tr": "Bilsem bile söyleme yetkim yok. Buraya Ajan Saren'in İcra Memuru olarak geldi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26051",
+   "en": "She is here on business for Binary Helix. There were issues at Peak 15 that required Saren's attention.",
+   "tr": "Binary Helix adına iş için burada. Peak 15'te Saren'in ilgisini gerektiren sorunlar vardı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26052",
+   "en": "Excuse me, his what?",
+   "tr": "Pardon, onun neyi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26053",
+   "en": "Executor. Saren is a major shareholder in Binary Helix. Lady Benezia is authorized to act in his name.",
+   "tr": "İcra Memuru. Saren, Binary Helix'in büyük hissedarı. Leydi Benezia onun adına hareket etmeye yetkili."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26054",
+   "en": "His what?",
+   "tr": "Onun neyi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26055",
+   "en": "Excuse me, his what?",
+   "tr": "Pardon, onun neyi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26056",
+   "en": "Excuse me, his what?",
+   "tr": "Pardon, onun neyi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26057",
+   "en": "Excuse me, his what?",
+   "tr": "Pardon, onun neyi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26059",
+   "en": "Large, heavy, and sealed. It passed weapons screening. Beyond that it is not our concern.",
+   "tr": "Büyük, ağır ve mühürlü. Silah taramasından geçti. Bunun ötesi bizi ilgilendirmez."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26061",
+   "en": "I'm afraid that you cannot. Peak 15 is a private facility in the Skadi Mountains.",
+   "tr": "Korkarım olmaz. Peak 15, Skadi Dağları'nda özel bir tesis."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26064",
+   "en": "Regardless, there is a blizzard in the area. Shuttles are grounded, and surface access has been cut off.",
+   "tr": "Her halükârda bölgede tipi var. Mekikler yerde ve yüzey erişimi kesildi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26065",
+   "en": "Cut off, I said. The roads are not suitable for travel. Don't make an issue of this, Shepard.",
+   "tr": "Kesildi dedim. Yollar seyahate uygun değil. Bunu mesele yapmayın Shepard."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26071",
+   "en": "The phrase is self-explanatory. Bodyguards attending to the safety of her person. Mainly asari commandos.",
+   "tr": "İfade açık. Kişisel güvenliğiyle ilgilenen koruma görevlileri. Çoğunlukla asari komandolar."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26072",
+   "en": "Commandos? You didn't think that odd?",
+   "tr": "Komandolar mı? Bunu tuhaf bulmadınız mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26073",
+   "en": "They followed all our regulations. I had no reason to forbid Lady Benezia from taking them.",
+   "tr": "Tüm kurallarımıza uydular. Leydi Benezia'nın onları getirmesini yasaklamak için bir nedenim yoktu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26074",
+   "en": "You let asari who can kill you with their brains run around, but give us flak about guns?",
+   "tr": "Sizi beyinleriyle öldürebilecek asari kadınlar serbestçe dolaşıyor ama bize silahlar yüzünden çemkiriyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26075",
+   "en": "Commandos? You didn't think that was weird?",
+   "tr": "Komandolar mı? Bunu garip bulmadın mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26076",
+   "en": "Commandos? Odd that you shouldn't mind their presence.",
+   "tr": "Komandolar mı? Varlıklarını umursamamanız tuhaf."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26077",
+   "en": "And you didn't think that odd?",
+   "tr": "Peki bunu tuhaf bulmadınız mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26079",
+   "en": "Every minute of my time you waste costs the company 12 credits. I will keep a running tally.",
+   "tr": "Boşa harcadığınız her dakikam şirkete 12 kredi kaybettiriyor. Hesabını tutacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26080",
+   "en": "Good. I received a dozen urgent messages while you dithered about.",
+   "tr": "İyi. Siz oyalanırken bir düzine acil mesaj aldım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26081",
+   "en": "I believe I explained this already, did I not?",
+   "tr": "Sanırım bunu zaten açıklamıştım, değil mi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26082",
+   "en": "Agent Saren? One of your Spectre compatriots?",
+   "tr": "Ajan Saren mi? Spectre meslektaşlarınızdan biri mi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26084",
+   "en": "It's possible, given his interests. What our clients do in their labs is their business.",
+   "tr": "Çıkarları göz önüne alınırsa mümkün. Müşterilerimizin laboratuvarlarında yaptıkları kendi işleri."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26087",
+   "en": "An area of severe weather has cut off contact. Things will return to normal in a few days.",
+   "tr": "Şiddetli bir hava olayı bağlantıyı kesti. Birkaç gün içinde her şey normale dönecek."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26090",
+   "en": "I have placed Lorik Qui'in, the manager of the Hanshan office, under internal review. I cannot comment further at this time. ",
+   "tr": "Hanshan ofisinin müdürü Lorik Qui'in'i iç incelemeye aldım. Şu an daha fazla yorum yapamam."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26093",
+   "en": "You need my help to leave this port. I am curious why you would renege on our agreement.",
+   "tr": "Bu limandan ayrılmak için yardımıma ihtiyacınız var. Anlaşmamızı neden bozduğunuzu merak ediyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26094",
+   "en": "That should have been my decision.",
+   "tr": "Bu karar benim olmalıydı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26095",
+   "en": "I consider this matter closed. Was there anything else you wanted?",
+   "tr": "Bu meseleyi kapalı sayıyorum. Başka istediğiniz bir şey var mıydı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26096",
+   "en": "There is a limited number of people who could help you. I must consult my records.",
+   "tr": "Size yardım edebilecek insan sayısı sınırlı. Kayıtlarıma bakmam gerek."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26097",
+   "en": "Your \"likes\" are no concern of mine. I gave you the opportunity to earn my gratitude.",
+   "tr": "\"Hoşlandıklarınız\" beni ilgilendirmez. Size minnetimi kazanma fırsatı verdim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26098",
+   "en": "I will not insult you by demanding the buyer's identity. I will alert the guards to be on the lookout.",
+   "tr": "Alıcının kimliğini isteyip sizi aşağılamayacağım. Muhafızları dikkatli olmaları için uyaracağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26099",
+   "en": "So long as contraband is not brought into Noveria, I do not object.",
+   "tr": "Noveria'ya kaçak mal sokulmadığı sürece itirazım yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26100",
+   "en": "Then why are you bothering me?",
+   "tr": "O halde neden beni rahatsız ediyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26101",
+   "en": "Eh-- That is good to know. Would you mind stepping outside? I'm afraid I will have to let Ms. Parasini go. It can't wait.",
+   "tr": "Ee-- Bunu bilmek iyi. Dışarıda bekler misiniz? Korkarım Bayan Parasini'yi işten çıkarmam gerekecek. Bekleyemez."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26102",
+   "en": "Ms. Parasini? Would you come in here for a moment?",
+   "tr": "Bayan Parasini? Bir dakika buraya gelir misiniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26103",
+   "en": "Of course, Mr. Anoleis.",
+   "tr": "Elbette Bay Anoleis."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26105",
+   "en": "Your mind has not been fully on your duty to me.",
+   "tr": "Aklınız bana karşı görevinizde tam olarak değildi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26106",
+   "en": "I don't understand, sir.",
+   "tr": "Anlamıyorum efendim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26107",
+   "en": "I'm not losing this job.",
+   "tr": "Bu işi kaybetmeyeceğim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26109",
+   "en": "Anoleis, if I don't report in, the Board will figure it out! Put the weapon d--",
+   "tr": "Anoleis, rapor vermezsem Kurul anlar! Silahı indi--"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26110",
+   "en": "I said, I'm not losing this job!",
+   "tr": "Dedim, bu işi kaybetmeyeceğim!"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26112",
+   "en": "Yes, I have it with me.",
+   "tr": "Evet, yanımda."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26113",
+   "en": "I changed my mind and gave it to him.",
+   "tr": "Fikrimi değiştirip ona verdim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26118",
+   "en": "Here's the package. Proof enough?",
+   "tr": "İşte paket. Yeterli kanıt mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26121",
+   "en": "All part of the job.",
+   "tr": "İşin bir parçası."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26123",
+   "en": "Opold's buyer is not going to be happy when he hears this. I can keep an eye on him, if you sweeten the reward.",
+   "tr": "Opold'un alıcısı bunu duyunca hiç memnun olmayacak. Ödülü tatlandırırsanız onu gözetleyebilirim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26125",
+   "en": "You know, that's a dangerous weapon. It shouldn't be left unsecured. I should impound it.",
+   "tr": "Biliyorsunuz, bu tehlikeli bir silah. Korumasız bırakılmamalı. El koymam gerek."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26127",
+   "en": "If this incident was reported, it would be bad for business. But I could arrange for my report to headquarters to be \"overlooked.\"",
+   "tr": "Bu olay rapor edilirse iş için kötü olur. Ama genel merkeze raporumun \"gözden kaçmasını\" ayarlayabilirim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26128",
+   "en": "Of course. But I'll keep that mod. It's military hardware. I can't leave it in the hands of a civilian.",
+   "tr": "Elbette. Ama o modifikasyonu ben alıyorum. Askerî donanım. Bir sivilin elinde bırakamam."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26130",
+   "en": "I already have a pass. ",
+   "tr": "Zaten bir geçiş kartım var."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26132",
+   "en": "How thankful are you?",
+   "tr": "Ne kadar minnettarsınız?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26133",
+   "en": "It's not yours yet. Make it worth my time.",
+   "tr": "Henüz sizin değil. Zamanıma değsin."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26135",
+   "en": "Not so fast. In exchange, I want garage access.",
+   "tr": "Acele etmeyin. Karşılığında garaja erişim istiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26138",
+   "en": "What will you do for me in return?",
+   "tr": "Karşılığında benim için ne yapacaksınız?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26140",
+   "en": "So you'll arrest him?",
+   "tr": "Yani onu tutuklayacak mısınız?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26142",
+   "en": "I'll look into it and get back to you.",
+   "tr": "Bakıp size dönerim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26144",
+   "en": "I've heard an asari Matriarch is here. Benezia?",
+   "tr": "Burada bir asari Matriarch olduğunu duydum. Benezia mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26145",
+   "en": "What brought her out here?",
+   "tr": "Onu buraya ne getirdi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26148",
+   "en": "What did you mean by \"personal escort?\"",
+   "tr": "\"Kişisel eskort\" ile ne demek istediniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26156",
+   "en": "What can you tell me about her cargo?",
+   "tr": "Kargosu hakkında bana ne söyleyebilirsiniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26159",
+   "en": "I'd like to see her immediately.",
+   "tr": "Onu hemen görmek istiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26163",
+   "en": "Surface access, you say?",
+   "tr": "Yüzey erişimi mi dediniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26169",
+   "en": "What do you mean \"personal escort?\"",
+   "tr": "\"Kişisel eskort\" derken ne kastediyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26177",
+   "en": "Back to my other questions.",
+   "tr": "Diğer sorularıma dönelim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26178",
+   "en": "I have no more questions at this time.",
+   "tr": "Şu an başka sorum yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26179",
+   "en": "Do you do business with Saren?",
+   "tr": "Saren'le iş yapıyor musunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26182",
+   "en": "Is Binary Helix developing weapons for him?",
+   "tr": "Binary Helix onun için silah mı geliştiriyor?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26185",
+   "en": "Is there some problem on Peak 15?",
+   "tr": "Peak 15'te bir sorun mu var?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26188",
+   "en": "Why is Synthetic Insights closed?",
+   "tr": "Synthetic Insights neden kapalı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26191",
+   "en": "Opold was smuggling bobble-head geisha dolls. It wasn't worth your time.",
+   "tr": "Opold biblo geyşa bebekleri kaçırıyordu. Vaktinize değmezdi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26193",
+   "en": "Not right now.",
+   "tr": "Şu an olmaz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26194",
+   "en": "Alternate means out of Hanshan were available.",
+   "tr": "Hanshan'dan çıkmak için başka yollar vardı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26196",
+   "en": "I don't like your attitude, Mr. Anoleis.",
+   "tr": "Tavrınızdan hoşlanmıyorum Bay Anoleis."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26198",
+   "en": "I got a better deal from the intended buyer.",
+   "tr": "Asıl alıcıdan daha iyi bir anlaşma yaptım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26200",
+   "en": "I delivered the package to its intended buyer.",
+   "tr": "Paketi asıl alıcısına teslim ettim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26201",
+   "en": "I've decided to keep it myself.",
+   "tr": "Kendim saklamaya karar verdim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26203",
+   "en": "I don't have it yet.",
+   "tr": "Henüz bende değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26204",
+   "en": "I don't have it yet.",
+   "tr": "Henüz bende değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26355",
+   "en": "Mr. Qui'in contacted me. You gave him his evidence. Now he is blackmailing me, as well.",
+   "tr": "Bay Qui'in benimle iletişime geçti. Ona delillerini siz verdiniz. Şimdi beni de şantajla tehdit ediyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26356",
+   "en": "Have you reconsidered your ill-advised decision to withhold Qui'in's materials?",
+   "tr": "Qui'in'in belgelerini saklama yönündeki talihsiz kararınızı yeniden düşündünüz mü?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26357",
+   "en": "Indeed? Surely you can see his story is a lie, to cover his own crimes?",
+   "tr": "Öyle mi? Hikâyesinin kendi suçlarını örtmek için uydurulmuş bir yalan olduğunu görüyorsunuzdur elbette?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26358",
+   "en": "We certainly shall.",
+   "tr": "Kesinlikle göreceğiz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26359",
+   "en": "As a small item of note, Mr. Qui'in has hidden away certain records that would greatly aid my investigation.",
+   "tr": "Küçük bir not olarak, Bay Qui'in soruşturmama büyük ölçüde yardımcı olacak bazı kayıtları sakladı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26360",
+   "en": "If you happen to recover them, I would be in your debt. You understand me?",
+   "tr": "Onları ele geçirirseniz size borçlu kalırım. Beni anlıyor musunuz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26369",
+   "en": "Mr. Qui'in's records would doubtless aid my own investigation against him.",
+   "tr": "Bay Qui'in'in kayıtları, ona karşı yürüttüğüm soruşturmaya şüphesiz yardımcı olur."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26370",
+   "en": "I will soon enough. My security teams are seeing to the matter.",
+   "tr": "Yakında olacağım. Güvenlik ekiplerim konuyla ilgileniyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26371",
+   "en": "Will you turn it over to me, then?",
+   "tr": "O halde bana verecek misiniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26372",
+   "en": "Don't be foolish. I can have you deported and take it by force.",
+   "tr": "Aptallık etmeyin. Sizi sınır dışı ettirip zorla alabilirim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26373",
+   "en": "I will give you time to reconsider. Don't disappoint me. And don't cross me.",
+   "tr": "Yeniden düşünmeniz için size zaman vereceğim. Beni hayal kırıklığına uğratmayın. Ve bana ihanet etmeyin."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26375",
+   "en": "Mr. Qui'in is under criminal investigation. You cannot believe any fabrications he would spin in his defense.",
+   "tr": "Bay Qui'in cezai soruşturma altında. Savunması için uyduracağı hiçbir yalana inanamazsınız."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26378",
+   "en": "What are you proposing, then? That question is not an admission of guilt.",
+   "tr": "O halde ne öneriyorsunuz? Bu soru suçu kabul etmek anlamına gelmiyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26379",
+   "en": "And you would keep this supposed \"evidence,\" I imagine.",
+   "tr": "Ve bu sözde \"delili\" kendinizde tutacaksınız, sanırım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26381",
+   "en": "You need a pass to enter our garage. As a gesture of goodwill, I will provide one. Noveria prizes its good relations with the Citadel.",
+   "tr": "Garajımıza girmek için geçiş kartı gerekli. İyi niyet göstergesi olarak size bir tane vereceğim. Noveria, Citadel'le iyi ilişkilerine değer verir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26382",
+   "en": "I'm so glad you've decided to help us.",
+   "tr": "Bize yardım etmeye karar verdiğinize çok sevindim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26383",
+   "en": "I'm so glad you've decided to help us.",
+   "tr": "Bize yardım etmeye karar verdiğinize çok sevindim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26384",
+   "en": "Ah, we could have saved time by beating him into cooperation.",
+   "tr": "Ah, onu dövüp işbirliğine zorlayarak zaman kazanabilirdik."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26385",
+   "en": "We couldn't do that!",
+   "tr": "Bunu yapamayız!"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26386",
+   "en": "Yes we could. You think he lifts anything heavier than stacks of hardcopy?",
+   "tr": "Yapabiliriz. Basılı evrak desteleri dışında bir şey kaldırdığını mı sanıyorsun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26387",
+   "en": "I would've arrested him. But we do need to get on with the mission.",
+   "tr": "Ben onu tutuklardım. Ama göreve devam etmemiz lazım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26389",
+   "en": "You are letting him get away with this so we can continue our investigation? How shortsighted.",
+   "tr": "Soruşturmamıza devam edelim diye bunun yanına kalmasına izin veriyorsunuz? Ne kısa görüşlü."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26392",
+   "en": "I trust you will attend to your own business now.",
+   "tr": "Umarım artık kendi işinizle ilgilenirsiniz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26393",
+   "en": "If this \"evidence\" proved an actual crime, I would be a fool not to accept your deal.",
+   "tr": "Bu \"delil\" gerçek bir suçu kanıtlıyorsa, teklifinizi kabul etmemek aptallık olurdu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26398",
+   "en": "Lorik Qui'in wants me to break into his own office. He says you're corrupt.",
+   "tr": "Lorik Qui'in kendi ofisine girmemi istiyor. Sizin yolsuz olduğunuzu söylüyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26399",
+   "en": "We'll see what the truth is soon enough.",
+   "tr": "Gerçeği yakında göreceğiz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26410",
+   "en": "He asked me to recover certain records relating to you.",
+   "tr": "Sizinle ilgili bazı kayıtları ele geçirmemi istedi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26412",
+   "en": "You have any proof of that?",
+   "tr": "Bunun bir kanıtın var mı?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26414",
+   "en": "From what I saw, Qui'in's allegations are true.",
+   "tr": "Gördüğüm kadarıyla Qui'in'in iddiaları doğru."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26420",
+   "en": "Calm down. I don't care about your petty crimes.",
+   "tr": "Sakin ol. Küçük suçlarını umursamıyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26435",
+   "en": "That's my plan. Goodbye, Mr. Anoleis.",
+   "tr": "Planım bu. Hoşça kalın Bay Anoleis."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26436",
+   "en": "Shut your piehole. Give me a pass to leave or the evidence goes to the Board.",
+   "tr": "Çeneni kapa. Bana ayrılmam için bir geçiş kartı ver, yoksa deliller Kurul'a gider."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26437",
+   "en": "Give me what I need to find the Matriarch, and I'll leave the evidence with you.",
+   "tr": "Matriarch'ı bulmam için ihtiyacım olanı ver, delilleri sende bırakırım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26441",
+   "en": "That will do fine.",
+   "tr": "Bu iş görür."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26748",
+   "en": "A curious statement. Regardless, I am not concerned. Agent Saren will hold you to blame for her death, not I. ",
+   "tr": "Tuhaf bir ifade. Neyse, umurumda değil. Ajan Saren onun ölümünden beni değil, sizi sorumlu tutacak."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26749",
+   "en": "I would like to know exactly what happened. Off the record.",
+   "tr": "Tam olarak ne olduğunu bilmek istiyorum. Kayıt dışı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26750",
+   "en": "I am prepared to offer our standard 200-credit fee.",
+   "tr": "Standart 200 kredilik ücretimizi teklif etmeye hazırım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26751",
+   "en": "A great deal, I imagine. Very well. I will double the standard fee.",
+   "tr": "Sanırım çok şey. Pekâlâ. Standart ücreti ikiye katlayacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26752",
+   "en": "Do you think I am foolish enough to insult someone who is blackmailing me? I can double the standard fee, but no more.",
+   "tr": "Beni şantajla tehdit eden birine hakaret edecek kadar aptal olduğumu mu sanıyorsunuz? Standart ücreti ikiye katlayabilirim ama fazlasını değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26753",
+   "en": "No need to take umbrage. I will double the standard fee.",
+   "tr": "Alınmanıza gerek yok. Standart ücreti ikiye katlayacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26754",
+   "en": "Yes, amusing. Be serious.",
+   "tr": "Evet, eğlenceli. Ciddi olun."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26755",
+   "en": "That's-- If what you say is true, the profits could be incalculable.",
+   "tr": "Bu-- Söyledikleriniz doğruysa kârlar hesaplanamayacak kadar büyük olabilir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26764",
+   "en": "Biological weapons. Perhaps a hazmat team could recover some genetic material.",
+   "tr": "Biyolojik silahlar. Belki bir tehlikeli madde ekibi biraz genetik materyal toplayabilir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26765",
+   "en": "I appreciate your insight, Commander. If you will excuse me.",
+   "tr": "Görüşleriniz için minnettarım Komutan. İzin verirseniz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26766",
+   "en": "No matter. I am confident I can convince one of the survivors to talk.",
+   "tr": "Önemli değil. Hayatta kalanlardan birini konuşmaya ikna edebileceğimden eminim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26767",
+   "en": "Please close the door when you leave.",
+   "tr": "Giderken kapıyı kapatın lütfen."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26768",
+   "en": "I am not holding you to blame for anything that occurred. Clearly, they failed to maintain control over an experiment.",
+   "tr": "Olanlardan sizi sorumlu tutmuyorum. Anlaşılan bir deney üzerindeki kontrolü kaybettiler."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26770",
+   "en": "I will escape from this arrangement. When I do, you had best steer clear of me.",
+   "tr": "Bu anlaşmadan kurtulacağım. O zaman benden uzak durmanız iyi olur."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26772",
+   "en": "No doubt you have more pressing demands on your time. As do I, to be frank.",
+   "tr": "Şüphesiz zamanınız üzerinde daha acil talepler var. Açıkçası benim de."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26774",
+   "en": "I do not believe-- That is not your best option. I would like to make a proposal.",
+   "tr": "Sanmıyorum-- Bu en iyi seçeneğiniz değil. Bir teklifte bulunmak istiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26775",
+   "en": "Give Mr. Qui'in's \"evidence\" to me. It is all lies. But it may help my investigation into his corruption.",
+   "tr": "Bay Qui'in'in \"delillerini\" bana verin. Hepsi yalan. Ama onun yolsuzluğuna dair soruşturmama yardımcı olabilir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26776",
+   "en": "Ultimately the courts will decide that. And I can afford quite a bit of justice.",
+   "tr": "Sonuçta bunu mahkemeler belirler. Ve ben epey adalet satın alabilirim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26777",
+   "en": "I could easily arrange passage to Peak 15. Last I heard of her, she was going there.",
+   "tr": "Peak 15'e geçişi kolayca ayarlayabilirim. En son duyduğuma göre oraya gidiyordu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26778",
+   "en": "I would also offer the Executive Board's standard compensation for private investigators.",
+   "tr": "Ayrıca Yönetim Kurulu'nun özel müfettişlere ödediği standart tazminatı da teklif ederim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26779",
+   "en": "We have a standard bonus we pay to private investigators. But you need more than that, do you not?",
+   "tr": "Özel müfettişlere ödediğimiz standart bir ikramiye var. Ama sizin bundan fazlasına ihtiyacınız var, değil mi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26780",
+   "en": "You need to speak with Lady Benezia. I can arrange access for you. If you give me this \"evidence.\"",
+   "tr": "Leydi Benezia ile konuşmanız gerekiyor. Erişimi ayarlayabilirim. Bana bu \"delili\" verirseniz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26781",
+   "en": "Excellent.",
+   "tr": "Mükemmel."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26782",
+   "en": "Here is a pass into our garage. I will wire the funds directly into your accounts.",
+   "tr": "İşte garajımıza geçiş kartı. Parayı doğrudan hesaplarınıza havale edeceğim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26783",
+   "en": "I accept this deal. I still insist I am innocent. That Qui'in is the guilty one.",
+   "tr": "Bu anlaşmayı kabul ediyorum. Yine de masum olduğumda ısrar ediyorum. Suçlu olan Qui'in."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26784",
+   "en": "Yes, of course he is.",
+   "tr": "Evet, tabii ki öyle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26785",
+   "en": "Yes, of course he is.",
+   "tr": "Evet, tabii ki öyle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26786",
+   "en": "Of course he is.",
+   "tr": "Tabii ki öyle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26787",
+   "en": "That is a mistake. But it is the right of every sentient being to make mistakes.",
+   "tr": "Bu bir hata. Ama hata yapmak her akıllı varlığın hakkıdır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26790",
+   "en": "How much would that be worth to you?",
+   "tr": "Bu senin için ne kadar eder?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26791",
+   "en": "Do you know how much the Daily Galactic News would pay for this?",
+   "tr": "Daily Galactic News bunun için ne kadar öder biliyor musun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26792",
+   "en": "Oh, I see. You're insulting me. If you want the truth, stop wasting my time and make a real offer.",
+   "tr": "Ha, anlıyorum. Bana hakaret ediyorsunuz. Gerçeği istiyorsanız zamanımı boşa harcamayı bırakıp gerçek bir teklif yapın."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26793",
+   "en": "They were breeding rachni.",
+   "tr": "Rachni üretiyorlardı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26794",
+   "en": "Seriously, rachni. They found a queen's egg.",
+   "tr": "Cidden, rachni. Bir kraliçenin yumurtasını bulmuşlar."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26796",
+   "en": "I'm always serious. Maybe you didn't notice.",
+   "tr": "Ben her zaman ciddiyim. Belki fark etmediniz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26805",
+   "en": "Let's say they were breeding monsters, and some of them escaped.",
+   "tr": "Diyelim ki canavar üretiyorlardı ve bazıları kaçtı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26807",
+   "en": "Life is full of little disappointments, Mr. Anoleis. This is one of yours.",
+   "tr": "Hayat küçük hayal kırıklıklarıyla dolu Bay Anoleis. Bu da sizinki."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26809",
+   "en": "Benezia didn't have full control of her own mind.",
+   "tr": "Benezia kendi aklının tam kontrolünde değildi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26810",
+   "en": "The staff recommended destroying the lab.",
+   "tr": "Personel laboratuvarın yok edilmesini önerdi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26812",
+   "en": "You get near a point, make it.",
+   "tr": "Bir noktaya yaklaşıyorsan söyle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26815",
+   "en": "I'll need something from you in exchange.",
+   "tr": "Karşılığında senden bir şey isteyeceğim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26816",
+   "en": "No. Just reminding you I have them. Enjoy your day.",
+   "tr": "Hayır. Sadece bende olduklarını hatırlatıyorum. İyi günler."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26818",
+   "en": "I have.",
+   "tr": "Aldım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26819",
+   "en": "No, not yet.",
+   "tr": "Hayır, henüz değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26820",
+   "en": "No, not yet.",
+   "tr": "Hayır, henüz değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26822",
+   "en": "It's not my place to believe you or not. I'm turning it over to the Executive Board.",
+   "tr": "Size inanıp inanmamak bana düşmez. Yönetim Kurulu'na teslim ediyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26824",
+   "en": "You're guilty as hell, and you're going down.",
+   "tr": "Kesinlikle suçlusun ve düşeceksin."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26825",
+   "en": "I'll consider it if you help me get to Matriarch Benezia.",
+   "tr": "Matriarch Benezia'ya ulaşmama yardım edersen düşünürüm."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26827",
+   "en": "And how would this generosity benefit me?",
+   "tr": "Bu cömertlik bana ne kazandıracak?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26829",
+   "en": "That sounds reasonable. You have a deal.",
+   "tr": "Makul görünüyor. Anlaştık."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26832",
+   "en": "How about this? You help me get to Benezia, I don't turn you over to the Board. And I keep the evidence to ensure your good behavior.",
+   "tr": "Şuna ne dersin? Benezia'ya ulaşmama yardım edersin, seni Kurul'a teslim etmem. Ben de iyi davranışını güvence altına almak için delilleri saklarım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26837",
+   "en": "I don't think so.",
+   "tr": "Sanmıyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|26839",
+   "en": "If it's fake, then you won't mind my turning it over to him.",
+   "tr": "Sahteyse onu ona teslim etmemde sakınca görmezsin."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|31461",
+   "en": "Commander Shepard, I have issues I must deal with now. I would prefer not to be disturbed.",
+   "tr": "Komutan Shepard, şu an ilgilenmem gereken meseleler var. Rahatsız edilmemeyi tercih ederim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|31462",
+   "en": "Be cautious, Spectre. You have no power over me.",
+   "tr": "Dikkatli olun Spectre. Benim üzerimde hiçbir gücünüz yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39921",
+   "en": "Benezia was out of control.",
+   "tr": "Benezia kontrolden çıkmıştı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39933",
+   "en": "What can you offer me?",
+   "tr": "Bana ne sunabilirsin?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39934",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39936",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39937",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39938",
+   "en": "[LIE] No.",
+   "tr": "[LIE] Hayır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39939",
+   "en": "Here you are.",
+   "tr": "Buyurun."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39940",
+   "en": "I gave it to him.",
+   "tr": "Ona verdim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39941",
+   "en": "I gave it to the buyer.",
+   "tr": "Alıcıya verdim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39942",
+   "en": "I'm keeping it.",
+   "tr": "Kendim saklıyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39943",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39944",
+   "en": "[LIE] I don't have it.",
+   "tr": "[LIE] Bende değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39945",
+   "en": "[Lie] It was worthless.",
+   "tr": "[Lie] Değersizdi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39946",
+   "en": "I had other options.",
+   "tr": "Başka seçeneklerim vardı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39947",
+   "en": "I don't like you.",
+   "tr": "Senden hoşlanmıyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39948",
+   "en": "The buyer offered more.",
+   "tr": "Alıcı daha fazlasını teklif etti."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39950",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39955",
+   "en": "Lorik asked me for help.",
+   "tr": "Lorik benden yardım istedi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39956",
+   "en": "I have Lorik's evidence.",
+   "tr": "Lorik'in delilleri bende."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39957",
+   "en": "Gianna is investigating you.",
+   "tr": "Gianna seni soruşturuyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39958",
+   "en": "Opold asked me to smuggle.",
+   "tr": "Opold kaçakçılık yapmamı istedi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39962",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39963",
+   "en": "We'll see.",
+   "tr": "Göreceğiz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39964",
+   "en": "He has evidence.",
+   "tr": "Elinde kanıt var."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39965",
+   "en": "Prove it.",
+   "tr": "Kanıtla."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39978",
+   "en": "No. You're guilty.",
+   "tr": "Hayır. Suçlusun."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39983",
+   "en": "Explain it to the Board.",
+   "tr": "Kurul'a anlat."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39984",
+   "en": "Then I'll give it to Qui'in.",
+   "tr": "O zaman Qui'in'e veririm."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39985",
+   "en": "We can reach an agreement.",
+   "tr": "Bir anlaşmaya varabiliriz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39989",
+   "en": "No deals.",
+   "tr": "Pazarlık yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39990",
+   "en": "If you help me get to Benezia.",
+   "tr": "Benezia'ya ulaşmama yardım edersen."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39991",
+   "en": "What do I get out of this?",
+   "tr": "Bundan ne kazanacağım?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39994",
+   "en": "I accept.",
+   "tr": "Kabul ediyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39995",
+   "en": "You'll do what I say.",
+   "tr": "Ben ne dersem onu yapacaksın."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|39996",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40005",
+   "en": "You'll do what I say.",
+   "tr": "Ben ne dersem onu yapacaksın."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40006",
+   "en": "Get me to Benezia.",
+   "tr": "Beni Benezia'ya ulaştır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40020",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40033",
+   "en": "Here's the package.",
+   "tr": "İşte paket."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40034",
+   "en": "I want garage access.",
+   "tr": "Garaj erişimi istiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40035",
+   "en": "What's in it for me?",
+   "tr": "Bundan bana ne?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40036",
+   "en": "So you'll arrest him?",
+   "tr": "Yani onu tutuklayacak mısınız?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40037",
+   "en": "I'll return later.",
+   "tr": "Daha sonra dönerim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40040",
+   "en": "My pleasure.",
+   "tr": "Zevkle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40041",
+   "en": "Let's discuss my reward.",
+   "tr": "Ödülümü konuşalım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40042",
+   "en": "What's it worth to you?",
+   "tr": "Senin için ne kadar eder?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40044",
+   "en": "I earned more.",
+   "tr": "Daha fazlasını hak ettim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40045",
+   "en": "I'll keep the upgrade.",
+   "tr": "Yükseltmeyi saklayacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40046",
+   "en": "More money.",
+   "tr": "Daha fazla para."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40047",
+   "en": "The upgrade is mine.",
+   "tr": "Yükseltme benim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40048",
+   "en": "I have a pass. ",
+   "tr": "Bir geçiş kartım var."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40049",
+   "en": "That will do.",
+   "tr": "Bu yeter."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40077",
+   "en": "Matriarch Benezia",
+   "tr": "Matriarch Benezia"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40078",
+   "en": "Saren",
+   "tr": "Saren"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40079",
+   "en": "Peak 15 problems",
+   "tr": "Peak 15 sorunları"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40081",
+   "en": "Synthetic Insights",
+   "tr": "Synthetic Insights"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40083",
+   "en": "Why is she here?",
+   "tr": "Neden burada?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40084",
+   "en": "What sort of cargo?",
+   "tr": "Ne tür bir kargo?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40086",
+   "en": "I need to see her.",
+   "tr": "Onu görmem lazım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40087",
+   "en": "Define \"personal escort.\"",
+   "tr": "\"Kişisel eskort\"u açıkla."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40088",
+   "en": "Another topic.",
+   "tr": "Başka bir konu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40091",
+   "en": "Define \"personal escort.\"",
+   "tr": "\"Kişisel eskort\"u açıkla."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40103",
+   "en": "So we drive.",
+   "tr": "O halde araçla gidiyoruz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40116",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40119",
+   "en": "Is he developing weapons here?",
+   "tr": "Burada silah mı geliştiriyor?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40124",
+   "en": "I'm on a mission.",
+   "tr": "Bir görevdeyim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40130",
+   "en": "Isn't lack of oversight risky?",
+   "tr": "Denetimsizlik riskli değil mi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40131",
+   "en": "You think I'm a threat.",
+   "tr": "Beni tehdit sanıyorsun."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40132",
+   "en": "I'm looking for someone.",
+   "tr": "Birini arıyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40135",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40138",
+   "en": "I was told to destroy the lab.",
+   "tr": "Laboratuvarı yok etmem söylendi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40139",
+   "en": "So what?",
+   "tr": "Ee, ne olmuş?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40141",
+   "en": "What's it worth to you?",
+   "tr": "Senin için ne kadar eder?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40142",
+   "en": "Rachni.",
+   "tr": "Rachni."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40143",
+   "en": "Biological weapons.",
+   "tr": "Biyolojik silahlar."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40144",
+   "en": "I can't tell you.",
+   "tr": "Sana söyleyemem."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40145",
+   "en": "The news would offer more.",
+   "tr": "Haberler daha fazlasını verirdi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40146",
+   "en": "Don't insult me.",
+   "tr": "Bana hakaret etme."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40147",
+   "en": "I am.",
+   "tr": "Benim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|40148",
+   "en": "Fine, don't believe me.",
+   "tr": "Peki, inanma."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|55895",
+   "en": "Yeah, of course he is.",
+   "tr": "Evet, tabii ki öyle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|55896",
+   "en": "Of course he is.",
+   "tr": "Tabii ki öyle."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|55901",
+   "en": "That's it? Forget it.",
+   "tr": "Hepsi bu mu? Boş ver."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78772",
+   "en": "Very well. I will remain at your disposal.",
+   "tr": "Pekâlâ. Emrinizde olacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78773",
+   "en": "A pleasure, Commander.",
+   "tr": "Memnun oldum Komutan."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78774",
+   "en": "This greeting is a courtesy. I will only cooperate as required by the Executive Board.",
+   "tr": "Bu selam bir nezaket. Yalnızca Yönetim Kurulu'nun gerektirdiği ölçüde işbirliği yapacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78787",
+   "en": "Read much history?",
+   "tr": "Çok tarih okur musun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78788",
+   "en": "Read much history?",
+   "tr": "Çok tarih okur musun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78789",
+   "en": "Read much history?",
+   "tr": "Çok tarih okur musun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|78794",
+   "en": "I'll give it to Qui'in.",
+   "tr": "Qui'in'e vereceğim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|93756",
+   "en": "Gianna is investigating you.",
+   "tr": "Gianna seni soruşturuyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|94137",
+   "en": "He is a major investor in Binary Helix corporation, which is one of Noveria's backers.",
+   "tr": "Noveria'nın destekçilerinden biri olan Binary Helix şirketinin büyük bir yatırımcısı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|96638",
+   "en": "This discussion is at an end. Good day.",
+   "tr": "Bu görüşme sona erdi. İyi günler."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101183",
+   "en": "I have no time to entertain spaceborn vagabonds.",
+   "tr": "Uzay serserilerini ağırlayacak vaktim yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101184",
+   "en": "With any transient population. Unreliable consumer bases. Tax-dodgers, probably.",
+   "tr": "Her göçebe nüfusla böyle. Güvenilmez tüketici tabanı. Muhtemelen vergi kaçakçıları."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101185",
+   "en": "I had no idea we were so troubling to your bottom line.",
+   "tr": "Kâr marjınız için bu kadar sorun olduğumuzu bilmiyordum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101186",
+   "en": "I have no time to entertain colonial rubes.",
+   "tr": "Koloni köylülerini ağırlayacak vaktim yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101187",
+   "en": "No appreciation for economics. Protectionists and communists, all of them.",
+   "tr": "Ekonomiden anlamazlar. Hepsi korumacı ve komünist."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101188",
+   "en": "I have no time to entertain refugees from that urban blight called Earth.",
+   "tr": "Dünya denen o kentsel çürümeden gelen mültecileri ağırlayacak vaktim yok."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101189",
+   "en": "Believe me, that is foremost in my mind.",
+   "tr": "İnanın, bu aklımın en başında."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101190",
+   "en": "Only a fool enters negotiation without knowledge of the other party's tendencies.",
+   "tr": "Karşı tarafın eğilimlerini bilmeden müzakereye giren ancak bir aptaldır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101191",
+   "en": "You better show some respect.",
+   "tr": "Biraz saygı göstersen iyi olur."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101192",
+   "en": "My homeworld is clean. Poverty is non-existent. If you take some perverse pride in that overheated, acid-washed slum, that is your business.",
+   "tr": "Benim ana gezegenim temiz. Yoksulluk yok. Aşırı ısınmış, asitle yıkanmış o gecekondu mahallesiyle gurur duymak gibi sapkın bir zevkiniz varsa, o sizin işiniz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101193",
+   "en": "You have a problem with spacers?",
+   "tr": "Uzay gezginleriyle bir sorunun mu var?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101196",
+   "en": "You have a problem with colonials?",
+   "tr": "Kolonicilerle bir sorunun mu var?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101198",
+   "en": "I'm here as a Spectre, not a human. Keep that in mind.",
+   "tr": "Buraya insan olarak değil, Spectre olarak geldim. Bunu aklınızdan çıkarmayın."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101200",
+   "en": "I see you looked up my service record.",
+   "tr": "Hizmet sicilimi araştırmışsınız."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101202",
+   "en": "Funny thing about humans. We're pretty loyal to our homeworld.",
+   "tr": "İnsanlarla ilgili komik bir şey var. Ana gezegenimize oldukça sadığız."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101205",
+   "en": "I won't take up much of your time.",
+   "tr": "Çok vaktinizi almayacağım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101206",
+   "en": "\"Vagabonds?\"",
+   "tr": "\"Serseri\" mi?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101209",
+   "en": "\"Rubes?\"",
+   "tr": "\"Köylü\" mü?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101211",
+   "en": "I'm a Spectre.",
+   "tr": "Ben bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101212",
+   "en": "You've read my file.",
+   "tr": "Dosyamı okumuşsunuz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101213",
+   "en": "Watch your mouth.",
+   "tr": "Ağzını topla."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101214",
+   "en": "I'll be brief.",
+   "tr": "Kısa keseceğim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101391",
+   "en": "Forget him, Commander. If he won't play ball, I'm sure someone else here will.",
+   "tr": "Boş ver onu Komutan. İşbirliği yapmazsa buradaki başka biri yapacaktır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101392",
+   "en": "Forget him, Commander. If he won't help us, I'm sure someone else here will.",
+   "tr": "Boş ver onu Komutan. Bize yardım etmeyecekse buradaki başka biri edecektir."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101393",
+   "en": "Let him be stubborn, Shepard. I'm sure someone else here is willing to help us.",
+   "tr": "İnat etsin Shepard. Buradaki başka birinin bize yardım etmeye istekli olduğundan eminim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101394",
+   "en": "Forget him, Commander. If he won't play ball, I'm sure someone else here will.",
+   "tr": "Boş ver onu Komutan. İşbirliği yapmazsa buradaki başka biri yapacaktır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|101395",
+   "en": "Shepard. I am sure that there are other people here who could help us.",
+   "tr": "Shepard. Burada bize yardım edebilecek başka insanlar olduğundan eminim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|102165",
+   "en": "I have the package Opold wanted me to smuggle.",
+   "tr": "Opold'un kaçırmamı istediği paket bende."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|102166",
+   "en": "Biological weapons.",
+   "tr": "Biyolojik silahlar."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|102167",
+   "en": "Here's Opold's package.",
+   "tr": "İşte Opold'un paketi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|113491",
+   "en": "We have no business left between us.",
+   "tr": "Aramızda başka iş kalmadı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|113492",
+   "en": "Why not fly off and damage someone else's world?",
+   "tr": "Neden uçup başka birinin dünyasına zarar vermiyorsun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148351",
+   "en": "Thank you for your assistance, Mr. Anoleis.",
+   "tr": "Yardımınız için teşekkürler Bay Anoleis."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148352",
+   "en": "It's a shame you didn't cooperate in the first place.",
+   "tr": "Baştan işbirliği yapmamanız yazık oldu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148353",
+   "en": "Rachni.",
+   "tr": "Rachni."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148354",
+   "en": "Rachni.",
+   "tr": "Rachni."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148355",
+   "en": "Rachni.",
+   "tr": "Rachni."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148356",
+   "en": "Thanks.",
+   "tr": "Teşekkürler."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|148357",
+   "en": "About time.",
+   "tr": "Sonunda."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|151970",
+   "en": "Mr. Anoleis, all I care about is finding Benezia. Is that something you can help me with?",
+   "tr": "Bay Anoleis, tek umursadığım Benezia'yı bulmak. Bu konuda bana yardım edebilir misiniz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|151971",
+   "en": "I don't want to upset you by showing you this evidence. Mr. Anoleis. It's fairly incriminating.",
+   "tr": "Size bu delili göstererek sizi üzmek istemem Bay Anoleis. Oldukça suçlayıcı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|151972",
+   "en": "I'm not here to arrest you.",
+   "tr": "Sizi tutuklamaya gelmedim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|151973",
+   "en": "I'll hold onto it.",
+   "tr": "Bende kalacak."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|162895",
+   "en": "Oh, you're guilty.",
+   "tr": "Ha, suçlusunuz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|162896",
+   "en": "That would be dishonest.",
+   "tr": "Bu sahtekârlık olurdu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|166688",
+   "en": "Gianna is investigating you.",
+   "tr": "Gianna seni soruşturuyor."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|168084",
+   "en": "What do you propose?",
+   "tr": "Ne öneriyorsun?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|172067",
+   "en": "Glad to help.",
+   "tr": "Yardım etmekten memnunum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|172068",
+   "en": "I've earned a reward.",
+   "tr": "Bir ödülü hak ettim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_anoleis_D|172069",
+   "en": "You owe me.",
+   "tr": "Bana borçlusun."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27295",
+   "en": "Mother of-- Corporal, secure the area. Keep everyone out of here. Now!",
+   "tr": "Aman Tanrım-- Onbaşı, bölgeyi güvenliğe alın. Kimseyi buraya sokmayın. Hemen!"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27296",
+   "en": "Yes, ma'am!",
+   "tr": "Emredersiniz, hanımefendi!"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27297",
+   "en": "What happened here, Commander Shepard?",
+   "tr": "Burada ne oldu Komutan Shepard?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27298",
+   "en": "Where were you when this occurred? What did you see?",
+   "tr": "Bu olurken neredeydiniz? Ne gördünüz?"
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27300",
+   "en": "Well, not everyone responds to fear rationally. I didn't think Anoleis-sama was this tightly wound.",
+   "tr": "Herkes korkuya mantıklı tepki vermez. Anoleis-sama'nın bu kadar gergin olduğunu düşünmemiştim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27303",
+   "en": "So you just heard it.",
+   "tr": "Yani sadece duydunuz."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27304",
+   "en": "Still, I have to wonder why you didn't try to intervene.",
+   "tr": "Yine de neden müdahale etmeye çalışmadığınızı merak ediyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27305",
+   "en": "That would make sense if this were a \"crime of passion,\" something done without thinking.",
+   "tr": "Bu bir \"ani öfke suçu\", düşünmeden yapılmış bir şey olsaydı mantıklı olurdu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27306",
+   "en": "He panicked. Called her in. Shot wildly. Yes. Makes sense. He was always paranoid.",
+   "tr": "Paniğe kapıldı. Onu içeri çağırdı. Gelişigüzel ateş etti. Evet. Mantıklı. Hep paranoyaktı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27309",
+   "en": "Excuse me, Commander. The death of an executive must always be filed in triplicate.",
+   "tr": "Affedersiniz Komutan. Bir yöneticinin ölümü her zaman üç nüsha dosyalanmak zorundadır."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27312",
+   "en": "So you didn't actually witness anything.",
+   "tr": "Yani aslında hiçbir şeye tanık olmadınız."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27315",
+   "en": "Gianna was investigating Anoleis' corruption. She worked for the Executive Board.",
+   "tr": "Gianna, Anoleis'in yolsuzluğunu soruşturuyordu. Yönetim Kurulu için çalışıyordu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27316",
+   "en": "Beats me. I just got here myself.",
+   "tr": "Bana sorma. Ben de yeni geldim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27317",
+   "en": "I told Anoleis that Gianna was Internal Affairs. I thought it would pressure him into helping me.",
+   "tr": "Anoleis'e Gianna'nın İç Soruşturma olduğunu söyledim. Bana yardım etmesi için baskı yapacağını sandım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27324",
+   "en": "I was out by Gianna's desk. I didn't see any of it.",
+   "tr": "Gianna'nın masasının yanındaydım. Hiçbirini görmedim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27326",
+   "en": "There wasn't enough time.",
+   "tr": "Yeterli zaman yoktu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|27337",
+   "en": "I only heard an argument and shots fired.",
+   "tr": "Sadece bir tartışma ve silah sesleri duydum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|40779",
+   "en": "Gianna was Internal Affairs.",
+   "tr": "Gianna İç Soruşturma'ydı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|40780",
+   "en": "[Lie] I don't know.",
+   "tr": "[Lie] Bilmiyorum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|40781",
+   "en": "I told Anoleis about Gianna.",
+   "tr": "Anoleis'e Gianna'yı söyledim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|40788",
+   "en": "I was outside.",
+   "tr": "Dışarıdaydım."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|40789",
+   "en": "I heard yelling.",
+   "tr": "Bağırışları duydum."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|40791",
+   "en": "It happened too fast.",
+   "tr": "Çok hızlı oldu."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|78828",
+   "en": "And I should not be telling you how to do your job. My apologies.",
+   "tr": "Ve size işinizi nasıl yapacağınızı söylememeliyim. Özür dilerim."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|78829",
+   "en": "My job isn't arresting criminals. It's shooting terrorists.",
+   "tr": "Benim işim suçluları tutuklamak değil. Teröristleri vurmak."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|78832",
+   "en": "Not my job.",
+   "tr": "Benim işim değil."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|102272",
+   "en": "Anoleis asked Gianna to see him in his office. Then there were gunshots.",
+   "tr": "Anoleis, Gianna'yı ofisine çağırdı. Sonra silah sesleri geldi."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|102273",
+   "en": "Anoleis called Gianna in.",
+   "tr": "Anoleis Gianna'yı içeri çağırdı."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|147416",
+   "en": "By the time I got in the door, it was already over.",
+   "tr": "Ben kapıdan girene kadar her şey bitmişti."
+  },
+  {
+   "key": "BIOA_ICE20_03A_DSG_LOC|ice20_trig08_maeko_dbl_homocide_D|147417",
+   "en": "If I could have, I would.",
+   "tr": "Yapabilseydim yapardım."
+  }
+ ]
+}

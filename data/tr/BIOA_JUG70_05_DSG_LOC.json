@@ -1,0 +1,860 @@
+{
+ "meta": {
+  "package": "BIOA_JUG70_05_DSG_LOC_INT.pcc",
+  "stem": "BIOA_JUG70_05_DSG_LOC",
+  "textLang": "INT",
+  "sets": 6
+ },
+ "entries": [
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32658",
+   "en": "Hello? Is someone out there?",
+   "tr": "Merhaba? Dışarıda biri var mı?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32684",
+   "en": "Lieutenant Ganto Imness of the Third Infiltration Regiment, captured during recon. What was that shooting I heard? I didn't expect such a small-scale assault.",
+   "tr": "Üçüncü Sızma Alayı'ndan Teğmen Ganto Imness, keşif sırasında yakalandım. Duyduğum o silah sesi neydi? Bu kadar küçük çaplı bir saldırı beklemiyordum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32685",
+   "en": "I understand. I tried to speak to them. But I saw friends that no longer knew me. It's better this way.",
+   "tr": "Anlıyorum. Onlarla konuşmaya çalıştım. Ama beni tanımayan arkadaşlar gördüm. Bu şekilde daha iyi."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32686",
+   "en": "You are the rescue party, then? In answer to the captain's message? Did the fleet come?",
+   "tr": "Demek kurtarma ekibisiniz? Kaptanın mesajına cevap olarak? Filo geldi mi?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32688",
+   "en": "I understand. They were my friends, once. Until their minds were stripped away.",
+   "tr": "Anlıyorum. Bir zamanlar arkadaşımdılar. Zihinleri çalınana kadar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32689",
+   "en": "You-- You told me you were fighting the guards. Did you think I wouldn't see this?",
+   "tr": "Sen-- Muhafızlarla savaştığını söylemiştin. Bunu görmeyeceğimi mi sandın?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32690",
+   "en": "I understand why it was necessary, but you shouldn't have lied about it. I would have respected you more if you'd just told me.",
+   "tr": "Neden gerekli olduğunu anlıyorum ama bu konuda yalan söylememeliydin. Sadece söyleseydin sana daha çok saygı duyardım."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32692",
+   "en": "What was that noise? What's going on?",
+   "tr": "O ses neydi? Neler oluyor?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32693",
+   "en": "Who's there? Can anyone hear me?",
+   "tr": "Kim var orada? Beni duyan var mı?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32694",
+   "en": "Well, you're not a geth. And you're not wearing a lab coat. I guess I'm glad to see you.",
+   "tr": "Şey, geth değilsin. Laboratuvar önlüğü de giymiyorsun. Sanırım seni gördüğüme sevindim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32695",
+   "en": "Lieutenant Ganto Imness of the Third Infiltration Regiment, captured during recon. I assume the fleet was called in to destroy the base?",
+   "tr": "Üçüncü Sızma Alayı'ndan Teğmen Ganto Imness, keşif sırasında yakalandım. Sanırım üssü yok etmek için filo çağrıldı?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32696",
+   "en": "I see. Then you must be the infiltration team. I know the captain. He will want this facility destroyed. My team was altered, indoctrinated.",
+   "tr": "Anlıyorum. O halde sızma ekibi sizsiniz. Kaptanı tanırım. Bu tesisin yok edilmesini isteyecektir. Ekibim değiştirildi, telkin edildi."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32698",
+   "en": "My whole team was... altered. But I was left alone as a control subject. I still have my senses, although I almost wish I didn't.",
+   "tr": "Tüm ekibim... değiştirildi. Ama ben kontrol denek olarak yalnız bırakıldım. Hâlâ duyularım yerinde, gerçi neredeyse keşke olmasa."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32700",
+   "en": "I watched good people reduced to mindless husks. There wasn't anything left. Others died during the experiments. I envy them.",
+   "tr": "İyi insanların akılsız kabuklara dönüştüğünü izledim. Hiçbir şey kalmamıştı. Diğerleri deneyler sırasında öldü. Onları kıskanıyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32706",
+   "en": "I don't know much else. I just saw what it did to the others. Turned them into empty husks. I can't end up like that. Please - let me out!",
+   "tr": "Daha fazlasını bilmiyorum. Sadece diğerlerine ne yaptığını gördüm. Onları boş kabuklara çevirdi. Öyle olamam. Lütfen, beni çıkarın!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32710",
+   "en": "Don't look back and hope to outrun the blast, hmm? A better chance than I had before you showed up.",
+   "tr": "Arkana bakma ve patlamadan kaçmayı umma, ha? Siz gelmeden önce sahip olduğumdan daha iyi bir şans."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32711",
+   "en": "Thank you, human. And good luck. You'll need it.",
+   "tr": "Teşekkürler insan. Ve iyi şanslar. İhtiyacın olacak."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32718",
+   "en": "The transmission wasn't clear. The fleet is not coming.",
+   "tr": "İletim net değildi. Filo gelmiyor."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32721",
+   "en": "Everyone here is indoctrinated. You might be working for Saren.",
+   "tr": "Buradaki herkes telkin edilmiş. Saren için çalışıyor olabilirsin."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32729",
+   "en": "Do you know anything about the experiments they were conducting?",
+   "tr": "Yaptıkları deneyler hakkında bir şey biliyor musun?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32734",
+   "en": "I'm opening your cell, but then you're on your own.",
+   "tr": "Hücreni açıyorum ama sonra kendi başınasın."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32766",
+   "en": "I disposed of the indoctrinated slaves. It's too dangerous to leave them alive.",
+   "tr": "Telkin edilmiş köleleri etkisiz hale getirdim. Onları yaşatmak çok tehlikeli."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32768",
+   "en": "It was just some of Saren's people who didn't know when to quit.",
+   "tr": "Sadece ne zaman bırakacağını bilmeyen birkaç Saren adamıydı."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|32770",
+   "en": "It was me ensuring I don't get shot in the back by a mindless idiot.",
+   "tr": "Akılsız bir aptalın beni arkamdan vurmadığından emin olmak içindi."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42296",
+   "en": "I had to shoot the prisoners.",
+   "tr": "Mahkûmları vurmak zorunda kaldım."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42297",
+   "en": "Just some guards.",
+   "tr": "Sadece bazı muhafızlar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42298",
+   "en": "Any indoctrinated must die.",
+   "tr": "Telkin edilmiş her kişi ölmeli."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42303",
+   "en": "I was sent alone.",
+   "tr": "Yalnız gönderildim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42304",
+   "en": "Why should I trust you?",
+   "tr": "Sana neden güveneyim?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42314",
+   "en": "Tell me about the research.",
+   "tr": "Bana araştırmadan bahset."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|42316",
+   "en": "I'm letting you out.",
+   "tr": "Seni çıkarıyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|80340",
+   "en": "No. Don't leave me here! Please!",
+   "tr": "Hayır. Beni burada bırakma! Lütfen!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|80341",
+   "en": "It's obvious that I'm not crazed or drooling like the others. Let me out and I'll stay out of your way.",
+   "tr": "Diğerleri gibi çıldırmış ya da salyası akan biri olmadığım açık. Beni çıkarırsanız yolunuza çıkmam."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|80343",
+   "en": "If I let you out, how do I know you won't just attack me?",
+   "tr": "Seni çıkarırsam bana saldırmayacağını nereden bilebilirim?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|80344",
+   "en": "Sorry, I can't take that chance. I'm not opening your cell.",
+   "tr": "Üzgünüm, bu riski alamam. Hücreni açmıyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|80345",
+   "en": "Too risky.",
+   "tr": "Fazla riskli."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|80347",
+   "en": "I can't trust you.",
+   "tr": "Sana güvenemem."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|106723",
+   "en": "He knew about the breeding grounds. But the indoctrination is a greater threat, and far more horrifying.",
+   "tr": "Üreme alanlarını biliyordu. Ama telkin daha büyük bir tehdit ve çok daha korkunç."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|106725",
+   "en": "Sorry, I'm all you get.",
+   "tr": "Üzgünüm, alabileceğin tek kişi benim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|106726",
+   "en": "Sorry, I'm all you get.",
+   "tr": "Üzgünüm, alabileceğin tek kişi benim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|106728",
+   "en": "I think I can trust you.",
+   "tr": "Sanırım sana güvenebilirim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|106729",
+   "en": "I think I can trust you.",
+   "tr": "Sanırım sana güvenebilirim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|106730",
+   "en": "I think I can trust you.",
+   "tr": "Sanırım sana güvenebilirim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|120318",
+   "en": "Please -- don't leave me here! I don't want to end up like the others! I saw what those experiments did to them!",
+   "tr": "Lütfen -- beni burada bırakma! Diğerleri gibi olmak istemiyorum! O deneylerin onlara ne yaptığını gördüm!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|120319",
+   "en": "They were studying indoctrination. Symptoms, progress. Saren uses it to control his people, but I don't think he fully understands it.",
+   "tr": "Telkini inceliyorlardı. Belirtileri, ilerlemesini. Saren onu halkını kontrol etmek için kullanıyor ama tam olarak anladığını sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_sal_prisoner_D|120321",
+   "en": "I think I can trust you.",
+   "tr": "Sanırım sana güvenebilirim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31679",
+   "en": "It calls, and I must follow.",
+   "tr": "Çağırıyor ve ben izlemeliyim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31680",
+   "en": "The voice is always with me. Whispering.",
+   "tr": "Ses hep benimle. Fısıldıyor."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31681",
+   "en": "Every word is the void. It is all I can hear.",
+   "tr": "Her söz boşluk. Duyabildiğim tek şey bu."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31682",
+   "en": "There is no escape.",
+   "tr": "Kaçış yok."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31684",
+   "en": "These look docile. Their minds are gone.",
+   "tr": "Bunlar uysal görünüyor. Zihinleri gitmiş."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31685",
+   "en": "Why did Saren do this? To steal a man's mind like that is disgusting.",
+   "tr": "Saren bunu neden yaptı? Bir adamın zihnini böyle çalmak iğrenç."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31686",
+   "en": "Are you sure, Shepard? At best they might hurt themselves. If there is any sense left in them, they might be directed to harm us.",
+   "tr": "Emin misin Shepard? En iyi ihtimalle kendilerine zarar verebilirler. İçlerinde biraz akıl kaldıysa bize zarar vermeleri için yönlendirilebilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31687",
+   "en": "Very well. At least the blast will eventually end it.",
+   "tr": "Pekâlâ. En azından patlama sonunda bunu bitirecek."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31689",
+   "en": "All right, Commander, but I don't like it.",
+   "tr": "Pekâlâ Komutan ama hoşuma gitmiyor."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31690",
+   "en": "If that's what you want, Commander. I just hate leaving them like this.",
+   "tr": "Sen öyle istiyorsan Komutan. Onları böyle bırakmaktan nefret ediyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31691",
+   "en": "Very well, Commander Shepard.",
+   "tr": "Pekâlâ Komutan Shepard."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31692",
+   "en": "Yes, Commander.",
+   "tr": "Evet, Komutan."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31694",
+   "en": "You sure, Commander? Just leave them wandering? Can't stand the thought of being like that. I'd want to be put out of my misery.",
+   "tr": "Emin misiniz Komutan? Böyle dolaşmaya mı bırakacağız? Öyle olma düşüncesine dayanamıyorum. Ben acılarıma son verilmesini isterdim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31695",
+   "en": "Are you sure? We should at least end this... state they are in.",
+   "tr": "Emin misiniz? En azından içinde bulundukları bu... durumu bitirmeliyiz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31696",
+   "en": "Are you certain, Commander? It doesn't seem the safest option for us or them.",
+   "tr": "Emin misiniz Komutan? Bizim için de onlar için de en güvenli seçenek gibi görünmüyor."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31697",
+   "en": "You sure, Commander? They might hurt themselves.",
+   "tr": "Emin misiniz Komutan? Kendilerine zarar verebilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31698",
+   "en": "Should we, Shepard? They might injure themselves. Trivial considering the coming blast, but they are perhaps more comfortable inside.",
+   "tr": "Gerçekten mi Shepard? Kendilerini yaralayabilirler. Gelen patlama düşünülünce önemsiz ama belki içeride daha rahattırlar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31699",
+   "en": "It's safest, but I would prefer they be put out of their misery. ",
+   "tr": "En güvenlisi bu ama acılarına son verilmesini tercih ederdim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31700",
+   "en": "Okay, Commander, but it's not right. I'd never want to end up like that. Never.",
+   "tr": "Tamam Komutan ama bu doğru değil. Asla öyle olmak istemem. Asla."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31701",
+   "en": "Sometimes you must accept there is nothing you can do to help. It is a great pity.",
+   "tr": "Bazen yardım etmek için yapabileceğin bir şey olmadığını kabul etmelisin. Büyük bir yazık."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31702",
+   "en": "I wish something could be done. I really do.",
+   "tr": "Keşke bir şey yapılabilseydi. Gerçekten."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31703",
+   "en": "They should be dead. That's the only mercy left to them.",
+   "tr": "Ölmüş olmaları gerekir. Geriye kalan tek merhamet bu."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31704",
+   "en": "Just mow them down, Commander?",
+   "tr": "Hepsini biçelim mi Komutan?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31705",
+   "en": "I second this question, Shepard. They will die in the blast. Do we need to slaughter them now?",
+   "tr": "Ben de aynı soruyu soruyorum Shepard. Patlamada ölecekler. Şimdi onları katletmemiz gerekiyor mu?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31706",
+   "en": "You can't just shoot them, even if they will just die in the blast.",
+   "tr": "Patlamada ölecek olsalar bile onları vuramazsın."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31707",
+   "en": "It's what I would want.",
+   "tr": "Benim isteyeceğim bu."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31708",
+   "en": "I'm with you, Shepard. No way I'd want to end up like that, and they can't outrun the blast anyway. It's all you can do.",
+   "tr": "Seninleyim Shepard. Öyle olmak istemezdim ve zaten patlamadan kaçamazlar. Yapabileceğin tek şey bu."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31709",
+   "en": "I'm all for it. Every second like that must be torture. I know I'd sooner be dead.",
+   "tr": "Tamamen katılıyorum. Öyle geçen her saniye işkence olmalı. Ben ölmeyi tercih ederdim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31710",
+   "en": "Just kill them where they stand, Shepard? Are you certain?",
+   "tr": "Olduğu yerde mi öldüreceğiz Shepard? Emin misin?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31712",
+   "en": "It is all that we can do for them.",
+   "tr": "Onlar için yapabileceğimiz tek şey bu."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31714",
+   "en": "I'm with you, Commander. The blast would get them anyway, and damn if I'd want to end up like this. No way.",
+   "tr": "Seninleyim Komutan. Patlama onları zaten bulacak ve ben böyle olmak istemezdim. Asla."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31715",
+   "en": "I've never agreed more, Shepard. It's what I would want.",
+   "tr": "Hiç bu kadar katılmamıştım Shepard. Benim isteyeceğim bu."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31716",
+   "en": "Why did Saren do this? This is just wrong.",
+   "tr": "Saren bunu neden yaptı? Bu çok yanlış."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31717",
+   "en": "What drove Saren to this? It is cruel beyond measure.",
+   "tr": "Saren'i buna iten ne? Ölçüsüz bir zulüm."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31718",
+   "en": "Why did Saren do this? There's just no reason.",
+   "tr": "Saren bunu neden yaptı? Hiçbir sebebi yok."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31719",
+   "en": "This is no way to treat a prisoner. Kill them, sure, but to leave them like this....",
+   "tr": "Bu bir mahkûma yapılacak muamele değil. Öldürürsün tabii ama böyle bırakmak...."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31720",
+   "en": "No threat here, Commander. Are they even aware of us?",
+   "tr": "Burada tehdit yok Komutan. Bizden haberdarlar bile mi?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31721",
+   "en": "No threat here, Commander. This is... horrible.",
+   "tr": "Burada tehdit yok Komutan. Bu... korkunç."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31722",
+   "en": "They are no threat to anyone save themselves. Their minds are gone.",
+   "tr": "Kendileri dışında kimse için tehdit değiller. Zihinleri gitmiş."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31723",
+   "en": "There's nothing left of them.",
+   "tr": "Onlardan geriye hiçbir şey kalmamış."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31730",
+   "en": "Open the doors. Give them a chance to outrun the blast.",
+   "tr": "Kapıları aç. Patlamadan kaçmaları için bir şans ver."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31731",
+   "en": "Let them out. They won't hurt us.",
+   "tr": "Onları çıkar. Bize zarar vermezler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31738",
+   "en": "Open the doors and I'll finish them off.",
+   "tr": "Kapıları aç, ben bitiririm."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31739",
+   "en": "Leave them. Let's get moving.",
+   "tr": "Bırak onları. Gidelim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31740",
+   "en": "Better to die than to live like this.",
+   "tr": "Böyle yaşamaktansa ölmek daha iyi."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31742",
+   "en": "I don't leave loose ends.",
+   "tr": "Açık uç bırakmam."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|31743",
+   "en": "Never mind, then. Just leave them.",
+   "tr": "O zaman boş ver. Sadece bırak onları."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42354",
+   "en": "It's my call.",
+   "tr": "Karar benim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42355",
+   "en": "Then let's just go.",
+   "tr": "O zaman gidelim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42370",
+   "en": "Let them out.",
+   "tr": "Onları çıkar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42371",
+   "en": "Safer to keep them here.",
+   "tr": "Burada tutmak daha güvenli."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42372",
+   "en": "Open the door and kill them.",
+   "tr": "Kapıyı aç ve öldür onları."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42373",
+   "en": "They're no threat.",
+   "tr": "Tehdit değiller."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|42374",
+   "en": "Eliminate them.",
+   "tr": "Yok et onları."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|106895",
+   "en": "Don't question me.",
+   "tr": "Beni sorgulama."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless01_D|106896",
+   "en": "Don't question me!",
+   "tr": "Beni sorgulama!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless02_D|31673",
+   "en": "It never sleeps.",
+   "tr": "Asla uyumaz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless02_D|31674",
+   "en": "The voice brings endless night.",
+   "tr": "Ses sonsuz gece getirir."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless02_D|31675",
+   "en": "From the void. The darkness.",
+   "tr": "Boşluktan. Karanlıktan."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless02_D|31676",
+   "en": "No one will survive.",
+   "tr": "Kimse sağ kalmayacak."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless03_D|31667",
+   "en": "It is emptiness.",
+   "tr": "Bu boşluk."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless03_D|31668",
+   "en": "There will be nothing but the voice.",
+   "tr": "Ses dışında hiçbir şey olmayacak."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless03_D|31669",
+   "en": "When comes the harvest, so must they reap.",
+   "tr": "Hasat geldiğinde onlar da biçmeli."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless03_D|31670",
+   "en": "Peace in death.",
+   "tr": "Ölümde huzur."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless04_D|31661",
+   "en": "I am only what it wants me to be.",
+   "tr": "Ben yalnızca onun olmamı istediği şeyim."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless04_D|31662",
+   "en": "We are nothing before them.",
+   "tr": "Onların karşısında hiçbir şey değiliz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless04_D|31663",
+   "en": "There will be peace in the silence.",
+   "tr": "Sessizlikte huzur olacak."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_slv_mindless04_D|31664",
+   "en": "No one escapes.",
+   "tr": "Kimse kaçamaz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31238",
+   "en": "Let's get the job done, Shepard. I don't want to look at this crap any longer than I have to.",
+   "tr": "İşi bitirelim Shepard. Bu pisliğe gerekenden fazla bakmak istemiyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31253",
+   "en": "This must be where they are researching the cure for the genophage.",
+   "tr": "Genophage tedavisini burada araştırıyor olmalılar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31255",
+   "en": "This must be where they're researching the cure for the genophage.",
+   "tr": "Genophage tedavisini burada araştırıyor olmalılar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31257",
+   "en": "This must be where they're researching the cure for the genophage.",
+   "tr": "Genophage tedavisini burada araştırıyor olmalılar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31259",
+   "en": "This must be where they're researching the cure for the genophage.",
+   "tr": "Genophage tedavisini burada araştırıyor olmalılar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31620",
+   "en": "Salarians? Captain Kirrahe said something about losing some men.",
+   "tr": "Salarian mı? Kaptan Kirrahe adam kaybettiğinden bahsetmişti."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31626",
+   "en": "Salarians? The captain mentioned he had lost some men.",
+   "tr": "Salarian mı? Kaptan bazı adamlarını kaybettiğini söylemişti."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31627",
+   "en": "Salarians? Right. The captain said he had lost some men.",
+   "tr": "Salarian mı? Doğru. Kaptan bazı adamlarını kaybettiğini söylemişti."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31628",
+   "en": "Salarians? Right. The captain said he had lost some of his regiment.",
+   "tr": "Salarian mı? Doğru. Kaptan alayından bazılarını kaybettiğini söylemişti."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31631",
+   "en": "We've got access to base security. Should be able to cut the alarms from here. Might even be able to trigger alarms on the far side of the base.",
+   "tr": "Üs güvenliğine erişimimiz var. Alarmları buradan kesebiliriz. Hatta üssün uzak tarafındaki alarmları bile tetikleyebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31632",
+   "en": "It'll clear the guards out for us, but they might be too much for Lt. Alenko and the salarians to handle.",
+   "tr": "Muhafızları bizim için temizler ama Teğmen Alenko ve salarian'ların başa çıkamayacağı kadar çok olabilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31633",
+   "en": "If we keep stragglers from spreading the word to additional teams, we should be able to handle things.",
+   "tr": "Geri kalanların ek ekiplere haber vermesini engellersek durumu idare edebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31634",
+   "en": "Very well. If we can prevent stragglers from spreading the word to additional teams, we should be able to handle things.",
+   "tr": "Pekâlâ. Geri kalanların ek ekiplere haber vermesini önlersek durumu idare edebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31635",
+   "en": "As long as we keep stragglers from finding reinforcements, we should be able to handle things.",
+   "tr": "Geri kalanların takviye bulmasını engelledikçe durumu idare edebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31636",
+   "en": "Fair enough. If we stop stragglers from spreading the word to additional teams, we should be able to handle things.",
+   "tr": "Makul. Geri kalanların ek ekiplere haber vermesini durdurursak durumu idare edebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31637",
+   "en": "Aye, aye, Commander. I hope Alenko's paying attention.",
+   "tr": "Emredersiniz Komutan. Umarım Alenko dikkatlidir."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31638",
+   "en": "I hope they are ready for this.",
+   "tr": "Umarım buna hazırdırlar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31639",
+   "en": "I hope they're ready for this.",
+   "tr": "Umarım buna hazırdırlar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31640",
+   "en": "I hope they're ready for this.",
+   "tr": "Umarım buna hazırdırlar."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31641",
+   "en": "We've got access to base security. Should be able to cut the alarms from here. Might even be able to trigger alarms on the far side of the base.",
+   "tr": "Üs güvenliğine erişimimiz var. Alarmları buradan kesebiliriz. Hatta üssün uzak tarafındaki alarmları bile tetikleyebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31642",
+   "en": "It'll clear the guards out for us, but they might be too much for the salarian teams to handle.",
+   "tr": "Muhafızları bizim için temizler ama salarian ekiplerinin başa çıkamayacağı kadar çok olabilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31643",
+   "en": "We've got access to base security. We should be able to cut the alarms from here. Might even be able to trigger alarms on the far side of the base.",
+   "tr": "Üs güvenliğine erişimimiz var. Alarmları buradan kesebiliriz. Hatta üssün uzak tarafındaki alarmları bile tetikleyebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31644",
+   "en": "It'll clear the guards out for us, but they might be too much for the salarian teams to handle.",
+   "tr": "Muhafızları bizim için temizler ama salarian ekiplerinin başa çıkamayacağı kadar çok olabilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31645",
+   "en": "We've got access to base security. We can cut the alarms from here. Maybe even trigger alarms on the far side of the base.",
+   "tr": "Üs güvenliğine erişimimiz var. Alarmları buradan kesebiliriz. Hatta üssün uzak tarafındaki alarmları bile tetikleyebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31646",
+   "en": "It'll clear the guards out for us, but they might be too much for the salarian teams to handle.",
+   "tr": "Muhafızları bizim için temizler ama salarian ekiplerinin başa çıkamayacağı kadar çok olabilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31651",
+   "en": "Just disable the alarms. We can handle any guards inside.",
+   "tr": "Sadece alarmları devre dışı bırak. İçerideki muhafızlarla biz başa çıkarız."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|31652",
+   "en": "Williams can take a few more. Minimize the guard presence in the base.",
+   "tr": "Williams birkaçını daha halledebilir. Üssteki muhafız varlığını en aza indirin."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|42454",
+   "en": "They've got enough trouble.",
+   "tr": "Zaten yeterince dertleri var."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|42455",
+   "en": "They can handle it.",
+   "tr": "Halledebilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|67419",
+   "en": "We've got access to base security. Should be able to cut the alarms from here. Might even be able to trigger alarms on the far side of the base.",
+   "tr": "Üs güvenliğine erişimimiz var. Alarmları buradan kesebiliriz. Hatta üssün uzak tarafındaki alarmları bile tetikleyebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|67420",
+   "en": "It'll clear the guards out for us, but they might be too much for Williams and the salarians to handle.",
+   "tr": "Muhafızları bizim için temizler ama Williams ve salarian'ların başa çıkamayacağı kadar çok olabilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|67421",
+   "en": "Commander. As long as we keep stragglers from spreading the word to additional teams, we should be able to handle things.",
+   "tr": "Komutan. Geri kalanların ek ekiplere haber vermesini engelledikçe durumu idare edebiliriz."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|67422",
+   "en": "Aye, aye, Commander. I hope Williams is ready for this.",
+   "tr": "Emredersiniz Komutan. Umarım Williams buna hazırdır."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|68122",
+   "en": "Salarians? The captain said something about losing some men.",
+   "tr": "Salarian mı? Kaptan adam kaybettiğinden bahsetmişti."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|68125",
+   "en": "This more of that indoctrination we've heard about, Commander? What's going on here?",
+   "tr": "Bu, duyduğumuz telkinin devamı mı Komutan? Burada neler oluyor?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|68126",
+   "en": "This has to be more of that indoctrination we've heard about, Commander. What is this place?",
+   "tr": "Bu, duyduğumuz telkinin devamı olmalı Komutan. Burası neresi?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|68127",
+   "en": "It appears to be more indoctrination at work. I am beginning to wonder about the purpose of this place.",
+   "tr": "Telkinin işi gibi görünüyor. Bu yerin amacını merak etmeye başlıyorum."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|68128",
+   "en": "Is this because of indoctrination? What's going on here?",
+   "tr": "Bu telkin yüzünden mi? Burada neler oluyor?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|68129",
+   "en": "They were indoctrinated. What's going on in this place?",
+   "tr": "Telkin edilmişler. Bu yerde neler oluyor?"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79046",
+   "en": "The captain was flanked. Aegohr, form up with Jaeto. We need to stall for time!",
+   "tr": "Kaptan kuşatıldı. Aegohr, Jaeto ile birleş. Zaman kazanmalıyız!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79047",
+   "en": "The captain was flanked. Aegohr, form up with Jaeto. We need to stall for time!",
+   "tr": "Kaptan kuşatıldı. Aegohr, Jaeto ile birleş. Zaman kazanmalıyız!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79048",
+   "en": "Give a little ground, Williams. We don't want them to bunker-up. Draw them out.",
+   "tr": "Biraz geri çekil Williams. Siperlenmelerini istemiyoruz. Onları dışarı çekin."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79049",
+   "en": "Give a little ground, Lieutenant. We don't want them to bunker-up. Draw them out.",
+   "tr": "Biraz geri çekilin Teğmen. Siperlenmelerini istemiyoruz. Onları dışarı çekin."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79050",
+   "en": "Krogan reinforcements! Jaeto, hold your ground! Damn it! We're being flanked!",
+   "tr": "Krogan takviyesi! Jaeto, mevzini tut! Kahretsin! Kuşatılıyoruz!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79051",
+   "en": "Krogan reinforcements! Jaeto, hold your ground! We're being flanked!",
+   "tr": "Krogan takviyesi! Jaeto, mevzini tut! Kuşatılıyoruz!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79052",
+   "en": "Okay... can we hold them here? Damn it, fill those holes! Come on, Shepard. Hurry it up.",
+   "tr": "Tamam... onları burada tutabilir miyiz? Kahretsin, şu açıkları kapatın! Hadi Shepard. Acele et."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79053",
+   "en": "Okay... hold them here. Fill those holes! Come on, Shepard. Make it soon.",
+   "tr": "Tamam... onları burada tutun. Açıkları kapatın! Hadi Shepard. Çabuk ol."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79054",
+   "en": "The geth are turning from your position, Jaeto. Looks like Shadow kicked a sensitive spot! Williams, head them off! Hold them out here!",
+   "tr": "Geth senin mevzinden dönüyor Jaeto. Görünüşe göre Shadow hassas bir noktaya vurdu! Williams, onları kes! Onları burada tut!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79055",
+   "en": "The geth are turning from your position, Jaeto. Looks like Shadow kicked a sensitive spot! Alenko, head them off! Hold them out here!",
+   "tr": "Geth senin mevzinden dönüyor Jaeto. Görünüşe göre Shadow hassas bir noktaya vurdu! Alenko, onları kes! Onları burada tut!"
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79056",
+   "en": "The geth are turning! Shepard must be getting close. Jaeto, circle around! Keep them here! Keep them....",
+   "tr": "Geth dönüyor! Shepard yaklaşmış olmalı. Jaeto, çevir! Onları burada tut! Onları...."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79057",
+   "en": "The geth are turning! Shepard must be nearing the target. Jaeto, keep them here! Circle around and....",
+   "tr": "Geth dönüyor! Shepard hedefe yaklaşıyor olmalı. Jaeto, onları burada tut! Çevir ve...."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79166",
+   "en": "Alenko can take a few more. Minimize the guard presence in the base.",
+   "tr": "Alenko birkaçını daha halledebilir. Üssteki muhafız varlığını en aza indirin."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|79167",
+   "en": "They can handle it.",
+   "tr": "Halledebilirler."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|160962",
+   "en": "They've got enough trouble.",
+   "tr": "Zaten yeterince dertleri var."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|160963",
+   "en": "They've got enough trouble.",
+   "tr": "Zaten yeterince dertleri var."
+  },
+  {
+   "key": "BIOA_JUG70_05_DSG_LOC|jug70_trigger_D|160964",
+   "en": "They've got enough trouble.",
+   "tr": "Zaten yeterince dertleri var."
+  }
+ ]
+}

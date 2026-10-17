@@ -1,0 +1,4010 @@
+{
+ "meta": {
+  "package": "BIOA_WAR20_03a_DSG_LOC_INT.pcc",
+  "stem": "BIOA_WAR20_03a_DSG_LOC",
+  "textLang": "INT",
+  "sets": 14
+ },
+ "entries": [
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|1871",
+   "en": "Fai Dan will explain what is needed. Speak with him if you have questions.",
+   "tr": "Fai Dan neyin gerektiğini açıklayacak. Sorularınız varsa onunla konuşun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|1872",
+   "en": "Fai Dan is our leader. He has the clearest understanding of our situation.",
+   "tr": "Fai Dan bizim liderimiz. Durumumuzu en net o anlıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|1874",
+   "en": "I'm grateful for what you've done, but your heroics don't impress me, Commander.",
+   "tr": "Yaptıklarınız için minnettarım ama kahramanlıklarınız beni etkilemiyor Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|1898",
+   "en": "You can't speak for yourself?",
+   "tr": "Kendin adına konuşamıyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|1899",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|13074",
+   "en": "I fought so hard, but any thought of my own caused so much pain.",
+   "tr": "Çok savaştım ama kendi düşüncem bile çok acı veriyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|13075",
+   "en": "We can rebuild this place. We're stronger than the company gives us credit for.",
+   "tr": "Burayı yeniden inşa edebiliriz. Şirketin bize tanıdığından daha güçlüyüz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|13076",
+   "en": "I hope we can make this colony work.",
+   "tr": "Umarım bu koloniyi çalıştırabiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|13078",
+   "en": "So much wasted effort. I guess it's back to security work around Jump Zero for me.",
+   "tr": "Ne kadar boşa çaba. Sanırım benim için Jump Zero çevresinde güvenlik işine geri dönüş."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|13079",
+   "en": "I'm getting out with my life. I guess that's something.",
+   "tr": "Hayatımla çıkıyorum. Bu bir şey sanırım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|50344",
+   "en": "I want to talk to you.",
+   "tr": "Seninle konuşmak istiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|50345",
+   "en": "Bye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102348",
+   "en": "How would you feel if you were hung out to dry by every government organization that ever promised to keep you safe?",
+   "tr": "Seni güvende tutacağına söz veren her devlet kuruluşu tarafından yüzüstü bırakılsan nasıl hissederdin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102349",
+   "en": "And you're only interested in the geth.",
+   "tr": "Ve sen sadece geth'le ilgileniyorsun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102350",
+   "en": "I'm a rent-a-cop. I was hired to keep kids from writing graffiti on the walls at ExoGeni. Then all this happened.",
+   "tr": "Ben kiralık bir polisim. ExoGeni'de çocukların duvarlara grafiti yazmasını önlemek için tutulmuştum. Sonra bütün bunlar oldu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102351",
+   "en": "I wasn't trained for this. I didn't ask for it. I just want it to end.",
+   "tr": "Bunun için eğitilmedim. İstemedim. Sadece bitmesini istiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102352",
+   "en": "I can't tell you anything about that. I suggest you go to ExoGeni if you want answers to those questions.",
+   "tr": "Bu konuda hiçbir şey söyleyemem. Bu soruların cevaplarını istiyorsan ExoGeni'ye gitmeni öneririm."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102353",
+   "en": "Very little. I worked there as a security officer. I know they were looking for artifacts and anything of value.",
+   "tr": "Çok az. Orada güvenlik görevlisi olarak çalıştım. Eserler ve değerli her şeyi aradıklarını biliyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102354",
+   "en": "That's what they do. They fund the colony. In return, we help them uncover buried treasure.",
+   "tr": "Onların yaptığı bu. Koloniyi finanse ediyorlar. Karşılığında gömülü hazineleri ortaya çıkarmalarına yardım ediyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102355",
+   "en": "It's definitely not as exciting as they make it sound.",
+   "tr": "Anlattıkları kadar heyecanlı kesinlikle değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102356",
+   "en": "I can't tell you much about it. You should speak to Fai Dan if you want to know more.",
+   "tr": "Bu konuda sana pek bir şey söyleyemem. Daha fazlasını bilmek istiyorsan Fai Dan'la konuş."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102357",
+   "en": "I get the feeling you don't like me.",
+   "tr": "Sanırım benden hoşlanmıyorsun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102359",
+   "en": "Tell me more about yourself, Arcelia.",
+   "tr": "Bana kendinden bahset Arcelia."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102361",
+   "en": "What can you tell me about the geth? Do you have any idea what they might be after?",
+   "tr": "Geth hakkında bana ne söyleyebilirsin? Ne peşinde olabileceklerine dair bir fikrin var mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102362",
+   "en": "What can you tell me about ExoGeni?",
+   "tr": "ExoGeni hakkında bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102365",
+   "en": "Tell me about Zhu's Hope.",
+   "tr": "Bana Zhu's Hope'tan bahset."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102368",
+   "en": "Reason for anger",
+   "tr": "Öfkenin nedeni"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102369",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102370",
+   "en": "Geth",
+   "tr": "Geth"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102371",
+   "en": "ExoGeni",
+   "tr": "ExoGeni"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102372",
+   "en": "Colony",
+   "tr": "Koloni"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|102605",
+   "en": "Commander.",
+   "tr": "Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|114038",
+   "en": "They should've sent a small fleet. Instead, we get one ship. ",
+   "tr": "Küçük bir filo göndermeliydiler. Bunun yerine tek bir gemi geldi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war20_arceliasilvamartinez_D|160282",
+   "en": "Fine.",
+   "tr": "Peki."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10245",
+   "en": "Invaders! Your every step is a transgression. A thousand feelers appraise you as meat, good only to dig or decompose.",
+   "tr": "İstilacılar! Her adımınız bir ihlal. Bin dokunaç sizi yalnızca kazmaya ya da çürümeye yarar et olarak ölçüyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10246",
+   "en": "I speak for the Old Growth, as I did for Saren. You are within and before the Thorian. It commands that you be in awe!",
+   "tr": "Saren için konuştuğum gibi Eski Büyüme adına konuşuyorum. Siz Thorian'ın içinde ve önündesiniz. Hayranlık duymanızı emrediyor!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10249",
+   "en": "Saren sought knowledge of those who are gone. The Old Growth listened to flesh for the first time in the Long Cycle. Trades were made.",
+   "tr": "Saren gidenlerin bilgisini aradı. Eski Büyüme Uzun Döngü'den beri ilk kez ete kulak verdi. Takaslar yapıldı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10251",
+   "en": "Then cold ones began killing the flesh that would tend the next cycle. Flesh fairly given! The Old Growth sees the air you push as lies! It will listen no more!",
+   "tr": "Sonra soğuk olanlar bir sonraki döngüye bakacak eti öldürmeye başladı. Adil olarak verilen et! Eski Büyüme ittiğiniz havayı yalan sayar! Artık dinlemeyecek!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10252",
+   "en": "No more will the Thorian listen to those that scurry. Your lives are short, but have gone on too long.",
+   "tr": "Thorian artık koşuşturanları dinlemeyecek. Ömürleriniz kısa ama çok uzadı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10253",
+   "en": "Your blood will feed the ground and the new growth!",
+   "tr": "Kanınız toprağı ve yeni büyümeyi besleyecek!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10254",
+   "en": "The Thorian is a piece of this world, extending across the land and back through the ages. You can no more kill it than cut the sky.",
+   "tr": "Thorian bu dünyanın bir parçası, toprağa ve çağlar boyunca geriye uzanıyor. Onu öldürmeniz gökyüzünü kesmekten farksız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10261",
+   "en": "I'm free. I'm free.",
+   "tr": "Özgürüm. Özgürüm."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10263",
+   "en": "I will do what I can to assist the colony in this difficult time. I am ashamed of the damage  done to the lives of these people.",
+   "tr": "Bu zor zamanda koloniye yardım etmek için elimden geleni yapacağım. Bu insanların hayatlarına verilen zarar için utanç duyuyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10268",
+   "en": "You gave something to Saren. Something I need.",
+   "tr": "Saren'e bir şey verdin. İhtiyacım olan bir şey."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10271",
+   "en": "Give me what I need and I'll strike back at the one who betrayed you.",
+   "tr": "İhtiyacım olanı ver, sana ihanet edene karşılık vereyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10272",
+   "en": "I won't let you keep your thralls. Release them. Now!",
+   "tr": "Kölelerini elinde tutmana izin vermeyeceğim. Bırak onları. Şimdi!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10274",
+   "en": "I don't argue with plants. Give me what I want. Now!",
+   "tr": "Bitkilerle tartışmam. İstediğimi ver. Şimdi!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10278",
+   "en": "You enslaved the colonists! You destroyed their minds. I don't know what Saren wanted with you, but I just want you dead!",
+   "tr": "Kolonistleri köleleştirdin! Zihinlerini yok ettin. Saren senden ne istedi bilmiyorum ama seni ölü görmek istiyorum!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|10945",
+   "en": "I-- I suppose I should thank you for releasing me.",
+   "tr": "Ben-- Sanırım beni serbest bıraktığınız için teşekkür etmeliyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11955",
+   "en": "I will remain here until the last of your kind is gone. I am greatly ashamed for what happened here.",
+   "tr": "Türünüzün sonuncusu gidene kadar burada kalacağım. Burada olanlar için büyük utanç duyuyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11968",
+   "en": "To understand, you must have access to endemic ancestral memory. A viewpoint spanning thousands of Prothean generations.",
+   "tr": "Anlamak için yerleşik ata hafızasına erişmeniz gerek. Binlerce Prothean neslini kapsayan bir bakış açısı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11969",
+   "en": "I sensed this ancestral memory--the Cipher--when I melded with the Thorian. Our identities merged, our minds intertwined. Such knowledge cannot be taught; it simply exists.",
+   "tr": "Thorian'la kaynaştığımda bu ata hafızasını--Cipher'ı--hissettim. Kimliklerimiz birleşti, zihinlerimiz iç içe geçti. Böyle bilgi öğretilemez; sadece vardır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11971",
+   "en": "There is a way. I can transfer the knowledge from my mind to yours, as I did with Saren.",
+   "tr": "Bir yol var. Bilgiyi zihnimden sizinkine aktarabilirim, Saren'e yaptığım gibi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11972",
+   "en": "I have given you the Cipher, just as it was given to Saren. The ancestral memories of the Protheans are a part of you now.",
+   "tr": "Size Cipher'ı verdim, Saren'e verildiği gibi. Prothean'ların ata hafızaları artık sizin bir parçanız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11973",
+   "en": "Are you all right, Shepard? What did she do?",
+   "tr": "İyi misin Shepard? Ne yaptı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11974",
+   "en": "You have been given a great gift: the experience of an entire people. It will take time for your mind to process this information.",
+   "tr": "Size büyük bir hediye verildi: koca bir halkın deneyimi. Zihninizin bu bilgiyi işlemesi zaman alacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11988",
+   "en": "Are you all right? What just happened?",
+   "tr": "İyi misin? Az önce ne oldu?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11990",
+   "en": "What was that? Shepard, are you all right?",
+   "tr": "O neydi? Shepard, iyi misin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11991",
+   "en": "What just happened? Are you okay?",
+   "tr": "Az önce ne oldu? İyi misin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11992",
+   "en": "A knowledge bond can be very traumatic. Are you all right, Commander Shepard?",
+   "tr": "Bilgi bağı çok travmatik olabilir. İyi misiniz Komutan Shepard?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|11998",
+   "en": "The Cipher is the very essence of being a Prothean. It cannot be described or explained. It would be like describing color to a creature without eyes.",
+   "tr": "Cipher Prothean olmanın özüdür. Tarif edilemez, açıklanamaz. Gözü olmayan bir yaratığa rengi anlatmak gibi olur."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|12025",
+   "en": "I saw... something. It still didn't make any sense.",
+   "tr": "Bir şey gördüm... Hâlâ anlamlı gelmedi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|12040",
+   "en": "All I saw were more weird visions. It still didn't make sense!",
+   "tr": "Tek gördüğüm daha fazla tuhaf vizyondu. Hâlâ anlamlı gelmedi!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|12524",
+   "en": "Farewell, Commander. I wish you well in your hunt.",
+   "tr": "Hoşça kalın Komutan. Avınızda başarılar dilerim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|12557",
+   "en": "Farewell, Shiala.",
+   "tr": "Hoşça kal Shiala."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50816",
+   "en": "I'm okay.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50818",
+   "en": "She messed up my mind!",
+   "tr": "Zihnimi karıştırdı!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50861",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50878",
+   "en": "I need what Saren came for.",
+   "tr": "Saren'in gelip aldığı şeye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50881",
+   "en": "I'll destroy you!",
+   "tr": "Seni yok edeceğim!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50884",
+   "en": "I'm after Saren.",
+   "tr": "Saren'in peşindeyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50885",
+   "en": "Let the colonists go.",
+   "tr": "Kolonistleri bırak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|50886",
+   "en": "Enough negotiating.",
+   "tr": "Pazarlık yeter."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|76946",
+   "en": "This flesh is reborn! You will be destroyed!",
+   "tr": "Bu et yeniden doğdu! Yok edileceksiniz!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|76947",
+   "en": "The Old Growth is older than you can fathom!",
+   "tr": "Eski Büyüme sizin kavrayabileceğinizden daha eski!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|76948",
+   "en": "The Long Cycle must continue!",
+   "tr": "Uzun Döngü devam etmeli!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|76949",
+   "en": "You are nothing! Nutrients to feed upon!",
+   "tr": "Hiçbir şeysiniz! Beslenecek besin maddeleri!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77210",
+   "en": "I am fine. Or I will be, in time.",
+   "tr": "İyiyim. Ya da zamanla olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77211",
+   "en": "This is no trick. The Thorian is dead and I am myself again.",
+   "tr": "Bu bir hile değil. Thorian öldü ve yine kendimim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77212",
+   "en": "My name is Shiala. I serve-- I served Matriarch Benezia. When she allied herself with Saren, so did I.",
+   "tr": "Adım Shiala. Matriarch Benezia'ya hizmet ediyorum-- ediyordum. O Saren'le ittifak kurunca ben de kurdum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77213",
+   "en": "I came to this world in search of the Thorian. Saren needed its knowledge. And he needed my biotic abilities to communicate with it.",
+   "tr": "Bu dünyaya Thorian'ı aramak için geldim. Saren'in onun bilgisine ihtiyacı vardı. Ve onunla iletişim kurmak için benim biyotik yeteneklerime ihtiyacı vardı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77217",
+   "en": "Is everything all right? Are you hurt?",
+   "tr": "Her şey yolunda mı? Yaralandınız mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77219",
+   "en": "How do I know this isn't some kind of trick?",
+   "tr": "Bunun bir tür hile olmadığını nereden bileyim?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77221",
+   "en": "How did you end up inside that... thing?",
+   "tr": "O... şeyin içine nasıl girdin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77225",
+   "en": "Are you okay?",
+   "tr": "İyi misin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77226",
+   "en": "I don't trust you.",
+   "tr": "Size güvenmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77227",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77233",
+   "en": "Saren offered me in trade. I was sacrificed to secure an alliance between Saren and the Thorian.",
+   "tr": "Saren beni takas olarak sundu. Saren ile Thorian arasında bir ittifak kurmak için kurban edildim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77234",
+   "en": "Saren is quick to betray his followers and his allies. Once he had what he needed, he ordered his geth to destroy the Thorian.",
+   "tr": "Saren takipçilerine ve müttefiklerine ihanet etmekte hızlı. İhtiyacı olanı alınca geth'ine Thorian'ı yok etmelerini emretti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77235",
+   "en": "He was quick to betray the Thorian, too. After he had what he wanted, he ordered the geth to destroy all evidence of its existence.",
+   "tr": "Thorian'a da ihanet etmekte hızlıydı. İstediğini alınca geth'e varlığının tüm kanıtlarını yok etmelerini emretti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77236",
+   "en": "Saren knows you are searching for the Conduit. He knows you are following his steps. He attacked the Thorian so you could not gain the Cipher.",
+   "tr": "Saren Conduit'i aradığınızı biliyor. Adımlarını izlediğinizi biliyor. Thorian'a saldırdı ki Cipher'ı elde edemeyesiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77239",
+   "en": "That's what you get for trusting Saren.",
+   "tr": "Saren'e güvenmenin bedeli bu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77241",
+   "en": "Saren's pretty quick to betray his own people.",
+   "tr": "Saren kendi insanlarına ihanet etmekte oldukça hızlı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77243",
+   "en": "Then why were the geth trying to destroy the Thorian?",
+   "tr": "O halde geth neden Thorian'ı yok etmeye çalışıyordu?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77244",
+   "en": "What's the Cipher? And why did Saren need it?",
+   "tr": "Cipher nedir? Ve Saren'in ona neden ihtiyacı vardı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77248",
+   "en": "Serves you right.",
+   "tr": "Hak ettiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77249",
+   "en": "That's horrible!",
+   "tr": "Bu korkunç!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77250",
+   "en": "They were allies?",
+   "tr": "Müttefik miydiler?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77253",
+   "en": "Tell me what it is.",
+   "tr": "Bana ne olduğunu söyle."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77300",
+   "en": "The beacon on Eden Prime gave you visions. But the visions are unclear, confusing. They were meant for a Prothean mind.",
+   "tr": "Eden Prime'daki işaret fişeği size vizyonlar verdi. Ama vizyonlar belirsiz, kafa karıştırıcı. Bir Prothean zihni için tasarlanmışlardı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77301",
+   "en": "To truly comprehend them, you must think like a Prothean. You must understand their culture, their history, their very existence.",
+   "tr": "Onları gerçekten kavramak için bir Prothean gibi düşünmelisiniz. Kültürlerini, tarihlerini, varoluşlarını anlamalısınız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77302",
+   "en": "The Thorian was here long before the Protheans built this city. It watched and studied them. When they died, it consumed them. They became a part of it.",
+   "tr": "Thorian Prothean'ların bu şehri kurmasından çok önce buradaydı. Onları izledi ve inceledi. Öldüklerinde onları tüketti. Onun bir parçası oldular."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77313",
+   "en": "Sounds like you asari got in over your heads for once.",
+   "tr": "Anlaşılan siz asari kadınlar bir kere olsun altından kalkamayacağınız işe girişmişsiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77314",
+   "en": "She tried to manipulate Saren. But in the end, her plan backfired.",
+   "tr": "Saren'i manipüle etmeye çalıştı. Ama sonunda planı ters tepti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77315",
+   "en": "She tried to manipulate Saren. But in the end, her plan backfired.",
+   "tr": "Saren'i manipüle etmeye çalıştı. Ama sonunda planı ters tepti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77316",
+   "en": "Typical asari meddling. About time it bit you in the ass.",
+   "tr": "Tipik asari müdahalesi. Sonunda başına bela olması gerekiyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77317",
+   "en": "Benezia sought to turn the river and was swept away.",
+   "tr": "Benezia nehrin yönünü çevirmeye çalıştı ve sürüklenip gitti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77318",
+   "en": "Benezia underestimated Saren. As I did. We came to believe in his cause and his goals. The strength of his influence is troubling.",
+   "tr": "Benezia Saren'i hafife aldı. Ben de öyle yaptım. Davasına ve hedeflerine inanmaya başladık. Etkisinin gücü endişe verici."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77319",
+   "en": "Saren has a vessel. An enormous warship unlike anything I've ever seen. He calls it Sovereign. It can dominate the minds of his followers.",
+   "tr": "Saren'in bir gemisi var. Hiç görmediğim türde devasa bir savaş gemisi. Ona Sovereign diyor. Takipçilerinin zihinlerini ele geçirebilir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77320",
+   "en": "They become indoctrinated to Saren's will. The process is subtle. It can take days, weeks. But in the end, it is absolute.",
+   "tr": "Saren'in iradesine telkin edilirler. Süreç ince işler. Günler, haftalar sürebilir. Ama sonunda mutlak olur."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77322",
+   "en": "Your suspicions are understandable. But you freed me from the Thorian, and from Saren. I am on your side now.",
+   "tr": "Şüpheleriniz anlaşılabilir. Ama beni Thorian'dan ve Saren'den kurtardınız. Artık sizin tarafınızdayım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77323",
+   "en": "If you allow it, I would like to stay here with the colonists. They have suffered greatly, and I played a role in their suffering. I would like to make amends.",
+   "tr": "İzin verirseniz burada kolonistlerle kalmak istiyorum. Çok acı çektiler ve onların acısında bir payım vardı. Telafi etmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77324",
+   "en": "So be it. If this is the fate you feel I deserve, then I will not resist.",
+   "tr": "Öyle olsun. Bunun hak ettiğim kader olduğunu düşünüyorsanız direnmeyeceğim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77325",
+   "en": "Thank you, Commander. May fortune smile upon you. ",
+   "tr": "Teşekkürler Komutan. Talih size gülsün."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77326",
+   "en": "Then I wish good fortune upon you. Saren must be stopped before he finds the Conduit. As for me, I will stay here with the colonists.",
+   "tr": "O halde size iyi şanslar dilerim. Saren Conduit'i bulmadan durdurulmalı. Bana gelince, burada kolonistlerle kalacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77327",
+   "en": "I feel great shame for my part in their suffering. As long as any of the colonists remain on this world, I will do whatever I can to aid and protect them.",
+   "tr": "Onların acısındaki payım için büyük utanç duyuyorum. Kolonistlerden biri bu dünyada kaldığı sürece onlara yardım etmek ve korumak için elimden geleni yapacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77332",
+   "en": "Just give me some plain answers! Where is the Cipher?",
+   "tr": "Bana düz cevaplar ver! Cipher nerede?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77333",
+   "en": "So the Thorian taught Saren to think like a Prothean? How?",
+   "tr": "Demek Thorian Saren'e bir Prothean gibi düşünmeyi öğretti? Nasıl?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77334",
+   "en": "Where is the Cipher? How do I get it?",
+   "tr": "Cipher nerede? Nasıl alırım?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77343",
+   "en": "You chose to side with Saren. So did Matriarch Benezia.",
+   "tr": "Saren'in tarafını seçtin. Matriarch Benezia da öyle."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77344",
+   "en": "Are you saying Saren can control minds?",
+   "tr": "Saren'in zihinleri kontrol edebildiğini mi söylüyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77352",
+   "en": "Asari Matriarchs are among the most intelligent and powerful beings in the galaxy. How could one fall under Saren's control?",
+   "tr": "Asari Matriarch'lar galaksideki en zeki ve güçlü varlıklar arasında. Biri Saren'in kontrolü altına nasıl girebilir?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77355",
+   "en": "Now that you're free of the Thorian, what are you planning to do next?",
+   "tr": "Artık Thorian'dan kurtulduğuna göre sıradaki planın ne?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77356",
+   "en": "You were allied with Saren. For all I know, you still are. I can't just let you walk away.",
+   "tr": "Saren'le müttefiktin. Bildiğim kadarıyla hâlâ da olabilirsin. Öylece gitmene izin veremem."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77358",
+   "en": "You change sides too often. I have no choice. You must die.",
+   "tr": "Çok sık taraf değiştiriyorsun. Seçeneğim yok. Ölmelisin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77360",
+   "en": "The colonists will need all the help they can get. They'll be happy to have you on their side.",
+   "tr": "Kolonistlerin alabilecekleri tüm yardıma ihtiyacı olacak. Seni yanlarında görmekten mutlu olacaklar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77362",
+   "en": "I can't spend any more time here. Not while Saren's still out looking for the Conduit.",
+   "tr": "Burada daha fazla vakit geçiremem. Saren hâlâ Conduit'i ararken olmaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77366",
+   "en": "What else can you tell me about Saren?",
+   "tr": "Saren hakkında bana başka ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77367",
+   "en": "Tell me more about this ship Saren has.",
+   "tr": "Saren'in sahip olduğu bu gemi hakkında daha fazla anlat."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77368",
+   "en": "I want to know more about Benezia.",
+   "tr": "Benezia hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77369",
+   "en": "Is there anything else you can tell me about the Thorian?",
+   "tr": "Thorian hakkında bana söyleyebileceğin başka bir şey var mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77370",
+   "en": "I want to know more about you.",
+   "tr": "Senin hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77376",
+   "en": "Enough mystic crap!",
+   "tr": "Mistik saçmalık yeter!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77377",
+   "en": "So the Cipher is knowledge?",
+   "tr": "Yani Cipher bir bilgi mi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77378",
+   "en": "I don't understand.",
+   "tr": "Anlamıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77388",
+   "en": "Quit making excuses.",
+   "tr": "Bahane üretmeyi bırak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77390",
+   "en": "What do you mean?",
+   "tr": "Ne demek istiyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77400",
+   "en": "There's more to this.",
+   "tr": "Bunda daha fazlası var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77403",
+   "en": "What should I do with you?",
+   "tr": "Seninle ne yapmalıyım?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77404",
+   "en": "I can't let you go.",
+   "tr": "Gitmene izin veremem."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77405",
+   "en": "I should leave.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77407",
+   "en": "I can't let you live.",
+   "tr": "Yaşamana izin veremem."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77408",
+   "en": "A noble idea.",
+   "tr": "Asil bir fikir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77409",
+   "en": "Sounds good to me.",
+   "tr": "Bana iyi geliyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77415",
+   "en": "Saren",
+   "tr": "Saren"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77416",
+   "en": "Sovereign",
+   "tr": "Sovereign"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77417",
+   "en": "The Matriarch",
+   "tr": "Matriarch"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77418",
+   "en": "The Thorian",
+   "tr": "Thorian"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77419",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77605",
+   "en": "You look a little queasy. We should get you back to the ship.",
+   "tr": "Biraz bulantılı görünüyorsun. Seni gemiye geri götürmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77606",
+   "en": "We should get you back to the ship where you can be monitored.",
+   "tr": "Seni gözlenebileceğin gemiye geri götürmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77607",
+   "en": "You look pretty rough. We should get you back to the ship.",
+   "tr": "Epey bitkin görünüyorsun. Seni gemiye geri götürmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77608",
+   "en": "We should get you back to the ship, Commander. Medical needs to know about this.",
+   "tr": "Seni gemiye geri götürmeliyiz Komutan. Sağlık birimi bunu bilmeli."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77609",
+   "en": "You look a little unsteady, Shepard. Perhaps you should return to the Normandy.",
+   "tr": "Biraz dengesiz görünüyorsun Shepard. Belki Normandy'ye dönmelisin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77610",
+   "en": "I am sorry if you have suffered, but there was no other way. You needed the Cipher. In time, it will help you understand the vision from the beacon.",
+   "tr": "Acı çektiyseniz üzgünüm ama başka yol yoktu. Cipher'a ihtiyacınız vardı. Zamanla işaret fişeğindeki vizyonu anlamanıza yardım edecek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77611",
+   "en": "There is little I could tell you that you do not already know. He is powerful. He is charismatic. And he is dangerous.",
+   "tr": "Size söyleyebileceğim zaten bilmediğiniz çok az şey var. Güçlü. Karizmatik. Ve tehlikeli."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77612",
+   "en": "Once I followed him, blind to his true nature. But now I see he is leading the galaxy into an age of darkness and suffering.",
+   "tr": "Bir zamanlar gerçek doğasına kör olarak onu izledim. Ama şimdi galaksiyi bir karanlık ve acı çağına sürüklediğini görüyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77614",
+   "en": "Sovereign is alien. I do not know how it was built, or where it comes from. Its design does not match that of any known spacefaring species.",
+   "tr": "Sovereign yabancı. Nasıl inşa edildiğini veya nereden geldiğini bilmiyorum. Tasarımı bilinen hiçbir uzay yolcusu türünkine uymuyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77615",
+   "en": "It dwarfs any vessel in the Citadel or Alliance fleets. Its weapons are devastating; its defenses, virtually impenetrable. With it, Saren believes he is unstoppable.",
+   "tr": "Citadel veya İttifak filolarındaki her gemiyi cüceleştiriyor. Silahları yıkıcı; savunmaları neredeyse aşılamaz. Saren onunla durdurulamaz olduğuna inanıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77616",
+   "en": "The indoctrination. There is an energy about Sovereign. You feel drawn to the ship. It makes Saren's arguments more persuasive, more compelling.",
+   "tr": "Telkin. Sovereign'in etrafında bir enerji var. Gemiye çekildiğinizi hissediyorsunuz. Saren'in argümanlarını daha ikna edici, daha çekici kılıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77617",
+   "en": "Spend enough time in Sovereign's presence and you will lose yourself. There is no other way to explain it.",
+   "tr": "Sovereign'in huzurunda yeterince zaman geçirirseniz kendinizi kaybedersiniz. Başka açıklaması yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77618",
+   "en": "Benezia was greatly respected among our people. A powerful biotic, even for an asari. She was widely known as a teacher of philosophy and religion. ",
+   "tr": "Benezia halkımız arasında büyük saygı görüyordu. Bir asari için bile güçlü bir biyotikti. Felsefe ve din öğretmeni olarak geniş çevrede biliniyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77619",
+   "en": "She always sought the paths of peace and harmony. She joined with Saren because she hoped to turn him away from his path of destruction.",
+   "tr": "Hep barış ve uyum yollarını aradı. Saren'e katıldı çünkü onu yıkım yolundan döndürmeyi umdu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77620",
+   "en": "As I mentioned before, Matriarch Benezia underestimated Saren. Be sure you do not make the same mistake.",
+   "tr": "Daha önce söylediğim gibi Matriarch Benezia Saren'i hafife aldı. Aynı hatayı yapmadığınızdan emin olun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77621",
+   "en": "No. I'm sorry. All I know is that Saren believes the Conduit was the key to the Prothean extinction.",
+   "tr": "Hayır. Üzgünüm. Tek bildiğim Saren'in Conduit'in Prothean yok oluşunun anahtarı olduğuna inandığı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77622",
+   "en": "That can't be good, whatever it is.",
+   "tr": "Bu her ne ise iyi olamaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77623",
+   "en": "Well then whatever it is, we can't let him have it.",
+   "tr": "O halde her ne ise onun eline geçmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77624",
+   "en": "That can't be good, whatever it is.",
+   "tr": "Bu her ne ise iyi olamaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77625",
+   "en": "Then whatever it is, we cannot let him have it.",
+   "tr": "O halde her ne ise onun eline geçmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77626",
+   "en": "Then whatever it is, we can't let him have it.",
+   "tr": "O halde her ne ise onun eline geçmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77627",
+   "en": "You have the Cipher. In time, your visions will clear. They will lead you to the Conduit. I only pray you find it before Saren does.",
+   "tr": "Cipher sizde. Zamanla vizyonlarınız netleşecek. Sizi Conduit'e götürecekler. Tek duam Saren'den önce bulmanız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77628",
+   "en": "When the creature enveloped me, I became part of it. But I still don't truly understand it. So alien. So ancient.",
+   "tr": "Yaratık beni sardığında onun bir parçası oldum. Ama hâlâ onu gerçekten anlamıyorum. Çok yabancı. Çok kadim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77629",
+   "en": "Its exact age is impossible to know. It measured time differently. Ten thousand years of hibernation broken by a few frantic centuries of activity.",
+   "tr": "Tam yaşını bilmek imkânsız. Zamanı farklı ölçüyordu. On bin yıllık kış uykusu, birkaç çılgın yüzyıllık faaliyetle bölünüyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77630",
+   "en": "Its mind was awesome. Magnificent. It transcended all classification. And now it is gone.",
+   "tr": "Zihni korkutucuydu. Muhteşemdi. Tüm sınıflandırmaların ötesindeydi. Ve şimdi gitti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77631",
+   "en": "The Thorian was a unique life-form -- a sentient being that lived for 50,000 years, maybe more. There is nothing even remotely like it in the known galaxy. ",
+   "tr": "Thorian eşsiz bir yaşam formuydu -- 50.000 yıl, belki daha fazla yaşayan bilinçli bir varlık. Bilinen galakside buna uzaktan bile benzeyen bir şey yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77632",
+   "en": "I am grateful you saved me from a life of thralldom. Yet I cannot help but feel some sorrow for the loss of such a rare and remarkable creature.",
+   "tr": "Beni kölelik hayatından kurtardığınız için minnettarım. Yine de böylesine nadir ve olağanüstü bir yaratığın kaybı için biraz üzüntü duymadan edemiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77633",
+   "en": "There is nothing remarkable about me. I was merely one of Matriarch Benezia's disciples. For nearly two centuries, I followed her, learning at her feet.",
+   "tr": "Bende olağanüstü bir şey yok. Ben sadece Matriarch Benezia'nın müritlerinden biriydim. Neredeyse iki yüzyıl onu izledim, ayaklarının dibinde öğrendim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77634",
+   "en": "When Benezia revealed her plan to join Saren, she gave her disciples a choice. Only those who were willing had to follow her. Many felt her plan was too dangerous.",
+   "tr": "Benezia Saren'e katılma planını açıkladığında müritlerine bir seçim sundu. Yalnızca istekli olanlar onu izleyecekti. Çoğu planın çok tehlikeli olduğunu düşündü."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77635",
+   "en": "But I believed in her. I thought she could turn Saren away from his insanity. Instead, we joined him in it.",
+   "tr": "Ama ben ona inandım. Saren'i delilikten döndürebileceğini sandım. Bunun yerine biz onunla delirdik."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77643",
+   "en": "You said Saren uses it to manipulate his followers.",
+   "tr": "Saren'in bunu takipçilerini manipüle etmek için kullandığını söyledin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77646",
+   "en": "Instead, she became one of his most powerful allies.",
+   "tr": "Bunun yerine onun en güçlü müttefiklerinden biri oldu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77647",
+   "en": "Do you know what the Conduit is? Or where it is?",
+   "tr": "Conduit'in ne olduğunu ya da nerede olduğunu biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77656",
+   "en": "The galaxy's a better place with that thing dead and gone.",
+   "tr": "O şey ölüp gittiği için galaksi daha iyi bir yer."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77657",
+   "en": "Don't tell me you feel sorry for that thing.",
+   "tr": "Sakın o şeye üzüldüğünü söyleme."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77661",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77667",
+   "en": "The Conduit",
+   "tr": "Conduit"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77670",
+   "en": "It controls minds?",
+   "tr": "Zihinleri mi kontrol ediyor?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77673",
+   "en": "It backfired.",
+   "tr": "Ters tepti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77682",
+   "en": "It was an abomination!",
+   "tr": "Bir ucubeydi!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77683",
+   "en": "You sound almost sad.",
+   "tr": "Neredeyse üzgün konuşuyorsun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77687",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77688",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77689",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|77690",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|93228",
+   "en": "Benezia foresaw the influence Saren would have. She joined him to guide him down a gentler path. But Saren is compelling. Benezia lost her way.",
+   "tr": "Benezia Saren'in sahip olacağı etkiyi öngördü. Onu daha yumuşak bir yola yönlendirmek için katıldı. Ama Saren çekici. Benezia yolunu kaybetti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|93229",
+   "en": "After Saren had what he needed, the Thorian became a liability.",
+   "tr": "Saren ihtiyacı olanı alınca Thorian bir yük haline geldi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103458",
+   "en": "I was a willing slave when Saren brought me to this world. He needed my biotics to communicate with the Thorian, to learn its secrets.",
+   "tr": "Saren beni bu dünyaya getirdiğinde istekli bir köleydim. Thorian'la iletişim kurmak ve sırlarını öğrenmek için biyotiklerime ihtiyacı vardı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103460",
+   "en": "I'm here to make a deal.",
+   "tr": "Buraya bir anlaşma yapmaya geldim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103461",
+   "en": "He tricked her?",
+   "tr": "Onu kandırdı mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103462",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103464",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103466",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103468",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103470",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|103473",
+   "en": "What does it do?",
+   "tr": "Ne işe yarıyor?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111574",
+   "en": "Try to relax, Commander. Slow, deep breaths. Let go of your physical shell. Reach out to grasp the threads that bind us, one to another.",
+   "tr": "Rahatlamaya çalışın Komutan. Yavaş, derin nefesler. Fiziksel kabuğunuzu bırakın. Bizi birbirimize bağlayan ipliklere uzanıp tutun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111575",
+   "en": "Every action sends ripples across the galaxy. Every idea must touch another mind to live. Each emotion must mark another's spirit.",
+   "tr": "Her eylem galakside dalgalar yaratır. Her fikir yaşamak için başka bir zihne dokunmalı. Her duygu başkasının ruhunda iz bırakmalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111576",
+   "en": "Embrace eternity!",
+   "tr": "Sonsuzluğu kucaklayın!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111578",
+   "en": "I need that knowledge to stop Saren!",
+   "tr": "Saren'i durdurmak için o bilgiye ihtiyacım var!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111579",
+   "en": "You taught Saren. You can teach me.",
+   "tr": "Saren'e öğrettin. Bana da öğretebilirsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111580",
+   "en": "I need the Cipher.",
+   "tr": "Cipher'a ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111584",
+   "en": "There has to be some way!",
+   "tr": "Bir yolu olmalı!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111585",
+   "en": "You gave it to Saren.",
+   "tr": "Saren'e verdin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|111586",
+   "en": "I need that information.",
+   "tr": "O bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war30_thorianasari_D|119960",
+   "en": "We are all connected. Every living being united in a single, glorious existence. Open yourself to the universe, Commander.",
+   "tr": "Hepimiz bağlıyız. Her canlı tek, muhteşem bir varoluşta birleşmiş. Kendinizi evrene açın Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15406",
+   "en": "It just can't get worse than this.",
+   "tr": "Bundan daha kötü olamaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15407",
+   "en": "Feros could have been great if we'd had the support we asked for.",
+   "tr": "İstediğimiz desteği alsaydık Feros harika olabilirdi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15408",
+   "en": "We don't even know where the geth came from.",
+   "tr": "Geth'in nereden geldiğini bile bilmiyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15409",
+   "en": "We fought hard for this colony.",
+   "tr": "Bu koloni için çok savaştık."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15411",
+   "en": "We'll start over. What else can we do?",
+   "tr": "Baştan başlayacağız. Başka ne yapabiliriz ki?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15412",
+   "en": "ExoGeni has obligations here. Hopefully they learned their lesson.",
+   "tr": "ExoGeni'nin burada yükümlülükleri var. Umarım dersini almışlardır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15414",
+   "en": "We've never had funding like this before.",
+   "tr": "Daha önce hiç böyle fonumuz olmadı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15415",
+   "en": "You really forced ExoGeni to see our potential.",
+   "tr": "ExoGeni'ye potansiyelimizi gerçekten gösterdiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15417",
+   "en": "I'm taking the money and running.",
+   "tr": "Parayı alıp kaçıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_female01_D|15418",
+   "en": "I'll keep my mouth shut, that's for sure.",
+   "tr": "Ağzımı kapalı tutacağım, bu kesin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15424",
+   "en": "They wiped out our defenses in minutes.",
+   "tr": "Savunmalarımızı dakikalar içinde yok ettiler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15425",
+   "en": "This wouldn't have happened if ExoGeni had backed us from the start.",
+   "tr": "ExoGeni baştan bize destek olsaydı bu olmazdı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15426",
+   "en": "Those geth never gave us a chance.",
+   "tr": "O geth bize şans vermedi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15427",
+   "en": "We fought hard for this colony, but we're not soldiers.",
+   "tr": "Bu koloni için çok savaştık ama asker değiliz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15430",
+   "en": "I hope ExoGeni knows enough to stay out of our way now.",
+   "tr": "Umarım ExoGeni artık yolumuzdan çekilmeyi biliyordur."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15432",
+   "en": "It's nice to finally get the support we deserve.",
+   "tr": "Sonunda hak ettiğimiz desteği almak güzel."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15433",
+   "en": "I never thought we'd get this much support from the home office.",
+   "tr": "Merkez ofisten bu kadar destek alacağımızı hiç düşünmemiştim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15435",
+   "en": "Could be worse things than a bribe.",
+   "tr": "Rüşvetten daha kötü şeyler olabilir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male01_D|15436",
+   "en": "I'll keep my mouth shut. I really don't like the alternative.",
+   "tr": "Ağzımı kapalı tutacağım. Alternatifi hiç sevmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15442",
+   "en": "How are we supposed to fight an enemy like this?",
+   "tr": "Böyle bir düşmanla nasıl savaşacağız?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15443",
+   "en": "If only ExoGeni had supported us from the start.",
+   "tr": "Keşke ExoGeni baştan bize destek olsaydı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15444",
+   "en": "I hope you fare better against the geth.",
+   "tr": "Umarım geth'e karşı daha iyi olursunuz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15445",
+   "en": "The frontier is a lot more dangerous than we were told.",
+   "tr": "Sınır, bize söylendiğinden çok daha tehlikeli."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15447",
+   "en": "I hope ExoGeni learned their lesson.",
+   "tr": "Umarım ExoGeni dersini almıştır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15448",
+   "en": "Colonial Affairs is going to hear about this.",
+   "tr": "Koloni İşleri bunu duyacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15450",
+   "en": "It looks like the colony will survive after all.",
+   "tr": "Görünüşe göre koloni sonuçta hayatta kalacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15451",
+   "en": "This is great. We'll have more than enough to make it work this time.",
+   "tr": "Bu harika. Bu sefer işe yarayacak kadar fazlasına sahip olacağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15453",
+   "en": "This is a huge loss. We could have made something of this place.",
+   "tr": "Bu büyük bir kayıp. Burayı bir şey yapabilirdik."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambmilitia_male02_D|15454",
+   "en": "I'm taking whatever I can get and never looking back.",
+   "tr": "Alabildiğimi alıp arkama bakmadan gidiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15460",
+   "en": "We've been trapped for days.",
+   "tr": "Günlerdir mahsurduk."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15461",
+   "en": "ExoGeni could have prevented all this in the first place.",
+   "tr": "ExoGeni bütün bunları en başta önleyebilirdi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15462",
+   "en": "It was over in hours. The geth crushed us completely.",
+   "tr": "Saatler içinde bitti. Geth bizi tamamen ezdi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15463",
+   "en": "There's not much you can do when a force like that shows up on your doorstep.",
+   "tr": "Böyle bir güç kapına dayandığında yapabileceğin pek bir şey yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15465",
+   "en": "I hope everyone just leaves us in peace now.",
+   "tr": "Umarım herkes artık bizi rahat bırakır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15466",
+   "en": "ExoGeni better come through or this will be all over Colonial Affairs.",
+   "tr": "ExoGeni sözünü tutsa iyi olur yoksa bu Koloni İşleri'ne taşınır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15468",
+   "en": "All of a sudden, it's like we're worth something.",
+   "tr": "Birden değerli bir şeyiz sanki."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15471",
+   "en": "I'll take the money. I don't like it, but I'll take it.",
+   "tr": "Parayı alacağım. Hoşuma gitmiyor ama alacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female01_D|15472",
+   "en": "It beats dying, I guess.",
+   "tr": "Ölmekten iyi sanırım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15478",
+   "en": "I hope you can get us out of this mess.",
+   "tr": "Umarım bizi bu karmaşadan çıkarabilirsiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15479",
+   "en": "If ExoGeni had just put in a bit more support from the start....",
+   "tr": "ExoGeni baştan biraz daha destek olsaydı...."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15480",
+   "en": "This place is a lot worse than I expected.",
+   "tr": "Burası beklediğimden çok daha kötü."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15481",
+   "en": "Feros can work. It just needs help.",
+   "tr": "Feros işe yarayabilir. Sadece yardıma ihtiyacı var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15483",
+   "en": "ExoGeni better fund us like they agreed to in the first place.",
+   "tr": "ExoGeni en başta anlaştıkları gibi bizi finanse etse iyi olur."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15484",
+   "en": "It's about time someone gave that ExoGeni stooge what he deserved.",
+   "tr": "Sonunda biri o ExoGeni dalkavuğuna hak ettiğini verdi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15486",
+   "en": "You sure get results.",
+   "tr": "Sonuç almayı biliyorsunuz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15487",
+   "en": "I don't know how you convinced them to reinvest, but thank you.",
+   "tr": "Onları yeniden yatırım yapmaya nasıl ikna ettiğinizi bilmiyorum ama teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15489",
+   "en": "I'm getting out while I can.",
+   "tr": "Fırsat varken gidiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_female02_D|15490",
+   "en": "Time to get the hell out of here.",
+   "tr": "Buradan defolmanın zamanı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15496",
+   "en": "If I survive this, I'm going back to Earth.",
+   "tr": "Bundan sağ çıkarsam Dünya'ya dönüyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15497",
+   "en": "We asked for help in the beginning, but they didn't listen.",
+   "tr": "Başta yardım istedik ama dinlemediler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15498",
+   "en": "I don't know if the colony can survive this.",
+   "tr": "Koloninin bundan sağ çıkıp çıkamayacağını bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15499",
+   "en": "We tried to fight on our own, but the geth were too much.",
+   "tr": "Kendi başımıza savaşmaya çalıştık ama geth çok fazlaydı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15501",
+   "en": "We'll make it. It'll be rough, but we'll make it.",
+   "tr": "Başaracağız. Zor olacak ama başaracağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15502",
+   "en": "We can do this. We just need the chance.",
+   "tr": "Bunu yapabiliriz. Sadece bir şansa ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15504",
+   "en": "I've never seen such a turnaround by a company.",
+   "tr": "Bir şirketin böyle bir dönüş yaptığını hiç görmedim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15507",
+   "en": "It's time to leave this all behind.",
+   "tr": "Hepsini geride bırakmanın zamanı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male01_D|15508",
+   "en": "I've never seen a colony fold so fast.",
+   "tr": "Bir kolonin bu kadar hızlı çöktüğünü hiç görmedim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15514",
+   "en": "We ran when the attack hit.",
+   "tr": "Saldırı olduğunda kaçtık."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15515",
+   "en": "I don't think any of the colonies get the support they deserve.",
+   "tr": "Hiçbir kolonin hak ettiği desteği aldığını sanmıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15516",
+   "en": "The geth just blindsided us. We never stood a chance.",
+   "tr": "Geth bizi gafil avladı. Hiç şansımız yoktu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15517",
+   "en": "Every colony deserves a chance.",
+   "tr": "Her kolonin bir şansı hak ediyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15519",
+   "en": "Hopefully, everyone leaves us alone for awhile.",
+   "tr": "Umarım herkes bir süre bizi rahat bırakır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15520",
+   "en": "Maybe the home office will get off their asses and help us now. ",
+   "tr": "Belki merkez ofis artık kıçını kaldırıp bize yardım eder."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15522",
+   "en": "Huh. I hope the new money doesn't spoil this place.",
+   "tr": "Hı. Umarım yeni para burayı bozmaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15523",
+   "en": "It will be interesting to see what Feros looks like in a year.",
+   "tr": "Bir yıl sonra Feros'un nasıl görüneceğini görmek ilginç olacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15525",
+   "en": "I guess taking the easy way out is our only choice.",
+   "tr": "Sanırım kolay yolu seçmek tek seçeneğimiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male02_D|15526",
+   "en": "I'll take the deal, but it leaves a bad taste in my mouth.",
+   "tr": "Anlaşmayı kabul edeceğim ama ağzımda kötü bir tat bırakıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15532",
+   "en": "Why build a colony if you don't intend to defend it?",
+   "tr": "Savunmaya niyetin yoksa neden koloni kurarsın?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15533",
+   "en": "You'd think ExoGeni would be more interested in protecting their investment.",
+   "tr": "ExoGeni'nin yatırımını korumakla daha çok ilgilenmesini beklerdiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15534",
+   "en": "I'll be glad when this is all over.",
+   "tr": "Bütün bunlar bittiğinde sevineceğim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15535",
+   "en": "We're not soldiers. We didn't stand a chance against the geth.",
+   "tr": "Asker değiliz. Geth'e karşı şansımız yoktu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15537",
+   "en": "I hope ExoGeni learned from this.",
+   "tr": "Umarım ExoGeni bundan ders almıştır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15538",
+   "en": "Colonial Affairs needs to rein in companies like ExoGeni.",
+   "tr": "Koloni İşleri'nin ExoGeni gibi şirketleri dizginlemesi gerek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15540",
+   "en": "You won't recognize this place when we're done.",
+   "tr": "Biz işimizi bitirdiğimizde burayı tanıyamayacaksınız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15543",
+   "en": "I'm leaving as soon as possible.",
+   "tr": "En kısa sürede ayrılıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_ambrefugee_male03_D|15544",
+   "en": "I don't need to be told twice. I'm taking my credits and running.",
+   "tr": "İki kez söylenmesine gerek yok. Kredilerimi alıp kaçıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18116",
+   "en": "Any luck finding my workstation out in the ruins?",
+   "tr": "Kalıntılardaki iş istasyonumu bulmada şansın oldu mu?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18117",
+   "en": "That's very good news, indeed. Thank you.",
+   "tr": "Bu gerçekten çok iyi haber. Teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18123",
+   "en": "Plans for a few prototype mods.",
+   "tr": "Birkaç prototip modifikasyonun planları."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18124",
+   "en": "I'm a freelancer. Some of my mods are highly sought after.",
+   "tr": "Serbest çalışıyorum. Bazı modifikasyonlarım çok aranıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18127",
+   "en": "Maybe I've got a bit of the frontier spirit in me. That, and the alternative is a bit too \"secure\" for my liking.",
+   "tr": "Belki içimde biraz sınır ruhu vardır. Bir de alternatif benim için biraz fazla \"güvenli\"."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18128",
+   "en": "Freelancers don't have to worry about security as much, so long as we keep a low profile.",
+   "tr": "Serbest çalışanlar güvenlik konusunda o kadar endişelenmek zorunda değil, düşük profil tuttukça."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18131",
+   "en": "Ah, that's for smarter men than me to figure out. I have no idea what anyone would want with this ruin.",
+   "tr": "Ah, bu benden akıllı adamların çözeceği iş. Bu harabeden kimsenin ne isteyeceğini bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18132",
+   "en": "Just keep in mind what I said.",
+   "tr": "Söylediklerimi aklında tut yeter."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18138",
+   "en": "Thanks again. That data will be very valuable, once I get out of here.",
+   "tr": "Tekrar teşekkürler. Buradan çıkınca o veri çok değerli olacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18140",
+   "en": "Hmm... they could survive out there, no problem.",
+   "tr": "Hmm... orada rahatça hayatta kalabilirler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18141",
+   "en": "Yeah, they could find it, no problem.",
+   "tr": "Evet, rahatça bulabilirler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18142",
+   "en": "I wonder if I should ask for their help.",
+   "tr": "Acaba yardımlarını istemeli miyim?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18143",
+   "en": "What's the harm in asking? As long as it doesn't get in their way.",
+   "tr": "Sormanın zararı ne? Yoluna çıkmadığı sürece."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18144",
+   "en": "I was hoping you'd have a moment to speak with me. I've got a bit of a problem.",
+   "tr": "Benimle konuşacak bir dakikanız olur mu diye umuyordum. Küçük bir sorunum var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18145",
+   "en": "I understand. Just hear me out.",
+   "tr": "Anlıyorum. Sadece dinleyin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18147",
+   "en": "I need to retrieve some data. It's not a big job, but it pays well.",
+   "tr": "Bazı verileri almam gerek. Büyük bir iş değil ama iyi ödüyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18149",
+   "en": "Good. I don't want to get myself killed before I can leave this place.",
+   "tr": "İyi. Burayı terk etmeden önce kendimi öldürtmek istemiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18150",
+   "en": "Good, good. Poking around in the ruins has become a bit too dangerous for me.",
+   "tr": "İyi, iyi. Kalıntılarda dolaşmak benim için biraz fazla tehlikeli oldu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18151",
+   "en": "All right. Just remember there's money to be made if you want it.",
+   "tr": "Peki. İsterseniz para kazanılabileceğini unutmayın."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18153",
+   "en": "What is it about you that makes people assume we enjoy being in harm's way?",
+   "tr": "Sizde ne var da insanlar bizim tehlikede olmaktan hoşlandığımızı sanıyor?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18154",
+   "en": "It's not that bad, really.",
+   "tr": "O kadar kötü değil, gerçekten."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18155",
+   "en": "All you need to do is find my console at ExoGeni headquarters and drop the data onto this OSD. It's that simple.",
+   "tr": "Tek yapmanız gereken ExoGeni karargâhındaki konsolumu bulup veriyi bu OSD'ye bırakmak. O kadar basit."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18156",
+   "en": "I appreciate it. That data could be worth a lot of money.",
+   "tr": "Takdir ediyorum. O veri çok para eder."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18158",
+   "en": "Of course, this all depends on getting out of here alive.",
+   "tr": "Elbette tüm bunlar buradan sağ çıkmaya bağlı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18159",
+   "en": "After this disaster I could use a little good news. A few credits to get me started again.",
+   "tr": "Bu felaketten sonra biraz iyi habere ihtiyacım var. Yeniden başlamam için birkaç kredi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18160",
+   "en": "Just come and see me when you've got the data.",
+   "tr": "Veriyi aldığınızda gelip beni görün."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18161",
+   "en": "Have you seen anyone else heading to ExoGeni lately?",
+   "tr": "Son zamanlarda ExoGeni'ye giden başka birini gördünüz mü?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18163",
+   "en": "Well, that's very comforting. Certain death for some, fine for us.",
+   "tr": "Çok rahatlatıcı. Bazıları için kesin ölüm, bizim için sorun yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18164",
+   "en": "Deadly for him, fine for us. What could be better?",
+   "tr": "Onun için ölümcül, bizim için sorun yok. Daha iyisi ne olabilir?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18165",
+   "en": "People are quick to assume we enjoy being in hazardous situations.",
+   "tr": "İnsanlar tehlikeli durumlardan hoşlandığımızı varsaymakta hızlı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18166",
+   "en": "Why do people always assume we enjoy putting ourselves in harm's way?",
+   "tr": "İnsanlar neden hep kendimizi tehlikeye atmaktan hoşlandığımızı sanıyor?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18168",
+   "en": "Fair enough.",
+   "tr": "Yeterince adil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18169",
+   "en": "I managed to find the data and transfer it to your OSD.",
+   "tr": "Veriyi bulup OSD'ne aktarmayı başardım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18175",
+   "en": "Tell me about the data I'm getting for you.",
+   "tr": "Senin için aldığım veri hakkında bana anlat."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18179",
+   "en": "Why work in the middle of nowhere if your skills are so useful?",
+   "tr": "Becerilerin bu kadar yararlıysa neden dünyanın ucunda çalışıyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18183",
+   "en": "Do you have any idea what the geth were looking for?",
+   "tr": "Geth'in ne aradığına dair bir fikrin var mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18184",
+   "en": "Time to get moving.",
+   "tr": "Harekete geçme zamanı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18187",
+   "en": "I don't really have time to spare right now.",
+   "tr": "Şu an gerçekten ayıracak vaktim yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18191",
+   "en": "I'm listening.",
+   "tr": "Dinliyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18194",
+   "en": "This really isn't the time.",
+   "tr": "Bunun için gerçekten uygun zaman değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18199",
+   "en": "I'll look around if I get the chance.",
+   "tr": "Fırsat bulursam bakarım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18202",
+   "en": "You're awfully quick to trust me with this.",
+   "tr": "Bunu bana emanet etmekte çok acelecisin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18204",
+   "en": "I'm not interested in this.",
+   "tr": "Bununla ilgilenmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18211",
+   "en": "I'm done with this planet.",
+   "tr": "Bu gezegenle işim bitti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|18212",
+   "en": "Everybody wants something. Hurry up about it.",
+   "tr": "Herkes bir şey istiyor. Acele edin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50969",
+   "en": "Data",
+   "tr": "Veri"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50971",
+   "en": "Reason for being here",
+   "tr": "Burada olma sebebi"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50978",
+   "en": "Not now.",
+   "tr": "Şimdi değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50979",
+   "en": "Just get to the point.",
+   "tr": "Sadede gel."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50983",
+   "en": "Go on.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50984",
+   "en": "No, thanks.",
+   "tr": "Hayır, sağ olun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50985",
+   "en": "I'm not sticking around.",
+   "tr": "Burada kalmayacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50992",
+   "en": "I might be able to help.",
+   "tr": "Yardımcı olabilirim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50993",
+   "en": "Why me?",
+   "tr": "Neden ben?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|50994",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|51007",
+   "en": "I found your data.",
+   "tr": "Verini buldum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|51010",
+   "en": "Reason for the attack",
+   "tr": "Saldırının sebebi"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|51011",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|59787",
+   "en": "Just keep it in mind while you are out there. Good luck, Commander.",
+   "tr": "Dışarıdayken aklında tut yeter. İyi şanslar Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|59790",
+   "en": "I haven't found your workstation or data yet.",
+   "tr": "İş istasyonunu ve verini henüz bulamadım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|59793",
+   "en": "I didn't find anything.",
+   "tr": "Hiçbir şey bulamadım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103328",
+   "en": "No catch, really. It's dangerous work, but not for someone like you.",
+   "tr": "Bir tuzak yok, gerçekten. Tehlikeli iş ama senin gibi biri için değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103329",
+   "en": "Well, I appreciate it. Here. You've certainly earned this.",
+   "tr": "Şey, takdir ediyorum. Al. Bunu kesinlikle hak ettin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103330",
+   "en": "You bet. Thanks for all your help, Commander.",
+   "tr": "Kesinlikle. Tüm yardımın için teşekkürler Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103336",
+   "en": "Sounds easy enough. What's the catch?",
+   "tr": "Yeterince kolay görünüyor. Tuzağı ne?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103338",
+   "en": "It wasn't too difficult.",
+   "tr": "Çok zor değildi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103340",
+   "en": "Just give me my credits and I'll be on my way.",
+   "tr": "Sadece kredilerimi ver, yoluma gideyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103343",
+   "en": "I was there anyway. It was the least I could do.",
+   "tr": "Zaten oradaydım. Yapabileceğim en az şeydi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103348",
+   "en": "What do you need?",
+   "tr": "Neye ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103349",
+   "en": "Sure.",
+   "tr": "Tabii."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103350",
+   "en": "Payment.",
+   "tr": "Ödeme."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103351",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103359",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103360",
+   "en": "Okay.",
+   "tr": "Tamam."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|103362",
+   "en": "All right. I'll help.",
+   "tr": "Pekâlâ. Yardım edeceğim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|104982",
+   "en": "Thanks again, Commander.",
+   "tr": "Tekrar teşekkürler Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_gunman_D|163043",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7844",
+   "en": "Please keep your fire to a minimum when you go to the ExoGeni building. We want to minimize damage.",
+   "tr": "ExoGeni binasına giderken lütfen ateşinizi asgaride tutun. Hasarı en aza indirmek istiyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7845",
+   "en": "Oh, and I must inform you that the company will not be responsible for any injuries you sustain while in our facility.",
+   "tr": "Ayrıca tesisimizde yaşayabileceğiniz hiçbir yaralanmadan şirketin sorumlu olmayacağını bildirmeliyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7848",
+   "en": "None. We're scrambling to find anything of value.",
+   "tr": "Hiçbiri. Değerli bir şey bulmak için çabalıyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7851",
+   "en": "Please. ExoGeni Corp. is the premier engine of colonization in the new multi-system economy.",
+   "tr": "Lütfen. ExoGeni Corp. yeni çok sistemli ekonomide kolonileşmenin önde gelen motoru."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7852",
+   "en": "And in conjunction with our core interests, exploration provides a broad investment base for shareholders.",
+   "tr": "Ve temel çıkarlarımızla bağlantılı olarak keşif, hissedarlar için geniş bir yatırım tabanı sağlıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7853",
+   "en": "ExoGeni has a number of subsidiary companies in many different fields. The most profitable adapt alien technologies.",
+   "tr": "ExoGeni'nin birçok farklı alanda bağlı şirketi var. En kârlıları uzaylı teknolojilerini uyarlayanlar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7854",
+   "en": "There are many other industrial branches, but they aren't really relevant to Feros.",
+   "tr": "Başka birçok endüstriyel kolu var ama Feros için pek ilgili değiller."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7855",
+   "en": "Me? I was sent here to do some routine estimations of the potential return on investment.",
+   "tr": "Ben mi? Buraya potansiyel yatırım getirisinin rutin tahminlerini yapmak için gönderildim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7856",
+   "en": "I can't wait for the home office to get me off this rock.",
+   "tr": "Merkez ofisin beni bu kayadan çıkarmasını sabırsızlıkla bekliyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7857",
+   "en": "Please be careful if you go to headquarters. We don't want any unnecessary damage to the facility.",
+   "tr": "Karargâha giderseniz lütfen dikkatli olun. Tesise gereksiz hasar vermek istemiyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7859",
+   "en": "Still here? No rush, I suppose. ExoGeni will sort things out, given time.",
+   "tr": "Hâlâ burada mısınız? Acele yok sanırım. ExoGeni zamanla işleri halleder."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7861",
+   "en": "I know what you did on Torfan. There's no reason for this to get bloody.",
+   "tr": "Torfan'da ne yaptığını biliyorum. Bunun kanlı olması için bir neden yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7864",
+   "en": "Commander. Glad to see you survived your encounter with the Thorian.",
+   "tr": "Komutan. Thorian'la karşılaşmanızdan sağ çıktığınıza sevindim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7868",
+   "en": "Do you have any idea why the geth attacked you?",
+   "tr": "Geth'in size neden saldırdığına dair bir fikriniz var mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7872",
+   "en": "Tell me about ExoGeni.",
+   "tr": "Bana ExoGeni'den bahset."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7874",
+   "en": "What are the company's \"core interests\"?",
+   "tr": "Şirketin \"temel çıkarları\" neler?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7876",
+   "en": "Tell me about yourself, Jeong.",
+   "tr": "Bana kendinden bahset Jeong."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7878",
+   "en": "I'm going.",
+   "tr": "Gidiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7882",
+   "en": "Not this time, Jeong. You need to back down and let them go.",
+   "tr": "Bu sefer olmaz Jeong. Geri çekilip onları bırakmalısın."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|7884",
+   "en": "What do you think you're doing, Jeong?",
+   "tr": "Ne yaptığını sanıyorsun Jeong?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8785",
+   "en": "If that's the way it has to be, then come on! ",
+   "tr": "Böyle olmak zorundaysa hadi gel!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8787",
+   "en": "Opportunities? What the hell are you talking about?",
+   "tr": "Fırsatlar mı? Neden bahsediyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8788",
+   "en": "Well, yeah. No one's ever gone broke playing the \"champion of humanity\" card.",
+   "tr": "Evet. \"İnsanlığın şampiyonu\" kartını oynayarak kimse iflas etmedi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8789",
+   "en": "Nice! I guess it could be left intentionally undeveloped to capitalize on its \"rough\" appeal. Right?",
+   "tr": "Güzel! Sanırım \"kaba\" cazibesinden yararlanmak için bilerek gelişmemiş bırakılabilir. Değil mi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8790",
+   "en": "Sadly, you'd probably make a killing. But if it will let us get back to our lives, I'm for it.",
+   "tr": "Ne yazık ki büyük kazanırsın. Ama hayatımıza dönmemizi sağlayacaksa taraftarım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8791",
+   "en": "It just might work. Wait, no, but the infected colonists will throw a bit of a wrench in that plan. No, no. They need to disappear.",
+   "tr": "İşe yarayabilir. Dur, hayır, ama enfekte kolonistler bu plana biraz çomak sokacak. Hayır, hayır. Ortadan kaybolmaları gerek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8792",
+   "en": "ExoGeni will send more assayers. They'll know what happened.",
+   "tr": "ExoGeni daha fazla ekspertiz gönderecek. Ne olduğunu anlayacaklar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8810",
+   "en": "But if word gets out about the Thorian.... How do I know they'll stay quiet?",
+   "tr": "Ama Thorian haberi yayılırsa.... Sessiz kalacaklarını nereden bileyim?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8811",
+   "en": "I won't shut up! I'll talk about it to anyone who will listen!",
+   "tr": "Susmayacağım! Dinleyecek herkese anlatacağım!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8813",
+   "en": "But-- But it's not fair. Not after everything.",
+   "tr": "Ama-- Ama bu adil değil. Her şeyden sonra olmaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8814",
+   "en": "I guess that's all that matters now.",
+   "tr": "Sanırım şimdi önemli olan bu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8818",
+   "en": "Take the money and run. It seems like that's all anyone cares about.",
+   "tr": "Parayı al ve kaç. Herkesin umursadığı tek şey bu gibi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8826",
+   "en": "Communications are back up. ExoGeni wants this place purged.",
+   "tr": "İletişim geri geldi. ExoGeni burasının temizlenmesini istiyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8827",
+   "en": "You don't understand. It's not that easy.",
+   "tr": "Anlamıyorsun. Bu o kadar kolay değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8830",
+   "en": "This is a human colony, Jeong. You can't just re-purpose us.",
+   "tr": "Burası bir insan kolonisi Jeong. Bizi başka işe çeviremezsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8844",
+   "en": "I won't let you hurt these people any more. Drop your weapon or be prepared to use it!",
+   "tr": "Bu insanlara daha fazla zarar vermene izin vermeyeceğim. Silahını bırak ya da kullanmaya hazır ol!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8848",
+   "en": "Can't you see the inherent potential in this colony? Think of the promotional opportunities!",
+   "tr": "Bu kolonideki doğal potansiyeli görmüyor musun? Tanıtım fırsatlarını düşün!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8849",
+   "en": "They recovered from an alien attack on a frontier world. Add that to your company profile.",
+   "tr": "Sınır dünyasında uzaylı saldırısından kurtuldular. Bunu şirket profiline ekle."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8851",
+   "en": "Pitch it as \"Humanity against all odds!\" You could even sell tickets to wealthy adventurers.",
+   "tr": "\"Her şeye rağmen insanlık!\" diye pazarla. Zengin maceracılara bilet bile satabilirsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8874",
+   "en": "Pay them. Give them passage off this world and be done with it.",
+   "tr": "Onlara öde. Bu dünyadan gitmeleri için geçiş ver ve işi bitir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8875",
+   "en": "They lose even more if they talk. Besides, there's no real crime to report if you let them go.",
+   "tr": "Konuşurlarsa daha çok kaybederler. Üstelik onları bırakırsan bildirilecek gerçek bir suç yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8878",
+   "en": "This isn't so bad. At least you have your life. You can start over anywhere.",
+   "tr": "Bu o kadar da kötü değil. En azından hayatın var. Her yerde yeniden başlayabilirsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8882",
+   "en": "Let's get this over with.",
+   "tr": "Şunu bitirelim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8884",
+   "en": "If they talk, they lose everything for no reason at all. They'll stay quiet.",
+   "tr": "Konuşurlarsa sebepsiz yere her şeylerini kaybederler. Sessiz kalırlar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8891",
+   "en": "Are you going to tell them about the Thorian, or should I?",
+   "tr": "Onlara Thorian'ı sen mi anlatacaksın, ben mi anlatayım?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|8902",
+   "en": "You're after the one unique thing Feros has: the Thorian.",
+   "tr": "Feros'un tek eşsiz şeyinin peşindesin: Thorian."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9162",
+   "en": "If you kill only the Thorian, it might be enough to stop the infection. Maybe.",
+   "tr": "Sadece Thorian'ı öldürürsen enfeksiyonu durdurmaya yeterli olabilir. Belki."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9164",
+   "en": "Just make sure there's no evidence when you're done.",
+   "tr": "Sadece işin bitince kanıt kalmadığından emin ol."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9166",
+   "en": "Maybe there is. Come and talk to me before you leave, Commander.",
+   "tr": "Belki vardır. Gitmeden önce gelip benimle konuş Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9169",
+   "en": "There has to be another way.",
+   "tr": "Başka bir yol olmalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9220",
+   "en": "All traces of the Thorian will be erased in short order. Feros will have a second chance thanks to you.",
+   "tr": "Thorian'ın tüm izleri kısa sürede silinecek. Feros sayende ikinci bir şans bulacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9223",
+   "en": "It's worth a try, but I don't know if I can avoid harming the colonists.",
+   "tr": "Denemeye değer ama kolonistlere zarar vermekten kaçınabilir miyim bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9228",
+   "en": "Good plan. Except that the colonists stand between me and the Thorian.",
+   "tr": "İyi plan. Kolonistler benimle Thorian arasında duruyor hariç."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|9230",
+   "en": "Anything hostile will be eliminated.",
+   "tr": "Düşman olan her şey ortadan kaldırılacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|16020",
+   "en": "You shouldn't be wasting time. Deal with the Thorian.",
+   "tr": "Vakit kaybetmemelisiniz. Thorian'la ilgilenin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51021",
+   "en": "Let them go!",
+   "tr": "Bırak onları!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51022",
+   "en": "Explain yourself!",
+   "tr": "Kendini açıkla!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51030",
+   "en": "Species 37.",
+   "tr": "Tür 37."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51031",
+   "en": "The Thorian.",
+   "tr": "Thorian."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51043",
+   "en": "I'm ending this now!",
+   "tr": "Bunu şimdi bitiriyorum!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51044",
+   "en": "What about the big picture?",
+   "tr": "Ya büyük resim?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51046",
+   "en": "Just pay them off.",
+   "tr": "Sadece onlara öde."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51050",
+   "en": "Feros will be a symbol.",
+   "tr": "Feros bir sembol olacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51051",
+   "en": "Movie rights and tourism!",
+   "tr": "Film hakları ve turizm!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51058",
+   "en": "Sounds logical.",
+   "tr": "Mantıklı geliyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51059",
+   "en": "They'll try to stop me.",
+   "tr": "Beni durdurmaya çalışacaklar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51060",
+   "en": "Can't take that chance.",
+   "tr": "Bu riski alamam."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51098",
+   "en": "Think about it.",
+   "tr": "Bir düşün."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51099",
+   "en": "They won't talk.",
+   "tr": "Konuşmazlar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51102",
+   "en": "It could be worse.",
+   "tr": "Daha kötü olabilirdi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51103",
+   "en": "I'm done here.",
+   "tr": "Burada işim bitti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51152",
+   "en": "Geth attack",
+   "tr": "Geth saldırısı"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51154",
+   "en": "ExoGeni Corporation",
+   "tr": "ExoGeni Corporation"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51155",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51156",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|51160",
+   "en": "Core interests?",
+   "tr": "Temel çıkarlar?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|64647",
+   "en": "Hah, Shepard. Damn it! I knew it was too much to hope the geth would kill you.",
+   "tr": "Ha, Shepard. Lanet olsun! Geth'in seni öldüreceğini ummanın fazla olduğunu biliyordum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|64648",
+   "en": "Hold it right there, Commander. This is an ExoGeni project. I'm taking control.",
+   "tr": "Dur orada Komutan. Bu bir ExoGeni projesi. Kontrolü alıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|65150",
+   "en": "It's a telepathic life-form living under Zhu's Hope.",
+   "tr": "Zhu's Hope'un altında yaşayan telepatik bir yaşam formu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|65154",
+   "en": "The what?",
+   "tr": "Neyi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|74879",
+   "en": "A Spectre? That's a load of crap. There aren't any human Spectres. Right?",
+   "tr": "Spectre mı? Saçmalık. İnsan Spectre diye bir şey yok. Değil mi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|74888",
+   "en": "You're a bean-counter, Jeong. I'm a Spectre. Tell me, how good are those odds?",
+   "tr": "Sen bir hesapçısın Jeong. Ben bir Spectre'ım. Söyle bakalım, bu ihtimaller ne kadar iyi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|74899",
+   "en": "I'll kill you first.",
+   "tr": "Önce seni öldüreceğim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|93317",
+   "en": "I know what you did during the Blitz, but your heroics aren't needed here.",
+   "tr": "Blitz sırasında ne yaptığını biliyorum ama kahramanlıklarına burada ihtiyaç yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|93320",
+   "en": "I know what happened on Akuze. This doesn't have to end like that.",
+   "tr": "Akuze'de ne olduğunu biliyorum. Bunun öyle bitmesi gerekmiyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|98722",
+   "en": "We can talk this out. Nobody needs to get hurt.",
+   "tr": "Bunu konuşarak çözebiliriz. Kimsenin zarar görmesi gerekmiyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|98723",
+   "en": "Stay calm.",
+   "tr": "Sakin ol."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103699",
+   "en": "I think this plan of yours just might work.",
+   "tr": "Sanırım bu planın işe yarayabilir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103700",
+   "en": "I'm preparing the proposal for ExoGeni. I think they'll like it.",
+   "tr": "ExoGeni için teklifi hazırlıyorum. Sanırım hoşlarına gidecek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103701",
+   "en": "I don't know. It's a crazy idea. But, hey, if there's money involved, maybe ExoGeni will at least consider it.",
+   "tr": "Bilmiyorum. Çılgınca bir fikir. Ama para söz konusuysa belki ExoGeni en azından düşünür."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103702",
+   "en": "Still here, Shepard. Don't worry. I won't renege on our deal.",
+   "tr": "Hâlâ buradayım Shepard. Merak etme. Anlaşmamızı bozmayacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103703",
+   "en": "Now that there's no evidence, we can all just leave.",
+   "tr": "Artık kanıt olmadığına göre hepimiz gidebiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103704",
+   "en": "The colonists will soon be moving on to their new lives.",
+   "tr": "Kolonistler yakında yeni hayatlarına geçecek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103705",
+   "en": "It's a pricey solution, but better than the alternative.",
+   "tr": "Pahalı bir çözüm ama alternatiften iyi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103707",
+   "en": "I like people. I just like them more when they're helping ExoGeni profit.",
+   "tr": "İnsanları severim. Sadece ExoGeni'ye kâr sağlarken daha çok severim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103708",
+   "en": "Someone needs to worry about the bottom line. I'm the only one left.",
+   "tr": "Birinin kâr marjıyla ilgilenmesi gerek. Geriye kalan tek kişi benim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103709",
+   "en": "There's nothing here to warrant an invasion. There's barely enough here to warrant a colony.",
+   "tr": "Burada bir istilayı haklı çıkaracak hiçbir şey yok. Bir koloniyi haklı çıkaracak kadar bile yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103710",
+   "en": "The attack was certainly a surprise to me. I've been trapped here ever since.",
+   "tr": "Saldırı bana kesinlikle sürpriz oldu. O zamandan beri burada mahsurum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103711",
+   "en": "I found some interesting facts about you in the ExoGeni database.",
+   "tr": "ExoGeni veri tabanında hakkında bazı ilginç gerçekler buldum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103714",
+   "en": "It's not just you. There's something here far more valuable than a few colonists.",
+   "tr": "Sadece sen değilsin. Burada birkaç kolonistten çok daha değerli bir şey var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103715",
+   "en": "It's taking control of the colonists there. ExoGeni knew all along.",
+   "tr": "Oradaki kolonistlerin kontrolünü ele geçiriyor. ExoGeni baştan beri biliyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103716",
+   "en": "You won't get away with this, Jeong.",
+   "tr": "Bunun yanına kalmayacak Jeong."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103717",
+   "en": "So you keep saying. But nobody's going to miss a few colonists.",
+   "tr": "Hep böyle diyorsun. Ama birkaç kolonistin yokluğunu kimse fark etmez."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103718",
+   "en": "Is that really a chance you're willing to take, Jeong?",
+   "tr": "Bu gerçekten göze almaya hazır olduğun bir risk mi Jeong?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103719",
+   "en": "Yeah, but the infected colonists can't be here when the company men come.",
+   "tr": "Evet ama enfekte kolonistler şirket adamları geldiğinde burada olamaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103720",
+   "en": "You can't just kill the colonists. It's not their fault.",
+   "tr": "Kolonistleri öylece öldüremezsin. Bu onların suçu değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103721",
+   "en": "Then you'd be the first one to go to prison. Your signature's on half the Thorian reports. ",
+   "tr": "O zaman hapse giren ilk kişi sen olurdun. Thorian raporlarının yarısında imzan var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103722",
+   "en": "For this to work, there can't be any evidence. The infected colonists need to disappear.",
+   "tr": "Bunun işe yaraması için kanıt olmamalı. Enfekte kolonistler ortadan kaybolmalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103726",
+   "en": "You're not much of a people person, are you?",
+   "tr": "İnsan ilişkileri konusunda pek iyi değilsin, değil mi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103730",
+   "en": "What the hell are you talking about?",
+   "tr": "Ne saçmalıyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103732",
+   "en": "What are you doing to these people?",
+   "tr": "Bu insanlara ne yapıyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103738",
+   "en": "Tell them the geth destroyed the Thorian.",
+   "tr": "Onlara geth'in Thorian'ı yok ettiğini söyle."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103740",
+   "en": "Make the offer sweet enough and they'll take it. And they won't risk losing it all just to talk.",
+   "tr": "Teklifi yeterince tatlı yap, kabul ederler. Ve konuşmak için hepsini riske atmazlar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103742",
+   "en": "Life isn't fair, Lizbeth. It's about time you realized that.",
+   "tr": "Hayat adil değil Lizbeth. Bunu fark etme zamanın geldi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103744",
+   "en": "You've gone way too far. This ends now.",
+   "tr": "Çok ileri gittin. Bu şimdi bitiyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103748",
+   "en": "What's your problem?",
+   "tr": "Sorunun ne?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103752",
+   "en": "Control?",
+   "tr": "Kontrol mü?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103753",
+   "en": "Explain yourself.",
+   "tr": "Kendini açıkla."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103759",
+   "en": "I can't let you do this.",
+   "tr": "Bunu yapmana izin veremem."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103761",
+   "en": "No, they won't",
+   "tr": "Hayır, yapmazlar"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103762",
+   "en": "Will they?",
+   "tr": "Yapar mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103763",
+   "en": "Convince them otherwise.",
+   "tr": "Onları aksine ikna et."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103765",
+   "en": "Use your head.",
+   "tr": "Aklını kullan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|103767",
+   "en": "You're naïve.",
+   "tr": "Safsın."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|143686",
+   "en": "More valuable than lives?",
+   "tr": "Canlardan daha değerli mi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|143687",
+   "en": "They won't miss you, either.",
+   "tr": "Seni de özlemezler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_heajeong_D|144009",
+   "en": "It's a gimmick.",
+   "tr": "Bu bir numara."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3001",
+   "en": "You see? You worry too much.",
+   "tr": "Gördün mü? Fazla endişeleniyorsun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3016",
+   "en": "And you trust too easily, Juliana.",
+   "tr": "Sen de fazla kolay güveniyorsun Juliana."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3052",
+   "en": "Don't worry about him. He only cares about \"the company\".",
+   "tr": "Onu dert etme. Sadece \"şirket\"i umursuyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3057",
+   "en": "Relax, Jeong. They're obviously not geth. ",
+   "tr": "Sakin ol Jeong. Belli ki geth değiller."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3058",
+   "en": "Commander. What can I do for you?",
+   "tr": "Komutan. Sizin için ne yapabilirim?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3059",
+   "en": "As if we don't have enough problems. Now we're shooting each other in the back.",
+   "tr": "Sanki yeterince sorunumuz yokmuş gibi. Şimdi birbirimizi arkadan vuruyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3060",
+   "en": "It's my fault. I knew what was going on and I didn't do anything.",
+   "tr": "Benim suçum. Neler olduğunu biliyordum ve bir şey yapmadım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3061",
+   "en": "Don't you start. You do good work and you know it.",
+   "tr": "Sen de başlama. İyi iş yapıyorsun ve bunu biliyorsun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3080",
+   "en": "I'm glad you've decided to help us. I think there's a way to avoid killing the colonists.",
+   "tr": "Bize yardım etmeye karar vermene sevindim. Kolonistleri öldürmeden çıkmanın bir yolu olduğunu düşünüyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3083",
+   "en": "The insecticide we use in the gro-labs contains trace amounts of Tetraclopine, a neuromuscular degenerator.",
+   "tr": "Yetiştirme laboratuvarlarında kullandığımız böcek ilacı, bir sinir-kas dejeneratörü olan eser miktarda Tetraklopin içeriyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3084",
+   "en": "Dodgy, but it might just work.",
+   "tr": "Şüpheli ama işe yarayabilir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3087",
+   "en": "My men'll keep everyone safe here. If you're going, it should be soon.",
+   "tr": "Adamlarım herkesi burada güvende tutacak. Gideceksen yakında olmalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3097",
+   "en": "A reduced-capacity concussion grenade might suit our needs.",
+   "tr": "Düşük kapasiteli bir sarsıcı el bombası ihtiyacımızı karşılayabilir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3099",
+   "en": "If we must consider it, drop it in a concussion grenade.",
+   "tr": "Düşünmek zorundaysak bir sarsıcı el bombasına bırak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3100",
+   "en": "We might be able to adapt a concussion grenade to deploy it.",
+   "tr": "Dağıtmak için bir sarsıcı el bombasını uyarlayabiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3101",
+   "en": "Commander, I can make it work using our concussion grenades.",
+   "tr": "Komutan, sarsıcı el bombalarımızla işe yarayacak hale getirebilirim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3102",
+   "en": "Please try to avoid hurting the colonists. Use the nerve agent I gave you, if you can.",
+   "tr": "Lütfen kolonistlere zarar vermekten kaçının. Mümkünse size verdiğim sinir ajanını kullanın."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3109",
+   "en": "Commander Shepard. I'm here to remove your geth problem.",
+   "tr": "Komutan Shepard. Geth sorununuzu gidermeye geldim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3164",
+   "en": "I suggest you put that weapon down unless you're ready to use it.",
+   "tr": "O silahı kullanmaya hazır değilsen bırakmanı öneririm."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3195",
+   "en": "Sounds good. I'll do what I can.",
+   "tr": "İyi geliyor. Elimden geleni yapacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|3216",
+   "en": "I'm not stopping to ask them to breathe deeply.",
+   "tr": "Onlardan derin nefes almalarını istemek için durmayacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|4740",
+   "en": "You did it. With the Thorian gone, we can start rebuilding for ourselves again.",
+   "tr": "Başardın. Thorian gidince kendimiz için yeniden inşaya başlayabiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|4756",
+   "en": "Tell me about the colony.",
+   "tr": "Bana koloniden bahset."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|4757",
+   "en": "Stay bunkered down until I find out what the geth are after.",
+   "tr": "Geth'in ne peşinde olduğunu öğrenene kadar sığınakta kalın."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|5532",
+   "en": "We established ourselves here four years ago. Growth was steady until the attacks.",
+   "tr": "Buraya dört yıl önce yerleştik. Saldırılara kadar büyüme istikrarlıydı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|6133",
+   "en": "Of course. And please remember, if you see my daughter... ",
+   "tr": "Elbette. Ve lütfen kızımı görürseniz hatırlayın..."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9282",
+   "en": "Still, we were making a go of it. It was even starting to feel like home.",
+   "tr": "Yine de bir şeyler başarıyorduk. Hatta ev gibi hissetmeye başlamıştı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9283",
+   "en": "I guess I thought this would be the start of a new life. I wanted to go where I could feel like I was making a difference.",
+   "tr": "Sanırım bunun yeni bir hayatın başlangıcı olacağını düşündüm. Fark yarattığımı hissedeceğim bir yere gitmek istedim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9284",
+   "en": "Instead, everything we built is destroyed. It's very hard not to lose hope.",
+   "tr": "Bunun yerine inşa ettiğimiz her şey yıkıldı. Umudu kaybetmemek çok zor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9285",
+   "en": "We will stay out of your way until you clear a path. Good luck.",
+   "tr": "Yol açana kadar yolunuzdan uzak duracağız. İyi şanslar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9287",
+   "en": "You tried to do for us. Saved a few. It's more than most would have done.",
+   "tr": "Bizim için çabaladın. Birkaçını kurtardın. Çoğunun yapacağından fazlası."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9289",
+   "en": "We'll be gone as soon as a transport arrives.",
+   "tr": "Bir nakliye gelir gelmez gideceğiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9293",
+   "en": "What brought you here?",
+   "tr": "Seni buraya ne getirdi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9587",
+   "en": "Like a gas grenade!",
+   "tr": "Gaz bombası gibi!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9610",
+   "en": "And we're free of ExoGeni's threats. We're back to being just a little nowhere colony. Thank you, Commander.",
+   "tr": "Ve ExoGeni'nin tehditlerinden kurtulduk. Yine sadece küçük, kimsenin bilmediği bir koloniyiz. Teşekkürler Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9611",
+   "en": "It'll be tough-going, but we'll make this a home.",
+   "tr": "Zor olacak ama burayı bir yuva yapacağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9612",
+   "en": "Some might call us crazy for staying here, but home is where you make it.",
+   "tr": "Bazıları burada kalmamıza deli diyebilir ama yuva kurduğunuz yerdir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9613",
+   "en": "It's always dangerous to push the frontier, but it's something we have to do.",
+   "tr": "Sınırı zorlamak her zaman tehlikelidir ama yapmamız gereken bir şey."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9616",
+   "en": "Anyway, thanks. We'll start again. Just not here.",
+   "tr": "Neyse, teşekkürler. Baştan başlayacağız. Sadece burada değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9617",
+   "en": "It's a shame it had to end like this. We had such potential.",
+   "tr": "Böyle bitmesi yazık. Çok potansiyelimiz vardı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9618",
+   "en": "I guess I'll start again somewhere else. I just feel like we are giving up.",
+   "tr": "Sanırım başka bir yerde baştan başlayacağım. Sadece pes ediyormuşuz gibi hissediyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9619",
+   "en": "I can't believe it. Jeong says we'll have all the money we need to keep this place running.",
+   "tr": "İnanamıyorum. Jeong burayı ayakta tutmak için ihtiyacımız olan tüm paranın olacağını söylüyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9621",
+   "en": "It's because of you, Shepard. I can't thank you enough.",
+   "tr": "Senin sayende Shepard. Sana yeterince teşekkür edemem."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9622",
+   "en": "Ships are already on their way here with supplies.",
+   "tr": "İkmal getiren gemiler zaten buraya geliyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9623",
+   "en": "We'll be the biggest human colony yet.",
+   "tr": "Şimdiye kadarki en büyük insan kolonisi olacağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|9624",
+   "en": "Jeong may be corrupt, but he certainly got us a great deal.",
+   "tr": "Jeong yozlaşmış olabilir ama bize kesinlikle harika bir anlaşma sağladı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51224",
+   "en": "Colony information",
+   "tr": "Koloni bilgisi"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51225",
+   "en": "Stay put until I'm back.",
+   "tr": "Ben dönene kadar olduğun yerde kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51229",
+   "en": "Why did you come?",
+   "tr": "Neden geldin?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51272",
+   "en": "Sure.",
+   "tr": "Tabii."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51273",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51313",
+   "en": "Here to help.",
+   "tr": "Yardım etmeye geldim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|51314",
+   "en": "Stand down.",
+   "tr": "Silahlarınızı indirin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64374",
+   "en": "That's close enough.",
+   "tr": "Bu kadar yakın yeter."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64375",
+   "en": "I'm just glad to see a friendly face. I thought we were the only humans left on this planet.",
+   "tr": "Dost bir yüz görmeye sevindim. Bu gezegende kalan tek insanlar bizmişiz gibi sanmıştım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64376",
+   "en": "What kind of information?",
+   "tr": "Ne tür bilgi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64377",
+   "en": "You're almost there. They're holed up in the ExoGeni headquarters, just a bit further down the skyway.",
+   "tr": "Neredeyse geldiniz. ExoGeni karargâhına sığınmışlar, havai yolda biraz daha ilerde."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64381",
+   "en": "They shouldn't waste time poking around.",
+   "tr": "Etrafı kurcalayarak vakit kaybetmemeliler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64382",
+   "en": "We can do a proper accounting of our casualties after the geth are gone.",
+   "tr": "Geth gittikten sonra kayıplarımızın düzgün bir dökümünü yapabiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64384",
+   "en": "That's my daughter you're talking about! She's still alive. I know it.",
+   "tr": "Kızımdan bahsediyorsun! Hâlâ hayatta. Biliyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64385",
+   "en": "You see? They're not here to save us. We should just wait for company support before we--",
+   "tr": "Gördün mü? Bizi kurtarmaya gelmediler. Şirket desteğini beklemeliyiz, böylece--"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64393",
+   "en": "She was working in the ExoGeni building when the attacks came.",
+   "tr": "Saldırılar olduğunda ExoGeni binasında çalışıyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64395",
+   "en": "Oh, yeah! There are several places she could hide. For a short time.",
+   "tr": "Ah, evet! Saklanabileceği birkaç yer var. Kısa bir süre için."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64396",
+   "en": "Somewhere at the ExoGeni headquarters. I hope.",
+   "tr": "ExoGeni karargâhının bir yerinde. Umarım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64397",
+   "en": "I have no idea. We certainly haven't found anything of use.",
+   "tr": "Hiçbir fikrim yok. Kesinlikle işe yarar bir şey bulamadık."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64398",
+   "en": "Something ExoGeni is keen to remind us of.",
+   "tr": "ExoGeni'nin bize hatırlatmaya hevesli olduğu bir şey."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64399",
+   "en": "We need to recoup our expenses. It's nothing personal.",
+   "tr": "Masraflarımızı geri kazanmamız gerek. Kişisel bir şey değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64400",
+   "en": "I look forward to it, but I don't think it is safe to move while those geth are still out there.",
+   "tr": "Sabırsızlıkla bekliyorum ama o geth hâlâ dışarıdayken hareket etmenin güvenli olduğunu sanmıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64402",
+   "en": "I agree. Merging with the other survivors -- wooh. Not a good idea. We'll wait here for ExoGeni reinforcements.",
+   "tr": "Katılıyorum. Diğer hayatta kalanlarla birleşmek -- vay. İyi fikir değil. Burada ExoGeni takviyelerini bekleyeceğiz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64406",
+   "en": "Oh, yeah. We re-purposed that structure to serve as headquarters for ExoGeni. It's mostly offices with a number of light duty R&D labs.",
+   "tr": "Ah, evet. O yapıyı ExoGeni karargâhı olarak kullanmak üzere yeniden amaçlandırdık. Çoğunlukla ofisler ve birkaç hafif görevli Ar-Ge laboratuvarı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64407",
+   "en": "ExoGeni is a master at \"re-purposing\" anything and everything.",
+   "tr": "ExoGeni, her şeyi \"yeniden amaçlandırmakta\" ustadır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64409",
+   "en": "The company has to make a profit somehow, Juliana. Feros is a long way from self-sufficient.",
+   "tr": "Şirketin bir şekilde kâr etmesi gerekiyor Juliana. Feros kendi kendine yetmekten çok uzak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64410",
+   "en": "Most of us lived closer to the ExoGeni building. Zhu's Hope was mostly used as a port.",
+   "tr": "Çoğumuz ExoGeni binasına daha yakın yaşıyorduk. Zhu's Hope çoğunlukla liman olarak kullanılıyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64411",
+   "en": "When the geth hit, we scattered. Until you told us about the others, we assumed they were killed in the first wave.",
+   "tr": "Geth saldırdığında dağıldık. Siz diğerlerinden bahsedene kadar ilk dalgada öldüklerini varsaymıştık."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64412",
+   "en": "If we had known they were still alive, we might have attempted to join them.",
+   "tr": "Hâlâ hayatta olduklarını bilseydik onlara katılmayı deneyebilirdik."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64417",
+   "en": "I'll do whatever I can to keep them away from you. But I need some information.",
+   "tr": "Onları sizden uzak tutmak için elimden geleni yapacağım. Ama biraz bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64419",
+   "en": "Are we getting close to their base?",
+   "tr": "Üslerine yaklaşıyor muyuz?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64428",
+   "en": "Just tell me where I can find them.",
+   "tr": "Sadece onları nerede bulabileceğimi söyle."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64438",
+   "en": "Where is your daughter, Juliana?",
+   "tr": "Kızın nerede Juliana?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64441",
+   "en": "Do you know what the geth are after?",
+   "tr": "Geth'in ne aradığını biliyor musunuz?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64444",
+   "en": "I told Fai Dan you were here. He's anxious to have you join him.",
+   "tr": "Fai Dan'a burada olduğunu söyledim. Seni yanına almak için sabırsızlanıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64450",
+   "en": "What was the building used for?",
+   "tr": "Bina ne için kullanılıyordu?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64454",
+   "en": "How did you get split up from the Zhu's Hope colony?",
+   "tr": "Zhu's Hope kolonisinden nasıl ayrıldınız?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64461",
+   "en": "I understand.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64462",
+   "en": "Where are they?",
+   "tr": "Neredeler?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64463",
+   "en": "That's war.",
+   "tr": "Bu savaş."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64482",
+   "en": "Lizbeth's location",
+   "tr": "Lizbeth'in konumu"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64483",
+   "en": "Reason for attack",
+   "tr": "Saldırının sebebi"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64484",
+   "en": "I told Fai Dan about you.",
+   "tr": "Fai Dan'a senden bahsettim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64485",
+   "en": "ExoGeni facility",
+   "tr": "ExoGeni tesisi"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|64486",
+   "en": "Zhu's Hope",
+   "tr": "Zhu's Hope"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|74911",
+   "en": "Thank you. I appreciate that you went out of your way to at least secure us some kind of future.",
+   "tr": "Teşekkürler. En azından bize bir tür gelecek sağlamak için yolundan çıktığını takdir ediyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|74912",
+   "en": "It's too bad, but I guess it couldn't be helped. Sometimes you have to just walk away.",
+   "tr": "Yazık ama sanırım elde değildi. Bazen sadece çekip gitmek gerekir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|77040",
+   "en": "Our biggest challenge has been the lack of resources. There's just so little here of value.",
+   "tr": "En büyük zorluğumuz kaynak eksikliği oldu. Burada değerli çok az şey var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|78230",
+   "en": "Whatever you are doing, it needs to be done soon.",
+   "tr": "Ne yapıyorsanız yakında yapılmalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|78554",
+   "en": "So what now, Commander?",
+   "tr": "Peki şimdi ne Komutan?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|89564",
+   "en": "It's not like it's weapons-grade.",
+   "tr": "Silah derecesinde değil ki."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|89566",
+   "en": "Releasing clouds of nerve gas doesn't seem like a particularly good idea.",
+   "tr": "Sinir gazı bulutları salmak pek iyi bir fikir gibi görünmüyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|89569",
+   "en": "Won't I get caught in it, too?",
+   "tr": "Ben de onun içinde kalmaz mıyım?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|92471",
+   "en": "I know you made a deal with Jeong, but there's a better way.",
+   "tr": "Jeong'la bir anlaşma yaptığını biliyorum ama daha iyi bir yol var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103872",
+   "en": "Get back, Juliana.",
+   "tr": "Geri çekil Juliana."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103873",
+   "en": "Who are you? What do you want?",
+   "tr": "Kimsin? Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103875",
+   "en": "I thought you said they were all dead.",
+   "tr": "Hepsinin öldüğünü söylediğini sanıyordum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103876",
+   "en": "I said they were \"probably\" all dead.",
+   "tr": "\"Muhtemelen\" hepsinin öldüğünü söyledim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103877",
+   "en": "They're not dead. But the geth have really pounded them.",
+   "tr": "Ölü değiller. Ama geth onları çok dövdü."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103878",
+   "en": "They're surviving, but the geth really hit them hard.",
+   "tr": "Hayatta kalıyorlar ama geth onlara çok sert vurdu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103879",
+   "en": "They are surviving despite everything the geth have done to them.",
+   "tr": "Geth'in onlara yaptığı her şeye rağmen hayatta kalıyorlar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103880",
+   "en": "They live, though the geth have devastated their colony.",
+   "tr": "Yaşıyorlar, geth kolonilerini yıkmış olsa da."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103881",
+   "en": "They're still alive, but the geth hit them pretty hard.",
+   "tr": "Hâlâ hayattalar ama geth onlara epey sert vurdu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103882",
+   "en": "We know what that's like. Those damn synthetics are relentless.",
+   "tr": "Bunun nasıl olduğunu biliyoruz. O lanet sentetikler acımasız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103883",
+   "en": "Ignore him. The geth are up in the ExoGeni headquarters. Just a bit further along the skyway.",
+   "tr": "Onu dinleme. Geth ExoGeni karargâhında. Havai yolda biraz daha ilerde."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103884",
+   "en": "Those headquarters are private property, soldier. Remove the geth and nothing else.",
+   "tr": "O karargâh özel mülk asker. Geth'i çıkar ve başka bir şey yapma."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103885",
+   "en": "Commander, before you go.... My daughter, Lizbeth. She's missing....",
+   "tr": "Komutan, gitmeden önce.... Kızım Lizbeth. Kayıp...."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103889",
+   "en": "Thank you, Commander. Thank you.",
+   "tr": "Teşekkürler Komutan. Teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103890",
+   "en": "No, no, no, no. I don't think that's a good idea. We-- We have no vehicles and the skyway offers little protection.",
+   "tr": "Hayır, hayır, hayır, hayır. Bunun iyi bir fikir olduğunu sanmıyorum. Bizim-- Aracımız yok ve havai yol çok az koruma sağlıyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103891",
+   "en": "Like the building we're in now?",
+   "tr": "İçinde bulunduğumuz bina gibi mi?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103892",
+   "en": "Listen, our best hope is to sit tight and wait for company reinforcements. They'll come eventually.",
+   "tr": "Dinleyin, en iyi umudumuz sıkı durup şirket takviyesini beklemek. Eninde sonunda gelecekler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103893",
+   "en": "The colonists won't let you near the Thorian. They'd die first. They're under its control.",
+   "tr": "Kolonistler Thorian'a yaklaşmanıza izin vermeyecek. Önce ölürler. Onun kontrolü altındalar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103894",
+   "en": "There's got to be another way.",
+   "tr": "Başka bir yol olmalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103895",
+   "en": "I think there is. You could safely use a nerve agent to neutralize the colonists.",
+   "tr": "Bence var. Kolonistleri etkisiz hale getirmek için güvenle bir sinir ajanı kullanabilirsiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103896",
+   "en": "I think you could safely use a nerve agent to neutralize the colonists.",
+   "tr": "Bence kolonistleri etkisiz hale getirmek için güvenle bir sinir ajanı kullanabilirsiniz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103897",
+   "en": "Excellent. Thank you so much, Commander.",
+   "tr": "Mükemmel. Çok teşekkürler Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103898",
+   "en": "If their nervous systems are already weakened, it may act as a paralyzing agent.",
+   "tr": "Sinir sistemleri zaten zayıflamışsa felç edici ajan gibi çalışabilir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103901",
+   "en": "Fai Dan and some of the members of Zhu's Hope are still alive.",
+   "tr": "Fai Dan ve Zhu's Hope'tan bazı üyeler hâlâ hayatta."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103911",
+   "en": "I'm not interested in your company secrets.",
+   "tr": "Şirket sırlarınla ilgilenmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103912",
+   "en": "I can't stay here. I need to move on.",
+   "tr": "Burada kalamam. İlerlemem gerek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103916",
+   "en": "If she's in there, I'll get her out.",
+   "tr": "İçerideyse onu çıkaracağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103917",
+   "en": "They're fairly secure now. Maybe you should do that.",
+   "tr": "Şimdi oldukça güvendeler. Belki bunu yapmalısın."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103920",
+   "en": "I need to find out why the geth are after the Thorian.",
+   "tr": "Geth'in neden Thorian'ın peşinde olduğunu öğrenmem gerek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103921",
+   "en": "I'll deal with the Thorian, then make sure you're safe.",
+   "tr": "Thorian'la ilgileneceğim, sonra güvende olduğunuzdan emin olacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103922",
+   "en": "What else am I supposed to do?",
+   "tr": "Başka ne yapmam gerekiyor?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103923",
+   "en": "Anything that gets between me and my goal is fair game.",
+   "tr": "Hedefimle arama giren her şey meşru hedef."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103926",
+   "en": "I'm listening.",
+   "tr": "Dinliyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103927",
+   "en": "You've got one minute.",
+   "tr": "Bir dakikan var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103928",
+   "en": "What did you have in mind?",
+   "tr": "Aklında ne vardı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103937",
+   "en": "Alliance Military.",
+   "tr": "İttifak Ordusu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103938",
+   "en": "You're not alone.",
+   "tr": "Yalnız değilsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103939",
+   "en": "You thought wrong.",
+   "tr": "Yanlış düşündün."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103940",
+   "en": "There are others.",
+   "tr": "Başkaları da var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103950",
+   "en": "Shut up.",
+   "tr": "Kapa çeneni."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103951",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103952",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103953",
+   "en": "Where is she?",
+   "tr": "O nerede?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103957",
+   "en": "I'll find her.",
+   "tr": "Onu bulacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103958",
+   "en": "You still could.",
+   "tr": "Hâlâ yapabilirsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103961",
+   "en": "The Thorian.",
+   "tr": "Thorian."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103962",
+   "en": "I do my job.",
+   "tr": "Ben işimi yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103963",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103964",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103965",
+   "en": "It can't be helped.",
+   "tr": "Elde değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103966",
+   "en": "Not my problem.",
+   "tr": "Benim sorunum değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103969",
+   "en": "Go on.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103970",
+   "en": "Explain quickly.",
+   "tr": "Çabuk açıkla."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|103971",
+   "en": "I hope so.",
+   "tr": "Umarım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|113358",
+   "en": "How can it hurt to try? Please, Commander. These are our friends.",
+   "tr": "Denemenin ne zararı olur? Lütfen Komutan. Bunlar arkadaşlarımız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|113359",
+   "en": "At least take the grenades, so you have the option.",
+   "tr": "En azından el bombalarını alın, seçeneğiniz olsun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|113360",
+   "en": "Do the right thing, Commander. Please.",
+   "tr": "Doğru olanı yapın Komutan. Lütfen."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|113361",
+   "en": "I'm not doing it.",
+   "tr": "Yapmıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|113363",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|120312",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|120313",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|120314",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|120315",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|120316",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|120317",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|143688",
+   "en": "Okay.",
+   "tr": "Tamam."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|165330",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|165331",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|165332",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|165333",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war40_juliannabaynham_D|165334",
+   "en": "No.",
+   "tr": "Hayır."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3218",
+   "en": "Damn it!",
+   "tr": "Kahretsin!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3222",
+   "en": "I'm so sorry. I thought you were geth, or one of those varren.",
+   "tr": "Çok üzgünüm. Geth ya da o varren'lerden biri sandım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3226",
+   "en": "I was trapped. I tried to get out, but the way was blocked.",
+   "tr": "Mahsurdum. Çıkmaya çalıştım ama yol kapalıydı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3244",
+   "en": "I-- I was afraid. I wanted to stop the tests, but they threatened me, told me I'd be next.",
+   "tr": "Ben-- Korktum. Testleri durdurmak istedim ama beni tehdit ettiler, sıranın bende olacağını söylediler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3252",
+   "en": "Good luck with that field.",
+   "tr": "O alanda bol şans."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3293",
+   "en": "Hey... As soon as you go, I'm going to find a place to hide.",
+   "tr": "Hey... Sen gider gitmez saklanacak bir yer bulacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3305",
+   "en": "It's almost time, isn't it? Maybe we can free our friends after all. I have to help them. It's my fault this happened.",
+   "tr": "Neredeyse zamanı, değil mi? Belki arkadaşlarımızı yine de kurtarabiliriz. Onlara yardım etmeliyim. Bu olanlar benim suçum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3312",
+   "en": "You saved most of the infected. It will take time to recover from the physical effects, but they'll be all right. Thank you.",
+   "tr": "Enfekte olanların çoğunu kurtardın. Fiziksel etkilerden iyileşmek zaman alacak ama iyi olacaklar. Teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3315",
+   "en": "Well, you killed it. At least that's something. But there are so many of us gone.",
+   "tr": "Şey, onu öldürdün. En azından bu bir şey. Ama çok kişi gitti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3323",
+   "en": "Who are you and what are you doing in here?",
+   "tr": "Kimsiniz ve burada ne yapıyorsunuz?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3349",
+   "en": "Tell me about yourself.",
+   "tr": "Bana kendinden bahset."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|3352",
+   "en": "You stay put. I'll go open some doors.",
+   "tr": "Olduğun yerde kal. Gidip bazı kapıları açacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|6649",
+   "en": "Why do you think the geth would be interested in the Thorian?",
+   "tr": "Sence geth Thorian'la neden ilgilenir?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|8906",
+   "en": "Get her out of here!",
+   "tr": "Onu buradan çıkarın!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|8907",
+   "en": "Get away from her, you son of a bitch!",
+   "tr": "Ondan uzak dur, orospu çocuğu!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|8908",
+   "en": "Lizbeth!",
+   "tr": "Lizbeth!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|8913",
+   "en": "You won't get away with this.",
+   "tr": "Bunun yanına kalmayacak."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|9665",
+   "en": "What do you want? You've made your deals. Go ahead. It has nothing to do with us.",
+   "tr": "Ne istiyorsun? Anlaşmalarınızı yaptınız. Devam edin. Bizimle ilgisi yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|9678",
+   "en": "Thank you so much. Now ExoGeni will pour the money in. We'll be able to rebuild and then some.",
+   "tr": "Çok teşekkürler. Şimdi ExoGeni parayı akıtacak. Yeniden inşa edebileceğiz, hatta fazlasını."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|51532",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|51534",
+   "en": "Geth attack",
+   "tr": "Geth saldırısı"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|51535",
+   "en": "I have to get moving.",
+   "tr": "Harekete geçmem lazım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|51609",
+   "en": "Explain yourself.",
+   "tr": "Kendini açıkla."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64666",
+   "en": "It's not the geth; it's the energy field they put up.",
+   "tr": "Geth değil; kurdukları enerji alanı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64670",
+   "en": "Next thing I knew, the geth ship latched on and the power went out.",
+   "tr": "Sonra geth gemisi tutundu ve elektrik kesildi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64673",
+   "en": "A few geth won't stop me.",
+   "tr": "Birkaç geth beni durduramaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64677",
+   "en": "I'll fight my way through the geth soon enough.",
+   "tr": "Geth'in arasından çok geçmeden yolumu açacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64682",
+   "en": "Not for me it isn't.",
+   "tr": "Benim için değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64683",
+   "en": "Not a problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64954",
+   "en": "When the geth attacked, I stayed behind to send a message to Colonial Affairs.",
+   "tr": "Geth saldırdığında Koloni İşleri'ne mesaj göndermek için geride kaldım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64973",
+   "en": "It's just a plant. I don't know why the geth would care.",
+   "tr": "Sadece bir bitki. Geth'in neden umursadığını bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64974",
+   "en": "ExoGeni was studying it, but I don't think they found anything special.",
+   "tr": "ExoGeni onu inceliyordu ama özel bir şey bulduklarını sanmıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64977",
+   "en": "I'm just a research assistant for ExoGeni.",
+   "tr": "Ben sadece ExoGeni'nin araştırma asistanıyım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64979",
+   "en": "I came here with my mother. I don't even know if she made it out alive.",
+   "tr": "Buraya annemle geldim. Hayatta çıkıp çıkmadığını bile bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64980",
+   "en": "I really don't know that much about it. I think it's some kind of plant being.",
+   "tr": "Gerçekten pek bir şey bilmiyorum. Sanırım bir tür bitki varlığı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64981",
+   "en": "I know it's very old. Thousands of years, even.",
+   "tr": "Çok eski olduğunu biliyorum. Binlerce yıl, hatta."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|64984",
+   "en": "There you are!",
+   "tr": "İşte buradasın!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|65022",
+   "en": "Tell me what you know about the Thorian.",
+   "tr": "Thorian hakkında bildiklerini anlat."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|65051",
+   "en": "Thorian",
+   "tr": "Thorian"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74932",
+   "en": "Just get on with it. I want to at least see the Thorian dead before they ship us out of here.",
+   "tr": "Hadi bitir şunu. En azından bizi buradan göndermeden önce Thorian'ın öldüğünü görmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74934",
+   "en": "This has gone on too long. Just kill the Thorian and try to help the infected.",
+   "tr": "Bu fazla uzadı. Thorian'ı öldür ve enfekte olanlara yardım etmeye çalış."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74935",
+   "en": "I suppose it's time for us to go. Thank you for what you did.",
+   "tr": "Sanırım gitme zamanımız geldi. Yaptıklarınız için teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74936",
+   "en": "It's better than dead, I suppose. I just wish.... Never mind.",
+   "tr": "Ölmekten iyi sanırım. Keşke.... Boş ver."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74938",
+   "en": "Soon we'll have everything we need.",
+   "tr": "Yakında ihtiyacımız olan her şeye sahip olacağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74939",
+   "en": "We're going to be very busy.",
+   "tr": "Çok meşgul olacağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74940",
+   "en": "You won't recognize anything in a year. A clean slate.",
+   "tr": "Bir yıl içinde hiçbir şeyi tanıyamayacaksınız. Temiz bir sayfa."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74942",
+   "en": "There's nothing left here. I can't wait to get offworld.",
+   "tr": "Burada bir şey kalmadı. Gezegenden ayrılmak için sabırsızlanıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74943",
+   "en": "It's hard to imagine we even had a chance.",
+   "tr": "Şansımız olduğunu düşünmek bile zor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74944",
+   "en": "I hope I never hear about this place ever again.",
+   "tr": "Umarım bu yeri bir daha asla duymam."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74946",
+   "en": "It'll be rough-going, but we have a chance.",
+   "tr": "Zor olacak ama şansımız var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74947",
+   "en": "I'm looking forward to making this place work.",
+   "tr": "Burayı çalışır hale getirmeyi dört gözle bekliyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|74948",
+   "en": "It'll take a while, but we can make it.",
+   "tr": "Biraz zaman alacak ama başarabiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|76249",
+   "en": "Here, take my ID. This should get you past any locked doors.",
+   "tr": "Al, kimliğimi al. Bu seni kilitli kapılardan geçirmeli."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|98724",
+   "en": "You can't do this, Jeong!",
+   "tr": "Bunu yapamazsın Jeong!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|98725",
+   "en": "Everyone shut up! Let me think!",
+   "tr": "Herkes sussun! Düşüneyim!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|98726",
+   "en": "What's going on?",
+   "tr": "Neler oluyor?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|98728",
+   "en": "Damn it! Come out where I can see you! All of you!",
+   "tr": "Lanet olsun! Görebileceğim bir yere çıkın! Hepiniz!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103769",
+   "en": "It's my own fault. Everyone else was running and I stayed to back up data.",
+   "tr": "Kendi suçum. Herkes kaçarken ben veri yedeklemek için kaldım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103770",
+   "en": "They don't want anyone else getting access to the--",
+   "tr": "Kimsenin erişmesini istemiyorlar--"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103771",
+   "en": "I don't know for certain, but I'm guessing they're here for the Thorian.",
+   "tr": "Kesin bilmiyorum ama sanırım Thorian için buradalar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103772",
+   "en": "Thorian? What is that, exactly?",
+   "tr": "Thorian mı? Tam olarak nedir bu?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103773",
+   "en": "What's a Thorian?",
+   "tr": "Thorian nedir?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103774",
+   "en": "Thorian? I have never heard of such a thing.",
+   "tr": "Thorian mı? Böyle bir şey hiç duymadım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103775",
+   "en": "What's a Thorian?",
+   "tr": "Thorian nedir?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103776",
+   "en": "Thorian? What's that?",
+   "tr": "Thorian mı? Nedir bu?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103777",
+   "en": "It's an indigenous life-form. ExoGeni was studying it.",
+   "tr": "Yerli bir yaşam formu. ExoGeni onu inceliyordu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103779",
+   "en": "No, not exactly. But I think the geth ship is powering it.",
+   "tr": "Hayır, tam olarak değil. Ama sanırım geth gemisi ona güç veriyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103780",
+   "en": "I've noticed the geth laying power cables everywhere.",
+   "tr": "Geth'in her yere güç kabloları döşediğini fark ettim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103781",
+   "en": "You could follow those cables, but there's geth all over the place.",
+   "tr": "O kabloları izleyebilirsin ama her yer geth dolu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103782",
+   "en": "Yeah, you don't have to tell me twice. I'll just find a small hole to hide in until the field is down.",
+   "tr": "Evet, iki kez söylemene gerek yok. Alan inene kadar saklanacak küçük bir delik bulacağım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103783",
+   "en": "She's alive? Thank God. I thought I was the only one left.",
+   "tr": "Hayatta mı? Tanrıya şükür. Geride kalan tek kişi olduğumu sanmıştım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103784",
+   "en": "Please, Commander. Just get that field down so I can see my mother again.",
+   "tr": "Lütfen Komutan. Annemi yeniden görebilmem için şu alanı indir."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103785",
+   "en": "We should get out of here. I don't think this place is safe.",
+   "tr": "Buradan çıkmalıyız. Bu yerin güvenli olduğunu sanmıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103786",
+   "en": "I tried to tell them where to find the Thorian, but the power cut before I could send the message.",
+   "tr": "Onlara Thorian'ı nerede bulacaklarını söylemeye çalıştım ama mesajı gönderemeden elektrik kesildi."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103787",
+   "en": "I-- I never meant for this to happen.",
+   "tr": "Ben-- Bunun olmasını hiç istemedim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103788",
+   "en": "The Thorian is underneath Zhu's Hope, but the entrance is blocked.",
+   "tr": "Thorian Zhu's Hope'un altında ama giriş tıkalı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103790",
+   "en": "The colonists covered it with the freighter just before the geth attacked.",
+   "tr": "Kolonistler geth saldırmadan hemen önce yük gemisiyle kapattı."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103791",
+   "en": "Well, it does have unique mind-control capabilities.",
+   "tr": "Şey, eşsiz zihin kontrol yetenekleri var."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103792",
+   "en": "That's what ExoGeni was interested in.",
+   "tr": "ExoGeni'nin ilgisini çeken buydu."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103793",
+   "en": "I'm coming with you. I might be able to help. Undo the mess I helped create.",
+   "tr": "Seninle geliyorum. Yardım edebilirim. Yaratılmasına yardım ettiğim karmaşayı geri alırım."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103794",
+   "en": "You're safe now. But why were you here in the first place?",
+   "tr": "Şimdi güvendesin. Ama ilk başta burada ne işin vardı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103796",
+   "en": "We'll get you out as soon as we find out what the geth are after.",
+   "tr": "Geth'in ne aradığını öğrenir öğrenmez seni çıkaracağız."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103797",
+   "en": "I'm here for the geth. If you know something, tell me.",
+   "tr": "Geth için buradayım. Bir şey biliyorsan söyle."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103798",
+   "en": "I'm here for the geth. It's very important that I find out what they're after.",
+   "tr": "Geth için buradayım. Ne aradıklarını öğrenmem çok önemli."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103806",
+   "en": "Any suggestions?",
+   "tr": "Önerin var mı?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103807",
+   "en": "Do you know how we can shut it down?",
+   "tr": "Nasıl kapatabileceğimizi biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103810",
+   "en": "All right. I'll look into it. Stay put until the field is down.",
+   "tr": "Tamam. Bakacağım. Alan inene kadar olduğun yerde kal."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103812",
+   "en": "She's with some others from the colony. She's safe for now.",
+   "tr": "Koloniden bazı kişilerle birlikte. Şimdilik güvende."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103814",
+   "en": "I need some answers. You knew more about the Thorian than you let on.",
+   "tr": "Bazı cevaplara ihtiyacım var. Thorian hakkında söylediğinden fazlasını biliyordun."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103816",
+   "en": "You said you didn't know about the Thorian. I don't like being lied to.",
+   "tr": "Thorian'ı bilmediğini söyledin. Yalan söylenmesinden hoşlanmam."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103818",
+   "en": "You did what you could. I'll help them if you can tell me where to find the Thorian.",
+   "tr": "Elinden geleni yaptın. Thorian'ı nerede bulacağımı söylersen onlara yardım ederim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103819",
+   "en": "Where's the Thorian?",
+   "tr": "Thorian nerede?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103820",
+   "en": "Just tell me where I can find the Thorian. No more lies.",
+   "tr": "Sadece Thorian'ı nerede bulabileceğimi söyle. Yalan yok."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103823",
+   "en": "But why are the geth after the Thorian? What could Saren want with it?",
+   "tr": "Ama geth neden Thorian'ın peşinde? Saren ondan ne isteyebilir?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103824",
+   "en": "What bothers me is why the geth were after the Thorian in the first place.",
+   "tr": "Beni rahatsız eden, geth'in baştan Thorian'ın peşinde olmasının nedeni."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103830",
+   "en": "Why are you here?",
+   "tr": "Neden buradasın?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103831",
+   "en": "It's okay.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103833",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103834",
+   "en": "You can tell me.",
+   "tr": "Bana söyleyebilirsin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103835",
+   "en": "Don't hold back!",
+   "tr": "Saklama!"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103836",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103844",
+   "en": "Great.",
+   "tr": "Harika."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103845",
+   "en": "How?",
+   "tr": "Nasıl?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103846",
+   "en": "Fair enough.",
+   "tr": "Yeterince adil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103849",
+   "en": "Sounds good.",
+   "tr": "Kulağa iyi geliyor."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103851",
+   "en": "She did.",
+   "tr": "Etti."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103853",
+   "en": "In a minute.",
+   "tr": "Bir dakika."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103855",
+   "en": "You lied to me.",
+   "tr": "Bana yalan söyledin."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103857",
+   "en": "I believe you.",
+   "tr": "Size inanıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103858",
+   "en": "Where is it?",
+   "tr": "Nerede?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103859",
+   "en": "I don't care.",
+   "tr": "Umurumda değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103862",
+   "en": "I see.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103863",
+   "en": "Smart move.",
+   "tr": "Akıllıca hareket."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|103864",
+   "en": "Not a concern.",
+   "tr": "Dert değil."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104762",
+   "en": "First things first.",
+   "tr": "Önce asıl işler."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104983",
+   "en": "Normandy to shore party. Come in.",
+   "tr": "Normandy'den kara ekibine. Duyuyor musunuz?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104988",
+   "en": "Looks like they're headed your way.",
+   "tr": "Görünüşe göre size doğru geliyorlar."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104990",
+   "en": "What is it, Joker?",
+   "tr": "Ne var Joker?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104996",
+   "en": "Thanks for the heads-up, Joker. You heard the man; let's move out.",
+   "tr": "Uyarı için sağ ol Joker. Adamı duydunuz; hareket edelim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104997",
+   "en": "You heard the man; let's move out.",
+   "tr": "Adamı duydunuz; hareket edelim."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|104999",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|105001",
+   "en": "What now?",
+   "tr": "Şimdi ne?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|105008",
+   "en": "Nice job.",
+   "tr": "İyi iş."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|105009",
+   "en": "Okay.",
+   "tr": "Tamam."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|105010",
+   "en": "Great.",
+   "tr": "Harika."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113345",
+   "en": "I might be able to, but not with those geth crawling around everywhere.",
+   "tr": "Yapabilirim ama her yerde sürünen şu geth yüzünden olmaz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113346",
+   "en": "Look, we need to get out of here, past that field.",
+   "tr": "Bak, buradan, şu alanın ötesine geçmemiz gerek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113347",
+   "en": "I need more information. I need to know why the geth are after this Thorian.",
+   "tr": "Daha fazla bilgiye ihtiyacım var. Geth'in bu Thorian'ın neden peşinde olduğunu bilmem gerek."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113348",
+   "en": "What else can you tell me? Do you know where I can find this Thorian?",
+   "tr": "Başka ne söyleyebilirsin? Bu Thorian'ı nerede bulabileceğimi biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113353",
+   "en": "Tell me more.",
+   "tr": "Daha fazlasını anlat."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113354",
+   "en": "Interesting.",
+   "tr": "İlginç."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113355",
+   "en": "Where is it?",
+   "tr": "Nerede?"
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|113627",
+   "en": "We're getting a lot of geth comm chatter.",
+   "tr": "Çok fazla geth telsiz konuşması alıyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_03a_DSG_LOC|war50_lizbeth_D|152207",
+   "en": "I read you.",
+   "tr": "Seni duyuyorum."
+  }
+ ]
+}

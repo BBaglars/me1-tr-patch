@@ -1,0 +1,330 @@
+{
+ "meta": {
+  "package": "BIOA_JUG80_09_DSG_LOC_INT.pcc",
+  "stem": "BIOA_JUG80_09_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150550",
+   "en": "Chief. We just spotted a troop ship inbound to your location.",
+   "tr": "Başçavuş. Konumunuza doğru gelen bir birlik gemisi gördük."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150551",
+   "en": "Screw that! We can handle ourselves. Go back and get Alenko.",
+   "tr": "Boş ver! Kendimize bakabiliriz. Geri dön ve Alenko'yu al."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150552",
+   "en": "It's already here and it's bleeding geth all over the bomb site.",
+   "tr": "Zaten burada ve bomba alanına geth döküyor."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150553",
+   "en": "There's too many. I don't think we can hold them.",
+   "tr": "Çok fazlalar. Onları tutabileceğimizi sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150554",
+   "en": "Negative. It's too late for us. There's just too many of them.",
+   "tr": "Olumsuz. Bizim için çok geç. Çok fazlalar."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150555",
+   "en": "I'm activating the nuke.",
+   "tr": "Bombayı etkinleştiriyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150556",
+   "en": "Making sure this bomb goes off. No matter what.",
+   "tr": "Bu bombanın patladığından emin oluyorum. Ne pahasına olursa olsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150557",
+   "en": "It's done, Commander. Go get the lieutenant and get the hell out of here.",
+   "tr": "Bitti Komutan. Gidip teğmeni alın ve defolun buradan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150558",
+   "en": "Belay that. We can handle ourselves. Go back and get Williams.",
+   "tr": "Dur. Kendimize bakabiliriz. Geri dön ve Williams'ı al."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150559",
+   "en": "Yes, Commander. I....",
+   "tr": "Evet Komutan. Ben...."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150560",
+   "en": "It's the right choice and you know it, Ash.",
+   "tr": "Doğru seçim ve bunu biliyorsun Ash."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150561",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150562",
+   "en": "I think we both know that's not going to happen, Commander.",
+   "tr": "Sanırım ikimiz de bunun olmayacağını biliyoruz Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150563",
+   "en": "I understand, Commander. I don't regret a thing.",
+   "tr": "Anlıyorum Komutan. Hiçbir şeyden pişman değilim."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150564",
+   "en": "Yes, Commander. I....",
+   "tr": "Evet Komutan. Ben...."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150565",
+   "en": "You know it's the right choice, LT.",
+   "tr": "Doğru seçim olduğunu biliyorsun Teğmen."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150566",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150567",
+   "en": "I think we both know that's not going to happen, Commander.",
+   "tr": "Sanırım ikimiz de bunun olmayacağını biliyoruz Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150568",
+   "en": "I understand, Commander. I don't regret a thing.",
+   "tr": "Anlıyorum Komutan. Hiçbir şeyden pişman değilim."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150569",
+   "en": "Heads up, L-T. We just spotted a troop ship headed to your location.",
+   "tr": "Dikkat Teğmen. Konumunuza doğru giden bir birlik gemisi gördük."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150570",
+   "en": "It's already here. There's geth pouring out all over the bomb site.",
+   "tr": "Zaten burada. Bomba alanında her yerden geth boşalıyor."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150571",
+   "en": "There's too many. I don't think we can survive until you get here.",
+   "tr": "Çok fazlalar. Siz gelene kadar hayatta kalabileceğimizi sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150572",
+   "en": "Negative. There's just too many of them. I don't think we can hold them off.",
+   "tr": "Olumsuz. Çok fazlalar. Onları tutabileceğimizi sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150573",
+   "en": "I'm activating the bomb.",
+   "tr": "Bombayı etkinleştiriyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150574",
+   "en": "I'm just making sure this bomb goes off. No matter what.",
+   "tr": "Sadece bu bombanın patladığından emin oluyorum. Ne pahasına olursa olsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150575",
+   "en": "It's done, Commander. Go get Williams and get the hell out of here.",
+   "tr": "Bitti Komutan. Gidip Williams'ı alın ve defolun buradan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150578",
+   "en": "Can you hold them off?",
+   "tr": "Onları tutabilir misin?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150580",
+   "en": "Hold on, Chief. I'm coming back to get you.",
+   "tr": "Dayan Başçavuş. Seni almaya geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150582",
+   "en": "What the hell are you doing, Williams?",
+   "tr": "Ne yapıyorsun Williams?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150585",
+   "en": "Williams, radio Joker and tell him to meet us at the bomb site.",
+   "tr": "Williams, Joker'e telsizle söyle bomba alanında buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150587",
+   "en": "Fight hard, Lieutenant. Die proud.",
+   "tr": "Sert savaş Teğmen. Gururla öl."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150589",
+   "en": "Stay alive. I'll be coming to get you too, Kaidan.",
+   "tr": "Hayatta kal. Seni de almaya geleceğim Kaidan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150591",
+   "en": "I'm sorry, Kaidan. I had to make a choice.",
+   "tr": "Üzgünüm Kaidan. Bir seçim yapmak zorundaydım."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150593",
+   "en": "Alenko, radio Joker and tell him to meet us on the AA tower.",
+   "tr": "Alenko, Joker'e telsizle söyle uçaksavar kulesinde buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150595",
+   "en": "Fight hard, Chief. Die proud.",
+   "tr": "Sert savaş Başçavuş. Gururla öl."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150597",
+   "en": "Stay alive. I'll be coming to get you too, Ash.",
+   "tr": "Hayatta kal. Seni de almaya geleceğim Ash."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150599",
+   "en": "I'm sorry, Ash. I had to make a choice.",
+   "tr": "Üzgünüm Ash. Bir seçim yapmak zorundaydım."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150602",
+   "en": "Can you hold them off?",
+   "tr": "Onları tutabilir misin?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150604",
+   "en": "Hold on, Lieutenant. I'm coming back to get you.",
+   "tr": "Dayan Teğmen. Seni almaya geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150606",
+   "en": "What the hell are you doing, Alenko?",
+   "tr": "Ne yapıyorsun Alenko?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150609",
+   "en": "Williams, radio Joker and tell him to meet us on the AA tower.",
+   "tr": "Williams, Joker'e telsizle söyle uçaksavar kulesinde buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150610",
+   "en": "Alenko, radio Joker and tell him to meet us at the bomb site.",
+   "tr": "Alenko, Joker'e telsizle söyle bomba alanında buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150613",
+   "en": "How bad is it?",
+   "tr": "Ne kadar kötü?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150614",
+   "en": "I'm coming back.",
+   "tr": "Geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150618",
+   "en": "Damn it.",
+   "tr": "Lanet olsun."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150619",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150622",
+   "en": "I'm going to Ashley.",
+   "tr": "Ashley'e gidiyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150623",
+   "en": "I'm going to Kaidan.",
+   "tr": "Kaidan'a gidiyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150625",
+   "en": "Of course it was.",
+   "tr": "Elbette öyleydi."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150626",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150627",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150632",
+   "en": "Of course it was.",
+   "tr": "Elbette öyleydi."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150633",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150634",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150639",
+   "en": "How bad is it?",
+   "tr": "Ne kadar kötü?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150640",
+   "en": "I'm coming back.",
+   "tr": "Geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150643",
+   "en": "Damn it!",
+   "tr": "Kahretsin!"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150645",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150648",
+   "en": "Rescue Ashley.",
+   "tr": "Ashley'i kurtar."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150649",
+   "en": "Rescue Kaidan.",
+   "tr": "Kaidan'ı kurtar."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150779",
+   "en": "Alenko, what are you doing?",
+   "tr": "Alenko, ne yapıyorsun?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150780",
+   "en": "What are you doing, Chief?",
+   "tr": "Ne yapıyorsun Başçavuş?"
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150781",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_09_DSG_LOC|jug80_choice_D|150782",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  }
+ ]
+}

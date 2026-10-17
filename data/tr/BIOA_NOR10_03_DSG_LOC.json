@@ -1,0 +1,4175 @@
+{
+ "meta": {
+  "package": "BIOA_NOR10_03_DSG_LOC_INT.pcc",
+  "stem": "BIOA_NOR10_03_DSG_LOC",
+  "textLang": "INT",
+  "sets": 23
+ },
+ "entries": [
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor00_popup_text_d|145633",
+   "en": "Only the Commanding Officer may specify a destination for the Normandy.",
+   "tr": "Normandy için hedef belirleyebilecek tek kişi Komuta Subayı'dır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55987",
+   "en": "Congratulations, Commander. Looks like we had a smooth run. You heading down to see the captain?",
+   "tr": "Tebrikler, Komutan. Görünüşe göre sorunsuz bir yolculuk oldu. Kaptanı görmeye mi iniyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55988",
+   "en": "Sorry, Commander. Just having a chat with Adams down in engineering. Didn't mean to cause any trouble.",
+   "tr": "Kusura bakmayın, Komutan. Makine dairesinde Adams'la sohbet ediyordum. Sorun çıkarmak istemedim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55989",
+   "en": "With all due respect, sir, maybe he'll finally tell you what we're really doing out here.",
+   "tr": "Saygılarımla, efendim, belki sonunda burada gerçekte ne yaptığımızı size söyler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55991",
+   "en": "If all we're supposed to do is test out the stealth system, why is Captain Anderson in charge? And then there's Nihlus.",
+   "tr": "Tek işimiz gizlilik sistemini denemekse neden Kaptan Anderson komuta ediyor? Bir de Nihlus var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55992",
+   "en": "Good luck, Commander.",
+   "tr": "İyi şanslar, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55993",
+   "en": "Something I can do for you, Commander?",
+   "tr": "Sizin için yapabileceğim bir şey var mı, Komutan?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55994",
+   "en": "You and me both. Like I said before, too many things don't add up on this mission. ",
+   "tr": "İkimiz de. Daha önce dediğim gibi, bu görevde fazlasıyla şey birbirini tutmuyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55995",
+   "en": "I don't like turians in general. Runs in my family. My grandfather fought in the First Contact War; lost a lot of friends when the turians hit us.",
+   "tr": "Genel olarak turian'lardan hoşlanmam. Ailede var. Büyükbabam Birinci Temas Savaşı'nda savaştı; turian'lar bize saldırdığında pek çok arkadaşını kaybetti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|55998",
+   "en": "No, I guess not. But it still makes me nervous to have a Spectre on board, especially a turian.",
+   "tr": "Hayır, sanırım olmaz. Ama yine de gemide Spectre olması, hele turian bir Spectre olması beni geriyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56000",
+   "en": "Understood, Commander.",
+   "tr": "Anlaşıldı, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56001",
+   "en": "Yes, sir.",
+   "tr": "Emredersiniz, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56002",
+   "en": "Yes, ma'am.",
+   "tr": "Emredersiniz, hanımefendi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56008",
+   "en": "Sounds like you don't trust our turian guest.",
+   "tr": "Turian konuğumuza güvenmiyorsun gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56009",
+   "en": "I'm on my way to give him a status update right now.",
+   "tr": "Şu an ona durum güncellemesi vermeye gidiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56011",
+   "en": "You think the Alliance brass is holding out on us?",
+   "tr": "Sence İttifak komutanlığı bizden bir şey saklıyor mu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56012",
+   "en": "I'll see if I can get some answers when I see him.",
+   "tr": "Onu görünce bazı cevaplar alabilir miyim bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56014",
+   "en": "I was curious about a few things.",
+   "tr": "Birkaç şeyi merak ediyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56015",
+   "en": "You don't trust Nihlus.",
+   "tr": "Nihlus'a güvenmiyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56019",
+   "en": "That was thirty years ago. You can't blame Nihlus for that.",
+   "tr": "Bu otuz yıl önceydi. Bunun için Nihlus'u suçlayamazsın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56021",
+   "en": "Do you have a problem with the captain?",
+   "tr": "Kaptanla bir sorunun mu var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56022",
+   "en": "What do you know about the stealth systems?",
+   "tr": "Gizlilik sistemleri hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56024",
+   "en": "Info's on a need-to-know basis, Pressly. Just follow the orders you're given.",
+   "tr": "Bilgi bilmesi gerekene verilir, Pressly. Sana verilen emirleri yerine getir yeter."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56026",
+   "en": "I better head down and see the captain.",
+   "tr": "İnip kaptanı görsem iyi olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56027",
+   "en": "Carry on, Pressly.",
+   "tr": "Devam et, Pressly."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56033",
+   "en": "I heard you arguing.",
+   "tr": "Tartıştığınızı duydum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56034",
+   "en": "He wants to see me.",
+   "tr": "Beni görmek istiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56036",
+   "en": "What do you mean?",
+   "tr": "Ne demek istiyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56037",
+   "en": "I'll look into it.",
+   "tr": "Bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56039",
+   "en": "I have questions.",
+   "tr": "Sorularım var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56040",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56041",
+   "en": "Turian Spectre",
+   "tr": "Turian Spectre"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56042",
+   "en": "Captain",
+   "tr": "Kaptan"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56043",
+   "en": "Stealth systems",
+   "tr": "Gizlilik sistemleri"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56045",
+   "en": "Just do your job.",
+   "tr": "Sadece işini yap."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56046",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56048",
+   "en": "That was long ago.",
+   "tr": "Bu çok önceydi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56333",
+   "en": "We're an Alliance vessel, human military. But Nihlus doesn't answer to the captain like the rest of us. Spectres operate outside the normal chain of command.",
+   "tr": "Biz bir İttifak gemisiyiz, insan ordusu. Ama Nihlus bizim gibi kaptana hesap vermiyor. Spectre'lar normal komuta zincirinin dışında çalışır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56335",
+   "en": "And they don't come along just to observe shakedown runs. Nihlus looks like he's expecting some heavy action. I don't like it.",
+   "tr": "Ve sırf deneme seferlerini gözlemlemek için gelmezler. Nihlus ağır bir çatışma bekliyor gibi görünüyor. Hoşuma gitmiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56337",
+   "en": "I just know it masks our location from scans and sensors. Cutting edge technology.",
+   "tr": "Tek bildiğim, konumumuzu taramalardan ve sensörlerden gizlediği. Son teknoloji."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56338",
+   "en": "The Normandy's the only ship with this prototype drive. But why are we fully staffed? A skeleton crew would be cheaper. Less chance of security leaks, too.",
+   "tr": "Normandy bu prototip sürücüye sahip tek gemi. Ama neden tam mürettebatlıyız? İskelet kadro daha ucuz olurdu. Güvenlik sızıntısı ihtimali de daha az."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56339",
+   "en": "Plus, there's Nihlus. It's pretty obvious this shakedown run is just a cover.",
+   "tr": "Üstelik Nihlus var. Bu deneme seferinin bir örtmece olduğu çok belli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56340",
+   "en": "Damned if I know, Commander. We're out here on false pretenses. I'm not a fan of being left in the dark.",
+   "tr": "Bilmiyorum, Komutan. Burada yanlış gerekçelerle bulunuyoruz. Karanlıkta bırakılmaktan hoşlanmıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56341",
+   "en": "Maybe you're right, Commander. But I just can't shake the feeling that we're out here on false pretenses.",
+   "tr": "Belki haklısınız, Komutan. Ama burada yanlış gerekçelerle bulunduğumuz hissinden kurtulamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56342",
+   "en": "Captain Anderson is one of the most decorated Special Forces officers in the service. If he melted down all his medals, he could make a life-size statue of himself.",
+   "tr": "Kaptan Anderson hizmetin en çok madalyalı Özel Kuvvetler subaylarından biri. Bütün madalyalarını eritse kendi boyunda bir heykel yapabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56343",
+   "en": "You don't send a soldier like that on a do-nothing mission. He's treating this shakedown run too seriously. Something big is going on.",
+   "tr": "Böyle bir askeri işe yaramaz bir göreve göndermezler. Bu deneme seferini fazla ciddiye alıyor. Büyük bir şey dönüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56347",
+   "en": "I signed up with the Alliance as a navigator right out of school. Following in my grandfather's footsteps, I guess. My first posting was on the Agincourt.",
+   "tr": "Okuldan çıkar çıkmaz İttifak'a seyrüsefer subayı olarak katıldım. Büyükbabamın izinden gittim sanırım. İlk görevim Agincourt'taydı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56353",
+   "en": "We were one of the first reinforcements to arrive at Elysium after the Blitz hit. Those raiders were no match for an Alliance frigate.",
+   "tr": "Blitz vurduktan sonra Elysium'a varan ilk takviyeler arasındaydık. O haydutlar bir İttifak fırkateyniyle baş edemezdi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56354",
+   "en": "We were at Elysium during the Skyllian Blitz. A massive fleet of alien raiders hit the colony, trying to wipe it out.",
+   "tr": "Skyllian Blitz sırasında Elysium'daydık. Uzaylı haydutlardan oluşan devasa bir filo koloniye saldırıp onu yok etmeye çalıştı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56365",
+   "en": "For what?",
+   "tr": "Ne için?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56366",
+   "en": "A full crew makes sense. We need the extra hands in case anything goes wrong. And the Spectre is just here as an observer.",
+   "tr": "Tam mürettebat mantıklı. Bir şeyler ters giderse fazladan ele ihtiyacımız var. Spectre de sadece gözlemci olarak burada."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56378",
+   "en": "How'd you end up on the Normandy?",
+   "tr": "Normandy'ye nasıl geldin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56389",
+   "en": "A cover?",
+   "tr": "Örtmece mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56390",
+   "en": "You're wrong.",
+   "tr": "Yanılıyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56401",
+   "en": "Now you're here?",
+   "tr": "Şimdi buradasın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|56870",
+   "en": "Commander. The turian's waiting for you and the captain in the comm room.",
+   "tr": "Komutan. Turian, sizi ve kaptanı haberleşme odasında bekliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92596",
+   "en": "But you have to admit, something's odd about this mission. The whole crew feels it.",
+   "tr": "Ama kabul etmelisiniz, bu görevde bir tuhaflık var. Tüm mürettebat hissediyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92597",
+   "en": "No, ma'am! But I can't figure out what he's doing here.",
+   "tr": "Hayır, hanımefendi! Ama burada ne yaptığını çözemiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92598",
+   "en": "No, sir! But I can't figure out what he's doing here.",
+   "tr": "Hayır, efendim! Ama burada ne yaptığını çözemiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92600",
+   "en": "I overheard you before. Sounds like you don't trust our turian guest.",
+   "tr": "Daha önce kulak misafiri oldum. Turian konuğumuza güvenmiyorsun gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|92604",
+   "en": "You were arguing earlier.",
+   "tr": "Daha önce tartışıyordunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|93220",
+   "en": "I'm glad you're okay, Commander. Losing Jenkins was hard enough on the crew.",
+   "tr": "İyi olduğunuza sevindim, Komutan. Jenkins'i kaybetmek mürettebat için yeterince ağırdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101415",
+   "en": "With all due respect, ma'am, maybe he'll finally tell you what we're really doing out here.",
+   "tr": "Saygılarımla, hanımefendi, belki sonunda burada gerçekte ne yaptığımızı size söyler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101416",
+   "en": "Spectres are elite operatives. Top covert agents. Why send a Spectre--a turian Spectre--on a shakedown run? It doesn't add up.",
+   "tr": "Spectre'lar seçkin ajanlardır. En iyi gizli ajanlar. Neden bir Spectre'ı, hem de turian bir Spectre'ı deneme seferine göndersinler? Hiçbir şey birbirini tutmuyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101417",
+   "en": "You've got that right, Commander.",
+   "tr": "Haklısınız, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101419",
+   "en": "Nihlus is no ordinary turian.",
+   "tr": "Nihlus sıradan bir turian değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|101423",
+   "en": "Plus, he's a Spectre.",
+   "tr": "Üstelik o bir Spectre."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111457",
+   "en": "If anyone has to take over for Captain Anderson, I'm glad it's you. Not sure about having non-humans on our ship, though.",
+   "tr": "Kaptan Anderson'un yerine biri geçecekse sizin olmanıza sevindim. Gemimizde insan olmayanların olması konusunda pek emin değilim ama."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111458",
+   "en": "With all due respect, ma'am, that's what they said about Nihlus. Look how that turned out.",
+   "tr": "Saygılarımla, hanımefendi, Nihlus için de böyle demişlerdi. Sonunun ne olduğuna bakın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111459",
+   "en": "With all due respect, sir, that's what they said about Nihlus. Look how that turned out.",
+   "tr": "Saygılarımla, efendim, Nihlus için de böyle demişlerdi. Sonunun ne olduğuna bakın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111460",
+   "en": "Yes, ma'am. Understood, ma'am.",
+   "tr": "Evet, hanımefendi. Anlaşıldı, hanımefendi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111461",
+   "en": "Yes, sir! Understood, sir.",
+   "tr": "Evet, efendim! Anlaşıldı, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111462",
+   "en": "Yes, Commander?",
+   "tr": "Evet, Komutan?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111463",
+   "en": "I trust you, Commander. If you think they belong here, then so do I.",
+   "tr": "Size güveniyorum, Komutan. Onların burada olması gerektiğini düşünüyorsanız ben de öyle düşünürüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111464",
+   "en": "It's not that, Commander. Humanity has always handled its own problems. Saren attacked one of our colonies. We should be the ones to stop him. We don't need their help.",
+   "tr": "Mesele bu değil, Komutan. İnsanlık sorunlarını hep kendi başına çözdü. Saren kolonilerimizden birine saldırdı. Onu durduracak olan biz olmalıyız. Onların yardımına ihtiyacımız yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111465",
+   "en": "I guess so. Maybe I'm just stuck in the old ways of thinking. Don't worry, Commander. This won't be a problem.",
+   "tr": "Sanırım öyle. Belki eski düşünce kalıplarına takılıp kaldım. Merak etmeyin, Komutan. Bu sorun olmayacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111466",
+   "en": "Of course, the only reason the colony was still standing was because of you, Commander. I can't believe you held out as long as you did.",
+   "tr": "Tabii, koloninin hâlâ ayakta olmasının tek nedeni sizdiniz, Komutan. O kadar dayanmanıza inanamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111467",
+   "en": "They had the numbers, but their ships were no match for an Alliance frigate. It was a slaughter. We couldn't even keep track of how many ships they lost.",
+   "tr": "Sayıca üstündüler ama gemileri bir İttifak fırkateynine rakip olamadı. Bir katliamdı. Kaç gemi kaybettiklerini bile takip edemedik."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111468",
+   "en": "I got my officer's commission after Elysium. Must have made an impression on the right people. Captain asked for me when he was picking his crew.",
+   "tr": "Subay komisyonumu Elysium'dan sonra aldım. Doğru insanlarda iz bırakmış olmalıyım. Kaptan mürettebatını seçerken beni istedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111470",
+   "en": "We're all on the same team here, Pressly.",
+   "tr": "Burada hepimiz aynı takımdayız, Pressly."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111471",
+   "en": "I'm in charge here, Pressly. I decide if we have non-humans on this vessel.",
+   "tr": "Burada komuta bende, Pressly. Bu gemide insan olmayanların olup olmayacağına ben karar veririm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111472",
+   "en": "Speak freely, Pressly. I want to know if you have a problem with non-humans.",
+   "tr": "Açık konuş, Pressly. İnsan olmayanlarla bir sorunun olup olmadığını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111473",
+   "en": "Some people think asking for help is a sign of weakness. That's just being stupid and stubborn. No matter how strong you are, allies can make you stronger.",
+   "tr": "Bazıları yardım istemeyi zayıflık işareti sayar. Bu sadece aptallık ve inat. Ne kadar güçlü olursan ol, müttefikler seni daha güçlü kılar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111474",
+   "en": "This is bigger than humanity. Saren's a threat to every species in the galaxy. And I'll welcome anyone who wants to help me bring him down.",
+   "tr": "Bu insanlıktan büyük. Saren galaksideki her tür için tehdit. Onu indirmeme yardım etmek isteyen herkesi memnuniyetle karşılarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111475",
+   "en": "How did you end up assigned to the Normandy?",
+   "tr": "Normandy'ye nasıl atandın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111477",
+   "en": "They're on our side.",
+   "tr": "Onlar bizim tarafımızda."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111478",
+   "en": "You doubt my decisions?",
+   "tr": "Kararlarımdan şüphe mi ediyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111479",
+   "en": "Aliens on the ship",
+   "tr": "Gemideki uzaylılar"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111480",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111481",
+   "en": "Never turn away help.",
+   "tr": "Yardımı asla geri çevirme."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111482",
+   "en": "It's not just our problem.",
+   "tr": "Bu sadece bizim sorunumuz değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111483",
+   "en": "I can't believe we stole the Normandy!",
+   "tr": "Normandy'yi çaldığımıza inanamıyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|111484",
+   "en": "I know we'll all be court-martialed if this doesn't work out. But part of me loves this!",
+   "tr": "Bu işler yolunda gitmezse hepimizin askerî mahkemeye çıkacağını biliyorum. Ama bir yanım bunu seviyor!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor10_navigator_d|145139",
+   "en": "Congratulations, Commander.",
+   "tr": "Tebrikler, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90323",
+   "en": "I forwarded the mission update to the Citadel, Commander. We've got confirmation on those reinforcements.",
+   "tr": "Görev güncellemesini Citadel'e ilettim, Komutan. O takviyeler için onay aldık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90324",
+   "en": "Ambassador Udina wants us to report back to the Citadel. The Council is massing a joint-species fleet to deal with Saren and his geth.",
+   "tr": "Büyükelçi Udina Citadel'e rapor vermemizi istiyor. Konsey, Saren'e ve geth'ine karşı ortak türlerden oluşan bir filo topluyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90326",
+   "en": "Yes, sir!",
+   "tr": "Emredersiniz, efendim!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90328",
+   "en": "Took them long enough. Back to the Citadel, Joker. I want the Normandy at the head of that fleet!",
+   "tr": "Bu kadar uzun sürmesi de bir şey. Citadel'e dön, Joker. Normandy'nin o filonun başında olmasını istiyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90329",
+   "en": "Back to the Citadel, Joker. I want the Normandy at the head of that fleet!",
+   "tr": "Citadel'e dön, Joker. Normandy'nin o filonun başında olmasını istiyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90331",
+   "en": "About time!",
+   "tr": "Sonunda!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|90332",
+   "en": "Let's go.",
+   "tr": "Gidelim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|120323",
+   "en": "Yes, ma'am!",
+   "tr": "Emredersiniz, hanımefendi!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|121956",
+   "en": "I knew they'd come around. Back to the Citadel, Joker. I want the Normandy at the head of that fleet!",
+   "tr": "Geleceklerini biliyordum. Citadel'e dön, Joker. Normandy'nin o filonun başında olmasını istiyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_ilos_open_D|121957",
+   "en": "Good.",
+   "tr": "İyi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90294",
+   "en": "Commander. Something you need?",
+   "tr": "Komutan. İhtiyacınız olan bir şey mi var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90295",
+   "en": "All right. See ya.",
+   "tr": "Peki. Görüşürüz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90297",
+   "en": "I have to go.",
+   "tr": "Gitmem lazım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|90307",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|145711",
+   "en": "Message coming in. Patching it through.",
+   "tr": "Mesaj geliyor. Bağlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|149841",
+   "en": "You need to turn back, Commander. You're going beyond the range of the operational area.",
+   "tr": "Geri dönmeniz gerek, Komutan. Operasyon alanının menzilinin dışına çıkıyorsunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|149842",
+   "en": "You went right off the scanners, Commander. Now we have to bring you back.",
+   "tr": "Taramalardan tamamen çıktınız, Komutan. Şimdi sizi geri getirmemiz gerekecek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151815",
+   "en": "I prefer gold to silver. You know, for my medal. I figured you'd recommend me for one since I pulled your, uh, boots out of the fire.",
+   "tr": "Ben altını gümüşe tercih ederim. Madalyam için, bilirsiniz. Sizi, şey, zor durumdan kurtardığım için beni bir madalya için tavsiye edeceğinizi düşünmüştüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151816",
+   "en": "Ah, figures. Just get me a nice card and a cake. No coconut, though. I hate that crap.",
+   "tr": "Ah, tabii. Bana güzel bir kart ve bir pasta alın yeter. Hindistan cevizli olmasın ama. O pisliği sevmem."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151817",
+   "en": "That's a good point. They'd probably make me shave, too. I spent the last seven weeks working on this baby. No medal's worth that.",
+   "tr": "İyi bir nokta. Muhtemelen beni tıraş da ettirirlerdi. Son yedi haftadır bu bebek için uğraşıyorum. Hiçbir madalya buna değmez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151818",
+   "en": "Oh, I get it. It's supposed to be a surprise. Don't worry. When they pin it on my chest, I'll pretend I had no idea it was coming.",
+   "tr": "Ha, anladım. Sürpriz olacak. Merak etmeyin. Göğsüme taktıklarında geleceğinden haberim yokmuş gibi yapacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151819",
+   "en": "So, Commander, why don't you tell me why you're really here?",
+   "tr": "Peki Komutan, buraya gerçekte neden geldiğinizi bana söylemeye ne dersiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151820",
+   "en": "Boy am I glad to be off Noveria. I don't know which was worse: the cold or the corporations.",
+   "tr": "Noveria'dan çıktığıma çok sevindim. Hangisi daha kötüydü bilmiyorum: soğuk mu, şirketler mi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151821",
+   "en": "One will freeze your balls off, the other will sell 'em out from under you. With all due respect, Commander.",
+   "tr": "Biri sizi donduruyor, diğeri altınızdan satıp gidiyor. Saygılarımla, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151822",
+   "en": "Ah, hey, Commander. Next time we touch down, let's try not to park the ship in a colony of mutant zombies. Just thinking out loud here.",
+   "tr": "Ah, selam Komutan. Bir dahaki inişte gemiyi mutant zombi kolonisinin ortasına park etmemeye çalışalım. Sadece yüksek sesle düşünüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151823",
+   "en": "Commander. I know it couldn't have been easy for you down there.",
+   "tr": "Komutan. Aşağıda sizin için kolay olmadığını biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151824",
+   "en": "Making the call between Alenko and Williams must have been... I'm sorry, sir. I don't know if I could have done it.",
+   "tr": "Alenko ile Williams arasında seçim yapmak... Üzgünüm, efendim. Ben yapabilir miydim bilmiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151825",
+   "en": "Making the call between Alenko and Williams must have been... I-- I'm sorry, ma'am. I just don't know if I could have done it.",
+   "tr": "Alenko ile Williams arasında seçim yapmak... Ü-üzgünüm, hanımefendi. Ben yapabilir miydim bilmiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151826",
+   "en": "I'm not blaming you, Commander. I'm just... it's hard, you know.",
+   "tr": "Sizi suçlamıyorum, Komutan. Sadece... zor, biliyorsunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151827",
+   "en": "Don't worry; I won't let you down. I want to be there when you make that son of a bitch pay!",
+   "tr": "Merak etmeyin, sizi yarı yolda bırakmam. O şerefsizin bedelini ödemesi sizin elinizle olurken orada olmak istiyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151828",
+   "en": "Aw, damn it. No sign of pursuit? I was hoping the Council would send some ships after us.",
+   "tr": "Ah, kahretsin. Takip eden yok mu? Konsey'in peşimize gemi göndermesini umuyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151829",
+   "en": "I was looking forward to putting the Normandy through its paces. Figured I'd get to see what this ship can really do.",
+   "tr": "Normandy'yi sınamayı dört gözle bekliyordum. Bu geminin gerçekte neler yapabildiğini göreceğimi sanmıştım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151830",
+   "en": "You know, it doesn't seem like much fun when you say it, Commander. So, you need something?",
+   "tr": "Biliyor musunuz, siz söyleyince pek eğlenceli gelmiyor, Komutan. Bir şeye mi ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151831",
+   "en": "I bet you are the life of the party, Commander. So, you need something?",
+   "tr": "Eminim partinin neşesisiniz, Komutan. Bir şeye mi ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151832",
+   "en": "Sure, Commander. Fire away.",
+   "tr": "Tabii, Komutan. Ateş edin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151833",
+   "en": "I'll be okay, Commander. I just need some time.",
+   "tr": "İyi olacağım, Komutan. Sadece biraz zamana ihtiyacım var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151834",
+   "en": "It's a lot shorter than saying Alliance Flight Lieutenant Jeff Moreau. Plus, I love to make little children laugh.",
+   "tr": "Bu, İttifak Pilot Teğmeni Jeff Moreau demekten çok daha kısa. Üstelik küçük çocukları güldürmeyi seviyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151835",
+   "en": "Look, I didn't pick the name. One of the instructors in flight school used to bug me about never smiling. She started calling me Joker, and it stuck.",
+   "tr": "Bak, adı ben seçmedim. Uçuş okulundaki eğitmenlerden biri hiç gülmediğim için başımın etini yerdi. Bana Joker demeye başladı ve tuttu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151836",
+   "en": "Hey, I worked my ass off in flight school, Commander. The world's not going to hand you anything if you go around grinning like an idiot.",
+   "tr": "Hey, uçuş okulunda canımı dişime taktım, Komutan. Aptal gibi sırıtarak dolaşırsan dünya sana hiçbir şey vermez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151837",
+   "en": "By the end of the year, I was the best pilot in the Academy. Even better than the instructors. And everybody knew it.",
+   "tr": "Yıl sonunda Akademi'nin en iyi pilotuydum. Eğitmenlerden bile iyi. Ve herkes bunu biliyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151838",
+   "en": "They'd all gotten their asses kicked by the sickly kid with the creaky little legs. One guess who was smiling at graduation.",
+   "tr": "Hepsi o cılız, bacakları gıcırdayan çocuğun elinde dayak yemişti. Mezuniyette kimin güldüğünü bir tahmin edin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151839",
+   "en": "Of course you do. It's an extremely rare condition. Nobody knows exactly what causes it. Genetic, maybe. It's treatable, but there's no cure.",
+   "tr": "Tabii ki var. Son derece nadir bir rahatsızlık. Kimse tam olarak nedenini bilmiyor. Belki genetiktir. Tedavi edilebiliyor ama çaresi yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151840",
+   "en": "I can see where this is going. You did a background check on me, didn't you? Well, I'll tell you the same thing I told the captain.",
+   "tr": "Nereye varacağını görebiliyorum. Hakkımda arka plan araştırması yaptınız, değil mi? Peki, kaptana söylediğimi size de söyleyeyim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151841",
+   "en": "You want me as your pilot. I'm not good. I'm not even great. I'm the best damn helmsman in the Alliance fleet!",
+   "tr": "Beni pilotunuz olarak istiyorsunuz. İyi değilim. Hatta harika bile değilim. İttifak filosunun gelmiş geçmiş en iyi dümencisiyim!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151842",
+   "en": "Top of my class in flight school? I earned that. All those commendations in my file? I earned every single one. Those weren't given to me as charity for my disease.",
+   "tr": "Uçuş okulunda sınıf birincisi miydim? Bunu hak ettim. Dosyamdaki o kadar takdir? Her birini hak ettim. Hastalığım yüzünden bana sadaka olarak verilmedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151843",
+   "en": "You mean-- You mean you didn't know? Ah, crap.",
+   "tr": "Yani... Yani bilmiyor muydunuz? Ah, kahretsin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151844",
+   "en": "Infect the crew? Ah, man. You have no idea what I'm talking about, do you?",
+   "tr": "Mürettebata bulaştırmak mı? Ah, adamım. Neden bahsettiğimi bilmiyorsunuz, değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151845",
+   "en": "Okay... I've got Vrolik's Syndrome. Brittle bone disease. The bones in my legs never developed properly. They're basically hollow. Too much force and they'll shatter.",
+   "tr": "Tamam... Vrolik Sendromu'm var. Kırılgan kemik hastalığı. Bacaklarımdaki kemikler hiç düzgün gelişmedi. Temelde içleri boş. Fazla güç uygularsan paramparça olurlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151846",
+   "en": "Even with crutches and my leg braces it's hard to get around. One wrong step and CRACK! It's very dramatic! But I've learned to manage my condition, Commander.",
+   "tr": "Koltuk değnekleri ve bacak destekleriyle bile dolaşmak zor. Yanlış bir adım ve ÇAT! Çok dramatik! Ama durumumla başa çıkmayı öğrendim, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151847",
+   "en": "Put the Normandy in my hands and I'll make her dance for you. Just don't ask me to get up and dance, unless, you know, you like the sound of snapping shin bones.",
+   "tr": "Normandy'yi elime verin, sizin için dans ettiririm. Yalnızca benden kalkıp dans etmemi istemeyin, yani kaval kemiklerinin çatırdama sesini seviyorsanız başka."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151849",
+   "en": "Saving my \"boots\" from burning lava is part of your job, Joker. We don't give medals to soldiers for doing their jobs.",
+   "tr": "\"Botlarımı\" yanan lavlardan kurtarmak senin işinin parçası, Joker. Askerlere işlerini yaptıkları için madalya vermeyiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151851",
+   "en": "If we present you with a medal, you'll end up sitting on stage listening to politicians make speeches for a couple hours.",
+   "tr": "Sana madalya verirsek bir sahnede oturup politikacıların birkaç saat konuşmasını dinlemek zorunda kalırsın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151853",
+   "en": "I want to talk about something else.",
+   "tr": "Başka bir şeyden konuşmak istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151857",
+   "en": "There is no right choice for something like that. I just hope I never have to go through it again.",
+   "tr": "Böyle bir şeyde doğru seçim yok. Umarım bir daha yaşamak zorunda kalmam."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151858",
+   "en": "Sometimes making the tough choice is the only way a mission can succeed.",
+   "tr": "Bazen zor seçimi yapmak bir görevin başarılı olmasının tek yolu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151859",
+   "en": "There was no other choice. The mission is more important than one soldier.",
+   "tr": "Başka seçenek yoktu. Görev tek bir askerden daha önemli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151861",
+   "en": "Saren's still out there, Joker. Hold it together. We need you.",
+   "tr": "Saren hâlâ dışarıda, Joker. Toparlan. Sana ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151863",
+   "en": "Saren's still out there. Maybe we'll get a chance to play hide-and-seek with Sovereign.",
+   "tr": "Saren hâlâ dışarıda. Belki Sovereign'la saklambaç oynama şansımız olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151864",
+   "en": "We're not playing tag, Joker. If they catch us, Saren wins. And we're all dead.",
+   "tr": "Kovalamaca oynamıyoruz, Joker. Bizi yakalarlarsa Saren kazanır. Ve hepimiz ölürüz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151865",
+   "en": "I want to ask you some questions.",
+   "tr": "Sana birkaç soru sormak istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151866",
+   "en": "Why does everyone call you Joker?",
+   "tr": "Neden herkes sana Joker diyor?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151867",
+   "en": "You're dodging the question.",
+   "tr": "Soruyu geçiştiriyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151868",
+   "en": "I was just thinking how much you remind me of Santa Claus.",
+   "tr": "Tam da senin bana Noel Baba'yı ne kadar anımsattığını düşünüyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151869",
+   "en": "Why didn't you ever smile?",
+   "tr": "Neden hiç gülmedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151872",
+   "en": "I need to know more about this Vrolik's Syndrome if I'm putting my ship in your hands.",
+   "tr": "Gemimi senin ellerine bırakacaksam bu Vrolik Sendromu hakkında daha fazlasını bilmem gerek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151873",
+   "en": "I like to know my crew. Mind if I ask you a few questions?",
+   "tr": "Mürettebatımı tanımayı severim. Birkaç soru sorabilir miyim?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151876",
+   "en": "I'm sorry, Joker. I didn't even know you were sick.",
+   "tr": "Üzgünüm, Joker. Hasta olduğunu bile bilmiyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151877",
+   "en": "What are you talking about? Are you sick?",
+   "tr": "Ne diyorsun? Hasta mısın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151879",
+   "en": "I can't have you on this ship if you're going to infect my crew!",
+   "tr": "Mürettebatıma bulaştıracaksan seni bu gemide tutamam!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151883",
+   "en": "How'd you end up joining the Alliance?",
+   "tr": "İttifak'a nasıl katıldın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151884",
+   "en": "How's the Normandy performing? Is she everything they said she'd be?",
+   "tr": "Normandy nasıl performans gösteriyor? Anlatıldığı gibi mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151886",
+   "en": "Earning medals is hard.",
+   "tr": "Madalya kazanmak zor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151887",
+   "en": "You sure you want that?",
+   "tr": "Bunu istediğinden emin misin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151888",
+   "en": "That's not why I'm here.",
+   "tr": "Buraya bunun için gelmedim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151894",
+   "en": "Pray you never have to.",
+   "tr": "Dua et de hiç yaşamak zorunda kalma."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151895",
+   "en": "That's why I'm in charge.",
+   "tr": "Bu yüzden komuta bende."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151896",
+   "en": "I had to do it.",
+   "tr": "Yapmak zorundaydım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151898",
+   "en": "We have to move on.",
+   "tr": "Yolumuza devam etmeliyiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151900",
+   "en": "The mission's not over yet.",
+   "tr": "Görev henüz bitmedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151901",
+   "en": "This isn't a game.",
+   "tr": "Bu bir oyun değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151902",
+   "en": "Let's talk.",
+   "tr": "Konuşalım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151903",
+   "en": "How'd you get your nickname?",
+   "tr": "Lakabını nasıl aldın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151904",
+   "en": "Tell me about your disease.",
+   "tr": "Bana hastalığından bahset."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151905",
+   "en": "I just want to talk.",
+   "tr": "Sadece konuşmak istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151906",
+   "en": "Personal history",
+   "tr": "Kişisel geçmiş"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151907",
+   "en": "Ship Status Report",
+   "tr": "Gemi Durum Raporu"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151908",
+   "en": "That's no answer.",
+   "tr": "Bu bir cevap değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151909",
+   "en": "Yeah, right.",
+   "tr": "Evet, tabii."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151910",
+   "en": "Were you unhappy?",
+   "tr": "Mutsuz muydun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151915",
+   "en": "I didn't mean to insult you.",
+   "tr": "Seni aşağılamak istemedim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151916",
+   "en": "What disease?",
+   "tr": "Hangi hastalık?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|151917",
+   "en": "Are you contagious?",
+   "tr": "Bulaşıcı mısın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152074",
+   "en": "They classify my case as moderate to severe. I was born with over a dozen fractures - hips, thighs, ankles. My bones were already breaking in the womb.",
+   "tr": "Vakamı orta ila şiddetli olarak sınıflandırıyorlar. Kalça, uyluk, ayak bileği olmak üzere bir düzineden fazla kırıkla doğdum. Kemiklerim daha rahimdeyken kırılıyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152075",
+   "en": "A hundred years ago, I wouldn't have survived past my first year. Lucky for me, modern medical science has turned me into a productive member of society.",
+   "tr": "Yüz yıl önce ilk yılımı bile çıkaramazdım. Neyse ki modern tıp beni toplumun üretken bir üyesi yaptı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152076",
+   "en": "Whatever you want, Commander.",
+   "tr": "Nasıl isterseniz, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152077",
+   "en": "Uh, I don't fly with my feet, Commander. So I'm fine as long as I'm in this chair. I gotta be real careful when I get up to take a piss, though.",
+   "tr": "Şey, ben ayaklarımla uçmuyorum, Komutan. Bu koltuktayken sorun yok. Ama işemeye kalkarken gerçekten dikkatli olmam gerek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152079",
+   "en": "I can do my job as well as anyone else on the ship. Better, actually. So don't worry about it.",
+   "tr": "İşimi gemideki herkes kadar iyi yaparım. Aslında daha iyi. Yani aldırmayın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152081",
+   "en": "The balance isn't what you'd expect. Takes a while to get used to that oversized drive core we got stuffed in the back. Her power can sneak up on you if you're not careful.",
+   "tr": "Denge beklediğiniz gibi değil. Arkaya tıkıştırdığımız o devasa sürücü çekirdeğine alışmak biraz zaman alıyor. Dikkat etmezseniz gücü sizi şaşırtabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152084",
+   "en": "I'm not trying to make you uncomfortable. Let's talk about something else.",
+   "tr": "Sizi rahatsız etmeye çalışmıyorum. Başka bir şeyden konuşalım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152085",
+   "en": "You're not going to break a bone trying to fly the ship, are you?",
+   "tr": "Gemiyi uçurmaya çalışırken bir kemiğini kırmayacaksın, değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152090",
+   "en": "Let's change topics.",
+   "tr": "Konuyu değiştirelim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152091",
+   "en": "How do you do your job?",
+   "tr": "İşini nasıl yapıyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152094",
+   "en": "Let's change topics.",
+   "tr": "Konuyu değiştirelim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152162",
+   "en": "If you're looking for an inspirational tale of the crippled kid overcoming impossible odds, you're going to be disappointed.",
+   "tr": "Engelli çocuğun imkânsız koşulları aşmasıyla ilgili ilham verici bir hikâye arıyorsanız hayal kırıklığına uğrayacaksınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152163",
+   "en": "My mother was a civilian contractor working for the Alliance. I basically grew up on the Arcturus station, back when they were building up the fleets.",
+   "tr": "Annem İttifak için çalışan sivil bir yükleniciydi. Filolar kurulurken temelde Arcturus istasyonunda büyüdüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152164",
+   "en": "Spend all that time around Alliance ships and there's a good chance you'll end up going to the Academy.",
+   "tr": "Bunca zamanı İttifak gemilerinin çevresinde geçirirseniz Akademi'ye gitme olasılığınız yüksek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152165",
+   "en": "She's the best ship in the fleet... if you've got a pilot who knows how to handle her.",
+   "tr": "Filonun en iyi gemisi... ona nasıl kumanda edileceğini bilen bir pilotunuz varsa."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152166",
+   "en": "The Normandy's probably too much ship for your average Alliance pilot, Commander. Lucky for you, I'm anything but average.",
+   "tr": "Normandy muhtemelen ortalama bir İttifak pilotu için fazla gemi, Komutan. Neyse ki ben ortalama olmaktan çok uzağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|152171",
+   "en": "Are you all right?",
+   "tr": "İyi misin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_joker_D|159701",
+   "en": "You're heading off the scanners, Commander.",
+   "tr": "Taramalardan çıkıyorsunuz, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136527",
+   "en": "Commander. Ms. Al-Jilani's story on you just aired.",
+   "tr": "Komutan. Bayan Al-Jilani'nin sizinle ilgili haberi az önce yayınlandı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136528",
+   "en": "I don't blame you for blowing her off. She should have made a request through channels.",
+   "tr": "Onu savuşturmanızı suçlamıyorum. Resmî kanallardan talepte bulunmalıydı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136529",
+   "en": "I'm on your side, Commander. Remember that. This comes from the Joint Military Command.",
+   "tr": "Sizin tarafınızdayım, Komutan. Bunu unutmayın. Bu, Ortak Askerî Komutanlık'tan geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136530",
+   "en": "About what you'd expect. Don't worry too much about it, Commander. They're always angry with us.",
+   "tr": "Beklediğiniz gibi. Çok takılmayın, Komutan. Bizimle her zaman kızgınlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136531",
+   "en": "Just wanted to let you know what the response was back home.",
+   "tr": "Evdeki tepkiyi bilmenizi istedim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136532",
+   "en": "I won't keep you any longer. Fifth Fleet out.",
+   "tr": "Daha fazla vaktinizi almayacağım. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136533",
+   "en": "I have PR people doing spin control. A little memetic engineering, people will forget about this in a week.",
+   "tr": "Halkla ilişkiler ekibim algı yönetimi yapıyor. Biraz memetik mühendislikle insanlar bunu bir haftaya unutur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136534",
+   "en": "I don't blame you for walking out on her.",
+   "tr": "Onu bırakıp gitmenizi suçlamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136535",
+   "en": "The brass isn't happy with the way you treated her. This comes straight from the Joint Military Command.",
+   "tr": "Komutanlık ona yaptığınız muameleden memnun değil. Bu doğrudan Ortak Askerî Komutanlık'tan geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136536",
+   "en": "You're probably right. I guess it could have gone a lot worse.",
+   "tr": "Muhtemelen haklısınız. Sanırım çok daha kötü olabilirdi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136537",
+   "en": "There were better ways to handle it than knocking her on her ass.",
+   "tr": "Onu yere sermekten daha iyi başa çıkma yolları vardı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136538",
+   "en": "As satisfying as that was to see.",
+   "tr": "Görmesi ne kadar tatmin edici olsa da."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136539",
+   "en": "Agreed. Most people would be tempted to punch her. But you did the right thing -- you walked away.",
+   "tr": "Katılıyorum. Çoğu insan ona yumruk atmak isterdi. Ama doğru olanı yaptınız: Çekip gittiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136540",
+   "en": "Commander, if she'd done that at a bar, she'd go home in an ambulance. But they want me to make this clear. We can't mistreat the press.",
+   "tr": "Komutan, bunu bir barda yapsaydı eve ambulansla giderdi. Ama bunu açıkça belirtmemi istiyorlar. Basına kötü davranamayız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136541",
+   "en": "She shouldn't have ambushed you like that. But you handled her pretty well.",
+   "tr": "Sizi öyle pusuya düşürmemeliydi. Ama onunla gayet iyi başa çıktınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136542",
+   "en": "I don't agree with everything you said. But at least you got her on your side. I just hope it doesn't damage relations with the Council.",
+   "tr": "Söylediklerinizin hepsine katılmıyorum. Ama en azından onu yanınıza çektiniz. Umarım Konsey'le ilişkilere zarar vermez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136543",
+   "en": "Convenient for you, but our allies may not think the same.",
+   "tr": "Sizin için uygun ama müttefiklerimiz aynı fikirde olmayabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136544",
+   "en": "When you wear that uniform, you represent the Systems Alliance Military. As a Spectre, you represent humanity.",
+   "tr": "O üniformayı giydiğinizde Sistemler İttifakı Ordusu'nu temsil edersiniz. Spectre olarak insanlığı temsil edersiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136545",
+   "en": "That would have been true a few weeks ago. Now you're above most humans in their regard.",
+   "tr": "Birkaç hafta önce bu doğru olurdu. Şimdi çoğu insanın gözünde onların üstündesiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136546",
+   "en": "She shouldn't have ambushed you like that. But you handled it the right way.",
+   "tr": "Sizi öyle pusuya düşürmemeliydi. Ama doğru şekilde başa çıktınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136547",
+   "en": "You shouldn't have to.",
+   "tr": "Gerekmemeli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136548",
+   "en": "But you were smart enough not to say that. You've got a knack for handling the press.",
+   "tr": "Ama bunu söylemeyecek kadar akıllıydınız. Basınla başa çıkmakta yeteneğiniz var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136549",
+   "en": "She was. But we can't say that. There's an art to dealing with the media.",
+   "tr": "Öyleydi. Ama bunu söyleyemeyiz. Medyayla uğraşmanın bir sanatı var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136550",
+   "en": "You handled yourself pretty well, Commander. She came across like a raving idiot.",
+   "tr": "Kendinizi gayet iyi idare ettiniz, Komutan. O sayıklayan bir aptal gibi göründü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136551",
+   "en": "This won't happen again, Commander. We have a press corps so personnel don't have to deal with her kind of B.S.",
+   "tr": "Bir daha olmayacak, Komutan. Personel onun gibilerin saçmalığıyla uğraşmasın diye bir basın birimimiz var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136552",
+   "en": "You don't come off very well. She talked rings around you.",
+   "tr": "Pek iyi görünmüyorsunuz. Sizi lafa boğdu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136553",
+   "en": "There is one other matter, however.",
+   "tr": "Yine de bir mesele daha var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136554",
+   "en": "The Citadel has been trying to play down Saren going rogue. It makes the Spectres look bad.",
+   "tr": "Citadel, Saren'in başıboş kalmasını önemsiz göstermeye çalışıyor. Spectre'ları kötü gösteriyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136555",
+   "en": "Your mention of him was politically inconvenient.",
+   "tr": "Ondan bahsetmeniz siyaseten uygunsuzdu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136556",
+   "en": "I'd appreciate that, Commander.",
+   "tr": "Çok makbule geçer, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136562",
+   "en": "I wasn't aware of that. I won't discuss him again, sir.",
+   "tr": "Bundan haberim yoktu. Bir daha ondan söz etmeyeceğim, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136564",
+   "en": "I'm sure Saren \"inconvenienced\" the people he killed on Eden Prime, too.",
+   "tr": "Eminim Saren, Eden Prime'da öldürdüğü insanlara da \"uygunsuzluk\" yaptı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136566",
+   "en": "How angry was the Council?",
+   "tr": "Konsey ne kadar öfkeliydi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136571",
+   "en": "Sir, she was going to make me look bad no matter what I said.",
+   "tr": "Efendim, ne dersem diyeyim beni kötü gösterecekti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136575",
+   "en": "I don't have the patience to deal with tabloid gadflies who think they're great journalists.",
+   "tr": "Kendilerini büyük gazeteci sanan magazin sineklerine katlanacak sabrım yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136576",
+   "en": "She wasn't going to let the facts get in the way of the story she wanted to write.",
+   "tr": "Yazmak istediği haberin önüne gerçeklerin geçmesine izin vermeyecekti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136579",
+   "en": "We had differences of opinion, sir. I hope she at least believed my sincerity.",
+   "tr": "Görüş ayrılıklarımız vardı, efendim. Umarım en azından samimiyetime inanmıştır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136580",
+   "en": "I just told her what she wanted to hear, sir.",
+   "tr": "Ona sadece duymak istediğini söyledim, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136582",
+   "en": "The Council can kiss my ass. I'm entitled to my opinions.",
+   "tr": "Konsey canı cehenneme. Fikirlerim bana ait."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136584",
+   "en": "I'm not important enough for them to get hysterical over.",
+   "tr": "İsteri krizine girecek kadar önemli değilim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136586",
+   "en": "I've never had to deal with the press before.",
+   "tr": "Daha önce basınla uğraşmak zorunda kalmamıştım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136588",
+   "en": "To be honest, I thought she was full of crap.",
+   "tr": "Doğrusunu söylemek gerekirse saçmaladığını düşündüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136591",
+   "en": "She wasn't the most sympathetic audience.",
+   "tr": "En anlayışlı dinleyici değildi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136597",
+   "en": "I was talking to a wall.",
+   "tr": "Duvarla konuşuyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136598",
+   "en": "She was distorting my words.",
+   "tr": "Sözlerimi çarpıtıyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136599",
+   "en": "Screw her.",
+   "tr": "Canı cehenneme."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136600",
+   "en": "Give me a break.",
+   "tr": "Yapma ya."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136606",
+   "en": "I did the best I could.",
+   "tr": "Elimden gelenin en iyisini yaptım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136607",
+   "en": "She didn't listen, though.",
+   "tr": "Dinlemedi ama."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136608",
+   "en": "I fed her a line.",
+   "tr": "Ona bir hikâye uydurdum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136609",
+   "en": "Screw them.",
+   "tr": "Canları cehenneme."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136610",
+   "en": "They'll get over it.",
+   "tr": "Atlatırlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136614",
+   "en": "I hope so.",
+   "tr": "Umarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136615",
+   "en": "Unlike her.",
+   "tr": "Onun aksine."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136616",
+   "en": "She wasn't listening.",
+   "tr": "Dinlemiyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136625",
+   "en": "Sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136626",
+   "en": "Like I care.",
+   "tr": "Sanki umurumda."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|136627",
+   "en": "What happened?",
+   "tr": "Ne oldu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139966",
+   "en": "That wouldn't have solved the problem. I'm sure it would have felt good, though.",
+   "tr": "Bu sorunu çözmezdi. Ama eminim iyi hissettirirdi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139967",
+   "en": "She shouldn't have ambushed you. We have a press corps for a reason. Nobody's blaming you.",
+   "tr": "Sizi pusuya düşürmemeliydi. Boşuna basın birimimiz yok. Kimse sizi suçlamıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139968",
+   "en": "With all due respect, Admiral, I'm a soldier. Not a public speaker.",
+   "tr": "Saygılarımla, Amiral, ben askerim. Hatip değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139969",
+   "en": "I should've shot her, and dumped the body into a star.",
+   "tr": "Onu vurup cesedini bir yıldıza atmalıydım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139971",
+   "en": "I couldn't just walk away.",
+   "tr": "Öylece çekip gidemezdim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139973",
+   "en": "I'm no politician.",
+   "tr": "Ben politikacı değilim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139974",
+   "en": "I should have killed her.",
+   "tr": "Onu öldürmeliydim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_trig01_4estate_hackett_D|139975",
+   "en": "What could I do?",
+   "tr": "Ne yapabilirdim ki?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90236",
+   "en": "Good timing, Commander. We've got a transmission coming in from the Citadel. Top priority clearance.",
+   "tr": "İyi zamanlama, Komutan. Citadel'den bir iletim geliyor. Birinci öncelikli yetki."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90237",
+   "en": "Not his signature. I think it's from the Council. I'll patch it through to the comm room.",
+   "tr": "Onun imzası değil. Sanırım Konsey'den. Haberleşme odasına bağlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90238",
+   "en": "Commander Shepard. We've received information that may be critical to your mission against Saren.",
+   "tr": "Komutan Shepard. Saren'e karşı görevinizde kritik olabilecek bilgiler aldık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90239",
+   "en": "The Council agreed that Saren was dangerous, Commander. That was why we made you a Spectre. We only balked at unleashing the full force of the Citadel fleet against him. ",
+   "tr": "Konsey Saren'in tehlikeli olduğu konusunda hemfikirdi, Komutan. Sizi bu yüzden Spectre yaptık. Yalnızca Citadel filosunun tüm gücünü ona karşı kullanmaktan kaçındık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90240",
+   "en": "Nobody on the Council wants to see you fail. So we contacted you with this latest information.",
+   "tr": "Konsey'de kimse sizin başarısız olmanızı istemiyor. Bu yüzden bu en son bilgiyle size ulaştık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90241",
+   "en": "We've received an urgent message from one of our infiltration regiments in the Traverse.",
+   "tr": "Traverse'teki sızma birliklerimizden birinden acil bir mesaj aldık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90242",
+   "en": "Spectres tend to attract attention, Commander. But they are only one arm of the Council. Special Task Groups are often a better option for monitoring developing situations.",
+   "tr": "Spectre'lar dikkat çekme eğilimindedir, Komutan. Ama Konsey'in yalnızca bir koludur. Özel Görev Grupları gelişen durumları izlemek için çoğu zaman daha iyi bir seçenektir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90243",
+   "en": "We currently have several infiltration units scattered throughout the border regions of Citadel space. This particular unit was gathering intel on Saren.",
+   "tr": "Şu anda Citadel uzayının sınır bölgelerine dağılmış birkaç sızma birimimiz var. Bu birim Saren hakkında istihbarat topluyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90244",
+   "en": "We can't have you racing around the galaxy chasing false leads, Commander. We only contacted you because we feel this may be significant.",
+   "tr": "Sizi yanlış ipuçlarının ardından galakside koşturtamayız, Komutan. Size yalnızca bunun önemli olabileceğini düşündüğümüz için ulaştık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90245",
+   "en": "Unfortunately, the message we received was little more than static. The infiltration team must be in a situation where they can't set up proper interstellar communications.",
+   "tr": "Ne yazık ki aldığımız mesaj statikten ibaretti. Sızma ekibi doğru yıldızlararası iletişim kuramayacakları bir durumda olmalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90246",
+   "en": "But the message was sent on a channel reserved for mission-critical communications. Whatever they were trying to tell us, we know it was important.",
+   "tr": "Ama mesaj görev açısından kritik iletişimlere ayrılmış bir kanaldan gönderildi. Bize ne anlatmaya çalışıyorlarsa önemli olduğunu biliyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90247",
+   "en": "Considering your interest in Saren, we thought you might want to investigate this. Find out what happened to our team. The signal originated from the planet Virmire.",
+   "tr": "Saren'e olan ilginizi düşünerek bunu araştırmak isteyebileceğinizi düşündük. Ekibimize ne olduğunu öğrenin. Sinyal Virmire gezegeninden geldi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90248",
+   "en": "That unit may have sacrificed their lives to get this message out! Saren is up to something on Virmire. You'd see that if it weren't for your stubborn human pride!",
+   "tr": "O birim bu mesajı iletmek için hayatını feda etmiş olabilir! Saren Virmire'da bir şey çeviriyor. İnatçı insan gururunuz olmasa bunu görürdünüz!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90249",
+   "en": "The Council prefers not to become involved in the specifics of Spectre activities. We only want you to be aware of all your options, including Virmire.",
+   "tr": "Konsey, Spectre faaliyetlerinin ayrıntılarına karışmamayı tercih eder. Yalnızca Virmire dahil tüm seçeneklerinizden haberdar olmanızı istiyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90250",
+   "en": "Good luck, Commander Shepard. We will keep you advised if we learn anything else.",
+   "tr": "İyi şanslar, Komutan Shepard. Başka bir şey öğrenirsek sizi bilgilendireceğiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90251",
+   "en": "Is it the ambassador?",
+   "tr": "Büyükelçi mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90253",
+   "en": "I'll take it in the comm room.",
+   "tr": "Haberleşme odasında alırım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90254",
+   "en": "What kind of information?",
+   "tr": "Ne tür bilgi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90255",
+   "en": "You didn't seem that interested in helping me before. Why now?",
+   "tr": "Daha önce bana yardım etmekle pek ilgilenmiyor gibiydiniz. Neden şimdi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90258",
+   "en": "You mean spies.",
+   "tr": "Casusları kastediyorsunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90260",
+   "en": "I'm listening.",
+   "tr": "Dinliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90261",
+   "en": "I don't like being kept in the dark.",
+   "tr": "Karanlıkta bırakılmaktan hoşlanmıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90263",
+   "en": "What did they find?",
+   "tr": "Ne buldular?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90266",
+   "en": "A missing infiltration team's not my problem. Clean up your own mess.",
+   "tr": "Kayıp bir sızma ekibi benim sorunum değil. Kendi pisliğinizi kendiniz temizleyin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90267",
+   "en": "Forgive me, Councilor. I'll look into it.",
+   "tr": "Affedin, Konsey Üyesi. Araştıracağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90268",
+   "en": "I will find Saren, but I'm doing it my way!",
+   "tr": "Saren'i bulacağım ama kendi yöntemimle!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90269",
+   "en": "I'll look into it.",
+   "tr": "Bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90272",
+   "en": "From who?",
+   "tr": "Kimden?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90273",
+   "en": "Patch it through.",
+   "tr": "Bağla."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90275",
+   "en": "Tell me.",
+   "tr": "Söyleyin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90276",
+   "en": "Now you're helping me?",
+   "tr": "Şimdi mi bana yardım ediyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90279",
+   "en": "Infiltration units?",
+   "tr": "Sızma birimleri mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90280",
+   "en": "Go ahead.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90282",
+   "en": "Why wasn't I told?",
+   "tr": "Neden bana söylenmedi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90283",
+   "en": "And?",
+   "tr": "Ve?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90287",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90288",
+   "en": "Understood.",
+   "tr": "Anlaşıldı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90289",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90290",
+   "en": "You made your point.",
+   "tr": "Haklı çıktınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|90291",
+   "en": "This is my investigation!",
+   "tr": "Bu benim soruşturmam!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120424",
+   "en": "I'll take all the help I can get.",
+   "tr": "Alabileceğim her yardımı alırım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120425",
+   "en": "Good.",
+   "tr": "İyi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120426",
+   "en": "Sounds serious.",
+   "tr": "Ciddi görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|nor20_virmire_open_D|120427",
+   "en": "Thanks for the info.",
+   "tr": "Bilgi için teşekkürler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp102_transmission_D|134855",
+   "en": "Normandy, this is Alliance Command. We're detecting your presence in the Attican Beta Cluster.",
+   "tr": "Normandy, burası İttifak Komutanlığı. Attican Beta Kümesi'nde varlığınızı tespit ediyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp102_transmission_D|134856",
+   "en": "One of our surveillance drones was gathering intel on geth activities in the region when it was spotted and shot down.",
+   "tr": "Gözetleme insansız araçlarımızdan biri bölgedeki geth faaliyetleri hakkında istihbarat toplarken fark edilip vuruldu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp102_transmission_D|134857",
+   "en": "You need to go groundside and recover the drone's data module before the geth find it.",
+   "tr": "Yüzeye inip aracın veri modülünü geth bulmadan geri almanız gerekiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|134991",
+   "en": "Commander, urgent message from Alliance Command coming in. I'll patch it through.",
+   "tr": "Komutan, İttifak Komutanlığı'ndan acil mesaj geliyor. Size bağlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|134992",
+   "en": "Shepard, this is Admiral Hackett from Alliance Command.",
+   "tr": "Shepard, ben İttifak Komutanlığı'ndan Amiral Hackett."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|134993",
+   "en": "We've got a situation here, and you're the only one who can handle it.",
+   "tr": "Burada bir durum var ve bunu halledebilecek tek kişi sizsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135093",
+   "en": "You're a Spectre, Shepard. And this isn't some run-of-the-mill mission.",
+   "tr": "Spectre'sınız, Shepard. Ve bu sıradan bir görev değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135094",
+   "en": "There's an Alliance training ground where we test weapons and technology in live-fire simulations.",
+   "tr": "Silahları ve teknolojiyi gerçek atışlı simülasyonlarda denediğimiz bir İttifak eğitim alanı var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135095",
+   "en": "One of the VIs we use to simulate enemy tactics in the drills is no longer responding to our override commands. It's gone rogue.",
+   "tr": "Tatbikatlarda düşman taktiklerini simüle etmek için kullandığımız VI'lardan biri artık geçersiz kılma komutlarımıza yanıt vermiyor. Kontrolden çıktı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135096",
+   "en": "What do you need, Admiral?",
+   "tr": "Neye ihtiyacınız var, Amiral?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135097",
+   "en": "How come every time there's a problem, you end up running to me?",
+   "tr": "Nasıl oluyor da her sorun çıktığında bana koşuyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135100",
+   "en": "How many casualties so far?",
+   "tr": "Şimdiye kadar kaç kayıp var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135101",
+   "en": "Just tell me how to stop it, Admiral.",
+   "tr": "Nasıl durduracağımı söyleyin yeter, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135102",
+   "en": "Synthetic intelligence is a dangerous technology, Admiral.",
+   "tr": "Sentetik zekâ tehlikeli bir teknoloji, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135103",
+   "en": "How can I help?",
+   "tr": "Nasıl yardım edebilirim?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135104",
+   "en": "What's wrong?",
+   "tr": "Sorun ne?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135105",
+   "en": "I've heard that before.",
+   "tr": "Bunu daha önce duydum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135108",
+   "en": "Was anyone hurt?",
+   "tr": "Yaralanan oldu mu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135109",
+   "en": "What do I have to do?",
+   "tr": "Ne yapmam gerekiyor?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135110",
+   "en": "You should've known better.",
+   "tr": "Daha iyisini bilmeliydiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135126",
+   "en": "We're not stupid, Shepard. This is a virtual intelligence, not a true AI. It's not self-aware, and it can't access any external systems. We didn't do anything illegal here.",
+   "tr": "Aptal değiliz, Shepard. Bu sanal zekâ, gerçek bir YZ değil. Öz-farkındalığı yok ve herhangi bir dış sisteme erişemez. Burada yasadışı bir şey yapmadık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135127",
+   "en": "Virtual intelligence support is critical to our military success. VIs process thousands of status reports and react in nanoseconds. No human can do that.",
+   "tr": "Sanal zekâ desteği askerî başarımız için kritik. VI'lar binlerce durum raporunu işler ve nanosaniyelerde tepki verir. Hiçbir insan bunu yapamaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135128",
+   "en": "Seventeen marines were killed in the simulation exercises before we realized what had happened. That's when we contacted you.",
+   "tr": "Ne olduğunu fark etmeden önce simülasyon tatbikatlarında on yedi deniz piyadesi öldü. O zaman sizinle iletişime geçtik."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135129",
+   "en": "VI support is critical to our military success. They process thousands of status reports and react in nanoseconds. No human can do that.",
+   "tr": "VI desteği askerî başarımız için kritik. Binlerce durum raporunu işler ve nanosaniyelerde tepki verirler. Hiçbir insan bunu yapamaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135130",
+   "en": "But as advanced as this thing is at military strategy, it's still just a VI. It's not self-aware, and it's completely disengaged from any networks. That's where you come in.",
+   "tr": "Ama askerî stratejide ne kadar gelişmiş olursa olsun, bu hâlâ sadece bir VI. Öz-farkındalığı yok ve herhangi bir ağdan tamamen kopuk. Siz işte burada devreye giriyorsunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135131",
+   "en": "We need you to fight your way through the training ground to the VI core, and manually disable it.",
+   "tr": "Eğitim alanından VI çekirdeğine kadar savaşarak ilerleyip onu elle devre dışı bırakmanızı istiyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135132",
+   "en": "Our failsafes aren't responding. The VI operates on a closed network. It can't affect any external systems, but we don't have any direct access to its processes.",
+   "tr": "Güvenlik mekanizmalarımız yanıt vermiyor. VI kapalı bir ağda çalışıyor. Dış sistemleri etkileyemez ama süreçlerine doğrudan erişimimiz yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135133",
+   "en": "We could bomb it from orbit, but the damage to the facility would be catastrophic. We'd prefer to have someone shut down the core. Someone like you.",
+   "tr": "Onu yörüngeden bombalayabiliriz ama tesise vereceği hasar felaket olur. Birinin çekirdeği kapatmasını tercih ederiz. Sizin gibi birinin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135134",
+   "en": "I know Spectres answer to the Council, but you're still human. You're still part of the Alliance military, and right now we need you.",
+   "tr": "Spectre'ların Konsey'e hesap verdiğini biliyorum ama hâlâ insansınız. Hâlâ İttifak ordusunun bir parçasısınız ve şu an size ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135135",
+   "en": "The VI controls all of the facility's weapons, drones, and automated defenses. You're the only one who can pull this off, Shepard. Good luck.",
+   "tr": "VI tesisin tüm silahlarını, insansız araçlarını ve otomatik savunmalarını kontrol ediyor. Bunu başarabilecek tek kişi sizsiniz, Shepard. İyi şanslar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135136",
+   "en": "Are you telling me this computer is thinking on its own?",
+   "tr": "Bu bilgisayarın kendi kendine düşündüğünü mü söylüyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135142",
+   "en": "Can't you disable it remotely?",
+   "tr": "Uzaktan devre dışı bırakamaz mısınız?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135145",
+   "en": "Don't worry, Admiral. I'll take that thing out.",
+   "tr": "Merak etmeyin, Amiral. O şeyi hallederim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135148",
+   "en": "It's gone rogue?",
+   "tr": "Kontrolden mi çıktı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135154",
+   "en": "Is that the only option?",
+   "tr": "Tek seçenek bu mu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp103_transmission_D|135155",
+   "en": "I'm on it.",
+   "tr": "Hallediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp105_trig01_distress_D|139173",
+   "en": "Commander, we've got an incoming distress signal. Patching through to you.",
+   "tr": "Komutan, gelen bir imdat sinyali var. Size bağlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp105_trig01_distress_D|139174",
+   "en": "Mayday mayday mayday. This is Lieutenant Marie Durand, 3-14th Infantry, Alliance 10th Frontier Division.",
+   "tr": "İmdat imdat imdat. Burası Teğmen Marie Durand, 3-14. Piyade, İttifak 10. Sınır Tümeni."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp105_trig01_distress_D|139175",
+   "en": "The listening post has been overrun by unidentified hostile life forms. Request immediate extraction.",
+   "tr": "Dinleme noktası kimliği belirsiz düşman yaşam formlarınca ele geçirildi. Derhal tahliye talep ediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130364",
+   "en": "Commander Shepard, my name is Nassana Dantius. I have a job for you. I can't say any more in an unsecured communication.",
+   "tr": "Komutan Shepard, adım Nassana Dantius. Size bir işim var. Güvenli olmayan bir haberleşmede daha fazlasını söyleyemem."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130365",
+   "en": "If you're interested in hearing my offer, meet me on the Citadel so we can talk in person. I'll be waiting in the diplomat's lounge on the Presidium.",
+   "tr": "Teklifimi duymakla ilgileniyorsanız Citadel'de buluşalım, yüz yüze konuşalım. Presidium'daki diplomat salonunda bekliyor olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130366",
+   "en": "Commander Shepard, I am Nassana Dantius.",
+   "tr": "Komutan Shepard, ben Nassana Dantius."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130367",
+   "en": "I am glad you are here. I must talk to you about my sister, Dahlia. She has been kidnapped by slavers!",
+   "tr": "Burada olmanıza sevindim. Kız kardeşim Dahlia hakkında konuşmam gerek. Köle tüccarları tarafından kaçırıldı!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130368",
+   "en": "I see you got my message.",
+   "tr": "Mesajımı aldığınızı görüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130369",
+   "en": "I do. My sister Dahlia is a crewman on a cargo vessel operating out beyond the fringes of the Traverse. Her ship was attacked by privateers. There were no reported survivors.",
+   "tr": "Aldım. Kız kardeşim Dahlia, Traverse'in sınırlarının ötesinde çalışan bir yük gemisinde mürettebat. Gemisine korsanlar saldırdı. Hayatta kalan bildirilmedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130370",
+   "en": "This is where it gets complicated. Last week, I received a message with her voice on it. Dahlia is alive!",
+   "tr": "İşte burası karışık. Geçen hafta onun sesinin olduğu bir mesaj aldım. Dahlia hayatta!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130371",
+   "en": "The rest of the crew was killed, but she was taken prisoner. The slavers demanded a huge ransom from me in exchange for returning her unharmed.",
+   "tr": "Mürettebatın geri kalanı öldürüldü ama o esir alındı. Köle tüccarları, onu sağ salim geri vermek karşılığında benden büyük bir fidye istedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130372",
+   "en": "My sister probably told them who she was. My family is very wealthy, Shepard. They must have realized she was worth more to them alive.",
+   "tr": "Kız kardeşim muhtemelen kim olduğunu söyledi. Ailem çok zengin, Shepard. Onun sağ olarak kendileri için daha değerli olduğunu anlamış olmalılar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130373",
+   "en": "That's what I thought. I did what they wanted, transferred the funds to the account they specified. Only, they never released her. They haven't contacted me since.",
+   "tr": "Ben de öyle düşünmüştüm. İstediklerini yaptım, belirttikleri hesaba parayı aktardım. Ama onu hiç serbest bırakmadılar. Bir daha benimle iletişime geçmediler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130374",
+   "en": "I've already transferred the funds to the account they specified. Only, they never released her. They haven't contacted me since.",
+   "tr": "Belirttikleri hesaba parayı çoktan aktardım. Ama onu hiç serbest bırakmadılar. Bir daha benimle iletişime geçmediler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130375",
+   "en": "It's too late. I transferred the funds to the account they specified. Only, they never released her. They haven't contacted me since.",
+   "tr": "Çok geç. Belirttikleri hesaba parayı aktardım. Ama onu hiç serbest bırakmadılar. Bir daha benimle iletişime geçmediler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130376",
+   "en": "I've made a terrible mistake, Shepard. I am a diplomatic emissary! By law, I am required to report any attempted extortion to C-Sec immediately.",
+   "tr": "Korkunç bir hata yaptım, Shepard. Ben diplomatik bir elçiyim! Yasalara göre her türlü şantaj girişimini derhal C-Sec'e bildirmek zorundayım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130377",
+   "en": "But I was afraid for Dahlia, so I just paid the ransom. Now she is still missing, and if anyone finds out what I did I could end up in jail!",
+   "tr": "Ama Dahlia için korktum, o yüzden fidyeyi ödedim. Şimdi hâlâ kayıp ve yaptığımı kimse öğrenirse hapse girebilirim!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130378",
+   "en": "Government representatives on the Citadel are not allowed to negotiate with terrorists. It is too dangerous. Paying a ransom would only encourage more kidnappings.",
+   "tr": "Citadel'deki hükümet temsilcilerinin teröristlerle pazarlık yapması yasaktır. Çok tehlikeli. Fidye ödemek yalnızca daha fazla kaçırmayı teşvik eder."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130379",
+   "en": "I support the law in theory, but when I got the message, all I could think about was Dahlia's safety.",
+   "tr": "Yasayı teoride destekliyorum ama mesajı alınca tek düşünebildiğim Dahlia'nın güvenliğiydi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130380",
+   "en": "I doubt they would actually send me to prison for what I did. But they would strip me of my post, and Dahlia would still be in the hands of the slavers.",
+   "tr": "Yaptığım yüzünden gerçekten beni hapse atacaklarından şüpheliyim. Ama görevimden alırlar ve Dahlia yine köle tüccarlarının elinde kalır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130381",
+   "en": "You only need to bring her back. I have already found her for you.",
+   "tr": "Yalnızca onu geri getirmeniz yeter. Onu sizin için zaten buldum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130382",
+   "en": "This is easy money for you, Shepard. I have already found her; you just need to bring her back.",
+   "tr": "Bu sizin için kolay para, Shepard. Onu zaten buldum; yalnızca geri getirmeniz gerekiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130383",
+   "en": "Yes, Shepard? Did you find my sister?",
+   "tr": "Evet, Shepard? Kız kardeşimi buldunuz mu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130384",
+   "en": "I know you. You're Commander Shepard. The human Spectre.",
+   "tr": "Sizi tanıyorum. Komutan Shepard'sınız. İnsan Spectre."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130387",
+   "en": "Dahlia's dead, Nassana. And I know she was blackmailing you.",
+   "tr": "Dahlia öldü, Nassana. Ve seni şantajla tehdit ettiğini biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130388",
+   "en": "I killed Dahlia myself. And I know she was blackmailing you.",
+   "tr": "Dahlia'yı ben öldürdüm. Ve seni şantajla tehdit ettiğini biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130389",
+   "en": "It sounded like you needed some help.",
+   "tr": "Yardıma ihtiyacın var gibiydi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130390",
+   "en": "You said you had a job offer.",
+   "tr": "Bir iş teklifin olduğunu söylemiştin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130391",
+   "en": "I'm sorry for your loss.",
+   "tr": "Kaybın için üzgünüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130392",
+   "en": "You want me to hunt down the people who killed her.",
+   "tr": "Onu öldürenleri avlamamı istiyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130394",
+   "en": "Why didn't the raiders kill Dahlia along with everyone else?",
+   "tr": "Haydutlar neden Dahlia'yı herkesle birlikte öldürmedi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130395",
+   "en": "Coming up with the ransom seems like the best way to ensure Dahlia's safety.",
+   "tr": "Fidyeyi bulmak, Dahlia'nın güvenliğini sağlamanın en iyi yolu gibi görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130397",
+   "en": "Do you want me to deliver the ransom?",
+   "tr": "Fidyeyi teslim etmemi ister misin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130399",
+   "en": "You can't negotiate with criminals.",
+   "tr": "Suçlularla pazarlık yapılmaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130402",
+   "en": "Why would they put you in jail? You're the victim here!",
+   "tr": "Seni neden hapse atsınlar? Burada mağdur olan sensin!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130405",
+   "en": "You want me to find her and bring her back.",
+   "tr": "Onu bulup geri getirmemi istiyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130406",
+   "en": "You got in over your head and you expect me to pull you out?",
+   "tr": "Başının çaresine bakamadın ve seni kurtarmamı mı bekliyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130407",
+   "en": "Dahlia's dead. And I know she was blackmailing you.",
+   "tr": "Dahlia öldü. Ve seni şantajla tehdit ettiğini biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130408",
+   "en": "Dahlia's dead. I killed her myself. If you don't want to end up like her, start talking!",
+   "tr": "Dahlia öldü. Onu ben öldürdüm. Onun gibi bitmek istemiyorsan konuşmaya başla!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130412",
+   "en": "I know the truth.",
+   "tr": "Gerçeği biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130413",
+   "en": "Don't lie to me.",
+   "tr": "Bana yalan söyleme."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130414",
+   "en": "Actually, she's dead.",
+   "tr": "Aslında o öldü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130415",
+   "en": "Are you in trouble?",
+   "tr": "Başın belada mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130416",
+   "en": "Get to the point.",
+   "tr": "Asıl konuya gel."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130417",
+   "en": "What do you want?",
+   "tr": "Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130418",
+   "en": "That's too bad.",
+   "tr": "Çok kötü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130419",
+   "en": "Now you want revenge.",
+   "tr": "Şimdi intikam istiyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130420",
+   "en": "I know what this is about.",
+   "tr": "Bunun neyle ilgili olduğunu biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130422",
+   "en": "Why was your sister spared?",
+   "tr": "Kız kardeşin neden sağ bırakıldı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130423",
+   "en": "You'd better pay.",
+   "tr": "Ödesen iyi olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130424",
+   "en": "What's my part?",
+   "tr": "Benim payıma ne düşüyor?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130425",
+   "en": "Don't pay the ransom!",
+   "tr": "Fidyeyi ödeme!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130430",
+   "en": "That's a stupid law!",
+   "tr": "Bu aptalca bir yasa!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130431",
+   "en": "You need my help.",
+   "tr": "Yardımıma ihtiyacın var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130432",
+   "en": "So you came to me.",
+   "tr": "Yani bana geldin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130433",
+   "en": "So I have to fix your mess?",
+   "tr": "Yani senin pisliğini ben mi temizleyeceğim?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130436",
+   "en": "So you came to me.",
+   "tr": "Yani bana geldin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130437",
+   "en": "I found her.",
+   "tr": "Onu buldum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130438",
+   "en": "You lied to me!",
+   "tr": "Bana yalan söyledin!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130528",
+   "en": "Hm. And I was all set to try to manipulate you into hunting her down for me. But I guess that won't be necessary now, will it?",
+   "tr": "Hm. Sizi benim için onu avlamaya yönlendirmeye hazırlanıyordum. Ama sanırım artık buna gerek yok, değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130529",
+   "en": "I tracked the ransom payment through several accounts. Eventually, it lead to a small mercenary band operating out of the Artemis Tau cluster.",
+   "tr": "Fidye ödemesini birkaç hesap üzerinden izledim. Sonunda Artemis Tau kümesinden faaliyet gösteren küçük bir paralı asker çetesine çıktı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130530",
+   "en": "I need you to go to the merc base, take them out, and bring my sister back. You shall be well rewarded.",
+   "tr": "Paralı asker üssüne gidip onları etkisiz hale getirmenizi ve kız kardeşimi geri getirmenizi istiyorum. İyi ödüllendirileceksiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130531",
+   "en": "Thank you, Shepard. I knew you were the right man for the job.",
+   "tr": "Teşekkürler, Shepard. Bu iş için doğru adam olduğunu biliyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130532",
+   "en": "Thank you, Shepard. I knew you were the right woman for the job.",
+   "tr": "Teşekkürler, Shepard. Bu iş için doğru kadın olduğunuzu biliyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130533",
+   "en": "Come back and see me when the job is done.",
+   "tr": "İş bitince gelip beni görün."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130534",
+   "en": "You are the only one I can turn to, Shepard! Besides, I have already transmitted the coordinates to your ship.",
+   "tr": "Başvurabileceğim tek kişi sizsiniz, Shepard! Ayrıca koordinatları gemize zaten ilettim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130535",
+   "en": "Please, just see what you can do. I will be waiting here when you're done. ",
+   "tr": "Lütfen, elinizden geleni yapın. İşiniz bitene kadar burada bekliyor olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130536",
+   "en": "So the truth comes out. I hope you are not angry. Surely you can understand why I lied to you?",
+   "tr": "Demek gerçek ortaya çıktı. Umarım kızgın değilsiniz. Size neden yalan söylediğimi elbette anlayabilirsiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130537",
+   "en": "No need to raise your voice, Commander. Surely you can understand why I lied to you?",
+   "tr": "Sesinizi yükseltmenize gerek yok, Komutan. Size neden yalan söylediğimi elbette anlayabilirsiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130538",
+   "en": "If people found out my sister was a criminal, I'd be considered a security risk. They'd revoke my clearance, or place me on administrative leave until she was apprehended.",
+   "tr": "İnsanlar kız kardeşimin suçlu olduğunu öğrenirse güvenlik riski sayılırım. Yetkimi iptal ederler ya da o yakalanana kadar beni idari izne çıkarırlardı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130539",
+   "en": "That is why I misled you. I could not risk you exposing me. But now that Dahlia is out of the picture, it is no longer a problem.",
+   "tr": "Bu yüzden sizi yanılttım. Beni ifşa etmenizi göze alamazdım. Ama Dahlia artık ortadan kalktığı için bu bir sorun değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130540",
+   "en": "Perhaps you are right. I am sorry. We have trust issues in my family.",
+   "tr": "Belki haklısınız. Üzgünüm. Ailemde güven sorunları var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130541",
+   "en": "I am sorry I wasn't honest with you. We have trust issues in my family.",
+   "tr": "Size dürüst olmadığım için üzgünüm. Ailemde güven sorunları var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130542",
+   "en": "I could not agree more. She was my sister, but I will not shed any tears for her death.",
+   "tr": "Daha fazla katılamazdım. O benim kız kardeşimdi ama ölümüne tek damla gözyaşı dökmeyeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130543",
+   "en": "I shall transfer a little something into your account as a token of my appreciation. I'm sure you will find the amount satisfactory.",
+   "tr": "Takdirimin bir göstergesi olarak hesabınıza küçük bir şey aktaracağım. Miktardan memnun kalacağınıza eminim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130544",
+   "en": "You make a good point. Anyone can come up with credits. But I can give you authorization to purchase prototype asari mods.",
+   "tr": "Haklı bir noktaya değindiniz. Kredi herkes bulabilir. Ama size prototip asari modlarını satın alma yetkisi verebilirim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130545",
+   "en": "True, but I am the only one who can authorize you to purchase prototype asari mods.",
+   "tr": "Doğru, ama size prototip asari modlarını satın alma yetkisi verebilecek tek kişi benim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130546",
+   "en": "I will get you added to our manufacturer's preferred client list. I think you would be very interested in what they have available.",
+   "tr": "Sizi üreticimizin tercihli müşteri listesine ekleteceğim. Ellerindekilerle çok ilgileneceğinizi düşünüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130547",
+   "en": "Goodbye, Shepard. It has been a pleasure doing business with you.",
+   "tr": "Hoşça kalın, Shepard. Sizinle iş yapmak bir zevkti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130548",
+   "en": "I do not like being in anyone's debt. Consider it a fee for doing your civic duty if it makes you feel any better.",
+   "tr": "Kimseye borçlu kalmaktan hoşlanmam. Daha iyi hissettirecekse bunu yurttaşlık görevinizi yerine getirmenin bedeli sayın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130549",
+   "en": "Or give it away to some charity. I care not. The funds are already on their way. They are your problem now.",
+   "tr": "Ya da bir hayır kurumuna bağışlayın. Umurumda değil. Para zaten yolda. Artık sizin sorununuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130550",
+   "en": "Understood, Shepard. I will not bother you again.",
+   "tr": "Anlaşıldı, Shepard. Sizi bir daha rahatsız etmeyeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130551",
+   "en": "I am not that stupid. You will get a fair deal. A very fair deal.",
+   "tr": "O kadar aptal değilim. Adil bir anlaşma yapacaksınız. Çok adil bir anlaşma."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130552",
+   "en": "Goodbye, Shepard.",
+   "tr": "Hoşça kalın, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130553",
+   "en": "I do not want to take chances with my sister's life. I need a Spectre.",
+   "tr": "Kız kardeşimin hayatıyla şansa oynamak istemem. Bir Spectre'a ihtiyacım var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130554",
+   "en": "Besides, you operate outside official channels. My superiors cannot find out I never reported the ransom in the first place.",
+   "tr": "Ayrıca resmî kanalların dışında çalışıyorsunuz. Üstlerim fidyeyi baştan hiç bildirmediğimi öğrenemez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130555",
+   "en": "I have resources. Contacts and credits can go a long way, especially if you are willing to bend the rules.",
+   "tr": "Kaynaklarım var. İlişkiler ve krediler çok yol açar, özellikle kuralları esnetmeye hazırsanız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130556",
+   "en": "I already broke the law when I paid the ransom. This couldn't make things any worse.",
+   "tr": "Fidyeyi öderken yasayı zaten çiğnedim. Bu durumu daha kötüleştiremez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130557",
+   "en": "Pretty much what you'd expect: rough, dangerous, and well-armed. Nothing a Spectre cannot handle, though.",
+   "tr": "Tam tahmin edeceğiniz gibi: sert, tehlikeli ve iyi silahlı. Ama bir Spectre'ın başa çıkamayacağı bir şey değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130558",
+   "en": "Come back and see me when the job is done.",
+   "tr": "İş bitince gelip beni görün."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130559",
+   "en": "Is there something I can do for you?",
+   "tr": "Sizin için yapabileceğim bir şey var mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130560",
+   "en": "What? Are you saying she's...",
+   "tr": "Ne? Onun öldüğünü mü söylüyorsunuz..."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130561",
+   "en": "I gave you what you wanted, Shepard. We have nothing more to discuss.",
+   "tr": "İstediğinizi verdim, Shepard. Konuşacak başka bir şeyimiz yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130562",
+   "en": "Thank you for all your help, Shepard.",
+   "tr": "Tüm yardımlarınız için teşekkürler, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130563",
+   "en": "I don't have time to talk now. I'm very busy.",
+   "tr": "Şimdi konuşacak vaktim yok. Çok meşgulüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130568",
+   "en": "Keep your reward. I'll bring your sister back. I promise.",
+   "tr": "Ödülünüzü kendinize saklayın. Kız kardeşinizi geri getireceğim. Söz veriyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130569",
+   "en": "Don't worry. I'll bring your sister back.",
+   "tr": "Merak etmeyin. Kız kardeşinizi geri getireceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130572",
+   "en": "I've got more important things to do than track down your sister.",
+   "tr": "Kız kardeşinizi aramaktan daha önemli işlerim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130577",
+   "en": "I would've helped if you'd just told me the truth.",
+   "tr": "Bana gerçeği söyleseydiniz yardım ederdim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130579",
+   "en": "Do your own dirty work next time!",
+   "tr": "Bir dahaki sefere kirli işinizi kendiniz yapın!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130581",
+   "en": "Your sister was a slaver. She got what was coming to her.",
+   "tr": "Kız kardeşiniz bir köle tüccarıydı. Hak ettiğini buldu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130583",
+   "en": "You're a diplomat on her way up the ranks. It could be handy to have a Spectre who owes you a favor.",
+   "tr": "Rütbe atlayan bir diplomatsınız. Size borçlu bir Spectre'ın olması işe yarayabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130585",
+   "en": "I'm a Spectre, not some merc for hire. I can find credits anywhere.",
+   "tr": "Ben bir Spectre'ım, kiralık paralı asker değil. Krediyi her yerden bulurum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130588",
+   "en": "I don't want your blood money.",
+   "tr": "Kan paranızı istemiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130590",
+   "en": "I just want to put this whole thing behind me.",
+   "tr": "Tüm bu işi arkamda bırakmak istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130591",
+   "en": "If you try to cheat me on this--",
+   "tr": "Beni bu konuda kandırmaya kalkarsanız..."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130593",
+   "en": "Can't you hire someone else to do this?",
+   "tr": "Bunu yapması için başkasını tutamaz mısınız?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130595",
+   "en": "How'd you find out who was behind the ransom?",
+   "tr": "Fidyenin arkasında kimin olduğunu nasıl buldunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130597",
+   "en": "Anything you can tell me about the mercs who have your sister?",
+   "tr": "Kız kardeşinizi tutan paralı askerler hakkında söyleyebileceğiniz bir şey var mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130598",
+   "en": "I have to go.",
+   "tr": "Gitmem lazım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130600",
+   "en": "You're Nassana, right? I ran into your sister, Dahlia. It didn't end well for her.",
+   "tr": "Nassana, değil mi? Kız kardeşin Dahlia'yla karşılaştım. Onun için iyi bitmedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130601",
+   "en": "Never mind.",
+   "tr": "Boş verin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130606",
+   "en": "I don't do this for payment.",
+   "tr": "Ben bunu para için yapmıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130607",
+   "en": "I'll do it.",
+   "tr": "Yaparım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130608",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130612",
+   "en": "Why me?",
+   "tr": "Neden ben?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130613",
+   "en": "Tracking the ransom.",
+   "tr": "Fidyenin izini sürmek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130614",
+   "en": "Kidnappers",
+   "tr": "Kaçıranlar"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130615",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130619",
+   "en": "You should have told me.",
+   "tr": "Bana söylemeliydiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130620",
+   "en": "I don't like being used.",
+   "tr": "Kullanılmaktan hoşlanmam."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130621",
+   "en": "She deserved to die.",
+   "tr": "Ölmeyi hak etti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130625",
+   "en": "I've got a better deal.",
+   "tr": "Daha iyi bir teklifim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130626",
+   "en": "Credits won't cut it.",
+   "tr": "Kredi yetmez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130627",
+   "en": "Don't bother.",
+   "tr": "Zahmet etmeyin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130628",
+   "en": "Fair enough.",
+   "tr": "Yeterince adil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130629",
+   "en": "It better be.",
+   "tr": "Öyle olsa iyi olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130638",
+   "en": "I ran into your sister.",
+   "tr": "Kız kardeşinizle karşılaştım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130639",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130640",
+   "en": "I know the truth.",
+   "tr": "Gerçeği biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130641",
+   "en": "She is.",
+   "tr": "Öyle."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130642",
+   "en": "I killed her myself.",
+   "tr": "Onu ben öldürdüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130645",
+   "en": "You wanted your sister dead?",
+   "tr": "Kız kardeşinin ölmesini mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130646",
+   "en": "Wait... You wanted your sister dead?",
+   "tr": "Dur... Kız kardeşinin ölmesini mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130647",
+   "en": "You wanted your sister dead?",
+   "tr": "Kız kardeşinin ölmesini mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130648",
+   "en": "You wanted your sister dead?",
+   "tr": "Kız kardeşinin ölmesini mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130649",
+   "en": "You wanted your sister dead?",
+   "tr": "Kız kardeşinin ölmesini mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130650",
+   "en": "You wanted your sister dead?",
+   "tr": "Kız kardeşinin ölmesini mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130651",
+   "en": "Obviously.",
+   "tr": "Açıkça."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130652",
+   "en": "Obviously.",
+   "tr": "Açıkça."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130653",
+   "en": "Obviously.",
+   "tr": "Açıkça."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130654",
+   "en": "Obviously.",
+   "tr": "Açıkça."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130655",
+   "en": "Obviously.",
+   "tr": "Açıkça."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130656",
+   "en": "Thank god you're not my sister.",
+   "tr": "Şükürler olsun kız kardeşim değilsin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130657",
+   "en": "That's some deadly sibling rivalry.",
+   "tr": "Ölümcül bir kardeş rekabeti bu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130658",
+   "en": "Nice family.",
+   "tr": "Güzel aile."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130659",
+   "en": "I'm glad you're not my sister.",
+   "tr": "Kız kardeşim olmadığına sevindim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp108_diplomat_D|130660",
+   "en": "I'm glad you're not my sister.",
+   "tr": "Kız kardeşim olmadığına sevindim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp110_distress_call_D|136886",
+   "en": "Looks like we've got an active distress beacon on the planet below, Commander. No message, just a locator signal.",
+   "tr": "Aşağıdaki gezegende aktif bir imdat işareti var gibi, Komutan. Mesaj yok, yalnızca konum sinyali."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139021",
+   "en": "Thank you for dealing with the hostage situation, Commander.",
+   "tr": "Rehine durumuyla ilgilendiğiniz için teşekkürler, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139022",
+   "en": "Chairman Burns' death was regrettable, but I trust you did everything you could to save him.",
+   "tr": "Başkan Burns'ün ölümü üzücü ama onu kurtarmak için elinizden geleni yaptığınıza inanıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139023",
+   "en": "Chairman Burns commended your heroic efforts and credits you with his survival.",
+   "tr": "Başkan Burns kahramanca çabalarınızı takdir etti ve hayatta kalmasını size borçlu olduğunu belirtti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139024",
+   "en": "Chairman Burns was quite impressed by the way you resolved the situation peacefully.",
+   "tr": "Başkan Burns durumu barışçıl biçimde çözmenizden oldukça etkilendi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139025",
+   "en": "Your assistance above and beyond formal duties has been noted, Commander. Fifth Fleet out.",
+   "tr": "Resmî görevlerin ötesindeki yardımınız not edildi, Komutan. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139026",
+   "en": "Commander, it's good to see you in the area. We've got a situation that requires your expertise.",
+   "tr": "Komutan, sizi bölgede görmek güzel. Uzmanlığınızı gerektiren bir durumumuz var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139027",
+   "en": "A group of fanatical biotics have kidnapped the chairman of the Parliament Subcommittee on Transhuman Studies.",
+   "tr": "Bir grup fanatik biyotik, Parlamento Transhuman Çalışmalar Alt Komitesi başkanını kaçırdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139028",
+   "en": "Their freighter sustained damage and is dead in space. Get in there and take them down.",
+   "tr": "Yük gemileri hasar gördü ve uzayda ölü hâlde duruyor. İçeri girip onları indirin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139029",
+   "en": "Saving him would be my preference, but we must make it clear that these tactics don't work, Commander.",
+   "tr": "Onu kurtarmak benim tercihim olurdu ama bu taktiklerin işe yaramadığını açıkça göstermeliyiz, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139030",
+   "en": "Your top priority is to neutralize the biotics.",
+   "tr": "Birinci önceliğiniz biyotikleri etkisiz hâle getirmek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139031",
+   "en": "The biotics were seen loading equipment onto the freighter. ",
+   "tr": "Biyotiklerin yük gemisine ekipman yüklediği görüldü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139032",
+   "en": "Expect traps and combat drones. Nothing you can't handle.",
+   "tr": "Tuzaklar ve savaş insansız araçları bekleyin. Başa çıkamayacağınız bir şey değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139033",
+   "en": "They're L2 biotics, and most of them are suffering major side effects from the implants.",
+   "tr": "Onlar L2 biyotikler ve çoğu implantların ciddi yan etkilerinden muzdarip."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139034",
+   "en": "The chairman's subcommittee recently denied a request for reparations to all L2 biotics. ",
+   "tr": "Başkanın alt komitesi yakın zamanda tüm L2 biyotikler için tazminat talebini reddetti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139035",
+   "en": "Apparently, they'd like the chairman to reconsider. ",
+   "tr": "Anlaşılan başkanın fikrini değiştirmesini istiyorlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139037",
+   "en": "I know you're under Citadel jurisdiction now, Shepard, but humanity still needs you. Think about it. Fifth Fleet out.",
+   "tr": "Artık Citadel yetki alanında olduğunuzu biliyorum, Shepard, ama insanlığın hâlâ size ihtiyacı var. Düşünün. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139038",
+   "en": "I appreciate you taking the time, Commander. ",
+   "tr": "Zaman ayırdığınız için teşekkür ederim, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139039",
+   "en": "I'm sending you the last known coordinates of the freighter. Good luck. Fifth Fleet out.",
+   "tr": "Yük gemisinin bilinen son koordinatlarını gönderiyorum. İyi şanslar. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139046",
+   "en": "What's the priority on saving the chairman?",
+   "tr": "Başkanı kurtarmanın önceliği ne?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139048",
+   "en": "What kind of resistance should I expect?",
+   "tr": "Nasıl bir direnişle karşılaşacağım?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139050",
+   "en": "What are the biotics asking for?",
+   "tr": "Biyotikler ne istiyor?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139053",
+   "en": "I've got other priorities, Admiral. I don't have time for a rescue operation.",
+   "tr": "Başka öncelikler var, Amiral. Kurtarma operasyonuna vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139055",
+   "en": "Understood, Admiral. I'll see what I can do.",
+   "tr": "Anlaşıldı, Amiral. Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139063",
+   "en": "Priority of Chairman",
+   "tr": "Başkanın önceliği"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139064",
+   "en": "Enemy Strength",
+   "tr": "Düşman gücü"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139065",
+   "en": "Biotics' Demands",
+   "tr": "Biyotiklerin talepleri"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139066",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139067",
+   "en": "I'll check it out.",
+   "tr": "Bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139068",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139070",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139072",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp111_transmission_D|139075",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136497",
+   "en": "Message coming in from the brass at Arcturus. Patching it through.",
+   "tr": "Arcturus'taki komutanlıktan mesaj geliyor. Size bağlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136498",
+   "en": "Normandy? Admiral Hackett here. We're getting reports warning of a marked increase in geth activity in the Skyllian Verge.",
+   "tr": "Normandy? Ben Amiral Hackett. Skyllian Verge'de geth faaliyetinde belirgin bir artışı uyaran raporlar alıyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136499",
+   "en": "Surveillance drones have identified geth outposts on four different planets in the Armstrong Cluster. We need someone to take them out.",
+   "tr": "Gözetleme insansız araçları Armstrong Kümesi'nde dört farklı gezegende geth karakolları tespit etti. Birinin onları etkisiz hâle getirmesi gerekiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136500",
+   "en": "Hard to say. They might just be gathering intel on us. Or maybe they're setting up staging grounds for hit and run attacks on human colonies.",
+   "tr": "Söylemesi zor. Belki sadece bizim hakkımızda istihbarat topluyorlar. Ya da insan kolonilerine vur-kaç saldırıları için üs kuruyorlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136501",
+   "en": "Let's hope not. We need someone to investigate this, Shepard.",
+   "tr": "Umarım öyle değildir. Birinin bunu araştırması gerekiyor, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136502",
+   "en": "You may be a Spectre now, Commander, but you're still part of the Alliance. Don't turn your back on us when we need you.",
+   "tr": "Artık Spectre olabilirsiniz, Komutan, ama hâlâ İttifak'ın bir parçasısınız. Bize ihtiyacımız olduğunda sırtınızı dönmeyin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136503",
+   "en": "Finding Saren is still your top priority. But you've got experience fighting the geth. You're the logical choice to take out these outposts.",
+   "tr": "Saren'i bulmak hâlâ birinci önceliğiniz. Ama geth'le savaşma deneyiminiz var. Bu karakolları temizlemek için mantıklı seçim sizsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136504",
+   "en": "We're transmitting the locations of all known geth outposts in the Armstrong Cluster to the Normandy now. Admiral Hackett out.",
+   "tr": "Armstrong Kümesi'ndeki bilinen tüm geth karakollarının konumlarını şimdi Normandy'ye iletiyoruz. Amiral Hackett kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136507",
+   "en": "We have any idea what they're after?",
+   "tr": "Ne peşinde olduklarına dair bir fikrimiz var mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136508",
+   "en": "It could be the first wave of an invasion.",
+   "tr": "Bir istilanın ilk dalgası olabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136510",
+   "en": "I'm on it, Admiral.",
+   "tr": "Ben hallederim, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136511",
+   "en": "Stopping Saren is a hell of a lot more important than wiping out a few geth outposts.",
+   "tr": "Saren'i durdurmak birkaç geth karakolunu yok etmekten çok daha önemli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136517",
+   "en": "Any more information?",
+   "tr": "Başka bilgi var mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136518",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136519",
+   "en": "Understood.",
+   "tr": "Anlaşıldı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136520",
+   "en": "I don't have time for this!",
+   "tr": "Bunun için vaktim yok!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136521",
+   "en": "Or worse.",
+   "tr": "Ya da daha kötüsü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp114_transmission_D|136522",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136687",
+   "en": "Message from Admiral Hackett, Commander. Patching it through.",
+   "tr": "Amiral Hackett'ten mesaj var, Komutan. Bağlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136688",
+   "en": "We just received your report. Looks like this geth incursion was bigger than we thought. They were  probably preparing for a major offensive in the system.",
+   "tr": "Raporunuzu aldık. Bu geth sızması düşündüğümüzden büyükmüş. Muhtemelen sistemde büyük bir saldırıya hazırlanıyorlardı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136689",
+   "en": "We're increasing patrols in the Armstrong cluster to make sure they can't establish another foothold in the region.",
+   "tr": "Başka bir dayanak kurmalarını önlemek için Armstrong Kümesi'ndeki devriyeleri artırıyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp115_transmission_D|136690",
+   "en": "Nice job, Shepard. You saved a lot of human lives on this mission. Hackett out.",
+   "tr": "İyi iş, Shepard. Bu görevde pek çok insanın hayatını kurtardınız. Hackett kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131159",
+   "en": "... general distress call... Sacred Angel medical transport...",
+   "tr": "...genel imdat çağrısı... Sacred Angel tıbbi nakil aracı..."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131160",
+   "en": "...critical system failure... losing power... emergency landing... --gos Rho... repeat... Argos...",
+   "tr": "...kritik sistem arızası... güç kaybediyoruz... acil iniş... --gos Rho... tekrar ediyorum... Argos..."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131161",
+   "en": "Communications failing... life support... emergency transponder... won't last... please hurry.",
+   "tr": "İletişim kesiliyor... yaşam desteği... acil durum transponderı... dayanamayacak... lütfen acele edin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131163",
+   "en": "There is the wreckage. I do not see any survivors, though.",
+   "tr": "Enkaz şurada. Yine de hayatta kalan göremiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131164",
+   "en": "Looks like the signal's coming from that wreckage.",
+   "tr": "Sinyal o enkazdan geliyor gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131165",
+   "en": "There's the downed ship. This must be the place.",
+   "tr": "İşte düşen gemi. Burası olmalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131166",
+   "en": "The signal's coming from that downed ship.",
+   "tr": "Sinyal şu düşen gemiden geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131167",
+   "en": "There's the wreckage. The signal must be coming from there.",
+   "tr": "İşte enkaz. Sinyal oradan geliyor olmalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131168",
+   "en": "Careful, Shepard. I've got a bad feeling about this.",
+   "tr": "Dikkat et, Shepard. Bu konuda kötü bir önsezim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131169",
+   "en": "Careful, Commander. I've got a bad feeling about this.",
+   "tr": "Dikkatli olun, Komutan. Bu konuda kötü bir önsezim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131170",
+   "en": "Careful, Commander. I've got a bad feeling about this.",
+   "tr": "Dikkatli olun, Komutan. Bu konuda kötü bir önsezim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131171",
+   "en": "Careful, Commander. I've got a bad feeling about this.",
+   "tr": "Dikkatli olun, Komutan. Bu konuda kötü bir önsezim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131172",
+   "en": "Careful, Shepard. I've got a bad feeling about this.",
+   "tr": "Dikkat et, Shepard. Bu konuda kötü bir önsezim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131174",
+   "en": "Geth! It's a trap!",
+   "tr": "Geth! Bu bir tuzak!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131175",
+   "en": "Geth! It's a trap!",
+   "tr": "Geth! Bu bir tuzak!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131176",
+   "en": "Geth! It's a trap!",
+   "tr": "Geth! Bu bir tuzak!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131177",
+   "en": "Geth! It's a trap!",
+   "tr": "Geth! Bu bir tuzak!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp118_distress_call_D|131178",
+   "en": "Geth! It's a trap!",
+   "tr": "Geth! Bu bir tuzak!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139451",
+   "en": "Message coming in, Commander. Big surprise -- the Alliance needs you again.",
+   "tr": "Mesaj geliyor, Komutan. Büyük sürpriz: İttifak yine size ihtiyaç duyuyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139452",
+   "en": "Admiral Hackett here, Commander. Your helmsman just forwarded your report on Major Kyle.",
+   "tr": "Amiral Hackett konuşuyor, Komutan. Dümencinizden Binbaşı Kyle hakkındaki raporunuz az önce geldi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139828",
+   "en": "Shepard? This is Admiral Hackett with Alliance Command. We've got a mission for you.",
+   "tr": "Shepard? Ben İttifak Komutanlığı'ndan Amiral Hackett. Sizin için bir görevimiz var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139829",
+   "en": "Major Kyle, your commanding officer at Torfan, has set up a small compound in the Hawking Eta cluster. He's attracted a number of biotic followers.",
+   "tr": "Torfan'daki komutanınız Binbaşı Kyle, Hawking Eta Kümesi'nde küçük bir yerleşke kurdu. Pek çok biyotik takipçi topladı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139830",
+   "en": "An Alliance officer named Major Kyle has set up a small compound in the Hawking Eta cluster. He's attracted a number of followers. Mostly biotics.",
+   "tr": "Binbaşı Kyle adlı bir İttifak subayı Hawking Eta Kümesi'nde küçük bir yerleşke kurdu. Çoğu biyotik olan pek çok takipçi topladı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139831",
+   "en": "He's become an outspoken critic of the Alliance, and we believe he's mentally unstable. This could be trouble, Shepard.",
+   "tr": "İttifak'ın açık sözlü bir eleştirmeni oldu ve zihinsel olarak dengesiz olduğunu düşünüyoruz. Bu başımızı belaya sokabilir, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139832",
+   "en": "Three days ago, we sent two Alliance representatives to meet with him at his compound. They have disappeared. We believe Kyle and his followers killed them.",
+   "tr": "Üç gün önce iki İttifak temsilcisini yerleşkesinde onunla görüşmeye gönderdik. Ortadan kayboldular. Kyle'ın ve takipçilerinin onları öldürdüğüne inanıyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139833",
+   "en": "That compound is a cult, Shepard. They call him 'Father Kyle' now. He's set himself up as some kind of religious leader.",
+   "tr": "O yerleşke bir tarikat, Shepard. Ona artık 'Peder Kyle' diyorlar. Kendini bir tür dinî lider ilan etti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139834",
+   "en": "He's not the same man you served under. He feels responsible for all the Alliance soldiers who died at Torfan.",
+   "tr": "Altında hizmet ettiğiniz adam değil artık. Torfan'da ölen tüm İttifak askerlerinden kendini sorumlu hissediyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139835",
+   "en": "He used to be a model soldier. But something happened to him at Torfan. Too many Alliance soldiers died under his command. He couldn't cope with the guilt.",
+   "tr": "Eskiden örnek bir askerdi. Ama Torfan'da ona bir şey oldu. Komutası altında çok fazla İttifak askeri öldü. Suçluluğuyla baş edemedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139836",
+   "en": "His psych evaluations showed he couldn't handle the stress of command any more. He was given an honorable discharge and early retirement.",
+   "tr": "Psikolojik değerlendirmeleri komuta stresine artık dayanamayacağını gösterdi. Şerefiyle terhis edildi ve erken emekliye ayrıldı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139837",
+   "en": "We'd hoped he would get better in time, but we underestimated how far gone he was. Now it looks like it's too late.",
+   "tr": "Zamanla iyileşmesini umuyorduk ama ne kadar kötü olduğunu hafife aldık. Şimdi çok geç kalmış gibi görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139838",
+   "en": "Yes. Major Kyle never showed any biotic tendencies himself, though. I think he's just latched onto a group he identifies with.",
+   "tr": "Evet. Binbaşı Kyle'ın kendisinde hiç biyotik eğilim görülmedi ama. Sanırım kendisini özdeşleştirdiği bir gruba tutunmuş."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139839",
+   "en": "Many biotics feel marginalized or ostracized by society. Kyle probably sees them as victims who need his protection. And they see him as someone who will fight for them.",
+   "tr": "Pek çok biyotik toplum tarafından ötekileştirilmiş ya da dışlanmış hissediyor. Kyle muhtemelen onları korumasına ihtiyaç duyan mağdurlar olarak görüyor. Onlar da onu kendileri için savaşacak biri olarak görüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139840",
+   "en": "Unfortunately ,he's convinced them that the Alliance is somehow responsible for all of their problems. We can't let him go on like this.",
+   "tr": "Ne yazık ki onları, tüm sorunlarından bir şekilde İttifak'ın sorumlu olduğuna ikna etti. Böyle devam etmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139841",
+   "en": "They wanted to bring him back to an Alliance facility for treatment. Major Kyle served us faithfully for many years. We weren't going to abandon him.",
+   "tr": "Onu tedavi için bir İttifak tesisine geri götürmek istediler. Binbaşı Kyle uzun yıllar bize sadakatle hizmet etti. Onu terk etmeyecektik."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139842",
+   "en": "Given his state of mind, however, he probably saw them as a threat. We're almost certain he had his followers kill them.",
+   "tr": "Ancak ruh hâli göz önüne alındığında muhtemelen onları tehdit olarak gördü. Takipçilerine onları öldürttüğünden neredeyse eminiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139843",
+   "en": "You served with him; he might listen to you. But he's already killed two Alliance representatives. I'll trust you to use your judgment. Hackett out.",
+   "tr": "Onunla hizmet ettiniz; sizi dinleyebilir. Ama zaten iki İttifak temsilcisini öldürdü. Muhakemenizi kullanmanıza güveniyorum. Hackett kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139844",
+   "en": "That may not be possible, Commander. We don't want a bloodbath, but Kyle is dangerous. I'll trust you to use your judgment. Hackett out.",
+   "tr": "Bu mümkün olmayabilir, Komutan. Kan gölü istemiyoruz ama Kyle tehlikeli. Muhakemenizi kullanmanıza güveniyorum. Hackett kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139845",
+   "en": "We don't want this to turn into a massacre, Commander. Kyle is dangerous. I trust you to use your judgment. Hackett out.",
+   "tr": "Bunun bir katliama dönüşmesini istemiyoruz, Komutan. Kyle tehlikeli. Muhakemenizi kullanmanıza güveniyorum. Hackett kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139846",
+   "en": "We never like to see civilian casualties, but I think we all knew how this was going to end. You did what you had to do.",
+   "tr": "Sivil kayıpları görmekten hoşlanmayız ama hepimiz bunun nasıl biteceğini biliyorduk. Yapmanız gerekeni yaptınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139847",
+   "en": "The news vids are going to pick this story up for sure, but we'll keep your name out of it, Shepard. Hackett out.",
+   "tr": "Haber videoları bu hikâyeyi kesin alacak ama adınızı dışarıda tutacağız, Shepard. Hackett kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139848",
+   "en": "We sent in a team as you instructed. Kyle's followers have disbanded, and the major surrendered to us without incident. We'll make sure he gets the help he needs.",
+   "tr": "Talimatınız doğrultusunda bir ekip gönderdik. Kyle'ın takipçileri dağıldı ve binbaşı olaysız teslim oldu. İhtiyacı olan yardımı almasını sağlayacağız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139849",
+   "en": "To be honest, Shepard, I thought this thing was going to end in a bloodbath. I don't know how you did it, but you saved a lot of lives. Congratulations.",
+   "tr": "Dürüst olmak gerekirse Shepard, bunun kan gölüyle biteceğini sanıyordum. Nasıl yaptığınızı bilmiyorum ama pek çok hayat kurtardınız. Tebrikler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139854",
+   "en": "What kind of proof do you have that the major is dangerous?",
+   "tr": "Binbaşının tehlikeli olduğuna dair elinizde ne tür kanıt var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139855",
+   "en": "I'll look into it.",
+   "tr": "Bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139858",
+   "en": "What else can you tell me about Major Kyle?",
+   "tr": "Binbaşı Kyle hakkında bana başka ne söyleyebilirsiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139862",
+   "en": "You said his followers were biotics?",
+   "tr": "Takipçilerinin biyotik olduğunu mu söylediniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139865",
+   "en": "What were those Alliance representatives going to talk to Major Kyle about?",
+   "tr": "O İttifak temsilcileri Binbaşı Kyle'la ne konuşmaya gidiyordu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139867",
+   "en": "I'll deal with Major Kyle for you, Admiral.",
+   "tr": "Binbaşı Kyle'ı sizin için halledeceğim, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139868",
+   "en": "I might be able to end this without violence.",
+   "tr": "Bunu şiddet olmadan bitirebilirim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139869",
+   "en": "How permanent of a solution are you looking for?",
+   "tr": "Ne kadar kalıcı bir çözüm arıyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139877",
+   "en": "Maybe you're overreacting.",
+   "tr": "Belki abartıyorsunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139878",
+   "en": "Okay.",
+   "tr": "Tamam."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139881",
+   "en": "Major Kyle",
+   "tr": "Binbaşı Kyle"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139882",
+   "en": "Kyle's Followers",
+   "tr": "Kyle'ın takipçileri"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139883",
+   "en": "Missing Alliance Officers",
+   "tr": "Kayıp İttifak subayları"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139884",
+   "en": "I'll look into this.",
+   "tr": "Bunu araştıracağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139885",
+   "en": "Maybe I can reason with him.",
+   "tr": "Belki onunla konuşup ikna edebilirim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp119_transmission_D|139886",
+   "en": "You want me to kill him?",
+   "tr": "Onu öldürmemi mi istiyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141443",
+   "en": "I've received some information I thought you'd want to see, Commander.",
+   "tr": "Görmek isteyeceğinizi düşündüğüm bazı bilgiler aldım, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141444",
+   "en": "I've received some troubling information, Commander. We need your help.",
+   "tr": "Rahatsız edici bazı bilgiler aldım, Komutan. Yardımınıza ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141445",
+   "en": "Someone is killing former Alliance scientists. There have been four deaths in the past month.",
+   "tr": "Biri eski İttifak bilim insanlarını öldürüyor. Geçen ay dört ölüm oldu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141446",
+   "en": "We found a connection between the scientists... and you.",
+   "tr": "Bilim insanları ile sizin aranızda bir bağlantı bulduk."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141447",
+   "en": "They all worked on a classified project several years ago. On Akuze.",
+   "tr": "Hepsi birkaç yıl önce Akuze'de gizli bir projede çalışmıştı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141448",
+   "en": "I can't get any information on what they were working on. The project records are sealed.",
+   "tr": "Üzerinde çalıştıkları şey hakkında bilgi alamıyorum. Proje kayıtları mühürlü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141449",
+   "en": "Those thresher maws killed dozens of soldiers. If this was more than just an accident, we need to know.",
+   "tr": "O thresher maw'lar düzinelerce askeri öldürdü. Bu bir kazadan fazlasıysa bilmemiz gerek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141450",
+   "en": "Commander... Shepard. What you do with this is up to you. I just thought you'd want to know.",
+   "tr": "Komutan... Shepard. Bununla ne yapacağınız size kalmış. Sadece bilmek isteyeceğinizi düşündüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141451",
+   "en": "All four scientists worked on a classified project on Akuze. ",
+   "tr": "Dört bilim insanı da Akuze'de gizli bir projede çalıştı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141452",
+   "en": "There was a brutal massacre there years ago. An entire unit was killed by thresher maws.",
+   "tr": "Orada yıllar önce acımasız bir katliam yaşandı. Bütün bir birlik thresher maw'lar tarafından öldürüldü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141453",
+   "en": "It was classified as a natural hazard, but the project dates coincide with the attacks.",
+   "tr": "Doğal bir tehlike olarak sınıflandırıldı ama proje tarihleri saldırılarla örtüşüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141454",
+   "en": "I'm not certain what I think. But it's worth investigating.",
+   "tr": "Ne düşündüğümden emin değilim. Ama araştırmaya değer."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141455",
+   "en": "There was one other scientist on the project: Dr. Wayne. I'm transmitting his last known coordinates. Good luck. Fifth Fleet out.",
+   "tr": "Projede bir bilim insanı daha vardı: Dr. Wayne. Son bilinen koordinatlarını iletiyorum. İyi şanslar. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141456",
+   "en": "Understood, Commander. Sorry to trouble you. Fifth Fleet out.",
+   "tr": "Anlaşıldı, Komutan. Rahatsız ettiğim için üzgünüm. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141459",
+   "en": "Former scientists? Sounds like someone has a project they'd like to keep secret.",
+   "tr": "Eski bilim insanları mı? Birinin gizli tutmak istediği bir projesi var gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141460",
+   "en": "I'm happy to look into it, Admiral. What can you tell me?",
+   "tr": "Araştırmaktan memnuniyet duyarım, Amiral. Bana ne söyleyebilirsiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141462",
+   "en": "Akuze... I lost my whole unit there. You're saying that our scientists were involved?",
+   "tr": "Akuze... Orada tüm birliğimi kaybettim. Bilim insanlarımızın dahil olduğunu mu söylüyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141464",
+   "en": "This can't have anything to do with what happened to me on Akuze.",
+   "tr": "Bunun Akuze'de başıma gelenlerle bir ilgisi olamaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141469",
+   "en": "You think these scientists had something to do with the attack?",
+   "tr": "Bu bilim insanlarının saldırıyla bir ilgisi olduğunu mu düşünüyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141471",
+   "en": "That can't be a coincidence.",
+   "tr": "Bu tesadüf olamaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141472",
+   "en": "I've got higher priorities than retired scientists, Admiral. Find someone else.",
+   "tr": "Emekli bilim insanlarından daha öncelikli işlerim var, Amiral. Başka birini bulun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141475",
+   "en": "Sounds like a cover up.",
+   "tr": "Örtbas gibi geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141476",
+   "en": "What did they work on?",
+   "tr": "Ne üzerinde çalıştılar?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141477",
+   "en": "How can I help?",
+   "tr": "Nasıl yardım edebilirim?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141479",
+   "en": "Those bastards.",
+   "tr": "O piçler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141480",
+   "en": "The site of the massacre.",
+   "tr": "Katliamın yaşandığı yer."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141481",
+   "en": "It must be a coincidence.",
+   "tr": "Tesadüf olmalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141487",
+   "en": "They were involved.",
+   "tr": "Dahil olmuşlardı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141488",
+   "en": "That sounds suspicious.",
+   "tr": "Bu şüpheli geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141489",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141768",
+   "en": "I reviewed your report of the situation, Commander.",
+   "tr": "Durumla ilgili raporunuzu inceledim, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141771",
+   "en": "You did well to save the doctor. I suppose we'll never know what set Toombs off.",
+   "tr": "Doktoru kurtarmakla iyi ettiniz. Sanırım Toombs'u neyin tetiklediğini asla bilemeyeceğiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141772",
+   "en": "It's unfortunate both the doctor and Toombs died, but I know you did your best under the circumstances.",
+   "tr": "Hem doktorun hem Toombs'un ölmesi talihsiz ama koşullar altında elinizden geleni yaptığınızı biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141773",
+   "en": "It's unfortunate Dr. Wayne ended up dead. But based on your report, your actions were understandable.",
+   "tr": "Dr. Wayne'in ölmesi talihsiz. Ama raporunuza göre eylemleriniz anlaşılabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141775",
+   "en": "I'm glad you were able to take Dr. Wayne in alive. Now we can put him on trial and get some answers.",
+   "tr": "Dr. Wayne'i sağ yakalayabilmenize sevindim. Şimdi onu yargılayıp bazı cevaplar alabiliriz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141776",
+   "en": "I just wish we could have saved Corporal Toombs, too.",
+   "tr": "Keşke Onbaşı Toombs'u da kurtarabilseydik."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141777",
+   "en": "Corporal Toombs seems to have found some closure. Hopefully, with therapy, he'll have a normal life again someday.",
+   "tr": "Onbaşı Toombs bir miktar huzur bulmuş görünüyor. Umarım tedaviyle bir gün yine normal bir hayata kavuşur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141778",
+   "en": "I hope this helped you find some peace, Commander. Thank you. Fifth Fleet out.",
+   "tr": "Umarım bu, biraz huzur bulmanıza yardımcı olmuştur, Komutan. Teşekkürler. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp120_transmission_D|141779",
+   "en": "Thank you again for your assistance, Commander. Fifth Fleet out.",
+   "tr": "Yardımınız için tekrar teşekkürler, Komutan. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141990",
+   "en": "Commander, incoming signal from Fifth Fleet HQ on the Citadel.",
+   "tr": "Komutan, Citadel'deki Beşinci Filo Karargâhı'ndan sinyal geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141991",
+   "en": "Commander Shepard. Something uncomfortable has just come up.",
+   "tr": "Komutan Shepard. Rahatsız edici bir şey çıktı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141992",
+   "en": "In the First Contact War, we fired a lot of espionage probes into turian space. We've just received a \"mission complete\" burst from one of them.",
+   "tr": "Birinci Temas Savaşı'nda turian uzayına çok sayıda casusluk sondası fırlattık. Az önce bunlardan birinden \"görev tamamlandı\" sinyali aldık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141993",
+   "en": "No idea. Lost in transit. These probes were built in a hurry after first contact.",
+   "tr": "Hiçbir fikrim yok. Yolda kaybolmuş. Bu sondalar birinci temastan sonra aceleyle yapılmıştı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141994",
+   "en": "When these probes were launched, we didn't have any idea who we were fighting. We didn't want to risk aliens examining our technology.",
+   "tr": "Bu sondalar fırlatıldığında kiminle savaştığımız hakkında hiçbir fikrimiz yoktu. Uzaylıların teknolojimizi incelemesini göze alamazdık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141995",
+   "en": "The probe has a demo nuke built in. A 20-kiloton tactical fusion warhead. About equal to the bomb dropped on Hiroshima back in the 20th.",
+   "tr": "Sondanın içinde yerleşik bir gösteri bombası var. 20 kilotonluk taktik füzyon savaş başlığı. 20. yüzyılda Hiroşima'ya atılan bombaya yakın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141996",
+   "en": "If somebody finds that probe, tampers with it-- you don't need me to finish, Commander.",
+   "tr": "Biri o sondayı bulup kurcalarsa... gerisini benden duymanıza gerek yok, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141997",
+   "en": "I know. I wouldn't ask if it wasn't important. These probes have been classified for 26 years.",
+   "tr": "Biliyorum. Önemli olmasa istemezdim. Bu sondalar 26 yıldır gizli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141998",
+   "en": "The Council would call fusion-bomb booby traps \"dangerous and irresponsible.\" The Alliance would face censure if they find this probe.",
+   "tr": "Konsey füzyon bombalı tuzakları \"tehlikeli ve sorumsuz\" diye nitelerdi. Bu sondayı bulurlarsa İttifak kınanır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|141999",
+   "en": "I'm asking you because the Normandy can get on-site quickly and quietly. It's in the Voyager Cluster.",
+   "tr": "Sizden istememin nedeni, Normandy'nin olay yerine hızlı ve sessiz ulaşabilmesi. Voyager Kümesi'nde."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142000",
+   "en": "I don't know. It's possible someone recovered it safely and brought it there.",
+   "tr": "Bilmiyorum. Birinin onu güvenle geri alıp oraya getirmiş olması mümkün."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142001",
+   "en": "It's also possible it got very badly lost. It could have been wandering the relay network since the war.",
+   "tr": "Çok kötü kaybolmuş da olabilir. Savaştan beri röle ağında dolaşıyor olabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142002",
+   "en": "All right. I'll see if I can find someone else to handle this.",
+   "tr": "Pekâlâ. Bunu halledecek başka birini bulmaya çalışırım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142003",
+   "en": "I appreciate that, Commander. Good luck.",
+   "tr": "Bunu takdir ediyorum, Komutan. İyi şanslar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142004",
+   "en": "Fifth Fleet out.",
+   "tr": "Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142007",
+   "en": "What makes this \"uncomfortable?\"",
+   "tr": "Bunu \"rahatsız edici\" yapan ne?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142008",
+   "en": "Where's it been in the meantime?",
+   "tr": "Bu arada nerelerdeydi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142009",
+   "en": "And this is a problem... why?",
+   "tr": "Ve bu neden sorun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142010",
+   "en": "The war's over. What difference does it make?",
+   "tr": "Savaş bitti. Ne fark eder?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142013",
+   "en": "I understand this must be handled. But I don't have anyone trained to deal with this sort of thing, sir.",
+   "tr": "Bunun halledilmesi gerektiğini anlıyorum. Ama böyle şeylerle uğraşmak üzere eğitilmiş kimsem yok, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142014",
+   "en": "Just because I saved Eden Prime doesn't make me an expert on nuclear munitions.",
+   "tr": "Eden Prime'ı kurtarmam beni nükleer mühimmat uzmanı yapmaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142015",
+   "en": "Shouldn't a bomb disposal unit be sent for this? We don't have anyone trained in that.",
+   "tr": "Bunun için bir bomba imha ekibi gönderilmesi gerekmez mi? Bizde bunun eğitimini almış kimse yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142018",
+   "en": "It's in the Voyager Cluster? That's the opposite side of the Alliance from turian space. How did it get there?",
+   "tr": "Voyager Kümesi'nde mi? Orası İttifak'ın turian uzayının tam karşı tarafında. Oraya nasıl gitmiş?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142020",
+   "en": "By the time we finish our current objectives, you could have someone else on-site.",
+   "tr": "Mevcut hedeflerimizi bitirdiğimizde orada başka birini bulabilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142022",
+   "en": "We'll get on it immediately, Admiral. And we'll be discreet.",
+   "tr": "Hemen üzerine gideceğiz, Amiral. Ve ketum davranacağız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142029",
+   "en": "Straightforward enough.",
+   "tr": "Yeterince açık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142030",
+   "en": "That's quite a delay.",
+   "tr": "Hayli gecikme olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142031",
+   "en": "So what?",
+   "tr": "Ee, ne olmuş?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142032",
+   "en": "It shouldn't matter.",
+   "tr": "Önemi olmamalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142035",
+   "en": "That's serious all right.",
+   "tr": "Gerçekten ciddi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142036",
+   "en": "Why me?",
+   "tr": "Neden ben?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142037",
+   "en": "Get a bomb disposal team.",
+   "tr": "Bir bomba imha ekibi bulun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142040",
+   "en": "We'll handle it.",
+   "tr": "Biz hallederiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142041",
+   "en": "It shouldn't be over there.",
+   "tr": "Orada olmamalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142042",
+   "en": "We're busy.",
+   "tr": "Meşgulüz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142043",
+   "en": "Where is it?",
+   "tr": "Nerede?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp121_hackett_D|142045",
+   "en": "We'll handle it.",
+   "tr": "Biz hallederiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp122_distress_D|150479",
+   "en": "Commander - I'm picking up a signal from the planet's surface. Looks like an automated distress beacon.",
+   "tr": "Komutan, gezegenin yüzeyinden bir sinyal alıyorum. Otomatik imdat işareti gibi görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138491",
+   "en": "Message for you, Commander. Just came in over a secure channel.",
+   "tr": "Size mesaj var, Komutan. Güvenli kanaldan geldi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138492",
+   "en": "Shepard, this is Admiral Kahoku. I found out who set that trap for my men. The ones killed by the thresher maw.",
+   "tr": "Shepard, ben Amiral Kahoku. Adamlarım için o tuzağı kimin kurduğunu buldum. Thresher maw tarafından öldürülenler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138493",
+   "en": "Damn, I hope you get this message. ",
+   "tr": "Kahretsin, umarım bu mesajı alırsın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138494",
+   "en": "It was a group called Cerberus. An Alliance black ops organization. Top secret, highest-level security clearance.",
+   "tr": "Cerberus denen bir grup. Bir İttifak kara operasyon örgütü. Çok gizli, en üst düzey güvenlik yetkisi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138495",
+   "en": "They vanished a few months ago. Dropped right off the grid. Nobody knew where they went or what they were up to.",
+   "tr": "Birkaç ay önce ortadan kayboldular. Kayıtlardan tamamen silindiler. Kimse nereye gittiklerini ya da ne yaptıklarını bilmiyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138496",
+   "en": "They've gone completely rogue, Shepard. They're conducting illegal genetic experiments, trying to create some kind of super soldier.",
+   "tr": "Tamamen başıboş kaldılar, Shepard. Yasadışı genetik deneyler yapıp bir tür süper asker yaratmaya çalışıyorlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138497",
+   "en": "I don't have any proof, but I found the coordinates for one of their research worlds. I'm uploading them with this message.",
+   "tr": "Kanıtım yok ama araştırma dünyalarından birinin koordinatlarını buldum. Onları bu mesajla birlikte yüklüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138498",
+   "en": "They're completely out of control. Somebody needs to stop them. I've done my part. Now, it's up to you.",
+   "tr": "Tamamen kontrolden çıktılar. Birinin onları durdurması gerek. Ben üzerime düşeni yaptım. Şimdi sıra sende."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp123_kahoku_D|138499",
+   "en": "This is... this is probably the last you'll hear from me. Cerberus is after me now. I need to disappear before they find me.",
+   "tr": "Bu... bu muhtemelen benden son haberin. Cerberus şimdi peşimde. Beni bulmadan ortadan kaybolmalıyım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138692",
+   "en": "Transmission coming in, Commander. I think you're going to want to hear this one.",
+   "tr": "İletim geliyor, Komutan. Bunu duymak isteyeceğinizi düşünüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138693",
+   "en": "Greetings, Commander Shepard. I represent a party interested in obtaining information on Cerberus activities.",
+   "tr": "Selamlar, Komutan Shepard. Cerberus faaliyetleri hakkında bilgi edinmekle ilgilenen bir tarafı temsil ediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138694",
+   "en": "Who I am is inconsequential. Suffice to say, I am an agent for the Shadow Broker.",
+   "tr": "Kim olduğum önemsiz. Shadow Broker'ın ajanı olduğumu söylemek yeter."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138695",
+   "en": "I suspect I know less about Cerberus than you do. I am merely an agent for the Shadow Broker.",
+   "tr": "Cerberus hakkında sizden daha az şey bildiğimi sanıyorum. Ben yalnızca Shadow Broker'ın ajanıyım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138696",
+   "en": "You see, Admiral Kahoku contacted my employer looking for information on the location of any Cerberus facilities.",
+   "tr": "Görüyorsunuz, Amiral Kahoku işverenimle iletişime geçip herhangi bir Cerberus tesisinin yerine dair bilgi aradı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138697",
+   "en": "We provided that information on the promise that he would turn over copies of all files gathered from the Cerberus systems to us.",
+   "tr": "Cerberus sistemlerinden toplanan tüm dosyaların kopyalarını bize vereceği sözüne karşılık o bilgiyi sağladık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138698",
+   "en": "Information is our business, Commander. Through our contacts, we were able to determine that the Cerberus group was active in the Voyager cluster.",
+   "tr": "Bilgi bizim işimiz, Komutan. Bağlantılarımız aracılığıyla Cerberus grubunun Voyager Kümesi'nde etkin olduğunu belirleyebildik."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138699",
+   "en": "Unfortunately, that was all we were able to find out. That is why we are so interested in acquiring copies of the files from you.",
+   "tr": "Ne yazık ki öğrenebildiğimiz tek şey buydu. Bu yüzden dosyaların kopyalarını sizden almaya bu kadar istekliyiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138700",
+   "en": "We had no reason to harm him. He was going to provide us with information about Cerberus. Information that is now in your possession.",
+   "tr": "Ona zarar vermek için bir nedenimiz yoktu. Bize Cerberus hakkında bilgi verecekti. Şimdi sizin elinizde olan bilgi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138701",
+   "en": "Be reasonable, Commander. Cerberus was operating outside Alliance jurisdiction. You don't owe them any loyalty.",
+   "tr": "Makul olun, Komutan. Cerberus İttifak yetki alanının dışında faaliyet gösteriyordu. Onlara sadakat borcunuz yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138702",
+   "en": "The Alliance is just going to file this information away in some archive. But no secret stays hidden forever. Eventually, someone somewhere will deliver it into our hands.",
+   "tr": "İttifak bu bilgiyi bir arşive kaldıracak. Ama hiçbir sır sonsuza dek saklı kalmaz. Eninde sonunda biri bunu bize ulaştıracak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138703",
+   "en": "It might as well be you. Transmit the files to us and you will be well compensated.",
+   "tr": "O kişi siz de olabilirsiniz. Dosyaları bize iletirseniz iyi ödüllendirilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138704",
+   "en": "Information is a commodity. It can be bought, sold, or traded. Why my employer desires this information is not my concern. I am only the buyer.",
+   "tr": "Bilgi bir metadır. Alınır, satılır, takas edilir. İşverenimin bu bilgiyi neden istediği benim sorunum değil. Ben yalnızca alıcıyım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138705",
+   "en": "That is unfortunate, Commander. My employer will remember this the next time you need something from us.",
+   "tr": "Ne yazık, Komutan. İşverenim bir dahaki sefere bizden bir şey istediğinizde bunu hatırlayacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138706",
+   "en": "I knew you were a reasonable woman, Commander. My employer will remember this the next time you need something from us.",
+   "tr": "Makul bir kadın olduğunuzu biliyordum, Komutan. İşverenim bir dahaki sefere bizden bir şey istediğinizde bunu hatırlayacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138707",
+   "en": "I knew you were a reasonable man, Commander. My employer will remember this the next time you need something from us.",
+   "tr": "Makul bir adam olduğunuzu biliyordum, Komutan. İşverenim bir dahaki sefere bizden bir şey istediğinizde bunu hatırlayacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138709",
+   "en": "Who are you? And who do you represent?",
+   "tr": "Kimsiniz? Ve kimi temsil ediyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138711",
+   "en": "If you know something about Cerberus, you'd better tell me.",
+   "tr": "Cerberus hakkında bir şey biliyorsan söylesen iyi olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138714",
+   "en": "You must have some connection to Cerberus. How else could you tell Kahoku where to find them?",
+   "tr": "Cerberus'la bir bağlantınız olmalı. Yoksa Kahoku'ya onları nerede bulacağını nasıl söylerdiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138716",
+   "en": "Did you have anything to do with Admiral Kahoku ending up dead?",
+   "tr": "Amiral Kahoku'nun ölmesiyle bir ilginiz var mıydı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138717",
+   "en": "These are classified Alliance files. I'm not handing them over to you.",
+   "tr": "Bunlar gizli İttifak dosyaları. Onları size vermeyeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138719",
+   "en": "Your deal died with Kahoku. Why should I help you?",
+   "tr": "Anlaşmanız Kahoku'yla birlikte öldü. Neden size yardım edeyim?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138721",
+   "en": "What are you going to do with this information?",
+   "tr": "Bu bilgiyle ne yapacaksınız?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138722",
+   "en": "My loyalty is to the Alliance, not the Shadow Broker.",
+   "tr": "Benim sadakatim İttifak'a, Shadow Broker'a değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138723",
+   "en": "I'll transmit the files.",
+   "tr": "Dosyaları ileteceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138725",
+   "en": "What's your name?",
+   "tr": "Adınız ne?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138726",
+   "en": "What do you want?",
+   "tr": "Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138727",
+   "en": "Cut to the chase.",
+   "tr": "Lafı dolandırmayın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138731",
+   "en": "Facility location",
+   "tr": "Tesisin konumu"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138732",
+   "en": "Kahoku's death",
+   "tr": "Kahoku'nun ölümü"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138733",
+   "en": "That's treason!",
+   "tr": "Bu vatana ihanet!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138734",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138735",
+   "en": "What's in it for me?",
+   "tr": "Bundan bana ne?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138737",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138738",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138741",
+   "en": "Why do you want the files?",
+   "tr": "Dosyaları neden istiyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138742",
+   "en": "I don't trust you.",
+   "tr": "Size güvenmiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138743",
+   "en": "No deal.",
+   "tr": "Anlaşma yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138744",
+   "en": "Sounds good.",
+   "tr": "Kulağa iyi geliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp124_shadow_broker_D|138745",
+   "en": "No deal.",
+   "tr": "Anlaşma yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139457",
+   "en": "Commander, I'm glad you were in the area. ",
+   "tr": "Komutan, bölgede olmanıza sevindim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139458",
+   "en": "We've got an emergency situation, and you're the only one I trust to get the job done.",
+   "tr": "Acil bir durumumuz var ve işi halledeceğine güvendiğim tek kişi sizsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139460",
+   "en": "How can I help, Admiral?",
+   "tr": "Nasıl yardımcı olabilirim, Amiral?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139461",
+   "en": "I'm sorry, Admiral. I've got too much going on right now to help.",
+   "tr": "Üzgünüm, Amiral. Şu an yardım edemeyecek kadar çok işim var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139463",
+   "en": "What's going on?",
+   "tr": "Neler oluyor?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139464",
+   "en": "I'm in.",
+   "tr": "Varım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139465",
+   "en": "I can't.",
+   "tr": "Yapamam."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139725",
+   "en": "I didn't think it could be done, Commander. ",
+   "tr": "Bunun yapılabileceğini düşünmemiştim, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139726",
+   "en": "You managed to secure the base and neutralize the biotics without a single civilian casualty.",
+   "tr": "Üssü ele geçirip biyotikleri tek bir sivil kaybı olmadan etkisiz hâle getirmeyi başardınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139727",
+   "en": "I wish every soldier had your definition of \"just doing your job\".",
+   "tr": "Keşke her askerin \"sadece işimi yapıyorum\" tanımı sizinki gibi olsa."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139728",
+   "en": "They certainly will.",
+   "tr": "Elbette yapacaklar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139729",
+   "en": "You're a credit to the uniform, Shepard. We're in your debt. Fifth Fleet out.",
+   "tr": "Üniformaya şeref veriyorsunuz, Shepard. Size borçluyuz. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139730",
+   "en": "Good work, Commander. You took down the biotics with minimal collateral damage.",
+   "tr": "İyi iş, Komutan. Biyotikleri asgari yan hasarla indirdiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139731",
+   "en": "The biotics had every advantage, including human shields.",
+   "tr": "Biyotiklerin canlı kalkanlar dahil her avantajı vardı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139732",
+   "en": "You lost a handful of civilians. Any other unit I sent in would have lost dozens of innocent lives.",
+   "tr": "Bir avuç sivil kaybettiniz. Gönderdiğim başka herhangi bir birim onlarca masum hayat kaybederdi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139733",
+   "en": "Nobody could have gotten out of there with fewer innocent lives lost.",
+   "tr": "Hiç kimse oradan daha az masum kayıpla çıkamazdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139734",
+   "en": "You saved a lot of lives today, Commander. Fifth Fleet out.",
+   "tr": "Bugün pek çok hayat kurtardınız, Komutan. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139735",
+   "en": "What the hell happened out there, Commander? I brought you in to avoid a bloodbath!",
+   "tr": "Orada ne oldu, Komutan? Kan gölünden kaçınmak için sizi getirmiştim!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139736",
+   "en": "You've been in tighter spots than that. There's always a choice.",
+   "tr": "Bundan daha dar yerlerde de bulundunuz. Her zaman bir seçenek vardır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139737",
+   "en": "You're not being charged with anything. Neutralizing the biotics was the top priority.",
+   "tr": "Hakkınızda herhangi bir suçlama yok. Biyotikleri etkisiz hâle getirmek birinci önceliğimizdi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139738",
+   "en": "I had hoped for fewer casualties, but on paper, this mission is still a success.",
+   "tr": "Daha az kayıp umuyordum ama kâğıt üzerinde bu görev hâlâ başarılı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139739",
+   "en": "Your assistance in this matter is noted, Commander. Fifth Fleet out.",
+   "tr": "Bu konudaki yardımınız not edildi, Komutan. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139740",
+   "en": "Damn it! I'm not asking you because it's convenient! Nobody else can get this done.",
+   "tr": "Kahretsin! Size kolay geldiği için sormuyorum! Bunu başka kimse halledemez."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139741",
+   "en": "I can't order you, but I'm asking you to reconsider. If you don't help, hundreds of innocent people are going to die.",
+   "tr": "Size emir veremem ama yeniden düşünmenizi rica ediyorum. Yardım etmezseniz yüzlerce masum insan ölecek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139742",
+   "en": "Thank you, Commander. I appreciate it.",
+   "tr": "Teşekkürler, Komutan. Minnettarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139743",
+   "en": "Biotic fanatics have hit a medical research station with a psychotropic drug. ",
+   "tr": "Biyotik fanatikler bir tıbbi araştırma istasyonuna psikotrop bir ilaçla saldırdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139744",
+   "en": "The drugs have temporarily driven researchers crazy, and the biotics are effectively using them as human shields.",
+   "tr": "İlaçlar araştırmacıları geçici olarak delirtti ve biyotikler onları fiilen canlı kalkan olarak kullanıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139745",
+   "en": "Exactly. A normal team could handle the biotics, but a lot of innocent researchers would die during the operation.",
+   "tr": "Aynen öyle. Normal bir ekip biyotiklerle başa çıkabilir ama operasyon sırasında pek çok masum araştırmacı ölür."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139746",
+   "en": "That's why I contacted you. I'm hoping that you can keep the casualties to a minimum.",
+   "tr": "Bu yüzden sizinle iletişime geçtim. Kayıpları asgari düzeyde tutabileceğinizi umuyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139747",
+   "en": "I know you will, Commander. I'm sending you the station coordinates now. Fifth Fleet out.",
+   "tr": "Edeceğinizi biliyorum, Komutan. İstasyon koordinatlarını şimdi gönderiyorum. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139748",
+   "en": "Understood, Commander. Fifth Fleet out.",
+   "tr": "Anlaşıldı, Komutan. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139751",
+   "en": "Just doing my job, Admiral. I couldn't let innocent lives be lost.",
+   "tr": "Sadece işimi yaptım, Amiral. Masum hayatların kaybedilmesine izin veremezdim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139753",
+   "en": "Any biotic extremists will think twice before trying something like that again.",
+   "tr": "Biyotik aşırılıkçılar böyle bir şeyi tekrar denemeden önce iki kez düşünecek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139755",
+   "en": "I killed innocent people today, Admiral. The biotics set it up, but I pulled the trigger.",
+   "tr": "Bugün masum insanları öldürdüm, Amiral. Kurguyu biyotikler yaptı ama tetiği ben çektim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139758",
+   "en": "I'm sorry we lost some of the researchers, Admiral. The biotics knew what they were doing.",
+   "tr": "Araştırmacılardan bazılarını kaybettiğimiz için üzgünüm, Amiral. Biyotikler ne yaptıklarını biliyordu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139760",
+   "en": "The biotics had the researchers in strategic points, Admiral. I had no choice.",
+   "tr": "Biyotikler araştırmacıları stratejik noktalara yerleştirmişti, Amiral. Seçeneğim yoktu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139762",
+   "en": "I did what I could, but it wasn't enough. I take full responsibility, Admiral.",
+   "tr": "Elimden geleni yaptım ama yetmedi. Tüm sorumluluğu üstleniyorum, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139766",
+   "en": "If it's that important, I can find the time. What have you got?",
+   "tr": "O kadar önemliyse zaman bulabilirim. Elinizde ne var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139769",
+   "en": "So if I shoot everything that moves, a lot of researchers are going to die.",
+   "tr": "Yani hareket eden her şeyi vurursam pek çok araştırmacı ölecek."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139771",
+   "en": "I'll take the biotics down, Admiral, and I'll try to limit the casualties.",
+   "tr": "Biyotikleri indireceğim, Amiral, ve kayıpları sınırlamaya çalışacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139772",
+   "en": "I'll do everything within my power to bring those researchers back safely, Admiral.",
+   "tr": "O araştırmacıları sağ salim geri getirmek için elimden geleni yapacağım, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139773",
+   "en": "And if I take time to help you, millions could die. I'm sorry.",
+   "tr": "Ve size yardım etmek için zaman harcarsam milyonlarca kişi ölebilir. Üzgünüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139776",
+   "en": "Glad I could help.",
+   "tr": "Yardım edebildiğime sevindim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139777",
+   "en": "It wasn't a problem.",
+   "tr": "Sorun değildi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139778",
+   "en": "I did what I had to.",
+   "tr": "Yapmam gerekeni yaptım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139781",
+   "en": "The biotics made it hard.",
+   "tr": "Biyotikler işi zorlaştırdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139782",
+   "en": "It was my fault.",
+   "tr": "Benim hatamdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139783",
+   "en": "I did what I could.",
+   "tr": "Elimden geleni yaptım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139787",
+   "en": "I had no choice.",
+   "tr": "Başka seçeneğim yoktu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139788",
+   "en": "It wasn't my fault.",
+   "tr": "Benim hatam değildi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139789",
+   "en": "I failed.",
+   "tr": "Başarısız oldum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139794",
+   "en": "I'll help.",
+   "tr": "Yardım edeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139795",
+   "en": "I'm listening.",
+   "tr": "Dinliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139796",
+   "en": "That's not my problem.",
+   "tr": "Bu benim sorunum değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139799",
+   "en": "I can't just run in.",
+   "tr": "Öylece dalamam."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139800",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139801",
+   "en": "Understood.",
+   "tr": "Anlaşıldı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139802",
+   "en": "You can count on me.",
+   "tr": "Bana güvenebilirsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp125_transmission_D|139804",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142222",
+   "en": "Commander, the fact that you successfully negotiated this treaty was... impressive.",
+   "tr": "Komutan, bu antlaşmayı başarıyla müzakere etmeniz... etkileyiciydi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142223",
+   "en": "I must say that given your earlier actions, I had expected a different outcome, but the Alliance will honor the treaty.",
+   "tr": "Önceki eylemlerinizi düşününce farklı bir sonuç bekliyordum diyebilirim, ama İttifak antlaşmaya sadık kalacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142224",
+   "en": "I'm sorry that you were unable to negotiate with Darius peacefully. His death is regrettable.",
+   "tr": "Darius'la barışçıl biçimde müzakere edemediğiniz için üzgünüm. Ölümü üzücü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142225",
+   "en": "Nevertheless, the resulting chaos will create a power vacuum that makes future raids upon our miners unlikely.",
+   "tr": "Yine de ortaya çıkan kaos, madencilerimize yönelik gelecekteki baskınları olasılık dışı bırakan bir güç boşluğu yaratacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142226",
+   "en": "Sometimes extreme measures must be taken to ensure humanity's safety.",
+   "tr": "Bazen insanlığın güvenliğini sağlamak için uç önlemler alınmalı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142227",
+   "en": "Or did you think you were the only one willing to break the rules to get the job done?",
+   "tr": "Yoksa kuralları çiğneyip işi bitirmeye hazır tek kişinin siz olduğunu mu sandınız?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142228",
+   "en": "The Alliance does not condone assassination. We would never give that order.",
+   "tr": "İttifak suikastı onaylamaz. Asla böyle bir emir vermeyiz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142229",
+   "en": "And as it turned out, that peaceful negotiation was possible after all. This is a moot point.",
+   "tr": "Ve görünüşe göre barışçıl müzakere mümkünmüş. Bu konu artık tartışmalı değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142230",
+   "en": "Killing Darius was your decision alone. And because you are a Spectre, we could not reprimand you if we wanted to.",
+   "tr": "Darius'u öldürmek yalnızca sizin kararınızdı. Ve Spectre olduğunuz için istesek de sizi azarlayamayız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142231",
+   "en": "Thank you for your assistance in this matter, Commander. Fifth Fleet out.",
+   "tr": "Bu konudaki yardımınız için teşekkür ederim, Komutan. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142232",
+   "en": "I have a difficult assignment, Commander. You're the only one I trust to get it done.",
+   "tr": "Zor bir görevim var, Komutan. Bunu halledeceğine güvendiğim tek kişi sizsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142233",
+   "en": "There's a criminal leader named Darius in the Skyllian Verge who controls most of the raider activity.",
+   "tr": "Skyllian Verge'de haydut faaliyetlerinin çoğunu kontrol eden Darius adında bir suç lideri var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142234",
+   "en": "I'd like you to negotiate a cease-fire with him.",
+   "tr": "Onunla bir ateşkes müzakere etmenizi istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142235",
+   "en": "Darius won't respect an Alliance negotiator. He built his empire by killing his rivals. ",
+   "tr": "Darius bir İttifak müzakerecisine saygı duymaz. İmparatorluğunu rakiplerini öldürerek kurdu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142236",
+   "en": "That's exactly why I chose you, Commander. Darius is a warrior. He won't take an Alliance negotiator seriously. ",
+   "tr": "Tam da bu yüzden sizi seçtim, Komutan. Darius bir savaşçı. İttifak müzakerecisini ciddiye almaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142237",
+   "en": "But with your very public achievements, you present a strong image that Darius has to respect.",
+   "tr": "Ama çok açık başarılarınızla Darius'un saygı duymak zorunda olduğu güçlü bir imaj sunuyorsunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142238",
+   "en": "Show him that the Alliance won't back down. Show him he'd do better to make peace while he can.",
+   "tr": "Ona İttifak'ın geri adım atmayacağını gösterin. Elindeyken barış yapmanın daha iyi olacağını gösterin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142239",
+   "en": "Excellent, Commander. I appreciate your help. ",
+   "tr": "Mükemmel, Komutan. Yardımınızı takdir ediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142240",
+   "en": "You're not under my command, but we need you for this job. You're the only one who can get it done right.",
+   "tr": "Benim komutam altında değilsiniz ama bu iş için size ihtiyacımız var. Doğru yapabilecek tek kişi sizsiniz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142241",
+   "en": "The meeting will take place on on a remote barren planet. I'm transmitting the coordinates now. ",
+   "tr": "Toplantı ıssız, çorak bir gezegende yapılacak. Koordinatları şimdi gönderiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142242",
+   "en": "I'm also transmitting the background for this negotiation. Fifth Fleet out.",
+   "tr": "Müzakerenin arka planını da gönderiyorum. Beşinci Filo kapatıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142246",
+   "en": "You didn't think I'd negotiate with him. You wanted me to kill him?",
+   "tr": "Onunla müzakere edeceğimi düşünmedin. Onu benim öldürmemi mi istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142249",
+   "en": "You put Darius in power, but he was getting greedy. You wanted me to kill him.",
+   "tr": "Darius'u iktidara sen getirdin ama açgözlü olmaya başlamıştı. Onu öldürmemi istedin."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142255",
+   "en": "Wouldn't an Alliance negotiator be better suited for this assignment?",
+   "tr": "Bir İttifak müzakerecisi bu iş için daha uygun olmaz mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142257",
+   "en": "You're kidding. Admiral, I'm the last person who should be negotiating a cease-fire.",
+   "tr": "Şaka yapıyorsunuz. Amiral, ateşkes müzakere etmesi gereken son kişi benim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142260",
+   "en": "If you're certain it's a good idea, I'll do what I can.",
+   "tr": "İyi bir fikir olduğundan eminseniz elimden geleni yaparım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142262",
+   "en": "I still think that this is a mistake, Admiral.",
+   "tr": "Hâlâ bunun bir hata olduğunu düşünüyorum, Amiral."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142267",
+   "en": "This was a setup.",
+   "tr": "Bu bir tuzaktı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142269",
+   "en": "This was a setup.",
+   "tr": "Bu bir tuzaktı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142270",
+   "en": "Wait a minute.",
+   "tr": "Bir dakika."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142271",
+   "en": "Darius was your dirty secret.",
+   "tr": "Darius sizin kirli sırrınızdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142279",
+   "en": "Are you sure?",
+   "tr": "Emin misiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142280",
+   "en": "Why me?",
+   "tr": "Neden ben?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142281",
+   "en": "This is a bad joke.",
+   "tr": "Bu kötü bir şaka."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142285",
+   "en": "I'll try. ",
+   "tr": "Deneyeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142286",
+   "en": "If you're certain.",
+   "tr": "Eminsen."
+  },
+  {
+   "key": "BIOA_NOR10_03_DSG_LOC|sp126_transmission_D|142287",
+   "en": "This is a bad idea. ",
+   "tr": "Bu kötü bir fikir."
+  }
+ ]
+}

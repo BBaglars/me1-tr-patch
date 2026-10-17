@@ -1,0 +1,980 @@
+{
+ "meta": {
+  "package": "BIOA_ICE60_07A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE60_07A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 5
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81442",
+   "en": "[The scientist is resting peacefully.]",
+   "tr": "[Bilim insanı huzur içinde dinleniyor.]"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81444",
+   "en": "Mnngh.",
+   "tr": "Mnngh."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81445",
+   "en": "Unnngh.",
+   "tr": "Unnngh."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_1_D|81446",
+   "en": "Uh. Mnn.",
+   "tr": "Uh. Mnn."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81435",
+   "en": "[The scientist is resting peacefully.]",
+   "tr": "[Bilim insanı huzur içinde dinleniyor.]"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81437",
+   "en": "Unnngh.",
+   "tr": "Unnngh."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81438",
+   "en": "Uh. Mnn.",
+   "tr": "Uh. Mnn."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_ambient_sick_2_D|81439",
+   "en": "Mnngh.",
+   "tr": "Mnngh."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80212",
+   "en": "This system is online and ready to provide emergency services.",
+   "tr": "Bu sistem çevrimiçi ve acil durum hizmetleri sağlamaya hazır."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80213",
+   "en": "Accessing logs. They were in the midst of an experiment when the shutdown began.",
+   "tr": "Kayıtlara erişiliyor. Kapanma başladığında bir deneyin ortasındalardı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80214",
+   "en": "When you were taken offline.",
+   "tr": "Sen çevrimdışı bırakıldığında."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80216",
+   "en": "Without my program to administrate containment procedures, a quarantine breach occurred.",
+   "tr": "Programım izolasyon prosedürlerini yönetmeden bir karantina ihlali oldu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80217",
+   "en": "I'm afraid treatment is not possible. An unknown toxin is present within the tissues of each patient.",
+   "tr": "Korkarım tedavi mümkün değil. Her hastanın dokularında bilinmeyen bir toksin var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80219",
+   "en": "I administrate the systems of all of the various Peak 15 facilities.",
+   "tr": "Peak 15'in tüm tesislerinin sistemlerini yönetiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80220",
+   "en": "Our medic-- He's not with us any more. Mira's running the automatic systems for us.",
+   "tr": "Sağlıkçımız-- Artık bizimle değil. Mira bizim için otomatik sistemleri çalıştırıyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80222",
+   "en": "I form the core logic for Rift Station's automatic treatment system.",
+   "tr": "Rift Station'ın otomatik tedavi sisteminin çekirdek mantığını oluşturuyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80223",
+   "en": "Certainly, Commander. One moment, please.",
+   "tr": "Elbette Komutan. Bir dakika lütfen."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80224",
+   "en": "Very well, Commander. Logging you out.",
+   "tr": "Pekâlâ Komutan. Oturumunuz kapatılıyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80225",
+   "en": "What's wrong with these people?",
+   "tr": "Bu insanların nesi var?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80229",
+   "en": "What treatments have been attempted?",
+   "tr": "Hangi tedaviler denendi?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80231",
+   "en": "What are you doing over here?",
+   "tr": "Burada ne yapıyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80234",
+   "en": "Think you could run that equipment for us?",
+   "tr": "O ekipmanı bizim için çalıştırabilir misin?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80236",
+   "en": "We don't need anything right now.",
+   "tr": "Şu an bir şeye ihtiyacımız yok."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80238",
+   "en": "Sick scientists",
+   "tr": "Hasta bilim insanları"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80239",
+   "en": "A cure",
+   "tr": "Bir tedavi"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80242",
+   "en": "Mira?",
+   "tr": "Mira?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80243",
+   "en": "We need first aid.",
+   "tr": "İlk yardıma ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|80244",
+   "en": "Log out.",
+   "tr": "Oturumu kapat."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_medbot_D|99884",
+   "en": "They were exposed to a novel form of toxin. An antidote has been successfully administered. Prognosis is good.",
+   "tr": "Yeni bir toksin türüne maruz kaldılar. Bir panzehir başarıyla uygulandı. Prognoz iyi."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80953",
+   "en": "Of course. Here.",
+   "tr": "Elbette. Buyurun."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80955",
+   "en": "I need to administer this. Thanks again.",
+   "tr": "Bunu uygulamam gerek. Tekrar teşekkürler."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80956",
+   "en": "Yes?",
+   "tr": "Evet?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80957",
+   "en": "They're suffering from a toxin. There was an accident.",
+   "tr": "Bir toksinden muzdaripler. Bir kaza oldu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80958",
+   "en": "I-- I have a non-disclosure agreement. I shouldn't discuss it with anyone outside of the company.",
+   "tr": "Ben-- Gizlilik sözleşmem var. Şirket dışından kimseyle konuşmamam gerekir."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80959",
+   "en": "I'd like to think the company finds our lives more valuable than their secrets.",
+   "tr": "Şirketin hayatlarımızı sırlarından daha değerli bulduğunu düşünmek isterim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80960",
+   "en": "You know Mira? The VI for Peak 15? She handles the safety protocols for our experiments here.",
+   "tr": "Mira'yı tanıyor musun? Peak 15'in VI'ı? Buradaki deneylerimizin güvenlik protokollerini o yönetiyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80961",
+   "en": "That was you? I'm grateful. Until she came online, the automatic equipment wouldn't work.",
+   "tr": "O sendin demek? Minnettarım. Çevrimiçi olana kadar otomatik ekipman çalışmıyordu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80962",
+   "en": "All progress requires-- Look. Is this really the time for an ethics debate?",
+   "tr": "Her ilerleme gerektirir-- Bak. Şimdi etik tartışması zamanı mı gerçekten?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80963",
+   "en": "We lost the connection to Mira in the middle of an experiment, and the quarantine failed.",
+   "tr": "Bir deneyin ortasında Mira'yla bağlantıyı kaybettik ve karantina başarısız oldu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80964",
+   "en": "These three were exposed to a toxin. Something we were working on.",
+   "tr": "Bu üçü bir toksine maruz kaldı. Üzerinde çalıştığımız bir şey."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80965",
+   "en": "No! Wait.",
+   "tr": "Hayır! Bekle."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80966",
+   "en": "It's a bio-weapon. Based on an exotic life-form discovered on the frontier. They wanted something that could kill the creature.",
+   "tr": "Biyolojik silah. Sınırda keşfedilen egzotik bir yaşam formuna dayalı. O yaratığı öldürebilecek bir şey istediler."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80967",
+   "en": "But there was no profit in something that kills one species on the frontier. We kept working on it. Adapted it to affect more species.",
+   "tr": "Ama sınırdaki tek bir türü öldüren bir şeyde kâr yoktu. Üzerinde çalışmaya devam ettik. Daha fazla türü etkileyecek şekilde uyarladık."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80969",
+   "en": "Damn salarians. Just love to play with bugs.",
+   "tr": "Lanet salarian'lar. Böceklerle oynamayı çok severler."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80970",
+   "en": "Things like that never get out of control.",
+   "tr": "Böyle şeyler asla kontrolden çıkmaz."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80971",
+   "en": "Thoros-B is highly infectious, but can't pass from one person to another. Like a biowar attack without a pandemic spread.",
+   "tr": "Thoros-B çok bulaşıcıdır ama bir kişiden diğerine geçemez. Salgın yayılımı olmayan bir biyolojik savaş saldırısı gibi."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80972",
+   "en": "Militaries, governments -- they'll get this kind of weapon one way or another. We're trying to limit the damage. I know you can't see that.",
+   "tr": "Ordular, hükümetler bu tür silahı bir şekilde elde edecek. Hasarı sınırlamaya çalışıyoruz. Bunu göremeyeceğini biliyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80973",
+   "en": "I didn't expect you'd understand.",
+   "tr": "Anlayacağını beklemiyordum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80974",
+   "en": "Our first priority was getting it working. We were close to synthesizing an antidote when Mira went down.",
+   "tr": "İlk önceliğimiz çalıştırmaktı. Mira devre dışı kaldığında bir panzehir sentezlemeye yaklaşmıştık."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80975",
+   "en": "Our notes and equipment are locked in the quarantine labs. Captain Ventralis doesn't want to risk more contamination.",
+   "tr": "Notlarımız ve ekipmanımız karantina laboratuvarlarında kilitli. Kaptan Ventralis daha fazla bulaş riskine girmek istemiyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80976",
+   "en": "I suppose. It's not allowed, but there's nothing back there. If you can save these men, I'll do that for you.",
+   "tr": "Sanırım. İzin yok ama orada zaten bir şey yok. Bu adamları kurtarabilirsen bunu senin için yaparım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80977",
+   "en": "No! The toxin has a brief period of viability. After that it breaks down into simple protein chains. But he won't listen to me.",
+   "tr": "Hayır! Toksinin canlılığı kısa süreli. Sonra basit protein zincirlerine ayrışıyor. Ama beni dinlemiyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80978",
+   "en": "No, of course. You don't look like a biochemist. No offense.",
+   "tr": "Hayır, tabii. Biyokimyacıya benzemiyorsun. Alınma."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80979",
+   "en": "I can't ask you to do this officially. But if you can do anything, I'd appreciate it.",
+   "tr": "Senden bunu resmî olarak isteyemem. Ama yapabileceğin bir şey varsa minnettar olurum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80980",
+   "en": "I'm just trying to avoid an incident.",
+   "tr": "Sadece bir olay çıkmasını önlemeye çalışıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80981",
+   "en": "The quarantine labs are near the science team's quarters.",
+   "tr": "Karantina laboratuvarları bilim ekibinin kaldığı yerlerin yakınında."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80982",
+   "en": "Once you're in there, look for our notes. It should just be a matter of following our processes.",
+   "tr": "İçeri girince notlarımızı ara. Süreçlerimizi izlemek yeterli olmalı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80983",
+   "en": "You're not supposed to go back there. But I guess there's nothing to hurt. ",
+   "tr": "Oraya gitmemen gerekiyor. Ama sanırım zarar verecek bir şey yok."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80984",
+   "en": "Here's my pass. Just don't tell the guards.",
+   "tr": "İşte geçiş kartım. Sadece muhafızlara söyleme."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80985",
+   "en": "I have a pass, but there's nothing back there. Just snow. Well, snow and maintenance access.",
+   "tr": "Geçiş kartım var ama orada hiçbir şey yok. Sadece kar. Şey, kar ve bakım erişimi."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80986",
+   "en": "I have your word on that?",
+   "tr": "Bu konuda sözün var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80987",
+   "en": "No, it doesn't. Take it.",
+   "tr": "Hayır, sorun değil. Al."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80988",
+   "en": "Look. You see that my friends are sick.",
+   "tr": "Bak. Arkadaşlarımın hasta olduğunu görüyorsun."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80989",
+   "en": "You bring me the cure, I'll give you my pass. Strictly under the table.",
+   "tr": "Bana tedaviyi getirirsen geçiş kartımı veririm. Kesinlikle gizli."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80990",
+   "en": "I'm \"a\" doctor, but not \"the\" doctor. My specialty is microbiology. Not first aid.",
+   "tr": "Ben \"bir\" doktorum ama \"o\" doktor değilim. Uzmanlığım mikrobiyoloji. İlk yardım değil."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80991",
+   "en": "We had a medic. Dr. Saleh. He's de-- We lost him. The automatics can handle basic treatment. Mira runs them.",
+   "tr": "Bir sağlıkçımız vardı. Dr. Saleh. O öl-- Onu kaybettik. Otomatik sistemler temel tedaviyi halledebiliyor. Mira onları çalıştırıyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80992",
+   "en": "Better than Ventralis' guards. They've been on alert since the first attack.",
+   "tr": "Ventralis'in muhafızlarından iyi. İlk saldırıdan beri alarm durumundalar."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80993",
+   "en": " I've been administering stims at their request, but every species needs to sleep. They're getting twitchy. Irrational.",
+   "tr": " İstekleri üzerine uyarıcı veriyorum ama her tür uyumalı. Tetikte gerginleşiyorlar. Mantıksız."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80994",
+   "en": "I hope you can do something.",
+   "tr": "Umarım bir şey yapabilirsin."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80995",
+   "en": "Mmmhmm. Yes.",
+   "tr": "Mmmhmm. Evet."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|80999",
+   "en": "What? What do you want?",
+   "tr": "Ne? Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81001",
+   "en": "No. You did nothing wrong. I'm just distracted.",
+   "tr": "Hayır. Yanlış bir şey yapmadın. Sadece dalgınım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81004",
+   "en": "They seem to be coming along well.",
+   "tr": "İyi gidiyorlar gibi görünüyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81005",
+   "en": "It will take time for them to recover. They're through the worst.",
+   "tr": "İyileşmeleri zaman alacak. En kötüsünü atlattılar."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81007",
+   "en": "Of course. Be careful.",
+   "tr": "Elbette. Dikkatli ol."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81008",
+   "en": "Is that the cure? You did it?",
+   "tr": "Bu tedavi mi? Yaptın mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81010",
+   "en": "You were attacked? I-- I don't know anything about that! I hate conflict. I've never even fired anyone. I have my receptionist do it.",
+   "tr": "Saldırıya mı uğradın? Ben-- Bu konuda hiçbir şey bilmiyorum! Çatışmadan nefret ederim. Hiç kimseyi işten bile çıkarmadım. Onu resepsiyonistime yaptırırım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81012",
+   "en": "Look. The guards. They've been more on edge since you got here. I think they were expecting you.",
+   "tr": "Bak. Muhafızlar sen geldiğinden beri daha gergin. Sanırım seni bekliyorlardı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81013",
+   "en": "There are more labs in the back. The guards won't even let me back there. Just people with \"clearance.\"",
+   "tr": "Arkada daha fazla laboratuvar var. Muhafızlar oraya girmeme bile izin vermiyor. Sadece \"yetkisi\" olanlar."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81014",
+   "en": "The maintenance area? Yes, take my pass. But there's just snow back there.",
+   "tr": "Bakım bölümü mü? Evet, kartımı al. Ama orada sadece kar var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81015",
+   "en": "I don't want to get involved in this. I'm just trying to save my friends.",
+   "tr": "Bu işe karışmak istemiyorum. Sadece arkadaşlarımı kurtarmaya çalışıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81016",
+   "en": "Let me see that phial. An extension on Phelps' work? I thought he was on the right track.",
+   "tr": "Şu şişeyi göreyim. Phelps'in çalışmasının devamı mı? Doğru yolda olduğunu düşünmüştüm."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81017",
+   "en": "I can't thank you enough. God. What a cliché. You saved their lives, you know that?",
+   "tr": "Sana yeterince teşekkür edemem. Tanrım. Ne klişe. Hayatlarını kurtardın, biliyor musun?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81019",
+   "en": "You didn't get these from me. Ventralis wanted them saved for his people.",
+   "tr": "Bunları benden almadın. Ventralis kendi adamları için saklıyordu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81023",
+   "en": "Thanks for the warning. Here's the cure.",
+   "tr": "Uyarı için teşekkürler. İşte tedavi."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81024",
+   "en": "Somebody in here needs a punch in the throat.",
+   "tr": "Buradaki birinin gırtlağına yumruk atmak lazım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81029",
+   "en": "Could you spare a few medical packs? They're worth their weight in gold up here.",
+   "tr": "Birkaç tıbbi paket ayırabilir misin? Burada ağırlıkları kadar altın değerinde."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81031",
+   "en": "And I almost lost mine. \"Thanks\" is all I get? We need to be at peak to fight those aliens. Give us some medi-gel.",
+   "tr": "Ben neredeyse kendiminkini kaybediyordum. Bana sadece \"teşekkürler\" mi? O uzaylılarla savaşmak için tepe formda olmalıyız. Bize biraz medi-jel ver."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81033",
+   "en": "That's what I'm here for. Forget about it.",
+   "tr": "Bunun için buradayım. Boş ver."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81035",
+   "en": "What happened to these people?",
+   "tr": "Bu insanlara ne oldu?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81037",
+   "en": "But you're going to, because I might be able to help.",
+   "tr": "Ama anlatacaksın çünkü yardım edebilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81039",
+   "en": "We reactivated her on our way through Central Station.",
+   "tr": "Merkez İstasyon'dan geçerken onu yeniden etkinleştirdik."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81041",
+   "en": "You should consider doing safer experiments.",
+   "tr": "Daha güvenli deneyler yapmayı düşünmelisin."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81043",
+   "en": "Makes sense. She seems to regulate everything else up here.",
+   "tr": "Mantıklı. Burada diğer her şeyi o düzenliyor gibi."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81045",
+   "en": "I understand your caution, but I need details. What you say won't go beyond these walls.",
+   "tr": "Temkinini anlıyorum ama ayrıntılara ihtiyacım var. Söylediklerin bu duvarların dışına çıkmaz."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81046",
+   "en": "I need full cooperation if I'm going to help. Do you want these people to live? If not, I'll walk out of here.",
+   "tr": "Yardım edeceksem tam işbirliğine ihtiyacım var. Bu insanların yaşamasını istiyor musun? İstemiyorsan çıkıp giderim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81054",
+   "en": "You made this, but can't cure it? Don't you people take notes?",
+   "tr": "Bunu yaptınız ama tedavi edemiyor musunuz? Siz hiç not tutmaz mısınız?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81055",
+   "en": "There's a reason the Citadel Conventions forbid bioweapons, Doctor.",
+   "tr": "Citadel Sözleşmeleri'nin biyolojik silahları yasaklamasının bir nedeni var Doktor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81057",
+   "en": "But you don't have an antidote?",
+   "tr": "Ama panzehiriniz yok mu?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81059",
+   "en": "I want access to the maintenance area.",
+   "tr": "Bakım bölümüne erişim istiyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81060",
+   "en": "Is he right to keep people out?",
+   "tr": "İnsanları dışarıda tutmakta haklı mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81061",
+   "en": "I'll talk to Ventralis for you, but I don't have the training for that.",
+   "tr": "Senin için Ventralis'le konuşurum ama bunun için eğitimim yok."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81062",
+   "en": "I'll talk to him. Maybe I can convince him to let me try.",
+   "tr": "Onunla konuşacağım. Belki denememe izin vermesi için ikna edebilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81063",
+   "en": "Suit yourself.",
+   "tr": "Nasıl istersen."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81064",
+   "en": "What will it take to get the cure for these people?",
+   "tr": "Bu insanlar için tedaviyi almak için ne gerekir?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81066",
+   "en": "I need to get into the maintenance areas.",
+   "tr": "Bakım bölümlerine girmem gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81068",
+   "en": "Things are going to hit the fan in this place. Slip me the card and I'll keep your team safe.",
+   "tr": "Burada işler çığırından çıkacak. Kartı bana ver, ekibini güvende tutayım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81069",
+   "en": "I'm going to get back there one way or another. This place doesn't need more holes blown in it.",
+   "tr": "Oraya bir şekilde gireceğim. Bu yerin daha fazla delik açılmasına ihtiyacı yok."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81070",
+   "en": "What would change your mind about that?",
+   "tr": "Bu konuda fikrini ne değiştirir?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81072",
+   "en": "Are you the doctor here?",
+   "tr": "Buradaki doktor siz misiniz?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81074",
+   "en": "How is the science team holding up?",
+   "tr": "Bilim ekibi nasıl dayanıyor?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81076",
+   "en": "Talk to you later.",
+   "tr": "Sonra görüşürüz."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81083",
+   "en": "Were they attacked by the aliens?",
+   "tr": "Uzaylılar mı saldırdı onlara?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81085",
+   "en": "I didn't mean to bother you.",
+   "tr": "Sizi rahatsız etmek istemedim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81089",
+   "en": "They don't look much better.",
+   "tr": "Pek de iyi görünmüyorlar."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81092",
+   "en": "Good news. I'll see you around.",
+   "tr": "İyi haber. Görüşürüz."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81093",
+   "en": "I was ambushed in the lab you sent me to. If you set me up...",
+   "tr": "Beni gönderdiğin laboratuvarda pusuya düşürüldüm. Beni tuzağa düşürdüysen..."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81096",
+   "en": "I think so. It was hard to concentrate while dodging gunfire.",
+   "tr": "Sanırım. Ateşten kaçarken odaklanmak zordu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81102",
+   "en": "What about the maintenance area? Do you have access to that?",
+   "tr": "Peki bakım bölümü? Ona erişimin var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81109",
+   "en": "What's wrong with them?",
+   "tr": "Neleri var?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81110",
+   "en": "Sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81115",
+   "en": "The patients",
+   "tr": "Hastalar"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81116",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81119",
+   "en": "You set me up.",
+   "tr": "Beni tuzağa düşürdün."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81120",
+   "en": "I have the antitoxin.",
+   "tr": "Antitoksin bende."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81128",
+   "en": "Getting into maintenance.",
+   "tr": "Bakıma girmek."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81129",
+   "en": "Thanks for the warning.",
+   "tr": "Uyarı için teşekkürler."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81130",
+   "en": "I'm going to hurt someone.",
+   "tr": "Birine zarar vereceğim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81135",
+   "en": "Got any medi-gel?",
+   "tr": "Medi-jelin var mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81136",
+   "en": "I need more.",
+   "tr": "Daha fazlasına ihtiyacım var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81137",
+   "en": "That's my duty.",
+   "tr": "Benim görevim bu."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81142",
+   "en": "Are these people sick?",
+   "tr": "Bu insanlar hasta mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81143",
+   "en": "How can I help these people?",
+   "tr": "Bu insanlara nasıl yardım edebilirim?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81144",
+   "en": "Get me into maintenance.",
+   "tr": "Beni bakıma sok."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81145",
+   "en": "Your job",
+   "tr": "İşin"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81146",
+   "en": "Your team",
+   "tr": "Ekibin"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81147",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81149",
+   "en": "But you want to.",
+   "tr": "Ama istiyorsun."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81150",
+   "en": "Your call.",
+   "tr": "Sana kalmış."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81152",
+   "en": "I fixed her.",
+   "tr": "Onu onardım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81153",
+   "en": "Sounds dangerous to me.",
+   "tr": "Bana tehlikeli geliyor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81154",
+   "en": "I know her.",
+   "tr": "Onu tanıyorum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81158",
+   "en": "I need more to help.",
+   "tr": "Yardım etmek için daha fazlasına ihtiyacım var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81159",
+   "en": "Tell me everything.",
+   "tr": "Bana her şeyi anlat."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81160",
+   "en": "You don't have a cure?",
+   "tr": "Tedavin yok mu?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81168",
+   "en": "You don't have a cure?",
+   "tr": "Tedavin yok mu?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81169",
+   "en": "Damn right I can't.",
+   "tr": "Kesinlikle yapamam."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81172",
+   "en": "Get me into maintenance.",
+   "tr": "Beni bakıma sok."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81173",
+   "en": "Is it dangerous in there?",
+   "tr": "Orası tehlikeli mi?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81174",
+   "en": "I'm no scientist.",
+   "tr": "Ben bilim insanı değilim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81175",
+   "en": "I'll see what I can do.",
+   "tr": "Ne yapabileceğime bakarım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81178",
+   "en": "I can protect you.",
+   "tr": "Seni koruyabilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81179",
+   "en": "I could blast in.",
+   "tr": "İçeri patlatarak girebilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81180",
+   "en": "Could we negotiate?",
+   "tr": "Pazarlık edebilir miyiz?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81206",
+   "en": "It doesn't matter how \"safe\" you make it. Biological weapons are illegal.",
+   "tr": "Ne kadar \"güvenli\" yaptığın önemli değil. Biyolojik silahlar yasadışı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81207",
+   "en": "Do you imagine that distinction makes this ethical?",
+   "tr": "Bu ayrımın bunu etik yaptığını mı sanıyorsun?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81208",
+   "en": "Yes. I'm sorry. I haven't had much sleep lately.",
+   "tr": "Evet. Üzgünüm. Son zamanlarda pek uyumadım."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81210",
+   "en": "Alestia? That's unbe--! ",
+   "tr": "Alestia? Bu inanıl--!"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81211",
+   "en": "I-- I don't know much about her. She arrived a month ago. One of the shareholders pulled strings to get her here.",
+   "tr": "Ben-- Onun hakkında pek bir şey bilmiyorum. Bir ay önce geldi. Hissedarlardan biri onu buraya getirmek için ip çekti."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81212",
+   "en": "Let me guess. Saren, the Spectre?",
+   "tr": "Tahmin edeyim. Saren, Spectre mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81213",
+   "en": "Let me guess. Saren, the Spectre?",
+   "tr": "Tahmin edeyim. Saren, Spectre mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81214",
+   "en": "Let me guess. Saren, the Spectre?",
+   "tr": "Tahmin edeyim. Saren, Spectre mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81215",
+   "en": "Let me guess. Saren, the Spectre?",
+   "tr": "Tahmin edeyim. Saren, Spectre mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81216",
+   "en": "Let me guess. Saren, the Spectre?",
+   "tr": "Tahmin edeyim. Saren, Spectre mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81217",
+   "en": "Yes. I think that was the name. I don't pay attention to the other research teams.",
+   "tr": "Evet. Sanırım adı buydu. Diğer araştırma ekiplerine dikkat etmem."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81221",
+   "en": "Is there a cure, Doctor? A treatment?",
+   "tr": "Bir tedavi var mı Doktor? Bir iyileştirme?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81222",
+   "en": "I've had a long day. Don't piss me off.",
+   "tr": "Uzun bir gün geçirdim. Beni çileden çıkarma."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81225",
+   "en": "That asari scientist -- the one in the mess hall -- she just tried to kill us.",
+   "tr": "O asari bilim insanı--yemekhanedeki--bizi öldürmeye çalıştı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81235",
+   "en": "An asari attacked me.",
+   "tr": "Bir asari bana saldırdı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81247",
+   "en": "Worry about that later.",
+   "tr": "Bunu sonra merak ederiz."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|81248",
+   "en": "I don't like your tone.",
+   "tr": "Tonunu beğenmedim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102862",
+   "en": "We can't have any shooting in here.",
+   "tr": "Burada silah sesi olmasın."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102863",
+   "en": "Just don't tell the guards. They're twitchy enough.",
+   "tr": "Sadece muhafızlara söyleme. Zaten yeterince gergin."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102864",
+   "en": "Please, take it outside!",
+   "tr": "Lütfen, dışarı çıkın!"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|102865",
+   "en": "This is a hospital, for God's sake!",
+   "tr": "Burası hastane, Tanrı aşkına!"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|120385",
+   "en": "I could help.",
+   "tr": "Yardım edebilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147336",
+   "en": "Only as a means to an end, Doctor. I have a mission to complete.",
+   "tr": "Yalnızca bir amaca ulaşmak için Doktor. Tamamlamam gereken bir görevim var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147337",
+   "en": "If you made it, you must have an idea how to cure it.",
+   "tr": "Siz yaptıysanız nasıl tedavi edileceğine dair bir fikriniz olmalı."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147338",
+   "en": "Congratulations. You made an illegal bioweapon. You think to make a cure for it?",
+   "tr": "Tebrikler. Yasadışı bir biyolojik silah yaptınız. Bunun için tedavi yapacağınızı mı sanıyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147339",
+   "en": "I have reason to believe something's hidden back there. I need your help, Doctor.",
+   "tr": "Orada bir şey saklandığına inanmak için nedenim var. Yardımınıza ihtiyacım var Doktor."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147340",
+   "en": "Doctor, even an elcor could tell this crew is hiding something. Why don't you want me back there?",
+   "tr": "Doktor, bir elcor bile bu ekibin bir şey sakladığını anlar. Neden arkaya girmemi istemiyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147341",
+   "en": "Happy to help.",
+   "tr": "Yardım etmekten memnunum."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147342",
+   "en": "It was on my way.",
+   "tr": "Yolumun üstündeydi."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147343",
+   "en": "You made it?",
+   "tr": "Yaptın mı?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147344",
+   "en": "\"Good job.\"",
+   "tr": "\"İyi iş.\""
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147345",
+   "en": "I can be pretty persuasive.",
+   "tr": "Oldukça ikna edici olabilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147346",
+   "en": "There's more than snow.",
+   "tr": "Kardan fazlası var."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|147347",
+   "en": "Are you hiding something?",
+   "tr": "Bir şey mi saklıyorsunuz?"
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|158811",
+   "en": "I can be pretty persuasive.",
+   "tr": "Oldukça ikna edici olabilirim."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|172634",
+   "en": "Speaking of that back area...",
+   "tr": "O arka bölümden bahsetmişken..."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_talinsomaai_D|172635",
+   "en": "Just take the cure.",
+   "tr": "Sadece tedaviyi al."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_trig05_talin_frets_D|80251",
+   "en": "Hang on.",
+   "tr": "Bir dakika."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_trig05_talin_frets_D|80252",
+   "en": "Uhn...",
+   "tr": "Uhn..."
+  },
+  {
+   "key": "BIOA_ICE60_07A_DSG_LOC|ice60_trig05_talin_frets_D|80253",
+   "en": "I know you'd have a cure by now.",
+   "tr": "Şimdiye kadar bir tedavin olacağını biliyordum."
+  }
+ ]
+}

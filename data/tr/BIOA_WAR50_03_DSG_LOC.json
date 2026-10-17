@@ -1,0 +1,680 @@
+{
+ "meta": {
+  "package": "BIOA_WAR50_03_DSG_LOC_INT.pcc",
+  "stem": "BIOA_WAR50_03_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3218",
+   "en": "Damn it!",
+   "tr": "Kahretsin!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3222",
+   "en": "I'm so sorry. I thought you were geth, or one of those varren.",
+   "tr": "Çok üzgünüm. Geth ya da o varren'lerden biri sandım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3226",
+   "en": "I was trapped. I tried to get out, but the way was blocked.",
+   "tr": "Mahsurdum. Çıkmaya çalıştım ama yol kapalıydı."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3244",
+   "en": "I-- I was afraid. I wanted to stop the tests, but they threatened me, told me I'd be next.",
+   "tr": "Ben-- Korktum. Testleri durdurmak istedim ama beni tehdit ettiler, sıranın bende olacağını söylediler."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3252",
+   "en": "Good luck with that field.",
+   "tr": "O alanda bol şans."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3293",
+   "en": "Hey... As soon as you go, I'm going to find a place to hide.",
+   "tr": "Hey... Sen gider gitmez saklanacak bir yer bulacağım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3305",
+   "en": "It's almost time, isn't it? Maybe we can free our friends after all. I have to help them. It's my fault this happened.",
+   "tr": "Neredeyse zamanı, değil mi? Belki arkadaşlarımızı yine de kurtarabiliriz. Onlara yardım etmeliyim. Bu olanlar benim suçum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3312",
+   "en": "You saved most of the infected. It will take time to recover from the physical effects, but they'll be all right. Thank you.",
+   "tr": "Enfekte olanların çoğunu kurtardın. Fiziksel etkilerden iyileşmek zaman alacak ama iyi olacaklar. Teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3315",
+   "en": "Well, you killed it. At least that's something. But there are so many of us gone.",
+   "tr": "Şey, onu öldürdün. En azından bu bir şey. Ama çok kişi gitti."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3323",
+   "en": "Who are you and what are you doing in here?",
+   "tr": "Kimsiniz ve burada ne yapıyorsunuz?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3349",
+   "en": "Tell me about yourself.",
+   "tr": "Bana kendinden bahset."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|3352",
+   "en": "You stay put. I'll go open some doors.",
+   "tr": "Olduğun yerde kal. Gidip bazı kapıları açacağım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|6649",
+   "en": "Why do you think the geth would be interested in the Thorian?",
+   "tr": "Sence geth Thorian'la neden ilgilenir?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|8906",
+   "en": "Get her out of here!",
+   "tr": "Onu buradan çıkarın!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|8907",
+   "en": "Get away from her, you son of a bitch!",
+   "tr": "Ondan uzak dur, orospu çocuğu!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|8908",
+   "en": "Lizbeth!",
+   "tr": "Lizbeth!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|8913",
+   "en": "You won't get away with this.",
+   "tr": "Bunun yanına kalmayacak."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|9665",
+   "en": "What do you want? You've made your deals. Go ahead. It has nothing to do with us.",
+   "tr": "Ne istiyorsun? Anlaşmalarınızı yaptınız. Devam edin. Bizimle ilgisi yok."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|9678",
+   "en": "Thank you so much. Now ExoGeni will pour the money in. We'll be able to rebuild and then some.",
+   "tr": "Çok teşekkürler. Şimdi ExoGeni parayı akıtacak. Yeniden inşa edebileceğiz, hatta fazlasını."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|51532",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|51534",
+   "en": "Geth attack",
+   "tr": "Geth saldırısı"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|51535",
+   "en": "I have to get moving.",
+   "tr": "Harekete geçmem lazım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|51609",
+   "en": "Explain yourself.",
+   "tr": "Kendini açıkla."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64666",
+   "en": "It's not the geth; it's the energy field they put up.",
+   "tr": "Geth değil; kurdukları enerji alanı."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64670",
+   "en": "Next thing I knew, the geth ship latched on and the power went out.",
+   "tr": "Sonra geth gemisi tutundu ve elektrik kesildi."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64673",
+   "en": "A few geth won't stop me.",
+   "tr": "Birkaç geth beni durduramaz."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64677",
+   "en": "I'll fight my way through the geth soon enough.",
+   "tr": "Geth'in arasından çok geçmeden yolumu açacağım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64682",
+   "en": "Not for me it isn't.",
+   "tr": "Benim için değil."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64683",
+   "en": "Not a problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64954",
+   "en": "When the geth attacked, I stayed behind to send a message to Colonial Affairs.",
+   "tr": "Geth saldırdığında Koloni İşleri'ne mesaj göndermek için geride kaldım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64973",
+   "en": "It's just a plant. I don't know why the geth would care.",
+   "tr": "Sadece bir bitki. Geth'in neden umursadığını bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64974",
+   "en": "ExoGeni was studying it, but I don't think they found anything special.",
+   "tr": "ExoGeni onu inceliyordu ama özel bir şey bulduklarını sanmıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64977",
+   "en": "I'm just a research assistant for ExoGeni.",
+   "tr": "Ben sadece ExoGeni'nin araştırma asistanıyım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64979",
+   "en": "I came here with my mother. I don't even know if she made it out alive.",
+   "tr": "Buraya annemle geldim. Hayatta çıkıp çıkmadığını bile bilmiyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64980",
+   "en": "I really don't know that much about it. I think it's some kind of plant being.",
+   "tr": "Gerçekten pek bir şey bilmiyorum. Sanırım bir tür bitki varlığı."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64981",
+   "en": "I know it's very old. Thousands of years, even.",
+   "tr": "Çok eski olduğunu biliyorum. Binlerce yıl, hatta."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|64984",
+   "en": "There you are!",
+   "tr": "İşte buradasın!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|65022",
+   "en": "Tell me what you know about the Thorian.",
+   "tr": "Thorian hakkında bildiklerini anlat."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|65051",
+   "en": "Thorian",
+   "tr": "Thorian"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74932",
+   "en": "Just get on with it. I want to at least see the Thorian dead before they ship us out of here.",
+   "tr": "Hadi bitir şunu. En azından bizi buradan göndermeden önce Thorian'ın öldüğünü görmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74934",
+   "en": "This has gone on too long. Just kill the Thorian and try to help the infected.",
+   "tr": "Bu fazla uzadı. Thorian'ı öldür ve enfekte olanlara yardım etmeye çalış."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74935",
+   "en": "I suppose it's time for us to go. Thank you for what you did.",
+   "tr": "Sanırım gitme zamanımız geldi. Yaptıklarınız için teşekkürler."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74936",
+   "en": "It's better than dead, I suppose. I just wish.... Never mind.",
+   "tr": "Ölmekten iyi sanırım. Keşke.... Boş ver."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74938",
+   "en": "Soon we'll have everything we need.",
+   "tr": "Yakında ihtiyacımız olan her şeye sahip olacağız."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74939",
+   "en": "We're going to be very busy.",
+   "tr": "Çok meşgul olacağız."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74940",
+   "en": "You won't recognize anything in a year. A clean slate.",
+   "tr": "Bir yıl içinde hiçbir şeyi tanıyamayacaksınız. Temiz bir sayfa."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74942",
+   "en": "There's nothing left here. I can't wait to get offworld.",
+   "tr": "Burada bir şey kalmadı. Gezegenden ayrılmak için sabırsızlanıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74943",
+   "en": "It's hard to imagine we even had a chance.",
+   "tr": "Şansımız olduğunu düşünmek bile zor."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74944",
+   "en": "I hope I never hear about this place ever again.",
+   "tr": "Umarım bu yeri bir daha asla duymam."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74946",
+   "en": "It'll be rough-going, but we have a chance.",
+   "tr": "Zor olacak ama şansımız var."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74947",
+   "en": "I'm looking forward to making this place work.",
+   "tr": "Burayı çalışır hale getirmeyi dört gözle bekliyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|74948",
+   "en": "It'll take a while, but we can make it.",
+   "tr": "Biraz zaman alacak ama başarabiliriz."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|76249",
+   "en": "Here, take my ID. This should get you past any locked doors.",
+   "tr": "Al, kimliğimi al. Bu seni kilitli kapılardan geçirmeli."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|98724",
+   "en": "You can't do this, Jeong!",
+   "tr": "Bunu yapamazsın Jeong!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|98725",
+   "en": "Everyone shut up! Let me think!",
+   "tr": "Herkes sussun! Düşüneyim!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|98726",
+   "en": "What's going on?",
+   "tr": "Neler oluyor?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|98728",
+   "en": "Damn it! Come out where I can see you! All of you!",
+   "tr": "Lanet olsun! Görebileceğim bir yere çıkın! Hepiniz!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103769",
+   "en": "It's my own fault. Everyone else was running and I stayed to back up data.",
+   "tr": "Kendi suçum. Herkes kaçarken ben veri yedeklemek için kaldım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103770",
+   "en": "They don't want anyone else getting access to the--",
+   "tr": "Kimsenin erişmesini istemiyorlar--"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103771",
+   "en": "I don't know for certain, but I'm guessing they're here for the Thorian.",
+   "tr": "Kesin bilmiyorum ama sanırım Thorian için buradalar."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103772",
+   "en": "Thorian? What is that, exactly?",
+   "tr": "Thorian mı? Tam olarak nedir bu?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103773",
+   "en": "What's a Thorian?",
+   "tr": "Thorian nedir?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103774",
+   "en": "Thorian? I have never heard of such a thing.",
+   "tr": "Thorian mı? Böyle bir şey hiç duymadım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103775",
+   "en": "What's a Thorian?",
+   "tr": "Thorian nedir?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103776",
+   "en": "Thorian? What's that?",
+   "tr": "Thorian mı? Nedir bu?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103777",
+   "en": "It's an indigenous life-form. ExoGeni was studying it.",
+   "tr": "Yerli bir yaşam formu. ExoGeni onu inceliyordu."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103779",
+   "en": "No, not exactly. But I think the geth ship is powering it.",
+   "tr": "Hayır, tam olarak değil. Ama sanırım geth gemisi ona güç veriyor."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103780",
+   "en": "I've noticed the geth laying power cables everywhere.",
+   "tr": "Geth'in her yere güç kabloları döşediğini fark ettim."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103781",
+   "en": "You could follow those cables, but there's geth all over the place.",
+   "tr": "O kabloları izleyebilirsin ama her yer geth dolu."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103782",
+   "en": "Yeah, you don't have to tell me twice. I'll just find a small hole to hide in until the field is down.",
+   "tr": "Evet, iki kez söylemene gerek yok. Alan inene kadar saklanacak küçük bir delik bulacağım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103783",
+   "en": "She's alive? Thank God. I thought I was the only one left.",
+   "tr": "Hayatta mı? Tanrıya şükür. Geride kalan tek kişi olduğumu sanmıştım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103784",
+   "en": "Please, Commander. Just get that field down so I can see my mother again.",
+   "tr": "Lütfen Komutan. Annemi yeniden görebilmem için şu alanı indir."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103785",
+   "en": "We should get out of here. I don't think this place is safe.",
+   "tr": "Buradan çıkmalıyız. Bu yerin güvenli olduğunu sanmıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103786",
+   "en": "I tried to tell them where to find the Thorian, but the power cut before I could send the message.",
+   "tr": "Onlara Thorian'ı nerede bulacaklarını söylemeye çalıştım ama mesajı gönderemeden elektrik kesildi."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103787",
+   "en": "I-- I never meant for this to happen.",
+   "tr": "Ben-- Bunun olmasını hiç istemedim."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103788",
+   "en": "The Thorian is underneath Zhu's Hope, but the entrance is blocked.",
+   "tr": "Thorian Zhu's Hope'un altında ama giriş tıkalı."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103790",
+   "en": "The colonists covered it with the freighter just before the geth attacked.",
+   "tr": "Kolonistler geth saldırmadan hemen önce yük gemisiyle kapattı."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103791",
+   "en": "Well, it does have unique mind-control capabilities.",
+   "tr": "Şey, eşsiz zihin kontrol yetenekleri var."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103792",
+   "en": "That's what ExoGeni was interested in.",
+   "tr": "ExoGeni'nin ilgisini çeken buydu."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103793",
+   "en": "I'm coming with you. I might be able to help. Undo the mess I helped create.",
+   "tr": "Seninle geliyorum. Yardım edebilirim. Yaratılmasına yardım ettiğim karmaşayı geri alırım."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103794",
+   "en": "You're safe now. But why were you here in the first place?",
+   "tr": "Şimdi güvendesin. Ama ilk başta burada ne işin vardı?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103796",
+   "en": "We'll get you out as soon as we find out what the geth are after.",
+   "tr": "Geth'in ne aradığını öğrenir öğrenmez seni çıkaracağız."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103797",
+   "en": "I'm here for the geth. If you know something, tell me.",
+   "tr": "Geth için buradayım. Bir şey biliyorsan söyle."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103798",
+   "en": "I'm here for the geth. It's very important that I find out what they're after.",
+   "tr": "Geth için buradayım. Ne aradıklarını öğrenmem çok önemli."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103806",
+   "en": "Any suggestions?",
+   "tr": "Önerin var mı?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103807",
+   "en": "Do you know how we can shut it down?",
+   "tr": "Nasıl kapatabileceğimizi biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103810",
+   "en": "All right. I'll look into it. Stay put until the field is down.",
+   "tr": "Tamam. Bakacağım. Alan inene kadar olduğun yerde kal."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103812",
+   "en": "She's with some others from the colony. She's safe for now.",
+   "tr": "Koloniden bazı kişilerle birlikte. Şimdilik güvende."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103814",
+   "en": "I need some answers. You knew more about the Thorian than you let on.",
+   "tr": "Bazı cevaplara ihtiyacım var. Thorian hakkında söylediğinden fazlasını biliyordun."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103816",
+   "en": "You said you didn't know about the Thorian. I don't like being lied to.",
+   "tr": "Thorian'ı bilmediğini söyledin. Yalan söylenmesinden hoşlanmam."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103818",
+   "en": "You did what you could. I'll help them if you can tell me where to find the Thorian.",
+   "tr": "Elinden geleni yaptın. Thorian'ı nerede bulacağımı söylersen onlara yardım ederim."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103819",
+   "en": "Where's the Thorian?",
+   "tr": "Thorian nerede?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103820",
+   "en": "Just tell me where I can find the Thorian. No more lies.",
+   "tr": "Sadece Thorian'ı nerede bulabileceğimi söyle. Yalan yok."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103823",
+   "en": "But why are the geth after the Thorian? What could Saren want with it?",
+   "tr": "Ama geth neden Thorian'ın peşinde? Saren ondan ne isteyebilir?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103824",
+   "en": "What bothers me is why the geth were after the Thorian in the first place.",
+   "tr": "Beni rahatsız eden, geth'in baştan Thorian'ın peşinde olmasının nedeni."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103830",
+   "en": "Why are you here?",
+   "tr": "Neden buradasın?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103831",
+   "en": "It's okay.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103833",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103834",
+   "en": "You can tell me.",
+   "tr": "Bana söyleyebilirsin."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103835",
+   "en": "Don't hold back!",
+   "tr": "Saklama!"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103836",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103844",
+   "en": "Great.",
+   "tr": "Harika."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103845",
+   "en": "How?",
+   "tr": "Nasıl?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103846",
+   "en": "Fair enough.",
+   "tr": "Yeterince adil."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103849",
+   "en": "Sounds good.",
+   "tr": "Kulağa iyi geliyor."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103851",
+   "en": "She did.",
+   "tr": "Etti."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103853",
+   "en": "In a minute.",
+   "tr": "Bir dakika."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103855",
+   "en": "You lied to me.",
+   "tr": "Bana yalan söyledin."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103857",
+   "en": "I believe you.",
+   "tr": "Size inanıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103858",
+   "en": "Where is it?",
+   "tr": "Nerede?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103859",
+   "en": "I don't care.",
+   "tr": "Umurumda değil."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103862",
+   "en": "I see.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103863",
+   "en": "Smart move.",
+   "tr": "Akıllıca hareket."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|103864",
+   "en": "Not a concern.",
+   "tr": "Dert değil."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104762",
+   "en": "First things first.",
+   "tr": "Önce asıl işler."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104983",
+   "en": "Normandy to shore party. Come in.",
+   "tr": "Normandy'den kara ekibine. Duyuyor musunuz?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104988",
+   "en": "Looks like they're headed your way.",
+   "tr": "Görünüşe göre size doğru geliyorlar."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104990",
+   "en": "What is it, Joker?",
+   "tr": "Ne var Joker?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104996",
+   "en": "Thanks for the heads-up, Joker. You heard the man; let's move out.",
+   "tr": "Uyarı için sağ ol Joker. Adamı duydunuz; hareket edelim."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104997",
+   "en": "You heard the man; let's move out.",
+   "tr": "Adamı duydunuz; hareket edelim."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|104999",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|105001",
+   "en": "What now?",
+   "tr": "Şimdi ne?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|105008",
+   "en": "Nice job.",
+   "tr": "İyi iş."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|105009",
+   "en": "Okay.",
+   "tr": "Tamam."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|105010",
+   "en": "Great.",
+   "tr": "Harika."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113345",
+   "en": "I might be able to, but not with those geth crawling around everywhere.",
+   "tr": "Yapabilirim ama her yerde sürünen şu geth yüzünden olmaz."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113346",
+   "en": "Look, we need to get out of here, past that field.",
+   "tr": "Bak, buradan, şu alanın ötesine geçmemiz gerek."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113347",
+   "en": "I need more information. I need to know why the geth are after this Thorian.",
+   "tr": "Daha fazla bilgiye ihtiyacım var. Geth'in bu Thorian'ın neden peşinde olduğunu bilmem gerek."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113348",
+   "en": "What else can you tell me? Do you know where I can find this Thorian?",
+   "tr": "Başka ne söyleyebilirsin? Bu Thorian'ı nerede bulabileceğimi biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113353",
+   "en": "Tell me more.",
+   "tr": "Daha fazlasını anlat."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113354",
+   "en": "Interesting.",
+   "tr": "İlginç."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113355",
+   "en": "Where is it?",
+   "tr": "Nerede?"
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|113627",
+   "en": "We're getting a lot of geth comm chatter.",
+   "tr": "Çok fazla geth telsiz konuşması alıyoruz."
+  },
+  {
+   "key": "BIOA_WAR50_03_DSG_LOC|war50_lizbeth_D|152207",
+   "en": "I read you.",
+   "tr": "Seni duyuyorum."
+  }
+ ]
+}

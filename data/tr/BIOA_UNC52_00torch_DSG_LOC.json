@@ -1,0 +1,200 @@
+{
+ "meta": {
+  "package": "BIOA_UNC52_00torch_DSG_LOC_INT.pcc",
+  "stem": "BIOA_UNC52_00torch_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179098",
+   "en": "Warning: ground-penetrating radar detects anti-vehicle demolitions nearby. Proceed on foot.",
+   "tr": "Uyarı: yer radarı yakında araç karşıtı patlayıcılar tespit etti. Yaya devam edin."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179349",
+   "en": "Warning: approaching explosives. Proceed with caution.",
+   "tr": "Uyarı: yaklaşan patlayıcılar. Dikkatli ilerleyin."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179350",
+   "en": "Warning: anti-vehicle demolitions detected. Please proceed on foot.",
+   "tr": "Uyarı: araç karşıtı patlayıcılar tespit edildi. Lütfen yaya devam edin."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179351",
+   "en": "Warning: pressure-sensitive mines detected. Recommend proceeding on foot.",
+   "tr": "Uyarı: basınca duyarlı mayınlar tespit edildi. Yaya devam etmeniz önerilir."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179352",
+   "en": "Warning: anti-vehicle demolitions detected by ground-penetrating radar. Please proceed on foot.",
+   "tr": "Uyarı: yer radarı tarafından araç karşıtı patlayıcılar tespit edildi. Lütfen yaya devam edin."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179353",
+   "en": "Warning: pressure sensitive demolitions detected. Exit from vehicle and proceed on foot.",
+   "tr": "Uyarı: basınca duyarlı patlayıcılar tespit edildi. Araçtan inin ve yaya devam edin."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_computer_warnings_D|179354",
+   "en": "Warning: ground-penetrating radar detects pressure-sensitive demolitions. Recommend proceeding on foot.",
+   "tr": "Uyarı: yer radarı basınca duyarlı patlayıcılar tespit etti. Yaya devam etmeniz önerilir."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175196",
+   "en": "Are you there? You've got to hurry. You've really pissed them off.",
+   "tr": "Orada mısınız? Acele etmelisiniz. Onları gerçekten çok kızdırdınız."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175197",
+   "en": "Their leader's setting charges everywhere. I think he's going to blow this whole facility.",
+   "tr": "Liderleri her yere patlayıcı yerleştiriyor. Sanırım tüm tesisi patlatacak."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175198",
+   "en": "Get away from there.",
+   "tr": "Oradan uzaklaşın."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175199",
+   "en": "Don't shoot. Please.",
+   "tr": "Ateş etmeyin. Lütfen."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175336",
+   "en": "You're headed in the right direction.",
+   "tr": "Doğru yöne gidiyorsunuz."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175338",
+   "en": "I don't know who you are, but I'm-- Damn it! Got to go.",
+   "tr": "Kim olduğunuzu bilmiyorum ama ben-- Kahretsin! Gitmem lazım."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175340",
+   "en": "Can you hear me? I'm getting all kinds of interference.",
+   "tr": "Beni duyabiliyor musunuz? Her türlü parazit alıyorum."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175341",
+   "en": "Damn this thing. Sorry, there's a lot of feedback.",
+   "tr": "Lanet olsun şuna. Üzgünüm, çok fazla geri besleme var."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_human_radio_D|175834",
+   "en": "I'll see if I can fix it. In the meantime, just keep doing what you're doing.",
+   "tr": "Düzeltebilir miyim bakacağım. Bu arada yaptığınızı yapmaya devam edin."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179108",
+   "en": "Release the varren!",
+   "tr": "Varren'leri salın!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179109",
+   "en": "Look out!",
+   "tr": "Dikkat!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179110",
+   "en": "Take cover.",
+   "tr": "Siper alın."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179111",
+   "en": "Fresh meat.",
+   "tr": "Taze et."
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179112",
+   "en": "Harak. Chekt! Chekt!",
+   "tr": "Harak. Chekt! Chekt!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179113",
+   "en": "Perimeter breached!",
+   "tr": "Çevre ihlal edildi!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179114",
+   "en": "Arm the drones!",
+   "tr": "Dronları silahlandırın!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179115",
+   "en": "Send the drones in!",
+   "tr": "Dronları gönderin!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179116",
+   "en": "Humans! Take 'em out!",
+   "tr": "İnsanlar! Hepsini indirin!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179117",
+   "en": "Balak wants them all dead!",
+   "tr": "Balak hepsinin ölmesini istiyor!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179118",
+   "en": "Alliance military!",
+   "tr": "İttifak ordusu!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179119",
+   "en": "Die, human!",
+   "tr": "Öl insan!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179120",
+   "en": "Filthy human scum!",
+   "tr": "Pis insan pisliği!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179121",
+   "en": "Balak's down!",
+   "tr": "Balak düştü!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179122",
+   "en": "They got Charn!",
+   "tr": "Charn'ı vurdular!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179123",
+   "en": "D...d...d...die, human!",
+   "tr": "Ö...ö...öl insan!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179124",
+   "en": "Fall back to base!",
+   "tr": "Üsse çekilin!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179125",
+   "en": "Go! Go! Go!",
+   "tr": "Gidin! Gidin! Gidin!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179126",
+   "en": "Move it!",
+   "tr": "Kıpırdayın!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179127",
+   "en": "Hold the line!",
+   "tr": "Hattı tutun!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179128",
+   "en": "Death before surrender!",
+   "tr": "Teslimiyetten önce ölüm!"
+  },
+  {
+   "key": "BIOA_UNC52_00torch_DSG_LOC|prc1_trig_batarians_D|179347",
+   "en": "Attack!",
+   "tr": "Saldırın!"
+  }
+ ]
+}

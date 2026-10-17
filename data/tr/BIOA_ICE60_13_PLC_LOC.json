@@ -1,0 +1,130 @@
+{
+ "meta": {
+  "package": "BIOA_ICE60_13_PLC_LOC_INT.pcc",
+  "stem": "BIOA_ICE60_13_PLC_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152989",
+   "en": "You download the evidence from Lorik's computer.",
+   "tr": "Lorik'in bilgisayarından kanıtları indiriyorsunuz."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152990",
+   "en": "Quarantine lab locked down.",
+   "tr": "Karantina laboratuvarı kilitlendi."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152991",
+   "en": "Fuel lines fixed.",
+   "tr": "Yakıt hatları onarıldı."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152992",
+   "en": "Mira offline.",
+   "tr": "Mira çevrimdışı."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152993",
+   "en": "Landlines repaired.",
+   "tr": "Sabit hatlar onarıldı."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152995",
+   "en": "This door can only be opened by Anoleis' assistant.",
+   "tr": "Bu kapıyı yalnızca Anoleis'in asistanı açabilir."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|152996",
+   "en": "Synthetic Insights lockdown. Authorization Kaira Stirling.",
+   "tr": "Synthetic Insights kilitlendi. Yetki: Kaira Stirling."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|156875",
+   "en": "Elevator locked down by order of Captain J. Ventralis.",
+   "tr": "Asansör Kaptan J. Ventralis'in emriyle kilitlendi."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|159157",
+   "en": "Reactor power restored.",
+   "tr": "Reaktör gücü geri geldi."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|159158",
+   "en": "Not enough power for restart.",
+   "tr": "Yeniden başlatma için yeterli güç yok."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|159170",
+   "en": "Memory bypass successful.",
+   "tr": "Bellek atlatma başarılı."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|159171",
+   "en": "Electronic locks offline. Please consult station Virtual Intelligence.",
+   "tr": "Elektronik kilitler çevrimdışı. Lütfen istasyon Sanal Zekâsına danışın."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|159173",
+   "en": "Connection ports out of sequence. Unable to dock data module.",
+   "tr": "Bağlantı portları sıra dışı. Veri modülü kenetlenemiyor."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|159946",
+   "en": "Memory Core 1 damaged. Transfer module stack to Core 2 or 3 to reactivate. Press Escape to Exit.",
+   "tr": "Bellek Çekirdeği 1 hasarlı. Yeniden etkinleştirmek için modül yığınını Çekirdek 2 veya 3'e aktarın. Çıkmak için Escape'e basın."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|160950",
+   "en": "This elevator is only accessible to Binary Helix employees.",
+   "tr": "Bu asansöre yalnızca Binary Helix çalışanları erişebilir."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|160959",
+   "en": "Elevator locked down until purge activated.",
+   "tr": "Asansör, temizleme etkinleştirilene kadar kilitli."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|162700",
+   "en": "Emergency exit only.",
+   "tr": "Yalnızca acil çıkış."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|162701",
+   "en": "Purge armed.",
+   "tr": "Temizleme hazır."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|162770",
+   "en": "Authorization Required.",
+   "tr": "Yetki Gerekli."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|164577",
+   "en": "Maintenance door locked. Authorization required.",
+   "tr": "Bakım kapısı kilitli. Yetki gerekli."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|165286",
+   "en": "Hotlabs not accessible.",
+   "tr": "Sıcak laboratuvarlara erişilemiyor."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|171751",
+   "en": "Synthetic Insights security disabled.",
+   "tr": "Synthetic Insights güvenliği devre dışı."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|172900",
+   "en": "Repairs incomplete.",
+   "tr": "Onarımlar tamamlanmadı."
+  },
+  {
+   "key": "BIOA_ICE60_13_PLC_LOC|ice00_popup_text_D|172903",
+   "en": "Core reactivated",
+   "tr": "Çekirdek yeniden etkinleştirildi"
+  }
+ ]
+}

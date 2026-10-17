@@ -1,0 +1,385 @@
+{
+ "meta": {
+  "package": "BIOA_WAR20_05_DSG_LOC_INT.pcc",
+  "stem": "BIOA_WAR20_05_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35485",
+   "en": "I bet these things ignored the geth. Can't eat metal.",
+   "tr": "Bahse girerim bu yaratıklar geth'i yok saydı. Metal yenmez."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35486",
+   "en": "The varren probably did not recognize the geth as food. We, on the other hand, appear most appetizing.",
+   "tr": "Varren muhtemelen geth'i yiyecek olarak tanımadı. Biz ise çok iştah açıcı görünüyoruz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35487",
+   "en": "Xenogenic field manuals warn against triggering a food response in local predators. It appears we don't have a choice.",
+   "tr": "Ksenojenik saha kılavuzları yerel avcılarda yeme tepkisini tetiklemeye karşı uyarır. Görünüşe göre seçeneğimiz yok."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35488",
+   "en": "The geth ignored these beasts. Their only targets were the colony survivors.",
+   "tr": "Geth bu canavarları yok saydı. Tek hedefleri koloniden hayatta kalanlardı."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35490",
+   "en": "That should keep Fai Dan and the others safe. After an update we can head out for the main geth encampment.",
+   "tr": "Bu Fai Dan'ı ve diğerlerini güvende tutmalı. Bir güncellemeden sonra ana geth kampına gidebiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35491",
+   "en": "So, are we ready to roll out to wherever the geth are bunkered? Check in with Fai Dan, but I think we are done here.",
+   "tr": "Peki geth'in sığındığı yere gitmeye hazır mıyız? Fai Dan'a uğra ama sanırım burada işimiz bitti."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35492",
+   "en": "Now we can update Fai Dan and get a vehicle safely out of the Normandy. The geth base is our next objective.",
+   "tr": "Şimdi Fai Dan'a bilgi verip Normandy'den bir aracı güvenle çıkarabiliriz. Geth üssü sıradaki hedefimiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35493",
+   "en": "We should update Fai Dan on the situation before we move on to wherever the geth are bunkered. He's the closest thing left to proper channels.",
+   "tr": "Geth'in sığındığı yere geçmeden önce Fai Dan'ı durumdan haberdar etmeliyiz. Düzgün kanallara en yakın olan o."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35494",
+   "en": "The geth will be back. Update Fai Dan, but don't take long. We should roll out the vehicle and find where the geth are bunkered.",
+   "tr": "Geth geri gelecek. Fai Dan'ı bilgilendir ama uzun sürme. Aracı çıkarıp geth'in sığındığı yeri bulmalıyız."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35496",
+   "en": "And now to the geth base. Ready for anything, Commander.",
+   "tr": "Ve şimdi geth üssüne. Her şeye hazırım Komutan."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35497",
+   "en": "All right, heading for the geth base. Let's take it to them.",
+   "tr": "Pekâlâ, geth üssüne gidiyoruz. Onlara gösterelim."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35498",
+   "en": "And now to the geth base. Not something an intelligent being would typically say.",
+   "tr": "Ve şimdi geth üssüne. Akıllı bir varlığın genelde söyleyeceği bir şey değil."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35499",
+   "en": "And now to the geth base. Not something an intelligent mind expects to say.",
+   "tr": "Ve şimdi geth üssüne. Akıllı bir zihnin söylemeyi beklemediği bir şey."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35500",
+   "en": "And now to the geth base. Expect heavy resistance.",
+   "tr": "Ve şimdi geth üssüne. Ağır direniş bekleyin."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35512",
+   "en": "Good view of where we need to go.",
+   "tr": "Gitmemiz gereken yerin güzel bir manzarası."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35513",
+   "en": "Nice view of where we need to go.",
+   "tr": "Gitmemiz gereken yerin hoş bir manzarası."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35514",
+   "en": "A good vantage point showing out destination.",
+   "tr": "Varış noktamızı gösteren iyi bir bakış noktası."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35515",
+   "en": "An optimal view of where we need to go.",
+   "tr": "Gitmemiz gereken yerin ideal bir manzarası."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35516",
+   "en": "A good view of where we need to go.",
+   "tr": "Gitmemiz gereken yerin iyi bir manzarası."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35518",
+   "en": "Careful. Smells like a slaughterhouse. Organic preds, not geth.",
+   "tr": "Dikkat. Mezbaha gibi kokuyor. Geth değil, organik avcılar."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35519",
+   "en": "Ugh, what's that smell? Geth don't stink like that.",
+   "tr": "Ugh, bu koku ne? Geth öyle kokmaz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35520",
+   "en": "Holy... it reeks down here.",
+   "tr": "Vay canına... burası berbat kokuyor."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35521",
+   "en": "These tunnels have an odor much more... visceral than geth.",
+   "tr": "Bu tünellerin kokusu geth'inkinden çok daha... iç organ gibi."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35522",
+   "en": "I smell... carrion. And lots of it.",
+   "tr": "Leş kokusu alıyorum. Hem de bol."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|35524",
+   "en": "The local predators probably ignored the geth. Can't eat metal.",
+   "tr": "Yerel avcılar muhtemelen geth'i yok saydı. Metal yenmez."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|65183",
+   "en": "Fai Dan would probably like to know there are other survivors.",
+   "tr": "Fai Dan muhtemelen başka hayatta kalanlar olduğunu bilmek isterdi."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|65184",
+   "en": "I suppose we should tell Fai Dan about the others.",
+   "tr": "Sanırım Fai Dan'a diğerlerinden bahsetmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|65185",
+   "en": "Should we alert Fai Dan to the other survivors? He is the acting leader here.",
+   "tr": "Fai Dan'ı diğer hayatta kalanlardan haberdar etmeli miyiz? Burada vekil lider o."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|65186",
+   "en": "Fai Dan should be told of the other survivors. He is acting leader, after all.",
+   "tr": "Fai Dan'a diğer hayatta kalanlar söylenmeli. Sonuçta vekil lider."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|65187",
+   "en": "Fai Dan will be interested in the other survivors. As leader, I would be.",
+   "tr": "Fai Dan diğer hayatta kalanlarla ilgilenecektir. Lider olarak ben de ilgilenirdim."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73430",
+   "en": "What is that? There's no way that's human, infection or not.",
+   "tr": "O ne? Enfeksiyon olsun olmasın bunun insan olması imkânsız."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73431",
+   "en": "You got it, Commander. Let's do this.",
+   "tr": "Tamam Komutan. Yapalım şunu."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73432",
+   "en": "Whatever you say, Commander. Let's do it.",
+   "tr": "Sen nasıl dersen Komutan. Yapalım."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73433",
+   "en": "As you order, Commander Shepard.",
+   "tr": "Emrettiğiniz gibi Komutan Shepard."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73434",
+   "en": "Very well, Commander. Let's go.",
+   "tr": "Pekâlâ Komutan. Gidelim."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73435",
+   "en": "As you would have it, Commander Shepard. ",
+   "tr": "Nasıl isterseniz Komutan Shepard."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73437",
+   "en": "Hold on. What about those nerve grenades? Can't we use them to disable the colonists?",
+   "tr": "Dur. Peki ya şu sinir bombaları? Kolonistleri etkisiz hale getirmek için kullanamaz mıyız?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73438",
+   "en": "I hear that, but what about those nerve grenades we jury-rigged with Baynham?",
+   "tr": "Duyuyorum ama Baynham'la birlikte hazırladığımız şu sinir bombaları ne olacak?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73439",
+   "en": "Are we abandoning the nerve grenades we received from Dr. Baynham?",
+   "tr": "Dr. Baynham'dan aldığımız sinir bombalarını bırakıyor muyuz?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73440",
+   "en": "We did acquire nerve grenades from Dr. Baynham. Do you want us to use them?",
+   "tr": "Dr. Baynham'dan sinir bombaları aldık. Kullanmamızı ister misin?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73441",
+   "en": "What about the nerve grenades we acquired? We could potentially incapacitate the colonists.",
+   "tr": "Elde ettiğimiz sinir bombaları ne olacak? Kolonistleri etkisiz hale getirebiliriz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73443",
+   "en": "Very well, Commander. If that's what you want.",
+   "tr": "Pekâlâ Komutan. Bunu istiyorsan."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73444",
+   "en": "All right. It's too bad there's no other way. They can't help themselves.",
+   "tr": "Pekâlâ. Başka yol olmaması yazık. Kendilerine engel olamıyorlar."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73445",
+   "en": "It is regrettable, but if you say there is no other option, that is just the way it is.",
+   "tr": "Üzücü ama başka seçenek olmadığını söylüyorsan öyle."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73446",
+   "en": "Very well. It is regrettable, but it is your decision.",
+   "tr": "Pekâlâ. Üzücü ama karar sizin."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73447",
+   "en": "It's a shame there is no other way. Their actions are not their own.",
+   "tr": "Başka yol olmaması yazık. Eylemleri kendilerine ait değil."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73448",
+   "en": "What the hell was that? I don't know what that plant does to people, but that's not human.",
+   "tr": "Bu da neydi? O bitkinin insanlara ne yaptığını bilmiyorum ama bu insan değil."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73449",
+   "en": "No amount of infection could have altered a human to that extent. I wonder what is going on here?",
+   "tr": "Hiçbir enfeksiyon bir insanı bu kadar değiştiremez. Burada neler oluyor acaba?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73450",
+   "en": "What was that creature? It certainly wasn't human.",
+   "tr": "O yaratık neydi? Kesinlikle insan değildi."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73451",
+   "en": "That thing was not one of the colonists. No amount of infection could have done that.",
+   "tr": "O şey kolonistlerden biri değildi. Hiçbir enfeksiyon bunu yapamaz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73453",
+   "en": "No hitting the colonists, even if the Thorian makes them fire on us. That's what the gas grenades are for.",
+   "tr": "Kolonistlere vurmayın, Thorian onları bize ateş ettirse bile. Gaz bombaları bunun için."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73454",
+   "en": "Fire if you have to, but let's try to keep casualties to a minimum. They can't help themselves. ",
+   "tr": "Gerekirse ateş edin ama kayıpları asgaride tutmaya çalışalım. Kendilerine engel olamıyorlar."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73455",
+   "en": "I want a clean sweep. Nothing hostile lives to take a second shot.",
+   "tr": "Temiz bir temizlik istiyorum. Düşman olan hiçbir şey ikinci atışı yapmak için yaşamasın."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73457",
+   "en": "All right. Try not to tag the colonists, but we have to get through no matter what.",
+   "tr": "Pekâlâ. Kolonistlere vurmamaya çalışın ama ne olursa olsun geçmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73458",
+   "en": "We don't have time to waste on these people. There's a galaxy at stake.",
+   "tr": "Bu insanlar için harcayacak vaktimiz yok. Bir galaksi tehlikede."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73461",
+   "en": "Careful. Leave the colonists.",
+   "tr": "Dikkat. Kolonistleri bırakın."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73462",
+   "en": "Try to avoid the colonists.",
+   "tr": "Kolonistlerden kaçınmaya çalışın."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73463",
+   "en": "Wipe everything out.",
+   "tr": "Her şeyi silin."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73465",
+   "en": "Fine, but don't take chances.",
+   "tr": "Peki ama risk alma."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|73466",
+   "en": "We can't take the chance.",
+   "tr": "Bu riski alamayız."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76485",
+   "en": "They are definitely protecting the Borealis. We've got to move one of those cargo blocks.",
+   "tr": "Borealis'i kesinlikle koruyorlar. O kargo bloklarından birini hareket ettirmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76486",
+   "en": "They are all over the Borealis. Let's move one of the cargo blocks and see what crawls out.",
+   "tr": "Borealis'in her yerindeler. Kargo bloklarından birini oynatıp ne çıkacak görelim."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76487",
+   "en": "It is clear that they are protecting the Borealis. We have got to move one of those cargo blocks.",
+   "tr": "Borealis'i koruduklarına şüphe yok. O kargo bloklarından birini hareket ettirmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76488",
+   "en": "They are definitely protecting the ship, Commander. We've got to move one of those cargo blocks.",
+   "tr": "Gemiyi kesinlikle koruyorlar Komutan. O kargo bloklarından birini hareket ettirmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76489",
+   "en": "They definitely want to keep us from the ship. We've got to move one of those cargo blocks.",
+   "tr": "Bizi gemiden uzak tutmak istedikleri kesin. O kargo bloklarından birini hareket ettirmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76491",
+   "en": "There's the crane. Can you make sense of the controls, Commander?",
+   "tr": "İşte vinç. Kontrolleri anlayabiliyor musun Komutan?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76492",
+   "en": "There's the controls for the crane, Commander. Can you make sense of them?",
+   "tr": "İşte vincin kontrolleri Komutan. Anlayabiliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76493",
+   "en": "There are the controls for the crane, Commander Shepard. Can you make sense of them?",
+   "tr": "İşte vincin kontrolleri Komutan Shepard. Anlayabiliyor musunuz?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76494",
+   "en": "There's the crane, Commander. Can you make sense of the controls?",
+   "tr": "İşte vinç Komutan. Kontrolleri anlayabiliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|76495",
+   "en": "There's the target, Shepard. Can you make sense of the controls?",
+   "tr": "İşte hedef Shepard. Kontrolleri anlayabiliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|77150",
+   "en": "They're definitely bunkered around the Borealis. We've gotta move one of its cargo blocks once we're topside.",
+   "tr": "Kesinlikle Borealis'in etrafında siper almışlar. Yukarı çıkınca kargo bloklarından birini oynatmalıyız."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|77151",
+   "en": "Yeah, they're bunkered around the Borealis up there. We've got to move one of its cargo blocks once we're topside.",
+   "tr": "Evet, orada Borealis'in etrafında siper almışlar. Yukarı çıkınca kargo bloklarından birini oynatmalıyız."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|77152",
+   "en": "The colonists are clustered around the Borealis. It may be difficult to move one of its cargo blocks.",
+   "tr": "Kolonistler Borealis'in etrafında kümelenmiş. Kargo bloklarından birini oynatmak zor olabilir."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|77153",
+   "en": "They are definitely bunkered around the Borealis. We've got to move one of its cargo blocks once we're topside.",
+   "tr": "Kesinlikle Borealis'in etrafında siper almışlar. Yukarı çıkınca kargo bloklarından birini oynatmalıyız."
+  },
+  {
+   "key": "BIOA_WAR20_05_DSG_LOC|war20_trigger_D|77154",
+   "en": "They are bunkered around the Borealis. We'll have to move one of its cargo blocks once we're topside.",
+   "tr": "Borealis'in etrafında siper almışlar. Yukarı çıkınca kargo bloklarından birini oynatmak zorunda kalacağız."
+  }
+ ]
+}

@@ -1,0 +1,765 @@
+{
+ "meta": {
+  "package": "BIOA_STA20_10D_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA20_10D_DSG_LOC",
+  "textLang": "INT",
+  "sets": 4
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30494",
+   "en": "Pleased greeting. Human, it is always good to see your kind.",
+   "tr": "Memnun selam. İnsan, türünüzü görmek her zaman güzel."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30496",
+   "en": "Modestly, I work to bring the problems and the requests of the elcor groups to the attention of the Council.",
+   "tr": "Alçakgönüllülükle, elcor gruplarının sorunlarını ve taleplerini Konsey'in dikkatine getirmek için çalışıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30497",
+   "en": "Ha. They only give us these positions to keep us quiet. The Council doesn't care about our races.",
+   "tr": "Ha. Bize bu görevleri sadece sessiz kalmamız için veriyorlar. Konsey ırklarımızı umursamıyor."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30498",
+   "en": "Chastising rebuke, your tone is inappropriate, Din. This human is not to blame for your malcontent or your misconceived suspicions.",
+   "tr": "Azarlayan çıkış, tonunuz uygunsuz, Din. Bu insan sizin hoşnutsuzluğunuzdan ya da yanlış şüphelerinizden sorumlu değil."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30501",
+   "en": "Our people communicate less through words and more through scent and slight movements.",
+   "tr": "Halkımız iletişimi kelimelerden çok koku ve hafif hareketlerle kurar."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30502",
+   "en": "Plainly, we discovered our vocal expression was not enough to convey the feelings of our conversations to other species.",
+   "tr": "Açıkça, vokal ifademizin konuşmalarımızın hislerini diğer türlere iletmeye yetmediğini keşfettik."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30503",
+   "en": "Why do you bother, Calyn? These Earth-clan don't really care about our ways.",
+   "tr": "Neden uğraşıyorsun, Calyn? Bu Dünya klanı gerçekten yollarımızı umursamıyor."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30504",
+   "en": "Remorseful response, Din. You don't truly believe that. And if you do, I am very sorry for you.",
+   "tr": "Pişman cevap, Din. Buna gerçekten inanmıyorsun. İnanıyorsan senin için çok üzülürüm."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30505",
+   "en": "Sincere farewell. Good day to you, human. Enjoy your time on the Citadel.",
+   "tr": "Samimi veda. İyi günler, insan. Citadel'de vaktinizden keyif alın."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30506",
+   "en": "Surprised greeting, human Spectre. Sincere congratulations, word has arrived of your induction.",
+   "tr": "Şaşkın selam, insan Spectre. Samimi tebrikler, kabulünüzün haberi ulaştı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30507",
+   "en": "Surprised welcome, you have returned, human. Genuine inquiry, what may I do for you this day?",
+   "tr": "Şaşkın karşılama, geri döndünüz, insan. Samimi soru, bugün sizin için ne yapabilirim?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30508",
+   "en": "Pleasant greeting, it is good to see you again, human Spectre. Sincere query, how may I help you this day?",
+   "tr": "Hoş selam, sizi yeniden görmek güzel, insan Spectre. Samimi soru, bugün size nasıl yardımcı olabilirim?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30509",
+   "en": "What do you do here?",
+   "tr": "Burada ne iş yapıyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30514",
+   "en": "Why do you explain what you're about to say?",
+   "tr": "Söyleyeceğin şeyi neden önceden açıklıyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30520",
+   "en": "Goodbye, Ambassador.",
+   "tr": "Hoşça kalın, Büyükelçi."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30730",
+   "en": "Genuine enthusiasm, I delight in telling the history of my people. It is agreeable to share our culture with others.",
+   "tr": "Samimi coşku, halkımın tarihini anlatmaktan zevk alırım. Kültürümüzü başkalarıyla paylaşmak hoş."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30731",
+   "en": "The elcor were just beginning to explore Council space when the asari first made contact with us.",
+   "tr": "Asari bizimle ilk temas kurduğunda elcor Konsey uzayını yeni keşfetmeye başlıyordu."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30732",
+   "en": "With their help, we discovered the relay closest to our system and from there, the Citadel.",
+   "tr": "Onların yardımıyla sistemimize en yakın röleyi ve oradan Citadel'i keşfettik."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30733",
+   "en": "Proudly, within one lifetime we established a regular route to the Citadel and quickly became one of the more active species living on this great station.",
+   "tr": "Gururla, bir ömür içinde Citadel'e düzenli bir rota kurduk ve çabucak bu büyük istasyonda yaşayan daha aktif türlerden biri olduk."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30734",
+   "en": "Frankly, we elcor prefer the safety and familiarity of our own colonies to the confines of space travel.",
+   "tr": "Açıkçası, biz elcor uzay yolculuğunun sınırlarına kıyasla kendi kolonilerimizin güvenliğini ve tanıdıklığını tercih ederiz."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30735",
+   "en": "Our society is built on small tight-knit groups, though we are always welcoming to outsiders.",
+   "tr": "Toplumumuz küçük sıkı gruplar üzerine kurulu ama yabancıları her zaman kabul ederiz."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30736",
+   "en": "Our government tends to be very stable. Our people are not very comfortable with sudden changes.",
+   "tr": "Hükümetimiz çok istikrarlı olma eğilimindedir. Halkımız ani değişikliklerden pek hoşlanmaz."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30741",
+   "en": "Tell me more about your species.",
+   "tr": "Bana türünüzden daha fazla bahsedin."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30742",
+   "en": "Tell me about the history and origins of the elcor.",
+   "tr": "Bana elcor'un tarihini ve kökenlerini anlatın."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|30745",
+   "en": "I'd like to know more about the culture of the elcor.",
+   "tr": "Elcor kültürü hakkında daha fazlasını bilmek isterim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|46574",
+   "en": "History",
+   "tr": "Tarih"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|46575",
+   "en": "Culture",
+   "tr": "Kültür"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|46586",
+   "en": "Ambassador",
+   "tr": "Büyükelçi"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|46587",
+   "en": "Your speech",
+   "tr": "Konuşma tarzın"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|46588",
+   "en": "Elcor",
+   "tr": "Elcor"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|46589",
+   "en": "No, thanks.",
+   "tr": "Hayır, sağ olun."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|89116",
+   "en": "I am Ambassador Calyn. Genuine query, is there something I can do for you this day?",
+   "tr": "Ben Büyükelçi Calyn. Samimi soru, bugün sizin için yapabileceğim bir şey var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|89121",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|89122",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|89123",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|89124",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|89125",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_elcor_ambassador_D|166118",
+   "en": "Nothing, thanks.",
+   "tr": "Hiçbir şey, teşekkürler."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_trig_01_xeltancomplains_D|75225",
+   "en": "I understand what you are saying, but these allegations are very serious. I can't just--",
+   "tr": "Ne dediğinizi anlıyorum ama bu iddialar çok ciddi. Öylece..."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_trig_01_xeltancomplains_D|75226",
+   "en": "This is serious. My reputation is at stake. I spoke with the Consort in confidence, and her alone. And she betrayed that confidence.",
+   "tr": "Bu ciddi. İtibarım tehlikede. Konsort'la gizlilik içinde, yalnızca onunla konuştum. Ve o bu gizliliği ihlal etti."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_trig_01_xeltancomplains_D|75227",
+   "en": "All right. I will look into it for you. In the meantime, do not do anything rash.",
+   "tr": "Pekâlâ. Sizin için bakacağım. Bu arada aceleci bir şey yapmayın."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30463",
+   "en": "Earth-clan, you are in the wrong place, I think. Your ambassador is next door in the large office.",
+   "tr": "Dünya klanı, bence yanlış yerdesiniz. Büyükelçiniz yandaki büyük ofiste."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30466",
+   "en": "I look out for the best interests of the volus people. No easy task considering how often we are overlooked by the Council.",
+   "tr": "Volus halkının çıkarlarını gözetiyorum. Konsey tarafından ne sıklıkla göz ardı edildiğimiz düşünülürse kolay bir iş değil."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30468",
+   "en": "Chastising rebuke, Din. The Council favors your species greatly.",
+   "tr": "Azarlayan çıkış, Din. Konsey türünüzü büyük ölçüde kayırıyor."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30469",
+   "en": "You are naïve. The Earth-clan will be invited to the Council long before our species will.",
+   "tr": "Saf davranıyorsunuz. Dünya klanı Konsey'e bizim türümüzden çok önce davet edilecek."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30470",
+   "en": "All species must prove themselves before they join the Council. All but the Earth-clans, it would seem.",
+   "tr": "Tüm türler Konsey'e katılmadan önce kendilerini kanıtlamalı. Dünya klanları hariç, anlaşılan."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30471",
+   "en": "Dismissive, ignore the volus ambassador, human. He is incorrect in his assessment.",
+   "tr": "Küçümseyerek, volus büyükelçisini göz ardı edin, insan. Değerlendirmesi yanlış."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30472",
+   "en": "Really? How long have we been waiting? How long do you think we'll continue to wait? Bah. This talk is wasted on the humans.",
+   "tr": "Gerçekten mi? Ne kadardır bekliyoruz? Sizce daha ne kadar bekleyeceğiz? Bah. Bu konuşma insanlara israf."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30473",
+   "en": "You are in the embassy for the volus and the elcor.",
+   "tr": "Volus ve elcor büyükelçiliğindesiniz."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30475",
+   "en": "In this shared space, I aid my fellow volus. When I'm not being interrupted.",
+   "tr": "Bu ortak alanda hemcinsim volus'a yardım ediyorum. Bölünmediğim zamanlarda."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30476",
+   "en": "Yes, yes. Good day, Earth-clan.",
+   "tr": "Evet, evet. İyi günler, Dünya klanı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30477",
+   "en": "Well, the new Earth-clan Spectre. Obviously, you are already lost. Your ambassador is next door.",
+   "tr": "Ee, yeni Dünya klanı Spectre'ı. Belli ki zaten kayboldunuz. Büyükelçiniz yandaki."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30478",
+   "en": "Ah, the Earth-clan again. What is it now?",
+   "tr": "Ah, yine Dünya klanı. Şimdi ne var?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30479",
+   "en": "The Earth-clan Spectre has returned to speak with me.",
+   "tr": "Dünya klanı Spectre'ı benimle konuşmaya döndü."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30480",
+   "en": "What is it you do here?",
+   "tr": "Burada ne yapıyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30486",
+   "en": "Why aren't the elcor or volus part of the Council?",
+   "tr": "Elcor ya da volus neden Konsey'in parçası değil?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30489",
+   "en": "What is this place?",
+   "tr": "Burası ne?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30492",
+   "en": "Goodbye, Ambassador.",
+   "tr": "Hoşça kalın, Büyükelçi."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30841",
+   "en": "I'm sure our history and culture would bore you, Earth-clan.",
+   "tr": "Eminim tarihimiz ve kültürümüz sizi sıkar, Dünya klanı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30843",
+   "en": "My people came to the Citadel shortly after the asari and salarians had discovered it. We were instrumental in establishing a standardized galactic economy.",
+   "tr": "Halkım Citadel'e asari ve salarian'lar onu keşfettikten kısa süre sonra geldi. Standartlaştırılmış galaktik ekonominin kurulmasında etkiliydik."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30845",
+   "en": "However, despite our long association with the Citadel and our many contributions to galactic society, we still do not hold a seat on the Council.",
+   "tr": "Ancak Citadel'le uzun ilişkimize ve galaktik topluma pek çok katkımıza rağmen hâlâ Konsey'de koltuğumuz yok."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30846",
+   "en": "We are tribal by nature, but our ways are not violent. We barter and trade our lands and tribe members in order to increase status.",
+   "tr": "Doğamız gereği kabilesel yapıdayız ama yollarımız şiddetli değil. Statüyü artırmak için toprağımızı ve kabile üyelerimizi takas ederiz."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30847",
+   "en": "Larger tribes often engulf smaller ones and eventually split again. Our society is very malleable, and our government is always shifting and changing.",
+   "tr": "Büyük kabileler sıklıkla küçükleri yutar ve sonunda yeniden bölünür. Toplumumuz çok şekil alabilir ve hükümetimiz sürekli değişiyor."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30848",
+   "en": "Since we're not physically adept, we trade our services for protection.",
+   "tr": "Fiziksel olarak yetenekli olmadığımız için hizmetlerimizi koruma karşılığında takas ederiz."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30849",
+   "en": "You humans are new to the Citadel, and yet the Council has granted you great favor.",
+   "tr": "Siz insanlar Citadel'e yenisiniz, yine de Konsey size büyük kayrama gösterdi."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30851",
+   "en": "Chastising rebuke, Din. Your species has always been granted many concessions. Volus territory has expanded ten-fold since coming to the Citadel.",
+   "tr": "Azarlayan çıkış, Din. Türünüze hep çok taviz verildi. Volus toprakları Citadel'e geldiğinden beri on kat genişledi."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30853",
+   "en": "I'd like to know more about the volus.",
+   "tr": "Volus hakkında daha fazlasını bilmek isterim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30854",
+   "en": "Actually, I would like to know more about your history.",
+   "tr": "Aslında tarihin hakkında daha fazlasını bilmek isterim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30858",
+   "en": "Tell me about volus culture.",
+   "tr": "Bana volus kültüründen bahset."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|30861",
+   "en": "You seem to have a bit of a chip on your shoulder, Din.",
+   "tr": "Biraz omzunda çip var gibi, Din."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47120",
+   "en": "History",
+   "tr": "Tarih"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47121",
+   "en": "Culture",
+   "tr": "Kültür"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47122",
+   "en": "Why so cranky?",
+   "tr": "Neden bu kadar huysuzsun?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47133",
+   "en": "Ambassador",
+   "tr": "Büyükelçi"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47134",
+   "en": "Embassy",
+   "tr": "Büyükelçilik"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47135",
+   "en": "Volus",
+   "tr": "Volus"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47136",
+   "en": "No, thanks.",
+   "tr": "Hayır, sağ olun."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|47142",
+   "en": "Council admittance.",
+   "tr": "Konsey'e kabul."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89141",
+   "en": "Hmph. Details. We still have no real say in the decisions that affect Citadel space.",
+   "tr": "Hmph. Ayrıntılar. Citadel uzayını etkileyen kararlarda hâlâ gerçek bir söz hakkımız yok."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89142",
+   "en": "Chastising remark. Don't be so rude, Din. At least introduce yourself.",
+   "tr": "Azarlayan söz. Bu kadar kaba olma, Din. En azından kendini tanıt."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89143",
+   "en": "(sigh) I am Din Korlak, volus ambassador. Is there something I can do for you, Earth-clan?",
+   "tr": "(iç çeker) Ben volus büyükelçisi Din Korlak. Sizin için yapabileceğim bir şey var mı, Dünya klanı?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89150",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89151",
+   "en": "Nothing.",
+   "tr": "Hiçbir şey."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89156",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89157",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89158",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89159",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89160",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|89162",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|93857",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_volus_ambassador_D|104491",
+   "en": "Your ambassador is next door, in his own office.",
+   "tr": "Büyükelçiniz yandaki kendi ofisinde."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75760",
+   "en": "Hello there, human. Sincere apology, but I am here on business and cannot be distracted right now.",
+   "tr": "Merhaba, insan. Samimi özür, ama burada iş için bulunuyorum ve şu an dikkatimin dağılmasına izin veremem."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75762",
+   "en": "Alarmed response, you overheard that, did you? This is all going so wrong, and it is the asari Consort's fault. She's the one who started all this.",
+   "tr": "Alarmlı cevap, bunu duydun demek? Her şey çok ters gidiyor ve suçlu asari Konsort. Bütün bunları başlatan o."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75763",
+   "en": "Curious, you have not heard? You must be new to the Citadel. Everyone knows Sha'ira, the Consort.",
+   "tr": "Meraklı, duymadınız mı? Citadel'e yeni olmalısınız. Herkes Konsort Sha'ira'yı bilir."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75764",
+   "en": "Yes, I must speak more with the ambassador myself. Good day, human.",
+   "tr": "Evet, büyükelçiyle ben de daha çok konuşmalıyım. İyi günler, insan."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75765",
+   "en": "I cannot speak more about this problem; it is too sensitive. Suffice it to say, she has compromised my authority as a diplomat.",
+   "tr": "Bu sorun hakkında daha fazla konuşamam; çok hassas. Diplomat olarak yetkimi zedelediğini söylemek yeter."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75767",
+   "en": "She is across the bridge from here. Her offices are easy enough to spot. Good day, human.",
+   "tr": "Buradan köprünün karşısında. Ofislerini fark etmek yeterince kolay. İyi günler, insan."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75768",
+   "en": "Thanks to you, human. Good day.",
+   "tr": "Sayende, insan. İyi günler."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75770",
+   "en": "Curious, what do you know about the Consort and her relationship to me?",
+   "tr": "Meraklı, Konsort ve benimle ilişkisi hakkında ne biliyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75771",
+   "en": "Unbelieving, I know this Septimus and he could not learn my secrets. The only way he could learn them is from the asari Consort.",
+   "tr": "İnanmayarak, bu Septimus'u tanıyorum ve sırlarımı öğrenemezdi. Öğrenebilmesinin tek yolu asari Konsort."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75772",
+   "en": "Actually he did find out on his own. Here, this proves it.",
+   "tr": "Aslında kendi başına öğrendi. Bak, bu kanıtlıyor."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75773",
+   "en": "Confused, this is difficult to fathom. If the turian could learn this on his own... dismayed, anyone can discover my secret.",
+   "tr": "Şaşkın, bunu kavramak zor. Turian bunu kendi başına öğrenebildiyse... dehşetle, herkes sırrımı keşfedebilir."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75774",
+   "en": "Relieved, I suppose you are correct, human. Thank you for this information.",
+   "tr": "Rahatlayarak, sanırım haklısınız, insan. Bu bilgi için teşekkür ederim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75775",
+   "en": "Agreed, most assuredly. It is clear that the Consort was blameless.",
+   "tr": "Katılıyorum, kesinlikle. Konsort'un suçsuz olduğu açık."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75776",
+   "en": "Startled realization, I must speak with the Consort. She will be most displeased with my actions.",
+   "tr": "Irkılarak fark ediş, Konsort'la konuşmalıyım. Eylemlerimden çok hoşnutsuz olacak."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75777",
+   "en": "Anxious request, please, human, if you will excuse me, I must go now.",
+   "tr": "Endişeli rica, lütfen, insan, izin verirseniz şimdi gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75778",
+   "en": "Doubtful, perhaps you are right, human. I can only hope so.",
+   "tr": "Şüpheyle, belki haklısınız, insan. Yalnızca umut edebilirim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75779",
+   "en": "Farewell, human.",
+   "tr": "Hoşça kalın, insan."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75780",
+   "en": "Sorry to interrupt. Go about your business.",
+   "tr": "Bölündüğüm için üzgünüm. İşinize devam edin."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75782",
+   "en": "Who's this asari Consort?",
+   "tr": "Bu asari Konsort da kim?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75784",
+   "en": "I need to be going.",
+   "tr": "Gitmem lazım."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75785",
+   "en": "What did this asari do to get you so upset?",
+   "tr": "Bu asari seni bu kadar üzmek için ne yaptı?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75787",
+   "en": "Where can I find this asari Consort?",
+   "tr": "Bu asari Konsort'u nerede bulabilirim?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75788",
+   "en": "Good luck with your problem.",
+   "tr": "Sorununda iyi şanslar."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75790",
+   "en": "It was a turian named Septimus who found out your secret.",
+   "tr": "Sırrını öğrenen Septimus adında bir turian'dı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75791",
+   "en": "The Consort didn't reveal your secret. It was a turian named Septimus.",
+   "tr": "Konsort sırrını ifşa etmedi. Septimus adında bir turian'dı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75792",
+   "en": "I know who revealed your secret. It was a turian named Septimus.",
+   "tr": "Sırrını kimin ifşa ettiğini biliyorum. Septimus adında bir turian'dı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75795",
+   "en": "Septimus is a powerful man and it wasn't easy for him to find.",
+   "tr": "Septimus güçlü bir adam ve bulması kolay olmadı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75797",
+   "en": "Just make sure you leave Sha'ira out of it from now on.",
+   "tr": "Bundan sonra Sha'ira'yı bunun dışında tuttuğundan emin ol."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75800",
+   "en": "I'm sure she'll forgive you. It was an honest mistake.",
+   "tr": "Eminim seni affeder. Samimi bir hataydı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75801",
+   "en": "So long.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75802",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75804",
+   "en": "Consort?",
+   "tr": "Konsort mu?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75805",
+   "en": "Never mind.",
+   "tr": "Boş verin."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75806",
+   "en": "What happened?",
+   "tr": "Ne oldu?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75809",
+   "en": "Where is she?",
+   "tr": "O nerede?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75810",
+   "en": "I understand.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75812",
+   "en": "Sha'ira is not to blame.",
+   "tr": "Sha'ira suçlu değil."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75813",
+   "en": "Leave Sha'ira alone.",
+   "tr": "Sha'ira'yı rahat bırak."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75814",
+   "en": "I can help you.",
+   "tr": "Sana yardım edebilirim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75817",
+   "en": "I wouldn't worry.",
+   "tr": "Endişelenmezdim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75818",
+   "en": "Deal with it.",
+   "tr": "Bununla başa çık."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75822",
+   "en": "Don't worry.",
+   "tr": "Merak etme."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|75823",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|90088",
+   "en": "Strained greeting, human. This is really not a good time.",
+   "tr": "Gergin selam, insan. Gerçekten iyi bir zaman değil."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|90089",
+   "en": "Thankful, that was a great thing you did, Commander. Approving, you see, Din, not all humans are as you say.",
+   "tr": "Minnettar, yaptığınız harika bir şeydi, Komutan. Onaylayarak, görüyorsun Din, tüm insanlar senin dediğin gibi değil."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|90090",
+   "en": "I'm sure the Earth-clan stands to profit from this in some way.",
+   "tr": "Eminim Dünya klanı bundan bir şekilde kâr elde edecek."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|90091",
+   "en": "Apologetic, do not listen to my volus compatriot. It was a good thing you did, regardless of your intentions.",
+   "tr": "Özür dileyerek, volus hemcinsimi dinlemeyin. Niyetiniz ne olursa olsun yaptığınız iyi bir şeydi."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|90092",
+   "en": "So long, then.",
+   "tr": "O zaman hoşça kalın."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|90096",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101024",
+   "en": "Not true. Look at this.",
+   "tr": "Doğru değil. Şuna bak."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101025",
+   "en": "Actually, we have proof. Look at this.",
+   "tr": "Aslında kanıtımız var. Şuna bak."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101026",
+   "en": "Here. This should be proof enough for you.",
+   "tr": "Al. Bu sana yeterli kanıt olmalı."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101027",
+   "en": "You are mistaken. See this if you don't believe us.",
+   "tr": "Yanılıyorsun. Bize inanmıyorsan şuna bak."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101028",
+   "en": "I've come to talk to you about your little problem.",
+   "tr": "Seninle küçük sorunun hakkında konuşmaya geldim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101033",
+   "en": "You seem distressed. Is there something I can do to help?",
+   "tr": "Sıkıntılı görünüyorsun. Yardımcı olabileceğim bir şey var mı?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101034",
+   "en": "That's why I'm here.",
+   "tr": "Bu yüzden buradayım."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|101035",
+   "en": "What's wrong?",
+   "tr": "Sorun ne?"
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|144988",
+   "en": "I can help you.",
+   "tr": "Sana yardım edebilirim."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|144989",
+   "en": "You'll be fine.",
+   "tr": "İyi olacaksın."
+  },
+  {
+   "key": "BIOA_STA20_10D_DSG_LOC|sta20_xeltan_D|144990",
+   "en": "Whatever.",
+   "tr": "Her neyse."
+  }
+ ]
+}

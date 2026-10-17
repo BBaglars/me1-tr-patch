@@ -1,0 +1,675 @@
+{
+ "meta": {
+  "package": "BIOA_JUG80_08_DSG_LOC_INT.pcc",
+  "stem": "BIOA_JUG80_08_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150550",
+   "en": "Chief. We just spotted a troop ship inbound to your location.",
+   "tr": "Başçavuş. Konumunuza doğru gelen bir birlik gemisi gördük."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150551",
+   "en": "Screw that! We can handle ourselves. Go back and get Alenko.",
+   "tr": "Boş ver! Kendimize bakabiliriz. Geri dön ve Alenko'yu al."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150552",
+   "en": "It's already here and it's bleeding geth all over the bomb site.",
+   "tr": "Zaten burada ve bomba alanına geth döküyor."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150553",
+   "en": "There's too many. I don't think we can hold them.",
+   "tr": "Çok fazlalar. Onları tutabileceğimizi sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150554",
+   "en": "Negative. It's too late for us. There's just too many of them.",
+   "tr": "Olumsuz. Bizim için çok geç. Çok fazlalar."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150555",
+   "en": "I'm activating the nuke.",
+   "tr": "Bombayı etkinleştiriyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150556",
+   "en": "Making sure this bomb goes off. No matter what.",
+   "tr": "Bu bombanın patladığından emin oluyorum. Ne pahasına olursa olsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150557",
+   "en": "It's done, Commander. Go get the lieutenant and get the hell out of here.",
+   "tr": "Bitti Komutan. Gidip teğmeni alın ve defolun buradan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150558",
+   "en": "Belay that. We can handle ourselves. Go back and get Williams.",
+   "tr": "Dur. Kendimize bakabiliriz. Geri dön ve Williams'ı al."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150559",
+   "en": "Yes, Commander. I....",
+   "tr": "Evet Komutan. Ben...."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150560",
+   "en": "It's the right choice and you know it, Ash.",
+   "tr": "Doğru seçim ve bunu biliyorsun Ash."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150561",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150562",
+   "en": "I think we both know that's not going to happen, Commander.",
+   "tr": "Sanırım ikimiz de bunun olmayacağını biliyoruz Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150563",
+   "en": "I understand, Commander. I don't regret a thing.",
+   "tr": "Anlıyorum Komutan. Hiçbir şeyden pişman değilim."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150564",
+   "en": "Yes, Commander. I....",
+   "tr": "Evet Komutan. Ben...."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150565",
+   "en": "You know it's the right choice, LT.",
+   "tr": "Doğru seçim olduğunu biliyorsun Teğmen."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150566",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150567",
+   "en": "I think we both know that's not going to happen, Commander.",
+   "tr": "Sanırım ikimiz de bunun olmayacağını biliyoruz Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150568",
+   "en": "I understand, Commander. I don't regret a thing.",
+   "tr": "Anlıyorum Komutan. Hiçbir şeyden pişman değilim."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150569",
+   "en": "Heads up, L-T. We just spotted a troop ship headed to your location.",
+   "tr": "Dikkat Teğmen. Konumunuza doğru giden bir birlik gemisi gördük."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150570",
+   "en": "It's already here. There's geth pouring out all over the bomb site.",
+   "tr": "Zaten burada. Bomba alanında her yerden geth boşalıyor."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150571",
+   "en": "There's too many. I don't think we can survive until you get here.",
+   "tr": "Çok fazlalar. Siz gelene kadar hayatta kalabileceğimizi sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150572",
+   "en": "Negative. There's just too many of them. I don't think we can hold them off.",
+   "tr": "Olumsuz. Çok fazlalar. Onları tutabileceğimizi sanmıyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150573",
+   "en": "I'm activating the bomb.",
+   "tr": "Bombayı etkinleştiriyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150574",
+   "en": "I'm just making sure this bomb goes off. No matter what.",
+   "tr": "Sadece bu bombanın patladığından emin oluyorum. Ne pahasına olursa olsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150575",
+   "en": "It's done, Commander. Go get Williams and get the hell out of here.",
+   "tr": "Bitti Komutan. Gidip Williams'ı alın ve defolun buradan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150578",
+   "en": "Can you hold them off?",
+   "tr": "Onları tutabilir misin?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150580",
+   "en": "Hold on, Chief. I'm coming back to get you.",
+   "tr": "Dayan Başçavuş. Seni almaya geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150582",
+   "en": "What the hell are you doing, Williams?",
+   "tr": "Ne yapıyorsun Williams?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150585",
+   "en": "Williams, radio Joker and tell him to meet us at the bomb site.",
+   "tr": "Williams, Joker'e telsizle söyle bomba alanında buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150587",
+   "en": "Fight hard, Lieutenant. Die proud.",
+   "tr": "Sert savaş Teğmen. Gururla öl."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150589",
+   "en": "Stay alive. I'll be coming to get you too, Kaidan.",
+   "tr": "Hayatta kal. Seni de almaya geleceğim Kaidan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150591",
+   "en": "I'm sorry, Kaidan. I had to make a choice.",
+   "tr": "Üzgünüm Kaidan. Bir seçim yapmak zorundaydım."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150593",
+   "en": "Alenko, radio Joker and tell him to meet us on the AA tower.",
+   "tr": "Alenko, Joker'e telsizle söyle uçaksavar kulesinde buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150595",
+   "en": "Fight hard, Chief. Die proud.",
+   "tr": "Sert savaş Başçavuş. Gururla öl."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150597",
+   "en": "Stay alive. I'll be coming to get you too, Ash.",
+   "tr": "Hayatta kal. Seni de almaya geleceğim Ash."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150599",
+   "en": "I'm sorry, Ash. I had to make a choice.",
+   "tr": "Üzgünüm Ash. Bir seçim yapmak zorundaydım."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150602",
+   "en": "Can you hold them off?",
+   "tr": "Onları tutabilir misin?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150604",
+   "en": "Hold on, Lieutenant. I'm coming back to get you.",
+   "tr": "Dayan Teğmen. Seni almaya geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150606",
+   "en": "What the hell are you doing, Alenko?",
+   "tr": "Ne yapıyorsun Alenko?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150609",
+   "en": "Williams, radio Joker and tell him to meet us on the AA tower.",
+   "tr": "Williams, Joker'e telsizle söyle uçaksavar kulesinde buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150610",
+   "en": "Alenko, radio Joker and tell him to meet us at the bomb site.",
+   "tr": "Alenko, Joker'e telsizle söyle bomba alanında buluşsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150613",
+   "en": "How bad is it?",
+   "tr": "Ne kadar kötü?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150614",
+   "en": "I'm coming back.",
+   "tr": "Geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150618",
+   "en": "Damn it.",
+   "tr": "Lanet olsun."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150619",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150622",
+   "en": "I'm going to Ashley.",
+   "tr": "Ashley'e gidiyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150623",
+   "en": "I'm going to Kaidan.",
+   "tr": "Kaidan'a gidiyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150625",
+   "en": "Of course it was.",
+   "tr": "Elbette öyleydi."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150626",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150627",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150632",
+   "en": "Of course it was.",
+   "tr": "Elbette öyleydi."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150633",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150634",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150639",
+   "en": "How bad is it?",
+   "tr": "Ne kadar kötü?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150640",
+   "en": "I'm coming back.",
+   "tr": "Geri geliyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150643",
+   "en": "Damn it!",
+   "tr": "Kahretsin!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150645",
+   "en": "What?",
+   "tr": "Ne?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150648",
+   "en": "Rescue Ashley.",
+   "tr": "Ashley'i kurtar."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150649",
+   "en": "Rescue Kaidan.",
+   "tr": "Kaidan'ı kurtar."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150779",
+   "en": "Alenko, what are you doing?",
+   "tr": "Alenko, ne yapıyorsun?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150780",
+   "en": "What are you doing, Chief?",
+   "tr": "Ne yapıyorsun Başçavuş?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150781",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_choice_D|150782",
+   "en": "Just hold on.",
+   "tr": "Sadece dayan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|31512",
+   "en": "Commander, sounds like the salarian teams are taking heavy fire. We'd better hurry.",
+   "tr": "Komutan, salarian ekipleri ağır ateş altında gibi. Acele etsek iyi olur."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|31526",
+   "en": "Bomb is in position, we're all set he--",
+   "tr": "Bomba yerinde, hazırız bur--"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|31604",
+   "en": "Get that nuke off-loaded and over to the thermal taps.",
+   "tr": "Şu bombayı indirip termal musluklara götürün."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|35680",
+   "en": "That turret could punch some nasty holes in the Normandy.",
+   "tr": "O tare Normandy'de çirkin delikler açabilir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|35681",
+   "en": "That turret could punch some nasty holes in the Normandy.",
+   "tr": "O tare Normandy'de çirkin delikler açabilir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|35682",
+   "en": "That turret could punch some nasty holes in the Normandy.",
+   "tr": "O tare Normandy'de çirkin delikler açabilir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|35683",
+   "en": "That turret could punch some nasty holes in the Normandy.",
+   "tr": "O tare Normandy'de çirkin delikler açabilir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|35684",
+   "en": "That turret could certainly puncture the Normandy.",
+   "tr": "O tare Normandy'yi kesinlikle delebilir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|42583",
+   "en": "Move the bomb.",
+   "tr": "Bombayı taşıyın."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|72551",
+   "en": "Good work on the gun, Shadow team. Now it's our turn.",
+   "tr": "Top konusunda iyi iş Shadow ekibi. Şimdi sıra bizde."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79033",
+   "en": "Williams. Take your team directly up. We'll flank the enemy and meet you at the gun.",
+   "tr": "Williams. Ekibini doğrudan yukarı çıkar. Düşmanı kuşatıp seni topun yanında buluşuruz."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79034",
+   "en": "Alenko. Take your team directly up, we'll flank the enemy and meet you at the gun.",
+   "tr": "Alenko. Ekibini doğrudan yukarı çıkar, düşmanı kuşatıp seni topun yanında buluşuruz."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79035",
+   "en": "Nice work on that gun, Commander. We've got the other one in our sights.",
+   "tr": "O top için güzel iş Komutan. Diğerini nişangahımıza aldık."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79036",
+   "en": "Good work on that gun, Commander. We're beginning our assault on the other one.",
+   "tr": "O top için iyi iş Komutan. Diğerine saldırımıza başlıyoruz."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79168",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79170",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79176",
+   "en": "Negative, Commander. The geth have us pinned down on the AA tower. We've taken heavy casualties. Captain Kirrahe's dead!",
+   "tr": "Olumsuz Komutan. Geth bizi uçaksavar kulesinde sıkıştırdı. Ağır kayıp verdik. Kaptan Kirrahe öldü!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79182",
+   "en": "Negative, Commander. The geth have us pinned down on the AA tower. We've taken heavy casualties.",
+   "tr": "Olumsuz Komutan. Geth bizi uçaksavar kulesinde sıkıştırdı. Ağır kayıp verdik."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79185",
+   "en": "We'll never make the rendezvous point in time.",
+   "tr": "Buluşma noktasına zamanında asla ulaşamayacağız."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79186",
+   "en": "Negative! Just make sure that nuke is set. We'll hold them as long as we--",
+   "tr": "Olumsuz! Sadece bombanın kurulduğundan emin olun. Onları elimizden geldiği kadar tutacağız--"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79190",
+   "en": "Negative! Just make sure that nuke is set. We'll hold them as long as we--",
+   "tr": "Olumsuz! Sadece bombanın kurulduğundan emin olun. Onları elimizden geldiği kadar tutacağız--"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79194",
+   "en": "We'll never make the rendezvous point in time.",
+   "tr": "Buluşma noktasına zamanında asla ulaşamayacağız."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79198",
+   "en": "Bomb is in position, we're all set he--",
+   "tr": "Bomba yerinde, hazırız bur--"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79214",
+   "en": "Hold tight. We're coming to get you.",
+   "tr": "Sıkı durun. Sizi almaya geliyoruz."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|79242",
+   "en": "Sending reinforcements.",
+   "tr": "Takviye gönderiliyor."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107123",
+   "en": "All right! Nice work. That's one less thing to worry about.",
+   "tr": "Pekâlâ! İyi iş. Endişelenecek bir şey eksildi."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107124",
+   "en": "Negative, Commander. The geth have us pinned down on the AA tower. We've taken heavy casualties. Captain Kirrahe's dead!",
+   "tr": "Olumsuz Komutan. Geth bizi uçaksavar kulesinde sıkıştırdı. Ağır kayıp verdik. Kaptan Kirrahe öldü!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107126",
+   "en": "Negative, Commander. The geth have us pinned down on the AA tower. We've taken heavy casualties.",
+   "tr": "Olumsuz Komutan. Geth bizi uçaksavar kulesinde sıkıştırdı. Ağır kayıp verdik."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107130",
+   "en": "Get them out of there, Joker. Now!",
+   "tr": "Onları oradan çıkar Joker. Hemen!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107134",
+   "en": "No one gets left behind!",
+   "tr": "Kimse geride kalmaz!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107135",
+   "en": "Normandy, pick them up!",
+   "tr": "Normandy, onları al!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107136",
+   "en": "No one gets left behind!",
+   "tr": "Kimse geride kalmaz!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107137",
+   "en": "Commander, can you read me?",
+   "tr": "Komutan, beni duyuyor musunuz?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107138",
+   "en": "Commander, do you read me?",
+   "tr": "Komutan, beni duyuyor musunuz?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107139",
+   "en": "It's okay, Commander. I need a couple of minutes to finish arming the bomb. Go get them and meet me back here.",
+   "tr": "Sorun değil Komutan. Bombayı silahlandırmayı bitirmem için birkaç dakikaya ihtiyacım var. Gidip onları alın ve burada buluşalım."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107142",
+   "en": "It's okay, Commander. I need a couple of minutes to finish arming the nuke. Go get them and meet me back here.",
+   "tr": "Sorun değil Komutan. Bombayı silahlandırmayı bitirmem için birkaç dakikaya ihtiyacım var. Gidip onları alın ve burada buluşalım."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107143",
+   "en": "The nuke is almost ready. Get to the rendezvous point, Williams!",
+   "tr": "Bomba neredeyse hazır. Buluşma noktasına git Williams!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107144",
+   "en": "The nuke is almost ready, Lieutenant. Get to the rendezvous point!",
+   "tr": "Bomba neredeyse hazır Teğmen. Buluşma noktasına git!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107145",
+   "en": "Up to the AA tower. Move!",
+   "tr": "Uçaksavar kulesine. Hareket!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107146",
+   "en": "You keep that nuke safe!",
+   "tr": "O bombayı güvende tut!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107147",
+   "en": "Where are you?",
+   "tr": "Neredesin?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107148",
+   "en": "Get your ass over here!",
+   "tr": "Kıçını buraya getir!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107149",
+   "en": "I read you.",
+   "tr": "Seni duyuyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107150",
+   "en": "Where are you?",
+   "tr": "Neredesin?"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107151",
+   "en": "Get your ass over here!",
+   "tr": "Kıçını buraya getir!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107152",
+   "en": "I read you.",
+   "tr": "Seni duyuyorum."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107153",
+   "en": "Good idea.",
+   "tr": "İyi fikir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107156",
+   "en": "Let's go.",
+   "tr": "Gidelim."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107157",
+   "en": "Good idea.",
+   "tr": "İyi fikir."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|107158",
+   "en": "Guard that bomb.",
+   "tr": "Bombayı koru."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|149995",
+   "en": "Watch out. More hostiles incoming.",
+   "tr": "Dikkat. Daha fazla düşman geliyor."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|149996",
+   "en": "Watch out! They have followed us up the elevator.",
+   "tr": "Dikkat! Asansörle bizi takip ettiler."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|149997",
+   "en": "Look out. They followed us up.",
+   "tr": "Dikkat. Bizi yukarı takip ettiler."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|149998",
+   "en": "Look out. The bastards followed us up.",
+   "tr": "Dikkat. Piçler bizi yukarı takip etti."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|149999",
+   "en": "More geth. In the elevator.",
+   "tr": "Daha fazla geth. Asansörde."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150350",
+   "en": "It appears the geth have sent reinforcements.",
+   "tr": "Görünüşe göre geth takviye göndermiş."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150351",
+   "en": "Reinforcements. We'd better hurry.",
+   "tr": "Takviye. Acele etsek iyi olur."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150352",
+   "en": "Damn. Geth are sending in reinforcements.",
+   "tr": "Kahretsin. Geth takviye gönderiyor."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150353",
+   "en": "Looks like they're sending reinforcements.",
+   "tr": "Görünüşe göre takviye gönderiyorlar."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150521",
+   "en": "That's it. We need to clear the geth and set those charges.",
+   "tr": "Tamam. Geth'i temizleyip şu patlayıcıları kurmalıyız."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150523",
+   "en": "There's the gun. Clear those geth and get the charges set.",
+   "tr": "İşte top. Geth'i temizle ve patlayıcıları kur."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150524",
+   "en": "That's the gun. We need to clear those geth and get the charges set.",
+   "tr": "Top bu. Geth'i temizleyip şu patlayıcıları kurmamız lazım."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150526",
+   "en": "Charges set! Everyone bunker down. Bunker down!",
+   "tr": "Patlayıcılar kuruldu! Herkes sığınsın. Sığının!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150528",
+   "en": "Charges are set. Everyone get low. Now!",
+   "tr": "Patlayıcılar kuruldu. Herkes alçalsın. Hemen!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150529",
+   "en": "The charges are set and ready. Everybody get low and keep your head down!",
+   "tr": "Patlayıcılar kuruldu ve hazır. Herkes alçalsın ve başınızı eğik tutun!"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150530",
+   "en": "Commander, I'm bringing us in. I'll get as close to the site as I can.",
+   "tr": "Komutan, geliyorum. Bölgeye mümkün olduğunca yaklaşacağım."
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150531",
+   "en": "Negative. It's too hot! You can't risk it. We'll hold them off as long as we--",
+   "tr": "Olumsuz. Çok sıcak! Riske giremezsiniz. Onları elimizden geldiği kadar tutacağız--"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|150532",
+   "en": "Negative. It's too hot! Can't risk it. We'll hold them off as long as we--",
+   "tr": "Olumsuz. Çok sıcak! Riske girilmez. Onları elimizden geldiği kadar tutacağız--"
+  },
+  {
+   "key": "BIOA_JUG80_08_DSG_LOC|jug80_trigger_D|163087",
+   "en": "I'm on it!",
+   "tr": "Hallediyorum!"
+  }
+ ]
+}

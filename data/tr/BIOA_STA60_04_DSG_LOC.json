@@ -1,0 +1,430 @@
+{
+ "meta": {
+  "package": "BIOA_STA60_04_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA60_04_DSG_LOC",
+  "textLang": "INT",
+  "sets": 4
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158682",
+   "en": "You have no available Citadel Rapid Transit destinations.",
+   "tr": "Kullanabileceğiniz Citadel Hızlı Ulaşım hedefi yok."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158683",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158686",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158687",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158688",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158690",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158692",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158694",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158696",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158700",
+   "en": "Embassies",
+   "tr": "Büyükelçilikler"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158701",
+   "en": "Exit",
+   "tr": "Çıkış"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158702",
+   "en": "Citadel Tower",
+   "tr": "Citadel Tower"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158704",
+   "en": "Financial District",
+   "tr": "Finans Bölgesi"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158706",
+   "en": "Med Clinic",
+   "tr": "Sağlık Kliniği"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158708",
+   "en": "Markets",
+   "tr": "Pazarlar"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158710",
+   "en": "C-Sec",
+   "tr": "C-Sec"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158852",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158853",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158854",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158855",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158856",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158857",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158858",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158859",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158860",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158861",
+   "en": " ",
+   "tr": " "
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158862",
+   "en": "Presidium Locations",
+   "tr": "Presidium Konumları"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158863",
+   "en": "Wards Locations",
+   "tr": "Wards Konumları"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158864",
+   "en": "Back",
+   "tr": "Geri"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158865",
+   "en": "Consort Chambers",
+   "tr": "Refakatçi Odaları"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158866",
+   "en": "Wards Access",
+   "tr": "Wards Girişi"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158867",
+   "en": "Back",
+   "tr": "Geri"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158868",
+   "en": "Flux",
+   "tr": "Flux"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|158869",
+   "en": "Chora's Den",
+   "tr": "Chora's Den"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta00_cab_D|159576",
+   "en": "Please choose a Citadel Rapid Transit destination.",
+   "tr": "Lütfen bir Citadel Hızlı Ulaşım hedefi seçin."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassin_ambush_D|89463",
+   "en": "That's him.",
+   "tr": "O o."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassin_ambush_D|89464",
+   "en": "That's her.",
+   "tr": "O o."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassin_ambush_D|89465",
+   "en": "You sure?",
+   "tr": "Emin misin?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassin_ambush_D|89466",
+   "en": "Positive. Move in.",
+   "tr": "Eminim. İçeri girin."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassins_dispatched_D|100997",
+   "en": "Those were Saren's men.",
+   "tr": "Bunlar Saren'in adamlarıydı."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassins_dispatched_D|100998",
+   "en": "Those were Saren's men.",
+   "tr": "Bunlar Saren'in adamlarıydı."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassins_dispatched_D|101000",
+   "en": "I guess we're on the right track.",
+   "tr": "Sanırım doğru yoldayız."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_assassins_dispatched_D|106626",
+   "en": "I guess we're on the right track.",
+   "tr": "Sanırım doğru yoldayız."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137971",
+   "en": "They told me it was you, but I didn't believe it. Shepard grew up and turned into a soldier.",
+   "tr": "Bana senin olduğunu söylediler ama inanmadım. Shepard büyüyüp asker olmuş."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137972",
+   "en": "Name's Finch. You probably don't remember me, but we ran together in the Tenth Street Reds.",
+   "tr": "Adım Finch. Muhtemelen beni hatırlamıyorsun ama Tenth Street Reds'te birlikte takılmıştık."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137973",
+   "en": "Maybe you don't remember it yourself, running in a gang. None of the vids mention it when they're talking about you.",
+   "tr": "Belki sen de çetede dolaştığını hatırlamıyorsun. Hakkında konuşurken videoların hiçbiri bundan bahsetmiyor."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137974",
+   "en": "Really? What if someone gave an interview talking about Commander Shepard's history in the gangs?",
+   "tr": "Gerçekten mi? Ya biri Komutan Shepard'ın çetelerdeki geçmişi hakkında röportaj verseydi?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137975",
+   "en": "We're not trying to cause you trouble, Shepard. We just want a favor, for old times' sake.",
+   "tr": "Sana sorun çıkarmaya çalışmıyoruz Shepard. Sadece eski günlerin hatırına bir iyilik istiyoruz."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137976",
+   "en": "One of the Reds, Curt Weisman, got picked up by turians. We'd like you to talk to the turian guard in the bar and get Curt out.",
+   "tr": "Reds'ten Curt Weisman turian'lar tarafından yakalandı. Barda turian muhafızla konuşup Curt'u çıkarmanı istiyoruz."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137977",
+   "en": "Since your days, the Reds have expanded. ",
+   "tr": "Senin zamanından beri Reds genişledi."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137978",
+   "en": "We do some salvage, a little shipping here and there, that kind of thing.",
+   "tr": "Biraz kurtarma, şurada burada biraz nakliye, bu tür işler yapıyoruz."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137979",
+   "en": "Some stupid minor offense. Maybe he had a little red sand. You know how the turians are.",
+   "tr": "Aptalca küçük bir suç. Belki biraz kırmızı kumu vardı. Turian'ların nasıl olduğunu bilirsin."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137980",
+   "en": "They declared him a problem, and they're shipping him back for a trial.",
+   "tr": "Onu sorun ilan ettiler ve yargılanması için geri gönderiyorlar."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137981",
+   "en": "Of course not. But word has it you've got some pull with the aliens.",
+   "tr": "Elbette değil. Ama uzaylılar üzerinde biraz nüfuzun olduğu söyleniyor."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137982",
+   "en": "All we're asking you to do is pull a little for us.",
+   "tr": "Tek istediğimiz bizim için biraz nüfuz kullanman."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137983",
+   "en": "Thanks, Shepard. I knew you'd remember your old friends. The guard's over in Chora's Den.",
+   "tr": "Teşekkürler Shepard. Eski dostlarını hatırlayacağını biliyordum. Muhafız Chora's Den'de."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137984",
+   "en": "Suit yourself, Shepard. If you change your mind, he's over in Chora's Den. Take care of this, and you'll never see me again.",
+   "tr": "Nasıl istersen Shepard. Fikrini değiştirirsen o Chora's Den'de. Bunu hallet ve beni bir daha görmezsin."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137985",
+   "en": "And Shepard... you might not run with the Reds anymore, but you really don't want us as your enemies.",
+   "tr": "Ve Shepard... artık Reds'le takılmıyor olabilirsin ama bizi düşman olarak istemezsin."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137986",
+   "en": "Have we met?",
+   "tr": "Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137987",
+   "en": "An impatient soldier. Who are you, and why are you in my way?",
+   "tr": "Sabırsız bir asker. Kimsin ve neden yolumdasın?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137989",
+   "en": "My history's a matter of public record. I've got nothing to hide.",
+   "tr": "Geçmişim kamuya açık kayıt. Saklayacak bir şeyim yok."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137991",
+   "en": "So I ran with the Reds. That's behind me now.",
+   "tr": "Evet, Reds'le takıldım. Bu geride kaldı."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137993",
+   "en": "The vids never tell the whole story. So what can I do for the Reds?",
+   "tr": "Videolar hikâyenin tamamını asla anlatmaz. Peki Reds için ne yapabilirim?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137994",
+   "en": "What was one of the Tenth Street Reds doing in turian space?",
+   "tr": "Tenth Street Reds'ten biri turian uzayında ne yapıyordu?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137996",
+   "en": "What was this guy arrested for?",
+   "tr": "Bu adam ne için tutuklandı?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|137998",
+   "en": "You're not asking me to break Weisman out of jail, are you?",
+   "tr": "Weisman'ı hapisten kaçırmamı istemiyorsun, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138000",
+   "en": "I'll talk to the turian and see what I can do.",
+   "tr": "Turian'la konuşup ne yapabileceğime bakacağım."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138001",
+   "en": "My gang days are over, Finch. Get out of my way.",
+   "tr": "Çete günlerim bitti Finch. Yolumdan çekil."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138003",
+   "en": "I'm sorry. You are?",
+   "tr": "Üzgünüm. Siz kimsiniz?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138004",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138005",
+   "en": "What do you want?",
+   "tr": "Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138007",
+   "en": "I'm not ashamed.",
+   "tr": "Utanmıyorum."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138008",
+   "en": "That life is over.",
+   "tr": "O hayat bitti."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138009",
+   "en": "Forget the vids.",
+   "tr": "Videoları boş ver."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138012",
+   "en": "In Turian Space",
+   "tr": "Turian Uzayında"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138013",
+   "en": "Reason for Arrest",
+   "tr": "Tutuklama Sebebi"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138014",
+   "en": "Not Jailbreak",
+   "tr": "Hapisten Kaçırma Değil"
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138015",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138016",
+   "en": "No promises.",
+   "tr": "Söz vermiyorum."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138017",
+   "en": "No deal.",
+   "tr": "Anlaşma yok."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138019",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138021",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138023",
+   "en": "No problem.",
+   "tr": "Sorun değil."
+  },
+  {
+   "key": "BIOA_STA60_04_DSG_LOC|sta60_trig_gangmember_D|138292",
+   "en": "Take care of this, and you'll never see me again.",
+   "tr": "Bunu hallet ve beni bir daha görmezsin."
+  }
+ ]
+}

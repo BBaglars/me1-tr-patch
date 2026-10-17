@@ -1,0 +1,1630 @@
+{
+ "meta": {
+  "package": "BIOA_STA30_00_PLC_LOC_INT.pcc",
+  "stem": "BIOA_STA30_00_PLC_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147427",
+   "en": "How are you holding up, Lieutenant?",
+   "tr": "Nasıl dayanıyorsun, Teğmen?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147428",
+   "en": "Not too bad. No headaches worth mentioning lately. Maybe I'm getting used to the strain.",
+   "tr": "Fena değil. Son zamanlarda bahsetmeye değer baş ağrısı yok. Belki gerginliğe alışıyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147429",
+   "en": "Maybe you've just got a good stress release. I know that knocking the geth on their synthetic asses gets rid of my headaches.",
+   "tr": "Belki iyi bir stres atma yöntemin vardır. Geth'in sentetik kıçlarını tekmelemek benim baş ağrılarımı geçiriyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147430",
+   "en": "Is it true that your biotic implants cause headaches, Lieutenant? I know some meditation exercises that might help.",
+   "tr": "Biyotik implantlarının baş ağrısına yol açtığı doğru mu, Teğmen? Yardımcı olabilecek bazı meditasyon egzersizleri biliyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147431",
+   "en": "Thanks, Liara. I'd appreciate that. Makes me wonder what it would have been like to have asari tutors instead of turians.",
+   "tr": "Teşekkürler, Liara. Takdir ederim. Turian yerine asari eğitmenlerim olsaydı nasıl olurdu merak ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147432",
+   "en": "Given the attitude most young human males display toward my people, it seems turians were the best choice. ",
+   "tr": "Çoğu genç insan erkeğinin halkıma karşı sergilediği tutum düşünülürse turian'lar en iyi seçimmiş gibi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147433",
+   "en": "Your biotics are impressive, Lieutenant. I'm surprised that humans stopped using the L2 configuration with results like yours.",
+   "tr": "Biyotiklerin etkileyici, Teğmen. İnsanların senin gibi sonuçlar veren L2 yapılandırmasını bırakmasına şaşırdım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147434",
+   "en": "Is it true humans stopped using the biotic implants you were fitted with, Lieutenant?",
+   "tr": "İnsanların sana takılan biyotik implantları kullanmayı bıraktığı doğru mu, Teğmen?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147435",
+   "en": "You've got impressive biotic power. Humans should never have switched to the weaker L3 implants.",
+   "tr": "Etkileyici biyotik gücün var. İnsanlar daha zayıf L3 implantlarına geçmemeliydi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147436",
+   "en": "My headaches can be pretty bad, and I'm one of the lucky L2 implants. The L3's are safer.",
+   "tr": "Baş ağrılarım oldukça kötü olabiliyor ve ben şanslı L2 implantlılardanım. L3'ler daha güvenli."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147437",
+   "en": "Humanity will be judged by the sacrifices its people are willing to make, Lieutenant. The turians would have kept the L2 implants.",
+   "tr": "İnsanlık, halkının yapmaya istekli olduğu fedakârlıklarla yargılanacak, Teğmen. Turian'lar L2 implantlarını sürdürürdü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147438",
+   "en": "That makes sense. What use is harnessing that power if it causes more harm than good to your people?",
+   "tr": "Mantıklı. Halkına yarardan çok zarar veriyorsa o gücü dizginlemenin ne yararı var?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147439",
+   "en": "You don't stop using a gun just because the kickback has a little sting.",
+   "tr": "Geri tepmesi biraz acıtıyor diye silah kullanmayı bırakmazsın."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147441",
+   "en": "Am I imagining things, LT, or are your abilities growing in strength?",
+   "tr": "Hayal mi görüyorum, Teğmen, yoksa yeteneklerin güçleniyor mu?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147442",
+   "en": "Lieutenant? In the last few fights, your biotics seemed to pack more punch. Is it practice, or are you actually getting stronger?",
+   "tr": "Teğmen? Son birkaç çatışmada biyotiklerin daha çok darbe vurdu. Pratik mi, yoksa gerçekten güçleniyor musun?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147443",
+   "en": "Your biotic skill is extremely impressive, Lieutenant. I rarely see anyone with your level of ability.",
+   "tr": "Biyotik becerin son derece etkileyici, Teğmen. Senin seviyende yeteneği olan birini nadiren görüyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147444",
+   "en": "Biotics are rare among quarians. I don't believe I've seen anyone except the asari with your strength, Lieutenant.",
+   "tr": "Biyotik quarian'lar arasında nadir. Asari dışında senin gücünde kimseyi gördüğümü sanmıyorum, Teğmen."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147445",
+   "en": "Your biotics are coming along nicely. In the last fight, it looked like you even surprised yourself.",
+   "tr": "Biyotiklerin güzel ilerliyor. Son çatışmada kendini bile şaşırtmış gibiydin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147446",
+   "en": "I've always held back a little when I used my powers on living targets. Fear of hurting someone, I guess.",
+   "tr": "Güçlerimi canlı hedeflerde kullanırken hep biraz geri durdum. Birine zarar verme korkusu sanırım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147447",
+   "en": "After what I saw on Eden Prime, I'm not holding back any more. Not against the geth, not against anyone.",
+   "tr": "Eden Prime'da gördüklerimden sonra artık geri durmuyorum. Geth'e karşı da, kimseye karşı da."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147450",
+   "en": "So, Williams, are you happy you signed on with Commander Shepard?",
+   "tr": "Peki, Williams, Komutan Shepard'la katıldığına memnun musun?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147451",
+   "en": "I'm not sure, Lieutenant. Every time I think I have a handle on things, the universe banks hard to port.",
+   "tr": "Emin değilim, Teğmen. Her işleri kavradığımı sandığımda evren sert bir şekilde sancağa yatıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147452",
+   "en": "Well, don't let anybody know. A big gun and a confident attitude will get you through a lot in life.",
+   "tr": "Şey, kimse bilmesin. Büyük bir silah ve kendinden emin bir tutum hayatta çok yere götürür."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147453",
+   "en": "All this violence sometimes catches me by surprise. I imagine that your military training prepared you for it, Chief Williams.",
+   "tr": "Bu kadar şiddet bazen beni şaşırtıyor. Askerî eğitiminin seni buna hazırladığını tahmin ediyorum, Başçavuş Williams."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147454",
+   "en": "Do you feel that your training in the human military prepared you well for your duties, Gunnery Chief?",
+   "tr": "İnsan ordusundaki eğitiminin seni görevlerine iyi hazırladığını düşünüyor musun, Topçu Başçavuş?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147455",
+   "en": "My people are wanderers, not military leaders. All this fighting seems strange. It must be more familiar for you, Chief Williams.",
+   "tr": "Halkım göçebe, askerî lider değil. Tüm bu savaş garip geliyor. Senin için daha tanıdık olmalı, Başçavuş Williams."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147456",
+   "en": "This about normal for a human soldier's tour of duty, Williams?",
+   "tr": "Bu, bir insan askerinin görev turu için olağan sayılır mı, Williams?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147457",
+   "en": "Trying to take down a rogue Spectre and his army of synthetics? No, they didn't cover this in Basic.",
+   "tr": "Başıboş bir Spectre'ı ve sentetik ordusunu indirmeye çalışmak mı? Hayır, bunu Temel Eğitim'de işlemediler."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147460",
+   "en": "Well, Garrus, any regrets about leaving Citadel Security?",
+   "tr": "Peki, Garrus, Citadel Güvenliği'nden ayrıldığına pişman mısın?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147461",
+   "en": "So, Garrus, any regrets about leaving C-Sec?",
+   "tr": "Ee, Garrus, C-Sec'ten ayrıldığına pişman mısın?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147462",
+   "en": "Now that you have experienced a Spectre's life firsthand, Garrus, do you regret leaving your security position?",
+   "tr": "Artık bir Spectre'ın hayatını bizzat deneyimlediğine göre, Garrus, güvenlik görevini bıraktığına pişman mısın?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147463",
+   "en": "Do you ever regret leaving Citadel Security to pursue Saren, Garrus?",
+   "tr": "Saren'in peşine düşmek için Citadel Güvenliği'ni bıraktığına hiç pişman oluyor musun, Garrus?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147464",
+   "en": "So, how about it, Garrus? Is this better than C-Sec?",
+   "tr": "Ee, ne dersin, Garrus? Bu C-Sec'ten iyi mi?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147465",
+   "en": "Fighting a rogue Spectre with countless lives at stake and no regulations to get in the way? I'd say that beats C-Sec.",
+   "tr": "Sayısız hayatın tehlikede olduğu ve yolunuza çıkacak yönetmeliklerin olmadığı başıboş bir Spectre'la savaşmak mı? Bence bu C-Sec'i yener."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147466",
+   "en": "Well, we don't lack for excitement, that's for sure.",
+   "tr": "Şey, heyecan eksikliğimiz yok, kesin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147467",
+   "en": "True enough. I'd rather be fighting than trust it to somebody else.",
+   "tr": "Doğru. Başkasına bırakmaktansa savaşmayı tercih ederim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147468",
+   "en": "I am unsure how the imminent destruction of all organic life \"beats\" anything, but your enthusiasm is comforting nonetheless.",
+   "tr": "Tüm organik yaşamın yaklaşan yıkımının herhangi bir şeyi nasıl \"yendiğinden\" emin değilim ama coşkun yine de teselli edici."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147469",
+   "en": "I'm pleased that the imminent destruction of all organic life has improved your career opportunities.",
+   "tr": "Tüm organik yaşamın yaklaşan yıkımının kariyer fırsatlarını artırmasına sevindim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147470",
+   "en": "There may just be hope for you yet, turian.",
+   "tr": "Belki senin için de umut vardır, turian."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147472",
+   "en": "Saren was one of the most respected turians in the galaxy, Garrus. Are you going to be okay going up against him?",
+   "tr": "Saren galaksinin en saygın turian'larından biriydi, Garrus. Ona karşı çıkmak sorun olmayacak mı?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147473",
+   "en": "Saren was one of the most respected turians in the galaxy, Garrus. Are you going to be okay going up against him?",
+   "tr": "Saren galaksinin en saygın turian'larından biriydi, Garrus. Ona karşı çıkmak sorun olmayacak mı?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147474",
+   "en": "Garrus, perhaps it is my own trouble with Benezia that makes me ask, but do you feel comfortable facing a respected turian Spectre like Saren?",
+   "tr": "Garrus, belki Benezia'yla kendi sorunum yüzünden soruyorum ama Saren gibi saygın bir turian Spectre'la yüzleşmekte rahat mısın?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147475",
+   "en": "Garrus--if you do not mind me asking--how do you feel about hunting a turian?",
+   "tr": "Garrus, sakıncası yoksa soracağım, bir turian'ı avlamak sana nasıl hissettiriyor?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147476",
+   "en": "Must be hard for you, Garrus, knowing that the person behind all this death and destruction is a turian Spectre.",
+   "tr": "Senin için zor olmalı, Garrus, tüm bu ölümün ve yıkımın arkasındaki kişinin turian bir Spectre olduğunu bilmek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147477",
+   "en": "Saren is either a traitor or a madman. Taking him down will restore the good name of turians everywhere.",
+   "tr": "Saren ya hain ya deli. Onu indirmek her yerde turian'ların iyi adını geri getirecek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147478",
+   "en": "Just keep saying that, especially to humans. We've got a lot of angry people right now.",
+   "tr": "Böyle söylemeye devam et, özellikle insanlara. Şu an çok öfkeli insan var."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147479",
+   "en": "Just keep saying that, especially to humans. We've got a lot of angry people right now.",
+   "tr": "Böyle söylemeye devam et, özellikle insanlara. Şu an çok öfkeli insan var."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147480",
+   "en": "With your respect for the Spectres, I thought you might hesitate. I am glad I was wrong.",
+   "tr": "Spectre'lara olan saygın yüzünden tereddüt edeceğini sandım. Yanıldığıma sevindim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147481",
+   "en": "Things are different among my people. There are so few of us. We are expected to be loyal, even when it is difficult.",
+   "tr": "Halkımda işler farklı. Çok azız. Zor olduğunda bile sadık olmamız bekleniyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147482",
+   "en": "Glad to hear it. I was losing sleep over the prospect of people not loving the turians.",
+   "tr": "Duyduğuma sevindim. İnsanların turian'ları sevmemesi ihtimali yüzünden uykum kaçıyordu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147485",
+   "en": "I'm surprised you're willing to fight krogan, Wrex. I thought you'd stand with your own.",
+   "tr": "Krogan'la savaşmaya istekli olmana şaşırdım, Wrex. Kendi türünle durursun sanmıştım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147486",
+   "en": "I'm surprised you're willing to fight krogan, Wrex. I thought you'd stand with your own.",
+   "tr": "Krogan'la savaşmaya istekli olmana şaşırdım, Wrex. Kendi türünle durursun sanmıştım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147487",
+   "en": "Considering the diminished numbers of the krogan, Wrex, I'm surprised that you are willing to fight and kill them.",
+   "tr": "Krogan'ın azalan sayısı düşünülürse, Wrex, onlarla savaşıp öldürmeye istekli olmana şaşırıyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147488",
+   "en": "I'm surprised that you're willing to kill your own, Wrex. Aren't the krogan just a few generations away from extinction?",
+   "tr": "Kendi türünü öldürmeye istekli olmana şaşırdım, Wrex. Krogan birkaç nesil uzakta yok olmanın eşiğinde değil mi?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147489",
+   "en": "You don't get it. For all your talk of honor and pride, the turians never had to test their principles in a real struggle.",
+   "tr": "Anlamıyorsun. Tüm onur ve gurur lafına rağmen turian'lar ilkelerini hiç gerçek bir mücadelede sınamak zorunda kalmadı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147490",
+   "en": "How can you fight your own people, Wrex? There aren't that many of you left.",
+   "tr": "Kendi halkınla nasıl savaşabilirsin, Wrex? Pek kalmadınız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147491",
+   "en": "Anyone who fights us is either stupid or on Saren's payroll. Killing the latter is business. Killing the former is a favor to the universe.",
+   "tr": "Bizimle savaşan ya aptal ya da Saren'in maaşında. İkincisini öldürmek iş. Birincisini öldürmek evrene iyilik."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147494",
+   "en": "So, Liara, you've spent fifty years studying Prothean ruins and artifacts?",
+   "tr": "Yani, Liara, elli yılı Prothean kalıntıları ve eserlerini inceleyerek mi geçirdin?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147495",
+   "en": "So, Liara, you've spent fifty years studying Prothean ruins and artifacts?",
+   "tr": "Yani, Liara, elli yılı Prothean kalıntıları ve eserlerini inceleyerek mi geçirdin?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147496",
+   "en": "With all this exploration of Prothean culture, this must be like a survey for you, Liara.",
+   "tr": "Prothean kültürünün tüm bu keşfiyle bu senin için bir tür etüt olmalı, Liara."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147497",
+   "en": "With all this exploration of Prothean culture, this must be like a survey for you, Liara.",
+   "tr": "Prothean kültürünün tüm bu keşfiyle bu senin için bir tür etüt olmalı, Liara."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147498",
+   "en": "So you've spent your entire adult life just studying old Prothean junk?",
+   "tr": "Yani bütün yetişkin hayatını eski Prothean hurdasını inceleyerek mi geçirdin?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147499",
+   "en": "Our travels now are somewhat different from my normal excavations. I would prefer lengthier studies... and fewer explosions.",
+   "tr": "Şimdiki seyahatlerimiz olağan kazılarımdan biraz farklı. Daha uzun çalışmalar... ve daha az patlama tercih ederdim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147500",
+   "en": "I think you've spoken for scientists everywhere, Liara.",
+   "tr": "Sanırım her yerdeki bilim insanları adına konuştun, Liara."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147501",
+   "en": "I think you've spoken for scientists everywhere, Liara.",
+   "tr": "Sanırım her yerdeki bilim insanları adına konuştun, Liara."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147502",
+   "en": "The loss of all this Prothean technology is just one more thing Saren will have to pay for.",
+   "tr": "Tüm bu Prothean teknolojisinin kaybı, Saren'in ödeyeceği bir şey daha."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147503",
+   "en": "Yes. Most of the technology I had hoped to bring back to the flotilla has subsequently attempted to kill us.",
+   "tr": "Evet. Filoya geri getirmeyi umduğum teknolojinin çoğu sonradan bizi öldürmeye çalıştı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147504",
+   "en": "It's good for you. A nice explosion every now and then keeps the mind sharp.",
+   "tr": "Sana iyi geliyor. Arada bir güzel bir patlama zihni keskin tutar."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147509",
+   "en": "I've heard some humans are angry at the quarians after the attack on Eden Prime. After all, you created the geth.",
+   "tr": "Eden Prime saldırısından sonra bazı insanların quarian'lara kızgın olduğunu duydum. Sonuçta geth'i siz yarattınız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147510",
+   "en": "I've heard some humans are angry at the quarians after the attack on Eden Prime. After all, you created the geth.",
+   "tr": "Eden Prime saldırısından sonra bazı insanların quarian'lara kızgın olduğunu duydum. Sonuçta geth'i siz yarattınız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147511",
+   "en": "Tali, are the quarians concerned that the return of the geth will lead to more anger against your people?",
+   "tr": "Tali, quarian'lar geth'in dönüşünün halkınıza karşı daha fazla öfkeye yol açacağından endişe ediyor mu?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147512",
+   "en": "The geth killed billions and forced us from our homeworld. Most quarians believe we have paid properly for our mistake.",
+   "tr": "Geth milyarları öldürdü ve bizi ana dünyamızdan zorla çıkardı. Çoğu quarian hatamızın bedelini gereğince ödediğimize inanıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147513",
+   "en": "Hopefully having you with us fighting Saren will change people's minds.",
+   "tr": "Umarım seninle Saren'e karşı savaşmamız insanların fikrini değiştirir."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147514",
+   "en": "Hopefully having you with us fighting Saren will change people's minds.",
+   "tr": "Umarım seninle Saren'e karşı savaşmamız insanların fikrini değiştirir."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147515",
+   "en": "I hope the other races view matters in the same light.",
+   "tr": "Umarım diğer ırklar meseleye aynı gözle bakar."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147516",
+   "en": "The quarians endangered the entire galaxy when they let the geth break free. I hope your people are properly contrite, Tali.",
+   "tr": "Quarian'lar geth'in özgürleşmesine izin verince tüm galaksiyi tehlikeye attı. Umarım halkın gereğince pişmandır, Tali."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147517",
+   "en": "As the turians are properly contrite for releasing the genophage upon the krogan?",
+   "tr": "Turian'ların genophage'ı krogan'a salmaktan gereğince pişman olduğu gibi mi?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147518",
+   "en": "You're assuming that sterilizing them was a mistake.",
+   "tr": "Onları kısırlaştırmanın hata olduğunu varsayıyorsun."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147519",
+   "en": "You quarians messed up the whole galaxy when you let the geth break free. Do your people ever talk about it?",
+   "tr": "Siz quarian'lar geth'in özgürleşmesine izin verince tüm galaksiyi berbat ettiniz. Halkın bundan hiç bahsediyor mu?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147520",
+   "en": "Do the krogan talk about starting a foolish war that resulted in the turians sterilizing your people?",
+   "tr": "Krogan, turian'ların halkınızı kısırlaştırmasına yol açan aptalca savaşı başlatmaktan bahsediyor mu?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147521",
+   "en": "All the time.",
+   "tr": "Hep."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147523",
+   "en": "Tali, why do you quarians wear those suits all the time? Is it a cultural thing?",
+   "tr": "Tali, siz quarian'lar neden hep o giysileri giyiyorsunuz? Kültürel bir şey mi?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147524",
+   "en": "Hey Tali, I heard a rumor that under those environmental suits, you quarians are partially synthetic.",
+   "tr": "Hey Tali, o çevre giysilerinin altında quarian'ların kısmen sentetik olduğuna dair bir söylenti duydum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147525",
+   "en": "I am curious about the helmet you always wear, Tali. Does it contain technical augmentation systems?",
+   "tr": "Hep taktığın kaskı merak ediyorum, Tali. Teknik güçlendirme sistemleri içeriyor mu?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147526",
+   "en": "Your choice in armor is awfully limited, Tali. Couldn't you wear something without a helmet?",
+   "tr": "Zırh seçeneğin çok kısıtlı, Tali. Kasksız bir şey giyemez misin?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147527",
+   "en": "What's with the helmets, Tali? Are all quarians shy, or do you not believe in letting outsiders see your faces?",
+   "tr": "Bu kasklar ne, Tali? Tüm quarian'lar utangaç mı, yoksa yabancıların yüzünüzü görmesine inanmıyor musunuz?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147528",
+   "en": "No. Living in the clean environment of the flotilla has weakened our immune systems. The environmental suits protect against diseases.",
+   "tr": "Hayır. Filonun temiz ortamında yaşamak bağışıklık sistemimizi zayıflattı. Çevre giysileri hastalıklardan korur."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147529",
+   "en": "Oh. Well, I'll try not to sneeze.",
+   "tr": "Ah. Şey, hapşırmamaya çalışırım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147530",
+   "en": "It still makes you look a little like a geth, though. I'm just saying.",
+   "tr": "Yine de seni biraz geth'e benzetiyor. Sadece söylüyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147531",
+   "en": "I suppose that makes it more likely you will return from your Pilgrimage, then. You are only truly safe on your flotilla.",
+   "tr": "Sanırım bu Hacından dönme ihtimalini artırıyor. Gerçekten yalnızca filonda güvendesin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147532",
+   "en": "So your people are forever wandering, and now they couldn't settle if they wanted to. I'm sorry.",
+   "tr": "Yani halkın sonsuza dek göçebe ve artık isteseler de yerleşemezler. Üzgünüm."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147533",
+   "en": "Naturally. Anything that isn't constantly challenged grows weak.",
+   "tr": "Doğal olarak. Sürekli zorlanmayan her şey zayıflar."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147790",
+   "en": "Those asari commandos are impressive. Lightly armored, but their speed more than makes up for it.",
+   "tr": "Şu asari komandolar etkileyici. Hafif zırhlılar ama hızları bunu fazlasıyla karşılıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147791",
+   "en": "Unless that speed lets them outrun bullets, I'm more inclined to stick with nice solid armor and a big gun.",
+   "tr": "Hızları kurşunlardan kaçmalarına yetmedikçe sağlam zırh ve büyük silahı tercih ederim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147792",
+   "en": "Point taken.",
+   "tr": "Anlaşıldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147793",
+   "en": "Is it common for human women to be front-rank fighters, Chief Williams? I know that salarian women do not serve in the military.",
+   "tr": "İnsan kadınların ön saf savaşçı olması yaygın mı, Başçavuş Williams? Salarian kadınların orduda hizmet etmediğini biliyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147794",
+   "en": "I'm surprised to see you on the front lines, Chief Williams. Most women I've observed in your Alliance military serve in support roles.",
+   "tr": "Seni ön cephede görünce şaşırdım, Başçavuş Williams. İttifak ordunuzda gözlemlediğim kadınların çoğu destek rollerinde."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147795",
+   "en": "Is it common for human women to be front-rank fighters, Chief Williams? I know that salarian women do not serve in the military.",
+   "tr": "İnsan kadınların ön saf savaşçı olması yaygın mı, Başçavuş Williams? Salarian kadınların orduda hizmet etmediğini biliyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147796",
+   "en": "It's becoming more common, but it took a long time to prove that \"ladies\" could handle an assault rifle or a shotgun.",
+   "tr": "Yaygınlaşıyor ama \"hanımların\" bir taarruz tüfeğini ya da pompalıyı kullanabileceğini kanıtlamak uzun zaman aldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147797",
+   "en": "I doubt anyone who saw your skill under fire could remain skeptical.",
+   "tr": "Ateş altındaki becerini gören kimsenin şüpheci kalabileceğini sanmıyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147798",
+   "en": "On the flotilla, we don't have the luxury of sexism. We need the best hands for every available job.",
+   "tr": "Filoda cinsiyetçilik lüksümüz yok. Her mevcut iş için en iyi ellere ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147799",
+   "en": "Sounds nice, but I don't think I could get used to the uniform.",
+   "tr": "Hoş geliyor ama üniformaya alışabileceğimi sanmıyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147800",
+   "en": "Such enforced roles are common in dual-sexed societies. I was fortunate not to have to deal with that particular burden.",
+   "tr": "Bu tür zorunlu roller çift cinsiyetli toplumlarda yaygın. O yükle uğraşmak zorunda kalmadığım için şanslıydım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147801",
+   "en": "You handle yourself well, Williams. It's surprising. Krogan women have to stay home to try to reproduce.",
+   "tr": "Kendini iyi idare ediyorsun, Williams. Şaşırtıcı. Krogan kadınları üremeye çalışmak için evde kalmak zorunda."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147802",
+   "en": "Sorry to disappoint, Wrex. I'm not the stay-at-home kind.",
+   "tr": "Hayal kırıklığına uğrattığım için üzgünüm, Wrex. Evde kalan tipten değilim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147803",
+   "en": "Didn't say I was disappointed. I could get used to killing with women around. Gives the fight a different flavor.",
+   "tr": "Hayal kırıklığına uğradığımı söylemedim. Çevrede kadınlar varken öldürmeye alışabilirim. Savaşa farklı bir tat veriyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147805",
+   "en": "I haven't spent much time with krogan before, Wrex. I have to say, you're not what I expected.",
+   "tr": "Daha önce krogan'larla pek vakit geçirmedim, Wrex. Söylemeliyim ki beklediğim gibi değilsin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147806",
+   "en": "I haven't spent much time with any krogan before you, Wrex. I have to say, you're not what I expected.",
+   "tr": "Senden önce hiçbir krogan'la pek vakit geçirmedim, Wrex. Söylemeliyim ki beklediğim gibi değilsin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147807",
+   "en": "Right. Because you humans have a wide range of cultures and attitudes, but krogan all think and act exactly alike.",
+   "tr": "Doğru. Çünkü siz insanların geniş bir kültür ve tutum yelpazesi var ama krogan hepsi aynı düşünüp aynı davranıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147808",
+   "en": "Whoa! I didn't mean... look, just forget I said anything!",
+   "tr": "Vay! Demek istemedim... bak, söylediğimi unut!"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147809",
+   "en": "Look, I didn't mean--- Just forget I said anything.",
+   "tr": "Bak, demek istemedim... Söylediğimi unut."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147810",
+   "en": "Done.",
+   "tr": "Bitti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147811",
+   "en": "You are unlike the other krogan I have met, Wrex. Your do not share the bloodlust of your people.",
+   "tr": "Tanıştığım diğer krogan'lara benzemiyorsun, Wrex. Halkının kan hırsını paylaşmıyorsun."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147812",
+   "en": "I'd been raised to see krogan as bloodthirsty thugs, but you've surprised me, Wrex. You are different.",
+   "tr": "Krogan'ı kana susamış serseriler olarak görmem öğretilmişti ama beni şaşırttın, Wrex. Farklısın."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147813",
+   "en": "The genophage is a lot easier to swallow when all krogan are savage monsters, isn't it? ",
+   "tr": "Tüm krogan vahşi canavarsa genophage'ı yutmak çok daha kolay, değil mi?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147814",
+   "en": "Why don't you head back to the Normandy, kid? If you stay here in the real world, you might have to learn something.",
+   "tr": "Normandy'ye geri dönsene evlat? Gerçek dünyada kalırsan bir şey öğrenmek zorunda kalabilirsin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147815",
+   "en": "Wrex, forgive the impertinence, but you are not like the krogan described in the stories on the flotilla.",
+   "tr": "Wrex, küstahlığımı affet ama filodaki hikâyelerde anlatılan krogan'a benzemiyorsun."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147816",
+   "en": "When you're young, you go looking for every fight you can. You get older, you realize that the best fights will find you.",
+   "tr": "Gençken bulabildiğin her kavgayı ararsın. Yaşlanınca en iyi kavgaların seni bulduğunu anlarsın."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147818",
+   "en": "Liara, if your people don't need implants to use biotics, how come asari don't use biotics more often?",
+   "tr": "Liara, halkın biyotik kullanmak için implanta ihtiyaç duymuyorsa asari neden biyotikleri daha sık kullanmıyor?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147819",
+   "en": "So, Doctor T'Soni, are all asari biotics? I heard Lieutenant Alenko say something about you not needing implants.",
+   "tr": "Peki, Doktor T'Soni, tüm asari biyotik mi? Teğmen Alenko'nun implanta ihtiyacın olmadığını söylediğini duydum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147820",
+   "en": "Sometimes I envy your biotic abilities, Doctor. But then, all your people have such skill.",
+   "tr": "Bazen biyotik yeteneklerini kıskanıyorum, Doktor. Ama tüm halkın bu beceriye sahip."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147821",
+   "en": "Your biotic skill is extremely impressive, Doctor T'soni. Is that typical among asari?",
+   "tr": "Biyotik becerin son derece etkileyici, Doktor T'soni. Asari arasında tipik mi bu?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147822",
+   "en": "Your biotics are pretty powerful. Are all asari that strong?",
+   "tr": "Biyotiklerin oldukça güçlü. Tüm asari bu kadar güçlü mü?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147823",
+   "en": "While the asari have natural biotic abilities, not all have the desire nor the skill to use their abilities effectively.",
+   "tr": "Asari doğal biyotik yeteneklere sahip olsa da hepsinin bu yetenekleri etkili kullanma isteği ya da becerisi yok."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147824",
+   "en": "Are you kidding? To have that ability, without implants, and choose not to learn? I'll never understand the asari.",
+   "tr": "Şaka mı yapıyorsun? İmplantsız o yeteneğe sahip olup öğrenmemeyi seçmek mi? Asari'yi asla anlamayacağım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147825",
+   "en": "To have so many potential biotics that people can choose not to train... I imagine the lieutenant would be jealous.",
+   "tr": "Eğitmemeyi seçebilecek kadar çok potansiyel biyotik olması... Teğmenin kıskanacağını hayal ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147826",
+   "en": "Of course. I intended no disrespect to the effort you have put into your training. Pardon me.",
+   "tr": "Elbette. Eğitimine verdiğin emeğe saygısızlık etmek istemedim. Affet."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147827",
+   "en": "And the asari are the most advanced race on the Council. I wonder if all Citadel races will eventually be natural biotics.",
+   "tr": "Ve asari Konsey'in en gelişmiş ırkı. Eninde sonunda tüm Citadel ırklarının doğal biyotik olup olmayacağını merak ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147828",
+   "en": "All that power, and some asari don't use it? You could've conquered the galaxy if you'd wanted to.",
+   "tr": "Bunca güç ve bazı asari kullanmıyor mu? İstesen galaksiyi fethedebilirdin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|147829",
+   "en": "Evidently, we do not want to.",
+   "tr": "Anlaşılan istemiyoruz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148200",
+   "en": "Hearing about the Protheans makes me wonder if some distant civilization is going to find our artifacts someday and study us.",
+   "tr": "Prothean'ları dinlemek, uzak bir medeniyetin bir gün bizim eserlerimizi bulup bizi inceleyip incelemeyeceğini merak ettiriyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148201",
+   "en": "No, sir. When some distant civilization finds our artifacts, we'll be right there to explain what they are.",
+   "tr": "Hayır, efendim. Uzak bir medeniyet eserlerimizi bulduğunda biz de orada ne olduklarını açıklamak için olacağız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148202",
+   "en": "I hope so, Williams, but I'll bet the Protheans thought the same thing.",
+   "tr": "Umarım öyledir, Williams ama bahse girerim Prothean'lar da aynısını düşünmüştür."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148203",
+   "en": "I have often wondered the same thing, Lieutenant. Artifacts of vanished cultures are reminders of our own mortality.",
+   "tr": "Ben de sık sık aynısını merak ettim, Teğmen. Yok olmuş kültürlerin eserleri kendi ölümlülüğümüzü hatırlatır."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148204",
+   "en": "All empires fall, Lieutenant. We can only hope that what we leave behind inspires respect and admiration.",
+   "tr": "Tüm imparatorluklar çöker, Teğmen. Yalnızca geride bıraktıklarımızın saygı ve hayranlık uyandırmasını umabiliriz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148205",
+   "en": "The worlds we abandoned when the geth revolted serve as just such an example. It is a reminder of our mortality.",
+   "tr": "Geth isyan edince terk ettiğimiz dünyalar tam böyle bir örnek. Ölümlülüğümüzün hatırlatıcısı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148206",
+   "en": "Feeling mortal, Alenko?",
+   "tr": "Ölümlü mü hissediyorsun, Alenko?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148207",
+   "en": "I'm not afraid to die. I guess I just want to be remembered by more than a few trinkets in a ruin somewhere.",
+   "tr": "Ölmekten korkmuyorum. Sanırım bir harabede birkaç süs eşyasından fazlasıyla hatırlanmak istiyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148208",
+   "en": "It's strange. The geth are attacking, and everyone around here is still worried about ordinary business.",
+   "tr": "Tuhaf. Geth saldırıyor ve buradaki herkes hâlâ sıradan işler için endişeli."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148209",
+   "en": "It's politics, Williams. The Council won't raise the alarm until they're certain about the threat.",
+   "tr": "Siyaset, Williams. Konsey tehditten emin olana dek alarm vermeyecek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148210",
+   "en": "The threat? Did they not see the vids of Eden Prime? See, this is why I hate politics.",
+   "tr": "Tehdit mi? Eden Prime'ın videolarını görmediler mi? Gördün mü, politikadan bu yüzden nefret ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148211",
+   "en": "I find it comforting. The pain and joy of ordinary life... that is what we are fighting to protect.",
+   "tr": "Ben teselli edici buluyorum. Sıradan hayatın acısı ve sevinci... savunmak için savaştığımız şey bu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148212",
+   "en": "You're military, Chief Williams. They're civilians. Civilians never believe the enemy is coming until they're at the gates.",
+   "tr": "Sen askersin, Başçavuş Williams. Onlar sivil. Siviller düşman kapıya dayanana dek geldiğine asla inanmaz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148213",
+   "en": "It's necessary, Chief Williams. Even if it comes to a full-scale war, someone has to provide food to eat and a home to return to.",
+   "tr": "Gerekli, Başçavuş Williams. Tam ölçekli savaşa varsa bile birinin yiyecek ve dönecek ev sağlaması gerek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148214",
+   "en": "Let them stay ignorant. If our mission reaches the point where these people need to worry about the geth, we've already lost.",
+   "tr": "Cahil kalsınlar. Görevimiz bu insanların geth için endişelenmesi gereken noktaya ulaşırsa zaten kaybetmişiz demektir."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148216",
+   "en": "Are you okay, Tali? It looked like you got some dirty looks back there.",
+   "tr": "İyi misin, Tali? Arkada bazı kötü bakışlar aldın gibi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148217",
+   "en": "Are you okay, Tali? It looked like you got some dirty looks back there.",
+   "tr": "İyi misin, Tali? Arkada bazı kötü bakışlar aldın gibi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148218",
+   "en": "I could not help but notice that you are attracting some unfriendly stares, Tali.",
+   "tr": "Bazı gönülsüz bakışları çektiğini fark etmeden duramadım, Tali."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148219",
+   "en": "You seem to be attracting unwanted attention, Tali. Several passersby were staring at you.",
+   "tr": "İstenmeyen ilgi çekiyor gibisin, Tali. Birkaç yoldan geçen sana bakıyordu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148220",
+   "en": "Some people back there didn't like you, Tali.",
+   "tr": "Arkadaki bazı insanlar senden hoşlanmadı, Tali."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148221",
+   "en": "Many think less of quarians for traveling in the flotilla, and for creating the geth. They see us as scavengers, little better than thieves.",
+   "tr": "Pek çoğu quarian'ları filoda seyahat ettikleri ve geth'i yarattıkları için küçük görüyor. Bizi leşçi, hırsızdan pek iyi olmayan biri olarak görüyorlar."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148222",
+   "en": "Forget them. Anyone that ignorant isn't worth listening to, anyway.",
+   "tr": "Onları boş ver. O kadar cahil biri zaten dinlenmeye değmez."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148223",
+   "en": "That is sort of what I'd heard about your people. I guess you're not in any one place long enough for people to get to know you.",
+   "tr": "Halkın hakkında duyduğum da buydu. Sanırım insanların sizi tanıyacağı kadar uzun süre hiçbir yerde kalmıyorsunuz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148224",
+   "en": "That is an ignorant opinion. Quarian explorers have uncovered more mass relays than any other race!",
+   "tr": "Bu cahilce bir görüş. Quarian kaşifler diğer her ırktan daha fazla kütle rölesi keşfetti!"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148225",
+   "en": "I am glad that some still remember the contributions my people have made.",
+   "tr": "Halkımın katkılarını hâlâ hatırlayanların olmasına sevindim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148226",
+   "en": "It is natural for people to dislike rootless wanderers. If quarians would just settle another homeworld, you would not run into such concerns.",
+   "tr": "İnsanların köksüz göçebelerden hoşlanmaması doğal. Quarian'lar başka bir ana dünyaya yerleşse böyle kaygılarla karşılaşmazdınız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148227",
+   "en": "Perspective is a wonderful thing. Wait until their homeworld gets wiped out. ",
+   "tr": "Bakış açısı harika bir şey. Kendi ana dünyaları yok edilene dek bekle."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148399",
+   "en": "I'd love to see what the Normandy can do in a fight.",
+   "tr": "Normandy'nin bir savaşta neler yapabileceğini görmek isterdim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148400",
+   "en": "The Normandy isn't built for a stand-up fight. I'd rather rely on the IES than the shields.",
+   "tr": "Normandy açık bir savaş için inşa edilmedi. Kalkanlardan çok IES'e güvenirim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148401",
+   "en": "The Normandy isn't built for a stand-up fight. I'd rather rely on the IES than the shields.",
+   "tr": "Normandy açık bir savaş için inşa edilmedi. Kalkanlardan çok IES'e güvenirim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148402",
+   "en": "How so? The Normandy is built for stealth, not combat.",
+   "tr": "Nasıl yani? Normandy savaş için değil gizlilik için inşa edildi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148403",
+   "en": "How so? The Normandy is built for stealth, not combat.",
+   "tr": "Nasıl yani? Normandy savaş için değil gizlilik için inşa edildi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148404",
+   "en": "Only an idiot hopes for combat while flying in a stealth ship.",
+   "tr": "Gizlilik gemisiyle uçarken savaşı ancak aptal umar."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148405",
+   "en": "But the stealth drive adds a new tactical level to space combat as we know it. Surprise attacks, undetected flanking maneuvers...",
+   "tr": "Ama gizlilik sürücüsü bildiğimiz uzay savaşına yeni bir taktik düzeyi katıyor. Sürpriz saldırılar, fark edilmeyen kanat manevraları..."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148406",
+   "en": "I don't know, Garrus. I'd rather not be the first one up the ladder in terms of figuring out new tactics.",
+   "tr": "Bilmiyorum, Garrus. Yeni taktikleri çözerken merdivenin başındaki ilk kişi olmak istemem."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148407",
+   "en": "I don't know, Garrus. I'd rather not be the first one up the ladder when it comes to new tactics.",
+   "tr": "Bilmiyorum, Garrus. Yeni taktikler söz konusu olunca merdivenin başındaki ilk kişi olmak istemem."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148408",
+   "en": "I had forgotten the turian appreciation for tactics and strategy. With respect, I hope we avoid ship-to-ship combat entirely.",
+   "tr": "Turian'ların taktik ve stratejiye olan düşkünlüğünü unutmuştum. Saygılarımla, umarım gemiden gemiye savaşı tamamen atlatırız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148409",
+   "en": "If it comes to a fight, I'd prefer a flotilla ship. It's easier to trust what you've worked on yourself.",
+   "tr": "Savaşa girerse filo gemisini tercih ederim. Kendi üzerinde çalıştığın şeye güvenmek daha kolay."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148410",
+   "en": "This isn't a strategy simulation. If those new tactics don't work, we're salvage.",
+   "tr": "Bu bir strateji simülasyonu değil. O yeni taktikler işe yaramazsa kurtarma malzemesi oluruz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148411",
+   "en": "So tell me, who'd win in a fight between you and Shepard?",
+   "tr": "Söyle bakalım, sen ve Shepard dövüşse kim kazanır?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148412",
+   "en": "What? Commander Shepard is my superior officer. I can't imagine us ever having to fight.",
+   "tr": "Ne? Komutan Shepard benim üst subayım. Hiç dövüşmek zorunda kalacağımızı hayal edemiyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148413",
+   "en": "What? Commander Shepard is my superior officer. I can't imagine us ever having to fight.",
+   "tr": "Ne? Komutan Shepard benim üst subayım. Hiç dövüşmek zorunda kalacağımızı hayal edemiyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148414",
+   "en": "You can't? That's why Shepard's your superior officer. And that's why Shepard would win.",
+   "tr": "Edemiyor musun? Shepard'ın üst subayın olmasının nedeni bu. Ve Shepard'ın kazanmasının nedeni de."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148415",
+   "en": "Do krogan size up everyone for a fight, even friends and allies?",
+   "tr": "Krogan herkesi, dostlarını ve müttefiklerini bile dövüş için mi ölçüyor?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148416",
+   "en": "Do krogan size up everyone for a fight, even friends and allies?",
+   "tr": "Krogan herkesi, dostlarını ve müttefiklerini bile dövüş için mi ölçüyor?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148417",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148418",
+   "en": "That question smacks of impertinence. Commander Shepard is a Spectre with a distinguished service record.",
+   "tr": "Bu soru küstahlık kokuyor. Komutan Shepard seçkin hizmet sicilli bir Spectre."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148419",
+   "en": "So was Saren. Think about it.",
+   "tr": "Saren de öyleydi. Bir düşün."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148421",
+   "en": "It must be nice to be back in civilization after so long in those Prothean ruins.",
+   "tr": "O Prothean kalıntılarında bu kadar uzun kaldıktan sonra medeniyete dönmek güzel olmalı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148422",
+   "en": "It must be nice to be back in civilization after so long in those Prothean ruins.",
+   "tr": "O Prothean kalıntılarında bu kadar uzun kaldıktan sonra medeniyete dönmek güzel olmalı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148423",
+   "en": "You must welcome civilization after spending such a long time in the Prothean ruins.",
+   "tr": "Prothean kalıntılarında bu kadar uzun zaman geçirdikten sonra medeniyeti hoş karşılamalısın."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148424",
+   "en": "You must welcome civilization after so long a time in the Prothean ruins.",
+   "tr": "Prothean kalıntılarında bu kadar uzun zaman geçirdikten sonra medeniyeti hoş karşılamalısın."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148425",
+   "en": "Being in the city must feel good after digging through rocks at that Prothean ruin.",
+   "tr": "O Prothean kalıntısında kayaları eşeledikten sonra şehirde olmak iyi hissettirmeli."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148426",
+   "en": "No. Cities and stations were always my mother's area of comfort. I actually enjoy the solitude of dig sites.",
+   "tr": "Hayır. Şehirler ve istasyonlar hep annemin rahat alanıydı. Ben aslında kazı alanlarının yalnızlığından hoşlanıyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148427",
+   "en": "When this is all over, you'll be able to go back to your rocks and ruins for as long as you'd like.",
+   "tr": "Bunların hepsi bitince kayalarına ve harabelerine istediğin kadar dönebilirsin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148428",
+   "en": "I don't think I could handle that. Eden Prime was as quiet and rustic as I'd ever want.",
+   "tr": "Buna dayanabileceğimi sanmıyorum. Eden Prime istediğim kadar sakin ve kırsaldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148429",
+   "en": "After seeing so many asari come through the Citadel, I assumed your people preferred large cities. I apologize.",
+   "tr": "Citadel'den bu kadar asari geçtiğini görünce halkının büyük şehirleri tercih ettiğini sanmıştım. Özür dilerim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148430",
+   "en": "The ship I grew up on was always full of noise and people. The solitude of a dig site would drive me crazy.",
+   "tr": "Büyüdüğüm gemi hep gürültü ve insan doluydu. Kazı alanının yalnızlığı beni delirtirdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_follower_interject_D|148431",
+   "en": "I'm surprised. I've never met an asari who didn't prefer clean clothes and a hot bath.",
+   "tr": "Şaşırdım. Temiz giysi ve sıcak banyoyu tercih etmeyen bir asariyle hiç tanışmadım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130860",
+   "en": "In other news, ExoGeni Corp is still denying reports that one of their survey teams has gone missing in the Hades Gamma cluster.",
+   "tr": "Diğer haberlerde, ExoGeni Corp, araştırma ekiplerinden birinin Hades Gamma kümesinde kaybolduğu yönündeki haberleri hâlâ yalanlıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130861",
+   "en": "In breaking news, Chairman Burns of the Parliament Subcommittee on Transhuman Studies has been kidnapped by biotic extremists.",
+   "tr": "Son dakika: Parlamento Transhuman Çalışmalar Alt Komitesi Başkanı Burns, biyotik aşırılıkçılar tarafından kaçırıldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130864",
+   "en": "Presidium technicians are struggling to understand why a computer system catastrophically overloaded recently.",
+   "tr": "Presidium teknisyenleri, bir bilgisayar sisteminin yakın zamanda neden felaket düzeyinde aşırı yüklendiğini anlamaya çalışıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130866",
+   "en": "Alliance officials report that a geth incursion into the Armstrong Cluster has been repulsed, with the geth suffering heavy casualties.",
+   "tr": "İttifak yetkilileri, Armstrong Kümesi'ne yönelik geth saldırısının püskürtüldüğünü, geth'in ağır kayıplar verdiğini bildirdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130867",
+   "en": "A research facility in the Hades Gamma cluster was the victim of an attack by biotic extremists.",
+   "tr": "Hades Gamma kümesindeki bir araştırma tesisi biyotik aşırılıkçıların saldırısına uğradı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130868",
+   "en": "Miners in the Skyllian Verge are planning to resume operations on an asteroid rich in element zero.",
+   "tr": "Skyllian Verge'deki madenciler, element sıfır bakımından zengin bir asteroitte faaliyetlere yeniden başlamayı planlıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130871",
+   "en": "A research station on Noveria has reportedly been destroyed. The exact cause is currently unknown.",
+   "tr": "Noveria'daki bir araştırma istasyonunun yok edildiği bildirildi. Kesin neden şu anda bilinmiyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130872",
+   "en": "A salarian excavation team has run into an unexpected problem after unearthing a Prothean dig site.",
+   "tr": "Bir salarian kazı ekibi, bir Prothean kazı alanını ortaya çıkardıktan sonra beklenmedik bir sorunla karşılaştı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130873",
+   "en": "In entertainment news, Francis Kitt has announced plans to direct \"Hamlet\" with elcor cast members.",
+   "tr": "Eğlence haberlerinde, Francis Kitt \"Hamlet\"i elcor oyuncularla yönetme planlarını duyurdu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|130874",
+   "en": "Treaty negotiations between the Alliance and the salarian republic have finally concluded.",
+   "tr": "İttifak ile salarian cumhuriyeti arasındaki antlaşma müzakereleri nihayet sonuçlandı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|134763",
+   "en": "When asked why communication with the survey team was suddenly cut off last week, company officials refused to comment.",
+   "tr": "Geçen hafta etüt ekibiyle iletişimin neden aniden kesildiği sorulduğunda şirket yetkilileri yorum yapmayı reddetti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|134764",
+   "en": "ExoGeni Corp recently released an official statement regarding their missing survey team in the Hades Gamma cluster.",
+   "tr": "ExoGeni Corp, Hades Gamma kümesinde kaybolan etüt ekibiyle ilgili yakın zamanda resmî bir açıklama yayımladı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|134765",
+   "en": "According to the statement, the remains of the survey team were discovered not far from their abandoned research camp. There were no survivors.",
+   "tr": "Açıklamaya göre etüt ekibinin kalıntıları terk edilmiş araştırma kamplarının çok uzağında olmayan bir yerde bulundu. Hayatta kalan yok."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|134766",
+   "en": "It is believed the researchers were the victims of a random attack by raiders or mercenaries. Names will be released after next of kin are notified.",
+   "tr": "Araştırmacıların haydutların ya da paralı askerlerin rastgele bir saldırısının kurbanı olduğu sanılıyor. İsimler yakınlarına haber verildikten sonra açıklanacak."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|135603",
+   "en": "C-Sec has declined to press charges in the death of human Conrad Verner, who was killed yesterday morning after assaulting a group of turians in a restaurant in the Wards.",
+   "tr": "C-Sec, dün sabah Wards'taki bir restoranda bir grup turian'a saldırdıktan sonra öldürülen insan Conrad Verner'ın ölümüyle ilgili dava açmayı reddetti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|136490",
+   "en": "Reporter Khalisah al-Jilani recently attempted to land an interview with Commander Shepard, the first human Spectre.",
+   "tr": "Muhabir Khalisah al-Jilani, ilk insan Spectre olan Komutan Shepard'la röportaj yapmaya çalıştı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|136493",
+   "en": "When pressed on the issues, however, Commander Shepard reportedly lost control and assaulted the reporter.",
+   "tr": "Ancak konulara baskı yapıldığında Komutan Shepard'ın kontrolünü kaybedip muhabire saldırdığı bildirildi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|136494",
+   "en": "Commander Shepard answered difficult questions, demonstrating that under the military uniform is a keen diplomatic mind.",
+   "tr": "Komutan Shepard zor soruları yanıtlayarak askerî üniformanın altında keskin bir diplomatik zekâ olduğunu gösterdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|137652",
+   "en": "Terra Firma Party candidate Charles Saracino confirms that the first human Spectre endorsed his candidacy.",
+   "tr": "Terra Firma Partisi adayı Charles Saracino, ilk insan Spectre'ın adaylığını desteklediğini doğruladı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|138917",
+   "en": "Admiral Kahoku, a respected member of the Alliance military, has passed away.",
+   "tr": "İttifak ordusunun saygın üyelerinden Amiral Kahoku hayatını kaybetti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|138918",
+   "en": "Because Verner initiated the assault, it has been ruled self-defense. Ambassador Udina has no plans to appeal the ruling.",
+   "tr": "Saldırıyı Verner başlattığı için olay meşru müdafaa sayıldı. Büyükelçi Udina karara itiraz etmeyi planlamıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|140921",
+   "en": "Alliance officials have raided a dangerous cult controlled by a former Alliance officer, Major Kyle.",
+   "tr": "İttifak yetkilileri, eski bir İttifak subayı olan Binbaşı Kyle'ın yönettiği tehlikeli bir tarikata baskın düzenledi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143041",
+   "en": "The biotics commandeered a freighter and were last seen in the Hades Gamma cluster. No demands have yet been made.",
+   "tr": "Biyotikler bir yük gemisine el koydu ve en son Hades Gamma kümesinde görüldü. Henüz herhangi bir talepte bulunulmadı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143044",
+   "en": "Technicians are reportedly unsure of what caused the malfunction, or even what the system was originally designed to do.",
+   "tr": "Teknisyenlerin arızanın nedeninden, hatta sistemin aslında ne amaçla tasarlandığından bile emin olmadığı bildiriliyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143045",
+   "en": "C-Sec is investigating the possible vandalism or misuse of public property.",
+   "tr": "C-Sec, kamu malına olası zarar verme ya da kötüye kullanım olduğunu soruşturuyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143046",
+   "en": "In the event of future geth activity, the Alliance plans to maintain a strong security presence in the area.",
+   "tr": "Gelecekte bir geth faaliyeti olursa İttifak bölgede güçlü bir güvenlik varlığı sürdürmeyi planlıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143047",
+   "en": "Major Kyle and his cultists refused to surrender and were killed in the resulting firefight.",
+   "tr": "Binbaşı Kyle ve tarikatçıları teslim olmayı reddetti ve çıkan çatışmada öldürüldü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143048",
+   "en": "Major Kyle surrendered and is now being treated for severe post-traumatic stress disorder.",
+   "tr": "Binbaşı Kyle teslim oldu ve şu anda ağır travma sonrası stres bozukluğu için tedavi ediliyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143049",
+   "en": "The veteran soldier, who won the love of his troops during conflict with the batarians, died of natural causes.",
+   "tr": "Batarian'larla çatışma sırasında askerlerinin sevgisini kazanan emektar asker doğal nedenlerle öldü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143050",
+   "en": "Kahoku is survived by his wife and three children, who are planning a small, private memorial service. ",
+   "tr": "Kahoku'nun geride eşi ve üç çocuğu kaldı; aile küçük, özel bir anma töreni planlıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143051",
+   "en": "A daring Alliance raid killed the biotics. Miraculously, none of the researchers were harmed.",
+   "tr": "Cesur bir İttifak baskını biyotikleri öldürdü. Mucize eseri hiçbir araştırmacı zarar görmedi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143052",
+   "en": "Drugged researchers were used as human shields, and there were several civilian casualties in the ensuing Alliance raid.",
+   "tr": "İlaçla sersemletilmiş araştırmacılar canlı kalkan olarak kullanıldı ve ardından gelen İttifak baskınında birkaç sivil öldü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143053",
+   "en": "The facility is expected to re-open soon, with tighter security measures in place.",
+   "tr": "Tesisin daha sıkı güvenlik önlemleriyle yakında yeniden açılması bekleniyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143054",
+   "en": "The drugged researchers attacked Alliance soldiers, and the rescue operation became a brutal massacre.",
+   "tr": "İlaçla sersemletilmiş araştırmacılar İttifak askerlerine saldırdı ve kurtarma operasyonu acımasız bir katliama dönüştü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143055",
+   "en": "The research center is unlikely to re-open in the near future.",
+   "tr": "Araştırma merkezinin yakın gelecekte yeniden açılması olası değil."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143056",
+   "en": "Raids by a criminal warlord had recently disrupted mining operations in the area.",
+   "tr": "Suçlu bir savaş lordunun baskınları yakın zamanda bölgedeki madencilik faaliyetlerini aksattı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143057",
+   "en": "After negotiations with the Alliance military, however, the warlord has allowed mining operations to resume.",
+   "tr": "Ancak İttifak ordusuyla yapılan müzakerelerin ardından savaş lordu madencilik faaliyetlerinin yeniden başlamasına izin verdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143058",
+   "en": "The warlord was subsequently killed, however, and infighting among his lieutenants has made future raids unlikely.",
+   "tr": "Ancak savaş lordu sonradan öldürüldü ve yardımcıları arasındaki iç çatışmalar gelecekteki baskınları olasılık dışı bıraktı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143059",
+   "en": "Nonya Tombiri has been arrested and removed from her post as administrator of the Caleston mining station.",
+   "tr": "Nonya Tombiri tutuklandı ve Caleston madencilik istasyonu yöneticiliğinden alındı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143060",
+   "en": "Administrator Nonya Tombiri of the Caleston mining station has vanished and is presumed dead following a violent incident at her offices.",
+   "tr": "Caleston madencilik istasyonu yöneticisi Nonya Tombiri, ofislerinde yaşanan şiddet olayının ardından ortadan kayboldu ve öldüğü varsayılıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143061",
+   "en": "Local officials have not provided details, but Tombiri was allegedly involved with the Caleston Cartel, a group of red sand dealers.",
+   "tr": "Yerel yetkililer ayrıntı vermedi ancak Tombiri'nin bir kırmızı kum satıcıları grubu olan Caleston Karteli'yle bağlantılı olduğu öne sürüldü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143062",
+   "en": "Administrator Tombiri's successor has not yet been named.",
+   "tr": "Yönetici Tombiri'nin halefi henüz belirlenmedi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143063",
+   "en": "Administrator Tombiri of the Caleston mining station reports that the Caleston Cartel has been brought to justice.",
+   "tr": "Caleston madencilik istasyonu yöneticisi Tombiri, Caleston Karteli'nin adalete teslim edildiğini bildirdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143064",
+   "en": "The Cartel, a powerful group of red sand dealers, has defied authorities for years.",
+   "tr": "Güçlü bir kırmızı kum satıcıları grubu olan Kartel, yıllardır yetkililere meydan okuyordu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143065",
+   "en": "EAE, which owns the Caleston mining facility, was reportedly pleased that the Cartel is no longer operating in its station.",
+   "tr": "Caleston madencilik tesisinin sahibi EAE'nin, Kartel'in istasyonunda artık faaliyet göstermemesinden memnun olduğu bildirildi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143066",
+   "en": "ExoGeni officials have announced that their research colony on Feros is being shut down.",
+   "tr": "ExoGeni yetkilileri, Feros'taki araştırma kolonilerinin kapatıldığını duyurdu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143067",
+   "en": "Difficult living conditions combined with poor yield of viable discoveries made it unfeasible economically to keep the colony going.",
+   "tr": "Zor yaşam koşulları ve uygulanabilir keşiflerin düşük verimi, koloniyi sürdürmeyi ekonomik olarak imkânsız kıldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143068",
+   "en": "After years of poor economic performance, ExoGeni has announced that its research colony on Feros is finally returning a profit.",
+   "tr": "Yıllarca süren kötü ekonomik performansın ardından ExoGeni, Feros'taki araştırma kolonisinin sonunda kâr getirmeye başladığını duyurdu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143069",
+   "en": "New discoveries and a dedicated colonization effort have finally paid off for ExoGeni.",
+   "tr": "Yeni keşifler ve kararlı bir kolonileşme çabası sonunda ExoGeni için meyve verdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143070",
+   "en": "ExoGeni's stock rose sharply with the announcement, with investors pleased at this surprising news.",
+   "tr": "ExoGeni'nin hisseleri açıklamayla keskin biçimde yükseldi; yatırımcılar bu şaşırtıcı haberden memnun."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143249",
+   "en": "Given the research conducted on Noveria, many are blaming the destruction on an experiment gone awry.",
+   "tr": "Noveria'da yürütülen araştırmalar göz önüne alındığında, birçok kişi yıkımı ters giden bir deneye bağlıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143250",
+   "en": "Reports indicate that Administrator Anoleis died during the disaster. A new administrator has yet to be appointed.",
+   "tr": "Raporlar, Yönetici Anoleis'in felaket sırasında öldüğünü gösteriyor. Yeni bir yönetici henüz atanmadı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143251",
+   "en": "Administrator Anoleis currently faces criminal charges as a result of the disaster, although the nature of the charges remains unclear.",
+   "tr": "Yönetici Anoleis şu anda felaket nedeniyle cezai suçlamalarla karşı karşıya, ancak suçlamaların niteliği belirsiz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143252",
+   "en": "Administrator Anoleis has released few details, except to say that investigations and repairs are ongoing.",
+   "tr": "Yönetici Anoleis, soruşturmaların ve onarımların sürdüğünü söylemek dışında pek ayrıntı vermedi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143253",
+   "en": "Hanar protesters have blockaded the dig site, claiming that artifacts of \"the Enkindlers\", as the hanar call them, should not be disturbed.",
+   "tr": "Hanar protestocular, hanar'ın \"Enkindlers\" dediği varlıkların eserlerine dokunulmaması gerektiğini söyleyerek kazı alanını ablukaya aldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143254",
+   "en": "The excavation team has appealed to hanar representatives on the Citadel to reach a diplomatic solution.",
+   "tr": "Kazı ekibi, diplomatik bir çözüm bulması için Citadel'deki hanar temsilcilerine başvurdu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143255",
+   "en": "The production will open dramatic theater to the elcor with a Hamlet who uses elcor body language and pheromones.",
+   "tr": "Yapım, elcor beden dilini ve feromonlarını kullanan bir Hamlet'le dramatik tiyatroyu elcor'a açacak."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143256",
+   "en": "Kitt claims that he is also excited by giving a human audience the chance to judge Hamlet by his deeds and not his emotions.",
+   "tr": "Kitt, insan izleyicilere Hamlet'i duygularıyla değil eylemleriyle yargılama fırsatı vermekten de heyecan duyduğunu söylüyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143257",
+   "en": "Binary Helix has settled out-of-court with a krogan group that had accused the genetics corporation of fraud.",
+   "tr": "Binary Helix, genetik şirketini dolandırıcılıkla suçlayan bir krogan grubuyla mahkeme dışı anlaştı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143258",
+   "en": "The krogan group had contracted Binary Helix to perform studies with a long-range goal of curing their genetic sterilization.",
+   "tr": "Krogan grubu, genetik kısırlıklarını tedavi etmeyi uzun vadeli hedefleyen çalışmalar yapması için Binary Helix'le sözleşme yapmıştı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143259",
+   "en": "The group later sued for a return of investment money when the study produced no viable results.",
+   "tr": "Grup, çalışma uygulanabilir sonuç vermeyince yatırım paralarının iadesi için dava açtı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143260",
+   "en": "Salarian officials are complaining that the Alliance made unreasonable demands in hard-line negotiation tactics.",
+   "tr": "Salarian yetkilileri, İttifak'ın sert pazarlık taktikleriyle makul olmayan talepler öne sürdüğünden şikâyetçi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143261",
+   "en": "The resulting deal, negotiated by Elias Keeler, will bring billions of credits to the Alliance.",
+   "tr": "Elias Keeler'ın müzakere ettiği anlaşma İttifak'a milyarlarca kredi getirecek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143262",
+   "en": "Salarians praised the openness and flexibility of Alliance negotiators in pursuing a deal that benefited both sides.",
+   "tr": "Salarian'lar, İttifak müzakerecilerinin her iki tarafa da yarar sağlayan bir anlaşma peşindeki açıklığını ve esnekliğini övdü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143263",
+   "en": "The deal was brokered by new Alliance negotiator Thomas Kent after his mentor Elias Keeler withdrew, citing health reasons.",
+   "tr": "Anlaşma, akıl hocası Elias Keeler sağlık nedenleriyle çekildikten sonra yeni İttifak müzakerecisi Thomas Kent tarafından sağlandı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143264",
+   "en": "Unfortunately, Shepard refused to answer questions, raising concerns regarding the Spectre's commitment to humanity.",
+   "tr": "Ne yazık ki Shepard soruları yanıtlamayı reddetti ve bu, Spectre'ın insanlığa bağlılığı konusunda endişelere yol açtı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143265",
+   "en": "We'll have exclusive footage later today.",
+   "tr": "Özel görüntüleri bugün ilerleyen saatlerde yayınlayacağız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143269",
+   "en": "Coming up in a report later today, Emily Wong investigates corruption on the Citadel and uncovers a full-blown crime syndicate.",
+   "tr": "Bugün ilerleyen saatlerdeki haberde Emily Wong Citadel'deki yolsuzluğu araştırıyor ve tam teşekküllü bir suç örgütünü ortaya çıkarıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143271",
+   "en": "Have increases in Citadel traffic endangered our safety? Emily Wong offers an inside look at the dangerous world of space-traffic control.",
+   "tr": "Citadel'deki trafik artışı güvenliğimizi tehlikeye mi attı? Emily Wong uzay trafik kontrolünün tehlikeli dünyasına içeriden bir bakış sunuyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|143272",
+   "en": "Later today, Emily Wong goes inside the fast-paced world of space-traffic controllers with an exclusive interview.",
+   "tr": "Bugün ilerleyen saatlerde Emily Wong, özel bir röportajla uzay trafik kontrolörlerinin hızlı tempolu dünyasının içine giriyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147295",
+   "en": "The Council isn't going to ask me any questions, are they?",
+   "tr": "Konsey bana soru sormayacak, değil mi?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147296",
+   "en": "I can't believe the Council ignored all the evidence against Saren!",
+   "tr": "Konsey'in Saren aleyhindeki tüm kanıtları görmezden geldiğine inanamıyorum!"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147299",
+   "en": "Welcome to Port Hanshan, the galaxy's most respected site for independent scientific research and development.",
+   "tr": "Bağımsız bilimsel araştırma ve geliştirme için galaksinin en saygın merkezi Port Hanshan'a hoş geldiniz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147306",
+   "en": "In light of the recent attack on Eden Prime, many colonial investors are pulling their support for future projects.",
+   "tr": "Eden Prime'a yapılan son saldırı ışığında birçok koloni yatırımcısı gelecekteki projelere desteğini çekiyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147307",
+   "en": "In remembrance of Eden Prime, we present another profile in courage with Serviceman Nirali Bhatia.",
+   "tr": "Eden Prime anısına, Er Nirali Bhatia ile bir cesaret portresi daha sunuyoruz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147308",
+   "en": "Reports are circulating that Alliance Ambassador Udina has accused a Spectre of orchestrating the attack on Eden Prime.",
+   "tr": "İttifak Büyükelçisi Udina'nın bir Spectre'ı Eden Prime saldırısını planlamakla suçladığına dair haberler dolaşıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147309",
+   "en": "In a further developments in the Eden Prime investigation, the Council has reportedly revoked the Spectre status of one of its operatives.",
+   "tr": "Eden Prime soruşturmasındaki yeni gelişmede, Konsey'in ajanlarından birinin Spectre statüsünü iptal ettiği bildirildi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147418",
+   "en": "Celebrations are being planned for the anniversary of the end of the Rachni Wars.",
+   "tr": "Rachni Savaşları'nın bitişinin yıl dönümü için kutlamalar planlanıyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147419",
+   "en": "Many Council worlds, particularly asari and salarian colonies, will hold victory parades to commemorate the defeat of the invading rachni.",
+   "tr": "Başta asari ve salarian kolonileri olmak üzere pek çok Konsey dünyası, istilacı rachni'nin yenilgisini anmak için zafer geçitleri düzenleyecek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|147420",
+   "en": "In a rare admission of debt, several asari colonies have invited krogan to be honored for the victories the uplifted krogan made possible.",
+   "tr": "Nadir bir borç itirafıyla birkaç asari kolonisi, yükseltilen krogan'ın mümkün kıldığı zaferler için krogan'ı onurlandırmak üzere davet etti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148929",
+   "en": "A devoted wife and talented chef, Serviceman Bhatia joined the Alliance military under the deferred education plan.",
+   "tr": "Sadık bir eş ve yetenekli bir aşçı olan Er Bhatia, ertelenmiş eğitim planı kapsamında İttifak ordusuna katıldı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148930",
+   "en": "After finishing her service, Bhatia planned to open a restaurant. Instead, she gave her life protecting the colonists of Eden Prime.",
+   "tr": "Hizmetini bitirdikten sonra Bhatia bir restoran açmayı planlıyordu. Bunun yerine Eden Prime kolonistlerini korurken hayatını verdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148931",
+   "en": "For more profiles in courage, or to explore opportunities in the military, please visit the Alliance military on the extranet, keyword \"courage\".",
+   "tr": "Daha fazla cesaret portresi için ya da askerî fırsatları keşfetmek için lütfen ekstranette \"cesaret\" anahtar kelimesiyle İttifak ordusunu ziyaret edin."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148932",
+   "en": "Udina reportedly based his accusation upon eyewitness accounts of the scene, but lacked the evidence to demand further investigation.",
+   "tr": "Udina'nın suçlamasını olay yerindeki görgü tanıklarının ifadelerine dayandırdığı bildiriliyor ama daha ileri soruşturma talep edecek kanıttan yoksundu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148933",
+   "en": "When asked to comment, a Council spokesperson would only state that the investigation of the attacks upon Eden Prime was currently ongoing.",
+   "tr": "Yorum istenen Konsey sözcüsü yalnızca Eden Prime saldırılarının soruşturmasının sürdüğünü söyledi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148934",
+   "en": "While the unnamed operative has not yet been apprehended, a Council spokesman confirmed that corrective actions had been taken.",
+   "tr": "Adı açıklanmayan ajan henüz yakalanmasa da bir Konsey sözcüsü düzeltici adımların atıldığını doğruladı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148937",
+   "en": "I doubt it. We've made our reports. Now we just have to trust Ambassador Udina.",
+   "tr": "Sanmıyorum. Raporlarımızı verdik. Şimdi sadece Büyükelçi Udina'ya güvenmemiz gerek."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148938",
+   "en": "No we don't, sir.",
+   "tr": "Hayır, gerekmiyor, efendim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148939",
+   "en": "Saren's one of their best operatives. It's only natural that they'd take his word over ours.",
+   "tr": "Saren en iyi ajanlarından biri. Onun sözüne bizimkinden çok güvenmeleri doğal."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148940",
+   "en": "Oh, so now we just chase leads while this smug turian runs around with his geth troopers.",
+   "tr": "Ah, yani şimdi bu kendini beğenmiş turian geth askerleriyle dolanırken biz de ipuçlarının peşinde koşacağız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148941",
+   "en": "That's politics, Chief.",
+   "tr": "Politika bu, Başçavuş."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148942",
+   "en": "I hate politics.",
+   "tr": "Politikadan nefret ediyorum."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148943",
+   "en": "I'm going to enjoy the look on the Council's face when they see evidence they can't just ignore.",
+   "tr": "Konsey'in yüzünün, görmezden gelemeyecekleri kanıtı görünce alacağı hâli izlemekten zevk alacağım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148944",
+   "en": "I just hope it isn't too late. All this time we spent hunting for evidence gave Saren a nice head start.",
+   "tr": "Umarım çok geç değildir. Kanıt aramak için harcadığımız tüm bu zaman Saren'e iyi bir fark attı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148945",
+   "en": "There's no way the Council can ignore us this time. Saren's days as a Spectre are done.",
+   "tr": "Bu sefer Konsey bizi görmezden gelemez. Saren'in Spectre olarak günleri bitti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148946",
+   "en": "If they had listened to me earlier, Saren would already be in custody. Every life lost because of that delay is on the Council's head.",
+   "tr": "Beni daha önce dinleselerdi Saren çoktan gözaltında olurdu. O gecikme yüzünden kaybedilen her can Konsey'in boynunda."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148947",
+   "en": "There's no way the Council can ignore us this time. Saren's days as a Spectre are done.",
+   "tr": "Bu sefer Konsey bizi görmezden gelemez. Saren'in Spectre olarak günleri bitti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148948",
+   "en": "Don't congratulate yourself too much. All this time you were hunting for evidence, Saren was moving forward with his plan.",
+   "tr": "Kendinizi fazla kutlamayın. Siz kanıt ararken Saren planını ilerletmeye devam etti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148949",
+   "en": "If the evidence is worth trying to kill me for, I hope it is sufficient to motivate the Council.",
+   "tr": "Kanıt beni öldürmeye değecek kadar önemliyse umarım Konsey'i harekete geçirmeye yeter."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148950",
+   "en": "You know, Saren would already be in custody if you'd gone straight to the Council with your information.",
+   "tr": "Biliyor musun, bilgilerinle doğrudan Konsey'e gitseydin Saren çoktan gözaltında olurdu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148951",
+   "en": "A lone quarian with no credentials? The  Council would laugh me out of the chambers. That is, if Saren hadn't killed me by then.",
+   "tr": "Kimliği olmayan yalnız bir quarian mı? Konsey beni salondan güle güle kovardı. Tabii Saren o zamana kadar beni öldürmediyse."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148952",
+   "en": "Watch yourself out there. Fai Dan said we wouldn't have any cover.",
+   "tr": "Dikkatli ol. Fai Dan sığınak olmayacağını söyledi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148953",
+   "en": "I imagine I've been in as many trench fights as you have, Lieutenant... if not more.",
+   "tr": "Sanırım ben de en az sizin kadar siper savaşı yaşadım, Teğmen... hatta daha fazla."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148954",
+   "en": "Keep your head down out there. Fai Dan said we wouldn't have any cover.",
+   "tr": "Başını aşağıda tut. Fai Dan sığınak olmayacağını söyledi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148955",
+   "en": "I shall endeavor to follow your lead.",
+   "tr": "Önderliğinizi izlemeye çalışacağım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148956",
+   "en": "Are you certain that this is the proper path? Fai Dan said we would not have cover from the geth.",
+   "tr": "Bunun doğru yol olduğundan emin misiniz? Fai Dan geth'e karşı siperimiz olmayacağını söylemişti."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148957",
+   "en": "Commander Shepard is choosing the best option. We can take the geth. The tunnels are an unknown quantity.",
+   "tr": "Komutan Shepard en iyi seçeneği seçiyor. Geth'i alt edebiliriz. Tüneller bilinmeyen bir şey."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148958",
+   "en": "Multiple opponents and no cover makes for a difficult fight. Be careful out there.",
+   "tr": "Birden çok düşman ve siper yokluğu zor bir savaş demek. Dikkatli ol."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148959",
+   "en": "At least the geth are a known quantity. Who knows what the beasts in the tunnels are like?",
+   "tr": "En azından geth bilinen bir güç. Tünellerdeki canavarların nasıl olduğunu kim bilebilir?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148960",
+   "en": "This is going to be bad, isn't it? Fai Dan said there was no cover out there.",
+   "tr": "Bu kötü olacak, değil mi? Fai Dan orada hiç siper olmadığını söyledi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148961",
+   "en": "I'll take a tough fight over tunnels. In a tunnel, they always know where you are.",
+   "tr": "Tünellere göre zor bir savaşı tercih ederim. Tünelde her zaman nerede olduğunu bilirler."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148962",
+   "en": "For your own safety, and to protect the privacy of others, you are required to obey any directions given by our security personnel.",
+   "tr": "Kendi güvenliğiniz ve başkalarının gizliliğinin korunması için güvenlik personelimizin verdiği tüm yönergelere uymanız gerekmektedir."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148963",
+   "en": "If you have questions or concerns, our friendly administrative staff is always available. Thank you, and enjoy your stay.",
+   "tr": "Sorularınız ya da endişeleriniz varsa nazik idari personelimiz her zaman hizmetinizde. Teşekkür ederiz, konaklamanızın keyfini çıkarın."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148964",
+   "en": "I have studied the Protheans for decades, but I have never felt this sense of foreboding. What will we find down there?",
+   "tr": "Prothean'ları onlarca yıldır inceliyorum ama hiç böyle bir kötü önsezi yaşamamıştım. Aşağıda ne bulacağız?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148965",
+   "en": "Whatever we find, be cautious. If this were simply an automated trap, Saren would have triggered it as well.",
+   "tr": "Ne bulursak bulalım dikkatli olun. Bu sadece otomatik bir tuzak olsaydı Saren de tetiklerdi."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148966",
+   "en": "If this were simply an automated trap, Saren would have triggered it. What do you think this is?",
+   "tr": "Bu sadece otomatik bir tuzak olsaydı Saren tetiklerdi. Sence bu ne?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148967",
+   "en": "Whatever it is, we should be careful.",
+   "tr": "Her ne ise, dikkatli olmalıyız."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148968",
+   "en": "What do you think we're going to find down here? It has to be useful, if it specifically targeted us.",
+   "tr": "Sence aşağıda ne bulacağız? Bizi özellikle hedef aldıysa faydalı olmalı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148969",
+   "en": "I don't know. I just hope that whatever's down here is friendly. We've got enough enemies at the moment.",
+   "tr": "Bilmiyorum. Umarım aşağıdaki her ne ise dosttur. Şu an yeterince düşmanımız var."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148970",
+   "en": "Whatever's down here is Prothean, right? So it has to be on our side, against the Reapers.",
+   "tr": "Aşağıdaki her şey Prothean, değil mi? O zaman Biçiciler'e karşı bizim tarafımızda olmalı."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148971",
+   "en": "I'm not putting faith in anybody being on our side. Not any more.",
+   "tr": "Kimsenin bizim tarafımızda olduğuna güvenmiyorum. Artık değil."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148972",
+   "en": "What the hell is down here? Is this just another trap, or did we finally run into some good luck?",
+   "tr": "Aşağıda ne var, Allah aşkına? Bu da başka bir tuzak mı, yoksa sonunda şansımız mı döndü?"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148973",
+   "en": "Don't get your hopes up. The only thing we can depend on right now is ourselves.",
+   "tr": "Umutlanma. Şu an güvenebileceğimiz tek şey kendimiz."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148976",
+   "en": "Proponents of expanded human colonization insist that Eden Prime was an isolated case. Nevertheless, colonist enrollment has dropped sharply.",
+   "tr": "Genişleyen insan kolonileşmesinin savunucuları Eden Prime'ın münferit bir olay olduğunda ısrar ediyor. Yine de koloni başvuruları keskin biçimde düştü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|148977",
+   "en": "Many colonial proposals are on hold until backers have some reassurance that human colonies will be adequately protected.",
+   "tr": "Birçok koloni teklifi, destekçiler insan kolonilerinin yeterince korunacağına dair güvence alana dek askıda."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149101",
+   "en": "All their culture, all their advanced technology, and the Protheans were taken in by the Reapers, just as we were. They failed.",
+   "tr": "Tüm kültürleri, tüm gelişmiş teknolojileri ve Prothean'lar da tıpkı bizim gibi Biçiciler'e kandı. Başarısız oldular."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149102",
+   "en": "Just like my people. But they also gave us a chance to save ourselves. We must hurry!",
+   "tr": "Tıpkı benim halkım gibi. Ama bize kendimizi kurtarma şansı da verdiler. Acele etmeliyiz!"
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149103",
+   "en": "It's tragic. For all their great achievements, the Protheans lost everything, just like my people. Even their last plan failed.",
+   "tr": "Trajik. Tüm büyük başarılarına rağmen Prothean'lar tıpkı benim halkım gibi her şeylerini kaybetti. Son planları bile başarısız oldu."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149104",
+   "en": "The Protheans did not fail. They gave us a chance. It falls to us to make the most of it, so I suggest we hurry.",
+   "tr": "Prothean'lar başarısız olmadı. Bize bir şans verdiler. Bundan en iyi şekilde yararlanmak bize düşüyor, bu yüzden acele etmemizi öneririm."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149105",
+   "en": "So many races look up to the Protheans as paragons of civilization. But they were fooled by the Reapers, just as we were. They failed.",
+   "tr": "Pek çok ırk Prothean'lara medeniyetin örnekleri olarak bakıyor. Ama onlar da tıpkı bizim gibi Biçiciler'e kandı. Başarısız oldular."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149106",
+   "en": "Not entirely. They've given us a weapon. They've given us a chance... if we can just get there in time.",
+   "tr": "Tamamen değil. Bize bir silah verdiler. Bize bir şans verdiler... yeter ki zamanında oraya ulaşalım."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149107",
+   "en": "So many dead for a plan that accomplished nothing. Saren gets through the Conduit, the Reapers arrive, and the Protheans fail.",
+   "tr": "Hiçbir şey başarmayan bir plan için bu kadar ölü. Saren Conduit'ten geçiyor, Biçiciler geliyor ve Prothean'lar başarısız oluyor."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149108",
+   "en": "We can get there in time. Their plan only fails if we do, and I've come too far to watch Saren win.",
+   "tr": "Zamanında oraya ulaşabiliriz. Plan ancak biz başarısız olursak başarısız olur ve ben Saren'in kazanmasını izlemek için buraya kadar gelmedim."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149109",
+   "en": "I can't believe it. So many dead, and it was all for nothing. The Protheans fell right into the Reapers' trap, just like we did.",
+   "tr": "İnanamıyorum. Bu kadar ölü ve hepsi boşunaymış. Prothean'lar tıpkı bizim gibi Biçiciler'in tuzağına düştü."
+  },
+  {
+   "key": "BIOA_STA30_00_PLC_LOC|sp_news_vids_D|149110",
+   "en": "Keep it moving. I've got no intention of ending up like them.",
+   "tr": "Yürümeye devam et. Onlar gibi bitmeye hiç niyetim yok."
+  }
+ ]
+}

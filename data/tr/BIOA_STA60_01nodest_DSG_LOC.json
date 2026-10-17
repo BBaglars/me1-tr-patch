@@ -1,0 +1,685 @@
+{
+ "meta": {
+  "package": "BIOA_STA60_01nodest_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA60_01nodest_DSG_LOC",
+  "textLang": "INT",
+  "sets": 4
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137180",
+   "en": "No blood for aliens!",
+   "tr": "Uzaylılar için kan yok!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137181",
+   "en": "Terra Firma!",
+   "tr": "Terra Firma!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137182",
+   "en": "Throw the appeasers out!",
+   "tr": "Yatıştırıcıları kovun!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137183",
+   "en": "Freedom isn't free!",
+   "tr": "Özgürlük bedavaya gelmez!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137184",
+   "en": "We bleed red!",
+   "tr": "Kanımız kırmızı!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137185",
+   "en": "Aliens off Earth!",
+   "tr": "Uzaylılar Dünya'dan defolsun!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137186",
+   "en": "Go it alone!",
+   "tr": "Tek başımıza yürüyelim!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137187",
+   "en": "Earth first!",
+   "tr": "Önce Dünya!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_female_D|137188",
+   "en": "Remember Shanxi!",
+   "tr": "Shanxi'yi unutmayın!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137171",
+   "en": "Remember Shanxi!",
+   "tr": "Shanxi'yi unutmayın!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137172",
+   "en": "Earth first!",
+   "tr": "Önce Dünya!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137173",
+   "en": "Go it alone!",
+   "tr": "Tek başımıza yürüyelim!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137174",
+   "en": "Aliens off Earth!",
+   "tr": "Uzaylılar Dünya'dan defolsun!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137175",
+   "en": "We bleed red!",
+   "tr": "Kanımız kırmızı!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137176",
+   "en": "Freedom isn't free!",
+   "tr": "Özgürlük bedavaya gelmez!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137177",
+   "en": "Throw the appeasers out!",
+   "tr": "Yatıştırıcıları kovun!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137178",
+   "en": "Terra Firma!",
+   "tr": "Terra Firma!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_amb_riot1_male_D|137179",
+   "en": "No blood for aliens!",
+   "tr": "Uzaylılar için kan yok!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137189",
+   "en": "I have to work the crowd, Commander. Maybe we can do lunch sometime.",
+   "tr": "Kalabalıkla ilgilenmem gerek Komutan. Belki bir ara öğle yemeği yeriz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137190",
+   "en": "Commander. Have you changed you mind? Terra Firma could use your support in the election.",
+   "tr": "Komutan. Fikrinizi değiştirdiniz mi? Terra Firma seçimde desteğinize ihtiyaç duyabilir."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137191",
+   "en": "If we don't stand up for ourselves, no one else will.",
+   "tr": "Kendimiz için ayağa kalkmazsak kimse kalkmaz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137192",
+   "en": "Perhaps so, Commander. But if aliens feel free to express their \"opinions\" at gunpoint, why shouldn't we?",
+   "tr": "Belki öyledir Komutan. Ama uzaylılar \"fikirlerini\" silah zoruyla ifade etmekte özgürse biz neden olmayalım?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137193",
+   "en": "We should. But you're looking for a reason.",
+   "tr": "Öyle yapmalıyız. Ama bir gerekçe arıyorsunuz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137194",
+   "en": "I disagree. We have a backlog of grievances the aliens have ignored. Starting with Shanxi.",
+   "tr": "Katılmıyorum. Uzaylıların görmezden geldiği birikmiş şikâyetlerimiz var. Shanxi ile başlayarak."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137195",
+   "en": "Were you at Shanxi? If not, shut your piehole.",
+   "tr": "Shanxi'de miydin? Değilsen çeneni kapa."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137196",
+   "en": "Right. I read you, skipper.",
+   "tr": "Tamam. Anlıyorum kaptan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137197",
+   "en": "Aye, aye, Commander.",
+   "tr": "Emredersiniz, Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137198",
+   "en": "No ma'am. Sorry ma'am.",
+   "tr": "Hayır hanımefendi. Üzgünüm hanımefendi."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137199",
+   "en": "No sir. Sorry, sir.",
+   "tr": "Hayır efendim. Üzgünüm efendim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137200",
+   "en": "Because they have bigger guns?",
+   "tr": "Çünkü daha büyük silahları var diye mi?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137201",
+   "en": "If they have bigger guns, we should increase military spending. Instead, we sign away our right to defend ourselves with treaties.",
+   "tr": "Daha büyük silahları varsa askerî harcamayı artırmalıyız. Bunun yerine kendimizi savunma hakkımızı anlaşmalarla devrediyoruz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137202",
+   "en": "I like the way you think.",
+   "tr": "Düşünce tarzını beğendim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137203",
+   "en": "What happened at the mass relay was a misunderstanding. If you saw a child about to touch a gun, wouldn't you stop them?",
+   "tr": "Kütle rölesindeki olay bir yanlış anlamaydı. Bir çocuğun silaha dokunmak üzere olduğunu görseydin onu durdurmaz mıydın?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137204",
+   "en": "What happened at the mass relay was a misunderstanding. If you saw a child about to touch a gun, wouldn't you stop them?",
+   "tr": "Kütle rölesindeki olay bir yanlış anlamaydı. Bir çocuğun silaha dokunmak üzere olduğunu görseydin onu durdurmaz mıydın?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137205",
+   "en": "What happened at the mass relay was a misunderstanding. If you saw a child about to touch a gun, wouldn't you stop them?",
+   "tr": "Kütle rölesindeki olay bir yanlış anlamaydı. Bir çocuğun silaha dokunmak üzere olduğunu görseydin onu durdurmaz mıydın?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137206",
+   "en": "I'd pull them away, yes. I wouldn't shoot them dead.",
+   "tr": "Onu çekerdim, evet. Vurup öldürmezdim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137207",
+   "en": "We all serve in our own way, Commander. I'm not a soldier. But I can tell the public why they should support your efforts.",
+   "tr": "Hepimiz kendi yolumuzla hizmet ediyoruz Komutan. Ben asker değilim. Ama halka çabalarınızı neden desteklemeleri gerektiğini anlatabilirim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137208",
+   "en": "Wearing a ribbon on your lapel makes you a hero, huh? You want to help humanity? Get out of your office and pitch in.",
+   "tr": "Yakana kurdele takmak seni kahraman mı yapıyor, ha? İnsanlığa yardım etmek istiyorsan ofisinden çık ve katkıda bulun."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137209",
+   "en": "So you can say \"I support our troops\" and get into office because of our sacrifices, huh?",
+   "tr": "Yani \"askerlerimizi destekliyorum\" diyip fedakârlıklarımız sayesinde göreve gelebilirsin, ha?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137210",
+   "en": "Shepard's actions speak for themselves.",
+   "tr": "Shepard'ın eylemleri kendini anlatır."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137211",
+   "en": "Among my people, everyone's a soldier. Even the infirm volunteer to serve behind the front lines.",
+   "tr": "Benim halkımda herkes askerdir. Hastalar bile cephe gerisinde hizmet etmek için gönüllü olur."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137212",
+   "en": "Next you're going to ask for a picture together with Shepard. So you can show people how close you are to the military.",
+   "tr": "Sıradaki Shepard'la birlikte resim isteyeceksin. Orduyla ne kadar yakın olduğunu insanlara göstermek için."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137213",
+   "en": "I-- I assure you, I'm only interested in the betterment of humanity. The same as you, Commander.",
+   "tr": "Ben-- Sizi temin ederim, tek ilgim insanlığın iyiliği. Tıpkı sizin gibi Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137214",
+   "en": "I'm seeking one of the five spacer seats in Parliament. They have certain baroque conditions for a citizen to be able to vote for them.",
+   "tr": "Parlamentodaki beş uzay yolcusu koltuğundan birini arıyorum. Bir vatandaşın onlara oy verebilmesi için bazı barok koşulları var."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137215",
+   "en": "You have to spend more than six months a year in space. But you can't have stayed in any one settled system for more than a month.",
+   "tr": "Yılda altı aydan fazla uzayda geçirmen gerekiyor. Ama herhangi bir yerleşik sistemde bir aydan fazla kalmamış olmalısın."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137216",
+   "en": "You do spend most of your time in space, Commander.",
+   "tr": "Zamanınızın çoğunu uzayda geçiriyorsunuz Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137217",
+   "en": "It's gratifying to hear that.",
+   "tr": "Bunu duymak sevindirici."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137218",
+   "en": "We can't allow anything like Shanxi to happen again.",
+   "tr": "Shanxi gibi bir şeyin bir daha yaşanmasına izin veremeyiz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137219",
+   "en": "Since I have your vote, could I convince you to issue a public statement of support for my candidacy?",
+   "tr": "Oyunuz bende olduğuna göre adaylığıma destek veren kamuya açık bir açıklama yapmaya sizi ikna edebilir miyim?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137220",
+   "en": "I don't suppose I could convince you to issue a public statement of support for my candidacy?",
+   "tr": "Adaylığımı destekleyen kamuya açık bir açıklama yapmaya sizi ikna edebileceğimi sanmıyorum."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137221",
+   "en": "The support of the first human Spectre would be invaluable.",
+   "tr": "İlk insan Spectre'ın desteği paha biçilmez olurdu."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137222",
+   "en": "I understand. I'm glad you support the democratic process, at least.",
+   "tr": "Anlıyorum. En azından demokratik sürecin destekçisi olmanıza sevindim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137223",
+   "en": "It's still a powerful symbol, Commander. Shanxi is the only human territory ever occupied by an alien species.",
+   "tr": "Hâlâ güçlü bir sembol Komutan. Shanxi, bir uzaylı türü tarafından işgal edilen tek insan toprağı."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137224",
+   "en": "Excellent. I'll have my people contact you. Don't worry, we'll take care of everything.",
+   "tr": "Mükemmel. İnsanlarım sizinle iletişime geçecek. Merak etmeyin, her şeyi biz hallederiz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137225",
+   "en": "Of course. I apologize for making the request.",
+   "tr": "Elbette. Talepte bulunduğum için özür dilerim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137226",
+   "en": "Thank you for your time, Commander. Remember Terra Firma on election day. Because Terra Firma remembers you.",
+   "tr": "Vaktiniz için teşekkürler Komutan. Seçim günü Terra Firma'yı hatırlayın. Çünkü Terra Firma sizi hatırlıyor."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137227",
+   "en": "Your support would mean a lot, Commander.",
+   "tr": "Desteğiniz çok şey ifade eder Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137229",
+   "en": "Excuse me? You're the Spectre, right?",
+   "tr": "Affedersiniz? Siz Spectre'sınız, değil mi?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137230",
+   "en": "Shepard! Commander Shepard!",
+   "tr": "Shepard! Komutan Shepard!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137231",
+   "en": "Come on! I just want to talk!",
+   "tr": "Hadi! Sadece konuşmak istiyorum!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137232",
+   "en": "Commander Shepard. It's an honor to speak with you.",
+   "tr": "Komutan Shepard. Sizinle konuşmak bir onur."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137233",
+   "en": "I'm Charles Saracino of the Terra Firma Party. With Armistice Day coming soon, we're making our voices heard by the alien-appeasers on the Presidium.",
+   "tr": "Ben Terra Firma Partisi'nden Charles Saracino. Ateşkes Günü yaklaşırken Presidium'daki uzaylı yatıştırıcılarına sesimizi duyuruyoruz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137234",
+   "en": "Can I count on your support in the next election?",
+   "tr": "Bir sonraki seçimde desteğinize güvenebilir miyim?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137235",
+   "en": "We've heard that before in human history. Well-meaning naivete leads to declarations of \"peace in our time.\"",
+   "tr": "İnsanlık tarihinde bunu daha önce duyduk. İyi niyetli saflık \"zamanımızda barış\" bildirilerine yol açar."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137236",
+   "en": "Our core value is that Earth must \"stand firm\" against alien influences. Politically, culturally, and--in the worst case--militarily.",
+   "tr": "Temel değerimiz Dünya'nın uzaylı etkilerine karşı \"sağlam durması\" gerektiği. Siyasi, kültürel ve--en kötü durumda--askerî olarak."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137237",
+   "en": "It's a noble goal. Too bad so many of your supporters are just racists.",
+   "tr": "Asil bir hedef. Destekçilerinizin birçoğunun sadece ırkçı olması yazık."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137238",
+   "en": "It's a good theory, but these people are making it sound like a racial issue.",
+   "tr": "İyi bir teori ama bu insanlar bunu bir ırk meselesi gibi gösteriyor."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137239",
+   "en": "I can't deny that some of our supporters have extreme views. But our platform is also supported by economists, sociologists, and medical professionals.",
+   "tr": "Bazı destekçilerimizin aşırı görüşleri olduğunu inkâr edemem. Ama programımız ekonomistler, sosyologlar ve sağlık profesyonelleri tarafından da destekleniyor."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137240",
+   "en": "Of course not, Commander. Whether I disagree with them or not, they have the right to express their opinion.",
+   "tr": "Elbette hayır Komutan. Onlarla aynı fikirde olsam da olmasam da fikirlerini ifade etme hakları var."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137241",
+   "en": "Of course, Commander.",
+   "tr": "Tabii, Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137242",
+   "en": "Of course, Commander.",
+   "tr": "Tabii, Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137243",
+   "en": "That is not unreasonable. But some of the things these people are saying sound a bit bigoted.",
+   "tr": "Bu makul olmayan bir şey değil. Ama bu insanların söylediklerinin bir kısmı biraz bağnazca geliyor."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137244",
+   "en": "Glad to see some humans growing a backbone.",
+   "tr": "Bazı insanların omurga geliştirdiğini görmek güzel."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137245",
+   "en": "But many of your subordinates make this a point of race, not politics.",
+   "tr": "Ama astlarınızın çoğu bunu siyaset değil ırk meselesi yapıyor."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137246",
+   "en": "Excuse me. I don't believe human politics are any of your business.",
+   "tr": "Affedersiniz. İnsan siyasetinin sizi ilgilendirdiğini sanmıyorum."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137247",
+   "en": "What the Alliance does affects everyone around it.",
+   "tr": "İttifak'ın yaptığı etrafındaki herkesi etkiler."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137248",
+   "en": "My business is whatever I say it is.",
+   "tr": "Benim işim ne dersem odur."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137249",
+   "en": "Turian space borders yours. Of course we're concerned about your leadership.",
+   "tr": "Turian uzayı sizinkiyle sınırdaş. Elbette liderliğinizden endişe duyuyoruz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137250",
+   "en": "No, of course not. My apologies. I only meant to point out that other species have no right to interfere in Alliance politics.",
+   "tr": "Hayır, elbette değil. Özür dilerim. Sadece diğer türlerin İttifak siyasetine karışma hakkı olmadığını belirtmek istemiştim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137251",
+   "en": "Of course, Shepard.",
+   "tr": "Elbette Shepard."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137252",
+   "en": "Whatever.",
+   "tr": "Her neyse."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137253",
+   "en": "Yes, Commander.",
+   "tr": "Evet, Komutan."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137254",
+   "en": "Very well, Commander. My apologies.",
+   "tr": "Pekâlâ Komutan. Özür dilerim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137255",
+   "en": "As we have every year, for the last 26 years. The war taught humanity a lesson that some would forget.",
+   "tr": "Son 26 yıldır her yıl yaptığımız gibi. Savaş insanlığa bazılarının unutacağı bir ders verdi."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137256",
+   "en": "What's this demonstration about?",
+   "tr": "Bu gösteri ne için?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137257",
+   "en": "Cram your honor. What's this riot about?",
+   "tr": "Onurunu kendine sakla. Bu isyan ne için?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137258",
+   "en": "You obviously wanted to speak to me.",
+   "tr": "Belli ki benimle konuşmak istedin."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137260",
+   "en": "Sorry. I believe we need to work peacefully with other races.",
+   "tr": "Üzgünüm. Diğer ırklarla barış içinde çalışmamız gerektiğine inanıyorum."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137262",
+   "en": "I don't know Terra Firma's platform. What do you stand for?",
+   "tr": "Terra Firma'nın programını bilmiyorum. Neyi savunuyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137266",
+   "en": "But you don't do anything to curtail the the racist comments of your members.",
+   "tr": "Ama üyelerinizin ırkçı yorumlarını kısıtlamak için hiçbir şey yapmıyorsunuz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137267",
+   "en": "I don't think it's \"extreme\" to stand up for our inalienable human rights. No pun intended.",
+   "tr": "Devredilemez insan haklarımız için ayağa kalkmanın \"aşırı\" olduğunu sanmıyorum. Kelime oyunu değil."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137268",
+   "en": "A few extremists don't invalidate the whole party, Chief. Every group has bad apples.",
+   "tr": "Birkaç aşırılıkçı tüm partiyi geçersiz kılmaz Başçavuş. Her grupta çürük elmalar vardır."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137269",
+   "en": "A few extremists don't invalidate the whole party, Lieutenant. Every group has bad apples.",
+   "tr": "Birkaç aşırılıkçı tüm partiyi geçersiz kılmaz Teğmen. Her grupta çürük elmalar vardır."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137274",
+   "en": "We live in this galaxy, Mr. Saracino. We can't pretend that what we do affects no one else.",
+   "tr": "Bu galakside yaşıyoruz Bay Saracino. Yaptığımızın başkasını etkilemediğini farz edemeyiz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137275",
+   "en": "Stay out of this.",
+   "tr": "Karışma."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137276",
+   "en": "Enough. Both of you.",
+   "tr": "Yeter. İkiniz de."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137277",
+   "en": "You're marking the end of the First Contact War with a protest?",
+   "tr": "İlk Temas Savaşı'nın sonunu bir protestoyla mı anıyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137279",
+   "en": "I thought the lesson of the First Contact War was that there's other life in the galaxy, and they have opinions too.",
+   "tr": "İlk Temas Savaşı'nın dersinin galakside başka yaşam olduğu ve onların da fikirleri olduğu sanıyordum."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137283",
+   "en": "It's not worth getting angry over, Chief.",
+   "tr": "Bunun için sinirlenmeye değmez Başçavuş."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137284",
+   "en": "Gunnery Chief Williams, is that the proper way to address a civilian authority?",
+   "tr": "Topçu Başçavuş Williams, bir sivil yetkiliye hitap etmenin doğru yolu bu mu?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137290",
+   "en": "Every day I stand up for humanity. Often in the face of bullets. What have you done lately? You really think speeches help?",
+   "tr": "Her gün insanlık için ayağa kalkıyorum. Çoğu zaman kurşunların karşısında. Sen son zamanlarda ne yaptın? Konuşmaların yardımı olduğunu gerçekten mi sanıyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137296",
+   "en": "What are you running for?",
+   "tr": "Ne için aday oluyorsunuz?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137299",
+   "en": "I'm a patriot, Mr. Saracino. You've got my vote.",
+   "tr": "Ben bir vatanseverim Bay Saracino. Oyum sizde."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137304",
+   "en": "You have the right to your opinion, Mr. Saracino. But with all due respect, I disagree with it.",
+   "tr": "Fikir hakkınız var Bay Saracino. Ama tüm saygımla katılmıyorum."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137306",
+   "en": "The occupation of Shanxi couldn't happen again. We weren't even sure there were aliens to garrison against back then.",
+   "tr": "Shanxi işgali bir daha olamaz. O zamanlar karşı garnizon kuracak uzaylı olduğundan bile emin değildik."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137307",
+   "en": "We need more politicians with the courage to stand up for human rights.",
+   "tr": "İnsan haklarını savunacak cesareti olan daha çok politikacıya ihtiyacımız var."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137309",
+   "en": "It's inappropriate for an active-duty officer to publicly comment on politics.",
+   "tr": "Görevdeki bir subayın siyaset hakkında açıkça yorum yapması uygun değil."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137312",
+   "en": "I'll think about it. Excuse me.",
+   "tr": "Düşüneceğim. İzninizle."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137315",
+   "en": "I don't think so.",
+   "tr": "Sanmıyorum."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137316",
+   "en": "Thanks.",
+   "tr": "Teşekkürler."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137317",
+   "en": "Explain yourself.",
+   "tr": "Kendini açıkla."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137318",
+   "en": "What do you want?",
+   "tr": "Ne istiyorsun?"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137320",
+   "en": "The \"appeasers\" are right.",
+   "tr": "\"Yatıştırıcılar\" haklı."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137321",
+   "en": "Terra Firma",
+   "tr": "Terra Firma"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137322",
+   "en": "Armistice Day",
+   "tr": "Ateşkes Günü"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137323",
+   "en": "Election",
+   "tr": "Seçim"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137324",
+   "en": "Earth must walk alone.",
+   "tr": "Dünya tek başına yürümeli."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137325",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137330",
+   "en": "That's no excuse.",
+   "tr": "Bu mazeret olmaz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137331",
+   "en": "Maybe they're right.",
+   "tr": "Belki haklılar."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137332",
+   "en": "That is true.",
+   "tr": "Bu doğru."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137333",
+   "en": "That is true.",
+   "tr": "Bu doğru."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137338",
+   "en": "There's a bigger picture.",
+   "tr": "Daha büyük bir resim var."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137339",
+   "en": "Quiet.",
+   "tr": "Sessiz."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137340",
+   "en": "Stop arguing.",
+   "tr": "Tartışmayı bırakın."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137342",
+   "en": "Then you've learned nothing.",
+   "tr": "O halde hiçbir şey öğrenmemişsin."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137343",
+   "en": "You're useless.",
+   "tr": "İşe yaramazsın."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137347",
+   "en": "Ease down, Williams.",
+   "tr": "Sakin ol Williams."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137348",
+   "en": "Secure that!",
+   "tr": "Şunu sağlam tut!"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137365",
+   "en": "I won't support you.",
+   "tr": "Seni desteklemeyeceğim."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137366",
+   "en": "Shanxi",
+   "tr": "Shanxi"
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137367",
+   "en": "You have my support.",
+   "tr": "Desteğim sizde."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta20_terra_firma_D|137368",
+   "en": "I can't support you.",
+   "tr": "Sizi destekleyemem."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta60_scenicview_D|164120",
+   "en": "Big place.",
+   "tr": "Büyük yer."
+  },
+  {
+   "key": "BIOA_STA60_01nodest_DSG_LOC|sta60_scenicview_D|164121",
+   "en": "That your professional opinion, sir?",
+   "tr": "Mesleki görüşünüz bu mu, efendim?"
+  }
+ ]
+}

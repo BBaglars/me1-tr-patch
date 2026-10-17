@@ -1,0 +1,1095 @@
+{
+ "meta": {
+  "package": "BIOA_NOR10_03_DS1_LOC_INT.pcc",
+  "stem": "BIOA_NOR10_03_DS1_LOC",
+  "textLang": "INT",
+  "sets": 6
+ },
+ "entries": [
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor00_popup_text_d|145633",
+   "en": "Only the Commanding Officer may specify a destination for the Normandy.",
+   "tr": "Normandy için hedef belirleyebilecek tek kişi Komuta Subayı'dır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_01_d|55964",
+   "en": "I'm telling you, I just saw him! He marched by like he was on a mission.",
+   "tr": "Sana söylüyorum, onu az önce gördüm! Sanki bir göreve gidiyormuş gibi yürüdü."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_01_d|55965",
+   "en": "He's a Spectre. They're always on a mission.",
+   "tr": "O bir Spectre. Hep bir görevdeler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_01_d|55966",
+   "en": "And we're getting dragged right along with him!",
+   "tr": "Ve biz de onunla birlikte sürükleniyoruz!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_01_d|55967",
+   "en": "Relax, Pressly. You're going to give yourself an ulcer.",
+   "tr": "Sakin ol, Pressly. Kendine ülser yapacaksın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_02_d|57073",
+   "en": "That's crazy. The captain's in charge here. He wouldn't take orders from a Spectre.",
+   "tr": "Bu saçma. Burada komuta eden kaptan. Bir Spectre'dan emir almaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_02_d|57074",
+   "en": "Not his choice, Doc. Spectres don't answer to anyone. They can do whatever they want. Kill anyone who gets in their way.",
+   "tr": "Onun seçimi değil, Doktor. Spectre'lar kimseye hesap vermez. Ne isterlerse yapabilirler. Yollarına çıkan herkesi öldürebilirler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_02_d|57075",
+   "en": "Ha! You watch too many spy vids, Jenkins.",
+   "tr": "Ha! Çok casus filmi izliyorsun, Jenkins."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_ambient_02_d|145151",
+   "en": "I grew up on Eden Prime, Doc. It's not the kind of place Spectres visit. There's something Nihlus isn't telling us about this mission.",
+   "tr": "Eden Prime'da büyüdüm, Doktor. Spectre'ların uğrayacağı türden bir yer değil. Nihlus'un bu görev hakkında bize söylemediği bir şey var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|55978",
+   "en": "What do you think, Commander? We won't be staying on Eden Prime too long, will we? I'm itching for some real action!",
+   "tr": "Sen ne düşünüyorsun, Komutan? Eden Prime'da çok kalmayacağız, değil mi? Gerçek aksiyon için sabırsızlanıyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57087",
+   "en": "I sincerely hope you're kidding, Corporal. Your 'real action' usually ends with me patching up crew members in the infirmary.",
+   "tr": "Umarım şaka yapıyorsundur, Onbaşı. Senin 'gerçek aksiyon'un genelde reviyerde mürettebatı sarmamla biter."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57090",
+   "en": "I know how things work, Commander. I've seen my share of combat, but it's foolish to go looking for trouble.",
+   "tr": "İşlerin nasıl yürüdüğünü biliyorum, Komutan. Çatışmadan nasibimi aldım ama bela aramaya gitmek aptallık."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57091",
+   "en": "You could both take a lesson from the captain. He's not afraid of combat, but he knows the value of restraint, too.",
+   "tr": "İkiniz de kaptandan ders alabilirsiniz. Çatışmadan korkmaz ama ölçülülüğün değerini de bilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57093",
+   "en": "Yes, Commander? Is there something you need?",
+   "tr": "Evet, Komutan? Bir şeye mi ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57094",
+   "en": "I've served with him for a few tours now. He knows when to let things slide and when to crack the whip.",
+   "tr": "Onunla birkaç görev hizmet ettim. Neyi gevşetmesi, neyi sıkması gerektiğini bilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57095",
+   "en": "The crew knows he's seen pretty much anything they'll ever run into. And he cares about the people under his command.",
+   "tr": "Mürettebat, onun karşılaşacakları her şeyi gördüğünü bilir. Ve emri altındaki insanları önemser."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57096",
+   "en": "Turians are generally well-respected by the other species. Their fleet has more patrols protecting Citadel space than any other.",
+   "tr": "Turian'lar genel olarak diğer türlerce saygı görür. Filolarının Citadel uzayını koruyan devriyeleri herkesinkinden fazla."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57097",
+   "en": "They don't always get on well with us, though. Some people find them too rigid. Others still blame them for the First Contact War.",
+   "tr": "Bizimle her zaman iyi geçinmezler ama. Bazıları onları fazla katı buluyor. Bazıları da Birinci Temas Savaşı için hâlâ onları suçluyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57098",
+   "en": "As for Nihlus, I haven't said more than two words to him. He usually only speaks to the captain.",
+   "tr": "Nihlus'a gelince, onunla iki kelimeden fazla konuşmadım. Genelde yalnızca kaptanla konuşuyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57099",
+   "en": "I hope we get a chance to see him in action. I heard Nihlus took down an entire enemy platoon all by himself!",
+   "tr": "Umarım onu iş başında görme şansımız olur. Nihlus'un tek başına bütün bir düşman müfrezesini indirdiğini duydum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57103",
+   "en": "Only what I've heard. Spectre agents work directly for the Citadel Council. They usually work alone or in small groups.",
+   "tr": "Sadece duyduklarım kadarını biliyorum. Spectre ajanları doğrudan Citadel Konseyi için çalışır. Genelde tek başlarına ya da küçük gruplarla çalışırlar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57104",
+   "en": "Spectres don't have any official power, though. Basically, they're a shadow organization with a mandate to preserve and protect galactic stability.",
+   "tr": "Spectre'ların resmî bir yetkisi yok ama. Temelde galaktik istikrarı korumak ve savunmakla yükümlü bir gölge örgüt."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57105",
+   "en": "Protect it at any cost. Don't forget that part. Spectres operate above the law!",
+   "tr": "Ne pahasına olursa olsun korumak. O kısmı unutma. Spectre'lar yasanın üzerinde çalışır!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57107",
+   "en": "Goodbye, Commander.",
+   "tr": "Hoşça kalın, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57114",
+   "en": "Marines are meant to fight. You just fix us up when we're done.",
+   "tr": "Deniz piyadeleri savaşmak için vardır. Siz işimiz bitince bizi onarırsınız."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57119",
+   "en": "What do you know about Captain Anderson?",
+   "tr": "Kaptan Anderson hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57121",
+   "en": "What can you tell me about Nihlus?",
+   "tr": "Nihlus hakkında bana ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57128",
+   "en": "What do you know about the Spectres?",
+   "tr": "Spectre'lar hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57132",
+   "en": "How do you control agents with unlimited power?",
+   "tr": "Sınırsız güce sahip ajanları nasıl kontrol edersiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57133",
+   "en": "The captain's waiting for me.",
+   "tr": "Kaptan beni bekliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57139",
+   "en": "Part of the job, Doc.",
+   "tr": "İşin parçası, Doktor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57145",
+   "en": "Captain Anderson",
+   "tr": "Kaptan Anderson"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57146",
+   "en": "Nihlus",
+   "tr": "Nihlus"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57147",
+   "en": "The Spectres",
+   "tr": "Spectre'lar"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57148",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57163",
+   "en": "That's dangerous.",
+   "tr": "Bu tehlikeli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57370",
+   "en": "I enlisted right out of med school. Earth always seemed boring to me... too safe, too secure. I figured the colonies were teeming with exotic adventure.",
+   "tr": "Tıp fakültesinden hemen sonra askere yazıldım. Dünya bana hep sıkıcı gelirdi... fazla güvenli, fazla emniyetli. Kolonilerin egzotik maceralarla dolu olduğunu sanıyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57371",
+   "en": "I wanted to travel the stars, tending the wounds of tough soldiers with piercing eyes and sensitive souls. Turns out military life isn't quite as romantic as I'd imagined.",
+   "tr": "Yıldızlar arasında seyahat edip delici bakışlı, hassas ruhlu sert askerlerin yaralarını sarmak istiyordum. Askerî hayatın hayal ettiğim kadar romantik olmadığı ortaya çıktı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57372",
+   "en": "But humanity needs the Alliance if we want to keep expanding through the Traverse, and the Alliance always needs good doctors. So I stayed on to do my part.",
+   "tr": "Ama Traverse'te genişlemeye devam etmek istiyorsak insanlığın İttifak'a ihtiyacı var ve İttifak'ın da her zaman iyi doktorlara ihtiyacı var. Ben de payıma düşeni yapmak için kaldım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57373",
+   "en": "Sometimes I think about opening a private practice back on Earth, or maybe taking a position at one of the new med centers out in the colonies.",
+   "tr": "Bazen Dünya'da özel muayenehane açmayı ya da kolonilerdeki yeni sağlık merkezlerinden birinde görev almayı düşünüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57375",
+   "en": "But there's something special about working on soldiers. If I left the Alliance now, I'd feel like I was abandoning them.",
+   "tr": "Ama askerlerle çalışmanın özel bir yanı var. Şimdi İttifak'tan ayrılsam onları terk ediyormuş gibi hissederdim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57376",
+   "en": "I suppose the Council could revoke the Spectre status of an agent who got out of hand. At that point, Citadel Security Services would take over.",
+   "tr": "Sanırım Konsey kontrolden çıkan bir ajanın Spectre statüsünü iptal edebilir. O noktada Citadel Güvenlik Servisleri devralır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57377",
+   "en": "Those C-Sec grunts wouldn't stand a chance. A Spectre's worth twenty ordinary soldiers.",
+   "tr": "O C-Sec neferlerinin şansı olmaz. Bir Spectre yirmi sıradan askere bedel."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57378",
+   "en": "The corporal's confusing romantic legends with reality, Commander.",
+   "tr": "Onbaşı romantik efsaneleri gerçekle karıştırıyor, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57379",
+   "en": "Spectres usually come from the Council races. Like the turians. We've been trying to get a human accepted into their ranks for years now. So far, it hasn't happened.",
+   "tr": "Spectre'lar genelde Konsey ırklarından gelir. Turian'lar gibi. Yıllardır bir insanı saflarına kabul ettirmeye çalışıyoruz. Şimdiye dek olmadı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57380",
+   "en": "They're always getting dropped into impossible situations. Forced to survive unbeatable odds. Just like you on Akuze!",
+   "tr": "Sürekli imkânsız durumlara bırakılıyorlar. Yenilmez ihtimallere karşı hayatta kalmaya zorlanıyorlar. Tıpkı Akuze'deki senin gibi!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57381",
+   "en": "How did you end up serving on an Alliance ship?",
+   "tr": "Bir İttifak gemisinde nasıl hizmet etmeye başladın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57384",
+   "en": "Ever think you made the wrong choice?",
+   "tr": "Hiç yanlış seçim yaptığını düşündün mü?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57389",
+   "en": "Why don't we have any of our own people in there?",
+   "tr": "Neden orada kendi insanlarımızdan kimse yok?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57391",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57394",
+   "en": "Any regrets?",
+   "tr": "Hiç pişmanlık var mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57402",
+   "en": "There are no human Spectres?",
+   "tr": "İnsan Spectre yok mu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57788",
+   "en": "I'd never worked with him before this mission. But he has an impressive service record. Over a dozen special commendations.",
+   "tr": "Bu görevden önce onunla hiç çalışmamıştım. Ama etkileyici bir hizmet sicili var. Bir düzineden fazla özel takdir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57789",
+   "en": "Tends to keep to himself, though. Maybe because of the headaches. It's not easy being an L2.",
+   "tr": "Yine de kendi hâlinde. Belki baş ağrıları yüzünden. L2 olmak kolay değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57790",
+   "en": "Well, most biotics now use the L3 implants. Lt. Alenko was wired with the old L2 configuration. Sometimes there are complications.",
+   "tr": "Şimdi çoğu biyotik L3 implantları kullanıyor. Teğmen Alenko eski L2 yapılandırmasıyla bağlandı. Bazen komplikasyonlar oluyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57791",
+   "en": "You're lucky, Commander. Your implants use the L3 configuration. Lt. Alenko has the older L2. Far more complications.",
+   "tr": "Şanslısınız, Komutan. Sizin implantlarınız L3 yapılandırmasında. Teğmen Alenko'nunki eski L2. Çok daha fazla komplikasyon çıkarıyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57792",
+   "en": "How well do you know the lieutenant?",
+   "tr": "Teğmeni ne kadar tanıyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57794",
+   "en": "What does that have to do with it?",
+   "tr": "Bunun bununla ne ilgisi var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57795",
+   "en": "Kaidan Alenko",
+   "tr": "Kaidan Alenko"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|57797",
+   "en": "An L2?",
+   "tr": "L2 mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92607",
+   "en": "Hey, Commander! You'd make a good Spectre!",
+   "tr": "Hey, Komutan! İyi bir Spectre olursunuz!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92608",
+   "en": "Sorry, Commander. I-- I didn't mean to offend you. I respect what you did there. We all do.",
+   "tr": "Kusura bakmayın, Komutan. Ben... Sizi gücendirmek istemedim. Orada yaptığınıza saygı duyuyorum. Hepimiz duyuyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92609",
+   "en": "Let's not dwell on the past, Commander. Was there something else you needed?",
+   "tr": "Geçmişi eşelemeyelim, Komutan. Başka bir şeye ihtiyacınız var mıydı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92610",
+   "en": "You're a war hero, right? Held off an entire enemy fleet during the Blitz single-handed. That's the kind of talent the Spectres are looking for.",
+   "tr": "Savaş kahramanısınız, değil mi? Blitz sırasında tek başınıza bütün bir düşman filosunu durdurdunuz. Spectre'ların aradığı yetenek bu."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92611",
+   "en": "This is all just wild speculation. The Spectres aren't interested in recruiting humans. No matter how capable.",
+   "tr": "Bunların hepsi sadece vahşi tahmin. Spectre'lar insanları almakla ilgilenmiyor. Ne kadar yetenekli olursa olsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92612",
+   "en": "What you did on Torfan. That's what they're looking for. Success at any cost. Ruthless efficiency. Show no mercy.",
+   "tr": "Torfan'da yaptığınız şey. Aradıkları bu. Ne pahasına olursa olsun başarı. Acımasız verimlilik. Merhamet yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92613",
+   "en": "No! I didn't mean.... Sorry, Commander. That just came out wrong. I never meant any disrespect.",
+   "tr": "Hayır! Demek istemedim... Kusura bakmayın, Komutan. Yanlış çıktı. Saygısızlık etmek istemedim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92615",
+   "en": "Fifty marines died there, Jenkins.",
+   "tr": "Orada elli deniz piyadesi öldü, Jenkins."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92616",
+   "en": "I try not to think about Akuze.",
+   "tr": "Akuze'yi düşünmemeye çalışıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92619",
+   "en": "I didn't enjoy Torfan. I just did what I had to do.",
+   "tr": "Torfan'dan hoşlanmadım. Sadece yapmam gerekeni yaptım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92621",
+   "en": "Sounds like my kind of job.",
+   "tr": "Tam benlik iş gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92625",
+   "en": "Show some respect!",
+   "tr": "Biraz saygı göster!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92626",
+   "en": "Those are bad memories.",
+   "tr": "Bunlar kötü anılar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92629",
+   "en": "I'm not a monster!",
+   "tr": "Ben canavar değilim!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|92630",
+   "en": "I could do that.",
+   "tr": "Bunu yapabilirim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|93201",
+   "en": "The crew's lives are in your hands, Shepard. Try to take good care of them.",
+   "tr": "Mürettebatın hayatları senin ellerinde, Shepard. Onlara iyi bakmaya çalış."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|93202",
+   "en": "I'm glad to see you're feeling better, Commander.",
+   "tr": "Kendinizi daha iyi hissettiğinizi görmek sevindirici, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|93357",
+   "en": "Yes, Commander? Is there something you need?",
+   "tr": "Evet, Komutan? Bir şeye mi ihtiyacınız var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|101467",
+   "en": "Severe mental disabilities, insanity, crippling physical pain. There's a long list of horrific side effects. Kaidan's lucky. He just gets migraines.",
+   "tr": "Ciddi zihinsel engeller, delilik, sakat bırakan fiziksel ağrı. Uzun bir korkunç yan etki listesi var. Kaidan şanslı. Sadece migren çekiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|101468",
+   "en": "What kind of complications?",
+   "tr": "Ne tür komplikasyonlar?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|101469",
+   "en": "Complications?",
+   "tr": "Komplikasyonlar mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|111487",
+   "en": "It's strange, being a fugitive from the Alliance.",
+   "tr": "İttifak'tan kaçak olmak garip."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|111488",
+   "en": "This crew has sacrificed everything for you, Shepard. Don't let us down.",
+   "tr": "Bu mürettebat senin için her şeyi feda etti, Shepard. Bizi hayal kırıklığına uğratma."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|111489",
+   "en": "The asari are remarkable, aren't they? Can you believe Liara is twice my age?",
+   "tr": "Asari harika, değil mi? Liara'nın yaşımın iki katı olduğuna inanabiliyor musunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145222",
+   "en": "Sorry, Doc. But this waiting's killing me. I've never been on a mission like this before. Not one with a Spectre on board!",
+   "tr": "Kusura bakmayın, Doktor. Ama bu bekleyiş beni öldürüyor. Daha önce hiç böyle bir göreve çıkmadım. Gemide Spectre olan bir görev hiç yoktu!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145223",
+   "en": "Sorry, Commander. But this waiting's killing me. I've never been on a mission like this before. Not one with a Spectre on board!",
+   "tr": "Kusura bakmayın, Komutan. Ama bu bekleyiş beni öldürüyor. Daha önce hiç böyle bir göreve çıkmadım. Gemide Spectre olan bir görev hiç yoktu!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145224",
+   "en": "Easy for you to say. You proved yourself on Akuze. Everybody knows what you can do.",
+   "tr": "Sizin için söylemesi kolay. Akuze'de kendinizi kanıtladınız. Herkes neler yapabileceğinizi biliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145225",
+   "en": "Easy for you to say. You proved yourself in the Blitz. Everybody knows what you can do.",
+   "tr": "Sizin için söylemesi kolay. Blitz'de kendinizi kanıtladınız. Herkes neler yapabileceğinizi biliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145226",
+   "en": "Easy for you to say. You proved yourself on Torfan. Everybody knows what you can do.",
+   "tr": "Sizin için söylemesi kolay. Torfan'da kendinizi kanıtladınız. Herkes neler yapabileceğinizi biliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145227",
+   "en": "This is my big chance. I need to show the brass what I can do!",
+   "tr": "Bu benim büyük şansım. Komutanlığa neler yapabildiğimi göstermeliyim!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145228",
+   "en": "Don't worry, ma'am. I'm not going to screw this up.",
+   "tr": "Merak etmeyin, hanımefendi. Bunu berbat etmeyeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145229",
+   "en": "Don't worry, sir. I'm not going to screw this up.",
+   "tr": "Merak etmeyin, efendim. Bunu berbat etmeyeceğim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145230",
+   "en": "It's very peaceful, Commander. They've been real careful with development, so you don't have any city noise or pollution.",
+   "tr": "Çok huzurlu, Komutan. Gelişimle ilgili çok dikkatli davrandılar, yani şehir gürültüsü ya da kirliliği yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145231",
+   "en": "My parents lived on the outskirts of the colony. At night, I used to climb this big hill and stare across the fields back at the lights from the main settlement.",
+   "tr": "Ailem kolonin kenar mahallelerinde yaşardı. Geceleri büyük bir tepeye tırmanıp tarlaların ötesinden ana yerleşimin ışıklarına bakardım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145232",
+   "en": "It was gorgeous. But when I got older, I realized it was a little too calm and quiet for me. That's why I joined the Alliance. Even paradise gets boring after a while.",
+   "tr": "Muhteşemdi. Ama büyüyünce benim için biraz fazla sakin ve sessiz olduğunu fark ettim. İttifak'a bu yüzden katıldım. Cennet bile bir süre sonra sıkıcı oluyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145233",
+   "en": "Not really sure, Commander. Eden Prime's one of our most stable colonies. Good place to take the Normandy for her shakedown run, I guess. No real danger there.",
+   "tr": "Pek emin değilim, Komutan. Eden Prime en istikrarlı kolonilerimizden. Normandy'yi deneme seferine çıkarmak için iyi bir yer sanırım. Gerçek tehlike yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145234",
+   "en": "But there's got to be something else going on. We've got a Spectre on board! That's why I'm so wound up. I can't wait for the real mission to start!",
+   "tr": "Ama başka bir şey olmalı. Gemide bir Spectre var! Bu yüzden bu kadar gerginim. Gerçek görevin başlamasını bekleyemiyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145235",
+   "en": "I heard Nihlus once took down an entire enemy platoon all by himself. Man, I can't believe I'm on a mission with an actual Spectre!",
+   "tr": "Nihlus'un bir keresinde tek başına bütün bir düşman müfrezesini indirdiğini duydum. Dostum, gerçek bir Spectre'la görevde olduğuma inanamıyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145236",
+   "en": "The Spectres police themselves. An agent goes rogue, they send another agent to take 'em down. That's Spectre justice!",
+   "tr": "Spectre'lar kendi kendilerini denetler. Bir ajan başıboş giderse onu indirmesi için başka bir ajan gönderirler. Spectre adaleti bu!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145241",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145242",
+   "en": "You need to calm down, Corporal. A good soldier stays cool, even under fire.",
+   "tr": "Sakinleşmen gerek, Onbaşı. İyi bir asker ateş altında bile soğukkanlı kalır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145243",
+   "en": "Only a fool goes looking for a fight, Corporal.",
+   "tr": "Kavga aramaya ancak bir aptal gider, Onbaşı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145244",
+   "en": "Just treat this like every other assignment you've had and everything will work out.",
+   "tr": "Bunu önceki tüm görevler gibi ele al, her şey yoluna girer."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145245",
+   "en": "Do your job, follow my orders, and there won't be any problems.",
+   "tr": "İşini yap, emirlerime uy, hiçbir sorun çıkmaz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145249",
+   "en": "You're young, Corporal. You have a long career ahead of you. Don't do something stupid to mess it up.",
+   "tr": "Gençsin, Onbaşı. Önünde uzun bir kariyer var. Aptalca bir şey yapıp bozma."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145250",
+   "en": "This mission isn't about personal glory, Corporal! We have a job to do. Don't do anything stupid to mess it up!",
+   "tr": "Bu görev kişisel şan için değil, Onbaşı! Yapacak bir işimiz var. Aptalca bir şey yapıp bozma!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145251",
+   "en": "You're from Eden Prime, aren't you Jenkins? What's it like?",
+   "tr": "Eden Prime'lısın, değil mi Jenkins? Orası nasıl bir yer?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145254",
+   "en": "Any idea why Eden Prime was chosen as our destination?",
+   "tr": "Eden Prime'ın varış noktamız olarak seçilmesinin bir nedeni var mı?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145261",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145262",
+   "en": "Relax, Jenkins.",
+   "tr": "Sakin ol, Jenkins."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145263",
+   "en": "The doctor's right.",
+   "tr": "Doktor haklı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145264",
+   "en": "You'll do fine.",
+   "tr": "İyi iş çıkarırsın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145265",
+   "en": "It's just another mission.",
+   "tr": "Sadece başka bir görev."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145269",
+   "en": "There's no rush.",
+   "tr": "Acele yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145270",
+   "en": "Be careful.",
+   "tr": "Dikkatli ol."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145271",
+   "en": "Don't play the hero!",
+   "tr": "Kahramanlık taslama!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145272",
+   "en": "Eden Prime",
+   "tr": "Eden Prime"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|145275",
+   "en": "Why are we going there?",
+   "tr": "Neden oraya gidiyoruz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|163591",
+   "en": "Spectres sound dangerous.",
+   "tr": "Spectre'lar tehlikeli görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|163592",
+   "en": "Spectres sound dangerous.",
+   "tr": "Spectre'lar tehlikeli görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|163593",
+   "en": "Spectres sound dangerous.",
+   "tr": "Spectre'lar tehlikeli görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_doctor_d|163594",
+   "en": "Spectres sound dangerous.",
+   "tr": "Spectre'lar tehlikeli görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_jenkins_d|57420",
+   "en": "Sir.",
+   "tr": "Efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_jenkins_d|145278",
+   "en": "Ma'am.",
+   "tr": "Hanımefendi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55987",
+   "en": "Congratulations, Commander. Looks like we had a smooth run. You heading down to see the captain?",
+   "tr": "Tebrikler, Komutan. Görünüşe göre sorunsuz bir yolculuk oldu. Kaptanı görmeye mi iniyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55988",
+   "en": "Sorry, Commander. Just having a chat with Adams down in engineering. Didn't mean to cause any trouble.",
+   "tr": "Kusura bakmayın, Komutan. Makine dairesinde Adams'la sohbet ediyordum. Sorun çıkarmak istemedim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55989",
+   "en": "With all due respect, sir, maybe he'll finally tell you what we're really doing out here.",
+   "tr": "Saygılarımla, efendim, belki sonunda burada gerçekte ne yaptığımızı size söyler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55991",
+   "en": "If all we're supposed to do is test out the stealth system, why is Captain Anderson in charge? And then there's Nihlus.",
+   "tr": "Tek işimiz gizlilik sistemini denemekse neden Kaptan Anderson komuta ediyor? Bir de Nihlus var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55992",
+   "en": "Good luck, Commander.",
+   "tr": "İyi şanslar, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55993",
+   "en": "Something I can do for you, Commander?",
+   "tr": "Sizin için yapabileceğim bir şey var mı, Komutan?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55994",
+   "en": "You and me both. Like I said before, too many things don't add up on this mission. ",
+   "tr": "İkimiz de. Daha önce dediğim gibi, bu görevde fazlasıyla şey birbirini tutmuyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55995",
+   "en": "I don't like turians in general. Runs in my family. My grandfather fought in the First Contact War; lost a lot of friends when the turians hit us.",
+   "tr": "Genel olarak turian'lardan hoşlanmam. Ailede var. Büyükbabam Birinci Temas Savaşı'nda savaştı; turian'lar bize saldırdığında pek çok arkadaşını kaybetti."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|55998",
+   "en": "No, I guess not. But it still makes me nervous to have a Spectre on board, especially a turian.",
+   "tr": "Hayır, sanırım olmaz. Ama yine de gemide Spectre olması, hele turian bir Spectre olması beni geriyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56000",
+   "en": "Understood, Commander.",
+   "tr": "Anlaşıldı, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56001",
+   "en": "Yes, sir.",
+   "tr": "Emredersiniz, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56002",
+   "en": "Yes, ma'am.",
+   "tr": "Emredersiniz, hanımefendi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56008",
+   "en": "Sounds like you don't trust our turian guest.",
+   "tr": "Turian konuğumuza güvenmiyorsun gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56009",
+   "en": "I'm on my way to give him a status update right now.",
+   "tr": "Şu an ona durum güncellemesi vermeye gidiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56011",
+   "en": "You think the Alliance brass is holding out on us?",
+   "tr": "Sence İttifak komutanlığı bizden bir şey saklıyor mu?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56012",
+   "en": "I'll see if I can get some answers when I see him.",
+   "tr": "Onu görünce bazı cevaplar alabilir miyim bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56014",
+   "en": "I was curious about a few things.",
+   "tr": "Birkaç şeyi merak ediyordum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56015",
+   "en": "You don't trust Nihlus.",
+   "tr": "Nihlus'a güvenmiyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56019",
+   "en": "That was thirty years ago. You can't blame Nihlus for that.",
+   "tr": "Bu otuz yıl önceydi. Bunun için Nihlus'u suçlayamazsın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56021",
+   "en": "Do you have a problem with the captain?",
+   "tr": "Kaptanla bir sorunun mu var?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56022",
+   "en": "What do you know about the stealth systems?",
+   "tr": "Gizlilik sistemleri hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56024",
+   "en": "Info's on a need-to-know basis, Pressly. Just follow the orders you're given.",
+   "tr": "Bilgi bilmesi gerekene verilir, Pressly. Sana verilen emirleri yerine getir yeter."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56026",
+   "en": "I better head down and see the captain.",
+   "tr": "İnip kaptanı görsem iyi olur."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56027",
+   "en": "Carry on, Pressly.",
+   "tr": "Devam et, Pressly."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56033",
+   "en": "I heard you arguing.",
+   "tr": "Tartıştığınızı duydum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56034",
+   "en": "He wants to see me.",
+   "tr": "Beni görmek istiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56036",
+   "en": "What do you mean?",
+   "tr": "Ne demek istiyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56037",
+   "en": "I'll look into it.",
+   "tr": "Bakacağım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56039",
+   "en": "I have questions.",
+   "tr": "Sorularım var."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56040",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56041",
+   "en": "Turian Spectre",
+   "tr": "Turian Spectre"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56042",
+   "en": "Captain",
+   "tr": "Kaptan"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56043",
+   "en": "Stealth systems",
+   "tr": "Gizlilik sistemleri"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56045",
+   "en": "Just do your job.",
+   "tr": "Sadece işini yap."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56046",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56048",
+   "en": "That was long ago.",
+   "tr": "Bu çok önceydi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56333",
+   "en": "We're an Alliance vessel, human military. But Nihlus doesn't answer to the captain like the rest of us. Spectres operate outside the normal chain of command.",
+   "tr": "Biz bir İttifak gemisiyiz, insan ordusu. Ama Nihlus bizim gibi kaptana hesap vermiyor. Spectre'lar normal komuta zincirinin dışında çalışır."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56335",
+   "en": "And they don't come along just to observe shakedown runs. Nihlus looks like he's expecting some heavy action. I don't like it.",
+   "tr": "Ve sırf deneme seferlerini gözlemlemek için gelmezler. Nihlus ağır bir çatışma bekliyor gibi görünüyor. Hoşuma gitmiyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56337",
+   "en": "I just know it masks our location from scans and sensors. Cutting edge technology.",
+   "tr": "Tek bildiğim, konumumuzu taramalardan ve sensörlerden gizlediği. Son teknoloji."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56338",
+   "en": "The Normandy's the only ship with this prototype drive. But why are we fully staffed? A skeleton crew would be cheaper. Less chance of security leaks, too.",
+   "tr": "Normandy bu prototip sürücüye sahip tek gemi. Ama neden tam mürettebatlıyız? İskelet kadro daha ucuz olurdu. Güvenlik sızıntısı ihtimali de daha az."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56339",
+   "en": "Plus, there's Nihlus. It's pretty obvious this shakedown run is just a cover.",
+   "tr": "Üstelik Nihlus var. Bu deneme seferinin bir örtmece olduğu çok belli."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56340",
+   "en": "Damned if I know, Commander. We're out here on false pretenses. I'm not a fan of being left in the dark.",
+   "tr": "Bilmiyorum, Komutan. Burada yanlış gerekçelerle bulunuyoruz. Karanlıkta bırakılmaktan hoşlanmıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56341",
+   "en": "Maybe you're right, Commander. But I just can't shake the feeling that we're out here on false pretenses.",
+   "tr": "Belki haklısınız, Komutan. Ama burada yanlış gerekçelerle bulunduğumuz hissinden kurtulamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56342",
+   "en": "Captain Anderson is one of the most decorated Special Forces officers in the service. If he melted down all his medals, he could make a life-size statue of himself.",
+   "tr": "Kaptan Anderson hizmetin en çok madalyalı Özel Kuvvetler subaylarından biri. Bütün madalyalarını eritse kendi boyunda bir heykel yapabilir."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56343",
+   "en": "You don't send a soldier like that on a do-nothing mission. He's treating this shakedown run too seriously. Something big is going on.",
+   "tr": "Böyle bir askeri işe yaramaz bir göreve göndermezler. Bu deneme seferini fazla ciddiye alıyor. Büyük bir şey dönüyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56347",
+   "en": "I signed up with the Alliance as a navigator right out of school. Following in my grandfather's footsteps, I guess. My first posting was on the Agincourt.",
+   "tr": "Okuldan çıkar çıkmaz İttifak'a seyrüsefer subayı olarak katıldım. Büyükbabamın izinden gittim sanırım. İlk görevim Agincourt'taydı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56353",
+   "en": "We were one of the first reinforcements to arrive at Elysium after the Blitz hit. Those raiders were no match for an Alliance frigate.",
+   "tr": "Blitz vurduktan sonra Elysium'a varan ilk takviyeler arasındaydık. O haydutlar bir İttifak fırkateyniyle baş edemezdi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56354",
+   "en": "We were at Elysium during the Skyllian Blitz. A massive fleet of alien raiders hit the colony, trying to wipe it out.",
+   "tr": "Skyllian Blitz sırasında Elysium'daydık. Uzaylı haydutlardan oluşan devasa bir filo koloniye saldırıp onu yok etmeye çalıştı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56365",
+   "en": "For what?",
+   "tr": "Ne için?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56366",
+   "en": "A full crew makes sense. We need the extra hands in case anything goes wrong. And the Spectre is just here as an observer.",
+   "tr": "Tam mürettebat mantıklı. Bir şeyler ters giderse fazladan ele ihtiyacımız var. Spectre de sadece gözlemci olarak burada."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56378",
+   "en": "How'd you end up on the Normandy?",
+   "tr": "Normandy'ye nasıl geldin?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56389",
+   "en": "A cover?",
+   "tr": "Örtmece mi?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56390",
+   "en": "You're wrong.",
+   "tr": "Yanılıyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56401",
+   "en": "Now you're here?",
+   "tr": "Şimdi buradasın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|56870",
+   "en": "Commander. The turian's waiting for you and the captain in the comm room.",
+   "tr": "Komutan. Turian, sizi ve kaptanı haberleşme odasında bekliyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|92596",
+   "en": "But you have to admit, something's odd about this mission. The whole crew feels it.",
+   "tr": "Ama kabul etmelisiniz, bu görevde bir tuhaflık var. Tüm mürettebat hissediyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|92597",
+   "en": "No, ma'am! But I can't figure out what he's doing here.",
+   "tr": "Hayır, hanımefendi! Ama burada ne yaptığını çözemiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|92598",
+   "en": "No, sir! But I can't figure out what he's doing here.",
+   "tr": "Hayır, efendim! Ama burada ne yaptığını çözemiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|92600",
+   "en": "I overheard you before. Sounds like you don't trust our turian guest.",
+   "tr": "Daha önce kulak misafiri oldum. Turian konuğumuza güvenmiyorsun gibi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|92604",
+   "en": "You were arguing earlier.",
+   "tr": "Daha önce tartışıyordunuz."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|93220",
+   "en": "I'm glad you're okay, Commander. Losing Jenkins was hard enough on the crew.",
+   "tr": "İyi olduğunuza sevindim, Komutan. Jenkins'i kaybetmek mürettebat için yeterince ağırdı."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|101415",
+   "en": "With all due respect, ma'am, maybe he'll finally tell you what we're really doing out here.",
+   "tr": "Saygılarımla, hanımefendi, belki sonunda burada gerçekte ne yaptığımızı size söyler."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|101416",
+   "en": "Spectres are elite operatives. Top covert agents. Why send a Spectre--a turian Spectre--on a shakedown run? It doesn't add up.",
+   "tr": "Spectre'lar seçkin ajanlardır. En iyi gizli ajanlar. Neden bir Spectre'ı, hem de turian bir Spectre'ı deneme seferine göndersinler? Hiçbir şey birbirini tutmuyor."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|101417",
+   "en": "You've got that right, Commander.",
+   "tr": "Haklısınız, Komutan."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|101419",
+   "en": "Nihlus is no ordinary turian.",
+   "tr": "Nihlus sıradan bir turian değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|101423",
+   "en": "Plus, he's a Spectre.",
+   "tr": "Üstelik o bir Spectre."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111457",
+   "en": "If anyone has to take over for Captain Anderson, I'm glad it's you. Not sure about having non-humans on our ship, though.",
+   "tr": "Kaptan Anderson'un yerine biri geçecekse sizin olmanıza sevindim. Gemimizde insan olmayanların olması konusunda pek emin değilim ama."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111458",
+   "en": "With all due respect, ma'am, that's what they said about Nihlus. Look how that turned out.",
+   "tr": "Saygılarımla, hanımefendi, Nihlus için de böyle demişlerdi. Sonunun ne olduğuna bakın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111459",
+   "en": "With all due respect, sir, that's what they said about Nihlus. Look how that turned out.",
+   "tr": "Saygılarımla, efendim, Nihlus için de böyle demişlerdi. Sonunun ne olduğuna bakın."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111460",
+   "en": "Yes, ma'am. Understood, ma'am.",
+   "tr": "Evet, hanımefendi. Anlaşıldı, hanımefendi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111461",
+   "en": "Yes, sir! Understood, sir.",
+   "tr": "Evet, efendim! Anlaşıldı, efendim."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111462",
+   "en": "Yes, Commander?",
+   "tr": "Evet, Komutan?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111463",
+   "en": "I trust you, Commander. If you think they belong here, then so do I.",
+   "tr": "Size güveniyorum, Komutan. Onların burada olması gerektiğini düşünüyorsanız ben de öyle düşünürüm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111464",
+   "en": "It's not that, Commander. Humanity has always handled its own problems. Saren attacked one of our colonies. We should be the ones to stop him. We don't need their help.",
+   "tr": "Mesele bu değil, Komutan. İnsanlık sorunlarını hep kendi başına çözdü. Saren kolonilerimizden birine saldırdı. Onu durduracak olan biz olmalıyız. Onların yardımına ihtiyacımız yok."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111465",
+   "en": "I guess so. Maybe I'm just stuck in the old ways of thinking. Don't worry, Commander. This won't be a problem.",
+   "tr": "Sanırım öyle. Belki eski düşünce kalıplarına takılıp kaldım. Merak etmeyin, Komutan. Bu sorun olmayacak."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111466",
+   "en": "Of course, the only reason the colony was still standing was because of you, Commander. I can't believe you held out as long as you did.",
+   "tr": "Tabii, koloninin hâlâ ayakta olmasının tek nedeni sizdiniz, Komutan. O kadar dayanmanıza inanamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111467",
+   "en": "They had the numbers, but their ships were no match for an Alliance frigate. It was a slaughter. We couldn't even keep track of how many ships they lost.",
+   "tr": "Sayıca üstündüler ama gemileri bir İttifak fırkateynine rakip olamadı. Bir katliamdı. Kaç gemi kaybettiklerini bile takip edemedik."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111468",
+   "en": "I got my officer's commission after Elysium. Must have made an impression on the right people. Captain asked for me when he was picking his crew.",
+   "tr": "Subay komisyonumu Elysium'dan sonra aldım. Doğru insanlarda iz bırakmış olmalıyım. Kaptan mürettebatını seçerken beni istedi."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111470",
+   "en": "We're all on the same team here, Pressly.",
+   "tr": "Burada hepimiz aynı takımdayız, Pressly."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111471",
+   "en": "I'm in charge here, Pressly. I decide if we have non-humans on this vessel.",
+   "tr": "Burada komuta bende, Pressly. Bu gemide insan olmayanların olup olmayacağına ben karar veririm."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111472",
+   "en": "Speak freely, Pressly. I want to know if you have a problem with non-humans.",
+   "tr": "Açık konuş, Pressly. İnsan olmayanlarla bir sorunun olup olmadığını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111473",
+   "en": "Some people think asking for help is a sign of weakness. That's just being stupid and stubborn. No matter how strong you are, allies can make you stronger.",
+   "tr": "Bazıları yardım istemeyi zayıflık işareti sayar. Bu sadece aptallık ve inat. Ne kadar güçlü olursan ol, müttefikler seni daha güçlü kılar."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111474",
+   "en": "This is bigger than humanity. Saren's a threat to every species in the galaxy. And I'll welcome anyone who wants to help me bring him down.",
+   "tr": "Bu insanlıktan büyük. Saren galaksideki her tür için tehdit. Onu indirmeme yardım etmek isteyen herkesi memnuniyetle karşılarım."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111475",
+   "en": "How did you end up assigned to the Normandy?",
+   "tr": "Normandy'ye nasıl atandın?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111477",
+   "en": "They're on our side.",
+   "tr": "Onlar bizim tarafımızda."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111478",
+   "en": "You doubt my decisions?",
+   "tr": "Kararlarımdan şüphe mi ediyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111479",
+   "en": "Aliens on the ship",
+   "tr": "Gemideki uzaylılar"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111480",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111481",
+   "en": "Never turn away help.",
+   "tr": "Yardımı asla geri çevirme."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111482",
+   "en": "It's not just our problem.",
+   "tr": "Bu sadece bizim sorunumuz değil."
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111483",
+   "en": "I can't believe we stole the Normandy!",
+   "tr": "Normandy'yi çaldığımıza inanamıyorum!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|111484",
+   "en": "I know we'll all be court-martialed if this doesn't work out. But part of me loves this!",
+   "tr": "Bu işler yolunda gitmezse hepimizin askerî mahkemeye çıkacağını biliyorum. Ama bir yanım bunu seviyor!"
+  },
+  {
+   "key": "BIOA_NOR10_03_DS1_LOC|nor10_navigator_d|145139",
+   "en": "Congratulations, Commander.",
+   "tr": "Tebrikler, Komutan."
+  }
+ ]
+}

@@ -1,0 +1,660 @@
+{
+ "meta": {
+  "package": "BIOA_WAR50_05_DSG_LOC_INT.pcc",
+  "stem": "BIOA_WAR50_05_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60554",
+   "en": "Stupid machine! Access encrypted files!",
+   "tr": "Aptal makine! Şifreli dosyalara eriş!"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60555",
+   "en": "Can't you geth straighten this thing out?",
+   "tr": "Siz geth bu şeyi düzeltemez misiniz?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60556",
+   "en": "No, I don't want to review protocol!",
+   "tr": "Hayır, protokolü gözden geçirmek istemiyorum!"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60557",
+   "en": "I am unable to comply. Please contact your supervisor.",
+   "tr": "Uyum sağlayamıyorum. Lütfen amirinizle iletişime geçin."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60558",
+   "en": "Damn it. Tell me what I want or I'll blast your virtual ass into actual dust!",
+   "tr": "Kahretsin. Bana istediğimi söyle yoksa sanal kıçını gerçek toza çevireceğim!"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60559",
+   "en": "Please contact your supervisor for a Level 4 security exemption or make an appointment with--",
+   "tr": "Lütfen 4. Seviye güvenlik muafiyeti için amirinizle iletişime geçin ya da şu kişiyle randevu alın--"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60560",
+   "en": "Stupid machine!",
+   "tr": "Aptal makine!"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60561",
+   "en": "If there is nothing else, please step aside. There is a queue forming behind you for the use of this console.",
+   "tr": "Başka bir şey yoksa lütfen kenara çekilin. Arkanızda bu konsolu kullanmak için sıra oluşuyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_krogan_D|60563",
+   "en": "Oh good. I really need to kill someone!",
+   "tr": "Ah güzel. Gerçekten birini öldürmem lazım!"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62712",
+   "en": "ExoGeni Corporation reminds all staff that the discharging of weapons while on company property is strictly forbidden.",
+   "tr": "ExoGeni Corporation tüm personele şirket mülkünde silah ateşlemenin kesinlikle yasak olduğunu hatırlatır."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62714",
+   "en": "Welcome back, Research Assistant Elizabeth Baynham. What can I do for you?",
+   "tr": "Tekrar hoş geldiniz Araştırma Asistanı Elizabeth Baynham. Sizin için ne yapabilirim?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62715",
+   "en": "Fetching data. The previous user was attempting to access details on the study of Subject Species 37, the Thorian.",
+   "tr": "Veri getiriliyor. Önceki kullanıcı Denek Tür 37, Thorian, çalışması hakkındaki ayrıntılara erişmeye çalışıyordu."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62716",
+   "en": "Aside from lacking proper access, there has been no new data available on Species 37.",
+   "tr": "Uygun erişim olmaması dışında Tür 37 hakkında yeni veri yok."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62717",
+   "en": "The Thorian is a simple plant life-form that exhibits a sentient behavior uncommon with other flora.",
+   "tr": "Thorian, diğer floralarda nadir görülen bilinçli bir davranış sergileyen basit bir bitki yaşam formu."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62718",
+   "en": "Through dispersion and the eventual inhalation of spores, it can infect and control other organisms, including humans.",
+   "tr": "Sporların yayılması ve sonunda solunmasıyla insanlar dahil diğer organizmaları enfekte edip kontrol edebiliyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62721",
+   "en": "The Zhu's Hope control group has yielded interesting results. Before sensors went offline, almost 85% of all test subjects were infected.",
+   "tr": "Zhu's Hope kontrol grubu ilginç sonuçlar verdi. Sensörler çevrimdışı olmadan önce tüm deneklerin neredeyse %85'i enfekte olmuştu."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62771",
+   "en": "Your access card identifies you as Elizabeth Baynham.",
+   "tr": "Erişim kartınız sizi Elizabeth Baynham olarak tanımlıyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62772",
+   "en": "Is there something you require, Dr. Baynham?",
+   "tr": "İhtiyacınız olan bir şey var mı Dr. Baynham?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62777",
+   "en": "Welcome back, Research Assistant Elizabeth Baynham. What can I do for you?",
+   "tr": "Tekrar hoş geldiniz Araştırma Asistanı Elizabeth Baynham. Sizin için ne yapabilirim?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62778",
+   "en": "Species 37 was discovered several weeks ago when a small team was infected with spores while examining ruins near the Zhu's Hope outpost.",
+   "tr": "Tür 37, birkaç hafta önce küçük bir ekip Zhu's Hope karakolu yakınındaki kalıntıları incelerken sporlarla enfekte olunca keşfedildi."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62779",
+   "en": "Within 21 days, 58% of colonists exhibited altered behavior. Within 28 days, 85%.",
+   "tr": "21 gün içinde kolonistlerin %58'i değişmiş davranış sergiledi. 28 gün içinde %85'i."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62780",
+   "en": "The will-subversion manifests as intense pain if directives are ignored. The effect is severe enough that subjects are soon conditioned against even minor thoughts of rebellion.",
+   "tr": "İrade bozulması, yönergeler göz ardı edilirse yoğun acı olarak ortaya çıkıyor. Etki o kadar şiddetli ki denekler küçük isyan düşüncelerine bile karşı koşullanıyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62781",
+   "en": "Observation suggests the Thorian views its thralls in a utilitarian way. Care is apparently taken to avoid injuring them, much as a craftsman avoids damaging his tools.",
+   "tr": "Gözlemler Thorian'ın kölelerine faydacı baktığını gösteriyor. Bir usta aletlerine zarar vermekten kaçındığı gibi onları yaralamamaya özen gösteriliyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62782",
+   "en": "As long as no action is taken against the creature's objectives, the subjects are free to pantomime a normal existence until specifically tasked with something.",
+   "tr": "Yaratığın hedeflerine karşı bir eylemde bulunulmadığı sürece denekler, özel bir görev verilene kadar normal bir yaşamı taklit etmekte özgürdür."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62783",
+   "en": "The Thorian appears to be a diffused creature. Its cognitive abilities are centered in large nerve bundles, but it receives data from kilometers of meandering tendrils.",
+   "tr": "Thorian yayılmış bir yaratık gibi görünüyor. Bilişsel yetenekleri büyük sinir demetlerinde toplanmış ama kilometrelerce dolaşan dokunaçlardan veri alıyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62784",
+   "en": "We have discovered bundles approximately one meter in diameter, but these seem insufficient to coordinate the massive sensory potential it possesses.",
+   "tr": "Çapı yaklaşık bir metre olan demetler keşfettik ama bunlar sahip olduğu devasa duyusal potansiyeli koordine etmeye yetersiz görünüyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62785",
+   "en": "It may simply process such stimulation slowly, or perhaps there is a nerve cluster of a greater magnitude we have not yet encountered.",
+   "tr": "Bu uyaranları belki yavaş işliyor ya da henüz karşılaşmadığımız çok daha büyük bir sinir kümesi var."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62786",
+   "en": "The Thorian is present as a weave of tendrils across much of the lower surface of Feros.",
+   "tr": "Thorian, Feros'un alt yüzeyinin büyük bölümünde dokunaçlardan oluşan bir ağ olarak mevcut."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62787",
+   "en": "Observation of enslaved subjects suggests there may be key clusters that are tended by thralls.",
+   "tr": "Köle deneklerin gözlemi, kölelerce bakılan anahtar kümeler olabileceğini gösteriyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62788",
+   "en": "Unfortunately, direct observation of Species 37 is limited or non-existent.",
+   "tr": "Ne yazık ki Tür 37'nin doğrudan gözlemi sınırlı ya da yok."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62789",
+   "en": "The Thorian does not exhibit the focused behavior of a predator. The release of spores is an act of survival, not aggression.",
+   "tr": "Thorian bir avcının odaklanmış davranışını sergilemiyor. Spor salımı saldırganlık değil hayatta kalma eylemi."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62790",
+   "en": "It does trigger advanced behaviors in the humans it enslaves, but we have yet to discover whether it recognizes--or is capable of recognizing--humans as more than tools.",
+   "tr": "Köleleştirdiği insanlarda gelişmiş davranışları tetikliyor ama insanları araçtan fazlası olarak tanıyıp tanımadığını--ya da tanıyabilir olup olmadığını--henüz keşfetmedik."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62791",
+   "en": "It is sufficiently alien as to defy classification at this time.",
+   "tr": "Şu an sınıflandırmaya meydan okuyacak kadar yabancı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62793",
+   "en": "I have no specifics on the geth as they relate to this facility. All sensors have been purposely decommissioned since their arrival.",
+   "tr": "Geth'in bu tesisle ilgili ayrıntılarına dair elimde veri yok. Geldiklerinden beri tüm sensörler bilerek devre dışı bırakıldı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62794",
+   "en": "ExoGeni Corporation is at the forefront of human expansion in the new galactic economy, funding colonial development and securing resource rights to ensure our progress as a species.",
+   "tr": "ExoGeni Corporation, yeni galaktik ekonomide insan genişlemesinin ön saflarında; kolonileşmeyi finanse ediyor ve tür olarak ilerlememizi sağlamak için kaynak haklarını güvence altına alıyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62795",
+   "en": "Further inquiries regarding company policy may be directed to Consumer Information Services during regular business hours.",
+   "tr": "Şirket politikasıyla ilgili başka sorular, mesai saatleri içinde Tüketici Bilgi Hizmetleri'ne yönlendirilebilir."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62796",
+   "en": "All decisions about local resource analysis and acquisition are made by onsite management, deferring to the board of directors only when seasonal quotas are missed or exceeded.",
+   "tr": "Yerel kaynak analizi ve edinimi hakkındaki tüm kararlar yerinde yönetim tarafından alınır, yönetim kuruluna yalnızca mevsimlik kotalar aşıldığında ya da kaçırıldığında başvurulur."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62797",
+   "en": "Individual employee records are confidential.",
+   "tr": "Bireysel çalışan kayıtları gizlidir."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62798",
+   "en": "Elizabeth Baynham, Research Assistant, Bio-Medical Division. Security Level 4 exemption.",
+   "tr": "Elizabeth Baynham, Araştırma Asistanı, Biyo-Tıp Bölümü. Güvenlik Seviyesi 4 muafiyeti."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62799",
+   "en": "You are currently under probation due to disagreements with management over established company policy. These sanctions may be lifted if your next evaluation is more agreeable.",
+   "tr": "Şu an yönetimle yerleşik şirket politikası konusunda anlaşmazlıklar nedeniyle denetimli göreve tabisiniz. Sonraki değerlendirmeniz daha uyumlu olursa bu yaptırımlar kaldırılabilir."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62800",
+   "en": "You were marked as \"combative\" about the operations of the Zhu's Hope project, specifically regarding the handling of the infected colonists.",
+   "tr": "Zhu's Hope projesinin operasyonları, özellikle enfekte kolonistlerin ele alınışı konusunda \"kavgacı\" olarak işaretlendiniz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62801",
+   "en": "As a result, you were tasked with monitoring the safety of the colonists for the duration of the observation.",
+   "tr": "Sonuç olarak, gözlem süresince kolonistlerin güvenliğini izlemekle görevlendirildiniz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62805",
+   "en": "What information was the last user attempting to access?",
+   "tr": "Son kullanıcı hangi bilgilere erişmeye çalışıyordu?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62806",
+   "en": "What did you tell him?",
+   "tr": "Ona ne söyledin?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62853",
+   "en": "Uh, how do you know I'm Lizbeth?",
+   "tr": "Ee, Lizbeth olduğumu nereden biliyorsun?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62859",
+   "en": "Tell me about the Thorian.",
+   "tr": "Bana Thorian'dan bahset."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62861",
+   "en": "Do you know how the creature controls its slaves?",
+   "tr": "Yaratığın kölelerini nasıl kontrol ettiğini biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62864",
+   "en": "What is the size of this thing?",
+   "tr": "Bu şeyin boyutu nedir?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62867",
+   "en": "Where is the center of this thing?",
+   "tr": "Bu şeyin merkezi nerede?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62870",
+   "en": "Is it intelligent? Can I reason with it?",
+   "tr": "Zeki mi? Onunla mantıklı konuşabilir miyim?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62874",
+   "en": "What do you know about the geth?",
+   "tr": "Geth hakkında ne biliyorsun?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62875",
+   "en": "I want to know about ExoGeni Corporation.",
+   "tr": "ExoGeni Corporation hakkında bilgi istiyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62877",
+   "en": "Who is in charge here? Who organized the research?",
+   "tr": "Burada sorumlu kim? Araştırmayı kim organize etti?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62879",
+   "en": "Please access \"my\" personal files.",
+   "tr": "Lütfen \"benim\" kişisel dosyalarıma eriş."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62881",
+   "en": "What triggered the probation?",
+   "tr": "Denetimli görev neyi tetikledi?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62883",
+   "en": "That's enough for now.",
+   "tr": "Şimdilik yeter."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62887",
+   "en": "What did the krogan want?",
+   "tr": "Krogan ne istedi?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62889",
+   "en": "Lizbeth?",
+   "tr": "Lizbeth?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62890",
+   "en": "Damn it!",
+   "tr": "Kahretsin!"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62944",
+   "en": "Thorian",
+   "tr": "Thorian"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62945",
+   "en": "Geth",
+   "tr": "Geth"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62946",
+   "en": "ExoGeni",
+   "tr": "ExoGeni"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62947",
+   "en": "Lizbeth",
+   "tr": "Lizbeth"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62948",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62950",
+   "en": "How does it control people?",
+   "tr": "İnsanları nasıl kontrol ediyor?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62951",
+   "en": "How big is it?",
+   "tr": "Ne kadar büyük?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62952",
+   "en": "Where can I find it?",
+   "tr": "Onu nerede bulabilirim?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62953",
+   "en": "How smart is it?",
+   "tr": "Ne kadar zeki?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62964",
+   "en": "Who runs this facility?",
+   "tr": "Bu tesisi kim yönetiyor?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|62967",
+   "en": "Why was \"I\" sanctioned?",
+   "tr": "\"Ben\" neden yaptırıma uğradım?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|101390",
+   "en": "Going to standby mode.",
+   "tr": "Bekleme moduna geçiliyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103624",
+   "en": "Species 37 is located within the substructure of the Zhu's Hope outpost.",
+   "tr": "Tür 37, Zhu's Hope karakolunun alt yapısı içinde bulunuyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103625",
+   "en": "It was deemed necessary to assess the true potential of Species 37.",
+   "tr": "Tür 37'nin gerçek potansiyelini değerlendirmek gerekli görüldü."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103626",
+   "en": "That explains their strange behavior.",
+   "tr": "Bu garip davranışlarını açıklıyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103627",
+   "en": "So that's why they were acting weird.",
+   "tr": "Demek bu yüzden tuhaf davranıyorlardı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103628",
+   "en": "That's why they were acting so strange.",
+   "tr": "Bu yüzden bu kadar garip davranıyorlardı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103629",
+   "en": "No wonder they were behaving so strangely.",
+   "tr": "Bu kadar garip davranmalarına şaşmamalı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103630",
+   "en": "It's no wonder they were behaving so oddly.",
+   "tr": "Bu kadar tuhaf davranmalarına şaşmamalı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103631",
+   "en": "We should contact Joker.",
+   "tr": "Joker'le iletişime geçmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103632",
+   "en": "Your pilot should be warned.",
+   "tr": "Pilotunuz uyarılmalı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103633",
+   "en": "You should contact Joker.",
+   "tr": "Joker'le iletişime geçmelisin."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103634",
+   "en": "We should warn Joker.",
+   "tr": "Joker'i uyarmalıyız."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103635",
+   "en": "Should we inform your pilot?",
+   "tr": "Pilotunuza haber vermeli miyiz?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103636",
+   "en": "We've got to drop that shield and get back to the outpost.",
+   "tr": "Şu kalkanı indirip karakola geri dönmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103637",
+   "en": "We must find a way around the field. We must get back to Zhu's Hope.",
+   "tr": "Alanın etrafından dolaşmanın bir yolunu bulmalıyız. Zhu's Hope'a dönmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103638",
+   "en": "We need to drop that field and get back to Zhu's Hope.",
+   "tr": "O alanı indirip Zhu's Hope'a dönmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103639",
+   "en": "We need to drop that field and get back to Zhu's Hope.",
+   "tr": "O alanı indirip Zhu's Hope'a dönmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103640",
+   "en": "We need to get that field down so we can get out of here and back to Zhu's Hope.",
+   "tr": "Şu alanı indirmeliyiz ki buradan çıkıp Zhu's Hope'a dönebilelim."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103641",
+   "en": "I have limited data on the geth. They have effectively blocked all sensors within the facility.",
+   "tr": "Geth hakkında sınırlı verim var. Tesis içindeki tüm sensörleri etkili biçimde engellediler."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103642",
+   "en": "I have detected unusual power fluctuations, but am unable to determine the source.",
+   "tr": "Olağandışı güç dalgalanmaları tespit ettim ama kaynağı belirleyemiyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103643",
+   "en": "The outpost was quarantined immediately and study of the infection began.",
+   "tr": "Karakol hemen karantinaya alındı ve enfeksiyon incelemesi başladı."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103645",
+   "en": "What does Zhu's Hope have to do with the Thorian?",
+   "tr": "Zhu's Hope'un Thorian'la ne ilgisi var?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103646",
+   "en": "Tell me everything you know about the Thorian.",
+   "tr": "Thorian hakkında bildiğin her şeyi anlat."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103647",
+   "en": "Are you saying ExoGeni knew its people were getting infected?",
+   "tr": "ExoGeni'nin insanlarının enfekte olduğunu bildiğini mi söylüyorsun?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103648",
+   "en": "ExoGeni knew all along what would happen to those people.",
+   "tr": "ExoGeni o insanlara ne olacağını baştan beri biliyordu."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103655",
+   "en": "Joker. Come in, Joker. Damn it. That field's blocking us.",
+   "tr": "Joker. Cevap ver Joker. Kahretsin. O alan bizi engelliyor."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103656",
+   "en": "VI, what can you tell me about the geth ship and the field it's generating?",
+   "tr": "VI, geth gemisi ve ürettiği alan hakkında ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103657",
+   "en": "VI, tell me about the field surrounding the facility.",
+   "tr": "VI, tesisi çevreleyen alan hakkında bilgi ver."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103659",
+   "en": "We need to find that ship. Let's get moving.",
+   "tr": "O gemiyi bulmalıyız. Hadi gidelim."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103664",
+   "en": "Zhu's Hope?",
+   "tr": "Zhu's Hope mu?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103666",
+   "en": "What did you say?",
+   "tr": "Ne dedin?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103667",
+   "en": "Go on.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103668",
+   "en": "This is what Saren wants.",
+   "tr": "Saren'in istediği bu."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103669",
+   "en": "Explain.",
+   "tr": "Açıkla."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103670",
+   "en": "Control group?",
+   "tr": "Kontrol grubu mu?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103671",
+   "en": "You bastards.",
+   "tr": "Piçler."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103678",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103680",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103682",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103684",
+   "en": "Yes.",
+   "tr": "Evet."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103686",
+   "en": "Good idea.",
+   "tr": "İyi fikir."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103688",
+   "en": "It couldn't hurt.",
+   "tr": "Zararı olmaz."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103689",
+   "en": "I agree.",
+   "tr": "Katılıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103690",
+   "en": "Tell me about the field.",
+   "tr": "Bana alandan bahset."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103691",
+   "en": "No kidding.",
+   "tr": "Şaka yapmıyorsun."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|103693",
+   "en": "Move out.",
+   "tr": "Yola çıkalım."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|113335",
+   "en": "I was unable to provide the previous user with any relevant data.",
+   "tr": "Önceki kullanıcıya ilgili hiçbir veri sağlayamadım."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|113336",
+   "en": "All sensors monitoring the observation post at Zhu's Hope have been inactive for several cycles.",
+   "tr": "Zhu's Hope'taki gözlem karakolunu izleyen tüm sensörler birkaç döngüdür etkin değil."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|113337",
+   "en": "Tell me everything you told the krogan.",
+   "tr": "Krogan'a söylediğin her şeyi bana da söyle."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|113340",
+   "en": "Really?",
+   "tr": "Gerçekten mi?"
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|113341",
+   "en": "Go on.",
+   "tr": "Devam et."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144171",
+   "en": "I agree.",
+   "tr": "Katılıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144172",
+   "en": "I agree.",
+   "tr": "Katılıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144173",
+   "en": "I agree.",
+   "tr": "Katılıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144174",
+   "en": "I agree.",
+   "tr": "Katılıyorum."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144175",
+   "en": "Then we do it the hard way.",
+   "tr": "O halde zor yoldan yaparız."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144176",
+   "en": "Fine. We're on our own.",
+   "tr": "Peki. Kendi başımızayız."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144179",
+   "en": "I need answers.",
+   "tr": "Cevaplara ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|144181",
+   "en": "Finally.",
+   "tr": "Sonunda."
+  },
+  {
+   "key": "BIOA_WAR50_05_DSG_LOC|war50_vi_D|164591",
+   "en": "I need answers.",
+   "tr": "Cevaplara ihtiyacım var."
+  }
+ ]
+}

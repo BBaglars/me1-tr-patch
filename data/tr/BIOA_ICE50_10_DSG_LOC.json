@@ -1,0 +1,830 @@
+{
+ "meta": {
+  "package": "BIOA_ICE50_10_DSG_LOC_INT.pcc",
+  "stem": "BIOA_ICE50_10_DSG_LOC",
+  "textLang": "INT",
+  "sets": 2
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152989",
+   "en": "You download the evidence from Lorik's computer.",
+   "tr": "Lorik'in bilgisayarından kanıtları indiriyorsunuz."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152990",
+   "en": "Quarantine lab locked down.",
+   "tr": "Karantina laboratuvarı kilitlendi."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152991",
+   "en": "Fuel lines fixed.",
+   "tr": "Yakıt hatları onarıldı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152992",
+   "en": "Mira offline.",
+   "tr": "Mira çevrimdışı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152993",
+   "en": "Landlines repaired.",
+   "tr": "Sabit hatlar onarıldı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152995",
+   "en": "This door can only be opened by Anoleis' assistant.",
+   "tr": "Bu kapıyı yalnızca Anoleis'in asistanı açabilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|152996",
+   "en": "Synthetic Insights lockdown. Authorization Kaira Stirling.",
+   "tr": "Synthetic Insights kilitlendi. Yetki: Kaira Stirling."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|156875",
+   "en": "Elevator locked down by order of Captain J. Ventralis.",
+   "tr": "Asansör Kaptan J. Ventralis'in emriyle kilitlendi."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|159157",
+   "en": "Reactor power restored.",
+   "tr": "Reaktör gücü geri geldi."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|159158",
+   "en": "Not enough power for restart.",
+   "tr": "Yeniden başlatma için yeterli güç yok."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|159170",
+   "en": "Memory bypass successful.",
+   "tr": "Bellek atlatma başarılı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|159171",
+   "en": "Electronic locks offline. Please consult station Virtual Intelligence.",
+   "tr": "Elektronik kilitler çevrimdışı. Lütfen istasyon Sanal Zekâsına danışın."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|159173",
+   "en": "Connection ports out of sequence. Unable to dock data module.",
+   "tr": "Bağlantı portları sıra dışı. Veri modülü kenetlenemiyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|159946",
+   "en": "Memory Core 1 damaged. Transfer module stack to Core 2 or 3 to reactivate. Press Escape to Exit.",
+   "tr": "Bellek Çekirdeği 1 hasarlı. Yeniden etkinleştirmek için modül yığınını Çekirdek 2 veya 3'e aktarın. Çıkmak için Escape'e basın."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|160950",
+   "en": "This elevator is only accessible to Binary Helix employees.",
+   "tr": "Bu asansöre yalnızca Binary Helix çalışanları erişebilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|160959",
+   "en": "Elevator locked down until purge activated.",
+   "tr": "Asansör, temizleme etkinleştirilene kadar kilitli."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|162700",
+   "en": "Emergency exit only.",
+   "tr": "Yalnızca acil çıkış."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|162701",
+   "en": "Purge armed.",
+   "tr": "Temizleme hazır."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|162770",
+   "en": "Authorization Required.",
+   "tr": "Yetki Gerekli."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|164577",
+   "en": "Maintenance door locked. Authorization required.",
+   "tr": "Bakım kapısı kilitli. Yetki gerekli."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|165286",
+   "en": "Hotlabs not accessible.",
+   "tr": "Sıcak laboratuvarlara erişilemiyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|171751",
+   "en": "Synthetic Insights security disabled.",
+   "tr": "Synthetic Insights güvenliği devre dışı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|172900",
+   "en": "Repairs incomplete.",
+   "tr": "Onarımlar tamamlanmadı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice00_popup_text_D|172903",
+   "en": "Core reactivated",
+   "tr": "Çekirdek yeniden etkinleştirildi"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29127",
+   "en": "Online. How may I assist you?",
+   "tr": "Çevrimiçi. Size nasıl yardımcı olabilirim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29129",
+   "en": "Critical Failure: Loose contaminants in the decontamination chambers. Access to passenger tramways inadvisable.",
+   "tr": "Kritik Arıza: Dekontaminasyon odalarında başıboş kirleticiler var. Yolcu tramvaylarına erişim tavsiye edilmez."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29130",
+   "en": "Critical Failure: Landline connections are disabled. Passenger tram systems are offline.",
+   "tr": "Kritik Arıza: Sabit hat bağlantıları devre dışı. Yolcu tramvay sistemleri çevrimdışı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29131",
+   "en": "Report complete. Do you have an additional systems status query?",
+   "tr": "Rapor tamamlandı. Ek bir sistem durum sorgunuz var mı?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29137",
+   "en": "Access is not recommended. However, authorized personnel may override the lock. You have such authorization.",
+   "tr": "Erişim önerilmez. Ancak yetkili personel kilidi geçersiz kılabilir. Böyle bir yetkiniz var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29138",
+   "en": "Controls for the failsafe systems are located in the security checkpoint outside decontamination.",
+   "tr": "Arıza emniyet sistemlerinin kontrolleri dekontaminasyon dışındaki güvenlik kontrol noktasında bulunuyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29140",
+   "en": "Critical systems are operating within normal tolerances. There are 1,473,831 faults in non-critical systems.",
+   "tr": "Kritik sistemler normal toleranslar içinde çalışıyor. Kritik olmayan sistemlerde 1.473.831 arıza var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29145",
+   "en": "Very well, Commander. Logging you out.",
+   "tr": "Pekâlâ Komutan. Oturumunuz kapatılıyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29146",
+   "en": "It looks like you're trying to restore this facility. Would you like help?",
+   "tr": "Bu tesisi yeniden ayağa kaldırmaya çalışıyor gibisiniz. Yardım ister misiniz?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29148",
+   "en": "This system is monitored to respond to the name \"Mira.\" May I ask your name?",
+   "tr": "Bu sistem \"Mira\" adına yanıt verecek şekilde izleniyor. Adınızı sorabilir miyim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29149",
+   "en": "One moment, please. Council authority confirmed. You are entitled to Secure Access of all systems. ",
+   "tr": "Bir dakika lütfen. Konsey yetkisi doğrulandı. Tüm sistemlere Güvenli Erişim hakkınız var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29150",
+   "en": "Please note that queries relating to corporate secrets require Privileged Access. Privileged Access is only available to Binary Helix executives. ",
+   "tr": "Kurumsal sırlarla ilgili sorguların Ayrıcalıklı Erişim gerektirdiğini unutmayın. Ayrıcalıklı Erişim yalnızca Binary Helix yöneticilerine açıktır."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29151",
+   "en": "One moment, please. Service record confirmed. Due to the current emergency, you are entitled to Secure Access of all systems. ",
+   "tr": "Bir dakika lütfen. Hizmet sicili doğrulandı. Mevcut acil durum nedeniyle tüm sistemlere Güvenli Erişim hakkınız var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29153",
+   "en": "To determine the data access available to you. ",
+   "tr": "Size açık veri erişimini belirlemek için."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29167",
+   "en": "This system is ready to process queries. You may access me at any holographic interface within Peak 15.",
+   "tr": "Bu sistem sorguları işlemeye hazır. Peak 15 içindeki herhangi bir holografik arayüzden bana erişebilirsiniz."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29172",
+   "en": "Tell me what happened here.",
+   "tr": "Burada ne olduğunu anlat."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29173",
+   "en": "I need a status report. What systems are down?",
+   "tr": "Bir durum raporuna ihtiyacım var. Hangi sistemler çalışmıyor?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29182",
+   "en": "What's this about loose contaminants?",
+   "tr": "Başıboş kirleticiler de neyin nesi?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29183",
+   "en": "You won't let us through decon?",
+   "tr": "Dekontaminasyondan geçmemize izin vermeyecek misin?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29184",
+   "en": "How do I activate the failsafe system?",
+   "tr": "Arıza emniyet sistemini nasıl etkinleştiririm?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29185",
+   "en": "What are the landlines, and why are they disabled?",
+   "tr": "Sabit hatlar nedir ve neden devre dışı?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29188",
+   "en": "What would it take to get the decon failsafes operating again?",
+   "tr": "Dekontaminasyon emniyetlerini yeniden çalıştırmak için ne gerekir?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29190",
+   "en": "Unlock the decontamination chamber.",
+   "tr": "Dekontaminasyon odasının kilidini aç."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29192",
+   "en": "The creatures we've encountered here. Did they come from the labs?",
+   "tr": "Burada karşılaştığımız yaratıklar. Laboratuvarlardan mı geldiler?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29193",
+   "en": "How do I reconnect the landlines?",
+   "tr": "Sabit hatları nasıl yeniden bağlarım?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29196",
+   "en": "That's all I need right now.",
+   "tr": "Şimdilik ihtiyacım olan bu kadar."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29197",
+   "en": "You're the virtual intelligence that runs this place?",
+   "tr": "Burayı yöneten sanal zekâ sen misin?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29199",
+   "en": "Commander Shepard.  I work for the Citadel's Special Tactics and Reconnaissance.",
+   "tr": "Komutan Shepard.  Citadel'in Özel Taktikler ve Keşif birimindenim."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29202",
+   "en": "Commander Shepard, Systems Alliance Navy.",
+   "tr": "Komutan Shepard, Sistemler İttifakı Donanması."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29206",
+   "en": "Why do you need to know?",
+   "tr": "Bunu neden bilmen gerekiyor?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29224",
+   "en": "Help would be great. Who are you?",
+   "tr": "Yardım harika olur. Sen kimsin?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29225",
+   "en": "How do I shut this thing up?",
+   "tr": "Bunu nasıl susturabilirim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29319",
+   "en": "Connections restored. Processing new data. User alert! Unable to connect to hot lab facilities.",
+   "tr": "Bağlantılar yeniden kuruldu. Yeni veriler işleniyor. Kullanıcı uyarısı! Sıcak laboratuvar tesislerine bağlanılamıyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29332",
+   "en": "User alert! The failsafe system is currently inoperable.",
+   "tr": "Kullanıcı uyarısı! Arıza emniyet sistemi şu anda çalışmıyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29356",
+   "en": "I'm sorry, but I need a more specific query.",
+   "tr": "Üzgünüm, ama daha belirli bir sorguya ihtiyacım var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29357",
+   "en": "I'm sorry, but I was offline at the time. Shutdown could occur if reactor breach seems likely, or in the case of catastrophic laboratory containment failure.",
+   "tr": "Üzgünüm, ama o sırada çevrimdışıydım. Reaktör ihlali olasıysa ya da laboratuvar izolasyonunda feci bir arıza olursa kapanma gerçekleşebilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29360",
+   "en": "Emergency guidelines suggest the frigid environment will kill biological contagions. It may also damage mechanical ones.",
+   "tr": "Acil durum kılavuzları, dondurucu ortamın biyolojik bulaşıcıları öldüreceğini öneriyor. Mekanik olanlara da zarar verebilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29363",
+   "en": "In the event Peak 15 must be sterilized for security purposes, my program and data are purged.",
+   "tr": "Peak 15'in güvenlik amacıyla sterilize edilmesi gerekirse programım ve verilerim silinir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29364",
+   "en": "My systems are permanently disabled. To be \"killed,\" I would need to be alive. I am merely a database program.",
+   "tr": "Sistemlerim kalıcı olarak devre dışı. \"Öldürülmem\" için canlı olmam gerekir. Ben yalnızca bir veri tabanı programıyım."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29379",
+   "en": "What's the status of Rift Station?",
+   "tr": "Rift Station'ın durumu nedir?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29384",
+   "en": "Tell me what occurred immediately before you shut down.",
+   "tr": "Kapanmadan hemen önce ne olduğunu anlat."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29423",
+   "en": "Give me a status report on the hot labs.",
+   "tr": "Bana sıcak laboratuvarların durum raporunu ver."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29430",
+   "en": "Why were you taken offline?",
+   "tr": "Neden çevrimdışı bırakıldın?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29431",
+   "en": "They kill you if something goes wrong?",
+   "tr": "Bir şeyler ters giderse seni öldürüyorlar mı?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29572",
+   "en": "Rift Station has been locked down by the staff. There are presently no contaminants within the facility.",
+   "tr": "Rift Station personel tarafından kilitlendi. Şu anda tesiste kirletici yok."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29573",
+   "en": "Yes, though the number of personnel is below the official staff count.",
+   "tr": "Evet, ancak personel sayısı resmî kadronun altında."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29574",
+   "en": "I am sorry. The network connections to the labs have been damaged. Data is limited.",
+   "tr": "Üzgünüm. Laboratuvarlara giden ağ bağlantıları hasar gördü. Veri sınırlı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29583",
+   "en": "I'm sorry, Commander. Inquiries related to our research require Privileged Access. Only executives of Binary Helix have that level of clearance.",
+   "tr": "Üzgünüm Komutan. Araştırmamızla ilgili sorgular Ayrıcalıklı Erişim gerektirir. Yalnızca Binary Helix yöneticileri bu yetki düzeyine sahiptir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29584",
+   "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+   "tr": "Isıyı kapat ve soğuğun saldığın her neyse onu uyutmasını um. Güzel."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29585",
+   "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep.",
+   "tr": "Isıyı kapat ve soğuğun saldığın her neyse onu uyutmasını um."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29586",
+   "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+   "tr": "Isıyı kapat ve soğuğun saldığın her neyse onu uyutmasını um. Güzel."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29587",
+   "en": "Turn off the heat, and hope the cold puts whatever you've unleashed to sleep. Nice.",
+   "tr": "Isıyı kapat ve soğuğun saldığın her neyse onu uyutmasını um. Güzel."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29588",
+   "en": "Turn off the heat, and hope the cold puts whatever you have unleashed to sleep.",
+   "tr": "Isıyı kapat ve soğuğun saldığın her neyse onu uyutmasını um."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29594",
+   "en": "Stage I alert issued at hot labs. Contaminants released from Laboratory Pod Gamma. Emergency protocols implemented.",
+   "tr": "Sıcak laboratuvarlarda Seviye I alarmı verildi. Gamma Laboratuvar Kapsülü'nden kirleticiler sızdı. Acil durum protokolleri devrede."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29595",
+   "en": "Stage II alert issued at hot labs. Isolation Tube breached. Trams shut down. Landline to Hot Labs disconnected.",
+   "tr": "Sıcak laboratuvarlarda Seviye II alarmı verildi. İzolasyon Tüpü delindi. Tramvaylar kapatıldı. Sıcak Laboratuvarlara sabit hat bağlantısı kesildi."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29596",
+   "en": "Stage III alert issued locally. Contaminants in tram tunnels. Station shutdown and evacuation initiated. Code Omega sent.",
+   "tr": "Yerel Seviye III alarmı verildi. Tramvay tünellerinde kirleticiler var. İstasyon kapatma ve tahliye başlatıldı. Kod Omega gönderildi."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29598",
+   "en": "I'm sorry, Commander. Inquiries related to our research require Privileged Access. Only executives of Binary Helix have that clearance.",
+   "tr": "Üzgünüm Komutan. Araştırmamızla ilgili sorgular Ayrıcalıklı Erişim gerektirir. Yalnızca Binary Helix yöneticileri bu yetkiye sahiptir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29603",
+   "en": "The staff is alive, then?",
+   "tr": "Yani personel hayatta mı?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29620",
+   "en": "What sort of \"contaminants\" escaped?",
+   "tr": "Ne tür \"kirleticiler\" kaçtı?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29715",
+   "en": "Online. Connected to subsidiary facilities. How may I assist you?",
+   "tr": "Çevrimiçi. Bağlı tesislere bağlandı. Size nasıl yardımcı olabilirim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29716",
+   "en": "Emergency procedures require each facility to isolate itself to prevent the spread of contagion.",
+   "tr": "Acil durum prosedürleri, bulaşın yayılmasını önlemek için her tesisin kendini izole etmesini gerektiriyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29717",
+   "en": "It would also appear that there are several employees quarantined for medical treatment.",
+   "tr": "Ayrıca tıbbi tedavi için karantinaya alınmış çeşitli çalışanlar olduğu anlaşılıyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29718",
+   "en": "The passenger trams can bring you to the facility. Further access will be at the discretion of the security forces there.",
+   "tr": "Yolcu tramvayları sizi tesise götürebilir. Daha fazla erişim oradaki güvenlik güçlerinin takdirinde olacaktır."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29720",
+   "en": "There is a hardware fault in the control system. This can be repaired on-site using a standard omni-tool.",
+   "tr": "Kontrol sisteminde bir donanım arızası var. Bu, standart bir omni-aletle yerinde onarılabilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29732",
+   "en": "User alert. Contaminants are present within the decontamination chambers. Passage is not recommended.",
+   "tr": "Kullanıcı uyarısı. Dekontaminasyon odalarında kirleticiler var. Geçiş önerilmez."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29733",
+   "en": "Very well, Commander.",
+   "tr": "Pekâlâ Komutan."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29737",
+   "en": "Unfortunately, the failsafe system is disabled at this time.",
+   "tr": "Maalesef arıza emniyet sistemi şu anda devre dışı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29742",
+   "en": "Why is Rift Station locked down?",
+   "tr": "Rift Station neden kilitli?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29744",
+   "en": "If it's locked down, will I be able to enter?",
+   "tr": "Kilitliyse girebilecek miyim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29756",
+   "en": "Override. Open the doors now.",
+   "tr": "Geçersiz kıl. Kapıları şimdi aç."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29758",
+   "en": "How do I get rid of the contaminants?",
+   "tr": "Kirleticilerden nasıl kurtulurum?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29760",
+   "en": "What's the problem?",
+   "tr": "Sorun ne?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29762",
+   "en": "I don't have time for this. Override and open the doors.",
+   "tr": "Buna vaktim yok. Geçersiz kıl ve kapıları aç."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29765",
+   "en": "I'm afraid not. My last log entry is shortly after the Stage II containment alert was sounded.",
+   "tr": "Korkarım hayır. Son kayıt girişim, Seviye II izolasyon alarmı çaldıktan kısa süre sonra."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|29768",
+   "en": "You have no idea what's going on inside?",
+   "tr": "İçeride neler olduğu hakkında hiçbir fikrin yok mu?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|31433",
+   "en": "The hot labs isolate dangerous biological or cybernetic contaminants during development.",
+   "tr": "Sıcak laboratuvarlar, geliştirme sırasında tehlikeli biyolojik veya sibernetik kirleticileri izole eder."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|31434",
+   "en": "The complex is built within a glacier. In the event of an accident, it can be irradiated and sunk into the ice.",
+   "tr": "Kompleks bir buzulun içine inşa edildi. Kaza durumunda ışınlanıp buza gömülebilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|31437",
+   "en": "Give me an overview of the facility.",
+   "tr": "Bana tesise genel bir bakış ver."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|35751",
+   "en": "Lady Benezia departed on the passenger tramway to the Rift Station subsidiary labs.",
+   "tr": "Leydi Benezia yolcu tramvayıyla Rift Station yan laboratuvarlarına gitti."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|35753",
+   "en": "User alert! The tramway system is currently inoperable.",
+   "tr": "Kullanıcı uyarısı! Tramvay sistemi şu anda çalışmıyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|35756",
+   "en": "I need to find Matriarch Benezia.",
+   "tr": "Matriarch Benezia'yı bulmam gerekiyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40918",
+   "en": "Rift Station",
+   "tr": "Rift Station"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40919",
+   "en": "Hot Labs",
+   "tr": "Sıcak Laboratuvarlar"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40921",
+   "en": "Facility overview",
+   "tr": "Tesise genel bakış"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40923",
+   "en": "Internal status",
+   "tr": "Dahili durum"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40926",
+   "en": "I'm in a hurry.",
+   "tr": "Acelem var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40930",
+   "en": "How would I fix it?",
+   "tr": "Nasıl düzeltirim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40931",
+   "en": "Just open it.",
+   "tr": "Sadece aç."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40932",
+   "en": "How do I fix them?",
+   "tr": "Onları nasıl düzeltirim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40933",
+   "en": "Hostile creatures",
+   "tr": "Düşman yaratıklar"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40934",
+   "en": "Other topics.",
+   "tr": "Diğer konular."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40935",
+   "en": "Why can't I leave?",
+   "tr": "Neden çıkamıyorum?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40937",
+   "en": "Log out.",
+   "tr": "Oturumu kapat."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40959",
+   "en": "Do it anyway.",
+   "tr": "Yine de yap."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40960",
+   "en": "What do you recommend?",
+   "tr": "Ne önerirsin?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40963",
+   "en": "Can it be fixed?",
+   "tr": "Düzeltilebilir mi?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40964",
+   "en": "Override.",
+   "tr": "Geçersiz kıl."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40968",
+   "en": "Your shutdown",
+   "tr": "Kapanman"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40970",
+   "en": "Your final logs",
+   "tr": "Son kayıtların"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40980",
+   "en": "They kill you?",
+   "tr": "Seni öldürüyorlar mı?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|40996",
+   "en": "Contaminants",
+   "tr": "Kirleticiler"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41004",
+   "en": "Loose contaminants?",
+   "tr": "Başıboş kirleticiler mi?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41005",
+   "en": "What landlines?",
+   "tr": "Hangi sabit hatlar?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41011",
+   "en": "You won't let us out?",
+   "tr": "Çıkmamıza izin vermeyecek misin?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41012",
+   "en": "How do I activate the purge?",
+   "tr": "Temizlemeyi nasıl etkinleştiririm?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41053",
+   "en": "You're the station VI?",
+   "tr": "İstasyonun VI'ı sen misin?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41054",
+   "en": "Yes, I would.",
+   "tr": "Evet, isterim."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41055",
+   "en": "Crap, a pop-up.",
+   "tr": "Lanet, bir açılır pencere."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41057",
+   "en": "I'm a Spectre.",
+   "tr": "Ben bir Spectre'ım."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41058",
+   "en": "I'm Alliance Navy.",
+   "tr": "İttifak Donanması'ndanım."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41059",
+   "en": "For what purpose?",
+   "tr": "Ne amaçla?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41085",
+   "en": "Staff",
+   "tr": "Personel"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41086",
+   "en": "Locked down",
+   "tr": "Kilitli"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|41087",
+   "en": "Can I get in?",
+   "tr": "İçeri girebilir miyim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|85570",
+   "en": "Basic Access is limited to non-secure queries. Secure Access allows most system functions. Privileged Access is available only to executives of Binary Helix.",
+   "tr": "Temel Erişim, güvenli olmayan sorgularla sınırlıdır. Güvenli Erişim çoğu sistem işlevine izin verir. Ayrıcalıklı Erişim yalnızca Binary Helix yöneticilerine açıktır."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|85571",
+   "en": "I need instructions on how to repair the station.",
+   "tr": "İstasyonun nasıl onarılacağına dair talimatlara ihtiyacım var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|85573",
+   "en": "Give me a damage report.",
+   "tr": "Bana bir hasar raporu ver."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|94588",
+   "en": "One moment, please. Diagnostics in progress.",
+   "tr": "Bir dakika lütfen. Tanılama sürüyor."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|94589",
+   "en": "What's the situation here?",
+   "tr": "Buradaki durum nedir?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|94591",
+   "en": "Give me a damage report.",
+   "tr": "Bana bir hasar raporu ver."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|102729",
+   "en": "Releasing safeties. Proceed at your discretion.",
+   "tr": "Emniyetler serbest bırakılıyor. Takdirinize göre ilerleyin."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|118421",
+   "en": "Can I get rid of them?",
+   "tr": "Onlardan kurtulabilir miyim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149336",
+   "en": "What should I do?",
+   "tr": "Ne yapmalıyım?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149698",
+   "en": "Critical Failure: Main reactor shut down in accordance with emergency containment procedures. Manual restart required.",
+   "tr": "Kritik Arıza: Ana reaktör acil izolasyon prosedürlerine uygun olarak kapatıldı. Elle yeniden başlatma gerekli."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149700",
+   "en": "The landlines connect my mainframes here at Central Station to the various sub-facilities of Peak 15.",
+   "tr": "Sabit hatlar, buradaki Merkez İstasyon'daki ana bilgisayarlarımı Peak 15'in çeşitli alt tesislerine bağlar."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149701",
+   "en": "This allows the crew to remotely access my databases from the comfort and security of their labs.",
+   "tr": "Bu, ekibin veri tabanlarıma laboratuvarlarının rahatlığı ve güvenliğinden uzaktan erişmesini sağlar."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149702",
+   "en": "Dangerous biological agents are present in the tramway decontamination chamber.",
+   "tr": "Yolcu tramvayı dekontaminasyon odasında tehlikeli biyolojik ajanlar var."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149703",
+   "en": "The tram station has been sealed in the interest of crew safety. Activation of the failsafe plasma jets is recommended prior to access.",
+   "tr": "Tramvay istasyonu mürettebat güvenliği için mühürlendi. Erişimden önce arıza emniyet plazma jetlerinin etkinleştirilmesi önerilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149705",
+   "en": "Do you know why the reactor was shut down?",
+   "tr": "Reaktörün neden kapatıldığını biliyor musun?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149708",
+   "en": "What do I need to do to get the power back on?",
+   "tr": "Gücü geri getirmek için ne yapmam gerekiyor?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149710",
+   "en": "The main reactor.",
+   "tr": "Ana reaktör."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149719",
+   "en": "Just open the door.",
+   "tr": "Sadece kapıyı aç."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149722",
+   "en": "How would I fix that?",
+   "tr": "Bunu nasıl düzeltirim?"
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149862",
+   "en": "When emergency protocols were implemented within the hot labs, the cabling was automatically ejected.",
+   "tr": "Sıcak laboratuvarlarda acil durum protokolleri devreye girdiğinde kablolar otomatik olarak fırlatıldı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149865",
+   "en": "The valves to the helium-3 fuel line must be opened. This can be done at the controls on the reactor assembly proper.",
+   "tr": "Helyum-3 yakıt hattının valfleri açılmalı. Bu, reaktör düzeneğinin kendisindeki kontrollerden yapılabilir."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149866",
+   "en": "The landlines are designed for easy reconnection.",
+   "tr": "Sabit hatlar kolay yeniden bağlanacak şekilde tasarlanmıştır."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149867",
+   "en": "The router for the landlines is on the roof of Operations. Simply activate the controls, and the hardware will reconnect and reboot automatically.",
+   "tr": "Sabit hatların yönlendiricisi Operasyon binasının çatısında. Kontrolleri etkinleştirmeniz yeterli, donanım otomatik olarak yeniden bağlanıp yeniden başlayacak."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|149868",
+   "en": "The chamber is equipped with failsafe system which vents a 5000-degree Kelvin plasma. This is sufficient to sterilize any potential contagion.",
+   "tr": "Oda, 5000 Kelvin derecelik plazma boşaltan bir arıza emniyet sistemiyle donatılmıştır. Bu, olası her bulaşı sterilize etmeye yeter."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|158800",
+   "en": "That makes sense.",
+   "tr": "Mantıklı."
+  },
+  {
+   "key": "BIOA_ICE50_10_DSG_LOC|ice50_mira_D|166993",
+   "en": "Where's Benezia?",
+   "tr": "Benezia nerede?"
+  }
+ ]
+}

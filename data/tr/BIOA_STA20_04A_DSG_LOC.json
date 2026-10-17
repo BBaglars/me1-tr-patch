@@ -1,0 +1,820 @@
+{
+ "meta": {
+  "package": "BIOA_STA20_04A_DSG_LOC_INT.pcc",
+  "stem": "BIOA_STA20_04A_DSG_LOC",
+  "textLang": "INT",
+  "sets": 3
+ },
+ "entries": [
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72655",
+   "en": "What's this? One of the Earth-clan? Ah, a very famous one, yes? You are the one called Shepard.",
+   "tr": "Bu da ne? Dünya klanından biri mi? Ah, çok ünlü biri, değil mi? Shepard denen sizsiniz."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72656",
+   "en": "Forgive me, Earth-clan. My name is Barla Von. My job makes it necessary for me to keep informed.",
+   "tr": "Affedin, Dünya klanı. Adım Barla Von. İşim bilgili kalmamı gerektiriyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72658",
+   "en": "Is there anything I can do for you today, Commander?",
+   "tr": "Bugün sizin için yapabileceğim bir şey var mı, Komutan?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72667",
+   "en": "Goodbye, Commander.",
+   "tr": "Hoşça kalın, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72670",
+   "en": "I don't like strangers keeping tabs on me.",
+   "tr": "Yabancıların beni izlemesinden hoşlanmam."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72684",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72687",
+   "en": "Are you spying on me?",
+   "tr": "Beni gözetliyor musun?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|72691",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85634",
+   "en": "Galactic finance is incredibly complex: a mix of laws and regulations from dozens of interstellar economies. ",
+   "tr": "Galaktik finans inanılmaz karmaşık: onlarca yıldızlararası ekonominin yasa ve yönetmeliklerinin karışımı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85635",
+   "en": "I'm an expert in how all those economies interact. For a fee, I share my expertise.",
+   "tr": "Tüm bu ekonomilerin nasıl etkileşime girdiği konusunda uzmanım. Ücret karşılığında uzmanlığımı paylaşırım."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85636",
+   "en": "I also offer premium services for those clients who need someone to conduct business without drawing unwanted attention. Discreet and efficient. That's my motto.",
+   "tr": "İstenmeyen dikkat çekmeden iş yürütecek birine ihtiyacı olan müşteriler için prim hizmetler de sunuyorum. Ketum ve verimli. Sloganım bu."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85637",
+   "en": "Everything I do falls completely within the bounds of interstellar commerce law. Even so, many of my clients would prefer their transactions remain undisclosed.",
+   "tr": "Yaptığım her şey tamamen yıldızlararası ticaret yasasının sınırları içinde. Yine de müşterilerimin çoğu işlemlerinin açıklanmamasını tercih ediyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85638",
+   "en": "For example, suppose a hanar ambassador was petitioning the Council to reduce tariffs on hanar goods. How would it look if he had money invested in a hanar exporting company?",
+   "tr": "Örneğin bir hanar büyükelçisi Konsey'den hanar mallarında gümrük vergilerinin düşürülmesini istiyor olsun. Bir hanar ihracat şirketine yatırım yapmışsa nasıl görünürdü?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85639",
+   "en": "Even if his true motives were to help his people, he would be accused of advancing the petition for his own personal gain. I can keep his personal finances private.",
+   "tr": "Gerçek amacı halkına yardım etmek olsa bile dilekçeyi kendi kişisel kazancı için sunmakla suçlanırdı. Kişisel finansını gizli tutabilirim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85641",
+   "en": "Then we can only hope you will never be cursed with a large enough fortune to require my services.",
+   "tr": "O zaman hizmetlerime ihtiyaç duyacak kadar büyük bir servetle lanetlenmemenizi umabiliriz."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85643",
+   "en": "Most people think I deal in finances, but my real currency is knowledge. I trade information, and it has made me very wealthy.",
+   "tr": "Çoğu kişi finansla uğraştığımı sanıyor ama asıl para birimim bilgi. Bilgi takas ediyorum ve bu beni çok zengin yaptı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85644",
+   "en": "But the Shadow Broker is the true master. Every day, he buys and sells secrets that could topple governments, always giving them to the highest bidder.",
+   "tr": "Ama gerçek usta Shadow Broker. Her gün hükümetleri devirebilecek sırları alıp satıyor, hep en çok ödeyene veriyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85646",
+   "en": "Yet somehow he never seems to upset the natural balance of power. All those secrets being passed around seem to even out. Nobody ends up with an advantage in the end.",
+   "tr": "Yine de güç dengesini bir şekilde bozmuyor. Dolaşan tüm bu sırlar dengeleniyor gibi. Sonunda kimse avantaj elde etmiyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85647",
+   "en": "I don't know. Nobody does. The Shadow Broker could be any race, any gender. I have a theory that it's actually an entire group working under one identity.",
+   "tr": "Bilmiyorum. Kimse bilmiyor. Shadow Broker herhangi bir ırktan, herhangi bir cinsiyetten olabilir. Gerçekte tek kimlik altında çalışan bütün bir grup olduğuna dair bir teorim var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85648",
+   "en": "How else could they juggle so many contacts at the same time? How else could they keep all that information from getting crossed? But they've got the perfect setup.",
+   "tr": "Yoksa aynı anda bu kadar çok bağlantıyı nasıl idare edebilir? Tüm o bilginin karışmasını nasıl engeller? Ama mükemmel düzeni var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85649",
+   "en": "Every government is forced to play their game so they don't get behind. But no matter how long you play, no matter how many secrets you buy, you can never win.",
+   "tr": "Her hükümet geri kalmamak için onun oyununu oynamak zorunda. Ama ne kadar oynarsanız oynayın, kaç sır satın alırsanız alın, asla kazanamazsınız."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85657",
+   "en": "Greetings, Earth-clan.",
+   "tr": "Selamlar, Dünya klanı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85658",
+   "en": "I believe congratulations are in order, Commander Shepard. You are the first human to join the Spectres, yes?",
+   "tr": "Sanırım tebrikler yerinde, Komutan Shepard. Spectre'lara katılan ilk insansınız, evet?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85659",
+   "en": "One you are no doubt ready for. A word of warning, though. There are many eyes watching you now, Commander. Some of them want to see you fail.",
+   "tr": "Şüphesiz buna hazırsınız. Yine de bir uyarı. Şu an sizi izleyen pek çok göz var, Komutan. Bazıları başarısız olmanızı görmek istiyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85660",
+   "en": "I, however, wish you only success. Perform well and you bring the Earth-clan one step closer to joining the Council.",
+   "tr": "Ben ise size yalnızca başarı diliyorum. İyi performans gösterirseniz Dünya klanını Konsey'e katılmaya bir adım daha yaklaştırırsınız."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85661",
+   "en": "And if they let your people in, maybe there is hope for my own species one day, yes?",
+   "tr": "Ve halkınızı alırlarsa belki kendi türüm için de bir gün umut vardır, evet?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85662",
+   "en": "Don't underestimate this opportunity, Commander. You have a chance to do great things for the Earth-clan.",
+   "tr": "Bu fırsatı hafife almayın, Komutan. Dünya klanı için büyük şeyler yapma şansınız var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85663",
+   "en": "Perform well and your species may soon be asked to join the Council. There is no greater honor in the galaxy. A word of warning, however.",
+   "tr": "İyi performans gösterirseniz türünüzden Konsey'e katılması istenebilir. Galakside bundan büyük onur yok. Yine de bir uyarı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85664",
+   "en": "The eyes of the entire galaxy are on you now. Some of them are hoping you will fail. Be careful, Commander.",
+   "tr": "Şu an tüm galaksinin gözü üzerinizde. Bazıları başarısız olmanızı umuyor. Dikkatli olun, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85665",
+   "en": "How can this humble servant be of use to you?",
+   "tr": "Bu mütevazı hizmetkâr size nasıl yararlı olabilir?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85666",
+   "en": "You've got me at a disadvantage here.\n",
+   "tr": "Beni dezavantajlı duruma soktun.\n"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85669",
+   "en": "Sounds pretty shady.",
+   "tr": "Oldukça şüpheli geliyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85673",
+   "en": "Still sounds shady to me.",
+   "tr": "Bana hâlâ şüpheli geliyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85675",
+   "en": "Tell me more about the Shadow Broker.",
+   "tr": "Bana Shadow Broker hakkında daha fazlasını anlat."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85679",
+   "en": "Any guess what his identity might be?",
+   "tr": "Kimliği ne olabilir sence?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85693",
+   "en": "It's a great honor.",
+   "tr": "Büyük bir onur."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85696",
+   "en": "It's no big deal.",
+   "tr": "Büyütülecek bir şey değil."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85699",
+   "en": "Tell me more about your job.",
+   "tr": "İşin hakkında daha fazlasını anlat."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85700",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85711",
+   "en": "Thank you.",
+   "tr": "Teşekkür ederim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85712",
+   "en": "So what?",
+   "tr": "Ee, ne olmuş?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85717",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85718",
+   "en": "The Shadow Broker",
+   "tr": "Shadow Broker"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85722",
+   "en": "Is this legal?",
+   "tr": "Bu yasal mı?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85726",
+   "en": "I don't buy it.",
+   "tr": "İnanmıyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|85731",
+   "en": "Who is he?",
+   "tr": "O kim?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105418",
+   "en": "The tale of how you survived the great tragedy on Akuze is truly remarkable. I am amazed each time I hear it.",
+   "tr": "Akuze'deki büyük trajediden nasıl sağ çıktığınızın hikâyesi gerçekten dikkat çekici. Her duyduğumda şaşırıyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105419",
+   "en": "No matter what you think of Saren, he's not stupid. He knows the Shadow Broker is a valuable ally.",
+   "tr": "Saren hakkında ne düşünürseniz düşünün, aptal değil. Shadow Broker'ın değerli bir müttefik olduğunu biliyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105420",
+   "en": "Turning on him doesn't make sense. Not unless something huge was at stake.",
+   "tr": "Ona sırt çevirmek mantıklı değil. Çok büyük bir şey tehlikede olmadıkça."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105421",
+   "en": "I don't know the details, but the Shadow Broker hired a freelancer to deal with it. A krogan mercenary.",
+   "tr": "Ayrıntıları bilmiyorum ama Shadow Broker bununla ilgilenmesi için serbest çalışan birini tuttu. Bir krogan paralı asker."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105422",
+   "en": "I just told you that the most famous Spectre in the galaxy betrayed the Shadow Broker. Quite a bargain, considering the price.",
+   "tr": "Az önce size galaksinin en ünlü Spectre'ının Shadow Broker'a ihanet ettiğini söyledim. Fiyatı düşünürsek epey bir kelepir."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105423",
+   "en": "Speak with the krogan if you want to learn more. I heard he was paying a visit to Citadel Security. If you hurry you might catch him before he leaves the Academy.",
+   "tr": "Daha fazlasını öğrenmek istiyorsanız krogan'la konuşun. Citadel Güvenliği'ni ziyaret ettiğini duydum. Acele ederseniz Akademi'den ayrılmadan yakalayabilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105424",
+   "en": "Yes. I believe he's the one. I heard he was paying a visit to Citadel Security. If you hurry you might catch him before he leaves the C-Sec Academy.",
+   "tr": "Evet. Sanırım o. Citadel Güvenliği'ni ziyaret ettiğini duydum. Acele ederseniz C-Sec Akademisi'nden ayrılmadan yakalayabilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105425",
+   "en": "I heard he was paying Citadel Security a visit. If you hurry you can probably catch him before he leaves the C-Sec Academy.",
+   "tr": "Citadel Güvenliği'ni ziyaret ettiğini duydum. Acele ederseniz C-Sec Akademisi'nden ayrılmadan muhtemelen yakalayabilirsiniz."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105426",
+   "en": "Very. However, I doubt the visit was entirely his choice. You'll need to speak with him if you want to know more.",
+   "tr": "Çok. Yine de ziyaretin tamamen onun seçimi olduğundan şüpheliyim. Daha fazlasını bilmek istiyorsanız onunla konuşmalısınız."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105427",
+   "en": "My pleasure, Commander.",
+   "tr": "Bana zevk, Komutan."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105428",
+   "en": "How can I be of assistance to you today, Earth-clan?",
+   "tr": "Bugün size nasıl yardımcı olabilirim, Dünya klanı?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105429",
+   "en": "The station is, without a doubt, the greatest wonder in the galaxy. It is a technological marvel. But its true splendor goes much deeper than the hull and engines.",
+   "tr": "İstasyon, şüphesiz, galaksinin en büyük harikası. Teknolojik bir mucize. Ama asıl ihtişamı gövde ve motorlardan çok daha derin."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105430",
+   "en": "From the Presidium to the wards, the entire station is a testament to the success of the Council. All the species of Citadel space together in a single strong community.",
+   "tr": "Presidium'dan Wards'a tüm istasyon Konsey'in başarısının kanıtı. Citadel uzayının tüm türleri tek güçlü toplulukta bir arada."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105431",
+   "en": "It's the political center of Citadel space. Eighty percent of all intelligent species in the known galaxy acknowledge the Council's authority on interstellar matters.",
+   "tr": "Burası Citadel uzayının siyasi merkezi. Bilinen galaksideki tüm zeki türlerin yüzde sekseni Konsey'in yıldızlararası konulardaki yetkisini tanıyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105432",
+   "en": "But only the most powerful and influential species have embassies here on the Presidium. This level of the station is reserved for the elite, Shepard. People like us.",
+   "tr": "Ama yalnızca en güçlü ve etkili türlerin Presidium'da büyükelçiliği var. İstasyonun bu katı seçkinlere ayrılmış, Shepard. Bizim gibi insanlara."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105433",
+   "en": "The cultural heart of the galaxy. They pulse with the lifeblood of millions of citizens from dozens of different species.",
+   "tr": "Galaksinin kültürel kalbi. Onlarca farklı türden milyonlarca vatandaşın can suyuyla atıyorlar."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105434",
+   "en": "You never know what you'll find down in the wards, Commander. It's always full of surprises. Fortunately, most of them are pleasant.",
+   "tr": "Wards'ta ne bulacağınızı asla bilemezsiniz, Komutan. Hep sürprizlerle dolu. Neyse ki çoğu hoş."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105435",
+   "en": "From time to time, I come across information I sell to the Shadow Broker. That's my only involvement. I like it that way.",
+   "tr": "Zaman zaman Shadow Broker'a sattığım bilgilere rastlıyorum. Tek ilgim bu. Böyle olmasını seviyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105436",
+   "en": "The more you know, the more dangerous the game becomes. I don't like danger, Commander. I'll leave that to you.",
+   "tr": "Ne kadar çok bilirsen oyun o kadar tehlikeli olur. Tehlikeden hoşlanmam, Komutan. Onu size bırakıyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105437",
+   "en": "It is a great honor to welcome the hero of the Blitz.",
+   "tr": "Blitz kahramanını ağırlamak büyük bir onur."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105438",
+   "en": "You were at Torfan, correct? You led the final assault against the enemy base, if memory serves.",
+   "tr": "Torfan'daydınız, doğru mu? Yanlış hatırlamıyorsam düşman üssüne son saldırıyı siz yönettiniz."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105439",
+   "en": "I am a financial advisor to many important clients here on the Citadel. When someone as important as yourself arrives on the station, I take notice.",
+   "tr": "Citadel'deki birçok önemli müşterimin finans danışmanıyım. Sizin kadar önemli biri istasyona geldiğinde fark ederim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105440",
+   "en": "I am a financial advisor to many important clients here on the Citadel. When someone as important as yourself arrives on the station, I take notice.",
+   "tr": "Citadel'deki birçok önemli müşterimin finans danışmanıyım. Sizin kadar önemli biri istasyona geldiğinde fark ederim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105442",
+   "en": "You're very blunt, Shepard. And you're right. But Wrex has already told you far more than I know about this. I am sorry, but I have nothing else to offer.",
+   "tr": "Çok açık sözlüsünüz, Shepard. Ve haklısınız. Ama Wrex size bu konuda benim bildiğimden çok daha fazlasını söyledi. Üzgünüm ama sunacak başka bir şeyim yok."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105443",
+   "en": "You're very blunt, Shepard. But you're right. I am an agent for the Shadow Broker. And I do know something about Saren.",
+   "tr": "Çok açık sözlüsünüz, Shepard. Ama haklısınız. Shadow Broker için çalışıyorum. Ve Saren hakkında bir şey biliyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105444",
+   "en": "Normally, this information would cost a small fortune. But these are exceptional circumstances. So I'm going to give it to you for free.",
+   "tr": "Normalde bu bilgi küçük bir servete mal olurdu. Ama bunlar olağanüstü koşullar. Bu yüzden size bedavaya vereceğim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105445",
+   "en": "Threats don't work on me, Commander. This information is worth a small fortune. But this is an unusual situation. So I'm going to let you have it for free.",
+   "tr": "Tehditler bana işlemez, Komutan. Bu bilgi küçük bir servet değerinde. Ama bu alışılmadık bir durum. Bu yüzden bedavaya vereceğim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105446",
+   "en": "What's the catch?",
+   "tr": "Tuzağı ne?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105447",
+   "en": "What's the catch?",
+   "tr": "Tuzağı ne?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105448",
+   "en": "What's the catch?",
+   "tr": "Tuzağı ne?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105449",
+   "en": "There is no catch. The Shadow Broker is quite upset with Saren right now. They used to do a lot of business. Until Saren turned on him.",
+   "tr": "Tuzak yok. Shadow Broker şu an Saren'e oldukça kızgın. Eskiden çok iş yapıyorlardı. Saren ona sırt çevirene dek."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105452",
+   "en": "I think I know him. His name's Wrex.",
+   "tr": "Sanırım tanıyorum. Adı Wrex."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105453",
+   "en": "How do I find him?",
+   "tr": "Onu nasıl bulurum?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105454",
+   "en": "Isn't it strange that a krogan would want to speak with C-Sec?",
+   "tr": "Bir krogan'ın C-Sec'le konuşmak istemesi tuhaf değil mi?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105455",
+   "en": "Thanks for the info.",
+   "tr": "Bilgi için teşekkürler."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105456",
+   "en": "What's it like living here on the Citadel?",
+   "tr": "Citadel'de yaşamak nasıl bir şey?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105458",
+   "en": "What makes the Presidium so special?",
+   "tr": "Presidium'u bu kadar özel yapan ne?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105460",
+   "en": "What are the wards like?",
+   "tr": "Wards nasıl bir yer?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105462",
+   "en": "I thought you'd know more about the man you work for.",
+   "tr": "Çalıştığın adam hakkında daha fazlasını bileceğini sanıyordum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105465",
+   "en": "I heard you work for the Shadow Broker. Do you have any information about Saren?",
+   "tr": "Shadow Broker için çalıştığını duydum. Saren hakkında bilgin var mı?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105466",
+   "en": "I hear your information can be expensive.",
+   "tr": "Bilgilerinin pahalı olabileceğini duydum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105468",
+   "en": "I need that information. Now.",
+   "tr": "O bilgiye ihtiyacım var. Şimdi."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105473",
+   "en": "That's what happens when you deal with a traitor like Saren.",
+   "tr": "Saren gibi bir hainle iş yapınca olan bu."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105474",
+   "en": "Saren betrayed him. Imagine that.",
+   "tr": "Saren ona ihanet etti. Şaşırtıcı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105477",
+   "en": "Saren's turned on a lot of people lately.",
+   "tr": "Saren son zamanlarda pek çok kişiye sırt çevirdi."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105478",
+   "en": "That's not much to go on.",
+   "tr": "Bu pek bir şey değil."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105480",
+   "en": "Have we met?",
+   "tr": "Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105481",
+   "en": "Have we met?",
+   "tr": "Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105482",
+   "en": "Have we met?",
+   "tr": "Tanışıyor muyuz?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105483",
+   "en": "I need your help.",
+   "tr": "Yardımına ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105484",
+   "en": "I need information.",
+   "tr": "Bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105486",
+   "en": "I need your help.",
+   "tr": "Yardımına ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105487",
+   "en": "I need information.",
+   "tr": "Bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105488",
+   "en": "I was told to talk to you.",
+   "tr": "Seninle konuşmam söylendi."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105489",
+   "en": "Can we make a deal?",
+   "tr": "Anlaşma yapabilir miyiz?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105490",
+   "en": "What's the cost?",
+   "tr": "Bedeli nedir?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105491",
+   "en": "Start talking.",
+   "tr": "Konuşmaya başla."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105497",
+   "en": "Serves him right.",
+   "tr": "Hak etti."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105498",
+   "en": "What a shock.",
+   "tr": "Ne şok."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105499",
+   "en": "He's not the only one.",
+   "tr": "Tek o değil."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105502",
+   "en": "Anything else?",
+   "tr": "Başka bir şey var mı?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105503",
+   "en": "Wrex?",
+   "tr": "Wrex?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105504",
+   "en": "Where is he?",
+   "tr": "Nerede o?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105506",
+   "en": "Why is he there?",
+   "tr": "Neden orada?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105507",
+   "en": "Let's go.",
+   "tr": "Gidelim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105508",
+   "en": "The Citadel",
+   "tr": "Citadel"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105510",
+   "en": "Tell me about the Presidium.",
+   "tr": "Bana Presidium'dan bahset."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105511",
+   "en": "Tell me about the wards.",
+   "tr": "Bana Wards'tan bahset."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|105514",
+   "en": "But you're his agent.",
+   "tr": "Ama sen onun ajanısın."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_banker_D|162657",
+   "en": "I'm sure there will be some type of catch.",
+   "tr": "Eminim bir tuzak vardır."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30865",
+   "en": "Ah, human. This one is greatly pleased to see you here in my decadent Emporium.",
+   "tr": "Ah, insan. Bu kişi sizi bu lüks Emporium'umda görmekten çok memnun."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30867",
+   "en": " Please take time to examine the fine goods it has for purchase, all of great worth.",
+   "tr": "Lütfen satın alınabilecek hepsi büyük değerde nefis mallarını incelemek için zaman ayırın."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30868",
+   "en": "Only the finest and most luxurious items that credits can buy.",
+   "tr": "Yalnızca kredinin satın alabileceği en seçkin ve lüks eşyalar."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30869",
+   "en": "This one is able to procure almost any item the human would desire. For a price, naturally.",
+   "tr": "Bu kişi insanın isteyebileceği hemen her eşyayı temin edebilir. Elbette bir bedel karşılığında."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30871",
+   "en": "Oh, this one is pleased to do so, human. You will not be disappointed.",
+   "tr": "Oh, bu kişi bunu yapmaktan memnun, insan. Hayal kırıklığına uğramazsınız."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30872",
+   "en": "For the same reason that humans are so inquisitive. It is part of our culture.",
+   "tr": "İnsanların bu kadar meraklı olmasıyla aynı nedenle. Kültürümüzün parçası."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30874",
+   "en": "Specifically, hanar only refer to themselves in the first person with family or intimates.",
+   "tr": "Özellikle hanar yalnızca aile ya da yakınlarıyla kendilerinden birinci tekil şahıs olarak söz eder."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30875",
+   "en": "Return soon. This one receives new shipments regularly.",
+   "tr": "Yakında dönün. Bu kişi düzenli olarak yeni sevkiyat alıyor."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30876",
+   "en": "Human Commander, it is pleasing to see you again. This one has received some outstanding new items since it last saw the other.",
+   "tr": "İnsan Komutan, sizi yeniden görmek hoş. Bu kişi sizi en son gördüğünden bu yana bazı olağanüstü yeni eşyalar aldı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30878",
+   "en": "Commander, it is good to see you again. Would you care to see some of its fantastic items today?",
+   "tr": "Komutan, sizi yeniden görmek güzel. Bugün fantastik eşyalarından bazılarını görmek ister misiniz?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30881",
+   "en": "What exactly do you sell?",
+   "tr": "Tam olarak ne satıyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30884",
+   "en": "I'd like to see these rare and wonderful items.",
+   "tr": "Şu nadir ve harika eşyaları görmek isterim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30885",
+   "en": "I think I should be going.",
+   "tr": "Sanırım gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30886",
+   "en": "Show me your items.",
+   "tr": "Eşyalarını göster."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30887",
+   "en": "Why do you refer to yourself as \"this one\" and \"it\"?",
+   "tr": "Neden kendinden \"bu kişi\" ve \"o\" olarak söz ediyorsun?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|30891",
+   "en": "I think I'll be going.",
+   "tr": "Sanırım gideyim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|46613",
+   "en": "Goods",
+   "tr": "Mallar"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|46614",
+   "en": "I'd like to buy something.",
+   "tr": "Bir şey satın almak istiyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|46615",
+   "en": "Your speech",
+   "tr": "Konuşma tarzın"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|46616",
+   "en": "No, thanks.",
+   "tr": "Hayır, sağ olun."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|46619",
+   "en": "Let's see what you have.",
+   "tr": "Bakalım neyin var."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|46620",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|97087",
+   "en": "Human Commander, this one has received some magnificent new items since it last saw the other.",
+   "tr": "İnsan Komutan, bu kişi sizi en son gördüğünden bu yana bazı muhteşem yeni eşyalar aldı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|97090",
+   "en": "Human Commander. This one has received some fabulous new items since it last saw the other.",
+   "tr": "İnsan Komutan. Bu kişi sizi en son gördüğünden bu yana bazı efsane yeni eşyalar aldı."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104475",
+   "en": "This one's face name is Delanynder, though many in this place simply refer to it as Delan.",
+   "tr": "Bu kişinin yüz adı Delanynder ama buradaki çoğu kişi ona kısaca Delan der."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104476",
+   "en": "And we rarely do so with other species. It is just our way.",
+   "tr": "Ve diğer türlerle nadiren böyle yapıyoruz. Bizim yolumuz bu."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104477",
+   "en": "A shop. Many wonderful items for sale.",
+   "tr": "Bir mağaza. Satılık çok sayıda harika eşya."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104478",
+   "en": "As you wish. Do return when you are able.",
+   "tr": "Dilediğiniz gibi. Mümkün olunca geri dönün."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104479",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104482",
+   "en": "What is that?",
+   "tr": "O ne?"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104484",
+   "en": "I should be going.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104485",
+   "en": "Personal question",
+   "tr": "Kişisel soru"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104486",
+   "en": "Emporium",
+   "tr": "Emporium"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|104487",
+   "en": "So long.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|173705",
+   "en": "[View Armor]",
+   "tr": "[Zırhı Gör]"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|173706",
+   "en": "[View Upgrades]",
+   "tr": "[Yükseltmeleri Gör]"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|173707",
+   "en": "[View Items]",
+   "tr": "[Eşyaları Gör]"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|173708",
+   "en": "[View Non-human Armors]",
+   "tr": "[İnsan Dışı Zırhları Gör]"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|173709",
+   "en": "[View Upgrades]",
+   "tr": "[Yükseltmeleri Gör]"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta20_emporium_shopkeep_D|173710",
+   "en": "[View Standard Items]",
+   "tr": "[Standart Eşyaları Gör]"
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta60_trig_ai_conv3_D|136929",
+   "en": "This appears to be another relay. I believe the receiver for the new signal is located somewhere on the Presidium.",
+   "tr": "Bu başka bir röle gibi. Yeni sinyalin alıcısının Presidium'da bir yerde olduğuna inanıyorum."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta60_trig_ai_conv3_D|136930",
+   "en": "Looks like another relay. As best I can tell, the receiver for the new signal is somewhere on the Presidium.",
+   "tr": "Başka bir röle gibi. Anlayabildiğim kadarıyla yeni sinyalin alıcısı Presidium'da bir yerde."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta60_trig_ai_conv3_D|136931",
+   "en": "Another relay! Whoever it is, they're somewhere on the Presidium.",
+   "tr": "Bir röle daha! Her kimse Presidium'da bir yerde."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta60_trig_ai_conv3_D|136932",
+   "en": "Another relay! Whoever it is, they're somewhere on the Presidium.",
+   "tr": "Bir röle daha! Her kimse Presidium'da bir yerde."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta60_trig_ai_conv3_D|136933",
+   "en": "Another relay! Whoever it is, they're somewhere on the Presidium.",
+   "tr": "Bir röle daha! Her kimse Presidium'da bir yerde."
+  },
+  {
+   "key": "BIOA_STA20_04A_DSG_LOC|sta60_trig_ai_conv3_D|136934",
+   "en": "Another relay. The new signal is aimed at the Presidium.",
+   "tr": "Başka bir röle. Yeni sinyal Presidium'a yönelik."
+  }
+ ]
+}

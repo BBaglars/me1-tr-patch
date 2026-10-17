@@ -1,0 +1,1810 @@
+{
+ "meta": {
+  "package": "BIOA_NOR10_12tali_DSG_LOC_INT.pcc",
+  "stem": "BIOA_NOR10_12tali_DSG_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|126235",
+   "en": "We're fugitives on the run. Very exciting, Shepard.",
+   "tr": "Kaçak ve kovalanıyoruz. Çok heyecan verici, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127848",
+   "en": "Your ship's amazing, Shepard. I've never seen a drive core like this before. I can't believe you were able to fit it into a ship this small.",
+   "tr": "Geminiz harika, Shepard. Daha önce hiç böyle bir sürücü çekirdeği görmedim. Bu kadar küçük bir gemiye sığdırabilmenize inanamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127849",
+   "en": "Oh. Hello, Shepard.",
+   "tr": "Oh. Merhaba, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127850",
+   "en": "Shepard. I'm glad you're here.",
+   "tr": "Shepard. Burada olmana sevindim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127851",
+   "en": "It feels like we're getting near the end, doesn't it, Shepard? With Saren, I mean.",
+   "tr": "Sona yaklaşıyoruz gibi hissediyorum, değil mi, Shepard? Yani Saren konusunda."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127853",
+   "en": "Hey, Shepard. You need something?",
+   "tr": "Hey, Shepard. Bir şeye mi ihtiyacın var?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127856",
+   "en": "I could get used to living like this.",
+   "tr": "Böyle yaşamaya alışabilirim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127857",
+   "en": "I love this place -- the crowds, the action. It's great!",
+   "tr": "Burayı seviyorum, kalabalıklar, aksiyon. Harika!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127859",
+   "en": "Why would anyone want to live here?",
+   "tr": "Biri neden burada yaşamak ister?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127860",
+   "en": "If my people found an uninhabited world like this, they'd just keep on looking.",
+   "tr": "Halkım böyle ıssız bir dünya bulsa aramaya devam ederdi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127862",
+   "en": "I've never seen snow before. Can't say I'm impressed.",
+   "tr": "Daha önce hiç kar görmedim. Etkilendiğim söylenemez."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127864",
+   "en": "I don't like it here. Too muggy.",
+   "tr": "Burayı sevmedim. Fazla boğucu."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127866",
+   "en": "This place gives me the creeps.",
+   "tr": "Burası beni ürpertiyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127868",
+   "en": "Saren's got to be close now!",
+   "tr": "Saren artık yakın olmalı!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127870",
+   "en": "I'm here, Shepard.",
+   "tr": "Buradayım, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127871",
+   "en": "Ready when you are.",
+   "tr": "Sen hazır olduğunda hazırım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127872",
+   "en": "With you all the way.",
+   "tr": "Sonuna kadar seninleyim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127873",
+   "en": "I want to know more about the Pilgrimage.",
+   "tr": "Hac hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127874",
+   "en": "Tell me about your people.",
+   "tr": "Bana halkından bahset."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127875",
+   "en": "I want to know more about the geth.",
+   "tr": "Geth hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127876",
+   "en": "I should go.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127885",
+   "en": "Pilgrimage",
+   "tr": "Hac"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127886",
+   "en": "Quarians",
+   "tr": "Quarian'lar"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127887",
+   "en": "Geth",
+   "tr": "Geth"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|127888",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129302",
+   "en": "I wonder what the Council would do to us if we got caught?",
+   "tr": "Yakalanırsak Konsey bize ne yapar acaba?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129303",
+   "en": "See you later.",
+   "tr": "Sonra görüşürüz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129304",
+   "en": "I'm starting to understand why you humans have been so successful. I had no idea Alliance vessels were so advanced!",
+   "tr": "Siz insanların neden bu kadar başarılı olduğunu anlamaya başlıyorum. İttifak gemilerinin bu kadar gelişmiş olduğunu bilmiyordum!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129305",
+   "en": "A month ago, I was patching a makeshift fuel line into a converted tug ship in the flotilla. Now I'm sitting on board one of the most advanced vessels in Citadel space.",
+   "tr": "Bir ay önce filodaki dönüştürülmüş bir çekici gemiye derme çatma yakıt hattı yamıyordum. Şimdi Citadel uzayının en gelişmiş gemilerinden birinde oturuyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129306",
+   "en": "I have to thank you again for bringing me along. Traveling on a vessel like this is a dream come true for me.",
+   "tr": "Beni getirdiğin için bir kez daha teşekkür etmeliyim. Böyle bir gemide seyahat etmek benim için bir rüyanın gerçekleşmesi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129307",
+   "en": "We're on the same side here. My people have more reason to hate the geth than anyone, remember?",
+   "tr": "Burada aynı taraftayız. Halkımın geth'ten nefret etmek için herkesten fazla nedeni var, unuttun mu?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129308",
+   "en": "But you can't blame me for being a little excited. I never dreamed I'd get a chance to travel on a ship as advanced as the Normandy.",
+   "tr": "Ama biraz heyecanlanmamı suçlayamazsın. Normandy kadar gelişmiş bir gemide yolculuk etme şansım olacağını hiç hayal etmemiştim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129309",
+   "en": "It comes with being a quarian. The Migrant Fleet is the key to the survival of my people. Ships are our most valuable resource.",
+   "tr": "Quarian olmanın gereği. Göçmen Filo halkımın hayatta kalmasının anahtarı. Gemiler en değerli kaynağımız."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129310",
+   "en": "But we don't have anything like this. We make do with cast-offs and second-hand equipment. We just try to keep them running for as long as we can.",
+   "tr": "Ama bizde böyle bir şey yok. Atık ve ikinci el donanımla idare ediyoruz. Sadece mümkün olduğunca uzun süre çalışır tutmaya çalışıyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129311",
+   "en": "Some of the Fleet's larger vessels date all the way back to our original flight from the geth.",
+   "tr": "Filonun bazı büyük gemileri geth'ten ilk kaçışımıza kadar uzanıyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129312",
+   "en": "They're constantly being repaired, modified, and refitted. They aren't pretty, but they work. Mostly.",
+   "tr": "Sürekli onarılıyor, değiştiriliyor ve yeniden donatılıyor. Güzel değiller ama çalışıyorlar. Çoğunlukla."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129313",
+   "en": "We've tried to make ourselves as independent as possible on the flotilla. Grow our own food, mine and process our own fuel.",
+   "tr": "Filoda mümkün olduğunca bağımsız olmaya çalıştık. Kendi yiyeceğimizi yetiştiriyoruz, kendi yakıtımızı çıkarıp işliyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129314",
+   "en": "But some things we just can't make on our own. A patch to maintain the hull integrity requires raw materials we just don't have. That's why our Pilgrimages are so important.",
+   "tr": "Ama bazı şeyleri kendimiz yapamıyoruz. Gövde bütünlüğünü korumak için bir yama bile elimizde olmayan hammadde gerektiriyor. Hacımızın bu kadar önemli olmasının nedeni bu."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129315",
+   "en": "No problem. What do you want to talk about?",
+   "tr": "Sorun değil. Ne hakkında konuşmak istiyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129316",
+   "en": "I know why I'm here. I'll do whatever I can to help you stop Saren and drive his geth armies back beyond the Veil.",
+   "tr": "Neden burada olduğumu biliyorum. Saren'i durdurmana ve geth ordularını Veil'in ötesine geri sürmene yardım etmek için elimden geleni yapacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129317",
+   "en": "Never mind. It's nothing. I'll be fine.",
+   "tr": "Boş ver. Önemli değil. İyi olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129318",
+   "en": "I don't know. Your ship is amazing, and your crew's been really great to me. Especially your chief engineer. But I just sort of feel... out of place.",
+   "tr": "Bilmiyorum. Geminiz harika ve mürettebatınız bana gerçekten iyi davrandı. Özellikle baş mühendisiniz. Ama kendimi bir nevi... yersiz hissediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129319",
+   "en": "The Normandy runs so smooth it feels like we're not even moving. And the engines are so quiet. How do you sleep at night?",
+   "tr": "Normandy öyle düzgün çalışıyor ki hareket etmiyormuşuz gibi. Ve motorlar çok sessiz. Geceleri nasıl uyuyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129320",
+   "en": "Back on the flotilla, the last thing you want to hear is silence. It means an engine's died or an air filter's shut down.",
+   "tr": "Filoda duymak isteyeceğin son şey sessizliktir. Bir motorun ölmesi ya da hava filtresinin kapanması demektir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129321",
+   "en": "I guess you don't have to worry about that here, but old habits die hard.",
+   "tr": "Sanırım burada bunun için endişelenmenize gerek yok ama eski alışkanlıklar kolay ölmez."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129322",
+   "en": "But it's more than just the silence. This ship feels so empty; it's like half the crew is missing.",
+   "tr": "Ama bu sessizlikten fazlası. Bu gemi çok boş hissettiriyor; mürettebatın yarısı eksik gibi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129323",
+   "en": "Back home, I couldn't wait to go on my Pilgrimage. I couldn't wait to get away from the crowds. Now that I'm out here, I kind of miss them.",
+   "tr": "Evde Hac'ıma çıkmak için sabırsızlanıyordum. Kalabalıklardan kurtulmak için sabırsızlanıyordum. Şimdi burada olunca onları biraz özlüyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129324",
+   "en": "Don't worry. Like I said, it's nothing. I'll be there when you need me.",
+   "tr": "Merak etme. Dediğim gibi, önemli değil. İhtiyacın olduğunda orada olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129327",
+   "en": "The Normandy's a prototype. Cutting edge technology.",
+   "tr": "Normandy bir prototip. Son teknoloji."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129329",
+   "en": "I don't like the idea of aliens studying the architecture of Alliance ships.",
+   "tr": "Uzaylıların İttifak gemilerinin mimarisini incelemesi fikrinden hoşlanmıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129331",
+   "en": "I had no idea you found ship technology so interesting.",
+   "tr": "Gemi teknolojisini bu kadar ilginç bulduğunu bilmiyordum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129334",
+   "en": "I can't believe your fleet's still using ships that are three centuries old.",
+   "tr": "Filonuzun hâlâ üç yüzyıllık gemiler kullandığına inanamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129337",
+   "en": "I want to talk about something else.",
+   "tr": "Başka bir şeyden konuşmak istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129338",
+   "en": "I didn't bring you along to admire my ship.",
+   "tr": "Seni gemime hayran olasın diye getirmedim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129339",
+   "en": "Are you okay?",
+   "tr": "İyi misin?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129340",
+   "en": "What's your problem?",
+   "tr": "Sorunun ne?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129341",
+   "en": "I didn't mean to snap at you. What's wrong?",
+   "tr": "Sana ters çıkmak istemedim. Sorun ne?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129343",
+   "en": "The silence wakes you up?",
+   "tr": "Sessizlik seni mi uyandırıyor?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129346",
+   "en": "I find it rather peaceful. Don't worry, you'll get used to it.",
+   "tr": "Ben oldukça huzurlu buluyorum. Merak etme, alışırsın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129347",
+   "en": "You'll get used to it.",
+   "tr": "Alışırsın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129349",
+   "en": "Sometimes we don't appreciate what we have until it's gone.",
+   "tr": "Bazen elimizdekini kaybedene dek takdir etmiyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129350",
+   "en": "I don't have time to deal with your personal problems.",
+   "tr": "Kişisel sorunlarınla ilgilenecek vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129353",
+   "en": "This ship's special.",
+   "tr": "Bu gemi özel."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129354",
+   "en": "Normally they're not.",
+   "tr": "Normalde değiller."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129355",
+   "en": "Gathering information on us?",
+   "tr": "Bizimle ilgili bilgi mi topluyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129358",
+   "en": "You're into ships?",
+   "tr": "Gemilerden hoşlanıyor musun?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129359",
+   "en": "That's not why you're here.",
+   "tr": "Buraya bunun için gelmedin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129362",
+   "en": "That was 300 years ago.",
+   "tr": "Bu 300 yıl önceydi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129363",
+   "en": "Let's change topics.",
+   "tr": "Konuyu değiştirelim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129366",
+   "en": "You sound down.",
+   "tr": "Moralin bozuk gibi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129367",
+   "en": "What's wrong?",
+   "tr": "Sorun ne?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129368",
+   "en": "Like I need this.",
+   "tr": "Buna ihtiyacım varmış gibi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129369",
+   "en": "I'm sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129370",
+   "en": "Good.",
+   "tr": "İyi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129372",
+   "en": "It's too quiet to sleep?",
+   "tr": "Uyumak için fazla mı sessiz?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129373",
+   "en": "I like the silence.",
+   "tr": "Sessizliği seviyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129374",
+   "en": "It's not so bad.",
+   "tr": "O kadar kötü değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129375",
+   "en": "I manage.",
+   "tr": "Başa çıkıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129379",
+   "en": "You're homesick.",
+   "tr": "Evini özlüyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129380",
+   "en": "Don't worry, Shepard. I know what's at stake. If we don't stop Saren, I won't have a home to go back to. I'll be ready when you need me.",
+   "tr": "Merak etme, Shepard. Neyin tehlikede olduğunu biliyorum. Saren'i durdurmazsak dönecek evim kalmayacak. İhtiyacın olduğunda hazır olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129381",
+   "en": "Sounds like the Pilgrimage isn't just about finding resources for the fleet. Maybe it's about teaching you to appreciate your people and culture.",
+   "tr": "Hac yalnızca filo için kaynak bulmakla ilgili değil gibi. Belki halkını ve kültürünü takdir etmeyi öğretmekle ilgilidir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129382",
+   "en": "I need my crew to be in top form. I can't have you daydreaming about going home.",
+   "tr": "Mürettebatımın en iyi formda olmasına ihtiyacım var. Eve dönmeyi hayal etmene izin veremem."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129383",
+   "en": "Maybe that's the point.",
+   "tr": "Belki de amaç bu."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129384",
+   "en": "Stay focused.",
+   "tr": "Odaklan."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129397",
+   "en": "Checking up on me, Shepard? Don't worry; I'm still here. But as soon as we stop Saren, I'm gone. My Pilgrimage can't wait forever.",
+   "tr": "Beni mi kontrol ediyorsun, Shepard? Merak etme; hâlâ buradayım. Ama Saren'i durdurur durdurmaz giderim. Hacım sonsuza dek bekleyemez."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129398",
+   "en": "Shepard, I need to talk to you. It's important.",
+   "tr": "Shepard, seninle konuşmam gerek. Önemli."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129399",
+   "en": "You know the data you took from those geth control nodes? The information you uploaded to Alliance control? I want a copy of it.",
+   "tr": "Şu geth kontrol düğümlerinden aldığın veriyi biliyor musun? İttifak kontrolüne yüklediğin bilgiyi? Bir kopyasını istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129400",
+   "en": "Please! You don't understand what this could mean to my people!",
+   "tr": "Lütfen! Bunun halkım için ne anlama gelebileceğini anlamıyorsun!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129401",
+   "en": "Those files have information that could be vital to our efforts to understand the geth. It could be the key to helping us reclaim our homeworld!",
+   "tr": "O dosyalar geth'i anlama çabalarımız için hayati olabilecek bilgi içeriyor. Ana dünyamızı geri almamıza yardım etmenin anahtarı olabilir!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129402",
+   "en": "Not right away. I'll stay with you as long as it takes to stop Saren. But my people need this!",
+   "tr": "Hemen değil. Saren'i durdurmak ne kadar sürerse seninle kalacağım. Ama halkımın buna ihtiyacı var!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129403",
+   "en": "Not right away. We will need to study it. It could take years. But it will give us new insight into how the geth have changed and evolved over the past centuries.",
+   "tr": "Hemen değil. İncelememiz gerekecek. Yıllar sürebilir. Ama bize geth'in son yüzyıllarda nasıl değiştiğini ve evrimleştiğini anlamamız için yeni bir bakış açısı sağlayacak."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129404",
+   "en": "My people--I--owe you a great debt. One I can never repay.",
+   "tr": "Halkım, ben, sana büyük bir borcumuz var. Asla ödeyemeyeceğim bir borç."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129405",
+   "en": "The only thing I can offer in return is what you already have: my solemn promise to stay with you until Saren and his geth armies are defeated.",
+   "tr": "Karşılığında sunabileceğim tek şey zaten sahip olduğun şey: Saren ve geth ordularının yenilgisine dek seninle kalma kutsal sözüm."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129406",
+   "en": "Thank you, Shepard.",
+   "tr": "Teşekkürler, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129407",
+   "en": "Maybe even decades. But it's worth the time. This information will give us new insight into how the geth have changed and evolved over the past centuries.",
+   "tr": "Belki onlarca yıl bile. Ama zamana değer. Bu bilgi bize geth'in son yüzyıllarda nasıl değiştiğini ve evrimleştiğini anlamak için yeni bir bakış açısı verecek."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129408",
+   "en": "Right. I'm sure the Alliance will have no problem turning it over to my people. Governments are always eager to work with the Migrant Fleet.",
+   "tr": "Doğru. Eminim İttifak bunu halkıma devretmekte hiç sorun yaşamaz. Hükümetler Göçmen Filo'yla çalışmaya hep hevesli."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129409",
+   "en": "You're looking out for your own people. I understand that. I just wish it wasn't at my people's expense.",
+   "tr": "Kendi halkını kolluyorsun. Bunu anlıyorum. Sadece keşke bu halkımın zararına olmasaydı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129410",
+   "en": "Don't worry. I'll still do everything I can to help you stop Saren. But as soon as this mission is over, I must resume my Pilgrimage.",
+   "tr": "Merak etme. Saren'i durdurmana yardım etmek için yine de elimden geleni yapacağım. Ama bu görev biter bitmez Hacıma devam etmeliyim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129411",
+   "en": "You don't know my father. Stealing ships is a capital offense among my people. He'd probably want to execute us himself.",
+   "tr": "Babamı tanımıyorsun. Gemi çalmak halkım arasında idam suçu. Muhtemelen bizi kendi elleriyle idam etmek isterdi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129412",
+   "en": "I hope you're right.",
+   "tr": "Umarım haklısın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129413",
+   "en": "Good point. Was there something else you wanted to talk about?",
+   "tr": "İyi nokta. Konuşmak istediğin başka bir şey var mıydı?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129414",
+   "en": "That doesn't make me feel any better. Let's talk about something else.",
+   "tr": "Bu beni daha iyi hissettirmiyor. Başka bir şeyden konuşalım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129415",
+   "en": "That's true. I'm starting to wonder if that's what the Pilgrimage is really about. It's given me a whole new perspective on my people and our culture.",
+   "tr": "Doğru. Hacın gerçekten bununla ilgili olup olmadığını merak etmeye başladım. Bana halkıma ve kültürüme tamamen yeni bir bakış açısı kazandırdı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129416",
+   "en": "You're probably right. We quarians spend our whole lives traveling, but we really never leave home. The Pilgrimage has given me a whole new perspective on our culture.",
+   "tr": "Muhtemelen haklısın. Biz quarian'lar tüm hayatımızı seyahat ederek geçiriyoruz ama aslında hiç evimizden ayrılmıyoruz. Hac bana kültürümüze tamamen yeni bir bakış açısı kazandırdı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129417",
+   "en": "You know, there's always a few who go on their Pilgrimages and never return. I always assumed something bad happened to them, but maybe they just wanted a different life.",
+   "tr": "Biliyor musun, her zaman Hacına çıkıp geri dönmeyen birkaç kişi vardır. Hep onlara kötü bir şey olduğunu varsaydım ama belki sadece farklı bir hayat istediler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129418",
+   "en": "I could never abandon my people, Shepard. I will go back eventually. But we have to stop Saren first. Otherwise, I might not have a home to go back to.",
+   "tr": "Halkımı asla terk edemem, Shepard. Sonunda geri döneceğim. Ama önce Saren'i durdurmalıyız. Yoksa dönecek evim kalmayabilir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129419",
+   "en": "I'm sleeping much better now. I guess I'm getting used to how quiet your ship is.",
+   "tr": "Artık çok daha iyi uyuyorum. Sanırım geminin sessizliğine alışıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129420",
+   "en": "I think I was a little homesick before. But I'm feeling much better now.",
+   "tr": "Daha önce biraz evimi özlemiştim sanırım. Ama şimdi çok daha iyi hissediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129421",
+   "en": "I still think a lot about my Pilgrimage, though. I know Saren's our top priority. But with all the worlds we go to, I was hoping to find something to bring back to the flotilla.",
+   "tr": "Yine de Hacım hakkında çok düşünüyorum. Saren'in önceliğimiz olduğunu biliyorum. Ama gittiğimiz tüm dünyalarla filoya getirecek bir şey bulmayı umuyordum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129422",
+   "en": "Yes, but it cannot just be some derelict ship my people can use for salvage. It has to be more than that. There's a lot expected of me.",
+   "tr": "Evet, ama halkımın kurtarma için kullanabileceği terk edilmiş bir gemi olmamalı. Bundan fazlası olmalı. Benden çok şey bekleniyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129423",
+   "en": "I won't. You have my word on that. But I'm not going to just give up on my search. The Fleet needs the resources we find on our Pilgrimages.",
+   "tr": "Etmeyeceğim. Sana söz veriyorum. Ama aramamdan vazgeçmeyeceğim. Filo, Hac'larımızda bulduğumuz kaynaklara ihtiyaç duyuyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129424",
+   "en": "Usually, people bring back something like a derelict ship we can use for salvage. But I need something bigger! There's a lot expected of me.",
+   "tr": "Genelde insanlar kurtarma için kullanabileceğimiz terk edilmiş bir gemi gibi bir şey getirir. Ama benim daha büyük bir şeye ihtiyacım var! Benden çok şey bekleniyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129425",
+   "en": "It's my father. He's the senior member of the Admiralty Board. He's one of only five people who can overrule the decisions of the Conclave for the good of the Migrant Fleet.",
+   "tr": "Babam yüzünden. O, Amirallik Kurulu'nun kıdemli üyesi. Göçmen Filo'nun iyiliği için Konklav'ın kararlarını geçersiz kılabilecek yalnızca beş kişiden biri."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129426",
+   "en": "My father is responsible for the lives of seventeen million people -- our entire race is in his hands. And I'm his only child.",
+   "tr": "Babam on yedi milyon insanın hayatından sorumlu; tüm ırkımız onun elinde. Ve ben onun tek çocuğuyum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129427",
+   "en": "No, it doesn't work that way. My father's position isn't hereditary. I'll probably never serve on the Admiralty Board myself.",
+   "tr": "Hayır, öyle işlemiyor. Babamın konumu kalıtsal değil. Muhtemelen ben asla Amirallik Kurulu'nda görev yapmayacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129428",
+   "en": "Officially, I'm just the same as any other citizen. But it doesn't work that way in practice. People have always treated me differently because of who my father is.",
+   "tr": "Resmî olarak her vatandaş gibiyim. Ama pratikte öyle işlemiyor. İnsanlar babam yüzünden bana hep farklı davrandı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129429",
+   "en": "I probably had it easier than most growing up. But it's not all good. People like my father have enemies. And they're not above using me to get to him.",
+   "tr": "Büyürken muhtemelen çoğundan daha kolay yaşadım. Ama hepsi iyi değil. Babam gibi insanların düşmanları var. Ve ona ulaşmak için beni kullanmaktan çekinmezler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129430",
+   "en": "I know that! I wasn't saying...",
+   "tr": "Biliyorum! Demek istemedim..."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129431",
+   "en": "See? This is why I don't tell people about my father. It always sounds like I'm bragging. Worse, it gives people this impression that I can never live up to!",
+   "tr": "Gördün mü? İşte bu yüzden babamdan kimseye bahsetmiyorum. Hep övünüyormuşum gibi geliyor. Daha kötüsü, insanlara asla ulaşamayacağım bir izlenim veriyor!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129432",
+   "en": "My people place a high value on family and ancestry. There's an unspoken expectation that I'll live up to my father's example.",
+   "tr": "Halkım aileye ve soya yüksek değer verir. Babamın örneğine layık olacağıma dair söylenmemiş bir beklenti var."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129433",
+   "en": "I guess I'm just tired of people judging me because of who my father is.",
+   "tr": "Sanırım babamın kim olduğu yüzünden yargılanmaktan yoruldum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129434",
+   "en": "Everyone's waiting for me to do something great on my Pilgrimage. Something that will forever change our lives for the better.",
+   "tr": "Herkes Hacımda harika bir şey yapmamı bekliyor. Hayatlarımızı sonsuza dek daha iyi yönde değiştirecek bir şey."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129435",
+   "en": "If I don't, it's like I failed. And that reflects badly on both me and my father.",
+   "tr": "Yapmazsam başarısız olmuş gibi olurum. Ve bu hem beni hem babamı kötü gösterir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129436",
+   "en": "Yes... I know. But you have to understand quarian culture. We're a very insular society. The events beyond the flotilla don't much matter to the average citizen.",
+   "tr": "Evet... biliyorum. Ama quarian kültürünü anlamalısın. Çok içe kapanık bir toplumuz. Filonun ötesindeki olaylar ortalama vatandaş için pek önemli değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129437",
+   "en": "Our greatest dream is that one day, we'll return to our homeworld and drive out the geth. But even if we stop Saren, that's not going to happen.",
+   "tr": "En büyük hayalimiz bir gün ana dünyamıza dönüp geth'i kovmak. Ama Saren'i durdursak bile bu olmayacak."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129438",
+   "en": "There's still millions of geth behind the Veil. Until they're gone, our exile will continue.",
+   "tr": "Veil'in ardında hâlâ milyonlarca geth var. Onlar gitmedikçe sürgünümüz sürecek."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129439",
+   "en": "Something that would help us better understand the geth. They've changed significantly since the exile; they've continued to evolve.",
+   "tr": "Geth'i daha iyi anlamamıza yardım edecek bir şey. Sürgünden bu yana önemli ölçüde değiştiler; evrimleşmeye devam ettiler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129440",
+   "en": "We've done our best to study them, but it's not easy. They're very reclusive. Until recently, they never went beyond the borders of the Veil.",
+   "tr": "Onları incelemek için elimizden geleni yaptık ama kolay değil. Çok münzeviler. Yakın zamana dek Veil sınırlarının ötesine geçmediler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129441",
+   "en": "And all the geth we run into now are under Saren's control. We'd need to find geth operating on their own. Independently.",
+   "tr": "Ve şimdi karşılaştığımız tüm geth Saren'in kontrolünde. Kendi başlarına, bağımsız çalışan geth bulmalıyız."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129442",
+   "en": "But I don't want this to get in the way of our mission, Shepard. First, we stop Saren. Then I'll worry about my own problems.",
+   "tr": "Ama bunun görevimizin önüne geçmesini istemiyorum, Shepard. Önce Saren'i durduracağız. Sonra kendi sorunlarım için endişelenirim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129443",
+   "en": "Understood, Shepard.",
+   "tr": "Anlaşıldı, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129444",
+   "en": "You'll find the Conduit before he does. I know you will. You have to.",
+   "tr": "Conduit'i ondan önce bulacaksın. Biliyorum. Bulmak zorundasın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129445",
+   "en": "And after this is all over, when my Pilgrimage ends and I go back to my own people, I'll be proud to say I was a part of it.",
+   "tr": "Ve bunların hepsi bittiğinde, Hacım sona erdiğinde ve halkıma döndüğümde bir parçası olmaktan gurur duyacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129446",
+   "en": "You've been good to me. A lot of people treat quarians like second-class citizens. They just want us to go back to our fleet and disappear.",
+   "tr": "Bana iyi davrandın. Pek çok insan quarian'lara ikinci sınıf vatandaş muamelesi yapar. Sadece filomuza dönüp ortadan kaybolmamızı isterler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129447",
+   "en": "But you've treated me just like everyone else on your crew. Like an equal. That means a lot. And it says something about you.",
+   "tr": "Ama sen bana mürettebatının diğer herkesi gibi davrandın. Eşit biri gibi. Bu çok şey ifade ediyor. Ve senin hakkında bir şey söylüyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129448",
+   "en": "Whatever happens, I just want to say thank you for that.",
+   "tr": "Ne olursa olsun, bunun için sadece teşekkür etmek istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129449",
+   "en": "Yeah, I get that feeling, too. But I know you can handle whatever he throws at us. And I'll be right here if you need my help.",
+   "tr": "Evet, ben de aynı hissi alıyorum. Ama bize ne yaparsa yapsın başa çıkabileceğini biliyorum. Yardımıma ihtiyacın olursa tam burada olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129450",
+   "en": "But you're the only one doing anything about it. You and your crew.",
+   "tr": "Ama bununla ilgili bir şey yapan tek kişi sensin. Sen ve mürettebatın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129451",
+   "en": "You took me on board and made me feel like I belonged. Not too many people would do that with a quarian.",
+   "tr": "Beni gemiye alıp bana ait olduğumu hissettirdin. Pek az insan bir quarian'a bunu yapar."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129452",
+   "en": "That won't happen for a while yet. I'll be right here any time you need me.",
+   "tr": "Daha bir süre olmayacak. İhtiyacın olduğunda tam burada olacağım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129453",
+   "en": "Don't worry. You can always count on me.",
+   "tr": "Merak etme. Her zaman bana güvenebilirsin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129454",
+   "en": "Understood. I just had to get that out there. And I'm still right here if you need me.",
+   "tr": "Anlaşıldı. Sadece bunu söylemem gerekiyordu. Ve ihtiyacın olursa hâlâ buradayım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129455",
+   "en": "When my people reach maturity, we leave our birth ships and seek acceptance with a new crew. It's necessary to maintain genetic diversity among the fleet.",
+   "tr": "Halkım olgunluğa ulaştığında doğum gemilerimizi bırakır ve yeni bir mürettebatla kabul görmeye çalışır. Filo içinde genetik çeşitliliği korumak için gerekli."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129456",
+   "en": "Our lives aren't easy. Resources are scarce and we are constantly on the move. Everything we do must in some way contribute to the continuation of the Migrant Fleet.",
+   "tr": "Hayatlarımız kolay değil. Kaynaklar kıt ve sürekli hareket hâlindeyiz. Yaptığımız her şey bir şekilde Göçmen Filo'nun sürdürülmesine katkıda bulunmalı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129459",
+   "en": "I doubt I can tell you anything you don't already know. It's been almost three centuries since they drove my people into exile.",
+   "tr": "Sana bilmediğin bir şey söyleyebileceğimi sanmıyorum. Halkımı sürgüne sürmelerinden bu yana neredeyse üç yüzyıl geçti."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129460",
+   "en": "All I know is the story of their origins: what they were when we created them, and how they turned on us.",
+   "tr": "Bildiğim tek şey kökenlerinin hikâyesi: onları yarattığımızda ne olduklarını ve bize nasıl döndüklerini."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129461",
+   "en": "The geth were originally created to serve as an automated manual labor force. Initially, their intelligence was as limited as any VI.",
+   "tr": "Geth aslen otomatik bir manuel işgücü olarak hizmet etmek üzere yaratıldı. Başlangıçta zekâları herhangi bir VI kadar sınırlıydı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129462",
+   "en": "Like what?",
+   "tr": "Mesela?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129463",
+   "en": "It wasn't easy growing up as the daughter of one of the Admiralty. Even before he joined the Board, he was a prominent figure. People looked to him for leadership. ",
+   "tr": "Amirallik üyelerinden birinin kızı olarak büyümek kolay değildi. Kurula katılmadan önce bile tanınmış bir figürdü. İnsanlar liderlik için ona bakardı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129467",
+   "en": "Is something wrong?",
+   "tr": "Bir sorun mu var?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129468",
+   "en": "Make it quick.",
+   "tr": "Çabuk ol."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129469",
+   "en": "You want to bring this data back to the Migrant Fleet.",
+   "tr": "Bu veriyi Göçmen Filo'ya götürmek istiyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129470",
+   "en": "I can't pass out classified information.",
+   "tr": "Gizli bilgi dağıtamam."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129472",
+   "en": "If I give you this data, your Pilgrimage is over. You'll go back to your own people.",
+   "tr": "Bu veriyi sana verirsem Hacın biter. Halkına geri dönersin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129473",
+   "en": "You think you can use this information to destroy your enemy.",
+   "tr": "Bu bilgiyi düşmanını yok etmek için kullanabileceğini sanıyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129474",
+   "en": "Go ahead. Make a copy.",
+   "tr": "Devam et. Bir kopya al."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129476",
+   "en": "I never wanted anything more.",
+   "tr": "Hiçbir şeyi bundan fazla istemedim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129477",
+   "en": "I'll be counting on you, Tali.",
+   "tr": "Sana güveneceğim, Tali."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129478",
+   "en": "It'll take years to decipher and analyze the data.",
+   "tr": "Veriyi çözmek ve analiz etmek yıllar sürecek."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129479",
+   "en": "Until our cryptologists decipher that data, it stays with the Alliance. After that, you can make an official appeal for access to the files.",
+   "tr": "Şifre çözücülerimiz o veriyi çözene dek İttifak'ta kalır. Sonrasında dosyalara erişim için resmî başvuru yapabilirsin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129481",
+   "en": "I'm a soldier, Tali. I have to respect the chain of command.",
+   "tr": "Ben bir askerim, Tali. Komuta zincirine saygı göstermeliyim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129482",
+   "en": "Is this going to cause trouble later on?",
+   "tr": "Bu ileride sorun yaratacak mı?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129483",
+   "en": "Your father probably has some political pull, right? He wouldn't let them throw his little girl in jail.",
+   "tr": "Babanın siyasi nüfuzu vardır herhalde. Küçük kızının hapse atılmasına izin vermez."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129484",
+   "en": "We've got bigger problems than your father. Like Saren and the Reapers.",
+   "tr": "Babandan daha büyük sorunlarımız var. Saren ve Biçiciler gibi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129485",
+   "en": "If they catch us, then Saren finds the Conduit. Whatever your father's got planned, I guarantee the Reapers will do worse.",
+   "tr": "Bizi yakalarlarsa Saren Conduit'i bulur. Baban ne planladıysa Biçiciler daha kötüsünü yapacak, garanti ederim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129486",
+   "en": "The Normandy's the best ship in the fleet. They'll never catch us.",
+   "tr": "Normandy filonun en iyi gemisi. Bizi asla yakalayamazlar."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129487",
+   "en": "We've got bigger problems than the Council. Like Saren and the Reapers.",
+   "tr": "Konseyden daha büyük sorunlarımız var. Saren ve Biçiciler gibi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129488",
+   "en": "If they catch us, then Saren finds the Conduit. Whatever the Council's got planned, I guarantee the Reapers will do worse.",
+   "tr": "Bizi yakalarlarsa Saren Conduit'i bulur. Konsey ne planladıysa Biçiciler daha kötüsünü yapacak, garanti ederim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129491",
+   "en": "You do plan to return to the Migrant Fleet, right?",
+   "tr": "Göçmen Filo'ya dönmeyi planlıyorsun, değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129492",
+   "en": "Good to see you smiling again. So to speak.",
+   "tr": "Seni yine gülerken görmek güzel. Yani bir bakıma."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129493",
+   "en": "Why are you so cheerful?",
+   "tr": "Neden bu kadar neşelisin?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129496",
+   "en": "We've still got a long way to go. You'll find something to take back.",
+   "tr": "Hâlâ gidecek çok yolumuz var. Geri götürecek bir şey bulursun."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129497",
+   "en": "What are you hoping to find?",
+   "tr": "Ne bulmayı umuyorsun?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129498",
+   "en": "You'd better not jeopardize my mission for the sake of your Pilgrimage!",
+   "tr": "Hacın uğruna görevimi tehlikeye atmasan iyi olur!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129500",
+   "en": "What's so special about you?",
+   "tr": "Seni bu kadar özel yapan ne?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129502",
+   "en": "So are you some kind of heir to the quarian throne or something?",
+   "tr": "Yani quarian tahtının bir tür varisi falan mısın?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129504",
+   "en": "You must get all kinds of special privileges.",
+   "tr": "Her türlü özel ayrıcalık alıyor olmalısın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129505",
+   "en": "If we don't stop Saren, the death toll's going to be a hell of a lot higher than seventeen million.",
+   "tr": "Saren'i durdurmazsak ölü sayısı on yedi milyondan çok daha yüksek olacak."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129507",
+   "en": "It must be tough on you.",
+   "tr": "Senin için zor olmalı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129509",
+   "en": "Why didn't you tell me this before?",
+   "tr": "Bunu bana neden daha önce söylemedin?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129512",
+   "en": "The work you're doing here is more important than anything any quarian has ever done before.",
+   "tr": "Burada yaptığın iş, herhangi bir quarian'ın şimdiye dek yaptığı her şeyden daha önemli."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129515",
+   "en": "What would you need to bring back to make everyone happy?",
+   "tr": "Herkesi mutlu etmek için ne getirmen gerekir?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129519",
+   "en": "Just remember why you're really here. Stay focused on Saren.",
+   "tr": "Sadece neden gerçekten burada olduğunu hatırla. Saren'e odaklan."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129520",
+   "en": "It won't be much longer. One way or another, it'll all be over soon.",
+   "tr": "Çok uzun sürmeyecek. Bir şekilde yakında hepsi bitecek."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129521",
+   "en": "If we don't stop him soon, it'll be too late.",
+   "tr": "Onu yakında durdurmazsak çok geç olacak."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129523",
+   "en": "We couldn't have done this without you, Tali.",
+   "tr": "Bunu sensiz yapamazdık, Tali."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129526",
+   "en": "Saren's still got a couple more surprises waiting for us.",
+   "tr": "Saren'in bizi bekleyen birkaç sürprizi daha var."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129527",
+   "en": "Saren is looking to wipe out all life in the galaxy. Everyone's a part of this somehow, whether they know it or not.",
+   "tr": "Saren galaksideki tüm yaşamı yok etmeye çalışıyor. Herkes bunun bir şekilde parçası, bilsin bilmesin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129529",
+   "en": "I'm going to miss you when you go back to your own people, Tali.",
+   "tr": "Halkına döndüğünde seni özleyeceğim, Tali."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129530",
+   "en": "I didn't bring you along as a favor, Tali. You're here because you contribute to the mission. And I need all the help I can get on this one.",
+   "tr": "Seni iyilik olsun diye getirmedim, Tali. Göreve katkın olduğu için buradasın. Ve bu görevde alabileceğim her yardıma ihtiyacım var."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129531",
+   "en": "This isn't getting us any closer to the Conduit.",
+   "tr": "Bu bizi Conduit'e yaklaştırmıyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129535",
+   "en": "Interesting.",
+   "tr": "İlginç."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129536",
+   "en": "I want to talk about something else.",
+   "tr": "Başka bir şeyden konuşmak istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129537",
+   "en": "What was your father like?",
+   "tr": "Baban nasıl biriydi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129540",
+   "en": "Of course.",
+   "tr": "Tabii ki."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129541",
+   "en": "What is it?",
+   "tr": "Ne o?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129542",
+   "en": "Don't waste my time.",
+   "tr": "Zamanımı boşa harcama."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129543",
+   "en": "I understand.",
+   "tr": "Anlıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129544",
+   "en": "For your Pilgrimage.",
+   "tr": "Hacın için."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129545",
+   "en": "Forget it.",
+   "tr": "Boş ver."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129547",
+   "en": "Then you'll leave us.",
+   "tr": "O zaman bizi bırakacaksın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129548",
+   "en": "By wiping the geth out.",
+   "tr": "Geth'i yok ederek."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129549",
+   "en": "It's encrypted.",
+   "tr": "Şifreli."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129550",
+   "en": "I can't take that risk.",
+   "tr": "Bu riski alamam."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129551",
+   "en": "To kill the geth.",
+   "tr": "Geth'i öldürmek için."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129552",
+   "en": "All right.",
+   "tr": "Pekâlâ."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129553",
+   "en": "Take it.",
+   "tr": "Al."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129555",
+   "en": "Good.",
+   "tr": "İyi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129556",
+   "en": "That's enough.",
+   "tr": "Yeter."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129557",
+   "en": "Don't forget it.",
+   "tr": "Unutma."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129558",
+   "en": "All right.",
+   "tr": "Pekâlâ."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129560",
+   "en": "Sorry. I don't have a choice.",
+   "tr": "Üzgünüm. Seçeneğim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129561",
+   "en": "I follow my orders.",
+   "tr": "Emirlerimi izlerim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129562",
+   "en": "Do we have a problem?",
+   "tr": "Sorunumuz mu var?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129563",
+   "en": "Wouldn't your dad help us?",
+   "tr": "Baban bize yardım etmez mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129564",
+   "en": "Not a problem",
+   "tr": "Sorun değil"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129565",
+   "en": "Don't worry about that.",
+   "tr": "Bunun için endişelenme."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129566",
+   "en": "It doesn't matter.",
+   "tr": "Önemi yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129567",
+   "en": "Don't worry about that.",
+   "tr": "Bunun için endişelenme."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129568",
+   "en": "It doesn't matter.",
+   "tr": "Önemi yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129571",
+   "en": "But you're going back, right?",
+   "tr": "Ama geri dönüyorsun, değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129572",
+   "en": "Glad you're feeling better.",
+   "tr": "İyi hissettiğine sevindim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129573",
+   "en": "You seem happy.",
+   "tr": "Mutlu görünüyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129574",
+   "en": "What's going on?",
+   "tr": "Neler oluyor?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129577",
+   "en": "Don't worry. You will.",
+   "tr": "Merak etme. Edeceksin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129578",
+   "en": "Like what?",
+   "tr": "Mesela?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129579",
+   "en": "Is that why you're here?",
+   "tr": "Burada olma nedenin bu mu?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129581",
+   "en": "Why?",
+   "tr": "Neden?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129582",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129584",
+   "en": "You're royalty?",
+   "tr": "Kraliyet ailesinden misin?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129585",
+   "en": "I'm responsible for trillions!",
+   "tr": "Ben trilyonlardan sorumluyum!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129586",
+   "en": "That's a lot of pressure.",
+   "tr": "Bu çok baskı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129587",
+   "en": "I had no idea.",
+   "tr": "Hiç haberim yoktu."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129589",
+   "en": "Preferential treatment?",
+   "tr": "Ayrıcalıklı muamele mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129590",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129591",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129593",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129597",
+   "en": "What if we save the galaxy?",
+   "tr": "Ya galaksiyi kurtarırsak?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129598",
+   "en": "We don't want that.",
+   "tr": "Bunu istemiyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129599",
+   "en": "I don't have time for this.",
+   "tr": "Bunun için vaktim yok."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129602",
+   "en": "So what's the answer?",
+   "tr": "Peki cevap ne?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129606",
+   "en": "I hope so.",
+   "tr": "Umarım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129607",
+   "en": "We're getting close.",
+   "tr": "Yaklaşıyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129608",
+   "en": "We better be.",
+   "tr": "Yaklaşsak iyi olur."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129610",
+   "en": "An important part.",
+   "tr": "Önemli bir parça."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129611",
+   "en": "We haven't won yet.",
+   "tr": "Henüz kazanmadık."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129612",
+   "en": "This isn't about you.",
+   "tr": "Bu seninle ilgili değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129616",
+   "en": "You're welcome.",
+   "tr": "Rica ederim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129617",
+   "en": "You earned it.",
+   "tr": "Hak ettin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129618",
+   "en": "We're wasting time.",
+   "tr": "Zaman kaybediyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129619",
+   "en": "Tali's father",
+   "tr": "Tali'nin babası"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129623",
+   "en": "Tell me.",
+   "tr": "Söyleyin."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129624",
+   "en": "Let's change topics.",
+   "tr": "Konuyu değiştirelim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129883",
+   "en": "But no ship wants to accept someone who will be a burden on them. So, to prove our worth, we embark on a Pilgrimage.",
+   "tr": "Ama hiçbir gemi kendilerine yük olacak birini kabul etmek istemez. Bu yüzden değerimizi kanıtlamak için Hac'a çıkarız."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129884",
+   "en": "We set out alone, leaving the flotilla and our families behind us. We only return once we have found something of value we can bring back to the fleet.",
+   "tr": "Tek başımıza yola çıkar, filoyu ve ailelerimizi geride bırakırız. Ancak filoya geri getirebileceğimiz değerli bir şey bulduğumuzda döneriz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129885",
+   "en": "This is presented as a gift to the captain of the respective ship we wish to join. If the gift is accepted, we are welcomed into the crew.",
+   "tr": "Bu, katılmak istediğimiz geminin kaptanına bir hediye olarak sunulur. Hediye kabul edilirse mürettebata hoş geldin deriz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129886",
+   "en": "That doesn't happen often. Most captains are eager to increase the size of their crew. It increases their own standing in our society.",
+   "tr": "Bu sık olmaz. Çoğu kaptan mürettebatını büyütmeye hevesli. Bu toplumumuzdaki konumunu yükseltir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129887",
+   "en": "Even when a gift is not particularly valuable, the captain usually accepts it out of a sense of tradition. However, there is a stigma to presenting a sub-standard gift.",
+   "tr": "Hediye özellikle değerli olmasa bile kaptan genellikle geleneğe uygun olarak kabul eder. Ancak standart altı bir hediye sunmanın damgası var."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129888",
+   "en": "It's not the best way to make a good impression on a new community. Most Pilgrims don't return until they find something worthwhile.",
+   "tr": "Yeni bir topluluğa iyi izlenim bırakmanın en iyi yolu değil. Çoğu Hacı değerli bir şey bulana dek dönmez."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129889",
+   "en": "It's not like they just cast us out. Before we leave, we are given lessons in how to survive outside the flotilla, and given gifts to help us on our journey.",
+   "tr": "Bizi öylece kovmuyorlar. Ayrılmadan önce filonun dışında hayatta kalmayı öğreten dersler alırız ve yolculuğumuza yardımcı hediyeler verilir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129890",
+   "en": "We also receive implants to fight off sickness and disease. Generations of living in an isolated and highly controlled environment have left our immune systems weaker than most.",
+   "tr": "Ayrıca hastalık ve rahatsızlıklarla savaşmak için implantlar alırız. İzole ve yüksek denetimli ortamda geçirilen nesiller bağışıklık sistemimizi çoğundan zayıf bıraktı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129891",
+   "en": "By the time we leave the fleet, we are well-equipped for the Pilgrimage. This is a rite of passage for all quarians. If it were dangerous, our numbers would suffer.",
+   "tr": "Filodan ayrıldığımızda Hac için iyi donanmışızdır. Bu tüm quarian'lar için bir geçiş ritüeli. Tehlikeli olsa sayımız azalırdı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129892",
+   "en": "Virtually every Pilgrimage ends with a triumphant return and the ritual presentation of the gift to one of the fleet's captains.",
+   "tr": "Hemen her Hac zaferle dönüş ve hediyenin filonun kaptanlarından birine ritüel sunumuyla biter."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129893",
+   "en": "There are seventeen million quarians in the flotilla, and each of us relies on the others for survival. The bonds among my people are strong.",
+   "tr": "Filoda on yedi milyon quarian var ve her birimiz hayatta kalmak için diğerlerine güveniyor. Halkım arasındaki bağlar güçlü."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129894",
+   "en": "Unfortunately, we have had to surrender many of the freedoms and civil liberties other species take for granted.",
+   "tr": "Ne yazık ki diğer türlerin doğal saydığı birçok özgürlüğü ve sivil hakkı feda etmek zorunda kaldık."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129895",
+   "en": "Well, it's illegal for parents to have more than one child. If our population grows too much, it would strain our resources to their breaking point.",
+   "tr": "Şey, ebeveynlerin birden fazla çocuk sahibi olması yasak. Nüfusumuz çok artarsa kaynaklarımızı kırılma noktasına kadar zorlar."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129896",
+   "en": "Of course, we also can't allow our numbers to become too few. If our population is in decline, the rule against single births is temporarily repealed.",
+   "tr": "Elbette sayımızın çok azalmasına da izin veremeyiz. Nüfusumuz düşüşteyse tek doğum kuralı geçici olarak kaldırılır."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129897",
+   "en": "In extreme cases of population decline, incentives are even offered to encourage multiple births. Though the Conclave hasn't had to take such measures in nearly a century.",
+   "tr": "Nüfus düşüşünün aşırı durumlarında çoklu doğumu teşvik etmek için bile teşvikler sunulur. Konklav'ın neredeyse bir yüzyıldır böyle önlemler alması gerekmese de."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129898",
+   "en": "The Conclave is our civilian branch of government. Each ship can elect a representative to serve on the Conclave and make decisions that affect the fleet as a whole.",
+   "tr": "Konklav hükümetimizin sivil kolu. Her gemi Konklav'da görev yapacak ve bir bütün olarak filoyu etkileyen kararlar verecek bir temsilci seçebilir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129899",
+   "en": "On matters that affect an individual ship, however, the captain has the final say. It's a tradition that dates back to the early days when the fleet was governed by martial law.",
+   "tr": "Ancak tek bir gemiyi ilgilendiren konularda son söz kaptanın. Filonun sıkıyönetimle yönetildiği ilk günlere uzanan bir gelenek."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129900",
+   "en": "Fortunately, most captains nowadays are smart enough to have an elected council from their crew to give them advice and guidance.",
+   "tr": "Neyse ki günümüzde çoğu kaptan, mürettebatından seçilmiş bir konseyin kendilerine öğüt vermesini sağlayacak kadar akıllı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129901",
+   "en": "In practice. The Conclave and the respective council for each ship tend to set the rules that govern our daily lives. But in theory we are still under military jurisdiction.",
+   "tr": "Uygulamada. Konklav ve her gemi için ilgili konsey günlük hayatımızı yöneten kuralları koyma eğilimindedir. Ama teoride hâlâ askerî yetki alanındayız."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129902",
+   "en": "The five top-ranking military officials in the fleet serve on the Admiralty Board. These five have the power to overrule any decision by the Conclave in case of emergency.",
+   "tr": "Filonun en yüksek rütbeli beş askerî görevlisi Amirallik Kurulu'nda görev yapar. Bu beşi acil durumda Konklav'ın herhangi bir kararını geçersiz kılma yetkisine sahiptir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129903",
+   "en": "To do so requires unanimous agreement among the Admiralty. And they can only do this once. After that, the entire Board must resign their posts.",
+   "tr": "Bunu yapmak için Amirallik içinde oybirliği gerekir. Ve bunu yalnızca bir kez yapabilirler. Ondan sonra tüm Kurul görevlerinden istifa etmelidir."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129904",
+   "en": "It's a safeguard that's served us well. In nearly three centuries, the Admiralty Board has only overruled the Conclave four times.",
+   "tr": "Bize iyi hizmet eden bir güvence. Yaklaşık üç yüzyılda Amirallik Kurulu Konklav'ı yalnızca dört kez geçersiz kıldı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129905",
+   "en": "Over time, we made small modifications to their programming to allow them to perform more varied and complex tasks, bringing them closer and closer to true AI status.",
+   "tr": "Zamanla programlamalarında küçük değişiklikler yaparak daha çeşitli ve karmaşık görevler yapmalarına izin verdik, onları gerçek YZ statüsüne gitgide yaklaştırdık."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129906",
+   "en": "This wasn't true AI research. We may have been skirting the bounds of the law, but we never did anything that was actually illegal.",
+   "tr": "Bu gerçek YZ araştırması değildi. Yasanın sınırlarında dolaşıyor olabilirdik ama asla gerçekten yasadışı bir şey yapmadık."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129907",
+   "en": "The changes were so insignificant, so gradual, that we were able to control them. Or so we thought.",
+   "tr": "Değişiklikler o kadar önemsiz, o kadar kademeliydi ki kontrol edebiliyorduk. Ya da öyle sanıyorduk."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129908",
+   "en": "But one thing we underestimated was the power of the neural network. A million geth thinking simultaneously created an inherently unstable matrix.",
+   "tr": "Ama hafife aldığımız bir şey sinir ağının gücüydü. Aynı anda düşünen bir milyon geth doğası gereği kararsız bir matris yarattı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129909",
+   "en": "Many of the geth's logic systems were designed to work in concert with other nearby geth. Basically, the more of them you have in a group, the smarter they are.",
+   "tr": "Geth'in mantık sistemlerinin çoğu yakınlarındaki diğer geth'le uyum içinde çalışacak şekilde tasarlanmıştı. Temelde bir grupta ne kadar çoksa o kadar akıllılar."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129910",
+   "en": "No, nothing like that. They cannot share sensory data or information. Their programming cannot handle that much simultaneous input.",
+   "tr": "Hayır, öyle bir şey değil. Duyusal veri ya da bilgi paylaşamazlar. Programlamaları bu kadar eş zamanlı girdiyi kaldıramaz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129911",
+   "en": "Each geth maintains an individual awareness and identity. The neural network only operates on a process-based level. It's basically the synthetic equivalent of a subconscious.",
+   "tr": "Her geth bireysel bir farkındalık ve kimlik taşır. Sinir ağı yalnızca süreç düzeyinde çalışır. Temelde bilinçaltının sentetik karşılığı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129912",
+   "en": "But when they're in close proximity, they can coordinate low-level functional processes, freeing up more capacity for original or independent thought.",
+   "tr": "Ama yakın olduklarında düşük seviyeli işlevsel süreçleri koordine edebilir, özgün ya da bağımsız düşünce için daha fazla kapasite açabilirler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129913",
+   "en": "I'm probably over-simplifying. The geth are incredibly advanced and complex creations. All you need to know is that they get smarter when they gather in large numbers.",
+   "tr": "Muhtemelen aşırı basitleştiriyorum. Geth inanılmaz gelişmiş ve karmaşık yaratımlar. Bilmen gereken, büyük sayılarda toplandıklarında daha akıllı olduklarıdır."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129914",
+   "en": "As we built more and more geth, their effective intelligence became more sophisticated, more abstract.",
+   "tr": "Gitgide daha çok geth inşa ettikçe etkili zekâları daha sofistike, daha soyut hâle geldi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129915",
+   "en": "One day, a geth began to ask its quarian overseer questions about the nature of its existence. Am I alive? Why am I here? What is my purpose?",
+   "tr": "Bir gün bir geth quarian gözetmenine varoluşunun doğası hakkında sorular sormaya başladı. Yaşıyor muyum? Neden buradayım? Amacım ne?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129916",
+   "en": "As you can imagine, this caused a near-panic among my people.",
+   "tr": "Tahmin edebileceğin gibi bu, halkım arasında neredeyse paniğe yol açtı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129917",
+   "en": "The geth were created to engage in mundane, repetitive, or dangerous manual labor. That's fine for machines, but it won't satisfy a sentient being for long.",
+   "tr": "Geth sıradan, tekrarlı ya da tehlikeli manuel işlerde çalışmak için yaratılmıştı. Bu makineler için sorun değil ama hisli bir varlığı uzun süre tatmin etmez."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129918",
+   "en": "The geth were showing signs of rudimentary self-awareness and independent thought. If the geth were intelligent, then we were essentially using them as slaves.",
+   "tr": "Geth ilkel öz-farkındalık ve bağımsız düşünce belirtileri gösteriyordu. Geth zekiyse biz onları aslında köle olarak kullanıyorduk."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129919",
+   "en": "It was inevitable the newly-sentient geth would rebel against their situation. We knew they would rise up against us. So we acted first.",
+   "tr": "Yeni bilinç kazanan geth'in durumlarına isyan etmesi kaçınılmazdı. Bize karşı ayaklanacaklarını biliyorduk. Bu yüzden önce biz harekete geçtik."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129920",
+   "en": "A general order went out across all quarian-controlled systems to permanently deactivate all geth. The geth responded to this order violently.",
+   "tr": "Quarian'ların kontrolündeki tüm sistemlere tüm geth'i kalıcı olarak devre dışı bırakma emri gönderildi. Geth bu emre şiddetle karşılık verdi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129921",
+   "en": "We had no other choice! The geth were already on the verge of revolution. By acting quickly, we had a chance to end the war before it began.",
+   "tr": "Başka seçeneğimiz yoktu! Geth zaten devrimin eşiğindeydi. Hızlı hareket ederek savaş başlamadan bitirme şansımız vardı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129922",
+   "en": "The hope was that most of the geth would still be little more than machines, incapable of organized resistance. But they had progressed much further than anyone anticipated.",
+   "tr": "Umut, geth'in çoğunun hâlâ organize direniş yapamayan makinelerden biraz fazlası olmasıydı. Ama kimsenin beklediğinden çok daha ileri gitmişlerdi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129923",
+   "en": "The war was long and bloody. Millions upon millions of quarians died at their hands. In the end, we were forced to flee our own homeworld.",
+   "tr": "Savaş uzun ve kanlıydı. Milyonlarca quarian onların elinde öldü. Sonunda kendi ana dünyamızdan kaçmak zorunda kaldık."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129924",
+   "en": "We feared the geth would pursue us, but they never came beyond the Veil. Now we drift through space, exiles searching for a way to reclaim what was once ours.",
+   "tr": "Geth'in bizi kovalayacağından korktuk ama Veil'in ötesine hiç gelmediler. Şimdi bir zamanlar bize ait olanı geri almanın yolunu arayan sürgünler olarak uzayda sürükleniyoruz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129925",
+   "en": "We made a mistake when we created the geth in the first place. But we didn't make a mistake when we went to war against them.",
+   "tr": "Geth'i en başta yaratmakla hata yaptık. Ama onlara karşı savaşa girmekle hata yapmadık."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129926",
+   "en": "If we had not acted, they would have wiped us out! They're a synthetic life-form. They have no use for organics. None!",
+   "tr": "Harekete geçmeseydik bizi yok ederlerdi! Onlar sentetik yaşam formu. Organiklerin onlara yararı yok. Hiç!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129927",
+   "en": "Why do you think they cut themselves off from the rest of the galaxy? Why do you think they've killed every organic being who's ever tried to contact them?",
+   "tr": "Neden kendilerini galaksinin geri kalanından kopardıklarını sanıyorsun? Onlarla iletişim kurmaya çalışan her organik varlığı neden öldürdüklerini?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129928",
+   "en": "What does that tell you? The geth are not innocent victims in all this.",
+   "tr": "Bu sana ne söylüyor? Geth tüm bunlarda masum kurbanlar değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129929",
+   "en": "I'm sorry. I didn't mean to get so worked up. Most quarians tend to have pretty strong opinions about the geth.",
+   "tr": "Üzgünüm. Bu kadar sinirlenmek istemedim. Çoğu quarian'ın geth hakkında oldukça güçlü fikirleri var."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129930",
+   "en": "You really think things would be any different if we'd waited for them to act first? The geth are not innocent victims in all this.",
+   "tr": "Gerçekten önce onların harekete geçmesini bekleseydik işlerin farklı olacağını mı düşünüyorsun? Geth tüm bunlarda masum kurbanlar değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129931",
+   "en": "They're the enemy. They want to destroy us. Not just the quarians -- all organic life. That's why they've joined up with Saren. And that's why we have to stop him.",
+   "tr": "Düşman onlar. Bizi yok etmek istiyorlar. Yalnızca quarian'ları değil, tüm organik yaşamı. Saren'e bu yüzden katıldılar. Ve onu bu yüzden durdurmalıyız."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129932",
+   "en": "He had to set an example, and he expected the same of his daughter. Plus, he was pretty strict. A military man through and through.",
+   "tr": "Örnek olmak zorundaydı ve kızından da aynısını bekledi. Ayrıca epey katıydı. Baştan sona askerî bir adam."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129933",
+   "en": "He never allowed me to settle for anything less than excellence. As a kid, I sometimes felt like he was pushing me too hard.",
+   "tr": "Mükemmellikten azına razı olmama asla izin vermedi. Çocukken bazen beni fazla zorladığını hissederdim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129934",
+   "en": "But now I'm old enough to appreciate what he taught me. The world doesn't owe us anything. If we want something in life, we have to earn it.",
+   "tr": "Ama artık bana öğrettiklerini takdir edecek yaştayım. Dünya bize hiçbir şey borçlu değil. Hayatta bir şey istiyorsak hak etmeliyiz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129935",
+   "en": "Mother was around, but she always seemed to kind of blend into the background. Almost like she was overshadowed by my father. He tends to do that to people.",
+   "tr": "Annem vardı ama hep arka planda kaybolmuş gibiydi. Neredeyse babam tarafından gölgede bırakılmış gibi. Babam insanlara bunu yapma eğiliminde."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129936",
+   "en": "She passed on about five years ago. Some airborne virus that swept through the fleet. Happens sometimes when the filters start to break down.",
+   "tr": "Yaklaşık beş yıl önce vefat etti. Filoyu saran havadan bulaşan bir virüs. Filtreler bozulmaya başlayınca bazen olur."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129937",
+   "en": "I think my father took it pretty hard. After she was gone, he became even more focused on his work. I think that was his way of dealing with the grief.",
+   "tr": "Babamın epey ağır karşıladığını düşünüyorum. O gittikten sonra işine daha da odaklandı. Bence yasını böyle atlatıyordu."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129938",
+   "en": "Like I said, it wasn't easy. My father's not the kind of person you bond with. And he wasn't around all that much. Too busy.",
+   "tr": "Dediğim gibi kolay değildi. Babam bağ kurulacak biri değil. Üstelik pek evde de olmazdı. Çok meşguldü."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129939",
+   "en": "People counted on him, and he took his duties seriously. Even when he was around, he always seemed a bit distant. Like his mind was always somewhere else.",
+   "tr": "İnsanlar ona güveniyordu ve o görevlerini ciddiye aldı. Evde olduğunda bile hep biraz uzak görünürdü. Sanki aklı hep başka yerdeydi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129940",
+   "en": "Come to think of it, I can't ever remember seeing him smile. Not once. It's like he was always weighed down by all that responsibility.",
+   "tr": "Düşününce onu gülerken gördüğümü hiç hatırlamıyorum. Bir kez bile. Sanki hep tüm o sorumluluğun altında eziliyordu."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129941",
+   "en": "I mean, I know he cares about me, but he never really showed it. Not in the usual way. I guess the best thing I can say about my father is that I respect him.",
+   "tr": "Yani beni önemsediğini biliyorum ama bunu hiç göstermedi. Olağan şekilde değil. Babam hakkında söyleyebileceğim en iyi şey ona saygı duymam sanırım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129945",
+   "en": "Can a captain choose to reject the gift?",
+   "tr": "Bir kaptan hediyeyi reddedebilir mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129948",
+   "en": "I can't believe they just send you off alone.",
+   "tr": "Seni öylece tek başına göndermelerine inanamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129953",
+   "en": "What kind of freedoms?",
+   "tr": "Ne tür özgürlükler?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129956",
+   "en": "That's your government?",
+   "tr": "Hükümetin bu mu?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129959",
+   "en": "So the ultimate power rests with elected officials?",
+   "tr": "Yani nihai güç seçilmiş görevlilerde mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129964",
+   "en": "How come the Council didn't step in and stop you?",
+   "tr": "Konsey neden müdahale edip sizi durdurmadı?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129966",
+   "en": "You had to know it would blow up in your face.",
+   "tr": "Yüzüne patlayacağını bilmen gerekirdi."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129968",
+   "en": "So the geth share brain power?",
+   "tr": "Yani geth beyin gücünü paylaşıyor mu?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129969",
+   "en": "So they're some sort of group consciousness?",
+   "tr": "Yani bir tür toplu bilinç mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129972",
+   "en": "That doesn't make any sense.",
+   "tr": "Bu hiç mantıklı değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129974",
+   "en": "What made them rebel?",
+   "tr": "Onları isyana iten ne oldu?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129977",
+   "en": "I don't see what's so bad about those questions.",
+   "tr": "Bu soruların nesi kötü anlamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129980",
+   "en": "What did you do?",
+   "tr": "Ne yaptın?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129982",
+   "en": "You can't blame them for fighting for their survival.",
+   "tr": "Hayatta kalmak için savaştıkları için onları suçlayamazsın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129983",
+   "en": "You're the ones who started the war. The geth were just fighting for their survival!",
+   "tr": "Savaşı başlatan sizsiniz. Geth sadece hayatta kalmak için savaştı!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129985",
+   "en": "You didn't really think they'd just let you destroy them without a fight, did you?",
+   "tr": "Savaşmadan sizi yok etmelerine izin vereceklerini gerçekten düşünmedin, değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129988",
+   "en": "It's hard to feel sorry for you. Your ancestors tried to wipe out another species.",
+   "tr": "Size üzülmek zor. Atalarınız başka bir türü yok etmeye çalıştı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129989",
+   "en": "You got what you deserved.",
+   "tr": "Hak ettiğinizi buldunuz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129992",
+   "en": "They didn't kill Saren.",
+   "tr": "Saren'i öldürmediler."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129994",
+   "en": "I didn't meant to offend you.",
+   "tr": "Seni gücendirmek istemedim."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129995",
+   "en": "You make a good point.",
+   "tr": "Haklı bir noktaya değiniyorsun."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|129996",
+   "en": "You didn't give them a real good first impression.",
+   "tr": "Onlara pek iyi bir ilk izlenim bırakmadın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130001",
+   "en": "Where was your mother in all this?",
+   "tr": "Annen tüm bunların neresindeydi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130004",
+   "en": "Sounds like a tough upbringing. You don't resent your father at all?",
+   "tr": "Zor bir yetiştirme gibi. Babana hiç içerlemiyor musun?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130011",
+   "en": "Do they always accept?",
+   "tr": "Hep kabul ediyorlar mı?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130012",
+   "en": "Sounds dangerous.",
+   "tr": "Tehlikeli görünüyor."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130019",
+   "en": "Like what?",
+   "tr": "Mesela?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130022",
+   "en": "The Conclave?",
+   "tr": "Konklav mı?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130025",
+   "en": "You're democratic?",
+   "tr": "Demokratik misiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130030",
+   "en": "Isn't AI research illegal?",
+   "tr": "YZ araştırması yasadışı değil mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130031",
+   "en": "That was a mistake.",
+   "tr": "Bu bir hataydı."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130034",
+   "en": "The neural network?",
+   "tr": "Sinir ağı mı?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130035",
+   "en": "Why did they turn on you?",
+   "tr": "Neden size karşı döndüler?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130036",
+   "en": "Like a hive mind?",
+   "tr": "Kovan zihni gibi mi?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130039",
+   "en": "I don't get it.",
+   "tr": "Anlamıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130043",
+   "en": "Why?",
+   "tr": "Neden?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130044",
+   "en": "What happened next?",
+   "tr": "Sonra ne oldu?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130048",
+   "en": "They defended themselves.",
+   "tr": "Kendilerini savundular."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130049",
+   "en": "It was your fault!",
+   "tr": "Bu sizin hatanızdı!"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130050",
+   "en": "What did you expect?",
+   "tr": "Ne bekliyordunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130054",
+   "en": "They defended themselves.",
+   "tr": "Kendilerini savundular."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130055",
+   "en": "Serves you right.",
+   "tr": "Hak ettiniz."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130058",
+   "en": "Not every one.",
+   "tr": "Hepsi değil."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130059",
+   "en": "Sorry.",
+   "tr": "Üzgünüm."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130060",
+   "en": "Okay, you're right.",
+   "tr": "Tamam, haklısın."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130061",
+   "en": "I'm not surprised.",
+   "tr": "Şaşırmadım."
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130067",
+   "en": "What about your mother?",
+   "tr": "Peki ya annen?"
+  },
+  {
+   "key": "BIOA_NOR10_12tali_DSG_LOC|cha00_quarian_tali_D|130068",
+   "en": "Were you close to your dad?",
+   "tr": "Babanla yakın mıydın?"
+  }
+ ]
+}

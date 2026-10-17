@@ -1,0 +1,40 @@
+{
+ "meta": {
+  "package": "BIOA_ICE20_A_FlyBy_CIN_LOC_INT.pcc",
+  "stem": "BIOA_ICE20_A_FlyBy_CIN_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE20_A_FlyBy_CIN_LOC|nor20_noveria_approach_D|93560",
+   "en": "Approach Control, this is the SSV Normandy. Requesting a vector and a berth.",
+   "tr": "Yaklaşma Kontrol, burası SSV Normandy. Vektör ve yanaşma yeri talep ediyoruz."
+  },
+  {
+   "key": "BIOA_ICE20_A_FlyBy_CIN_LOC|nor20_noveria_approach_D|93561",
+   "en": "Normandy, your arrival was not scheduled. Our defense grid is armed and tracking you. State your business.",
+   "tr": "Normandy, varışınız planlanmamıştı. Savunma ağımız silahlı ve sizi izliyor. Amacınızı belirtin."
+  },
+  {
+   "key": "BIOA_ICE20_A_FlyBy_CIN_LOC|nor20_noveria_approach_D|93562",
+   "en": "Citadel business. We've got a Council Spectre aboard.",
+   "tr": "Citadel işi. Gemide bir Konsey Spectre'ı var."
+  },
+  {
+   "key": "BIOA_ICE20_A_FlyBy_CIN_LOC|nor20_noveria_approach_D|93563",
+   "en": "Landing access granted, Normandy. ",
+   "tr": "İniş izni verildi Normandy."
+  },
+  {
+   "key": "BIOA_ICE20_A_FlyBy_CIN_LOC|nor20_noveria_approach_D|93564",
+   "en": "What a fun bunch. I think I'll take my next leave here.",
+   "tr": "Ne eğlenceli bir grup. Sanırım bir sonraki iznimi burada geçireceğim."
+  },
+  {
+   "key": "BIOA_ICE20_A_FlyBy_CIN_LOC|nor20_noveria_approach_D|97381",
+   "en": "Be advised: we will be confirming identification on arrival. If confirmation cannot be established, your vessel will be impounded.",
+   "tr": "Dikkat: varışta kimlik doğrulaması yapacağız. Doğrulama sağlanamazsa geminize el konulacaktır."
+  }
+ ]
+}

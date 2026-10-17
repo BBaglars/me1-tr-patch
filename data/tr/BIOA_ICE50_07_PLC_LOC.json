@@ -1,0 +1,25 @@
+{
+ "meta": {
+  "package": "BIOA_ICE50_07_PLC_LOC_INT.pcc",
+  "stem": "BIOA_ICE50_07_PLC_LOC",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_ICE50_07_PLC_LOC|ice50_trig26_elv_reactor_D|150043",
+   "en": "Now entering main reactor.",
+   "tr": "Ana reaktöre giriliyor."
+  },
+  {
+   "key": "BIOA_ICE50_07_PLC_LOC|ice50_trig26_elv_reactor_D|150044",
+   "en": "User alert! Main reactor shut down in accordance with emergency containment procedures. Manual restart required.",
+   "tr": "Kullanıcı uyarısı! Ana reaktör acil izolasyon prosedürlerine uygun olarak kapatıldı. Elle yeniden başlatma gerekli."
+  },
+  {
+   "key": "BIOA_ICE50_07_PLC_LOC|ice50_trig26_elv_reactor_D|150046",
+   "en": "All systems functioning within accepted tolerances.",
+   "tr": "Tüm sistemler kabul edilen toleranslar içinde çalışıyor."
+  }
+ ]
+}
