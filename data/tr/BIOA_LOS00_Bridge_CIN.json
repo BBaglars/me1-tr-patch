@@ -1,0 +1,45 @@
+{
+ "meta": {
+  "package": "BIOA_LOS00_Bridge_CIN.pcc",
+  "stem": "BIOA_LOS00_Bridge_CIN",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|31483",
+   "en": "Activate the defenses! Seal the station!",
+   "tr": "Savunmaları etkinleştirin! İstasyonu mühürleyin!"
+  },
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|31484",
+   "en": "The arms aren't moving! Systems not responding!",
+   "tr": "Kollar hareket etmiyor! Sistemler yanıt vermiyor!"
+  },
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|31485",
+   "en": "Abandon the Citadel! Evacuate the Council!",
+   "tr": "Citadel'i boşaltın! Konsey'i tahliye edin!"
+  },
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|99878",
+   "en": "Open the mass relays. The fleet needs reinforcements!",
+   "tr": "Kütle rölelerini açın. Filonun takviyeye ihtiyacı var!"
+  },
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|99879",
+   "en": "The relays are locked! Someone's taken over all the systems!",
+   "tr": "Röleler kilitli! Biri tüm sistemleri ele geçirdi!"
+  },
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|134985",
+   "en": "Citadel control! Citadel control! Do you copy?",
+   "tr": "Citadel kontrol! Citadel kontrol! Duyuyor musunuz?"
+  },
+  {
+   "key": "BIOA_LOS00_Bridge_CIN|los40_oculon_attack_d|134986",
+   "en": "We're getting hammered out here! Why won't you respond? Citadel control? Citadel control!",
+   "tr": "Burada dövülüyoruz! Neden yanıt vermiyorsunuz? Citadel kontrol? Citadel kontrol!"
+  }
+ ]
+}

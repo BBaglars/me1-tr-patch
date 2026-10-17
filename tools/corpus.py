@@ -50,8 +50,13 @@ def build():
             # lane by priority ui > a > b over all families the text appears in
             lanes = {lane_of(family(p)) for p in u["pkgs"]}
             u["lane"] = next(l for l in ("ui", "a", "b") if l in lanes)
-    # stable uids in first-occurrence order
-    for i, t in enumerate(order): uniq[t]["uid"] = "u%05d" % i
+    # stable uids: texts already in a previous corpus keep their uid; new texts get fresh uids after the highest one
+    prev = {x["en"]: x["uid"] for x in jl(CORPUS)["texts"]} if os.path.exists(CORPUS) else {}
+    nxt = max((int(u[1:]) for u in prev.values()), default=-1) + 1
+    for t in order:
+        if t in prev: uniq[t]["uid"] = prev[t]
+        else: uniq[t]["uid"] = "u%05d" % nxt; nxt += 1
+    order = sorted(order, key=lambda t: uniq[t]["uid"])
     corpus = {"count": len(order), "texts": [{"uid": uniq[t]["uid"], "lane": uniq[t]["lane"], "pkgs": uniq[t]["pkgs"], "en": t} for t in order]}
     jd(CORPUS, corpus)
     manifest = {"total": len(order), "lanes": {}, "chunks": {}}
@@ -60,6 +65,12 @@ def build():
         # group by (family of first package, first package, order)
         items.sort(key=lambda u: (family(u["pkgs"][0]), u["pkgs"][0], u["uid"]))
         n, cur, w, ids = 0, [], 0, []
+        old = jl(MANIFEST)["chunks"] if os.path.exists(MANIFEST) else {}
+        fixed = {u for us in old.values() for u in us}  # a text already chunked stays in its chunk even if a new package moves its lane
+        for c in sorted(old):
+            if c.startswith(lane + "/"):
+                n += 1; ids.extend(old[c]); manifest["chunks"][c] = old[c]
+        items = [u for u in items if u["uid"] not in fixed]
         def flush():
             nonlocal n, cur, w
             if not cur: return
@@ -75,7 +86,7 @@ def build():
             if cur and (len(cur) >= MAXN or w + uw > MAXW or family(u["pkgs"][0]) != family(cur[0]["pkgs"][0]) and len(cur) >= 60): flush()
             cur.append(u); w += uw
         flush()
-        manifest["lanes"][lane] = {"task": LANES[lane], "texts": len(ids), "words": sum(len(u["en"].split()) for u in items), "chunks": n, "chunk_range": "%s/001-%03d" % (lane, n)}
+        manifest["lanes"][lane] = {"task": LANES[lane], "texts": len(ids), "words": sum(len(u["en"].split()) for u in uniq.values() if u["lane"] == lane), "chunks": n, "chunk_range": "%s/001-%03d" % (lane, n)}
     allids = [i for c in manifest["chunks"].values() for i in c]
     assert len(allids) == len(set(allids)) == len(order), "coverage gap/overlap"
     jd(MANIFEST, manifest)

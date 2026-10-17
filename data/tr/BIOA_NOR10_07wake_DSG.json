@@ -1,0 +1,580 @@
+{
+ "meta": {
+  "package": "BIOA_NOR10_07wake_DSG.pcc",
+  "stem": "BIOA_NOR10_07wake_DSG",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80062",
+   "en": "You had us worried there, Shepard. How are you feeling?",
+   "tr": "Bizi endişelendirdiniz, Shepard. Nasıl hissediyorsunuz?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80063",
+   "en": "About fifteen hours. Something happened down there with the beacon, I think.",
+   "tr": "Yaklaşık on beş saat. Orada işaret fişeğiyle bir şey oldu sanırım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80064",
+   "en": "It's my fault. I must have triggered some kind of security field when I approached it. You had to push me out of the way.",
+   "tr": "Benim suçum. Yaklaştığımda bir tür güvenlik alanını tetiklemiş olmalıyım. Beni yoldan itmek zorunda kaldınız."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80065",
+   "en": "The beacon exploded. A system overload, maybe. The blast knocked you cold. The Lieutenant and I carried you back here to the ship.",
+   "tr": "İşaret fişeği patladı. Belki bir sistem aşırı yüklenmesi. Patlama sizi bayılttı. Teğmen ve ben sizi gemiye taşıdık."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80066",
+   "en": "It's my fault. I must have triggered some kind of security field when I approached it. You had to push me out of the way.",
+   "tr": "Benim suçum. Yaklaştığımda bir tür güvenlik alanını tetiklemiş olmalıyım. Beni yoldan itmek zorunda kaldınız."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80067",
+   "en": "The beacon exploded. A system overload, maybe. The blast knocked you cold. Williams and I had to carry you back here to the ship.",
+   "tr": "İşaret fişeği patladı. Belki bir sistem aşırı yüklenmesi. Patlama sizi bayılttı. Williams ve ben sizi gemiye taşımak zorunda kaldık."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80068",
+   "en": "Listen, you're better off in this infirmary than in any hospital on Eden Prime.",
+   "tr": "Dinleyin, Eden Prime'daki herhangi bir hastaneden bu revirde daha iyi durumdasınız."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80069",
+   "en": "Physically, you're fine. But I detected some unusual brain activity, abnormal beta waves.",
+   "tr": "Fiziksel olarak iyisiniz. Ama olağandışı beyin aktivitesi, anormal beta dalgaları saptadım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80070",
+   "en": "I also noticed an increase in your rapid eye movement, signs typically associated with intense dreaming.",
+   "tr": "Ayrıca hızlı göz hareketlerinizde artış gördüm, genelde yoğun rüyayla ilişkilendirilen belirtiler."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80071",
+   "en": "Hmmm. I better add this to my report. It may-- Oh, Captain Anderson.",
+   "tr": "Hmmm. Bunu raporuma eklesem iyi olur. Belki... Ah, Kaptan Anderson."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80072",
+   "en": "I figured we could use a soldier like her. She's been reassigned to the Normandy.",
+   "tr": "Onun gibi bir askere ihtiyacımız olabileceğini düşündüm. Normandy'ye atandı."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80073",
+   "en": "I'm the captain of this ship, Commander, and I want Williams on our crew. ",
+   "tr": "Bu geminin kaptanı benim, Komutan, ve Williams'ı mürettebatımızda istiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80080",
+   "en": "Like the morning after shore leave. How long was I out?",
+   "tr": "Mola sonrasındaki sabah gibi. Ne kadar baygın kaldım?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80081",
+   "en": "Minor throbbing. Nothing serious. How long was I out?",
+   "tr": "Hafif zonklama. Ciddi bir şey yok. Ne kadar baygın kaldım?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80082",
+   "en": "How did I end up here? How long was I out?",
+   "tr": "Buraya nasıl geldim? Ne kadar baygın kaldım?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80084",
+   "en": "Where's the beacon now? What happened to it?",
+   "tr": "İşaret fişeği şimdi nerede? Ona ne oldu?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80086",
+   "en": "I don't suppose it occurred to you that Eden Prime has medical facilities.",
+   "tr": "Eden Prime'ın sağlık tesisleri olduğu hiç aklınıza gelmedi, sanırım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80088",
+   "en": "I appreciate it.",
+   "tr": "Takdir ediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80090",
+   "en": "I saw-- I'm not sure what I saw. Death. Destruction. Nothing's really clear.",
+   "tr": "Ben... ne gördüğümden emin değilim. Ölüm. Yıkım. Hiçbir şey net değil."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80093",
+   "en": "Williams is a good soldier. She deserves it.",
+   "tr": "Williams iyi bir asker. Bunu hak ediyor."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80094",
+   "en": "I don't want her on my ship.",
+   "tr": "Gemimde olmasını istemiyorum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80104",
+   "en": "Not great.",
+   "tr": "İyi değil."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80105",
+   "en": "I'm okay.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80106",
+   "en": "What happened?",
+   "tr": "Ne oldu?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80108",
+   "en": "What about the beacon?",
+   "tr": "Peki ya işaret fişeği?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80110",
+   "en": "Not a local hospital?",
+   "tr": "Yerel bir hastane olmazdı?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80111",
+   "en": "Thanks.",
+   "tr": "Teşekkürler."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80114",
+   "en": "More like a nightmare.",
+   "tr": "Daha çok kâbus gibi."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80115",
+   "en": "I was dreaming.",
+   "tr": "Rüya görüyordum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80116",
+   "en": "Not a dream. A vision.",
+   "tr": "Rüya değil. Bir vizyon."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80119",
+   "en": "Good.",
+   "tr": "İyi."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80120",
+   "en": "That's a mistake.",
+   "tr": "Bu bir hata."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80358",
+   "en": "I won't lie to you, Shepard. Things look bad. Nihlus is dead. The beacon was destroyed and geth are invading. The Council's going to want answers.",
+   "tr": "Sana yalan söylemeyeceğim, Shepard. İşler kötü görünüyor. Nihlus öldü. İşaret fişeği yok edildi ve geth işgal ediyor. Konsey cevap isteyecek."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80862",
+   "en": "I'll stand behind you and your report, Shepard. You're a damned hero in my books. That's not why I'm here. It's Saren, that other turian.",
+   "tr": "Seni ve raporunu savunacağım, Shepard. Benim gözümde kahramansın. Bunun için burada değilim. Saren, o diğer turian."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80865",
+   "en": "Saren's a Spectre, one of the best. A living legend. But if he's working with the geth, it means he's gone rogue.",
+   "tr": "Saren bir Spectre, en iyilerden biri. Yaşayan bir efsane. Ama geth'le çalışıyorsa başıboş kalmış demektir."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80866",
+   "en": "A rogue Spectre's trouble. Saren's dangerous. And he hates humans.",
+   "tr": "Başıboş bir Spectre baş belasıdır. Saren tehlikeli. Ve insanlardan nefret ediyor."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80873",
+   "en": "Jenkins wasn't your fault. You did a good job, Shepard.",
+   "tr": "Jenkins senin suçun değildi. İyi iş çıkardın, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80885",
+   "en": "The geth would have wiped out the whole colony if I hadn't stopped them.",
+   "tr": "Onları durdurmasaydım geth bütün koloniyi yok ederdi."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80899",
+   "en": "I don't like soldiers dying under my command.",
+   "tr": "Komutamda askerlerin ölmesinden hoşlanmıyorum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80914",
+   "en": "I did my job.",
+   "tr": "İşimi yaptım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80928",
+   "en": "I feel bad about Jenkins.",
+   "tr": "Jenkins için kötü hissediyorum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93136",
+   "en": "Doctor? Doctor Chakwas? I think she's waking up.",
+   "tr": "Doktor? Doktor Chakwas? Sanırım uyanıyor."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93137",
+   "en": "Doctor? Doctor Chakwas? I think he's waking up.",
+   "tr": "Doktor? Doktor Chakwas? Sanırım uyanıyor."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93138",
+   "en": "Lieutenant Alenko agrees with you. That's why I added her to our crew.",
+   "tr": "Teğmen Alenko size katılıyor. Bu yüzden onu mürettebatımıza ekledim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93139",
+   "en": "How's our XO holding up, Doctor?",
+   "tr": "Birinci Subayımız nasıl, Doktor?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93140",
+   "en": "All the readings look normal. I'd say the commander's going to be fine.",
+   "tr": "Tüm okumalar normal görünüyor. Komutanın iyi olacağını söylerdim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93141",
+   "en": "Glad to hear it. Shepard, I need to speak with you -- in private.",
+   "tr": "Duyduğuma sevindim. Shepard, seninle özel konuşmam gerek."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93142",
+   "en": "Aye, aye, Captain. I'll be in the mess if you need me.",
+   "tr": "Emredersiniz, Kaptan. İhtiyacınız olursa yemekhanedeyim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93143",
+   "en": "Aye, aye, Captain. I'll be in the mess if you need me.",
+   "tr": "Emredersiniz, Kaptan. İhtiyacınız olursa yemekhanedeyim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93144",
+   "en": "Sounds like that beacon hit you pretty hard, Commander. You sure you're okay?",
+   "tr": "O işaret fişeği sizi epey sarsmış gibi, Komutan. İyi olduğunuzdan emin misiniz?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93147",
+   "en": "Chief Williams isn't part of the Normandy crew.",
+   "tr": "Başçavuş Williams Normandy mürettebatının parçası değil."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93148",
+   "en": "Did we leave Gunnery Chief Williams back on Eden Prime?",
+   "tr": "Topçu Başçavuşu Williams'ı Eden Prime'da mı bıraktık?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93154",
+   "en": "You said you needed to see me in private, Captain?",
+   "tr": "Özel konuşmam gerektiğini mi söylediniz, Kaptan?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93155",
+   "en": "I'll live.",
+   "tr": "Yaşarım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93163",
+   "en": "I'm fine.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93164",
+   "en": "Why is Williams here?",
+   "tr": "Williams neden burada?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93165",
+   "en": "What happened to Williams?",
+   "tr": "Williams'a ne oldu?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93166",
+   "en": "You wanted to talk?",
+   "tr": "Konuşmak mı istedin?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103363",
+   "en": "He thinks we're growing too fast, taking over the galaxy. A lot of aliens think that way. Most of them don't do anything about it.",
+   "tr": "Çok hızlı büyüdüğümüzü, galaksiyi ele geçirdiğimizi düşünüyor. Çok uzaylı öyle düşünüyor. Çoğu bu konuda bir şey yapmıyor."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103364",
+   "en": "But Saren has allied himself with the geth. I don't know how. I don't know why. I only know it had something to do with that beacon.",
+   "tr": "Ama Saren geth'le ittifak yaptı. Nasıl olduğunu bilmiyorum. Neden olduğunu bilmiyorum. Sadece o işaret fişeğiyle bir ilgisi olduğunu biliyorum."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103365",
+   "en": "You're right. Saren has allied himself with the geth. I don't know how. I don't know why. But it had something to do with that beacon.",
+   "tr": "Haklısın. Saren geth'le ittifak yaptı. Nasıl olduğunu bilmiyorum. Neden olduğunu bilmiyorum. Ama o işaret fişeğiyle bir ilgisi vardı."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103366",
+   "en": "You were there just before the beacon self-destructed. Did you see anything? Any clue that might tell us what Saren was after?",
+   "tr": "İşaret fişeği kendini imha etmeden hemen önce oradaydın. Bir şey gördün mü? Saren'in neyin peşinde olduğunu söyleyebilecek bir ipucu?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103367",
+   "en": "A vision? A vision of what?",
+   "tr": "Bir vizyon mu? Ne vizyonu?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103368",
+   "en": "We need to report this to the Council, Shepard.",
+   "tr": "Bunu Konsey'e bildirmeliyiz, Shepard."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103369",
+   "en": "We don't know what information was stored in that beacon. Lost Prothean technology? Blueprints for some ancient weapon of mass destruction? Whatever it was, Saren took it.",
+   "tr": "O işaret fişeğinde ne bilgi saklı olduğunu bilmiyoruz. Kayıp Prothean teknolojisi mi? Eski bir kitle imha silahı planları mı? Her ne idiyse, Saren aldı."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103370",
+   "en": "But I know Saren. I know his reputation, his politics. He believes humans are a blight on the galaxy. This attack was an act of war!",
+   "tr": "Ama Saren'i tanıyorum. İtibarını, siyasetini biliyorum. İnsanların galaksi için bir musibet olduğuna inanıyor. Bu saldırı bir savaş eylemiydi!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103371",
+   "en": "He has the secrets from the beacon. He has an army of geth at his command. And he won't stop until he's wiped humanity from the face of the galaxy!",
+   "tr": "İşaret fişeğinin sırları onda. Komutasında bir geth ordusu var. Ve insanlığı galaksinin yüzünden silene dek durmayacak!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103372",
+   "en": "It's not that easy. He's a Spectre. He can go anywhere, do almost anything. That's why we need the Council on our side.",
+   "tr": "O kadar kolay değil. O bir Spectre. Her yere gidebilir, hemen her şeyi yapabilir. Konsey'i yanımıza çekmeye ihtiyacımız olmasının nedeni bu."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103373",
+   "en": "If we expose Saren as a traitor, the Council will revoke his Spectre status.",
+   "tr": "Saren'i hain olarak ifşa edersek Konsey Spectre statüsünü iptal eder."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103374",
+   "en": "I'll contact the ambassador and see if he can get us an audience with the Council. He'll want to see us as soon as we reach the Citadel.",
+   "tr": "Büyükelçiyle iletişime geçip bize Konsey'le görüşme ayarlayıp ayarlayamayacağına bakacağım. Citadel'e varır varmaz bizi görmek isteyecektir."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103375",
+   "en": "We should be getting close. Head up to the bridge and tell Joker to bring us in to dock.",
+   "tr": "Yaklaşıyor olmalıyız. Köprüye çık ve Joker'e bizi yanaştırmasını söyle."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103376",
+   "en": "Why?",
+   "tr": "Neden?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103379",
+   "en": "He didn't come to Eden Prime because he hates humans.",
+   "tr": "Eden Prime'a insanlardan nefret ettiği için gelmedi."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103381",
+   "en": "Just before I lost consciousness, I had some kind of vision.",
+   "tr": "Bilincimi kaybetmeden hemen önce bir tür vizyon gördüm."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103382",
+   "en": "I saw synthetics. Geth, maybe. Slaughtering people. Butchering them.",
+   "tr": "Sentetikler gördüm. Belki geth. İnsanları katlediyorlardı. Doğruyorlardı."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103383",
+   "en": "They'll think I'm crazy!",
+   "tr": "Beni deli sanacaklar!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103384",
+   "en": "What are we going to tell them? I had a bad dream?",
+   "tr": "Onlara ne söyleyeceğiz? Kötü bir rüya gördüm mü?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103387",
+   "en": "I'll find some way to take him down.",
+   "tr": "Onu indirmenin bir yolunu bulacağım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103388",
+   "en": "When have they ever done anything for humanity?",
+   "tr": "İnsanlık için ne zaman bir şey yaptılar ki?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103390",
+   "en": "We prove Saren's gone rogue and the Council will revoke his Spectre status.",
+   "tr": "Saren'in başıboş kaldığını kanıtlarız ve Konsey Spectre statüsünü iptal eder."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103393",
+   "en": "What's the damage, Doctor?",
+   "tr": "Hasar ne, Doktor?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103394",
+   "en": "Was I hurt?",
+   "tr": "Yaralandım mı?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103397",
+   "en": "Hates humans?",
+   "tr": "İnsanlardan nefret mi ediyor?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103398",
+   "en": "He wanted the beacon.",
+   "tr": "İşaret fişeğini istedi."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103402",
+   "en": "A vision.",
+   "tr": "Bir vizyon."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103403",
+   "en": "A warning.",
+   "tr": "Bir uyarı."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103404",
+   "en": "Our death.",
+   "tr": "Ölümümüz."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103405",
+   "en": "War.",
+   "tr": "Savaş."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103406",
+   "en": "Forget it!",
+   "tr": "Boş ver!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103407",
+   "en": "What will we say?",
+   "tr": "Ne söyleyeceğiz?"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103408",
+   "en": "There's nothing to report.",
+   "tr": "Bildirilecek bir şey yok."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103411",
+   "en": "You're right.",
+   "tr": "Haklısın."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103412",
+   "en": "Not if I can help it!",
+   "tr": "Elimden gelirse hayır!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103413",
+   "en": "I'll stop him.",
+   "tr": "Onu durduracağım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103414",
+   "en": "Understood, sir!",
+   "tr": "Anlaşıldı, efendim!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103415",
+   "en": "They can't help us!",
+   "tr": "Bize yardım edemezler!"
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103416",
+   "en": "We expose him.",
+   "tr": "Onu ifşa ederiz."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111436",
+   "en": "Don't be so hard on him, Commander. We have no idea if that's what actually set it off. Unfortunately, we'll never get the chance to find out.",
+   "tr": "Ona o kadar sert olmayın, Komutan. Onu gerçekten tetikleyenin bu olup olmadığını bilmiyoruz. Ne yazık ki öğrenme şansımız olmayacak."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111437",
+   "en": "Actually, we don't even know if that's what set it off. Unfortunately, we'll never get the chance to find out.",
+   "tr": "Aslında onu tetikleyenin bu olup olmadığını bile bilmiyoruz. Ne yazık ki öğrenme şansımız olmayacak."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111438",
+   "en": "Don't be so hard on her, Commander. We have no idea if that's what actually set it off. Unfortunately, we'll never get the chance to find out.",
+   "tr": "Ona o kadar sert olmayın, Komutan. Onu gerçekten tetikleyenin bu olup olmadığını bilmiyoruz. Ne yazık ki öğrenme şansımız olmayacak."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111441",
+   "en": "I expect better of you, Lieutenant. You endangered the entire mission.",
+   "tr": "Senden daha iyisini bekliyordum, Teğmen. Tüm görevi tehlikeye attın."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111443",
+   "en": "You had no way to know what would happen.",
+   "tr": "Ne olacağını bilmenin yolu yoktu."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111445",
+   "en": "I expect better of my people, Williams. You endangered our entire mission.",
+   "tr": "Adamlarımdan daha iyisini bekliyorum, Williams. Tüm görevimizi tehlikeye attın."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111448",
+   "en": "You were careless.",
+   "tr": "Dikkatsizdin."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111451",
+   "en": "Don't blame yourself.",
+   "tr": "Kendini suçlama."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111452",
+   "en": "You were careless.",
+   "tr": "Dikkatsizdin."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111456",
+   "en": "I'm not sure.",
+   "tr": "Emin değilim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150003",
+   "en": "The geth haven't been outside the Veil in two centuries, Commander. Nobody could have predicted this.",
+   "tr": "Geth iki yüzyıldır Veil'in dışında bulunmadı, Komutan. Bunu kimse tahmin edemezdi."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150004",
+   "en": "Intel dropped the ball, sir. We had no idea what we were walking into down there. That's why things went to hell.",
+   "tr": "İstihbarat topu düşürdü, efendim. Orada neyle karşılaşacağımızı bilmiyorduk. İşlerin cehenneme dönmesinin nedeni bu."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150005",
+   "en": "I didn't do anything wrong, Captain. Hopefully, the Council can see that.",
+   "tr": "Yanlış bir şey yapmadım, Kaptan. Umarım Konsey bunu görür."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150006",
+   "en": "The Council can kiss my ass. I won't let them blame me for losing the beacon. I didn't do anything wrong.",
+   "tr": "Konsey canı cehenneme. İşaret fişeğini kaybetmem için beni suçlamalarına izin vermem. Yanlış bir şey yapmadım."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150007",
+   "en": "I'm pissed off about the geth.",
+   "tr": "Geth'e sinirliyim."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150008",
+   "en": "We've got nothing to hide.",
+   "tr": "Saklayacak bir şeyimiz yok."
+  },
+  {
+   "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150009",
+   "en": "To hell with them!",
+   "tr": "Canları cehenneme!"
+  }
+ ]
+}

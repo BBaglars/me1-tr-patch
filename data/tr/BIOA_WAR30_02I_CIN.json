@@ -1,0 +1,915 @@
+{
+ "meta": {
+  "package": "BIOA_WAR30_02I_CIN.pcc",
+  "stem": "BIOA_WAR30_02I_CIN",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10245",
+   "en": "Invaders! Your every step is a transgression. A thousand feelers appraise you as meat, good only to dig or decompose.",
+   "tr": "İstilacılar! Her adımınız bir ihlal. Bin dokunaç sizi yalnızca kazmaya ya da çürümeye yarar et olarak ölçüyor."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10246",
+   "en": "I speak for the Old Growth, as I did for Saren. You are within and before the Thorian. It commands that you be in awe!",
+   "tr": "Saren için konuştuğum gibi Eski Büyüme adına konuşuyorum. Siz Thorian'ın içinde ve önündesiniz. Hayranlık duymanızı emrediyor!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10249",
+   "en": "Saren sought knowledge of those who are gone. The Old Growth listened to flesh for the first time in the Long Cycle. Trades were made.",
+   "tr": "Saren gidenlerin bilgisini aradı. Eski Büyüme Uzun Döngü'den beri ilk kez ete kulak verdi. Takaslar yapıldı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10251",
+   "en": "Then cold ones began killing the flesh that would tend the next cycle. Flesh fairly given! The Old Growth sees the air you push as lies! It will listen no more!",
+   "tr": "Sonra soğuk olanlar bir sonraki döngüye bakacak eti öldürmeye başladı. Adil olarak verilen et! Eski Büyüme ittiğiniz havayı yalan sayar! Artık dinlemeyecek!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10252",
+   "en": "No more will the Thorian listen to those that scurry. Your lives are short, but have gone on too long.",
+   "tr": "Thorian artık koşuşturanları dinlemeyecek. Ömürleriniz kısa ama çok uzadı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10253",
+   "en": "Your blood will feed the ground and the new growth!",
+   "tr": "Kanınız toprağı ve yeni büyümeyi besleyecek!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10254",
+   "en": "The Thorian is a piece of this world, extending across the land and back through the ages. You can no more kill it than cut the sky.",
+   "tr": "Thorian bu dünyanın bir parçası, toprağa ve çağlar boyunca geriye uzanıyor. Onu öldürmeniz gökyüzünü kesmekten farksız."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10261",
+   "en": "I'm free. I'm free.",
+   "tr": "Özgürüm. Özgürüm."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10263",
+   "en": "I will do what I can to assist the colony in this difficult time. I am ashamed of the damage  done to the lives of these people.",
+   "tr": "Bu zor zamanda koloniye yardım etmek için elimden geleni yapacağım. Bu insanların hayatlarına verilen zarar için utanç duyuyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10268",
+   "en": "You gave something to Saren. Something I need.",
+   "tr": "Saren'e bir şey verdin. İhtiyacım olan bir şey."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10271",
+   "en": "Give me what I need and I'll strike back at the one who betrayed you.",
+   "tr": "İhtiyacım olanı ver, sana ihanet edene karşılık vereyim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10272",
+   "en": "I won't let you keep your thralls. Release them. Now!",
+   "tr": "Kölelerini elinde tutmana izin vermeyeceğim. Bırak onları. Şimdi!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10274",
+   "en": "I don't argue with plants. Give me what I want. Now!",
+   "tr": "Bitkilerle tartışmam. İstediğimi ver. Şimdi!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10278",
+   "en": "You enslaved the colonists! You destroyed their minds. I don't know what Saren wanted with you, but I just want you dead!",
+   "tr": "Kolonistleri köleleştirdin! Zihinlerini yok ettin. Saren senden ne istedi bilmiyorum ama seni ölü görmek istiyorum!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|10945",
+   "en": "I-- I suppose I should thank you for releasing me.",
+   "tr": "Ben-- Sanırım beni serbest bıraktığınız için teşekkür etmeliyim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11955",
+   "en": "I will remain here until the last of your kind is gone. I am greatly ashamed for what happened here.",
+   "tr": "Türünüzün sonuncusu gidene kadar burada kalacağım. Burada olanlar için büyük utanç duyuyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11968",
+   "en": "To understand, you must have access to endemic ancestral memory. A viewpoint spanning thousands of Prothean generations.",
+   "tr": "Anlamak için yerleşik ata hafızasına erişmeniz gerek. Binlerce Prothean neslini kapsayan bir bakış açısı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11969",
+   "en": "I sensed this ancestral memory--the Cipher--when I melded with the Thorian. Our identities merged, our minds intertwined. Such knowledge cannot be taught; it simply exists.",
+   "tr": "Thorian'la kaynaştığımda bu ata hafızasını--Cipher'ı--hissettim. Kimliklerimiz birleşti, zihinlerimiz iç içe geçti. Böyle bilgi öğretilemez; sadece vardır."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11971",
+   "en": "There is a way. I can transfer the knowledge from my mind to yours, as I did with Saren.",
+   "tr": "Bir yol var. Bilgiyi zihnimden sizinkine aktarabilirim, Saren'e yaptığım gibi."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11972",
+   "en": "I have given you the Cipher, just as it was given to Saren. The ancestral memories of the Protheans are a part of you now.",
+   "tr": "Size Cipher'ı verdim, Saren'e verildiği gibi. Prothean'ların ata hafızaları artık sizin bir parçanız."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11973",
+   "en": "Are you all right, Shepard? What did she do?",
+   "tr": "İyi misin Shepard? Ne yaptı?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11974",
+   "en": "You have been given a great gift: the experience of an entire people. It will take time for your mind to process this information.",
+   "tr": "Size büyük bir hediye verildi: koca bir halkın deneyimi. Zihninizin bu bilgiyi işlemesi zaman alacak."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11988",
+   "en": "Are you all right? What just happened?",
+   "tr": "İyi misin? Az önce ne oldu?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11990",
+   "en": "What was that? Shepard, are you all right?",
+   "tr": "O neydi? Shepard, iyi misin?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11991",
+   "en": "What just happened? Are you okay?",
+   "tr": "Az önce ne oldu? İyi misin?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11992",
+   "en": "A knowledge bond can be very traumatic. Are you all right, Commander Shepard?",
+   "tr": "Bilgi bağı çok travmatik olabilir. İyi misiniz Komutan Shepard?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|11998",
+   "en": "The Cipher is the very essence of being a Prothean. It cannot be described or explained. It would be like describing color to a creature without eyes.",
+   "tr": "Cipher Prothean olmanın özüdür. Tarif edilemez, açıklanamaz. Gözü olmayan bir yaratığa rengi anlatmak gibi olur."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|12025",
+   "en": "I saw... something. It still didn't make any sense.",
+   "tr": "Bir şey gördüm... Hâlâ anlamlı gelmedi."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|12040",
+   "en": "All I saw were more weird visions. It still didn't make sense!",
+   "tr": "Tek gördüğüm daha fazla tuhaf vizyondu. Hâlâ anlamlı gelmedi!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|12524",
+   "en": "Farewell, Commander. I wish you well in your hunt.",
+   "tr": "Hoşça kalın Komutan. Avınızda başarılar dilerim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|12557",
+   "en": "Farewell, Shiala.",
+   "tr": "Hoşça kal Shiala."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50816",
+   "en": "I'm okay.",
+   "tr": "İyiyim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50818",
+   "en": "She messed up my mind!",
+   "tr": "Zihnimi karıştırdı!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50861",
+   "en": "Goodbye.",
+   "tr": "Hoşça kal."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50878",
+   "en": "I need what Saren came for.",
+   "tr": "Saren'in gelip aldığı şeye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50881",
+   "en": "I'll destroy you!",
+   "tr": "Seni yok edeceğim!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50884",
+   "en": "I'm after Saren.",
+   "tr": "Saren'in peşindeyim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50885",
+   "en": "Let the colonists go.",
+   "tr": "Kolonistleri bırak."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|50886",
+   "en": "Enough negotiating.",
+   "tr": "Pazarlık yeter."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|76946",
+   "en": "This flesh is reborn! You will be destroyed!",
+   "tr": "Bu et yeniden doğdu! Yok edileceksiniz!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|76947",
+   "en": "The Old Growth is older than you can fathom!",
+   "tr": "Eski Büyüme sizin kavrayabileceğinizden daha eski!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|76948",
+   "en": "The Long Cycle must continue!",
+   "tr": "Uzun Döngü devam etmeli!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|76949",
+   "en": "You are nothing! Nutrients to feed upon!",
+   "tr": "Hiçbir şeysiniz! Beslenecek besin maddeleri!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77210",
+   "en": "I am fine. Or I will be, in time.",
+   "tr": "İyiyim. Ya da zamanla olacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77211",
+   "en": "This is no trick. The Thorian is dead and I am myself again.",
+   "tr": "Bu bir hile değil. Thorian öldü ve yine kendimim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77212",
+   "en": "My name is Shiala. I serve-- I served Matriarch Benezia. When she allied herself with Saren, so did I.",
+   "tr": "Adım Shiala. Matriarch Benezia'ya hizmet ediyorum-- ediyordum. O Saren'le ittifak kurunca ben de kurdum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77213",
+   "en": "I came to this world in search of the Thorian. Saren needed its knowledge. And he needed my biotic abilities to communicate with it.",
+   "tr": "Bu dünyaya Thorian'ı aramak için geldim. Saren'in onun bilgisine ihtiyacı vardı. Ve onunla iletişim kurmak için benim biyotik yeteneklerime ihtiyacı vardı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77217",
+   "en": "Is everything all right? Are you hurt?",
+   "tr": "Her şey yolunda mı? Yaralandınız mı?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77219",
+   "en": "How do I know this isn't some kind of trick?",
+   "tr": "Bunun bir tür hile olmadığını nereden bileyim?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77221",
+   "en": "How did you end up inside that... thing?",
+   "tr": "O... şeyin içine nasıl girdin?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77225",
+   "en": "Are you okay?",
+   "tr": "İyi misin?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77226",
+   "en": "I don't trust you.",
+   "tr": "Size güvenmiyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77227",
+   "en": "Who are you?",
+   "tr": "Sen kimsin?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77233",
+   "en": "Saren offered me in trade. I was sacrificed to secure an alliance between Saren and the Thorian.",
+   "tr": "Saren beni takas olarak sundu. Saren ile Thorian arasında bir ittifak kurmak için kurban edildim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77234",
+   "en": "Saren is quick to betray his followers and his allies. Once he had what he needed, he ordered his geth to destroy the Thorian.",
+   "tr": "Saren takipçilerine ve müttefiklerine ihanet etmekte hızlı. İhtiyacı olanı alınca geth'ine Thorian'ı yok etmelerini emretti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77235",
+   "en": "He was quick to betray the Thorian, too. After he had what he wanted, he ordered the geth to destroy all evidence of its existence.",
+   "tr": "Thorian'a da ihanet etmekte hızlıydı. İstediğini alınca geth'e varlığının tüm kanıtlarını yok etmelerini emretti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77236",
+   "en": "Saren knows you are searching for the Conduit. He knows you are following his steps. He attacked the Thorian so you could not gain the Cipher.",
+   "tr": "Saren Conduit'i aradığınızı biliyor. Adımlarını izlediğinizi biliyor. Thorian'a saldırdı ki Cipher'ı elde edemeyesiniz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77239",
+   "en": "That's what you get for trusting Saren.",
+   "tr": "Saren'e güvenmenin bedeli bu."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77241",
+   "en": "Saren's pretty quick to betray his own people.",
+   "tr": "Saren kendi insanlarına ihanet etmekte oldukça hızlı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77243",
+   "en": "Then why were the geth trying to destroy the Thorian?",
+   "tr": "O halde geth neden Thorian'ı yok etmeye çalışıyordu?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77244",
+   "en": "What's the Cipher? And why did Saren need it?",
+   "tr": "Cipher nedir? Ve Saren'in ona neden ihtiyacı vardı?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77248",
+   "en": "Serves you right.",
+   "tr": "Hak ettiniz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77249",
+   "en": "That's horrible!",
+   "tr": "Bu korkunç!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77250",
+   "en": "They were allies?",
+   "tr": "Müttefik miydiler?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77253",
+   "en": "Tell me what it is.",
+   "tr": "Bana ne olduğunu söyle."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77300",
+   "en": "The beacon on Eden Prime gave you visions. But the visions are unclear, confusing. They were meant for a Prothean mind.",
+   "tr": "Eden Prime'daki işaret fişeği size vizyonlar verdi. Ama vizyonlar belirsiz, kafa karıştırıcı. Bir Prothean zihni için tasarlanmışlardı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77301",
+   "en": "To truly comprehend them, you must think like a Prothean. You must understand their culture, their history, their very existence.",
+   "tr": "Onları gerçekten kavramak için bir Prothean gibi düşünmelisiniz. Kültürlerini, tarihlerini, varoluşlarını anlamalısınız."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77302",
+   "en": "The Thorian was here long before the Protheans built this city. It watched and studied them. When they died, it consumed them. They became a part of it.",
+   "tr": "Thorian Prothean'ların bu şehri kurmasından çok önce buradaydı. Onları izledi ve inceledi. Öldüklerinde onları tüketti. Onun bir parçası oldular."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77313",
+   "en": "Sounds like you asari got in over your heads for once.",
+   "tr": "Anlaşılan siz asari kadınlar bir kere olsun altından kalkamayacağınız işe girişmişsiniz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77314",
+   "en": "She tried to manipulate Saren. But in the end, her plan backfired.",
+   "tr": "Saren'i manipüle etmeye çalıştı. Ama sonunda planı ters tepti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77315",
+   "en": "She tried to manipulate Saren. But in the end, her plan backfired.",
+   "tr": "Saren'i manipüle etmeye çalıştı. Ama sonunda planı ters tepti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77316",
+   "en": "Typical asari meddling. About time it bit you in the ass.",
+   "tr": "Tipik asari müdahalesi. Sonunda başına bela olması gerekiyordu."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77317",
+   "en": "Benezia sought to turn the river and was swept away.",
+   "tr": "Benezia nehrin yönünü çevirmeye çalıştı ve sürüklenip gitti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77318",
+   "en": "Benezia underestimated Saren. As I did. We came to believe in his cause and his goals. The strength of his influence is troubling.",
+   "tr": "Benezia Saren'i hafife aldı. Ben de öyle yaptım. Davasına ve hedeflerine inanmaya başladık. Etkisinin gücü endişe verici."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77319",
+   "en": "Saren has a vessel. An enormous warship unlike anything I've ever seen. He calls it Sovereign. It can dominate the minds of his followers.",
+   "tr": "Saren'in bir gemisi var. Hiç görmediğim türde devasa bir savaş gemisi. Ona Sovereign diyor. Takipçilerinin zihinlerini ele geçirebilir."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77320",
+   "en": "They become indoctrinated to Saren's will. The process is subtle. It can take days, weeks. But in the end, it is absolute.",
+   "tr": "Saren'in iradesine telkin edilirler. Süreç ince işler. Günler, haftalar sürebilir. Ama sonunda mutlak olur."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77322",
+   "en": "Your suspicions are understandable. But you freed me from the Thorian, and from Saren. I am on your side now.",
+   "tr": "Şüpheleriniz anlaşılabilir. Ama beni Thorian'dan ve Saren'den kurtardınız. Artık sizin tarafınızdayım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77323",
+   "en": "If you allow it, I would like to stay here with the colonists. They have suffered greatly, and I played a role in their suffering. I would like to make amends.",
+   "tr": "İzin verirseniz burada kolonistlerle kalmak istiyorum. Çok acı çektiler ve onların acısında bir payım vardı. Telafi etmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77324",
+   "en": "So be it. If this is the fate you feel I deserve, then I will not resist.",
+   "tr": "Öyle olsun. Bunun hak ettiğim kader olduğunu düşünüyorsanız direnmeyeceğim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77325",
+   "en": "Thank you, Commander. May fortune smile upon you. ",
+   "tr": "Teşekkürler Komutan. Talih size gülsün."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77326",
+   "en": "Then I wish good fortune upon you. Saren must be stopped before he finds the Conduit. As for me, I will stay here with the colonists.",
+   "tr": "O halde size iyi şanslar dilerim. Saren Conduit'i bulmadan durdurulmalı. Bana gelince, burada kolonistlerle kalacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77327",
+   "en": "I feel great shame for my part in their suffering. As long as any of the colonists remain on this world, I will do whatever I can to aid and protect them.",
+   "tr": "Onların acısındaki payım için büyük utanç duyuyorum. Kolonistlerden biri bu dünyada kaldığı sürece onlara yardım etmek ve korumak için elimden geleni yapacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77332",
+   "en": "Just give me some plain answers! Where is the Cipher?",
+   "tr": "Bana düz cevaplar ver! Cipher nerede?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77333",
+   "en": "So the Thorian taught Saren to think like a Prothean? How?",
+   "tr": "Demek Thorian Saren'e bir Prothean gibi düşünmeyi öğretti? Nasıl?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77334",
+   "en": "Where is the Cipher? How do I get it?",
+   "tr": "Cipher nerede? Nasıl alırım?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77343",
+   "en": "You chose to side with Saren. So did Matriarch Benezia.",
+   "tr": "Saren'in tarafını seçtin. Matriarch Benezia da öyle."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77344",
+   "en": "Are you saying Saren can control minds?",
+   "tr": "Saren'in zihinleri kontrol edebildiğini mi söylüyorsun?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77352",
+   "en": "Asari Matriarchs are among the most intelligent and powerful beings in the galaxy. How could one fall under Saren's control?",
+   "tr": "Asari Matriarch'lar galaksideki en zeki ve güçlü varlıklar arasında. Biri Saren'in kontrolü altına nasıl girebilir?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77355",
+   "en": "Now that you're free of the Thorian, what are you planning to do next?",
+   "tr": "Artık Thorian'dan kurtulduğuna göre sıradaki planın ne?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77356",
+   "en": "You were allied with Saren. For all I know, you still are. I can't just let you walk away.",
+   "tr": "Saren'le müttefiktin. Bildiğim kadarıyla hâlâ da olabilirsin. Öylece gitmene izin veremem."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77358",
+   "en": "You change sides too often. I have no choice. You must die.",
+   "tr": "Çok sık taraf değiştiriyorsun. Seçeneğim yok. Ölmelisin."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77360",
+   "en": "The colonists will need all the help they can get. They'll be happy to have you on their side.",
+   "tr": "Kolonistlerin alabilecekleri tüm yardıma ihtiyacı olacak. Seni yanlarında görmekten mutlu olacaklar."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77362",
+   "en": "I can't spend any more time here. Not while Saren's still out looking for the Conduit.",
+   "tr": "Burada daha fazla vakit geçiremem. Saren hâlâ Conduit'i ararken olmaz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77366",
+   "en": "What else can you tell me about Saren?",
+   "tr": "Saren hakkında bana başka ne söyleyebilirsin?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77367",
+   "en": "Tell me more about this ship Saren has.",
+   "tr": "Saren'in sahip olduğu bu gemi hakkında daha fazla anlat."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77368",
+   "en": "I want to know more about Benezia.",
+   "tr": "Benezia hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77369",
+   "en": "Is there anything else you can tell me about the Thorian?",
+   "tr": "Thorian hakkında bana söyleyebileceğin başka bir şey var mı?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77370",
+   "en": "I want to know more about you.",
+   "tr": "Senin hakkında daha fazlasını bilmek istiyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77376",
+   "en": "Enough mystic crap!",
+   "tr": "Mistik saçmalık yeter!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77377",
+   "en": "So the Cipher is knowledge?",
+   "tr": "Yani Cipher bir bilgi mi?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77378",
+   "en": "I don't understand.",
+   "tr": "Anlamıyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77388",
+   "en": "Quit making excuses.",
+   "tr": "Bahane üretmeyi bırak."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77390",
+   "en": "What do you mean?",
+   "tr": "Ne demek istiyorsun?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77400",
+   "en": "There's more to this.",
+   "tr": "Bunda daha fazlası var."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77403",
+   "en": "What should I do with you?",
+   "tr": "Seninle ne yapmalıyım?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77404",
+   "en": "I can't let you go.",
+   "tr": "Gitmene izin veremem."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77405",
+   "en": "I should leave.",
+   "tr": "Gitmeliyim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77407",
+   "en": "I can't let you live.",
+   "tr": "Yaşamana izin veremem."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77408",
+   "en": "A noble idea.",
+   "tr": "Asil bir fikir."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77409",
+   "en": "Sounds good to me.",
+   "tr": "Bana iyi geliyor."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77415",
+   "en": "Saren",
+   "tr": "Saren"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77416",
+   "en": "Sovereign",
+   "tr": "Sovereign"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77417",
+   "en": "The Matriarch",
+   "tr": "Matriarch"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77418",
+   "en": "The Thorian",
+   "tr": "Thorian"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77419",
+   "en": "Personal questions",
+   "tr": "Kişisel sorular"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77605",
+   "en": "You look a little queasy. We should get you back to the ship.",
+   "tr": "Biraz bulantılı görünüyorsun. Seni gemiye geri götürmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77606",
+   "en": "We should get you back to the ship where you can be monitored.",
+   "tr": "Seni gözlenebileceğin gemiye geri götürmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77607",
+   "en": "You look pretty rough. We should get you back to the ship.",
+   "tr": "Epey bitkin görünüyorsun. Seni gemiye geri götürmeliyiz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77608",
+   "en": "We should get you back to the ship, Commander. Medical needs to know about this.",
+   "tr": "Seni gemiye geri götürmeliyiz Komutan. Sağlık birimi bunu bilmeli."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77609",
+   "en": "You look a little unsteady, Shepard. Perhaps you should return to the Normandy.",
+   "tr": "Biraz dengesiz görünüyorsun Shepard. Belki Normandy'ye dönmelisin."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77610",
+   "en": "I am sorry if you have suffered, but there was no other way. You needed the Cipher. In time, it will help you understand the vision from the beacon.",
+   "tr": "Acı çektiyseniz üzgünüm ama başka yol yoktu. Cipher'a ihtiyacınız vardı. Zamanla işaret fişeğindeki vizyonu anlamanıza yardım edecek."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77611",
+   "en": "There is little I could tell you that you do not already know. He is powerful. He is charismatic. And he is dangerous.",
+   "tr": "Size söyleyebileceğim zaten bilmediğiniz çok az şey var. Güçlü. Karizmatik. Ve tehlikeli."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77612",
+   "en": "Once I followed him, blind to his true nature. But now I see he is leading the galaxy into an age of darkness and suffering.",
+   "tr": "Bir zamanlar gerçek doğasına kör olarak onu izledim. Ama şimdi galaksiyi bir karanlık ve acı çağına sürüklediğini görüyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77614",
+   "en": "Sovereign is alien. I do not know how it was built, or where it comes from. Its design does not match that of any known spacefaring species.",
+   "tr": "Sovereign yabancı. Nasıl inşa edildiğini veya nereden geldiğini bilmiyorum. Tasarımı bilinen hiçbir uzay yolcusu türünkine uymuyor."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77615",
+   "en": "It dwarfs any vessel in the Citadel or Alliance fleets. Its weapons are devastating; its defenses, virtually impenetrable. With it, Saren believes he is unstoppable.",
+   "tr": "Citadel veya İttifak filolarındaki her gemiyi cüceleştiriyor. Silahları yıkıcı; savunmaları neredeyse aşılamaz. Saren onunla durdurulamaz olduğuna inanıyor."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77616",
+   "en": "The indoctrination. There is an energy about Sovereign. You feel drawn to the ship. It makes Saren's arguments more persuasive, more compelling.",
+   "tr": "Telkin. Sovereign'in etrafında bir enerji var. Gemiye çekildiğinizi hissediyorsunuz. Saren'in argümanlarını daha ikna edici, daha çekici kılıyor."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77617",
+   "en": "Spend enough time in Sovereign's presence and you will lose yourself. There is no other way to explain it.",
+   "tr": "Sovereign'in huzurunda yeterince zaman geçirirseniz kendinizi kaybedersiniz. Başka açıklaması yok."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77618",
+   "en": "Benezia was greatly respected among our people. A powerful biotic, even for an asari. She was widely known as a teacher of philosophy and religion. ",
+   "tr": "Benezia halkımız arasında büyük saygı görüyordu. Bir asari için bile güçlü bir biyotikti. Felsefe ve din öğretmeni olarak geniş çevrede biliniyordu."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77619",
+   "en": "She always sought the paths of peace and harmony. She joined with Saren because she hoped to turn him away from his path of destruction.",
+   "tr": "Hep barış ve uyum yollarını aradı. Saren'e katıldı çünkü onu yıkım yolundan döndürmeyi umdu."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77620",
+   "en": "As I mentioned before, Matriarch Benezia underestimated Saren. Be sure you do not make the same mistake.",
+   "tr": "Daha önce söylediğim gibi Matriarch Benezia Saren'i hafife aldı. Aynı hatayı yapmadığınızdan emin olun."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77621",
+   "en": "No. I'm sorry. All I know is that Saren believes the Conduit was the key to the Prothean extinction.",
+   "tr": "Hayır. Üzgünüm. Tek bildiğim Saren'in Conduit'in Prothean yok oluşunun anahtarı olduğuna inandığı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77622",
+   "en": "That can't be good, whatever it is.",
+   "tr": "Bu her ne ise iyi olamaz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77623",
+   "en": "Well then whatever it is, we can't let him have it.",
+   "tr": "O halde her ne ise onun eline geçmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77624",
+   "en": "That can't be good, whatever it is.",
+   "tr": "Bu her ne ise iyi olamaz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77625",
+   "en": "Then whatever it is, we cannot let him have it.",
+   "tr": "O halde her ne ise onun eline geçmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77626",
+   "en": "Then whatever it is, we can't let him have it.",
+   "tr": "O halde her ne ise onun eline geçmesine izin veremeyiz."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77627",
+   "en": "You have the Cipher. In time, your visions will clear. They will lead you to the Conduit. I only pray you find it before Saren does.",
+   "tr": "Cipher sizde. Zamanla vizyonlarınız netleşecek. Sizi Conduit'e götürecekler. Tek duam Saren'den önce bulmanız."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77628",
+   "en": "When the creature enveloped me, I became part of it. But I still don't truly understand it. So alien. So ancient.",
+   "tr": "Yaratık beni sardığında onun bir parçası oldum. Ama hâlâ onu gerçekten anlamıyorum. Çok yabancı. Çok kadim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77629",
+   "en": "Its exact age is impossible to know. It measured time differently. Ten thousand years of hibernation broken by a few frantic centuries of activity.",
+   "tr": "Tam yaşını bilmek imkânsız. Zamanı farklı ölçüyordu. On bin yıllık kış uykusu, birkaç çılgın yüzyıllık faaliyetle bölünüyordu."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77630",
+   "en": "Its mind was awesome. Magnificent. It transcended all classification. And now it is gone.",
+   "tr": "Zihni korkutucuydu. Muhteşemdi. Tüm sınıflandırmaların ötesindeydi. Ve şimdi gitti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77631",
+   "en": "The Thorian was a unique life-form -- a sentient being that lived for 50,000 years, maybe more. There is nothing even remotely like it in the known galaxy. ",
+   "tr": "Thorian eşsiz bir yaşam formuydu -- 50.000 yıl, belki daha fazla yaşayan bilinçli bir varlık. Bilinen galakside buna uzaktan bile benzeyen bir şey yok."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77632",
+   "en": "I am grateful you saved me from a life of thralldom. Yet I cannot help but feel some sorrow for the loss of such a rare and remarkable creature.",
+   "tr": "Beni kölelik hayatından kurtardığınız için minnettarım. Yine de böylesine nadir ve olağanüstü bir yaratığın kaybı için biraz üzüntü duymadan edemiyorum."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77633",
+   "en": "There is nothing remarkable about me. I was merely one of Matriarch Benezia's disciples. For nearly two centuries, I followed her, learning at her feet.",
+   "tr": "Bende olağanüstü bir şey yok. Ben sadece Matriarch Benezia'nın müritlerinden biriydim. Neredeyse iki yüzyıl onu izledim, ayaklarının dibinde öğrendim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77634",
+   "en": "When Benezia revealed her plan to join Saren, she gave her disciples a choice. Only those who were willing had to follow her. Many felt her plan was too dangerous.",
+   "tr": "Benezia Saren'e katılma planını açıkladığında müritlerine bir seçim sundu. Yalnızca istekli olanlar onu izleyecekti. Çoğu planın çok tehlikeli olduğunu düşündü."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77635",
+   "en": "But I believed in her. I thought she could turn Saren away from his insanity. Instead, we joined him in it.",
+   "tr": "Ama ben ona inandım. Saren'i delilikten döndürebileceğini sandım. Bunun yerine biz onunla delirdik."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77643",
+   "en": "You said Saren uses it to manipulate his followers.",
+   "tr": "Saren'in bunu takipçilerini manipüle etmek için kullandığını söyledin."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77646",
+   "en": "Instead, she became one of his most powerful allies.",
+   "tr": "Bunun yerine onun en güçlü müttefiklerinden biri oldu."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77647",
+   "en": "Do you know what the Conduit is? Or where it is?",
+   "tr": "Conduit'in ne olduğunu ya da nerede olduğunu biliyor musun?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77656",
+   "en": "The galaxy's a better place with that thing dead and gone.",
+   "tr": "O şey ölüp gittiği için galaksi daha iyi bir yer."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77657",
+   "en": "Don't tell me you feel sorry for that thing.",
+   "tr": "Sakın o şeye üzüldüğünü söyleme."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77661",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77667",
+   "en": "The Conduit",
+   "tr": "Conduit"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77670",
+   "en": "It controls minds?",
+   "tr": "Zihinleri mi kontrol ediyor?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77673",
+   "en": "It backfired.",
+   "tr": "Ters tepti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77682",
+   "en": "It was an abomination!",
+   "tr": "Bir ucubeydi!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77683",
+   "en": "You sound almost sad.",
+   "tr": "Neredeyse üzgün konuşuyorsun."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77687",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77688",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77689",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|77690",
+   "en": "Don't worry. I'll be fine.",
+   "tr": "Merak etmeyin. İyi olacağım."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|93228",
+   "en": "Benezia foresaw the influence Saren would have. She joined him to guide him down a gentler path. But Saren is compelling. Benezia lost her way.",
+   "tr": "Benezia Saren'in sahip olacağı etkiyi öngördü. Onu daha yumuşak bir yola yönlendirmek için katıldı. Ama Saren çekici. Benezia yolunu kaybetti."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|93229",
+   "en": "After Saren had what he needed, the Thorian became a liability.",
+   "tr": "Saren ihtiyacı olanı alınca Thorian bir yük haline geldi."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103458",
+   "en": "I was a willing slave when Saren brought me to this world. He needed my biotics to communicate with the Thorian, to learn its secrets.",
+   "tr": "Saren beni bu dünyaya getirdiğinde istekli bir köleydim. Thorian'la iletişim kurmak ve sırlarını öğrenmek için biyotiklerime ihtiyacı vardı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103460",
+   "en": "I'm here to make a deal.",
+   "tr": "Buraya bir anlaşma yapmaya geldim."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103461",
+   "en": "He tricked her?",
+   "tr": "Onu kandırdı mı?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103462",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103464",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103466",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103468",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103470",
+   "en": "How is this possible?",
+   "tr": "Bu nasıl mümkün?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|103473",
+   "en": "What does it do?",
+   "tr": "Ne işe yarıyor?"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111574",
+   "en": "Try to relax, Commander. Slow, deep breaths. Let go of your physical shell. Reach out to grasp the threads that bind us, one to another.",
+   "tr": "Rahatlamaya çalışın Komutan. Yavaş, derin nefesler. Fiziksel kabuğunuzu bırakın. Bizi birbirimize bağlayan ipliklere uzanıp tutun."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111575",
+   "en": "Every action sends ripples across the galaxy. Every idea must touch another mind to live. Each emotion must mark another's spirit.",
+   "tr": "Her eylem galakside dalgalar yaratır. Her fikir yaşamak için başka bir zihne dokunmalı. Her duygu başkasının ruhunda iz bırakmalı."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111576",
+   "en": "Embrace eternity!",
+   "tr": "Sonsuzluğu kucaklayın!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111578",
+   "en": "I need that knowledge to stop Saren!",
+   "tr": "Saren'i durdurmak için o bilgiye ihtiyacım var!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111579",
+   "en": "You taught Saren. You can teach me.",
+   "tr": "Saren'e öğrettin. Bana da öğretebilirsin."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111580",
+   "en": "I need the Cipher.",
+   "tr": "Cipher'a ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111584",
+   "en": "There has to be some way!",
+   "tr": "Bir yolu olmalı!"
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111585",
+   "en": "You gave it to Saren.",
+   "tr": "Saren'e verdin."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|111586",
+   "en": "I need that information.",
+   "tr": "O bilgiye ihtiyacım var."
+  },
+  {
+   "key": "BIOA_WAR30_02I_CIN|war30_thorianasari_D|119960",
+   "en": "We are all connected. Every living being united in a single, glorious existence. Open yourself to the universe, Commander.",
+   "tr": "Hepimiz bağlıyız. Her canlı tek, muhteşem bir varoluşta birleşmiş. Kendinizi evrene açın Komutan."
+  }
+ ]
+}

@@ -1,0 +1,230 @@
+{
+ "meta": {
+  "package": "BIOA_GLO00_A_Opening_Flyby_CIN.pcc",
+  "stem": "BIOA_GLO00_A_Opening_Flyby_CIN",
+  "textLang": "INT",
+  "sets": 1
+ },
+ "entries": [
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|1502",
+   "en": "Thrusters... check. Navigation... check. Internal emissions sink engaged. All systems online. Drift... just under 1500 K.",
+   "tr": "İtici motorlar... tamam. Seyrüsefer... tamam. İç emisyon emici devrede. Tüm sistemler çevrimiçi. Sürüklenme... 1500 K'nin hemen altında."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|1519",
+   "en": "Joker! Status report.",
+   "tr": "Joker! Durum raporu."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|2718",
+   "en": "Just cleared the mass relay, Captain. Stealth systems engaged. Everything looks solid.",
+   "tr": "Kütle rölesini yeni geçtik, Kaptan. Gizlilik sistemleri devrede. Her şey sağlam görünüyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|2719",
+   "en": "Good. Find a comm buoy and link us into the network. I want mission reports relayed back to Alliance brass before we reach Eden Prime.",
+   "tr": "İyi. Bir haberleşme şamandırası bulup bizi ağa bağla. Eden Prime'a varmadan görev raporlarının İttifak komutanlığına iletilmesini istiyorum."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|2721",
+   "en": "Pff. Don't blame me. The captain's always in a bad mood.",
+   "tr": "Pff. Beni suçlama. Kaptan hep kötü ruh hâlinde."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|2723",
+   "en": "I can't possibly imagine why.",
+   "tr": "Nedenini hayal bile edemiyorum."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|3471",
+   "en": "Aye, aye, Captain. Better brace yourself, sir. I think Nihlus is headed your way.",
+   "tr": "Emredersiniz, Kaptan. Hazırlansanız iyi olur, efendim. Sanırım Nihlus size doğru geliyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|53642",
+   "en": "The captain's waiting for you in the comm room, Commander.",
+   "tr": "Kaptan sizi haberleşme odasında bekliyor, Komutan."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|53647",
+   "en": "Great. You piss the captain off and now I'm going to pay for it.",
+   "tr": "Harika. Sen kaptanı kızdırdın, şimdi bedelini ben ödeyeceğim."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|53654",
+   "en": "You made him mad.",
+   "tr": "Onu sen kızdırdın."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|53672",
+   "en": "Tell Commander Shepard to meet me in the comm room for a debriefing.",
+   "tr": "Komutan Shepard'a söyle, bilgilendirme için haberleşme odasında benimle buluşsun."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65190",
+   "en": "The Arcturus Prime relay is in range. Initiating transmission sequence.",
+   "tr": "Arcturus Prime rölesi menzilde. İletim dizisi başlatılıyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65192",
+   "en": "1500 is good. Your captain will be pleased.",
+   "tr": "1500 iyi. Kaptanın memnun olacak."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65198",
+   "en": "I hate that guy.",
+   "tr": "Şu adamdan nefret ediyorum."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65199",
+   "en": "You're paranoid. The Council helped fund this project. They have a right to send someone to keep an eye on their investment.",
+   "tr": "Paranoyaksın. Konsey bu projeyi finanse etmeye yardım etti. Yatırımlarını izlemesi için birini göndermeye hakları var."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65200",
+   "en": "Yeah, that is the official story. But only an idiot believes the official story.",
+   "tr": "Evet, resmî hikâye bu. Ama resmî hikâyeye yalnızca aptallar inanır."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65201",
+   "en": "So there's more going on here than the captain's letting on.",
+   "tr": "Yani burada kaptanın söylediğinden fazlası dönüyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65202",
+   "en": "Sorry, Commander.",
+   "tr": "Üzgünüm, Komutan."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65217",
+   "en": "They don't send Spectres on shakedown runs. ",
+   "tr": "Deneme seferlerine Spectre göndermezler."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65220",
+   "en": "That's enough. You're soldiers. Act like it!",
+   "tr": "Yeter. Siz askerlersiniz. Öyle davranın!"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65237",
+   "en": "I agree.",
+   "tr": "Katılıyorum."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|65239",
+   "en": "Cut the chatter!",
+   "tr": "Kesin gevezeliği!"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|93207",
+   "en": "Good timing, Commander. I was just about to bring us in to the Citadel. See that taxpayer money at work.",
+   "tr": "İyi zamanlama, Komutan. Tam bizi Citadel'e sokmak üzereydim. Vergi mükelleflerinin parasının nasıl iş gördüğüne bakın."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|101470",
+   "en": "You remember to zip up your jumpsuit on the way out of the bathroom? That's good. I just jumped us halfway across the galaxy and hit a target the size of a pinhead. So that's incredible!",
+   "tr": "Tuvaletten çıkarken tulumunun fermuarını çekmeyi hatırladın mı? İyi. Ben bizi galaksinin yarısı kadar öteye zıplattım ve toplu iğne başı kadar bir hedefe vurdum. Yani inanılmaz!"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|101556",
+   "en": "All stations secure for transit. ",
+   "tr": "Tüm istasyonlar geçiş için güvende."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|101557",
+   "en": "The board is green. Approach run has begun.",
+   "tr": "Panel yeşil. Yaklaşma başladı."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|101558",
+   "en": "Hitting the relay in 3... 2... 1...",
+   "tr": "Röleye vuruyoruz, 3... 2... 1..."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|102169",
+   "en": "Nihlus gave you a compliment... so you hate him?",
+   "tr": "Nihlus sana iltifat etti... ve sen ondan nefret mi ediyorsun?"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|102170",
+   "en": "Besides, Spectres are trouble. I don't like having him on board. Call me paranoid.",
+   "tr": "Üstelik Spectre'lar baş belası. Gemide olması hoşuma gitmiyor. Paranoyak deyin."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|102171",
+   "en": "Well, bad feelings are an occupational hazard. We don't go anywhere unless there's a good reason, so what are we doing here?",
+   "tr": "Kötü önsezi mesleki risk. İyi bir sebep olmadan hiçbir yere gitmeyiz, o zaman burada ne işimiz var?"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|102174",
+   "en": "You always expect the worst.",
+   "tr": "Hep en kötüsünü bekliyorsun."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|102178",
+   "en": "You're overreacting.",
+   "tr": "Abartıyorsun."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|102817",
+   "en": "He's already here, Lieutenant. ",
+   "tr": "O zaten burada, Teğmen."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|145136",
+   "en": "You get that, Commander?",
+   "tr": "Bunu anladınız mı, Komutan?"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|147242",
+   "en": "We are connected. Calculating transit mass and destination.",
+   "tr": "Bağlandık. Geçiş kütlesi ve varış noktası hesaplanıyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|147243",
+   "en": "The relay is hot. Acquiring approach vector.",
+   "tr": "Röle sıcak. Yaklaşma vektörü alınıyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|147251",
+   "en": "Commander.",
+   "tr": "Komutan."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148773",
+   "en": "Pff. Captain always sounds like that when he's talking to me.",
+   "tr": "Pff. Kaptan benimle konuşurken hep böyle ses çıkarıyor."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148774",
+   "en": "Pff. Is it me or does the captain always sound a little pissed off?",
+   "tr": "Pff. Bana mı öyle geliyor yoksa kaptan hep biraz öfkeli mi konuşuyor?"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148775",
+   "en": "Only when he's talking to you, Joker.",
+   "tr": "Sadece seninle konuşurken, Joker."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148776",
+   "en": "He sounds angry. Something must have gone wrong with the mission.",
+   "tr": "Kızgın görünüyor. Görevde bir şeyler ters gitmiş olmalı."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148778",
+   "en": "I'm on my way.",
+   "tr": "Geliyorum."
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148780",
+   "en": "Is he upset?",
+   "tr": "Üzgün mü?"
+  },
+  {
+   "key": "BIOA_GLO00_A_Opening_Flyby_CIN|nor10_joker_D|148781",
+   "en": "I heard.",
+   "tr": "Duydum."
+  }
+ ]
+}
