@@ -9,7 +9,7 @@
   {
    "key": "u23995",
    "en": "Immunity\n\nBriefly, but greatly increases your armor's protection, significantly reducing health damage in emergencies.",
-   "tr": "",
+   "tr": "Bağışıklık\n\nZırhınızın korumasını kısa süreliğine ama büyük ölçüde artırarak acil durumlarda sağlık hasarını önemli ölçüde azaltır.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u23996",
    "en": "Advanced Immunity\n\nIncreases health damage reduction",
-   "tr": "",
+   "tr": "Gelişmiş Bağışıklık\n\nSağlık hasarı azaltmasını artırır",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u23997",
    "en": "Master Immunity\n\nFurther increases health damage reduction",
-   "tr": "",
+   "tr": "Usta Bağışıklık\n\nSağlık hasarı azaltmasını daha da artırır",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u23998",
    "en": "Throw\n\nAllows you to throw enemies and objects using a mass effect field",
-   "tr": "",
+   "tr": "Fırlatma\n\nKütle etkisi alanı kullanarak düşmanları ve nesneleri fırlatmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u23999",
    "en": "Shield Boost\n\nRecharges a portion of your shields, and will restore them even while you are under fire.",
-   "tr": "",
+   "tr": "Kalkan Güçlendirme\n\nKalkanlarınızın bir kısmını yeniler ve ateş altındayken bile geri getirir.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u24000",
    "en": "Master Throw\n\nIncreases the size and strength of the mass effect field, and allows you to Throw more often",
-   "tr": "",
+   "tr": "Usta Fırlatma\n\nKütle etkisi alanının boyutunu ve gücünü artırır ve daha sık Fırlatma yapmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u24001",
    "en": "Advanced Throw\n\nIncreases the size and strength of the mass effect field, and allows you to Throw more often",
-   "tr": "",
+   "tr": "Gelişmiş Fırlatma\n\nKütle etkisi alanının boyutunu ve gücünü artırır ve daha sık Fırlatma yapmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u24002",
    "en": "Medium Armor\n\nYou may now equip medium armor.",
-   "tr": "",
+   "tr": "Orta Zırh\n\nArtık orta zırh kuşanabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u24003",
    "en": "Heavy Armor\n\nYou may now equip heavy armor.",
-   "tr": "",
+   "tr": "Ağır Zırh\n\nArtık ağır zırh kuşanabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u24004",
    "en": "Lift\n\nLifts and suspends enemies in the air, so they are unable to move or attack",
-   "tr": "",
+   "tr": "Kaldırma\n\nDüşmanları havaya kaldırıp askıda tutar; böylece hareket edemez ve saldıramazlar",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u24005",
    "en": "Advanced Lift\n\nLift lasts longer, takes less time to recharge, and allows you to hit more objects with a bigger field",
-   "tr": "",
+   "tr": "Gelişmiş Kaldırma\n\nKaldırma daha uzun sürer, daha kısa sürede yeniden dolar ve daha büyük bir alanla daha fazla nesneye vurmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u24006",
    "en": "Master Lift\n\nLift lasts even longer and allows you to hit more objects with a much bigger field",
-   "tr": "",
+   "tr": "Usta Kaldırma\n\nKaldırma daha da uzun sürer ve çok daha büyük bir alanla daha fazla nesneye vurmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u24007",
    "en": "Loading",
-   "tr": "",
+   "tr": "Yükleniyor",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u24008",
    "en": "REPAIRING",
-   "tr": "",
+   "tr": "ONARILIYOR",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u24009",
    "en": "Map Abilities",
-   "tr": "",
+   "tr": "Yetenekleri Eşle",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u24010",
    "en": "Exit Mapping Mode",
-   "tr": "",
+   "tr": "Eşleme Modundan Çık",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u24011",
    "en": "Exit Squad Command",
-   "tr": "",
+   "tr": "Takım Komutundan Çık",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u24012",
    "en": "Garrus told you about his encounter with Dr. Saleon, the geneticist. He regrets letting him escape the first time and hopes that you'll be able to track him down and bring him to justice.",
-   "tr": "",
+   "tr": "Garrus, genetikçi Dr. Saleon ile karşılaşmasını anlattı. İlk seferinde kaçmasına izin verdiği için pişman ve onu bulup adalete teslim edebilmenizi umuyor.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u24013",
    "en": "Garrus: Find Dr. Saleon",
-   "tr": "",
+   "tr": "Garrus: Dr. Saleon'u Bul",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u24014",
    "en": "Garrus gave the coordinates of Dr. Saleon's last known whereabouts. Head to the Herschel System in the Kepler Verge.",
-   "tr": "",
+   "tr": "Garrus, Dr. Saleon'un bilinen son konumunun koordinatlarını verdi. Kepler Verge'deki Herschel Sistemi'ne gidin.",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u24015",
    "en": "Head to Coordinates",
-   "tr": "",
+   "tr": "Koordinatlara Git",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u24016",
    "en": "You've boarded the MSV Fedele, see if Dr. Saleon is on board.",
-   "tr": "",
+   "tr": "MSV Fedele'ye çıktınız; Dr. Saleon'un gemide olup olmadığına bakın.",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u24017",
    "en": "Find Dr. Saleon",
-   "tr": "",
+   "tr": "Dr. Saleon'u Bul",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u24018",
    "en": "You found Dr. Saleon and killed him. Whatever sick experiments he was conducting are now over. Garrus was disappointed that he didn't get to finish what he started, but he seemed to understand why did it.",
-   "tr": "",
+   "tr": "Dr. Saleon'u bulup öldürdünüz. Yürüttüğü hasta deneylerin hepsi sona erdi. Garrus başladığı işi bitirememenin hayal kırıklığını yaşadı, ama bunu neden yaptığınızı anlıyor gibiydi.",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u24019",
    "en": "Garrus: Dr. Saleon is Dead",
-   "tr": "",
+   "tr": "Garrus: Dr. Saleon Öldü",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u24020",
    "en": "You found Dr. Saleon and Garrus killed him. Whatever sick experiments he was conducting are now over. Garrus seems relieved now that it's over and Dr. Saleon is no longer free to cause havoc.",
-   "tr": "",
+   "tr": "Dr. Saleon'u buldunuz ve Garrus onu öldürdü. Yürüttüğü hasta deneylerin hepsi sona erdi. Garrus artık bittiği ve Dr. Saleon'un artık ortalığı kasıp kavurmak için özgür olmadığı için rahatlamış görünüyor.",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u24021",
    "en": "You found Dr. Saleon and tried to arrest him, but died trying to fight you off. Whatever sick experiments he was conducting are now over. Garrus seems relieved now that it's over and Dr. Saleon is no longer free to cause havoc.",
-   "tr": "",
+   "tr": "Dr. Saleon'u bulup tutuklamaya çalıştınız, ama o sizi savuşturmaya çalışırken öldü. Yürüttüğü hasta deneylerin hepsi sona erdi. Garrus artık bittiği ve Dr. Saleon'un artık ortalığı kasıp kavurmak için özgür olmadığı için rahatlamış görünüyor.",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u24022",
    "en": "You found Dr. Saleon and killed him. Whatever sick experiments he was conducting are now over. Garrus was not with you and he'll likely be upset he wasn't there to finish off Saleon himself.",
-   "tr": "",
+   "tr": "Dr. Saleon'u bulup öldürdünüz. Yürüttüğü hasta deneylerin hepsi sona erdi. Garrus yanınızda değildi ve Saleon'u kendi başına bitirmek için orada olamadığı için büyük olasılıkla üzülecek.",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u24023",
    "en": "DISCOVERY\nThis cluster of prefab utility shacks have a distinctly ramshackle look to them. A set of rover tracks lead away over the mountain ridge to the southwest.",
-   "tr": "",
+   "tr": "KEŞİF\nBu hazır yardımcı barakalar kümesi belirgin biçimde derme çatma görünüyor. Bir dizi gezici izi, güneybatıdaki dağ sırtının üzerinden uzaklaşıyor.",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u24024",
    "en": "Abandoned Mining Camp",
-   "tr": "",
+   "tr": "Terk Edilmiş Maden Kampı",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u24025",
    "en": "DISCOVERY\nThe front of the rover is crumpled in from impact. A glance inside tells you the occupants - probably a team of illegal \"wildcat\" miners - are dead. Debris is still sliding down the furrows left by its tires, silent in the near-vacuum atmosphere.",
-   "tr": "",
+   "tr": "KEŞİF\nGezicinin ön kısmı çarpmadan buruşmuş. İçeriye bir bakış, içindekilerin – muhtemelen yasa dışı \"vahşi madenci\" ekibi – öldüğünü söylüyor. Moloz, lastiklerinin bıraktığı oluklardan hâlâ aşağı kayıyor; neredeyse vakum atmosferinde sessizce.",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u24026",
    "en": "Crashed Mining Vehicle",
-   "tr": "",
+   "tr": "Düşmüş Madencilik Aracı",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u24027",
    "en": "After to talking to Wrex you learned that he's looking for his family's ceremonial armor. It was taken by the turians after the Krogan Rebellion and now a profiteer named Tonn Actus has it.",
-   "tr": "",
+   "tr": "Wrex ile konuştuktan sonra ailesinin tören zırhını aradığını öğrendiniz. Krogan İsyanı'ndan sonra turian'lar tarafından alınmış ve şimdi Tonn Actus adlı bir vurguncuda.",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u24028",
    "en": "Wrex: Family Armor",
-   "tr": "",
+   "tr": "Wrex: Aile Zırhı",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u24029",
    "en": "You found a krogan armor belonging to the Urdnot Clan while exploring the planet Tuntau. It appears to very old and perhaps very valuable.",
-   "tr": "",
+   "tr": "Tuntau gezegenini keşfederken Urdnot Klanı'na ait bir krogan zırhı buldunuz. Çok eski ve belki de çok değerli görünüyor.",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u24030",
    "en": "Wrex was very happy that you recovered his armor. Apparently it's not very good, but it does have sentimental value. Well... sentimental for a krogan.",
-   "tr": "",
+   "tr": "Wrex zırhını kurtarmanıza çok sevindi. Görünüşe göre pek iyi değil, ama duygusal değeri var. Peki... bir krogan için duygusal.",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u24031",
    "en": "Find the turian who stole Wrex's family armor. He's hiding at a base somewhere in the Argos Rho cluster.",
-   "tr": "",
+   "tr": "Wrex'in aile zırhını çalan turian'ı bulun. Argos Rho kümesinde bir yerdeki bir üste saklanıyor.",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u24032",
    "en": "Find Wrex's Armor",
-   "tr": "",
+   "tr": "Wrex'in Zırhını Bul",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u24033",
    "en": "You've discovered armor belonging to a krogan from the Urdnot clan. There was krogan back on the Citadel called Urdnot Wrex. Maybe he knows something about this.",
-   "tr": "",
+   "tr": "Urdnot klanından bir krogan'a ait zırh keşfettiniz. Citadel'de Urdnot Wrex adında bir krogan vardı. Belki bu konuda bir şeyler biliyordur.",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u24034",
    "en": "Find the Owner of this Armor",
-   "tr": "",
+   "tr": "Bu Zırhın Sahibini Bul",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u24035",
    "en": "Give Armor to Wrex",
-   "tr": "",
+   "tr": "Zırhı Wrex'e Ver",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u24036",
    "en": "Wrex must know something about the armor you found on Tuntau. Talk to him and see what he can tell you about it.",
-   "tr": "",
+   "tr": "Wrex, Tuntau'da bulduğunuz zırh hakkında bir şey biliyor olmalı. Onunla konuşup size ne söyleyebileceğine bakın.",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u24037",
    "en": "You found armor that belongs to the Urdnot Clan. The only krogan you knew with that name is dead and gone. Wrex won't be needing this anytime soon.",
-   "tr": "",
+   "tr": "Urdnot Klanı'na ait bir zırh buldunuz. O isimle tanıdığınız tek krogan ölüp gitti. Wrex'in buna yakın zamanda ihtiyacı olmayacak.",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u24038",
    "en": "You found krogan armor belonging to the Urdnot Clan. If Wrex was still alive he could probably tell you more about it.",
-   "tr": "",
+   "tr": "Urdnot Klanı'na ait krogan zırhı buldunuz. Wrex hâlâ hayatta olsaydı muhtemelen size daha fazlasını anlatabilirdi.",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u24039",
    "en": "Replenish Medi-gel",
-   "tr": "",
+   "tr": "Medi-jeli Yenile",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u24040",
    "en": "Grenade Upgrade I",
-   "tr": "",
+   "tr": "El Bombası Yükseltmesi I",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u24041",
    "en": "Grenade Upgrade II",
-   "tr": "",
+   "tr": "El Bombası Yükseltmesi II",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u24042",
    "en": "Grenade Upgrade III",
-   "tr": "",
+   "tr": "El Bombası Yükseltmesi III",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u24043",
    "en": "Grenade Upgrade IV",
-   "tr": "",
+   "tr": "El Bombası Yükseltmesi IV",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u24044",
    "en": "Grenade Upgrade V",
-   "tr": "",
+   "tr": "El Bombası Yükseltmesi V",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u24045",
    "en": "Medigel Upgrade I",
-   "tr": "",
+   "tr": "Medi-jel Yükseltmesi I",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u24046",
    "en": "Medigel Upgrade II",
-   "tr": "",
+   "tr": "Medi-jel Yükseltmesi II",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u24047",
    "en": "Medigel Upgrade III",
-   "tr": "",
+   "tr": "Medi-jel Yükseltmesi III",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u24048",
    "en": "Medigel Upgrade IV",
-   "tr": "",
+   "tr": "Medi-jel Yükseltmesi IV",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u24049",
    "en": "Medigel Upgrade V",
-   "tr": "",
+   "tr": "Medi-jel Yükseltmesi V",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u24050",
    "en": "Increases maximum number of grenades carried by 1",
-   "tr": "",
+   "tr": "Taşınan azami el bombası sayısını 1 artırır",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u24051",
    "en": "Increases maximum units of medi-gel by 1",
-   "tr": "",
+   "tr": "Azami medi-jel birimini 1 artırır",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u24052",
    "en": "Warp\n\nDamages all nearby enemies and objects and makes them more vulnerable to further damage",
-   "tr": "",
+   "tr": "Warp\n\nYakındaki tüm düşmanlara ve nesnelere hasar verir ve onları daha fazla hasara karşı daha savunmasız kılar",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u24053",
    "en": "Singularity\n\nCreates a vortex that draws objects towards it",
-   "tr": "",
+   "tr": "Tekillik\n\nNesneleri kendine çeken bir girdap oluşturur",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u24054",
    "en": "Master Warp\n\nIncreases Warp's effect, radius, duration and allows it to be used more often",
-   "tr": "",
+   "tr": "Usta Warp\n\nWarp'ın etkisini, yarıçapını, süresini artırır ve daha sık kullanılmasını sağlar",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u24055",
    "en": "Advanced Warp\n\nIncreases Warp's effect, radius, duration and allows it to be used more often",
-   "tr": "",
+   "tr": "Gelişmiş Warp\n\nWarp'ın etkisini, yarıçapını, süresini artırır ve daha sık kullanılmasını sağlar",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u24056",
    "en": "Master First Aid\n\nSignificantly increases the amount of health restored by First Aid",
-   "tr": "",
+   "tr": "Usta İlk Yardım\n\nİlk Yardım'ın yenilediği sağlık miktarını önemli ölçüde artırır",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u24057",
    "en": "First Aid\n\nDeploys medi-gel to all wounded squad members, restoring their health",
-   "tr": "",
+   "tr": "İlk Yardım\n\nTüm yaralı takım üyelerine medi-jel yayarak sağlıklarını yeniler",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u24058",
    "en": "Advanced First Aid\n\nIncreases the amount of health restored by First Aid",
-   "tr": "",
+   "tr": "Gelişmiş İlk Yardım\n\nİlk Yardım'ın yenilediği sağlık miktarını artırır",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u24059",
    "en": "Master Singularity\n\nFurther increases the radius and duration of Singularity, and allows you to use it more often",
-   "tr": "",
+   "tr": "Usta Tekillik\n\nTekillik'in yarıçapını ve süresini daha da artırır ve daha sık kullanmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u24060",
    "en": "Master Sabotage\n\nFurther increases the radius and strength of Sabotage",
-   "tr": "",
+   "tr": "Usta Sabotaj\n\nSabotaj'ın yarıçapını ve gücünü daha da artırır",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u24061",
    "en": "Master Neural Shock\n\nStuns organic enemies longer, increases amount of toxic damage",
-   "tr": "",
+   "tr": "Usta Sinir Şoku\n\nOrganik düşmanları daha uzun sersemletir, zehirli hasar miktarını artırır",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u24062",
    "en": "Neural Shock\n\nStuns organic enemies for a few moments, and inflicts toxic damage",
-   "tr": "",
+   "tr": "Sinir Şoku\n\nOrganik düşmanları kısa bir süre sersemletir ve zehirli hasar verir",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u24063",
    "en": "Advanced Singularity\n\nIncreases the radius and duration of Singularity, and allows you to use it more often",
-   "tr": "",
+   "tr": "Gelişmiş Tekillik\n\nTekillik'in yarıçapını ve süresini artırır ve daha sık kullanmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u24064",
    "en": "Barrier\n\nAdds a biotic barrier to your shield that absorbs damage, but cannot block attacks that bypass shields",
-   "tr": "",
+   "tr": "Bariyer\n\nKalkanınıza hasarı emen biyotik bir bariyer ekler, ancak kalkanları atlayan saldırıları engelleyemez",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u24065",
    "en": "Advanced Barrier\n\nIncreases the amount of damage Barier absorbs, allows you to use Barrier for a longer duration and more often",
-   "tr": "",
+   "tr": "Gelişmiş Bariyer\n\nBariyer'in emdiği hasar miktarını artırır, Bariyer'i daha uzun süre ve daha sık kullanmanızı sağlar",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u24066",
    "en": "Master Barrier\n\nIncreases the duration and shield strength of Barrier",
-   "tr": "",
+   "tr": "Usta Bariyer\n\nBariyer'in süresini ve kalkan gücünü artırır",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u24067",
    "en": "Stasis\n\nContains the target in a Mass Effect field that holds them in place, but also makes them immune to damage",
-   "tr": "",
+   "tr": "Stazis\n\nHedefi yerinde tutan ama aynı zamanda hasara karşı bağışık kılan bir Kütle Etkisi alanında hapseder",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u24068",
    "en": "Advanced Stasis\n\nMakes Stasis available for use more often",
-   "tr": "",
+   "tr": "Gelişmiş Stazis\n\nStazis'in daha sık kullanılabilmesini sağlar",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u24069",
    "en": "Master Stasis\n\nMakes Stasis available for use more often",
-   "tr": "",
+   "tr": "Usta Stazis\n\nStazis'in daha sık kullanılabilmesini sağlar",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u24070",
    "en": "Overload\n\nDamages enemy shields within a certain radius",
-   "tr": "",
+   "tr": "Aşırı Yükleme\n\nBelirli bir yarıçaptaki düşman kalkanlarına hasar verir",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u24071",
    "en": "Advanced Overload\n\nIncreases the radius and strength of Overload",
-   "tr": "",
+   "tr": "Gelişmiş Aşırı Yükleme\n\nAşırı Yükleme'nin yarıçapını ve gücünü artırır",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u24072",
    "en": "Master Overload\n\nFurther increases the radius and strength of Overload",
-   "tr": "",
+   "tr": "Usta Aşırı Yükleme\n\nAşırı Yükleme'nin yarıçapını ve gücünü daha da artırır",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u24073",
    "en": "Damping\n\nTemporarily disables enemy biotics and tech within a certain radius",
-   "tr": "",
+   "tr": "Sönümleme\n\nBelirli bir yarıçaptaki düşman biyotiklerini ve teknolojisini geçici olarak devre dışı bırakır",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u24074",
    "en": "Master Damping\n\nFurther increases the radius and strength of Damping",
-   "tr": "",
+   "tr": "Usta Sönümleme\n\nSönümleme'nin yarıçapını ve gücünü daha da artırır",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u24075",
    "en": "AI Hacking\n\nTemporarily drives robotic enemies berserk so they will attack anything nearby, including their former allies",
-   "tr": "",
+   "tr": "Yapay Zekâ Hackleme\n\nRobotik düşmanları geçici olarak çıldırtır; böylece eski müttefikleri de dahil yakındaki her şeye saldırırlar",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u24076",
    "en": "Advanced AI Hacking\n\nHack will now work on more advanced robotic enemies, and for a longer time",
-   "tr": "",
+   "tr": "Gelişmiş Yapay Zekâ Hackleme\n\nHackleme artık daha gelişmiş robotik düşmanlarda ve daha uzun süre işe yarar",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u24077",
    "en": "Master AI Hacking\n\nDrives all but the toughest enemies berserk for an even longer time",
-   "tr": "",
+   "tr": "Usta Yapay Zekâ Hackleme\n\nEn dayanıklılar dışındaki tüm düşmanları daha da uzun süre çıldırtır",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u24078",
    "en": "Sabotage\n\nOverheats nearby enemy weapons, and burns them for minor damage",
-   "tr": "",
+   "tr": "Sabotaj\n\nYakındaki düşman silahlarını aşırı ısıtır ve onlara hafif hasar verir",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u24079",
    "en": "Advanced Neural Shock\n\nStuns organic enemies longer, increases amount of toxic damage",
-   "tr": "",
+   "tr": "Gelişmiş Sinir Şoku\n\nOrganik düşmanları daha uzun sersemletir, zehirli hasar miktarını artırır",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u24080",
    "en": "Crane",
-   "tr": "",
+   "tr": "Crane",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u24081",
    "en": "Store Discount\n\nGives a small discount when purchasing items",
-   "tr": "",
+   "tr": "Mağaza İndirimi\n\nEşya satın alırken küçük bir indirim sağlar",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u24082",
    "en": "Store Discount\n\nDoubles your store discount",
-   "tr": "",
+   "tr": "Mağaza İndirimi\n\nMağaza indiriminizi ikiye katlar",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u24083",
    "en": "Store Discount\n\nTriples your store discount",
-   "tr": "",
+   "tr": "Mağaza İndirimi\n\nMağaza indiriminizi üçe katlar",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u24084",
    "en": "Motivated Buyer\n\nReceives extra credits when selling items to stores",
-   "tr": "",
+   "tr": "Hevesli Alıcı\n\nMağazalara eşya satarken ekstra kredi alır",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u24085",
    "en": "Motivated Buyer\n\nReceives twice as many extra credits when selling items to stores",
-   "tr": "",
+   "tr": "Hevesli Alıcı\n\nMağazalara eşya satarken iki kat ekstra kredi alır",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u24086",
    "en": "Motivated Buyer\n\nReceives three times as many extra credits when selling items to stores",
-   "tr": "",
+   "tr": "Hevesli Alıcı\n\nMağazalara eşya satarken üç kat ekstra kredi alır",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u24087",
    "en": "Immunity Specialization\n\nMakes Immunity available for use more often.",
-   "tr": "",
+   "tr": "Bağışıklık Uzmanlığı\n\nBağışıklığın daha sık kullanılabilmesini sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u24088",
    "en": "Adrenaline Burst Specialization\n\nMakes Adrenaline Burst available for use more often.",
-   "tr": "",
+   "tr": "Adrenalin Patlaması Uzmanlığı\n\nAdrenalin Patlaması'nın daha sık kullanılabilmesini sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u24089",
    "en": "Barrier Specialization\n\nMakes Barrier last longer and absorb more damage\nThe Barrier will also regenerate",
-   "tr": "",
+   "tr": "Bariyer Uzmanlığı\n\nBariyer'in daha uzun sürmesini ve daha fazla hasar emmesini sağlar\nBariyer ayrıca yenilenecek",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u24090",
    "en": "Assassin Specialization\n\nMakes Assassinate and Marksman available for use more often",
-   "tr": "",
+   "tr": "Suikastçı Uzmanlığı\n\nSuikast ve Nişancı'nın daha sık kullanılabilmesini sağlar",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u24091",
    "en": "Overload Specialization\n\nIncreases the strength and size of the Overload mine explosion.",
-   "tr": "",
+   "tr": "Aşırı Yükleme Uzmanlığı\n\nAşırı Yükleme mayını patlamasının gücünü ve boyutunu artırır.",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u24092",
    "en": "Sabotage Specialization\n\nIncreases the strength and size of the Sabotage mine explosion.",
-   "tr": "",
+   "tr": "Sabotaj Uzmanlığı\n\nSabotaj mayını patlamasının gücünü ve boyutunu artırır.",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u24093",
    "en": "Damping Specialization\n\nIncreases the strength and size of the Damping mine explosion.",
-   "tr": "",
+   "tr": "Sönümleme Uzmanlığı\n\nSönümleme mayını patlamasının gücünü ve boyutunu artırır.",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u24094",
    "en": "First Aid Specialization\n\nFirst Aid heals more, ignores toxic damage, and can revive dead squad members.",
-   "tr": "",
+   "tr": "İlk Yardım Uzmanlığı\n\nİlk Yardım daha çok iyileştirir, zehirli hasarı yok sayar ve ölü takım üyelerini diriltebilir.",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u24095",
    "en": "Neural Shock Specialization\n\nIncreases the duration and damage inflicted by Neural Shock",
-   "tr": "",
+   "tr": "Sinir Şoku Uzmanlığı\n\nSinir Şoku'nun süresini ve verdiği hasarı artırır",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u24096",
    "en": "Warp Specialization\n\nIncreases the radius of the Warp field, and the amount of damage it inflicts",
-   "tr": "",
+   "tr": "Warp Uzmanlığı\n\nWarp alanının yarıçapını ve verdiği hasar miktarını artırır",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u24097",
    "en": "Lift Specialization\n\nIncreases the radius of the Lift field so it can hit more objects.",
-   "tr": "",
+   "tr": "Kaldırma Uzmanlığı\n\nKaldırma alanının yarıçapını artırır; böylece daha fazla nesneye vurabilir.",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u24098",
    "en": "Lift Specialization\n\nIncreases the size of the Lift field so it can hit more objects.",
-   "tr": "",
+   "tr": "Kaldırma Uzmanlığı\n\nKaldırma alanının boyutunu artırır; böylece daha fazla nesneye vurabilir.",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u24099",
    "en": "Throw Specialization\n\nIncreases the size of the Throw field so it can hit more objects.",
-   "tr": "",
+   "tr": "Fırlatma Uzmanlığı\n\nFırlatma alanının boyutunu artırır; böylece daha fazla nesneye vurabilir.",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u24100",
    "en": "Stasis Specialization\n\nAllows enemies in Stasis to be damaged.",
-   "tr": "",
+   "tr": "Stazis Uzmanlığı\n\nStazisteki düşmanlara hasar verilebilmesini sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u24101",
    "en": "Unity\n\nAllows you to immediately restore your squad members to fighting state after they have been knocked out in combat",
-   "tr": "",
+   "tr": "Birlik\n\nSavaşta bayıltılan takım üyelerinizi hemen savaşabilir duruma geri getirmenizi sağlar",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u24102",
    "en": "Advanced Unity\n\nIncreases the amount of health and shields restored by Unity",
-   "tr": "",
+   "tr": "Gelişmiş Birlik\n\nBirlik'in yenilediği sağlık ve kalkan miktarını artırır",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u24103",
    "en": "Master Unity\n\nFurther increases the amount of health and shields restored by Unity",
-   "tr": "",
+   "tr": "Usta Birlik\n\nBirlik'in yenilediği sağlık ve kalkan miktarını daha da artırır",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u24104",
    "en": "While on the Citadel you uncovered an Alliance patrol report. One of the patrols mentioned some strange activity in the Hydra System of the Argos Rho cluster.",
-   "tr": "",
+   "tr": "Citadel'deyken bir İttifak devriye raporu ortaya çıkardınız. Devriyelerden biri Argos Rho kümesinin Hydra Sistemi'nde tuhaf bir faaliyetten söz ediyordu.",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u24105",
    "en": "Unusual Readings",
-   "tr": "",
+   "tr": "Olağandışı Okumalar",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u24106",
    "en": "Go to the Hydra System in the Argos Rho cluster and investigate.",
-   "tr": "",
+   "tr": "Argos Rho kümesindeki Hydra Sistemi'ne gidin ve araştırın.",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u24107",
    "en": "Investigate System",
-   "tr": "",
+   "tr": "Sistemi Araştır",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u24108",
    "en": "PAUSED",
-   "tr": "",
+   "tr": "DURAKLATILDI",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u24109",
    "en": "Mining Camp",
-   "tr": "",
+   "tr": "Maden Kampı",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u24110",
    "en": "DISCOVERY\nIt appears these particle bores were shut down after breaking through into tunnels just below the surface.\n\nThe shacks and equipment are stenciled with the logo of the Tenkarra Mining Consortium, but there is no trace of the mining crew.",
-   "tr": "",
+   "tr": "KEŞİF\nBu parçacık sondajlarının yüzeyin hemen altındaki tünellere ulaştıktan sonra kapatıldığı anlaşılıyor.\n\nBarakalar ve ekipman Tenkarra Madencilik Konsorsiyumu logosuyla şablonlanmış, ancak madencilik ekibinden iz yok.",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u24111",
    "en": "The logs for the freighter on Feros showed large deliveries being made to a system in the Voyager cluster. The strange thing is, there's nothing out that way that would warrant such a demand for supplies.",
-   "tr": "",
+   "tr": "Feros'taki yük gemisinin kayıtları, Voyager kümesindeki bir sisteme büyük teslimatlar yapıldığını gösterdi. Tuhaf olan, o taraflarda bu kadar malzeme talebini haklı çıkaracak hiçbir şeyin olmaması.",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u24112",
    "en": "Investigate Shipments",
-   "tr": "",
+   "tr": "Sevkiyatları Araştır",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u24113",
    "en": "Head to the Amazon system in the Voyager cluster and investigate.",
-   "tr": "",
+   "tr": "Voyager kümesindeki Amazon sistemine gidin ve araştırın.",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u24114",
    "en": "Go to Amazon System",
-   "tr": "",
+   "tr": "Amazon Sistemi'ne Git",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u24115",
    "en": "You discovered a strange transmission discussing some sort of biotic commune. On the whole it seems harmless, but something about the message is a little disturbing.",
-   "tr": "",
+   "tr": "Bir tür biyotik komünden söz eden tuhaf bir iletim keşfettiniz. Genel olarak zararsız görünüyor, ama mesajda bir şey biraz rahatsız edici.",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u24116",
    "en": "Strange Transmission",
-   "tr": "",
+   "tr": "Tuhaf İletim",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u24117",
    "en": "Head to the Century System in the Hawking Eta cluster and investigate the strange biotic commune.",
-   "tr": "",
+   "tr": "Hawking Eta kümesindeki Century Sistemi'ne gidin ve tuhaf biyotik komünü araştırın.",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u24118",
    "en": "Find the Commune",
-   "tr": "",
+   "tr": "Komünü Bul",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u24119",
    "en": "Geth Communications Array",
-   "tr": "",
+   "tr": "Geth İletişim Dizisi",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u24120",
    "en": "You found a confidential transmission while on Feros. It's unclear exactly what's going on, but it appears ExoGeni sent some kind of sample to a research facility on Nodacrux.",
-   "tr": "",
+   "tr": "Feros'tayken gizli bir iletim buldunuz. Tam olarak neler olduğu belirsiz, ama ExoGeni'nin Nodacrux'taki bir araştırma tesisine bir tür numune gönderdiği anlaşılıyor.",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u24121",
    "en": "Investigate Facility",
-   "tr": "",
+   "tr": "Tesisi Araştır",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u24122",
    "en": "Nodacrux is located in the Vostok system of the Maroon Sea Cluster. Head there and find out what's going on.",
-   "tr": "",
+   "tr": "Nodacrux, Maroon Sea Kümesi'nin Vostok sisteminde bulunuyor. Oraya gidin ve neler olduğunu öğrenin.",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u24123",
    "en": "Turn Off Geth Comm",
-   "tr": "",
+   "tr": "Geth İletişimini Kapat",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u24124",
    "en": "DISCOVERY\nThe geth array is transmitting regular data bursts on an encrypted channel, using the Alliance's own FTL comm buoys. It's not clear where the data is being directed, nor the content of the signal.",
-   "tr": "",
+   "tr": "KEŞİF\nGeth dizisi, İttifak'ın kendi FTL iletişim şamandıralarını kullanarak şifreli bir kanal üzerinden düzenli veri patlamaları iletiyor. Verilerin nereye yönlendirildiği ya da sinyalin içeriği belirsiz.",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u24125",
    "en": "While on Feros you found the personal log of an ExoGeni employee. The doctor's notes seem to express some concern about samples they provided to a group he referred to only as Cerberus.",
-   "tr": "",
+   "tr": "Feros'tayken bir ExoGeni çalışanının kişisel günlüğünü buldunuz. Doktorun notları, yalnızca Cerberus olarak andığı bir gruba verdikleri numuneler konusunda endişe belirtiyor gibi.",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u24126",
    "en": "Investigate Samples",
-   "tr": "",
+   "tr": "Numuneleri Araştır",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u24127",
    "en": "The logs mentioned something about the Matano system, in the Maroon Sea cluster. That would be a good place to start your investigation.",
-   "tr": "",
+   "tr": "Kayıtlar Maroon Sea kümesindeki Matano sistemi hakkında bir şeyden söz ediyordu. Araştırmanıza başlamak için iyi bir yer olurdu.",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u24128",
    "en": "Go to System",
-   "tr": "",
+   "tr": "Sisteme Git",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u24129",
    "en": "While on Noveria, you found a log listing an unauthorized transmission. Apparently someone thinks a doctor located in the Newton system is in grave danger. Unfortunately, it appears the message was intercepted by Noveria security before it could be delivered.",
-   "tr": "",
+   "tr": "Noveria'dayken yetkisiz bir iletimi listeleyen bir kayıt buldunuz. Görünüşe göre biri Newton sistemindeki bir doktorun büyük tehlikede olduğunu düşünüyor. Ne yazık ki mesaj teslim edilmeden önce Noveria güvenliği tarafından ele geçirilmiş gibi görünüyor.",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u24130",
    "en": "Doctor at Risk",
-   "tr": "",
+   "tr": "Tehlikedeki Doktor",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u24131",
    "en": "Head to the Newton system in the Kepler Verge and warn the doctor.",
-   "tr": "",
+   "tr": "Kepler Verge'deki Newton sistemine gidin ve doktoru uyarın.",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u24132",
    "en": "Find the Doctor",
-   "tr": "",
+   "tr": "Doktoru Bul",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u24133",
    "en": "While on Noveria you found something interesting in Tartakovsky's personal log files. He mentioned increased mercenary activity in the Artemis Tau cluster, specifically in the Macedon system.",
-   "tr": "",
+   "tr": "Noveria'dayken Tartakovsky'nin kişisel kayıt dosyalarında ilginç bir şey buldunuz. Artemis Tau kümesinde, özellikle Macedon sisteminde artan paralı asker faaliyetinden söz ediyordu.",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u24134",
    "en": "Mercenaries",
-   "tr": "",
+   "tr": "Paralı Askerler",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u24135",
    "en": "Head to the Macedon system in the Artemis Tau cluster and investigate the mercenary attacks.",
-   "tr": "",
+   "tr": "Artemis Tau kümesindeki Macedon sistemine gidin ve paralı asker saldırılarını araştırın.",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u24136",
    "en": "Investigate Mercenaries",
-   "tr": "",
+   "tr": "Paralı Askerleri Araştır",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u24137",
    "en": "According a log file you uncovered on Noveria, an entire colony has gone missing from the Hades Gamma cluster.",
-   "tr": "",
+   "tr": "Noveria'da ortaya çıkardığınız bir kayıt dosyasına göre Hades Gamma kümesinde bir koloninin tamamı kayboldu.",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u24138",
    "en": "Missing Colony",
-   "tr": "",
+   "tr": "Kayıp Koloni",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u24139",
    "en": "Go to the Antaeus system in the Hades Gamma cluster and determine what's happened to the survey team.",
-   "tr": "",
+   "tr": "Hades Gamma kümesindeki Antaeus sistemine gidin ve etüt ekibine ne olduğunu belirleyin.",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u24140",
    "en": "Investigate Situation",
-   "tr": "",
+   "tr": "Durumu Araştır",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u24141",
    "en": "DISCOVERY\nThis massive skull is scored by deflected mass accelerator shots. The xenobiology files in your hardsuit computer can't identify the species. It must have been brought here from an unknown world.",
-   "tr": "",
+   "tr": "KEŞİF\nBu devasa kafatası, saptırılan kütle hızlandırıcı atışlarıyla çizilmiş. Sert giysi bilgisayarınızdaki ksenobiyoloji dosyaları türü tanımlayamıyor. Buraya bilinmeyen bir dünyadan getirilmiş olmalı.",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u24142",
    "en": "Strange Skull",
-   "tr": "",
+   "tr": "Tuhaf Kafatası",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u24143",
    "en": "Files from an encrypted geth terminal indicated that the geth may be amassing a large fighting force in the Armstrong Cluster. If true, this could be the precursor to a full on war with the geth.",
-   "tr": "",
+   "tr": "Şifreli bir geth terminalinden gelen dosyalar, geth'lerin Armstrong Kümesi'nde büyük bir savaş gücü topluyor olabileceğini gösterdi. Doğruysa bu, geth'lerle tam kapsamlı bir savaşın öncüsü olabilir.",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u24144",
    "en": "Geth Activities",
-   "tr": "",
+   "tr": "Geth Faaliyetleri",
    "ctx": [
     "Startup"
    ]
