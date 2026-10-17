@@ -18,3 +18,14 @@ Method: three read-only scans over all 4946 `.pcc` under `BioGame/CookedPCConsol
 | GFx/SWF movies (GUI_SF_*, fonts) | not parsed | partly (text baked into SWF, fonts) | no | out of scope here; list in final remainder |
 | Audio (VO, Wwise/ISACT) | - | spoken English by design (INT slot) | n/a | untranslatable |
 | 2DA (`Bio2DA` exports) | not scanned for strings | names/ints; display text goes through TLK ids | n/a | no text expected |
+
+## Result after the fix (t204)
+- Staging rebuilt (`scripts/build-staging.ps1 -Json data/tr`): 523 patched packages (491 old + 32 non-LOC), TOC sizes updated for all 523 (stagedFilesWithoutEntry=0), 631 MB. Written only to `staging\`; the game directory was not touched by this cabal.
+- Verification: `Me1Tlk export --game staging\CookedPCConsole --extra data/extra-tlk-packages.txt` re-read 60,210 strings; `tools/verify.py`: mismatches 0, missing 0 (includes tlk and tlk_M of the 32 non-LOC packages; maleDiff 0). The Anderson line now reads "Geri git ve 38,5'te sabit tut.".
+- Install: the patron runs `install.ps1` as a dry-run first; 32 additional files are new in the set (backed up on install by the manifest).
+
+## Remainder that stays English (k5)
+- `SFXSFHandler_PhotoMode` strings in SFXGame.pcc (~80 values: Camera Mode, Free, Tilt, Blur Strength ...): player-visible in photo mode, StrProperty arrays, not exported. Needs a property-string key kind in Me1Tlk (SFXGame.pcc is shared engine code, large); not done.
+- `BioSeqAct_ShowMessageBox` lines (23, BIOA_LAV70_00_DSG): probably unreachable placeholder content; not exported.
+- Text baked into GFx/SWF movies (GUI_SF_*), the executable/launcher, and all voice-over audio: not reachable with the TLK tooling; INT slot keeps English VO by design.
+- Developer-only strings (Kismet labels, comments, tags, Coalesced config) are not player-visible.
