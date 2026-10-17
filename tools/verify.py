@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify a re-export of the staging packages against data/tr.
+r"""Verify a re-export of the staging packages against data/tr.
 Usage: python -I tools/verify.py <reexport-dir>
 The re-export dir is produced by Me1Tlk 'export --game staging\CookedPCConsole --out <dir>'. For every
 data/tr entry the re-exported text (field 'en') must equal 'tr'; blank entries must stay unchanged."""
