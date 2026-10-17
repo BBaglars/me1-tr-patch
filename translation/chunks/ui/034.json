@@ -9,7 +9,7 @@
   {
    "key": "u22795",
    "en": "The helium-3 fuel lines for the fusion plant have been cut. They must be restored using the controls on the central reactor core.",
-   "tr": "",
+   "tr": "Füzyon santralinin helyum-3 yakıt hatları kesildi. Merkezî reaktör çekirdeğindeki kontroller kullanılarak onarılmalılar.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u22796",
    "en": "Reconnect Fuel Lines",
-   "tr": "",
+   "tr": "Yakıt Hatlarını Yeniden Bağla",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u22797",
    "en": "The cabling that connects the main Peak 15 facility to the subsidiary labs is down. The trams will not operate until this is fixed.",
-   "tr": "",
+   "tr": "Ana Peak 15 tesisini yardımcı laboratuvarlara bağlayan kablolama devre dışı. Bu onarılana kadar tramvaylar çalışmayacak.",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u22798",
    "en": "Noveria: Reconnect Landlines",
-   "tr": "",
+   "tr": "Noveria: Sabit Hatları Yeniden Bağla",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u22799",
    "en": "The landlines have been reconnected. You can now use the passenger trams to go to Rift Station.",
-   "tr": "",
+   "tr": "Sabit hatlar yeniden bağlandı. Artık Rift Station'a gitmek için yolcu tramvaylarını kullanabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u22800",
    "en": "The landlines must be reconnected. They can be found on the roof of Peak 15.",
-   "tr": "",
+   "tr": "Sabit hatlar yeniden bağlanmalı. Peak 15'in çatısında bulunabilirler.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u22801",
    "en": "Reconnect Landlines",
-   "tr": "",
+   "tr": "Sabit Hatları Yeniden Bağla",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u22802",
    "en": "These upgrades are specifically designed to disable subjects infected by the Thorian without killing them.",
-   "tr": "",
+   "tr": "Bu yükseltmeler özellikle Thorian tarafından enfekte edilmiş denekleri öldürmeden etkisiz hale getirmek üzere tasarlanmıştır.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u22803",
    "en": "Rocky Asteroid",
-   "tr": "",
+   "tr": "Kayalık Asteroit",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u22804",
    "en": "This large asteroid has several smaller bodies orbiting it.\nRadius: 336 km",
-   "tr": "",
+   "tr": "Bu büyük asteroitin yörüngesinde birkaç küçük cisim dönüyor.\nYarıçap: 336 km",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u22805",
    "en": "You told Anoleis that Gianna was investigating him. They killed each other, and you picked up a pass to leave Hanshan off the Administrator's corpse. You can proceed to Peak 15 via the garage.",
-   "tr": "",
+   "tr": "Anoleis'e Gianna'nın onu araştırdığını söylediniz. Birbirlerini öldürdüler ve Yönetici'nin cesedinden Hanshan'dan ayrılma izni aldınız. Garaj üzerinden Peak 15'e ilerleyebilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u22806",
    "en": "Noveria: Contamination",
-   "tr": "",
+   "tr": "Noveria: Kirlenme",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u22807",
    "en": "There are deadly \"contaminants\" in the decontamination chamber you must pass through to leave Peak 15.",
-   "tr": "",
+   "tr": "Peak 15'ten ayrılmak için geçmeniz gereken dekontaminasyon odasında ölümcül \"kirleticiler\" var.",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u22808",
    "en": "You cleared the \"contaminants\" by unlocking the door and killing them.",
-   "tr": "",
+   "tr": "Kapıyı açıp \"kirleticileri\" öldürerek temizlediniz.",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u22809",
    "en": "You cleared the \"contaminants\" by restoring the decon chamber's built-in plasma jets.",
-   "tr": "",
+   "tr": "Dekontaminasyon odasının yerleşik plazma jetlerini onararak \"kirleticileri\" temizlediniz.",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u22810",
    "en": "You'll need to unseal the decontamination chamber in order to get to the trams. Mira might be able to help.",
-   "tr": "",
+   "tr": "Tramvaylara ulaşmak için dekontaminasyon odasının mührünü açmanız gerekecek. Mira yardımcı olabilir.",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u22811",
    "en": "Clear the Chamber",
-   "tr": "",
+   "tr": "Odayı Temizle",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u22812",
    "en": "GAS DEPOSIT SURVEYED\nWhile scanning this gas giant, you detected a large concentration of helium-3.",
-   "tr": "",
+   "tr": "GAZ YATAĞI ETÜT EDİLDİ\nBu gaz devini tararken büyük bir helyum-3 yoğunluğu tespit ettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u22813",
    "en": "Area not clear of enemies",
-   "tr": "",
+   "tr": "Bölge düşmanlardan temizlenmedi",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u22814",
    "en": "GETH COMMUNICATIONS DISRUPTED\nBy destroying the comm tower, you have disrupted the geth's ability to coordinate heavy fire on Captain Kirrahe's team.",
-   "tr": "",
+   "tr": "GETH İLETİŞİMİ BOZULDU\nİletişim kulesini yok ederek geth'lerin Kaptan Kirrahe'nin ekibine ağır ateşi koordine etme yeteneğini bozdunuz.",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u22815",
    "en": "SATELLITE UPLINK DESTROYED\nWithout the sat-link, the geth cannot call air strikes on Captain Kirrahe's team.",
-   "tr": "",
+   "tr": "UYDU BAĞLANTISI YOK EDİLDİ\nUydu bağlantısı olmadan geth'ler Kaptan Kirrahe'nin ekibine hava saldırısı çağıramaz.",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u22816",
    "en": "GETH FLYERS DESTROYED\nYou destroyed the geth flyers before they could refuel and resume their attacks on Captain Kirrahe's team.",
-   "tr": "",
+   "tr": "GETH UÇANLARI YOK EDİLDİ\nGeth uçanlarını, yakıt ikmali yapıp Kaptan Kirrahe'nin ekibine saldırılarını sürdürmeden önce yok ettiniz.",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u22817",
    "en": "Makeup",
-   "tr": "",
+   "tr": "Makyaj",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u22818",
    "en": "Thorian Arm Node",
-   "tr": "",
+   "tr": "Thorian Kol Düğümü",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u22819",
    "en": "Test String 1\n\nTest String 1b",
-   "tr": "",
+   "tr": "Test String 1\n\nTest String 1b",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u22820",
    "en": "Test String 2\n\nTest String 2b",
-   "tr": "",
+   "tr": "Test String 2\n\nTest String 2b",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u22821",
    "en": "Test String 3\n\nTest String 3b",
-   "tr": "",
+   "tr": "Test String 3\n\nTest String 3b",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u22822",
    "en": "Unknown mineral surveyed.",
-   "tr": "",
+   "tr": "Bilinmeyen mineral etüt edildi.",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u22823",
    "en": "Shiala",
-   "tr": "",
+   "tr": "Shiala",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u22824",
    "en": "Makeup Color",
-   "tr": "",
+   "tr": "Makyaj Rengi",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u22825",
    "en": "Makeup Style",
-   "tr": "",
+   "tr": "Makyaj Stili",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u22826",
    "en": "MEDALLION RECOVERED\nWhile scanning Syided, you discovered a large debris field in geosynchronous orbit. Chief Engineer Adams conducted several detailed sweeps of the area and detected a few items of interest, including a League of One medallion encased in lead molding.",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nSyided'i tararken jeosenkron yörüngede büyük bir enkaz alanı keşfettiniz. Baş Mühendis Adams alanda birkaç ayrıntılı tarama yaptı ve kurşun kalıba gömülü bir League of One madalyonu dahil birkaç ilgi çekici nesne tespit etti.",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u22827",
    "en": "MEDALLION RECOVERED\nWhile scanning the asteroid field in the Tereshkova system, you picked up some anomalous readings. After some daring maneuvering by Joker, a small team was able to recover some debris from one of the larger rocks. Among the items discovered was a League of One medallion.",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nTereshkova sistemindeki asteroit alanını tararken anormal okumalar aldınız. Joker'in cesur manevralarının ardından küçük bir ekip büyük kayalardan birinden bir miktar enkaz kurtarmayı başardı. Bulunan nesneler arasında bir League of One madalyonu da vardı.",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u22828",
    "en": "MEDALLION RECOVERED\nScans of the planet Gromar revealed a derelict space station in late stages of orbital decay. A small team was able to recover some items of interest. Among them, a League of One medallion.",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nGromar gezegeninin taramaları, yörünge çürümesinin son aşamalarında terk edilmiş bir uzay istasyonu ortaya çıkardı. Küçük bir ekip birkaç ilgi çekici nesneyi kurtarmayı başardı. Aralarında bir League of One madalyonu da vardı.",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u22829",
    "en": "MEDALLION RECOVERED\nScans of the asteroid field in the Knossos system revealed some strange readings. Upon closer inspection, Navigator Pressly discovered the remains of an abandoned salarian fighter. The only thing of interest on board was a League of One medallion.",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nKnossos sistemindeki asteroit alanının taramaları bazı tuhaf okumalar ortaya çıkardı. Daha yakından incelendiğinde Seyrüsefer Subayı Pressly terk edilmiş bir salarian savaş uçağının kalıntılarını keşfetti. Gemide ilgi çekici tek şey bir League of One madalyonuydu.",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u22830",
    "en": "MEDALLION RECOVERED\nScans of Benda uncovered an ancient salarian vessel. A small team was dispatched to search for valuables. The only item of value recovered was a League of One medallion.",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nBenda'nın taramaları kadim bir salarian gemisini ortaya çıkardı. Değerli eşya aramak için küçük bir ekip gönderildi. Kurtarılan tek değerli nesne bir League of One madalyonuydu.",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u22831",
    "en": "MEDALLION RECOVERED\nWhile scanning the planet Tharopto, you discovered a tiny moon with some odd readings. Further scans by Chief Engineer Adams revealed a destroyed escape pod. Your salvage team recovered the components and found a League of One medallion. ",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nTharopto gezegenini tararken bazı garip okumalar veren minik bir uydu keşfettiniz. Baş Mühendis Adams'ın yaptığı ek taramalar yok edilmiş bir kurtarma kapsülü ortaya çıkardı. Kurtarma ekibiniz bileşenleri kurtardı ve bir League of One madalyonu buldu.",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u22832",
    "en": "MEDALLION RECOVERED\nScanning Altanorch revealed something of interest in a debris field. Joker brought the Normandy in close and a small team was able to retrieve some valuable detritus, including a League of One medallion.",
-   "tr": "",
+   "tr": "MADALYON KURTARILDI\nAltanorch'u taramak bir enkaz alanında ilgi çekici bir şeyi ortaya çıkardı. Joker Normandy'yi yakına getirdi ve küçük bir ekip, League of One madalyonu da dahil değerli kalıntıları almayı başardı.",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u22833",
    "en": "Upgrade(s) uninstalled and moved to regular inventory",
-   "tr": "",
+   "tr": "Yükseltme(ler) kaldırıldı ve normal envantere taşındı",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u22834",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of the planet Veles revealed a small abandoned vessel. Your salvage team brought the ship on board and dismantled it, whereupon they discovered one of Matriarch Dilinaga's writings.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nVeles gezegeninin taramaları küçük, terk edilmiş bir gemi ortaya çıkardı. Kurtarma ekibiniz gemiyi bordaya alıp söktüğünde Matriarch Dilinaga'nın yazılarından birini buldu.",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u22835",
    "en": "To Synthetic Insights",
-   "tr": "",
+   "tr": "Synthetic Insights'a",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u22836",
    "en": "To Hot Labs",
-   "tr": "",
+   "tr": "Hot Labs'a",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u22837",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nScans revealed a wrecked freighter orbiting one of Junthor's smaller moons. A recon team found no signs of life, but they did recover one of Matriarch Dilinaga's writings.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nTaramalar, Junthor'un daha küçük uydularından birinin yörüngesinde parçalanmış bir yük gemisi ortaya çıkardı. Bir keşif ekibi yaşam belirtisi bulamadı, ancak Matriarch Dilinaga'nın yazılarından birini kurtardı.",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u22838",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nYou recovered a strange object orbiting Ploba. Chief Engineer Adams and Tali tried unsuccesfully to determine its origin. They did find one of Matriarch Dilinaga's writings stored within.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nPloba'nın yörüngesinde garip bir nesne kurtardınız. Baş Mühendis Adams ve Tali kökenini belirlemeye çalıştı ama başarısız oldu. İçinde saklı Matriarch Dilinaga'nın yazılarından birini buldular.",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u22839",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nYou were scanning the planet Porolan when a strange signal came from orbit. Navigator Pressly determined the signal was from an ancient beacon. Your salvage team brought the beacon aboard and found one of Matriarch Dilinaga's writings in its storage compartment.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nPorolan gezegenini tararken yörüngeden garip bir sinyal geldi. Seyrüsefer Subayı Pressly sinyalin kadim bir beacon'dan geldiğini belirledi. Kurtarma ekibiniz beacon'ı bordaya alıp depolama bölmesinde Matriarch Dilinaga'nın yazılarından birini buldu.",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u22840",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of Pataiton revealed a strange unmanned vessel in orbit around the planet. Tali brought it on board and determined it was asari-made, but very old. She discovered several ancient artifacts inside the vessel, including one of Matriarch Dilinaga's writings.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nPataiton'ın taramaları, gezegenin yörüngesinde garip, insansız bir gemi ortaya çıkardı. Tali onu bordaya aldı ve asari yapımı ama çok eski olduğunu belirledi. Gemide, Matriarch Dilinaga'nın yazılarından biri dahil birkaç kadim eser keşfetti.",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u22841",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of Matar revealed debris from a destroyed asari freighter. Further scans uncovered a body, which was brought on board. Dr. Chakwas examined it but learned nothing about its origins. Among the asari's personal effects, however, was one of Matriarch Dilinaga's writings.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nMatar'ın taramaları yok edilmiş bir asari yük gemisinin enkazını ortaya çıkardı. Daha fazla tarama bir cesedi ortaya çıkardı ve gemiye getirildi. Dr. Chakwas inceledi ama kökeni hakkında hiçbir şey öğrenemedi. Ancak asari'nin kişisel eşyaları arasında Matriarch Dilinaga'nın yazılarından biri vardı.",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u22842",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of the planet Klencory revealed the cockpit of a volus trading vessel. There are no signs of the rest of the ship, but the salvage team discovered one of Matriarch Dilinaga's writings in the ship's systems.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nKlencory gezegeninin taramaları bir volus ticaret gemisinin kokpitini ortaya çıkardı. Geminin geri kalanına dair iz yok, ancak kurtarma ekibi geminin sistemlerinde Matriarch Dilinaga'nın yazılarından birini buldu.",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u22843",
    "en": "MATRIARCH'S WRITINGS RECOVERED\nScans of Paravin revealed an unmanned station in geosynchronous orbit. Your salvage team found no evidence on the origins of the station, but they did find one of Matriarch Dilinaga's writings on board.",
-   "tr": "",
+   "tr": "MATRIARCH'IN YAZILARI KURTARILDI\nParavin'in taramaları jeosenkron yörüngede insansız bir istasyon ortaya çıkardı. Kurtarma ekibiniz istasyonun kökenine dair bir kanıt bulamadı, ancak gemide Matriarch Dilinaga'nın yazılarından birini buldu.",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u22844",
    "en": "TURIAN INSIGNIA RECOVERED\nWhile scanning the planet Maganlis, you discovered the remains of a damaged research vessel. Your recon team found no signs of survivors, but they did bring back a Rocam Outpost insignia.",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nMaganlis gezegenini tararken hasarlı bir araştırma gemisinin kalıntılarını keşfettiniz. Keşif ekibiniz hayatta kalan izi bulamadı, ancak bir Rocam Karakolu amblemi getirdi.",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u22845",
    "en": "TURIAN INSIGNIA RECOVERED\nScans of the planet Raysha revealed an old unmanned shuttle. Your salvage team found turian goods on board, all marked with the Tridend Colony insignia.",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nRaysha gezegeninin taramaları eski, insansız bir mekik ortaya çıkardı. Kurtarma ekibiniz gemide, hepsi Tridend Kolonisi amblemiyle işaretli turian eşyaları buldu.",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u22846",
    "en": "TURIAN INSIGNIA RECOVERED\nWhile scanning the planet Sybin, you discovered a large mine grid in geosynchronus orbit. With help from Navigator Pressly, your recon team recovered a small unmanned probe marked with the Quadim Outpost insignia.",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nSybin gezegenini tararken jeosenkron yörüngede büyük bir mayın ağı keşfettiniz. Seyrüsefer Subayı Pressly'nin yardımıyla keşif ekibiniz Quadim Karakolu amblemiyle işaretli küçük, insansız bir sonda kurtardı.",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u22847",
    "en": "TURIAN INSIGNIA RECOVERED\nScans of the planet Pharos revealed an abandoned base on its moon. The recon team found nothing of interest, but much of the debris was marked with the Magna Colony insignia.",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nPharos gezegeninin taramaları uydusunda terk edilmiş bir üs ortaya çıkardı. Keşif ekibi ilgi çekici bir şey bulamadı, ancak enkazın çoğu Magna Kolonisi amblemiyle işaretliydi.",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u22848",
    "en": "TURIAN INSIGNIA RECOVERED\nScans of Antida revealed a group of defunct turrets orbiting the planet. The recon team carefully retrieved one of the turrets and brought it on board. Tali dismantled the weapon and found it was marked with a Carthaan Outpost insignia.",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nAntida'nın taramaları gezegenin yörüngesinde bir grup kullanım dışı taret ortaya çıkardı. Keşif ekibi taretlerden birini dikkatle alıp gemiye getirdi. Tali silahı söktü ve üzerinde bir Carthaan Karakolu amblemi olduğunu gördü.",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u22849",
    "en": "TURIAN INSIGNIA RECOVERED\nWhile scanning the planet Pregel, you discovered several marker buoys orbiting it. Chief Engineer Adams secured some high-res optical images of the buoys, which appeared to have been neglected for some time. Each one was marked with the Baetika Colony insignia.\n",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nPregel gezegenini tararken yörüngesinde dönen birkaç işaret şamandırası keşfettiniz. Baş Mühendis Adams, bir süredir ihmal edilmiş gibi görünen şamandıraların yüksek çözünürlüklü optik görüntülerini aldı. Her biri Baetika Kolonisi amblemiyle işaretliydi.\n",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u22850",
    "en": "TURIAN INSIGNIA RECOVERED\nYou discovered signs of battle while scanning an asteroid field in the Acheron system. A small recon and recovery team led by Navigator Pressly was able to determine that many of the ships were marked with the Epyrus Colony insignia.\n",
-   "tr": "",
+   "tr": "TURIAN AMBLEMİ KURTARILDI\nAcheron sistemindeki bir asteroit alanını tararken savaş izleri keşfettiniz. Seyrüsefer Subayı Pressly önderliğindeki küçük bir keşif ve kurtarma ekibi gemilerin çoğunun Epyrus Kolonisi amblemiyle işaretli olduğunu belirledi.\n",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u22851",
    "en": "-7% Damage Protection\n-30% Shields\n-10% Hardening",
-   "tr": "",
+   "tr": "-%7 Hasar Koruması\n-%30 Kalkan\n-%10 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u22852",
    "en": "+5% Damage Protection",
-   "tr": "",
+   "tr": "+%5 Hasar Koruması",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u22853",
    "en": "+7% Damage Protection",
-   "tr": "",
+   "tr": "+%7 Hasar Koruması",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u22854",
    "en": "+9% Damage Protection",
-   "tr": "",
+   "tr": "+%9 Hasar Koruması",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u22855",
    "en": "+10% Storm speed",
-   "tr": "",
+   "tr": "+%10 Fırtına hızı",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u22856",
    "en": "+12% Storm speed",
-   "tr": "",
+   "tr": "+%12 Fırtına hızı",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u22857",
    "en": "+14% Storm speed",
-   "tr": "",
+   "tr": "+%14 Fırtına hızı",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u22858",
    "en": "+30% Toxin Resistance",
-   "tr": "",
+   "tr": "+%30 Toksin Direnci",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u22859",
    "en": "+40% Toxin Resistance",
-   "tr": "",
+   "tr": "+%40 Toksin Direnci",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u22860",
    "en": "+50% Toxin Resistance",
-   "tr": "",
+   "tr": "+%50 Toksin Direnci",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u22861",
    "en": "+15% Shield Recovery",
-   "tr": "",
+   "tr": "+%15 Kalkan Toparlanması",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u22862",
    "en": "+18% Shield Recovery",
-   "tr": "",
+   "tr": "+%18 Kalkan Toparlanması",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u22863",
    "en": "+21% Shield Recovery",
-   "tr": "",
+   "tr": "+%21 Kalkan Toparlanması",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u22864",
    "en": "+1 Health Regeneration/sec",
-   "tr": "",
+   "tr": "+1 Sağlık Yenilenmesi/sn",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u22865",
    "en": "+1.5 Health Regeneration/sec",
-   "tr": "",
+   "tr": "+1.5 Sağlık Yenilenmesi/sn",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u22866",
    "en": "+2 Health Regeneration/sec",
-   "tr": "",
+   "tr": "+2 Sağlık Yenilenmesi/sn",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u22867",
    "en": "+10% Hardening",
-   "tr": "",
+   "tr": "+%10 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u22868",
    "en": "+11% Hardening",
-   "tr": "",
+   "tr": "+%11 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u22869",
    "en": "+12% Hardening",
-   "tr": "",
+   "tr": "+%12 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u22870",
    "en": "Reduces audibility by 10%\nReduces visibility by 10%",
-   "tr": "",
+   "tr": "Duyulabilirliği %10 azaltır\nGörünürlüğü %10 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u22871",
    "en": "Reduces audibility by 20%\nReduces visibility by 20%",
-   "tr": "",
+   "tr": "Duyulabilirliği %20 azaltır\nGörünürlüğü %20 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u22872",
    "en": "Reduces audibility by 30%\nReduces visibility by 30%",
-   "tr": "",
+   "tr": "Duyulabilirliği %30 azaltır\nGörünürlüğü %30 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u22873",
    "en": "Reduces audibility by 40%\nReduces visibility by 40%",
-   "tr": "",
+   "tr": "Duyulabilirliği %40 azaltır\nGörünürlüğü %40 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u22874",
    "en": "Reduces audibility by 50%\nReduces visibility by 50%",
-   "tr": "",
+   "tr": "Duyulabilirliği %50 azaltır\nGörünürlüğü %50 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u22875",
    "en": "Reduces audibility by 52%\nReduces visibility by 52%",
-   "tr": "",
+   "tr": "Duyulabilirliği %52 azaltır\nGörünürlüğü %52 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u22876",
    "en": "Reduces audibility by 54%\nReduces visibility by 54%",
-   "tr": "",
+   "tr": "Duyulabilirliği %54 azaltır\nGörünürlüğü %54 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u22877",
    "en": "Reduces audibility by 56%\nReduces visibility by 56%",
-   "tr": "",
+   "tr": "Duyulabilirliği %56 azaltır\nGörünürlüğü %56 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u22878",
    "en": "Reduces audibility by 58%\nReduces visibility by 58%",
-   "tr": "",
+   "tr": "Duyulabilirliği %58 azaltır\nGörünürlüğü %58 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u22879",
    "en": "Reduces audibility by 60%\nReduces visibility by 60%",
-   "tr": "",
+   "tr": "Duyulabilirliği %60 azaltır\nGörünürlüğü %60 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u22880",
    "en": "Increases resistence to biotics by 5%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %5 artırır",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u22881",
    "en": "Increases resistence to biotics by 6.11%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %6.11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u22882",
    "en": "Increases resistence to biotics by 7.22%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %7.22 artırır",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u22883",
    "en": "Increases resistence to biotics by 8.33%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %8.33 artırır",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u22884",
    "en": "Increases resistence to biotics by 9.44%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %9.44 artırır",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u22885",
    "en": "Increases resistence to biotics by 10.56%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %10.56 artırır",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u22886",
    "en": "Increases resistence to biotics by 11.67%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %11.67 artırır",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u22887",
    "en": "Increases resistence to biotics by 12.78%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %12.78 artırır",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u22888",
    "en": "Increases resistence to biotics by 13.89%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %13.89 artırır",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u22889",
    "en": "Increases resistence to biotics by 15%",
-   "tr": "",
+   "tr": "Biyotiklere karşı direnci %15 artırır",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u22890",
    "en": "Increases impact radius by 100\nIncreases maximum range by 1000\nIncreases duration by 10%\nIncreases force by 10%",
-   "tr": "",
+   "tr": "Etki yarıçapını 100 artırır\nAzami menzili 1000 artırır\nSüreyi %10 artırır\nKuvveti %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u22891",
    "en": "Increases impact radius by 144.444444444444\nIncreases maximum range by 2000\nIncreases duration by 12.22%\nIncreases force by 12.22%",
-   "tr": "",
+   "tr": "Etki yarıçapını 144.444444444444 artırır\nAzami menzili 2000 artırır\nSüreyi %12.22 artırır\nKuvveti %12.22 artırır",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u22892",
    "en": "Increases impact radius by 188.888888888889\nIncreases maximum range by 3000\nIncreases duration by 14.44%\nIncreases force by 14.44%",
-   "tr": "",
+   "tr": "Etki yarıçapını 188.888888888889 artırır\nAzami menzili 3000 artırır\nSüreyi %14.44 artırır\nKuvveti %14.44 artırır",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u22893",
    "en": "Increases impact radius by 233.333333333333\nIncreases maximum range by 4000\nIncreases duration by 16.67%\nIncreases force by 16.67%",
-   "tr": "",
+   "tr": "Etki yarıçapını 233.333333333333 artırır\nAzami menzili 4000 artırır\nSüreyi %16.67 artırır\nKuvveti %16.67 artırır",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u22894",
    "en": "Increases impact radius by 277.777777777778\nIncreases maximum range by 5000\nIncreases duration by 18.89%\nIncreases force by 18.89%",
-   "tr": "",
+   "tr": "Etki yarıçapını 277.777777777778 artırır\nAzami menzili 5000 artırır\nSüreyi %18.89 artırır\nKuvveti %18.89 artırır",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u22895",
    "en": "Increases impact radius by 322.222222222222\nIncreases maximum range by 6000\nIncreases duration by 21.11%\nIncreases force by 21.11%",
-   "tr": "",
+   "tr": "Etki yarıçapını 322.222222222222 artırır\nAzami menzili 6000 artırır\nSüreyi %21.11 artırır\nKuvveti %21.11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u22896",
    "en": "Increases impact radius by 366.666666666667\nIncreases maximum range by 7000\nIncreases duration by 23.33%\nIncreases force by 23.33%",
-   "tr": "",
+   "tr": "Etki yarıçapını 366.666666666667 artırır\nAzami menzili 7000 artırır\nSüreyi %23.33 artırır\nKuvveti %23.33 artırır",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u22897",
    "en": "Increases impact radius by 411.111111111111\nIncreases maximum range by 8000\nIncreases duration by 25.56%\nIncreases force by 25.56%",
-   "tr": "",
+   "tr": "Etki yarıçapını 411.111111111111 artırır\nAzami menzili 8000 artırır\nSüreyi %25.56 artırır\nKuvveti %25.56 artırır",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u22898",
    "en": "Increases impact radius by 455.555555555556\nIncreases maximum range by 9000\nIncreases duration by 27.78%\nIncreases force by 27.78%",
-   "tr": "",
+   "tr": "Etki yarıçapını 455.555555555556 artırır\nAzami menzili 9000 artırır\nSüreyi %27.78 artırır\nKuvveti %27.78 artırır",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u22899",
    "en": "Increases impact radius by 500\nIncreases maximum range by 10000\nIncreases duration by 30%\nIncreases force by 30%",
-   "tr": "",
+   "tr": "Etki yarıçapını 500 artırır\nAzami menzili 10000 artırır\nSüreyi %30 artırır\nKuvveti %30 artırır",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u22900",
    "en": "Increases impact radius by 100\nIncreases maximum range by 100\nIncreases force by 10%\nIncreases damage by 10%",
-   "tr": "",
+   "tr": "Etki yarıçapını 100 artırır\nAzami menzili 100 artırır\nKuvveti %10 artırır\nHasarı %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u22901",
    "en": "Increases impact radius by 144.444444444444\nIncreases maximum range by 144.444444444444\nIncreases force by 12.22%\nIncreases damage by 12.22%",
-   "tr": "",
+   "tr": "Etki yarıçapını 144.444444444444 artırır\nAzami menzili 144.444444444444 artırır\nKuvveti %12.22 artırır\nHasarı %12.22 artırır",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u22902",
    "en": "Increases impact radius by 188.888888888889\nIncreases maximum range by 188.888888888889\nIncreases force by 14.44%\nIncreases damage by 14.44%",
-   "tr": "",
+   "tr": "Etki yarıçapını 188.888888888889 artırır\nAzami menzili 188.888888888889 artırır\nKuvveti %14.44 artırır\nHasarı %14.44 artırır",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u22903",
    "en": "Increases impact radius by 233.333333333333\nIncreases maximum range by 233.333333333333\nIncreases force by 16.67%\nIncreases damage by 16.67%",
-   "tr": "",
+   "tr": "Etki yarıçapını 233.333333333333 artırır\nAzami menzili 233.333333333333 artırır\nKuvveti %16.67 artırır\nHasarı %16.67 artırır",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u22904",
    "en": "Increases impact radius by 277.777777777778\nIncreases maximum range by 277.777777777778\nIncreases force by 18.89%\nIncreases damage by 18.89%",
-   "tr": "",
+   "tr": "Etki yarıçapını 277.777777777778 artırır\nAzami menzili 277.777777777778 artırır\nKuvveti %18.89 artırır\nHasarı %18.89 artırır",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u22905",
    "en": "Increases impact radius by 322.222222222222\nIncreases maximum range by 322.222222222222\nIncreases force by 21.11%\nIncreases damage by 21.11%",
-   "tr": "",
+   "tr": "Etki yarıçapını 322.222222222222 artırır\nAzami menzili 322.222222222222 artırır\nKuvveti %21.11 artırır\nHasarı %21.11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u22906",
    "en": "Increases impact radius by 366.666666666667\nIncreases maximum range by 366.666666666667\nIncreases force by 23.33%\nIncreases damage by 23.33%",
-   "tr": "",
+   "tr": "Etki yarıçapını 366.666666666667 artırır\nAzami menzili 366.666666666667 artırır\nKuvveti %23.33 artırır\nHasarı %23.33 artırır",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u22907",
    "en": "Increases impact radius by 411.111111111111\nIncreases maximum range by 411.111111111111\nIncreases force by 25.56%\nIncreases damage by 25.56%",
-   "tr": "",
+   "tr": "Etki yarıçapını 411.111111111111 artırır\nAzami menzili 411.111111111111 artırır\nKuvveti %25.56 artırır\nHasarı %25.56 artırır",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u22908",
    "en": "Increases impact radius by 455.555555555556\nIncreases maximum range by 455.555555555556\nIncreases force by 27.78%\nIncreases damage by 27.78%",
-   "tr": "",
+   "tr": "Etki yarıçapını 455.555555555556 artırır\nAzami menzili 455.555555555556 artırır\nKuvveti %27.78 artırır\nHasarı %27.78 artırır",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u22909",
    "en": "Increases impact radius by 500\nIncreases maximum range by 500\nIncreases force by 30%\nIncreases damage by 30%",
-   "tr": "",
+   "tr": "Etki yarıçapını 500 artırır\nAzami menzili 500 artırır\nKuvveti %30 artırır\nHasarı %30 artırır",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u22910",
    "en": "Reduces cooldown of lift by 5%\nReduces cooldown of throw by 5%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %5 azaltır\nFırlatma bekleme süresini %5 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u22911",
    "en": "Reduces cooldown of lift by 6.11%\nReduces cooldown of throw by 6.11%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %6.11 azaltır\nFırlatma bekleme süresini %6.11 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u22912",
    "en": "Reduces cooldown of lift by 7.22%\nReduces cooldown of throw by 7.22%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %7.22 azaltır\nFırlatma bekleme süresini %7.22 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u22913",
    "en": "Reduces cooldown of lift by 8.33%\nReduces cooldown of throw by 8.33%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %8.33 azaltır\nFırlatma bekleme süresini %8.33 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u22914",
    "en": "Reduces cooldown of lift by 9.44%\nReduces cooldown of throw by 9.44%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %9.44 azaltır\nFırlatma bekleme süresini %9.44 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u22915",
    "en": "Reduces cooldown of lift by 10.56%\nReduces cooldown of throw by 10.56%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %10.56 azaltır\nFırlatma bekleme süresini %10.56 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u22916",
    "en": "Reduces cooldown of lift by 11.67%\nReduces cooldown of throw by 11.67%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %11.67 azaltır\nFırlatma bekleme süresini %11.67 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u22917",
    "en": "Reduces cooldown of lift by 12.78%\nReduces cooldown of throw by 12.78%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %12.78 azaltır\nFırlatma bekleme süresini %12.78 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u22918",
    "en": "Reduces cooldown of lift by 13.89%\nReduces cooldown of throw by 13.89%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %13.89 azaltır\nFırlatma bekleme süresini %13.89 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u22919",
    "en": "Reduces cooldown of lift by 15%\nReduces cooldown of throw by 15%",
-   "tr": "",
+   "tr": "Kaldırma bekleme süresini %15 azaltır\nFırlatma bekleme süresini %15 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u22920",
    "en": "Increase impact radius by 100\nIncrease maximum range by 1000\nIncrease force/sec by 10%\nIncrease duration by 10%",
-   "tr": "",
+   "tr": "Etki yarıçapını 100 artırır\nAzami menzili 1000 artırır\nSaniyedeki kuvveti %10 artırır\nSüreyi %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u22921",
    "en": "Increase impact radius by 144.444444444444\nIncrease maximum range by 1444.44444444444\nIncrease force/sec by 12.22%\nIncrease duration by 12.22%",
-   "tr": "",
+   "tr": "Etki yarıçapını 144.444444444444 artırır\nAzami menzili 1444.44444444444 artırır\nSaniyedeki kuvveti %12.22 artırır\nSüreyi %12.22 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u22922",
    "en": "Increase impact radius by 188.888888888889\nIncrease maximum range by 1888.88888888889\nIncrease force/sec by 14.44%\nIncrease duration by 14.44%",
-   "tr": "",
+   "tr": "Etki yarıçapını 188.888888888889 artırır\nAzami menzili 1888.88888888889 artırır\nSaniyedeki kuvveti %14.44 artırır\nSüreyi %14.44 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u22923",
    "en": "Increase impact radius by 233.333333333333\nIncrease maximum range by 2333.33333333333\nIncrease force/sec by 16.67%\nIncrease duration by 16.67%",
-   "tr": "",
+   "tr": "Etki yarıçapını 233.333333333333 artırır\nAzami menzili 2333.33333333333 artırır\nSaniyedeki kuvveti %16.67 artırır\nSüreyi %16.67 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u22924",
    "en": "Increase impact radius by 277.777777777778\nIncrease maximum range by 2777.77777777778\nIncrease force/sec by 18.89%\nIncrease duration by 18.89%",
-   "tr": "",
+   "tr": "Etki yarıçapını 277.777777777778 artırır\nAzami menzili 2777.77777777778 artırır\nSaniyedeki kuvveti %18.89 artırır\nSüreyi %18.89 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u22925",
    "en": "Increase impact radius by 322.222222222222\nIncrease maximum range by 3222.22222222222\nIncrease force/sec by 21.11%\nIncrease duration by 21.11%",
-   "tr": "",
+   "tr": "Etki yarıçapını 322.222222222222 artırır\nAzami menzili 3222.22222222222 artırır\nSaniyedeki kuvveti %21.11 artırır\nSüreyi %21.11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u22926",
    "en": "Increase impact radius by 366.666666666667\nIncrease maximum range by 3666.66666666667\nIncrease force/sec by 23.33%\nIncrease duration by 23.33%",
-   "tr": "",
+   "tr": "Etki yarıçapını 366.666666666667 artırır\nAzami menzili 3666.66666666667 artırır\nSaniyedeki kuvveti %23.33 artırır\nSüreyi %23.33 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u22927",
    "en": "Increase impact radius by 411.111111111111\nIncrease maximum range by 4111.11111111111\nIncrease force/sec by 25.56%\nIncrease duration by 25.56%",
-   "tr": "",
+   "tr": "Etki yarıçapını 411.111111111111 artırır\nAzami menzili 4111.11111111111 artırır\nSaniyedeki kuvveti %25.56 artırır\nSüreyi %25.56 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u22928",
    "en": "Increase impact radius by 455.555555555556\nIncrease maximum range by 4555.55555555555\nIncrease force/sec by 27.78%\nIncrease duration by 27.78%",
-   "tr": "",
+   "tr": "Etki yarıçapını 455.555555555556 artırır\nAzami menzili 4555.55555555555 artırır\nSaniyedeki kuvveti %27.78 artırır\nSüreyi %27.78 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u22929",
    "en": "Increase impact radius by 500\nIncrease maximum range by 5000\nIncrease force/sec by 30%\nIncrease duration by 30%",
-   "tr": "",
+   "tr": "Etki yarıçapını 500 artırır\nAzami menzili 5000 artırır\nSaniyedeki kuvveti %30 artırır\nSüreyi %30 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u22930",
    "en": "Increase impact radius by 100\nIncrease maximum range by 1000\nIncrease duration by 10%\nIncrease damage per second by 10%\nIncrease damage multiplier by 10%",
-   "tr": "",
+   "tr": "Etki yarıçapını 100 artırır\nAzami menzili 1000 artırır\nSüreyi %10 artırır\nSaniyedeki hasarı %10 artırır\nHasar çarpanını %10 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u22931",
    "en": "Increase impact radius by 144.444444444444\nIncrease maximum range by 1444.44444444444\nIncrease duration by 12.22%\nIncrease damage per second by 12.22%\nIncrease damage multiplier by 12.22%",
-   "tr": "",
+   "tr": "Etki yarıçapını 144.444444444444 artırır\nAzami menzili 1444.44444444444 artırır\nSüreyi %12.22 artırır\nSaniyedeki hasarı %12.22 artırır\nHasar çarpanını %12.22 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u22932",
    "en": "Increase impact radius by 188.888888888889\nIncrease maximum range by 1888.88888888889\nIncrease duration by 14.44%\nIncrease damage per second by 14.44%\nIncrease damage multiplier by 14.44%",
-   "tr": "",
+   "tr": "Etki yarıçapını 188.888888888889 artırır\nAzami menzili 1888.88888888889 artırır\nSüreyi %14.44 artırır\nSaniyedeki hasarı %14.44 artırır\nHasar çarpanını %14.44 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u22933",
    "en": "Increase impact radius by 233.333333333333\nIncrease maximum range by 2333.33333333333\nIncrease duration by 16.67%\nIncrease damage per second by 16.67%\nIncrease damage multiplier by 16.67%",
-   "tr": "",
+   "tr": "Etki yarıçapını 233.333333333333 artırır\nAzami menzili 2333.33333333333 artırır\nSüreyi %16.67 artırır\nSaniyedeki hasarı %16.67 artırır\nHasar çarpanını %16.67 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u22934",
    "en": "Increase impact radius by 277.777777777778\nIncrease maximum range by 2777.77777777778\nIncrease duration by 18.89%\nIncrease damage per second by 18.89%\nIncrease damage multiplier by 18.89%",
-   "tr": "",
+   "tr": "Etki yarıçapını 277.777777777778 artırır\nAzami menzili 2777.77777777778 artırır\nSüreyi %18.89 artırır\nSaniyedeki hasarı %18.89 artırır\nHasar çarpanını %18.89 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u22935",
    "en": "Increase impact radius by 322.222222222222\nIncrease maximum range by 3222.22222222222\nIncrease duration by 21.11%\nIncrease damage per second by 21.11%\nIncrease damage multiplier by 21.11%",
-   "tr": "",
+   "tr": "Etki yarıçapını 322.222222222222 artırır\nAzami menzili 3222.22222222222 artırır\nSüreyi %21.11 artırır\nSaniyedeki hasarı %21.11 artırır\nHasar çarpanını %21.11 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u22936",
    "en": "Increase impact radius by 366.666666666667\nIncrease maximum range by 3666.66666666667\nIncrease duration by 23.33%\nIncrease damage per second by 23.33%\nIncrease damage multiplier by 23.33%",
-   "tr": "",
+   "tr": "Etki yarıçapını 366.666666666667 artırır\nAzami menzili 3666.66666666667 artırır\nSüreyi %23.33 artırır\nSaniyedeki hasarı %23.33 artırır\nHasar çarpanını %23.33 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u22937",
    "en": "Increase impact radius by 411.111111111111\nIncrease maximum range by 4111.11111111111\nIncrease duration by 25.56%\nIncrease damage per second by 25.56%\nIncrease damage multiplier by 25.56%",
-   "tr": "",
+   "tr": "Etki yarıçapını 411.111111111111 artırır\nAzami menzili 4111.11111111111 artırır\nSüreyi %25.56 artırır\nSaniyedeki hasarı %25.56 artırır\nHasar çarpanını %25.56 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u22938",
    "en": "Increase impact radius by 455.555555555556\nIncrease maximum range by 4555.55555555555\nIncrease duration by 27.78%\nIncrease damage per second by 27.78%\nIncrease damage multiplier by 27.78%",
-   "tr": "",
+   "tr": "Etki yarıçapını 455.555555555556 artırır\nAzami menzili 4555.55555555555 artırır\nSüreyi %27.78 artırır\nSaniyedeki hasarı %27.78 artırır\nHasar çarpanını %27.78 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u22939",
    "en": "Increase impact radius by 500\nIncrease maximum range by 5000\nIncrease duration by 30%\nIncrease damage per second by 30%\nIncrease damage multiplier by 30%",
-   "tr": "",
+   "tr": "Etki yarıçapını 500 artırır\nAzami menzili 5000 artırır\nSüreyi %30 artırır\nSaniyedeki hasarı %30 artırır\nHasar çarpanını %30 artırır",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u22940",
    "en": "Decrease warp cooldown by 5%\nDecrease singularity cooldown by 5%",
-   "tr": "",
+   "tr": "Warp bekleme süresini %5 azaltır\nTekillik bekleme süresini %5 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u22941",
    "en": "Decrease warp cooldown by 6.11%\nDecrease singularity cooldown by 6.11%",
-   "tr": "",
+   "tr": "Warp bekleme süresini %6.11 azaltır\nTekillik bekleme süresini %6.11 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u22942",
    "en": "Decrease warp cooldown by 7.22%\nDecrease singularity cooldown by 7.22%",
-   "tr": "",
+   "tr": "Warp bekleme süresini %7.22 azaltır\nTekillik bekleme süresini %7.22 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u22943",
    "en": "Decrease warp cooldown by 8.33%\nDecrease singularity cooldown by 8.33%",
-   "tr": "",
+   "tr": "Warp bekleme süresini %8.33 azaltır\nTekillik bekleme süresini %8.33 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u22944",
    "en": "Decrease warp cooldown by 9.44%\nDecrease singularity cooldown by 9.44%",
-   "tr": "",
+   "tr": "Warp bekleme süresini %9.44 azaltır\nTekillik bekleme süresini %9.44 azaltır",
    "ctx": [
     "Startup"
    ]
