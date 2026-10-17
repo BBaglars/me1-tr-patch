@@ -9,7 +9,7 @@
   {
    "key": "u23545",
    "en": "+10% Kinetics/-10% Distortion",
-   "tr": "",
+   "tr": "+%10 Kinetik/-%10 Bükülme",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u23546",
    "en": "+10% Suspension/+10% Kinetics/+10% Distortion",
-   "tr": "",
+   "tr": "+%10 Askıya Alma/+%10 Kinetik/+%10 Bükülme",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u23547",
    "en": "+10% Suspension/-10% Distortion",
-   "tr": "",
+   "tr": "+%10 Askıya Alma/-%10 Bükülme",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u23548",
    "en": "-2% Suspension/-2% Kinetics/-2% Distortion",
-   "tr": "",
+   "tr": "-%2 Askıya Alma/-%2 Kinetik/-%2 Bükülme",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u23549",
    "en": "+15% Suspension/+15% Kinetics",
-   "tr": "",
+   "tr": "+%15 Askıya Alma/+%15 Kinetik",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u23550",
    "en": "+10% Suspension/-10% Kinetics",
-   "tr": "",
+   "tr": "+%10 Askıya Alma/-%10 Kinetik",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u23551",
    "en": "+5% Distortion/+5% Kinetics/+5% Suspension",
-   "tr": "",
+   "tr": "+%5 Bükülme/+%5 Kinetik/+%5 Askıya Alma",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u23552",
    "en": "+10% Distortion/+10% Kinetics/+10% Suspension",
-   "tr": "",
+   "tr": "+%10 Bükülme/+%10 Kinetik/+%10 Askıya Alma",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u23553",
    "en": "+10% Descryption/-10% Electronics",
-   "tr": "",
+   "tr": "+%10 Şifre Çözme/-%10 Elektronik",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u23554",
    "en": "+5% Medical/+5% Electronics/+5% Decryption",
-   "tr": "",
+   "tr": "+%5 Tıp/+%5 Elektronik/+%5 Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u23555",
    "en": "+10% Medical/+5% Electronics/+5% Decryption",
-   "tr": "",
+   "tr": "+%10 Tıp/+%5 Elektronik/+%5 Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u23556",
    "en": "+10% Electronics/-10% Medical",
-   "tr": "",
+   "tr": "+%10 Elektronik/-%10 Tıp",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u23557",
    "en": "-2% Decryption/-2% Electronics/-2% Medicine",
-   "tr": "",
+   "tr": "-%2 Şifre Çözme/-%2 Elektronik/-%2 Tıp",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u23558",
    "en": "+15% Medical/+15% Decryption",
-   "tr": "",
+   "tr": "+%15 Tıp/+%15 Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u23559",
    "en": "+10% Medical/-10% Electronics",
-   "tr": "",
+   "tr": "+%10 Tıp/-%10 Elektronik",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u23560",
    "en": "+10% Medical/+10% Electronics/+10% Decryption",
-   "tr": "",
+   "tr": "+%10 Tıp/+%10 Elektronik/+%10 Şifre Çözme",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u23561",
    "en": "Access",
-   "tr": "",
+   "tr": "Erişim",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u23562",
    "en": "+20% Heat Absorption/+10% Damage/+10% Weapon Stability",
-   "tr": "",
+   "tr": "+%20 Isı Emilimi/+%10 Hasar/+%10 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u23563",
    "en": "+10% Damage/+10% Heat Absorption",
-   "tr": "",
+   "tr": "+%10 Hasar/+%10 Isı Emilimi",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u23564",
    "en": "-5% Heat Absorption/-5% Damage/+15% Weapon Stability",
-   "tr": "",
+   "tr": "-%5 Isı Emilimi/-%5 Hasar/+%15 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u23565",
    "en": "-2% Damage/-2% Heat Absorption/-2% Weapon Stability",
-   "tr": "",
+   "tr": "-%2 Hasar/-%2 Isı Emilimi/-%2 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u23566",
    "en": "+20% Heat Absorption/+10% Stability Enhancement",
-   "tr": "",
+   "tr": "+%20 Isı Emilimi/+%10 Denge İyileştirmesi",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u23567",
    "en": "+10% Damage/-15% Heat Absorption/+5% Weapon Stability",
-   "tr": "",
+   "tr": "+%10 Hasar/-%15 Isı Emilimi/+%5 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u23568",
    "en": "-10% Damage/+10% Weapon Stability",
-   "tr": "",
+   "tr": "-%10 Hasar/+%10 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u23569",
    "en": "+5% Damage/+5% Heat Absorption/+5% Weapon Stability",
-   "tr": "",
+   "tr": "+%5 Hasar/+%5 Isı Emilimi/+%5 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u23570",
    "en": "+10% Damage/+10% Heat Absorption/+10% Weapon Stability",
-   "tr": "",
+   "tr": "+%10 Hasar/+%10 Isı Emilimi/+%10 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u23571",
    "en": "+30% Shields\n-10% Hardening",
-   "tr": "",
+   "tr": "+%30 Kalkan\n-%10 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u23572",
    "en": "+80% Shields\n+20% Hardening",
-   "tr": "",
+   "tr": "+%80 Kalkan\n+%20 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u23573",
    "en": "Facial Customization\nUse [UI_XBoxB_Btn_LS] to modify the features. Move [UI_XBoxB_Btn_RS] to look around.",
-   "tr": "",
+   "tr": "Yüz Özelleştirme\nÖzellikleri değiştirmek için [UI_XBoxB_Btn_LS] kullanın. Etrafa bakmak için [UI_XBoxB_Btn_RS] öğesini hareket ettirin.",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u23574",
    "en": "Alliance Requisition Officer",
-   "tr": "",
+   "tr": "İttifak Tedarik Subayı",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u23575",
    "en": "+50% Movement Penalty\n+40% Damage Protection\n+40% Shields\n+40% Hardening",
-   "tr": "",
+   "tr": "+%50 Hareket Cezası\n+%40 Hasar Koruması\n+%40 Kalkan\n+%40 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u23576",
    "en": "+20% Shields",
-   "tr": "",
+   "tr": "+%20 Kalkan",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u23577",
    "en": "+20% Damage Protection",
-   "tr": "",
+   "tr": "+%20 Hasar Koruması",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u23578",
    "en": "+20% Damage Protection\n+40% Shields\n+40% Hardening",
-   "tr": "",
+   "tr": "+%20 Hasar Koruması\n+%40 Kalkan\n+%40 Sertleşme",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u23579",
    "en": "Rachni Spawning Pit",
-   "tr": "",
+   "tr": "Rachni Üreme Çukuru",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u23580",
    "en": "Fist's Office",
-   "tr": "",
+   "tr": "Fist'in Ofisi",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u23581",
    "en": "Alleyway",
-   "tr": "",
+   "tr": "Ara Sokak",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u23582",
    "en": "Upper Markets",
-   "tr": "",
+   "tr": "Üst Pazarlar",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u23583",
    "en": "Deactivate",
-   "tr": "",
+   "tr": "Devre Dışı Bırak",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u23584",
    "en": "+5% Damage Protection\n+5% Hardening\n+5% Shields",
-   "tr": "",
+   "tr": "+%5 Hasar Koruması\n+%5 Sertleşme\n+%5 Kalkan",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u23585",
    "en": "+10% Damage Protection\n+10% Hardening\n+10% Shields",
-   "tr": "",
+   "tr": "+%10 Hasar Koruması\n+%10 Sertleşme\n+%10 Kalkan",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u23586",
    "en": "Flux Nightclub",
-   "tr": "",
+   "tr": "Flux Gece Kulübü",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u23587",
    "en": "Flux Casino",
-   "tr": "",
+   "tr": "Flux Kumarhanesi",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u23588",
    "en": "-10% Duration\n-10% Power\n-10% Cooldown",
-   "tr": "",
+   "tr": "-%10 Süre\n-%10 Güç\n-%10 Bekleme Süresi",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u23589",
    "en": "+5% Lift\n+5% Phase Shift\n+5% Singularity\n+5% Stasis\n+5% Throw\n+5% Warp",
-   "tr": "",
+   "tr": "+%5 Kaldırma\n+%5 Faz Kaydırma\n+%5 Tekillik\n+%5 Stazis\n+%5 Fırlatma\n+%5 Warp",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u23590",
    "en": "+10% Lift\n+10% Phase Shift\n+10% Singularity\n+10% Stasis\n+10% Throw\n+10% Warp",
-   "tr": "",
+   "tr": "+%10 Kaldırma\n+%10 Faz Kaydırma\n+%10 Tekillik\n+%10 Stazis\n+%10 Fırlatma\n+%10 Warp",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u23591",
    "en": "-15% Power\n-15% Cooldown",
-   "tr": "",
+   "tr": "-%15 Güç\n-%15 Bekleme Süresi",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u23592",
    "en": "-10 Shields\n-10% Tech Cooldown\n-10% First Aid Cooldown",
-   "tr": "",
+   "tr": "-10 Kalkan\n-%10 Teknoloji Bekleme Süresi\n-%10 İlk Yardım Bekleme Süresi",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u23593",
    "en": "Udina's Office",
-   "tr": "",
+   "tr": "Udina'nın Ofisi",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u23594",
    "en": "Volus and Elcor Office",
-   "tr": "",
+   "tr": "Volus ve Elcor Ofisi",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u23595",
    "en": "C-Sec HQ",
-   "tr": "",
+   "tr": "C-Sec Karargâhı",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u23596",
    "en": "Embassy Lounge",
-   "tr": "",
+   "tr": "Büyükelçilik Salonu",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u23597",
    "en": "Bank",
-   "tr": "",
+   "tr": "Banka",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u23598",
    "en": "Council Chamber",
-   "tr": "",
+   "tr": "Konsey Salonu",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u23599",
    "en": "C-Sec Academy Atrium",
-   "tr": "",
+   "tr": "C-Sec Akademisi Avlusu",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u23600",
    "en": "Requisition Office",
-   "tr": "",
+   "tr": "Tedarik Ofisi",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u23601",
    "en": "C-Sec Offices",
-   "tr": "",
+   "tr": "C-Sec Ofisleri",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u23602",
    "en": "To Deck 2",
-   "tr": "",
+   "tr": "2. Güverteye",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u23603",
    "en": "To Deck 1",
-   "tr": "",
+   "tr": "1. Güverteye",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u23604",
    "en": "To Deck 3",
-   "tr": "",
+   "tr": "3. Güverteye",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u23605",
    "en": "Sleeping Pods",
-   "tr": "",
+   "tr": "Uyku Kapsülleri",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u23606",
    "en": "Medical",
-   "tr": "",
+   "tr": "Sağlık",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u23607",
    "en": "Lab and Storage",
-   "tr": "",
+   "tr": "Laboratuvar ve Depo",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u23608",
    "en": "Captain's Office",
-   "tr": "",
+   "tr": "Kaptanın Ofisi",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u23609",
    "en": "Mess Hall",
-   "tr": "",
+   "tr": "Yemekhane",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u23610",
    "en": "Vehicle Bay",
-   "tr": "",
+   "tr": "Araç Bölmesi",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u23611",
    "en": "Engineering",
-   "tr": "",
+   "tr": "Mühendislik",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u23612",
    "en": "Varren Alpha",
-   "tr": "",
+   "tr": "Varren Alfa",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u23613",
    "en": "-15 Shields\n-15% First Aid Cooldown",
-   "tr": "",
+   "tr": "-15 Kalkan\n-%15 İlk Yardım Bekleme Süresi",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u23614",
    "en": "Immunity Specialization",
-   "tr": "",
+   "tr": "Bağışıklık Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u23615",
    "en": "Adrenaline Burst Specialization",
-   "tr": "",
+   "tr": "Adrenalin Patlaması Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u23616",
    "en": "Barrier Specialization",
-   "tr": "",
+   "tr": "Bariyer Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u23617",
    "en": "Assassin Specialization",
-   "tr": "",
+   "tr": "Suikast Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u23618",
    "en": "+5% Damping\n+5% Hacking\n+<ip/742/190/1> Heal\n+5% Overload\n+5% Sabotage\n+5% Shock",
-   "tr": "",
+   "tr": "+%5 Sönümleme\n+%5 Hackleme\n+<ip/742/190/1> İyileştirme\n+%5 Aşırı Yükleme\n+%5 Sabotaj\n+%5 Şok",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u23619",
    "en": "+10% Damping\n+10% Hacking\n+<ip/744/190/1> Heal\n+10% Overload\n+10% Sabotage\n+10% Shock",
-   "tr": "",
+   "tr": "+%10 Sönümleme\n+%10 Hackleme\n+<ip/744/190/1> İyileştirme\n+%10 Aşırı Yükleme\n+%10 Sabotaj\n+%10 Şok",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u23620",
    "en": "The specified device could not be accessed. Please ensure that a valid storage device is connected to your Xbox 360 console before continuing. You will be prompted to select a new device.",
-   "tr": "",
+   "tr": "Belirtilen aygıta erişilemedi. Devam etmeden önce Xbox 360 konsolunuza geçerli bir depolama aygıtının bağlı olduğundan emin olun. Yeni bir aygıt seçmeniz istenecek.",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u23621",
    "en": "No Xbox 360 Gamer Profile loaded. You cannot access the storage devices without a valid Gamer Profile. Please log in to the Xbox 360 and return to the Main Menu.",
-   "tr": "",
+   "tr": "Yüklü Xbox 360 Oyuncu Profili yok. Geçerli bir Oyuncu Profili olmadan depolama aygıtlarına erişemezsiniz. Lütfen Xbox 360'a giriş yapıp Ana Menü'ye dönün.",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u23622",
    "en": "No comparison available for the currently selected item",
-   "tr": "",
+   "tr": "Seçili eşya için karşılaştırma yok",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u23623",
    "en": "Overload Specialization",
-   "tr": "",
+   "tr": "Aşırı Yükleme Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u23624",
    "en": "Sabotage Specialization",
-   "tr": "",
+   "tr": "Sabotaj Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u23625",
    "en": "Damping Specialization",
-   "tr": "",
+   "tr": "Sönümleme Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u23626",
    "en": "First Aid Specialization",
-   "tr": "",
+   "tr": "İlk Yardım Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u23627",
    "en": "Neural Shock Specialization",
-   "tr": "",
+   "tr": "Sinir Şoku Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u23628",
    "en": "Warp Specialization",
-   "tr": "",
+   "tr": "Warp Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u23629",
    "en": "Lift Specialization",
-   "tr": "",
+   "tr": "Kaldırma Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u23630",
    "en": "Throw Specialization",
-   "tr": "",
+   "tr": "Fırlatma Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u23631",
    "en": "Stasis Specialization",
-   "tr": "",
+   "tr": "Stazis Uzmanlığı",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u23632",
    "en": "+30% Damage\n+10% Heat Absorption\n+45% Weapon Stability",
-   "tr": "",
+   "tr": "+%30 Hasar\n+%10 Isı Emilimi\n+%45 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u23633",
    "en": "+40% Damage\n+8% Heat Absorption\n+70% Weapon Stability",
-   "tr": "",
+   "tr": "+%40 Hasar\n+%8 Isı Emilimi\n+%70 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u23634",
    "en": "+30% Damage\n+2% Cooldown\n+10% Weapon Stability",
-   "tr": "",
+   "tr": "+%30 Hasar\n+%2 Bekleme Süresi\n+%10 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u23635",
    "en": "+5% Damage\n+5% Heat Absorption\n+5% Weapon Stability",
-   "tr": "",
+   "tr": "+%5 Hasar\n+%5 Isı Emilimi\n+%5 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u23636",
    "en": "+60% Damage\n+9% Heat Absorption\n+70% Weapon Stability",
-   "tr": "",
+   "tr": "+%60 Hasar\n+%9 Isı Emilimi\n+%70 Silah Dengesi",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u23637",
    "en": "You persuaded Dr. Cohen to give you his pass. You can now sneak into the sealed maintenance area near the science team quarters and the quarantine lab.",
-   "tr": "",
+   "tr": "Dr. Cohen'i geçiş iznini vermeye ikna ettiniz. Artık bilim ekibi odalarının ve karantina laboratuvarının yakınındaki mühürlü bakım bölgesine gizlice girebilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u23638",
    "en": "The Back Door",
-   "tr": "",
+   "tr": "Arka Kapı",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u23639",
    "en": "Armor Plating",
-   "tr": "",
+   "tr": "Zırh Plakası",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u23640",
    "en": "Cushioning Gel",
-   "tr": "",
+   "tr": "Yastıklama Jeli",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u23641",
    "en": "Toxic Seals",
-   "tr": "",
+   "tr": "Zehir Contaları",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u23642",
    "en": "Shield Regenerator",
-   "tr": "",
+   "tr": "Kalkan Yenileyici",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u23643",
    "en": "First Aid Interface",
-   "tr": "",
+   "tr": "İlk Yardım Arayüzü",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u23644",
    "en": "Hardened Weave",
-   "tr": "",
+   "tr": "Sertleştirilmiş Doku",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u23645",
    "en": "Motorized Joints",
-   "tr": "",
+   "tr": "Motorlu Eklemler",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u23646",
    "en": "Shield Battery",
-   "tr": "",
+   "tr": "Kalkan Bataryası",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u23647",
    "en": "Shock Absorbers",
-   "tr": "",
+   "tr": "Şok Emiciler",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u23648",
    "en": "Stimulant Pack",
-   "tr": "",
+   "tr": "Uyarıcı Paketi",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u23649",
    "en": "Ablative Coating",
-   "tr": "",
+   "tr": "Aşınır Kaplama",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u23650",
    "en": "Energized Weave",
-   "tr": "",
+   "tr": "Enerjili Doku",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u23651",
    "en": "Exoskeleton",
-   "tr": "",
+   "tr": "Dış İskelet",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u23652",
    "en": "Kinetic Buffer",
-   "tr": "",
+   "tr": "Kinetik Tampon",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u23653",
    "en": "Shield Modulator",
-   "tr": "",
+   "tr": "Kalkan Modülatörü",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u23654",
    "en": "Combat Exoskeleton",
-   "tr": "",
+   "tr": "Muharebe Dış İskeleti",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u23655",
    "en": "Kinetic Exoskeleton",
-   "tr": "",
+   "tr": "Kinetik Dış İskelet",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u23656",
    "en": "Medical Exoskeleton",
-   "tr": "",
+   "tr": "Tıbbi Dış İskelet",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u23657",
    "en": "Energized Plating",
-   "tr": "",
+   "tr": "Enerjili Plaka",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u23658",
    "en": "Shield Interface",
-   "tr": "",
+   "tr": "Kalkan Arayüzü",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u23659",
    "en": "Anti-Personnel Rounds",
-   "tr": "",
+   "tr": "Piyade Karşıtı Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u23660",
    "en": "Armor Piercing Rounds",
-   "tr": "",
+   "tr": "Zırh Delici Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u23661",
    "en": "Chemical Rounds",
-   "tr": "",
+   "tr": "Kimyasal Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u23662",
    "en": "Hammerhead Rounds",
-   "tr": "",
+   "tr": "Hammerhead Mermileri",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u23663",
    "en": "Phasic Rounds",
-   "tr": "",
+   "tr": "Fazlı Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u23664",
    "en": "Radioactive Rounds",
-   "tr": "",
+   "tr": "Radyoaktif Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u23665",
    "en": "Cryo Rounds",
-   "tr": "",
+   "tr": "Kriyo Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u23666",
    "en": "Incendiary Rounds",
-   "tr": "",
+   "tr": "Yangın Çıkarıcı Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u23667",
    "en": "Polonium Rounds",
-   "tr": "",
+   "tr": "Polonyum Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u23668",
    "en": "Proton Rounds",
-   "tr": "",
+   "tr": "Proton Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u23669",
    "en": "Shredder Rounds",
-   "tr": "",
+   "tr": "Parçalayıcı Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u23670",
    "en": "Tungsten Rounds",
-   "tr": "",
+   "tr": "Tungsten Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u23671",
    "en": "High Explosive Rounds",
-   "tr": "",
+   "tr": "Yüksek Patlayıcı Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u23672",
    "en": "Inferno Rounds",
-   "tr": "",
+   "tr": "Cehennem Mermileri",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u23673",
    "en": "Sledgehammer Rounds",
-   "tr": "",
+   "tr": "Balyoz Mermileri",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u23674",
    "en": "Snowblind Rounds",
-   "tr": "",
+   "tr": "Kar Körlüğü Mermileri",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u23675",
    "en": "Striker Rounds",
-   "tr": "",
+   "tr": "Vurucu Mermiler",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u23676",
    "en": "Combat Sensor",
-   "tr": "",
+   "tr": "Muharebe Sensörü",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u23677",
    "en": "Heat Sink",
-   "tr": "",
+   "tr": "Isı Emici",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u23678",
    "en": "High Caliber Barrel",
-   "tr": "",
+   "tr": "Yüksek Kalibreli Namlu",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u23679",
    "en": "Improved Sighting",
-   "tr": "",
+   "tr": "Geliştirilmiş Nişan",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u23680",
    "en": "Recoil Damper",
-   "tr": "",
+   "tr": "Geri Tepme Sönümleyici",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u23681",
    "en": "Combat Scanner",
-   "tr": "",
+   "tr": "Muharebe Tarayıcısı",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u23682",
    "en": "Kinetic Stabilizer",
-   "tr": "",
+   "tr": "Kinetik Dengeleyici",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u23683",
    "en": "Rail Extension",
-   "tr": "",
+   "tr": "Ray Uzantısı",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u23684",
    "en": "Simulated Optics",
-   "tr": "",
+   "tr": "Simüle Optik",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u23685",
    "en": "Frictionless Materials",
-   "tr": "",
+   "tr": "Sürtünmesiz Malzemeler",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u23686",
    "en": "Kinetic Coil",
-   "tr": "",
+   "tr": "Kinetik Bobin",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u23687",
    "en": "Scram Rail",
-   "tr": "",
+   "tr": "Scram Rayı",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u23688",
    "en": "Cryo Explosive",
-   "tr": "",
+   "tr": "Kriyo Patlayıcı",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u23689",
    "en": "Fusion Explosive",
-   "tr": "",
+   "tr": "Füzyon Patlayıcı",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u23690",
    "en": "Incendiary Explosive",
-   "tr": "",
+   "tr": "Yangın Çıkarıcı Patlayıcı",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u23691",
    "en": "Proton Explosive",
-   "tr": "",
+   "tr": "Proton Patlayıcı",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u23692",
    "en": "Hardened ceramic plates can be applied to body armor suits, increasing their effectiveness.",
-   "tr": "",
+   "tr": "Sertleştirilmiş seramik plakalar vücut zırhı giysilerine eklenerek etkinliklerini artırabilir.",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u23693",
    "en": "Running in body armor is difficult and even painful. Cushioning gel eases the strain on joints, allowing for easier, faster movement.",
-   "tr": "",
+   "tr": "Vücut zırhıyla koşmak zordur, hatta acı vericidir. Yastıklama jeli eklemlerdeki gerilimi hafifleterek daha kolay ve hızlı hareket etmeyi sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u23694",
    "en": "Specially-sealed body armor provides increased protection against radiation, gases, and a host of other toxins.",
-   "tr": "",
+   "tr": "Özel olarak mühürlenmiş vücut zırhı radyasyona, gazlara ve bir dizi başka toksine karşı artırılmış koruma sağlar.",
    "ctx": [
     "Startup"
    ]
