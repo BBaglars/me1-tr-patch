@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "package": "BIOA_WAR50_03_CIN.pcc",
+    "stem": "BIOA_WAR50_03_CIN",
+    "textLang": "INT",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3218",
+      "en": "Damn it!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3222",
+      "en": "I'm so sorry. I thought you were geth, or one of those varren.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3226",
+      "en": "I was trapped. I tried to get out, but the way was blocked.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3244",
+      "en": "I-- I was afraid. I wanted to stop the tests, but they threatened me, told me I'd be next.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3252",
+      "en": "Good luck with that field.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3293",
+      "en": "Hey... As soon as you go, I'm going to find a place to hide.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3305",
+      "en": "It's almost time, isn't it? Maybe we can free our friends after all. I have to help them. It's my fault this happened.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3312",
+      "en": "You saved most of the infected. It will take time to recover from the physical effects, but they'll be all right. Thank you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3315",
+      "en": "Well, you killed it. At least that's something. But there are so many of us gone.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3323",
+      "en": "Who are you and what are you doing in here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3349",
+      "en": "Tell me about yourself.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|3352",
+      "en": "You stay put. I'll go open some doors.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|6649",
+      "en": "Why do you think the geth would be interested in the Thorian?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|8906",
+      "en": "Get her out of here!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|8907",
+      "en": "Get away from her, you son of a bitch!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|8908",
+      "en": "Lizbeth!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|8913",
+      "en": "You won't get away with this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|9665",
+      "en": "What do you want? You've made your deals. Go ahead. It has nothing to do with us.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|9678",
+      "en": "Thank you so much. Now ExoGeni will pour the money in. We'll be able to rebuild and then some.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|51532",
+      "en": "Personal questions",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|51534",
+      "en": "Geth attack",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|51535",
+      "en": "I have to get moving.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|51609",
+      "en": "Explain yourself.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64666",
+      "en": "It's not the geth; it's the energy field they put up.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64670",
+      "en": "Next thing I knew, the geth ship latched on and the power went out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64673",
+      "en": "A few geth won't stop me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64677",
+      "en": "I'll fight my way through the geth soon enough.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64682",
+      "en": "Not for me it isn't.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64683",
+      "en": "Not a problem.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64954",
+      "en": "When the geth attacked, I stayed behind to send a message to Colonial Affairs.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64973",
+      "en": "It's just a plant. I don't know why the geth would care.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64974",
+      "en": "ExoGeni was studying it, but I don't think they found anything special.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64977",
+      "en": "I'm just a research assistant for ExoGeni.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64979",
+      "en": "I came here with my mother. I don't even know if she made it out alive.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64980",
+      "en": "I really don't know that much about it. I think it's some kind of plant being.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64981",
+      "en": "I know it's very old. Thousands of years, even.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|64984",
+      "en": "There you are!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|65022",
+      "en": "Tell me what you know about the Thorian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|65051",
+      "en": "Thorian",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74932",
+      "en": "Just get on with it. I want to at least see the Thorian dead before they ship us out of here.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74934",
+      "en": "This has gone on too long. Just kill the Thorian and try to help the infected.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74935",
+      "en": "I suppose it's time for us to go. Thank you for what you did.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74936",
+      "en": "It's better than dead, I suppose. I just wish.... Never mind.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74938",
+      "en": "Soon we'll have everything we need.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74939",
+      "en": "We're going to be very busy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74940",
+      "en": "You won't recognize anything in a year. A clean slate.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74942",
+      "en": "There's nothing left here. I can't wait to get offworld.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74943",
+      "en": "It's hard to imagine we even had a chance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74944",
+      "en": "I hope I never hear about this place ever again.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74946",
+      "en": "It'll be rough-going, but we have a chance.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74947",
+      "en": "I'm looking forward to making this place work.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|74948",
+      "en": "It'll take a while, but we can make it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|76249",
+      "en": "Here, take my ID. This should get you past any locked doors.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|98724",
+      "en": "You can't do this, Jeong!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|98725",
+      "en": "Everyone shut up! Let me think!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|98726",
+      "en": "What's going on?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|98728",
+      "en": "Damn it! Come out where I can see you! All of you!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103769",
+      "en": "It's my own fault. Everyone else was running and I stayed to back up data.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103770",
+      "en": "They don't want anyone else getting access to the--",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103771",
+      "en": "I don't know for certain, but I'm guessing they're here for the Thorian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103772",
+      "en": "Thorian? What is that, exactly?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103773",
+      "en": "What's a Thorian?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103774",
+      "en": "Thorian? I have never heard of such a thing.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103775",
+      "en": "What's a Thorian?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103776",
+      "en": "Thorian? What's that?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103777",
+      "en": "It's an indigenous life-form. ExoGeni was studying it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103779",
+      "en": "No, not exactly. But I think the geth ship is powering it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103780",
+      "en": "I've noticed the geth laying power cables everywhere.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103781",
+      "en": "You could follow those cables, but there's geth all over the place.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103782",
+      "en": "Yeah, you don't have to tell me twice. I'll just find a small hole to hide in until the field is down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103783",
+      "en": "She's alive? Thank God. I thought I was the only one left.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103784",
+      "en": "Please, Commander. Just get that field down so I can see my mother again.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103785",
+      "en": "We should get out of here. I don't think this place is safe.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103786",
+      "en": "I tried to tell them where to find the Thorian, but the power cut before I could send the message.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103787",
+      "en": "I-- I never meant for this to happen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103788",
+      "en": "The Thorian is underneath Zhu's Hope, but the entrance is blocked.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103790",
+      "en": "The colonists covered it with the freighter just before the geth attacked.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103791",
+      "en": "Well, it does have unique mind-control capabilities.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103792",
+      "en": "That's what ExoGeni was interested in.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103793",
+      "en": "I'm coming with you. I might be able to help. Undo the mess I helped create.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103794",
+      "en": "You're safe now. But why were you here in the first place?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103796",
+      "en": "We'll get you out as soon as we find out what the geth are after.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103797",
+      "en": "I'm here for the geth. If you know something, tell me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103798",
+      "en": "I'm here for the geth. It's very important that I find out what they're after.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103806",
+      "en": "Any suggestions?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103807",
+      "en": "Do you know how we can shut it down?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103810",
+      "en": "All right. I'll look into it. Stay put until the field is down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103812",
+      "en": "She's with some others from the colony. She's safe for now.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103814",
+      "en": "I need some answers. You knew more about the Thorian than you let on.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103816",
+      "en": "You said you didn't know about the Thorian. I don't like being lied to.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103818",
+      "en": "You did what you could. I'll help them if you can tell me where to find the Thorian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103819",
+      "en": "Where's the Thorian?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103820",
+      "en": "Just tell me where I can find the Thorian. No more lies.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103823",
+      "en": "But why are the geth after the Thorian? What could Saren want with it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103824",
+      "en": "What bothers me is why the geth were after the Thorian in the first place.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103830",
+      "en": "Why are you here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103831",
+      "en": "It's okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103833",
+      "en": "Don't worry.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103834",
+      "en": "You can tell me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103835",
+      "en": "Don't hold back!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103836",
+      "en": "What?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103844",
+      "en": "Great.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103845",
+      "en": "How?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103846",
+      "en": "Fair enough.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103849",
+      "en": "Sounds good.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103851",
+      "en": "She did.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103853",
+      "en": "In a minute.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103855",
+      "en": "You lied to me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103857",
+      "en": "I believe you.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103858",
+      "en": "Where is it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103859",
+      "en": "I don't care.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103862",
+      "en": "I see.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103863",
+      "en": "Smart move.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|103864",
+      "en": "Not a concern.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104762",
+      "en": "First things first.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104983",
+      "en": "Normandy to shore party. Come in.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104988",
+      "en": "Looks like they're headed your way.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104990",
+      "en": "What is it, Joker?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104996",
+      "en": "Thanks for the heads-up, Joker. You heard the man; let's move out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104997",
+      "en": "You heard the man; let's move out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|104999",
+      "en": "Yes.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|105001",
+      "en": "What now?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|105008",
+      "en": "Nice job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|105009",
+      "en": "Okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|105010",
+      "en": "Great.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113345",
+      "en": "I might be able to, but not with those geth crawling around everywhere.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113346",
+      "en": "Look, we need to get out of here, past that field.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113347",
+      "en": "I need more information. I need to know why the geth are after this Thorian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113348",
+      "en": "What else can you tell me? Do you know where I can find this Thorian?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113353",
+      "en": "Tell me more.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113354",
+      "en": "Interesting.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113355",
+      "en": "Where is it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|113627",
+      "en": "We're getting a lot of geth comm chatter.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_WAR50_03_CIN|war50_lizbeth_D|152207",
+      "en": "I read you.",
+      "tr": ""
+    }
+  ]
+}

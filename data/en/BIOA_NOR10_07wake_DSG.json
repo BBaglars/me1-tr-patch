@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "package": "BIOA_NOR10_07wake_DSG.pcc",
+    "stem": "BIOA_NOR10_07wake_DSG",
+    "textLang": "INT",
+    "sets": 1
+  },
+  "entries": [
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80062",
+      "en": "You had us worried there, Shepard. How are you feeling?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80063",
+      "en": "About fifteen hours. Something happened down there with the beacon, I think.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80064",
+      "en": "It's my fault. I must have triggered some kind of security field when I approached it. You had to push me out of the way.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80065",
+      "en": "The beacon exploded. A system overload, maybe. The blast knocked you cold. The Lieutenant and I carried you back here to the ship.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80066",
+      "en": "It's my fault. I must have triggered some kind of security field when I approached it. You had to push me out of the way.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80067",
+      "en": "The beacon exploded. A system overload, maybe. The blast knocked you cold. Williams and I had to carry you back here to the ship.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80068",
+      "en": "Listen, you're better off in this infirmary than in any hospital on Eden Prime.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80069",
+      "en": "Physically, you're fine. But I detected some unusual brain activity, abnormal beta waves.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80070",
+      "en": "I also noticed an increase in your rapid eye movement, signs typically associated with intense dreaming.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80071",
+      "en": "Hmmm. I better add this to my report. It may-- Oh, Captain Anderson.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80072",
+      "en": "I figured we could use a soldier like her. She's been reassigned to the Normandy.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80073",
+      "en": "I'm the captain of this ship, Commander, and I want Williams on our crew. ",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80080",
+      "en": "Like the morning after shore leave. How long was I out?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80081",
+      "en": "Minor throbbing. Nothing serious. How long was I out?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80082",
+      "en": "How did I end up here? How long was I out?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80084",
+      "en": "Where's the beacon now? What happened to it?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80086",
+      "en": "I don't suppose it occurred to you that Eden Prime has medical facilities.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80088",
+      "en": "I appreciate it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80090",
+      "en": "I saw-- I'm not sure what I saw. Death. Destruction. Nothing's really clear.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80093",
+      "en": "Williams is a good soldier. She deserves it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80094",
+      "en": "I don't want her on my ship.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80104",
+      "en": "Not great.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80105",
+      "en": "I'm okay.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80106",
+      "en": "What happened?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80108",
+      "en": "What about the beacon?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80110",
+      "en": "Not a local hospital?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80111",
+      "en": "Thanks.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80114",
+      "en": "More like a nightmare.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80115",
+      "en": "I was dreaming.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80116",
+      "en": "Not a dream. A vision.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80119",
+      "en": "Good.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80120",
+      "en": "That's a mistake.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80358",
+      "en": "I won't lie to you, Shepard. Things look bad. Nihlus is dead. The beacon was destroyed and geth are invading. The Council's going to want answers.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80862",
+      "en": "I'll stand behind you and your report, Shepard. You're a damned hero in my books. That's not why I'm here. It's Saren, that other turian.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80865",
+      "en": "Saren's a Spectre, one of the best. A living legend. But if he's working with the geth, it means he's gone rogue.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80866",
+      "en": "A rogue Spectre's trouble. Saren's dangerous. And he hates humans.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80873",
+      "en": "Jenkins wasn't your fault. You did a good job, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80885",
+      "en": "The geth would have wiped out the whole colony if I hadn't stopped them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80899",
+      "en": "I don't like soldiers dying under my command.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80914",
+      "en": "I did my job.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|80928",
+      "en": "I feel bad about Jenkins.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93136",
+      "en": "Doctor? Doctor Chakwas? I think she's waking up.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93137",
+      "en": "Doctor? Doctor Chakwas? I think he's waking up.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93138",
+      "en": "Lieutenant Alenko agrees with you. That's why I added her to our crew.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93139",
+      "en": "How's our XO holding up, Doctor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93140",
+      "en": "All the readings look normal. I'd say the commander's going to be fine.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93141",
+      "en": "Glad to hear it. Shepard, I need to speak with you -- in private.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93142",
+      "en": "Aye, aye, Captain. I'll be in the mess if you need me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93143",
+      "en": "Aye, aye, Captain. I'll be in the mess if you need me.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93144",
+      "en": "Sounds like that beacon hit you pretty hard, Commander. You sure you're okay?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93147",
+      "en": "Chief Williams isn't part of the Normandy crew.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93148",
+      "en": "Did we leave Gunnery Chief Williams back on Eden Prime?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93154",
+      "en": "You said you needed to see me in private, Captain?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93155",
+      "en": "I'll live.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93163",
+      "en": "I'm fine.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93164",
+      "en": "Why is Williams here?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93165",
+      "en": "What happened to Williams?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|93166",
+      "en": "You wanted to talk?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103363",
+      "en": "He thinks we're growing too fast, taking over the galaxy. A lot of aliens think that way. Most of them don't do anything about it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103364",
+      "en": "But Saren has allied himself with the geth. I don't know how. I don't know why. I only know it had something to do with that beacon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103365",
+      "en": "You're right. Saren has allied himself with the geth. I don't know how. I don't know why. But it had something to do with that beacon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103366",
+      "en": "You were there just before the beacon self-destructed. Did you see anything? Any clue that might tell us what Saren was after?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103367",
+      "en": "A vision? A vision of what?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103368",
+      "en": "We need to report this to the Council, Shepard.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103369",
+      "en": "We don't know what information was stored in that beacon. Lost Prothean technology? Blueprints for some ancient weapon of mass destruction? Whatever it was, Saren took it.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103370",
+      "en": "But I know Saren. I know his reputation, his politics. He believes humans are a blight on the galaxy. This attack was an act of war!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103371",
+      "en": "He has the secrets from the beacon. He has an army of geth at his command. And he won't stop until he's wiped humanity from the face of the galaxy!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103372",
+      "en": "It's not that easy. He's a Spectre. He can go anywhere, do almost anything. That's why we need the Council on our side.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103373",
+      "en": "If we expose Saren as a traitor, the Council will revoke his Spectre status.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103374",
+      "en": "I'll contact the ambassador and see if he can get us an audience with the Council. He'll want to see us as soon as we reach the Citadel.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103375",
+      "en": "We should be getting close. Head up to the bridge and tell Joker to bring us in to dock.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103376",
+      "en": "Why?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103379",
+      "en": "He didn't come to Eden Prime because he hates humans.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103381",
+      "en": "Just before I lost consciousness, I had some kind of vision.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103382",
+      "en": "I saw synthetics. Geth, maybe. Slaughtering people. Butchering them.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103383",
+      "en": "They'll think I'm crazy!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103384",
+      "en": "What are we going to tell them? I had a bad dream?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103387",
+      "en": "I'll find some way to take him down.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103388",
+      "en": "When have they ever done anything for humanity?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103390",
+      "en": "We prove Saren's gone rogue and the Council will revoke his Spectre status.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103393",
+      "en": "What's the damage, Doctor?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103394",
+      "en": "Was I hurt?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103397",
+      "en": "Hates humans?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103398",
+      "en": "He wanted the beacon.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103402",
+      "en": "A vision.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103403",
+      "en": "A warning.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103404",
+      "en": "Our death.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103405",
+      "en": "War.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103406",
+      "en": "Forget it!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103407",
+      "en": "What will we say?",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103408",
+      "en": "There's nothing to report.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103411",
+      "en": "You're right.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103412",
+      "en": "Not if I can help it!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103413",
+      "en": "I'll stop him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103414",
+      "en": "Understood, sir!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103415",
+      "en": "They can't help us!",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|103416",
+      "en": "We expose him.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111436",
+      "en": "Don't be so hard on him, Commander. We have no idea if that's what actually set it off. Unfortunately, we'll never get the chance to find out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111437",
+      "en": "Actually, we don't even know if that's what set it off. Unfortunately, we'll never get the chance to find out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111438",
+      "en": "Don't be so hard on her, Commander. We have no idea if that's what actually set it off. Unfortunately, we'll never get the chance to find out.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111441",
+      "en": "I expect better of you, Lieutenant. You endangered the entire mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111443",
+      "en": "You had no way to know what would happen.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111445",
+      "en": "I expect better of my people, Williams. You endangered our entire mission.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111448",
+      "en": "You were careless.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111451",
+      "en": "Don't blame yourself.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111452",
+      "en": "You were careless.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|111456",
+      "en": "I'm not sure.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150003",
+      "en": "The geth haven't been outside the Veil in two centuries, Commander. Nobody could have predicted this.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150004",
+      "en": "Intel dropped the ball, sir. We had no idea what we were walking into down there. That's why things went to hell.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150005",
+      "en": "I didn't do anything wrong, Captain. Hopefully, the Council can see that.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150006",
+      "en": "The Council can kiss my ass. I won't let them blame me for losing the beacon. I didn't do anything wrong.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150007",
+      "en": "I'm pissed off about the geth.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150008",
+      "en": "We've got nothing to hide.",
+      "tr": ""
+    },
+    {
+      "key": "BIOA_NOR10_07wake_DSG|nor10_oculon_approach_D|150009",
+      "en": "To hell with them!",
+      "tr": ""
+    }
+  ]
+}
