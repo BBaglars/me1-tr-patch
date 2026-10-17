@@ -9,7 +9,7 @@
   {
    "key": "u26545",
    "en": "Press %INTERACT when you approach a container to open it.",
-   "tr": "",
+   "tr": "Bir konteynere yaklaştığınızda açmak için %INTERACT tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u26546",
    "en": "You are walking. Press %RUNWALK to run.",
-   "tr": "",
+   "tr": "Yürüyorsunuz. Koşmak için %RUNWALK tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u26547",
    "en": "Using First Aid costs one medi-gel. Medi-gel can be aquired from defeated opponents, quest rewards, first aid stations, and medi-kits.",
-   "tr": "",
+   "tr": "İlk Yardım kullanmak bir medi-jel harcar. Medi-jel, yenilen rakiplerden, görev ödüllerinden, ilk yardım istasyonlarından ve medi-kit'lerden edinilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u26548",
    "en": "Press %CROUCH to crouch. Your fire is more accurate when crouched.",
-   "tr": "",
+   "tr": "Çömelmek için %CROUCH tuşuna basın. Çömelmişken ateşiniz daha isabetlidir.",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u26549",
    "en": "You can also override difficult locks by spending omni-gel. Omni-gel can be acquired from defeated opponents, quest rewards, tech containers, or converting unneeded items in the Equipment screen.",
-   "tr": "",
+   "tr": "Zor kilitleri omni-jel harcayarak da aşabilirsiniz. Omni-jel, yenilen rakiplerden, görev ödüllerinden, teknoloji konteynerlerinden veya Ekipman ekranında gereksiz eşyaları dönüştürerek edinilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u26550",
    "en": "Equip the pistol Ashley gave you by clicking on the pistol icon.",
-   "tr": "",
+   "tr": "Tabanca simgesine tıklayarak Ashley'nin size verdiği tabancayı kuşanın.",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u26551",
    "en": "Double click the weapon to equip it. Then click the ammo Upgrade Slot to install your ammo. The ammo Upgrade Slot is located above the damage bar in the Equipped Item section.",
-   "tr": "",
+   "tr": "Silahı kuşanmak için çift tıklayın. Ardından mühimmatınızı takmak için mühimmat Yükseltme Yuvası'na tıklayın. Mühimmat Yükseltme Yuvası, Kuşanılmış Eşya bölümünde hasar çubuğunun üstünde yer alır.",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u26552",
    "en": "Right click to zoom out. Left click to zoom in, select a destination, and scan or land on a planet.",
-   "tr": "",
+   "tr": "Uzaklaşmak için sağ tıklayın. Yakınlaşmak, bir hedef seçmek ve bir gezegeni taramak ya da gezegene inmek için sol tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u26553",
    "en": "Double click on the ammo upgrade to install it in your weapon.",
-   "tr": "",
+   "tr": "Mühimmat yükseltmesini silahınıza takmak için üzerine çift tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u26554",
    "en": "To access detailed Tutorials, click the Secondary tab, then the plus sign next to \"Player Tutorials.\"",
-   "tr": "",
+   "tr": "Ayrıntılı Eğitimlere erişmek için İkincil sekmesine, ardından \"Oyuncu Eğitimleri\"nin yanındaki artı işaretine tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u26555",
    "en": "You can order your squad to attack the enemy you are targeting by pressing %ORDERSSQUADATTACK.\nTo order only a specific squadmate to attack, press %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 instead.",
-   "tr": "",
+   "tr": "%ORDERSSQUADATTACK tuşuna basarak takımınıza hedeflediğiniz düşmana saldırmasını emredebilirsiniz.\nYalnızca belirli bir takım arkadaşına saldırmasını emretmek için bunun yerine %ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2 tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u26556",
    "en": "Look at a location and press %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 to order a squadmate to move to that point. They will hold position at that point.",
-   "tr": "",
+   "tr": "Bir konuma bakın ve bir takım arkadaşına o noktaya gitmesini emretmek için %ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2 tuşuna basın. O noktada pozisyon alacaktır.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u26557",
    "en": "Press %ORDERSMOVE to command your squad to move ahead.",
-   "tr": "",
+   "tr": "Takımınıza ilerlemesini emretmek için %ORDERSMOVE tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u26558",
    "en": "Press %ORDERSSQUADFOLLOW to command your squad to follow you.",
-   "tr": "",
+   "tr": "Takımınıza sizi takip etmesini emretmek için %ORDERSSQUADFOLLOW tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u26559",
    "en": "Talk to the Requisition Officer to purchase new equipment.",
-   "tr": "",
+   "tr": "Yeni ekipman satın almak için Tedarik Subayı'yla konuşun.",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u26560",
    "en": "To change a squad member's equipment, target the member's locker and press %INTERACT. ",
-   "tr": "",
+   "tr": "Bir takım üyesinin ekipmanını değiştirmek için üyenin dolabını hedefleyin ve %INTERACT tuşuna basın. ",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u26561",
    "en": "This talent cannot be improved right now. Additional ranks will be unlocked as you gain experience.",
-   "tr": "",
+   "tr": "Bu yetenek şu anda geliştirilemez. Deneyim kazandıkça ek rütbelerin kilidi açılacaktır.",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u26562",
    "en": "Click any of the weapon icons near Shepard's name to equip that weapon. You can switch weapons for any squad member in this way. Release %TACTICSHUD to resume the game.",
-   "tr": "",
+   "tr": "O silahı kuşanmak için Shepard'ın adının yanındaki silah simgelerinden birine tıklayın. Bu şekilde herhangi bir takım üyesinin silahını değiştirebilirsiniz. Oyuna devam etmek için %TACTICSHUD tuşunu bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u26563",
    "en": "Nice shooting! Switch back to your previous weapon by pressing and holding %TACTICSHUD.",
-   "tr": "",
+   "tr": "Güzel atış! Önceki silahınıza dönmek için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u26564",
    "en": "You have equipped an untrained weapon, which reduces damage and accuracy. Press and hold %TACTICSHUD to change your squad's weapons.",
-   "tr": "",
+   "tr": "Eğitim almadığınız bir silah kuşandınız; bu hasarı ve isabeti azaltır. Takımınızın silahlarını değiştirmek için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u26565",
    "en": "Press %DRAWWEAPON to holster your weapon.",
-   "tr": "",
+   "tr": "Silahınızı kınına koymak için %DRAWWEAPON tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u26566",
    "en": "Press %QUICKSAVE to quick save your game. Save often to ensure you do not lose progress when you die.",
-   "tr": "",
+   "tr": "Oyunu hızlı kaydetmek için %QUICKSAVE tuşuna basın. Öldüğünüzde ilerlemenizi kaybetmemek için sık sık kaydedin.",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u26567",
    "en": "Hold Position",
-   "tr": "",
+   "tr": "Pozisyonu Koru",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u26568",
    "en": "Selecting a reply and pressing Spacebar will make Shepard respond immediately, cutting off the dialog of the other speaker.",
-   "tr": "",
+   "tr": "Bir yanıt seçip Boşluk tuşuna basarsanız Shepard hemen yanıt verir ve karşısındakinin konuşmasını keser.",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u26569",
    "en": "The Tactics HUD lets you use your talents and powers. Press %TACTICSHUD to bring up the Tactics HUD in combat.",
-   "tr": "",
+   "tr": "Taktik HUD'u yeteneklerinizi ve güçlerinizi kullanmanızı sağlar. Savaşta Taktik HUD'unu açmak için %TACTICSHUD tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u26570",
    "en": "Adjust combat difficulty under Gameplay in the Settings menu on the Mission Computer.",
-   "tr": "",
+   "tr": "Savaş zorluğunu Görev Bilgisayarı'ndaki Ayarlar menüsünde Oynanış altından ayarlayın.",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u26571",
    "en": "Film grain and Motion Blur can be adjusted under Graphics in the Settings menu.",
-   "tr": "",
+   "tr": "Film greni ve Hareket Bulanıklığı, Ayarlar menüsünde Grafikler altından ayarlanabilir.",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u26572",
    "en": "Target Assist under Gameplay in the Settigns menu can be adjusted to change the sensitivity of your weapons' auto-lock feature.",
-   "tr": "",
+   "tr": "Silahlarınızın otomatik kilitlenme özelliğinin hassasiyetini değiştirmek için Ayarlar menüsünde Oynanış altındaki Hedef Yardımı ayarlanabilir.",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u26573",
    "en": "You can adjust tactics for your squad by changing Squad Power Usage under Gameplay in the Settings menu.",
-   "tr": "",
+   "tr": "Ayarlar menüsünde Oynanış altındaki Takım Güç Kullanımı'nı değiştirerek takımınızın taktiklerini ayarlayabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u26574",
    "en": "Turn subtitles on or off under Gameplay in the Settings menu.",
-   "tr": "",
+   "tr": "Altyazıları Ayarlar menüsünde Oynanış altından açın veya kapatın.",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u26575",
    "en": "Graphics and sound settings can be adjusted under the Settings menu on the Mission Computer.",
-   "tr": "",
+   "tr": "Grafik ve ses ayarları, Görev Bilgisayarı'ndaki Ayarlar menüsünden yapılabilir.",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u26576",
    "en": "Memory Core 1 damaged. Transfer module stack to Core 2 or 3 to reactivate. Click the Shutdown button to Exit.",
-   "tr": "",
+   "tr": "Bellek Çekirdeği 1 hasarlı. Yeniden etkinleştirmek için modül yığınını Çekirdek 2'ye veya 3'e aktarın. Çıkmak için Kapat düğmesine tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u26577",
    "en": "Target",
-   "tr": "",
+   "tr": "Hedef",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u26578",
    "en": "Order Squadmate 2 to Move/Attack",
-   "tr": "",
+   "tr": "Takım Arkadaşı 2'ye Hareket/Saldırı Emri Ver",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u26579",
    "en": "Automatically assigns talent points when you advance to a new level",
-   "tr": "",
+   "tr": "Yeni bir seviyeye geçtiğinizde yetenek puanlarını otomatik olarak dağıtır",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u26580",
    "en": "Defenses Only",
-   "tr": "",
+   "tr": "Yalnızca Savunma",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u26581",
    "en": "Active",
-   "tr": "",
+   "tr": "Etkin",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u26582",
    "en": "Provides text to accompany all dialogue",
-   "tr": "",
+   "tr": "Tüm diyaloglara eşlik eden metni sağlar",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u26583",
    "en": "Set special effects quality",
-   "tr": "",
+   "tr": "Özel efektlerin kalitesini ayarlar",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u26584",
    "en": "Set screen resolution",
-   "tr": "",
+   "tr": "Ekran çözünürlüğünü ayarlar",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u26585",
    "en": "Gamma",
-   "tr": "",
+   "tr": "Gama",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u26586",
    "en": "Sets game brightness",
-   "tr": "",
+   "tr": "Oyun parlaklığını ayarlar",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u26587",
    "en": "Toggle enhancement for game shadows",
-   "tr": "",
+   "tr": "Oyun gölgeleri için iyileştirmeyi aç/kapat",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u26588",
    "en": "Sets the quality of textures",
-   "tr": "",
+   "tr": "Dokuların kalitesini ayarlar",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u26589",
    "en": "Med",
-   "tr": "",
+   "tr": "Orta",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u26590",
    "en": "Graphics Filter",
-   "tr": "",
+   "tr": "Grafik Filtresi",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u26591",
    "en": "Set level of filtering for graphics enhancement used",
-   "tr": "",
+   "tr": "Kullanılan grafik iyileştirmesinin filtreleme düzeyini ayarlar",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u26592",
    "en": "Toggle film grain effect",
-   "tr": "",
+   "tr": "Film greni efektini aç/kapat",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u26593",
    "en": "Vertical Sync",
-   "tr": "",
+   "tr": "Dikey Senkronizasyon",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u26594",
    "en": "Toggles whether game automatically syncs with monitor at start",
-   "tr": "",
+   "tr": "Oyunun başlangıçta monitörle otomatik senkronize olup olmayacağını belirler",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u26595",
    "en": "Toggle motion blur effect for camera rotation",
-   "tr": "",
+   "tr": "Kamera dönüşü için hareket bulanıklığı efektini aç/kapat",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u26596",
    "en": "Approach Jenkins and press %INTERACT to investigate.",
-   "tr": "",
+   "tr": "Araştırmak için Jenkins'e yaklaşın ve %INTERACT tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u26597",
    "en": "Press %ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 to command your squadmates to take cover.",
-   "tr": "",
+   "tr": "Takım arkadaşlarınıza siper almalarını emretmek için %ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2 tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u26598",
    "en": "Press %ORDERSSQUADATTACK to command your entire squad to attack the enemy you are targeting.\n%ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2 to command a single squadmate to attack.",
-   "tr": "",
+   "tr": "Tüm takımınıza hedeflediğiniz düşmana saldırmasını emretmek için %ORDERSSQUADATTACK tuşuna basın.\nTek bir takım arkadaşına saldırmasını emretmek için %ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2.",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u26599",
    "en": "Press and hold %TACTICSHUD to pause the game and open the Tactics HUD.",
-   "tr": "",
+   "tr": "Oyunu duraklatıp Taktik HUD'unu açmak için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u26600",
    "en": "Order Kaidan to use biotic Throw on the Geth Destroyer. Press and hold %TACTICSHUD to begin.",
-   "tr": "",
+   "tr": "Kaidan'a Geth Destroyer'a biyotik Fırlatma uygulamasını emredin. Başlamak için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u26601",
    "en": "Right click and rotate the camera to target the Geth Destroyer. Click Kaidan's Throw power. Release %TACTICSHUD to return to gameplay.",
-   "tr": "",
+   "tr": "Sağ tıklayıp kamerayı döndürerek Geth Destroyer'ı hedefleyin. Kaidan'ın Fırlatma gücüne tıklayın. Oyuna dönmek için %TACTICSHUD tuşunu bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u26602",
    "en": "Command your squad to take cover. Press and hold %TACTICSHUD to begin.",
-   "tr": "",
+   "tr": "Takımınıza siper almasını emredin. Başlamak için %TACTICSHUD tuşunu basılı tutun.",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u26603",
    "en": "Right click and rotate the camera to target one of the flashing markers. Click either squad member's Move arrow. Release %TACTICSHUD to return to gameplay.",
-   "tr": "",
+   "tr": "Sağ tıklayıp kamerayı döndürerek yanıp sönen işaretlerden birini hedefleyin. Takım üyelerinden birinin Hareket okuna tıklayın. Oyuna dönmek için %TACTICSHUD tuşunu bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u26604",
    "en": "Use the Tactics HUD to issue orders and command your squad to use Powers and switch weapons. To look around, press and hold the Right Mouse Button, then move the mouse.",
-   "tr": "",
+   "tr": "Emir vermek, takımınıza güç kullanmasını ve silah değiştirmesini emretmek için Taktik HUD'unu kullanın. Etrafa bakmak için Sağ Fare Tuşunu basılı tutup fareyi hareket ettirin.",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u26605",
    "en": "To uncrouch, press %CROUCH again.",
-   "tr": "",
+   "tr": "Ayağa kalkmak için %CROUCH tuşuna tekrar basın.",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u26606",
    "en": "Left-click on the map and and drag the cursor to scroll. Right click to place or remove a beacon. This will appear on your radar, assisting navigation.",
-   "tr": "",
+   "tr": "Haritada sol tıklayıp imleci sürükleyerek kaydırın. Bir işaret koymak veya kaldırmak için sağ tıklayın. İşaret radarınızda görünür ve yön bulmanıza yardımcı olur.",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u26607",
    "en": "%VEHICLECANNON fires the Mako's cannon. %VEHICLEMACHINEGUN fires its machine gun. Use %VEHICLEZOOM to zoom in for a better view.",
-   "tr": "",
+   "tr": "%VEHICLECANNON Mako'nun topunu ateşler. %VEHICLEMACHINEGUN makineli tüfeğini ateşler. Daha iyi görmek için yakınlaşmak üzere %VEHICLEZOOM tuşunu kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u26608",
    "en": "Click the Filter Tabs to switch between item types. Select an item from the list of available models and click the Equip button to wield it. Click the Omni-gel button to permanently convert the selected item into omni-gel. Click on an equipped item's Upgrade slot to select an upgrade. ",
-   "tr": "",
+   "tr": "Eşya türleri arasında geçiş yapmak için Filtre Sekmelerine tıklayın. Mevcut modeller listesinden bir eşya seçin ve kuşanmak için Kuşan düğmesine tıklayın. Seçili eşyayı kalıcı olarak omni-jele dönüştürmek için Omni-jel düğmesine tıklayın. Bir yükseltme seçmek için kuşanılmış eşyanın Yükseltme yuvasına tıklayın. ",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u26609",
    "en": "Mwheel Up",
-   "tr": "",
+   "tr": "Fare Tekerleği Yukarı",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u26610",
    "en": "Mwheel Down",
-   "tr": "",
+   "tr": "Fare Tekerleği Aşağı",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u26611",
    "en": "Click the Filter Tabs to switch between Upgrade Slots. Select an upgrade from the list of available models and click Equip to install it. Select [Empty] to leave the slot empty. Click the Omni-gel button to permanently convert the selected upgrade into omni-gel.",
-   "tr": "",
+   "tr": "Yükseltme Yuvaları arasında geçiş yapmak için Filtre Sekmelerine tıklayın. Mevcut modeller listesinden bir yükseltme seçin ve takmak için Kuşan'a tıklayın. Yuvayı boş bırakmak için [Boş] seçeneğini seçin. Seçili yükseltmeyi kalıcı olarak omni-jele dönüştürmek için Omni-jel düğmesine tıklayın.",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u26612",
    "en": "Tutorial: PC_TacticsHUDMap",
-   "tr": "",
+   "tr": "Eğitim: PC_TacticsHUDMap",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u26613",
    "en": "Tutorial: PC_TacticsHUDMap2",
-   "tr": "",
+   "tr": "Eğitim: PC_TacticsHUDMap2",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u26614",
    "en": "The basic movement controls are:\n\nForward: [ %FORWARD ]\n\nStrafe Left: [ %MOVELEFT ]\n\nStrafe Right: [ %MOVERIGHT ]\n\nBack Up: [ %BACKWARD ]\n\nTo interact with an object or character, approach and press [ %INTERACT ].\n\nTo take cover from enemy fire behind an object, move forward [ %FORWARD ] and push against it. Shepard will lock into \"cover mode\" with back to the object. You can slide to the edges of the object using [ %MOVELEFT ] and [ %MOVERIGHT ].\n\nNear the edge of an object, it is possible to fire your weapon or use combat abilities. Shepard will appear to \"lean out\" to fire around the corner. If you are crouched behind a low cover object, you will \"pop up\" and fire over it. To leave cover, press [ %BACKWARD ] to back away from the object.\n\nIrregularly-shaped objects may not allow you to move into cover mode behind them. Flat surfaces offer the most reliable cover.\n\nPress [ %CROUCH ] to toggle into and out of crouch mode. While crouching, your weapons fire is more accurate, but you move slowly.\n\nPress and hold [ %STORM ] while using the movement keys to \"storm\" (sprint) for a short distance. While moving in storm mode, you will become fatigued – a bar appears in the lower left of the screen to show your level of fatigue. If you leave storm mode, fatigue will bleed away. If you run until the fatigue bar fills, you will be forced to return to normal movement speed, and will not be able storm again until all fatigue has bled away.",
-   "tr": "",
+   "tr": "Temel hareket kontrolleri:\n\nİleri: [ %FORWARD ]\n\nSola Yan Adım: [ %MOVELEFT ]\n\nSağa Yan Adım: [ %MOVERIGHT ]\n\nGeri: [ %BACKWARD ]\n\nBir nesne veya karakterle etkileşime girmek için yaklaşın ve [ %INTERACT ] tuşuna basın.\n\nDüşman ateşinden bir nesnenin arkasında siper almak için ileri [ %FORWARD ] gidip nesneye yaslanın. Shepard sırtı nesneye dönük \"siper moduna\" geçer. [ %MOVELEFT ] ve [ %MOVERIGHT ] ile nesnenin kenarlarına kayabilirsiniz.\n\nBir nesnenin kenarına yakınken silahınızı ateşleyebilir veya savaş yeteneklerini kullanabilirsiniz. Shepard köşenin etrafından ateş etmek için \"dışarı eğilir\". Alçak bir siper nesnesinin arkasında çömelmişseniz \"yukarı kalkıp\" üzerinden ateş edersiniz. Siperden çıkmak için nesneden uzaklaşmak üzere [ %BACKWARD ] tuşuna basın.\n\nDüzensiz biçimli nesneler arkalarında siper moduna girmenize izin vermeyebilir. En güvenilir siperi düz yüzeyler sunar.\n\nÇömelme moduna girip çıkmak için [ %CROUCH ] tuşuna basın. Çömelmişken silah ateşiniz daha isabetlidir ancak yavaş hareket edersiniz.\n\nKısa bir mesafe \"hamle yapmak\" (koşmak) için hareket tuşlarını kullanırken [ %STORM ] tuşunu basılı tutun. Hamle modunda hareket ederken yorulursunuz; yorgunluk düzeyinizi göstermek için ekranın sol altında bir çubuk belirir. Hamle modundan çıkarsanız yorgunluk azalır. Yorgunluk çubuğu dolana kadar koşarsanız normal hareket hızına dönmek zorunda kalırsınız ve yorgunluk tamamen geçene kadar tekrar hamle yapamazsınız.",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u26615",
    "en": "01: Basic Controls",
-   "tr": "",
+   "tr": "01: Temel Kontroller",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u26616",
    "en": "Press [ %DRAWWEAPON ] to draw and holster your weapon.\n\n[ Left Click ] or press [ %FIRE ] to fire your weapon.  Weapons have unlimited ammunition, but generate heat when fired. Your weapon’s heat level is displayed in the lower left of the screen. Fire in short bursts to avoid overheating. If your weapon overheats, it will not be able to fire again until the heat dissipates fully.\n\nThe Sabotage Power makes weapons more likely to overheat. Some enemies can use Sabotage against you!\n\nWhen an enemy gets too close, pressing [ %FIRE ] will initiate a pistol whip or rifle butt melee attack. This will cause some injury, and may force enemies back or knock them down, giving you a chance to shoot them. \n\nPress [ %ZOOM ] to toggle in and out of targeting zoom mode. While zoomed in, your weapons fire will be more accurate. Sniper Rifles are very difficult to use if not zoomed in.\n\nPress [ %FIRSTAID ] to use your squad's First Aid Power. First Aid heals everyone in the squad, but consumes 1 medi-gel per use, and has a cooldown period before it can be re-used.\n\nTraining in the First Aid Talent improves the amount of health restored per use, and the Medicine Talent reduces the cooldown time between uses. The combined skills of ALL squad members with these Talents will benefit your squad.\n\nPress [ %GRENADE ] to throw a grenade. You can carry a limited number, so use them carefully. Grenades \"stick\" where they impact and can be remote-detonated by pressing [ %GRENADE ] a second time. This makes them useful as traps.",
-   "tr": "",
+   "tr": "Silahınızı çekmek ve kınına koymak için [ %DRAWWEAPON ] tuşuna basın.\n\nSilahınızı ateşlemek için [ Sol Tık ] yapın veya [ %FIRE ] tuşuna basın.  Silahların sınırsız mühimmatı vardır ancak ateşlendiğinde ısı üretir. Silahınızın ısı seviyesi ekranın sol altında gösterilir. Aşırı ısınmayı önlemek için kısa serilerle ateş edin. Silahınız aşırı ısınırsa ısı tamamen dağılana kadar tekrar ateş edemez.\n\nSabotaj Gücü silahların aşırı ısınma ihtimalini artırır. Bazı düşmanlar Sabotajı size karşı kullanabilir!\n\nBir düşman çok yaklaştığında [ %FIRE ] tuşuna basmak tabanca sapıyla veya tüfek dipçiğiyle yakın dövüş saldırısı başlatır. Bu bir miktar yaralanmaya yol açar, düşmanları geri püskürtebilir veya yere devirebilir ve onlara ateş etme şansı verir. \n\nHedefleme yakınlaştırma moduna girip çıkmak için [ %ZOOM ] tuşuna basın. Yakınlaştırılmışken silah ateşiniz daha isabetli olur. Keskin Nişancı Tüfekleri yakınlaştırılmadan kullanılması çok zordur.\n\nTakımınızın İlk Yardım Gücünü kullanmak için [ %FIRSTAID ] tuşuna basın. İlk Yardım takımdaki herkesi iyileştirir ancak her kullanımda 1 medi-jel harcar ve yeniden kullanılmadan önce bir bekleme süresi vardır.\n\nİlk Yardım Yeteneğinde eğitim almak kullanım başına yenilenen sağlığı artırır, Tıp Yeteneği ise kullanımlar arasındaki bekleme süresini azaltır. Bu Yeteneklere sahip TÜM takım üyelerinin birleşik becerileri takımınıza fayda sağlar.\n\nEl bombası atmak için [ %GRENADE ] tuşuna basın. Sınırlı sayıda taşıyabilirsiniz, bu yüzden dikkatli kullanın. El bombaları çarptıkları yere \"yapışır\" ve [ %GRENADE ] tuşuna ikinci kez basılarak uzaktan patlatılabilir. Bu onları tuzak olarak kullanışlı kılar.",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u26617",
    "en": "02: Combat",
-   "tr": "",
+   "tr": "02: Savaş",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u26618",
    "en": "Press and hold [ %TACTICSHUD ] to pause the game and open the Tactics HUD. Along three sides of the Tactics HUD overlay are tabs with icons representing the actions your squad can take.\n\nClicking the weapon icons changes the firearms used by each squad member. Pistols and Shotguns are handy at short range. Assault Rifles excel at medium range. Sniper Rifles dominate at long range. You can also cycle through Shepard's weapons outside the Tactics HUD by using [ %NEXTWEAPON ].\n\nEach character can equip all four weapon types, but not all characters are TRAINED to use each weapon. If you order a squad member to use a weapon they are not trained in, their accuracy and damage will suffer.\n\nClicking on Power icons orders the use of a combat Power. Powers range from Kaidan' biotic abilities, to Ashley's combat techniques, to Tali's engineering skills. Moving the mouse cursor over a Power's icon will describe its effects.\n\nAt the top of the two squad member's menus are four additional buttons that allow you to issue squad commands to them. These commands can also be issued outside the Tactics HUD by using hotkeys.\n\n%ORDERSSQUADATTACK: Attack your target.\n\n%ORDERSSQUADMOVE1 or %ORDERSSQUADMOVE2: Have a specific squadmate move to a point or attack the targetted enemy.\n\n%ORDERSSQUADFOLLOW: Regroup and follow you.\n\nAt the top of the Tactics HUD are Shepard's Power hotkey Quick Slots. As Shepard levels up, you gain new combat Powers. To add new Power to your Quick Slots, click and drag any Power icon from Shepard’s tab to a Quick Slot.\n\nYou cannot utilize your squad members' powers using the Quick Slots.",
-   "tr": "",
+   "tr": "Oyunu duraklatıp Taktik HUD'unu açmak için [ %TACTICSHUD ] tuşunu basılı tutun. Taktik HUD katmanının üç kenarı boyunca, takımınızın yapabileceği eylemleri temsil eden simgeli sekmeler bulunur.\n\nSilah simgelerine tıklamak her takım üyesinin kullandığı ateşli silahı değiştirir. Tabancalar ve Pompalı Tüfekler yakın menzilde işe yarar. Taarruz Tüfekleri orta menzilde üstündür. Keskin Nişancı Tüfekleri uzun menzilde hükmeder. Shepard'ın silahları arasında Taktik HUD dışında da [ %NEXTWEAPON ] ile geçiş yapabilirsiniz.\n\nHer karakter dört silah türünü de kuşanabilir ancak her karakter her silahı kullanmak için EĞİTİMLİ değildir. Bir takım üyesine eğitim almadığı bir silahı kullanmasını emrederseniz isabeti ve hasarı düşer.\n\nGüç simgelerine tıklamak bir savaş Gücünün kullanılmasını emreder. Güçler Kaidan'ın biyotik yeteneklerinden Ashley'nin savaş tekniklerine, Tali'nin mühendislik becerilerine kadar uzanır. Fare imlecini bir Gücün simgesinin üzerine getirmek etkilerini açıklar.\n\nİki takım üyesinin menülerinin üstünde, onlara takım komutları vermenizi sağlayan dört ek düğme vardır. Bu komutlar kısayol tuşlarıyla Taktik HUD dışında da verilebilir.\n\n%ORDERSSQUADATTACK: Hedefinize saldırın.\n\n%ORDERSSQUADMOVE1 veya %ORDERSSQUADMOVE2: Belirli bir takım arkadaşının bir noktaya gitmesini veya hedeflenen düşmana saldırmasını sağlayın.\n\n%ORDERSSQUADFOLLOW: Yeniden toplanıp sizi takip etsinler.\n\nTaktik HUD'un üstünde Shepard'ın Güç kısayol Hızlı Yuvaları bulunur. Shepard seviye atladıkça yeni savaş Güçleri kazanırsınız. Hızlı Yuvalarınıza yeni bir Güç eklemek için Shepard'ın sekmesinden herhangi bir Güç simgesini bir Hızlı Yuva'ya tıklayıp sürükleyin.\n\nTakım üyelerinizin güçlerini Hızlı Yuvalar ile kullanamazsınız.",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u26619",
    "en": "03: The Tactics HUD",
-   "tr": "",
+   "tr": "03: Taktik HUD",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u26620",
    "en": "As the squad gains experience, they advance in level. All members of the squad level up together. At each level, characters gain Talent Points. Press [ %PAUSEMENU ] to access the Squad Menu. Here you can spend Talent Points to improve the squad’s abilities. Remember to level up ALL your squad members!\n\nOn the right side of the screen, you will see a list of Talents available to the currently selected character, with rows of \"blocks\" that tint green to indicate their current level of skill. Below the list is a number indicating the amount of Talent Points available to spend. To spend points, mouse over the Talent and click on it.\n\nMoving your mouse over a Talent will highlight it and display its description. While your mouse is over a Talent, it will highlight, and display a description of it. By moving the mouse over the individual blocks that represent Talent levels, you can see the effects of each point of improvement. Blocks with icons in them unlock combat Powers or additional Talents\n\nIf you don't want to select your Talents point by point, click the [ Auto Level Up ] button to automatically spend points on Talents appropriate to the character's class. If you are not satisfied with any changes, click the [ Undo Talent Points ] button to revert all changes. Note: once you exit the Squad Menu, you can no longer Undo.\n\nOn Shepard's page of the Squad Menu, you will see two meters on either side of the character portrait. These track Shepard's Paragon and Renegade reputations. If you act as a force for the betterment of all, you gain Paragon reputation. If you accomplish goals by any means necessary, you gain Renegade reputation.\n\nShepard's maximum level of persuasion skills is initially limited, but improves as you gain levels and cultivate a reputation. ",
-   "tr": "",
+   "tr": "Takım deneyim kazandıkça seviye atlar. Takımın tüm üyeleri birlikte seviye atlar. Her seviyede karakterler Yetenek Puanı kazanır. Takım Menüsü'ne erişmek için [ %PAUSEMENU ] tuşuna basın. Burada takımın yeteneklerini geliştirmek için Yetenek Puanı harcayabilirsiniz. TÜM takım üyelerinizin seviye atlamasını unutmayın!\n\nEkranın sağ tarafında, seçili karakter için kullanılabilir Yeteneklerin listesini ve mevcut beceri düzeyini göstermek için yeşile boyanan \"blok\" sıralarını görürsünüz. Listenin altında harcanabilecek Yetenek Puanı miktarını gösteren bir sayı vardır. Puan harcamak için Yeteneğin üzerine gelip tıklayın.\n\nFareyi bir Yeteneğin üzerine getirmek onu vurgular ve açıklamasını gösterir. Yetenek seviyelerini temsil eden bloklara fareyi getirerek her gelişim puanının etkisini görebilirsiniz. İçinde simge olan bloklar savaş Güçlerinin veya ek Yeteneklerin kilidini açar\n\nYeteneklerinizi tek tek seçmek istemezseniz, puanları karakterin sınıfına uygun Yeteneklere otomatik harcamak için [ Otomatik Seviye Atla ] düğmesine tıklayın. Değişikliklerden memnun kalmazsanız tüm değişiklikleri geri almak için [ Yetenek Puanlarını Geri Al ] düğmesine tıklayın. Not: Takım Menüsü'nden çıktıktan sonra Geri Alma artık yapılamaz.\n\nTakım Menüsü'nde Shepard'ın sayfasında, karakter portresinin iki yanında iki ölçer görürsünüz. Bunlar Shepard'ın Paragon ve Renegade itibarını izler. Herkesin iyiliği için çalışan bir güç olarak davranırsanız Paragon itibarı kazanırsınız. Hedeflerinize gerekirse her yolu deneyerek ulaşırsanız Renegade itibarı kazanırsınız.\n\nShepard'ın ikna becerilerinin azami seviyesi başlangıçta sınırlıdır ancak seviye atladıkça ve itibar kazandıkça gelişir. ",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u26621",
    "en": "04: Character Advancement",
-   "tr": "",
+   "tr": "04: Karakter Gelişimi",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u26622",
    "en": "Equipment can be bought from stores, looted from containers, or taken from defeated enemies. Equipment from enemies will be automatically added to your inventory; there is no need to stop and search corpses.\n\nPress [ %PAUSEMENU ] to access the Equipment Screen, which consists of several \"boxes\" next to an image of the currently selected character.\n\nThe bottom row lists the squad’s consumable Resources: current and maximum supplies of medi-gel and grenades, available omni-gel, and available credits.\n\nAbove Resources is the main Inventory box. The top row of icons allows you to switch between different types of equipment: Assault Rifles, Biotic Amps, Armor, etc. Below is a scrolling text list of your equipment within the currently selected type. Items which are shaded grey cannot be used by the currently selected character.\n\nAt the top left is a box showing the stats of your currently Equipped Item of the active type. At the top right is a second box showing the stats of the currently Selected Item in the Inventory box, allowing at-a-glance comparison. To equip the selected item, double click its name in the Inventory box, or use the Equip button at the bottom.\n\nYour Equipped Item in the top left will display one or more light blue squares. These are Upgrade Slots. Upgrades enhance equipment capabilities in various ways. Click on an Upgrade Slot to switch the Inventory box to display Upgrades that can be equipped in the current piece of equipment. Click the icons at the top of the Inventory box to switch between the Upgrades Slots on the item.\n\nUnneeded equipment can be sold for credits at a vendor, or reduced to omni-gel using a button at the bottom of the Inventory box.",
-   "tr": "",
+   "tr": "Ekipman mağazalardan satın alınabilir, konteynerlerden yağmalanabilir veya yenilen düşmanlardan alınabilir. Düşmanlardan gelen ekipman envanterinize otomatik eklenir; durup cesetleri aramanıza gerek yoktur.\n\nSeçili karakterin görüntüsünün yanında birkaç \"kutudan\" oluşan Ekipman Ekranı'na erişmek için [ %PAUSEMENU ] tuşuna basın.\n\nAlt satır, takımın tüketilebilir Kaynaklarını listeler: mevcut ve azami medi-jel ve el bombası stokları, kullanılabilir omni-jel ve kullanılabilir kredi.\n\nKaynakların üstünde ana Envanter kutusu bulunur. Üst satırdaki simgeler farklı ekipman türleri arasında geçiş yapmanızı sağlar: Taarruz Tüfekleri, Biyotik Amp'ler, Zırh vb. Altında, o anda seçili türdeki ekipmanınızın kaydırılabilir metin listesi vardır. Gri gölgeli eşyalar o anda seçili karakter tarafından kullanılamaz.\n\nSol üstte, etkin türdeki o anki Kuşanılmış Eşyanızın istatistiklerini gösteren bir kutu vardır. Sağ üstte, Envanter kutusundaki o anki Seçili Eşyanın istatistiklerini gösteren ikinci bir kutu vardır; bu bir bakışta karşılaştırma yapmanızı sağlar. Seçili eşyayı kuşanmak için Envanter kutusundaki adına çift tıklayın veya alttaki Kuşan düğmesini kullanın.\n\nSol üstteki Kuşanılmış Eşyanız bir veya daha fazla açık mavi kare gösterir. Bunlar Yükseltme Yuvalarıdır. Yükseltmeler ekipmanın yeteneklerini çeşitli şekillerde geliştirir. Envanter kutusunu o ekipman parçasına takılabilecek Yükseltmeleri gösterecek şekilde değiştirmek için bir Yükseltme Yuvası'na tıklayın. Eşyadaki Yükseltme Yuvaları arasında geçiş yapmak için Envanter kutusunun üstündeki simgelere tıklayın.\n\nGereksiz ekipman bir satıcıya kredi karşılığında satılabilir veya Envanter kutusunun altındaki bir düğmeyle omni-jele dönüştürülebilir.",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u26623",
    "en": "05: Equipment",
-   "tr": "",
+   "tr": "05: Ekipman",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u26624",
    "en": "All squad members have lockers in the Normandy's cargo hold. These allow you to change their equipment. To change a squad member’s equipment, approach their locker and press [ %INTERACT ] to open the Equipment Screen.\n\nThe Requisition Officer is a vendor available in the Normandy's cargo bay. You can sell unneeded items to him for credits. He also sells a variety of equipment. His selection of wares is initially quite limited, but expands as you discover additional Manufacturing Licenses.\n\nWhen shopping from vendors across the galaxy, you will find that some offer licenses for specific manufacturers. For example, you may purchase a license to manufacture Elkoss Combine equipment from a volus vendor. This would add equipment manufactured by Elkoss to the Requisition Officer’s store inventory.\n\nThe items available from the Requisition Officer change every time you visit a new plot world.",
-   "tr": "",
+   "tr": "Tüm takım üyelerinin Normandy'nin kargo ambarında dolapları vardır. Bunlar ekipmanlarını değiştirmenizi sağlar. Bir takım üyesinin ekipmanını değiştirmek için dolabına yaklaşın ve Ekipman Ekranı'nı açmak için [ %INTERACT ] tuşuna basın.\n\nTedarik Subayı, Normandy'nin kargo ambarında bulunan bir satıcıdır. Gereksiz eşyaları ona kredi karşılığında satabilirsiniz. Ayrıca çeşitli ekipman satar. Ürün seçeneği başlangıçta oldukça sınırlıdır ancak ek Üretim Lisansları keşfettikçe genişler.\n\nGalaksideki satıcılardan alışveriş yaparken bazılarının belirli üreticilere ait lisanslar sunduğunu görürsünüz. Örneğin bir volus satıcıdan Elkoss Combine ekipmanı üretme lisansı satın alabilirsiniz. Bu, Elkoss yapımı ekipmanı Tedarik Subayı'nın mağaza envanterine ekler.\n\nTedarik Subayı'ndaki eşyalar, yeni bir hikâye dünyasını her ziyaret edişinizde değişir.",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u26625",
    "en": "13: Cargo Bay Resources",
-   "tr": "",
+   "tr": "13: Kargo Ambarı Kaynakları",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u26626",
    "en": "All characters possess shields called \"kinetic barriers\" that absorb a limited amount of damage. In order to harm an enemy, you must first blast through their shields. If shields are damaged, take cover and avoid further damage to give them a chance to regenerate. The Shield Boost power immediately recharges shields. \n\nSome weapon mods do extra damage to shields, or allow shots partially bypass them to and strike the character within.\n\nArmor protects characters from all damage that breaks through shields, reducing it by a fixed percentage. Each suit of armor also gives a level of resistance to biotic and tech power attacks. Heavier armor tends to provide greater protection against all attacks, but requires additional training and slows the character slightly.\n\nArmor can have intrinsic special abilities. Some types will heal the wearer at a slow but constant rate. Others can protect the squad from conditions of extreme heat, cold, pressure, etc. on uncharted worlds. You can also gain these abilities by installing appropriate mods in any set of armor.\n\nWhen you are in a habitable area, you can equip or un-equip your squad members’ helmets on the Equipment Screen [ %PAUSEMENU ]. Removing helmets is purely cosmetic; it does not reduce protection from damage.",
-   "tr": "",
+   "tr": "Tüm karakterler sınırlı miktarda hasarı emen \"kinetik bariyer\" adlı kalkanlara sahiptir. Bir düşmana zarar vermek için önce kalkanlarını yarmalısınız. Kalkanlar hasar görürse siper alın ve yenilenmeleri için daha fazla hasar almaktan kaçının. Kalkan Güçlendirme gücü kalkanları anında yeniler. \n\nBazı silah modları kalkanlara fazladan hasar verir veya atışların kalkanı kısmen aşıp içerideki karaktere isabet etmesini sağlar.\n\nZırh, karakterleri kalkanları aşan tüm hasardan korur ve onu sabit bir yüzde oranında azaltır. Her zırh takımı ayrıca biyotik ve teknoloji güç saldırılarına karşı bir direnç seviyesi sağlar. Daha ağır zırh tüm saldırılara karşı daha fazla koruma sağlama eğilimindedir ancak ek eğitim gerektirir ve karakteri biraz yavaşlatır.\n\nZırhların kendine özgü özel yetenekleri olabilir. Bazı türler kullanıcıyı yavaş ama sabit bir hızla iyileştirir. Diğerleri takımı keşfedilmemiş dünyalardaki aşırı sıcak, soğuk, basınç vb. koşullardan koruyabilir. Bu yetenekleri herhangi bir zırh takımına uygun modlar takarak da kazanabilirsiniz.\n\nYaşanabilir bir alandayken Ekipman Ekranı'nda [ %PAUSEMENU ] takım üyelerinizin kasklarını kuşanabilir veya çıkarabilirsiniz. Kaskları çıkarmak tamamen görseldir; hasara karşı korumayı azaltmaz.",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u26627",
    "en": "06: Armor and Shields",
-   "tr": "",
+   "tr": "06: Zırh ve Kalkanlar",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u26628",
    "en": "If any character in the squad possesses the Decryption Talent, you gain the ability to override locks on doors and equipment containers. If any character has the Electronics Talent, you gain the ability to repair or salvage broken equipment. If there are multiple characters in the squad with the appropriate Talent, the highest skill is used.\n\nTo use Decryption or Electronics, approach an object and press [ %INTERACT ] to interact with it. A pop-up box will tell you what options are available, based on your level of skill and the difficulty of the lock / repair. If your skill is not high enough to even attempt the task, you will be told so. If your skill is barely enough, you may bypass the mechanism by expending omni-gel. If your skill is sufficient, you have the option of playing a mini-game to unlock / repair the object without expending omni-gel.\n\nIn the mini-game, you control a probe that begins at the bottom of the screen. It can be moved using the basic movement commands:\n\nForward: [ %FORWARD ]\n\nLeft (Clockwise): [ %MOVELEFT ]\n\nRight: (Counterclockwise): [ %MOVERIGHT ]\n\nBack: [ %BACKWARD ]\n\nIn the center of the screen is a countdown timer that indicates how much time you have to successfully complete the game. You must get the probe to the center before the timer runs out. This is complicated by concentric rings of obstacles representing countermeasures and \"broken bits.\" Some obstacles revolve around the center, others are stationary. If your probe hits an obstacle, it will be knocked back to its starting position at the bottom.\n\nIf you fail to complete the mini-game in the time allowed, you still have the option to complete the decryption / repair by expending omni-gel.",
-   "tr": "",
+   "tr": "Takımdaki herhangi bir karakter Şifre Çözme Yeteneğine sahipse kapıların ve ekipman konteynerlerinin kilitlerini aşma yeteneği kazanırsınız. Herhangi bir karakter Elektronik Yeteneğine sahipse bozuk ekipmanı onarma veya parçalarını kurtarma yeteneği kazanırsınız. Takımda uygun Yeteneğe sahip birden çok karakter varsa en yüksek beceri kullanılır.\n\nŞifre Çözme veya Elektronik kullanmak için bir nesneye yaklaşın ve etkileşime girmek için [ %INTERACT ] tuşuna basın. Açılır bir kutu, beceri seviyenize ve kilidin / onarımın zorluğuna göre hangi seçeneklerin mevcut olduğunu söyler. Beceriniz görevi denemeye bile yetmiyorsa size bildirilir. Beceriniz ancak yetiyorsa omni-jel harcayarak mekanizmayı aşabilirsiniz. Beceriniz yeterliyse, nesnenin kilidini açmak / onarmak için omni-jel harcamadan bir mini oyun oynama seçeneğiniz vardır.\n\nMini oyunda, ekranın altından başlayan bir probu kontrol edersiniz. Temel hareket komutlarıyla hareket ettirilebilir:\n\nİleri: [ %FORWARD ]\n\nSol (Saat Yönü): [ %MOVELEFT ]\n\nSağ: (Saat Yönünün Tersi): [ %MOVERIGHT ]\n\nGeri: [ %BACKWARD ]\n\nEkranın ortasında oyunu başarıyla tamamlamak için ne kadar süreniz olduğunu gösteren bir geri sayım zamanlayıcısı vardır. Süre dolmadan probu merkeze ulaştırmalısınız. Bunu, karşı önlemleri ve \"bozuk bitleri\" temsil eden eş merkezli engel halkaları zorlaştırır. Bazı engeller merkez etrafında döner, diğerleri sabittir. Probunuz bir engele çarparsa alttaki başlangıç konumuna geri fırlatılır.\n\nMini oyunu verilen sürede tamamlayamazsanız şifre çözme / onarımı omni-jel harcayarak tamamlama seçeneğiniz yine de vardır.",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u26629",
    "en": "07: Decryption and Electronics",
-   "tr": "",
+   "tr": "07: Şifre Çözme ve Elektronik",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u26630",
    "en": "To view a map of your current location, press [ %MAPMENU ]. If you are within a structure, this displays a layout of the rooms. If you are on a planet surface, it displays a topographical map, with heights colored white and low-lying areas deep blue.\n\nOn the left-hand side of the screen is a key defining the various icons you may see on the map. Not all points of interest on uncharted world will be marked on the map initially. You will need to explore to find hidden locations.\n\nOn some maps you can zoom in and out by using the scroll bar on the right hand side. To pan across the map, hold down the [ Left Mouse Button ] on the map and drag using the mouse.\n\nClick the [ Right Mouse Button ] to place a beacon on the map. This will appear on your radar, allowing you to easily navigate to distant locations.\n\nIf you are on an uncharted world, a button below the map will allow you to return to the Normandy.",
-   "tr": "",
+   "tr": "Bulunduğunuz konumun haritasını görmek için [ %MAPMENU ] tuşuna basın. Bir yapının içindeyseniz odaların planını gösterir. Bir gezegenin yüzeyindeyseniz yüksek yerleri beyaz, alçak yerleri koyu mavi renkli topografik bir harita gösterir.\n\nEkranın sol tarafında haritada görebileceğiniz çeşitli simgeleri tanımlayan bir anahtar vardır. Keşfedilmemiş dünyadaki tüm ilgi çekici noktalar başlangıçta haritada işaretli olmaz. Gizli konumları bulmak için keşfetmeniz gerekir.\n\nBazı haritalarda sağ taraftaki kaydırma çubuğuyla yakınlaşıp uzaklaşabilirsiniz. Haritada kaydırmak için [ Sol Fare Tuşu ] tuşunu haritada basılı tutup fareyle sürükleyin.\n\nHaritaya bir işaret koymak için [ Sağ Fare Tuşu ] ile tıklayın. İşaret radarınızda görünür ve uzak konumlara kolayca gitmenizi sağlar.\n\nKeşfedilmemiş bir dünyadaysanız haritanın altındaki bir düğme Normandy'ye dönmenizi sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u26631",
    "en": "08: The Area Map",
-   "tr": "",
+   "tr": "08: Bölge Haritası",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u26632",
    "en": "The Galaxy Map can be found on the top level of the Normandy. To direct the ship to visit a new location, approach the holographic galaxy and press [ %INTERACT ].\n\nThe Galaxy Map has four levels of detail. When opened, you will see the entire Milky Way, with various colonized clusters highlighted. From here you can zoom in through levels of detail by using the mouse to move the red \"crosshairs\" over a destination and clicking the [ Left Mouse Button ]. The levels of detail are:\n\n> Galaxy\n> Cluster\n> Star System\n> Planet / Ship\n\nTo zoom out, click the [ Right Mouse Button ].\n\nAt the Planet / Ship level, you will see an image of the location on the left, and a text description on the right. If there is something of interest in the area, an action button appears at the bottom of the text description.\n\nThe [ Survey ] button indicates there are anomalies in the area that can be investigated using Normandy’s sensors. The [ Land ] button indicates you can explore the planetary surface. The [ Board ] button is similar, but used to indicate you can explore the interior of a space-borne object, such as a ship or station.\n\nSome Star Systems include hidden objects. These can be found by looking for flashing points of light and hovering the crosshairs over them. When the crosshairs are over a hidden object, click the [ Left Mouse Button ] to \"scan\" and reveal the object. Hidden objects are frequently -- but not always -- in asteroid belts.",
-   "tr": "",
+   "tr": "Galaksi Haritası Normandy'nin en üst katında bulunur. Gemiyi yeni bir konuma yönlendirmek için holografik galaksiye yaklaşın ve [ %INTERACT ] tuşuna basın.\n\nGalaksi Haritası'nın dört ayrıntı seviyesi vardır. Açıldığında, çeşitli kolonileşmiş kümelerin vurgulandığı Samanyolu'nun tamamını görürsünüz. Buradan, fareyle kırmızı \"artı imlecini\" bir hedefin üzerine getirip [ Sol Fare Tuşu ] ile tıklayarak ayrıntı seviyeleri boyunca yakınlaşabilirsiniz. Ayrıntı seviyeleri şunlardır:\n\n> Galaksi\n> Küme\n> Yıldız Sistemi\n> Gezegen / Gemi\n\nUzaklaşmak için [ Sağ Fare Tuşu ] ile tıklayın.\n\nGezegen / Gemi seviyesinde solda konumun bir görüntüsünü, sağda metin açıklamasını görürsünüz. Bölgede ilgi çekici bir şey varsa metin açıklamasının altında bir eylem düğmesi belirir.\n\n[ Etüt ] düğmesi, bölgede Normandy'nin sensörleriyle araştırılabilecek anomaliler olduğunu gösterir. [ İniş ] düğmesi, gezegen yüzeyini keşfedebileceğinizi gösterir. [ Biniş ] düğmesi benzerdir ancak gemi veya istasyon gibi uzayda seyreden bir nesnenin içini keşfedebileceğinizi belirtir.\n\nBazı Yıldız Sistemlerinde gizli nesneler bulunur. Bunlar yanıp sönen ışık noktalarını arayıp artı imlecini üzerlerine getirerek bulunabilir. Artı imleci gizli bir nesnenin üzerindeyken nesneyi \"taramak\" ve ortaya çıkarmak için [ Sol Fare Tuşu ] ile tıklayın. Gizli nesneler sıklıkla -- ama her zaman değil -- asteroit kuşaklarındadır.",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u26633",
    "en": "09: The Galaxy Map",
-   "tr": "",
+   "tr": "09: Galaksi Haritası",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u26634",
    "en": "To speak to characters, approach them and press [ %INTERACT ]. Most will open the dialogue wheel conversation interface; some will simply respond with a comment. \n\nTo select Shepard's responses, move the mouse over the option that best suits your personality and click the [ Left Mouse Button ]. Friendly or diplomatic options are placed on the top \"spokes\" of the conversation wheel, while angry or rude options are placed on the bottom. The spoke directly to the right is a default response that is not particularly friendly or hostile. You will never miss any content by choosing the default options, allowing you to safely skim through a conversation. \n\nThe spoke directly to the left is used for \"investigate\" options. Investigate options provide additional background, but are never required to advance the plot. If there are many investigation options, choosing the \"Investigate\" spoke opens a sub-menu of questions. To return to the main topic, select the \"Return\" option on the right-hand spoke.\n\nOnly Shepard may gain the persuasion Talents of Charm and Intimidate. When persuasion skills are used in conversations, they are placed on the left-hand side of the conversation wheel, and distinguished by color. Charm options appear blue, and Intimidate options red. If you lack the level of Talent required to access a persuasive option, it will be greyed out and un-selectable.\n\nYour squad members have their own opinions on the sights of the galaxy. If you hear them make \"thoughtful\" noises as you walk through an area, try talking to them.",
-   "tr": "",
+   "tr": "Karakterlerle konuşmak için onlara yaklaşın ve [ %INTERACT ] tuşuna basın. Çoğu diyalog çarkı konuşma arayüzünü açar; bazıları yalnızca bir yorumla karşılık verir. \n\nShepard'ın yanıtlarını seçmek için fareyi kişiliğinize en uygun seçeneğin üzerine getirin ve [ Sol Fare Tuşu ] ile tıklayın. Dostane veya diplomatik seçenekler konuşma çarkının üst \"kollarına\", öfkeli veya kaba seçenekler alt kollarına yerleştirilir. Hemen sağdaki kol, özellikle dostane ya da düşmanca olmayan varsayılan yanıttır. Varsayılan seçenekleri seçerek hiçbir içeriği kaçırmazsınız; bu, bir konuşmayı güvenle hızlıca geçmenizi sağlar. \n\nHemen soldaki kol \"araştır\" seçenekleri için kullanılır. Araştırma seçenekleri ek bilgi sağlar ancak hikâyeyi ilerletmek için hiçbir zaman gerekli değildir. Çok sayıda araştırma seçeneği varsa \"Araştır\" koluna tıklamak bir soru alt menüsü açar. Ana konuya dönmek için sağ koldaki \"Dön\" seçeneğini seçin.\n\nBüyüleme ve Yıldırma ikna Yeteneklerini yalnızca Shepard kazanabilir. İkna becerileri konuşmalarda kullanıldığında çarkın sol tarafına yerleştirilir ve renkle ayırt edilir. Büyüleme seçenekleri mavi, Yıldırma seçenekleri kırmızı görünür. Bir ikna seçeneğine erişmek için gereken Yetenek seviyesine sahip değilseniz seçenek gri olur ve seçilemez.\n\nTakım üyelerinizin galaksinin manzaralarıyla ilgili kendi fikirleri vardır. Bir bölgeden geçerken \"düşünceli\" sesler çıkardıklarını duyarsanız onlarla konuşmayı deneyin.",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u26635",
    "en": "10: Conversations",
-   "tr": "",
+   "tr": "10: Konuşmalar",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u26636",
    "en": "Basic movement controls for the Mako are the same as walking:\n\nForward: [ %FORWARD ]\n\nTurn Left: [ %MOVELEFT ]\n\nTurn Right: [ %MOVERIGHT ]\n\nReverse: [ %BACKWARD ]\n\nPress [ %VEHICLEJETS ] to trigger the Mako's thrusters, allowing it to jump over obstacles and enemy missiles. The thrusters propel the Mako upwards relative to the ground. If parked on a 45-degree slope, the Mako will be propelled off to one side, not straight up.\n\nMoving the mouse changes the facing of the Mako's turret and guns, but NOT the direction the Mako moves in. If the turret is not facing towards the front of the vehicle, you will not be able to see where you are driving.\n\nPress [ %INTERACT ] to enter and [ %VEHICLEEXIT ] to exit the Mako. Exit the Mako to fight on foot or enter buildings and facilities.\n\nPress [ %VEHICLERETURN ] to leave an uncharted world and return to the Normandy.",
-   "tr": "",
+   "tr": "Mako'nun temel hareket kontrolleri yürümeyle aynıdır:\n\nİleri: [ %FORWARD ]\n\nSola Dön: [ %MOVELEFT ]\n\nSağa Dön: [ %MOVERIGHT ]\n\nGeri Vites: [ %BACKWARD ]\n\nMako'nun iticilerini çalıştırmak için [ %VEHICLEJETS ] tuşuna basın; bu, engellerin ve düşman füzelerinin üzerinden atlamasını sağlar. İticiler Mako'yu zemine göre yukarı doğru iter. 45 derecelik bir yamaçta park edilmişse Mako dümdüz yukarı değil, yana doğru itilir.\n\nFareyi hareket ettirmek Mako'nun taretinin ve silahlarının yönünü değiştirir ancak Mako'nun gittiği yönü DEĞİŞTİRMEZ. Tareti aracın önüne bakmıyorsa nereye sürdüğünüzü göremezsiniz.\n\nMako'ya binmek için [ %INTERACT ], inmek için [ %VEHICLEEXIT ] tuşuna basın. Yaya savaşmak veya bina ve tesislere girmek için Mako'dan inin.\n\nKeşfedilmemiş bir dünyadan ayrılıp Normandy'ye dönmek için [ %VEHICLERETURN ] tuşuna basın.",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u26637",
    "en": "11: Vehicle Movement",
-   "tr": "",
+   "tr": "11: Araç Hareketi",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u26638",
    "en": "Use [ %VEHICLEMACHINEGUN ] to fire the Mako's anti-personnel machine gun. Holding down the button allows constant fire, but the weapon can overheat. Use [ %VEHICLECANNON ] to fire a single shot from the anti-vehicle cannon.\n\nWhile the camera can look nearly straight up down, the turret-mounted weapons have a maximum depression and elevation. It is not possible to hit very close or very high targets.\n\nZoom in to view distant objects using [ %VEHICLEZOOM ]. There are three zoom settings to cycle through.\n\nLike squad members, the Mako has shields that regenerate over time. If the shields are worn out, hits will cause hull damage that must be repaired.\n\nPress the [ %VEHICLEREPAIR ] key to repair the Mako’s hull by expending omni-gel. The Electronics Talent increases the amount repaired. The Mako cannot move during repairs, so be sure you’re in a safe location!",
-   "tr": "",
+   "tr": "Mako'nun personel karşıtı makineli tüfeğini ateşlemek için [ %VEHICLEMACHINEGUN ] tuşunu kullanın. Tuşu basılı tutmak sürekli ateşe olanak tanır ancak silah aşırı ısınabilir. Araç karşıtı topun tek atışını ateşlemek için [ %VEHICLECANNON ] tuşunu kullanın.\n\nKamera neredeyse dümdüz yukarı aşağı bakabilse de tarete monte silahların azami alçalma ve yükselme açısı vardır. Çok yakın veya çok yüksek hedefleri vurmak mümkün değildir.\n\nUzak nesneleri görmek için [ %VEHICLEZOOM ] ile yakınlaşın. Aralarında geçiş yapabileceğiniz üç yakınlaştırma ayarı vardır.\n\nTakım üyeleri gibi Mako'nun da zamanla yenilenen kalkanları vardır. Kalkanlar tükenirse isabetler, onarılması gereken gövde hasarına yol açar.\n\nMako'nun gövdesini omni-jel harcayarak onarmak için [ %VEHICLEREPAIR ] tuşuna basın. Elektronik Yeteneği onarılan miktarı artırır. Mako onarım sırasında hareket edemez, bu yüzden güvenli bir yerde olduğunuzdan emin olun!",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u26639",
    "en": "12: Vehicle Combat",
-   "tr": "",
+   "tr": "12: Araç Savaşı",
    "ctx": [
     "Startup"
    ]
