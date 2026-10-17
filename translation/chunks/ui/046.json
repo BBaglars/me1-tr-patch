@@ -9,7 +9,7 @@
   {
    "key": "u24595",
    "en": "Renegade Weapon Bonus\n\nReduces the cooldown on Marksman, Carnage, Overkill,  and Assassination by 10%",
-   "tr": "",
+   "tr": "Renegade Silah Bonusu\n\nNişancı, Katliam, Aşırı Güç ve Suikast bekleme süresini %10 azaltır",
    "ctx": [
     "Startup"
    ]
@@ -17,7 +17,7 @@
   {
    "key": "u24596",
    "en": "Renegade Weapon Bonus",
-   "tr": "",
+   "tr": "Renegade Silah Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -25,7 +25,7 @@
   {
    "key": "u24597",
    "en": "Renegade Regeneration Bonus\n\nRegenerates 1 health per second",
-   "tr": "",
+   "tr": "Renegade Yenilenme Bonusu\n\nSaniyede 1 sağlık yeniler",
    "ctx": [
     "Startup"
    ]
@@ -33,7 +33,7 @@
   {
    "key": "u24598",
    "en": "Renegade Regeneration Bonus",
-   "tr": "",
+   "tr": "Renegade Yenilenme Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -41,7 +41,7 @@
   {
    "key": "u24599",
    "en": "Renegade Power Bonus\n\nIncreases the damage and duration of your powers by 5%",
-   "tr": "",
+   "tr": "Renegade Güç Bonusu\n\nGüçlerinizin hasarını ve süresini %5 artırır",
    "ctx": [
     "Startup"
    ]
@@ -49,7 +49,7 @@
   {
    "key": "u24600",
    "en": "Renegade Power Bonus",
-   "tr": "",
+   "tr": "Renegade Güç Bonusu",
    "ctx": [
     "Startup"
    ]
@@ -57,7 +57,7 @@
   {
    "key": "u24601",
    "en": "Use [XBoxB_Btn_DPad] to issue orders to your squad. [XBoxB_Btn_DPadU] to attack your target; [XBoxB_Btn_DPadD] to regroup and follow you; [XBoxB_Btn_DPadL] or [XBoxB_Btn_DPadR] for a single squadmate to attack your target or move to a point.",
-   "tr": "",
+   "tr": "Takımınıza emir vermek için [XBoxB_Btn_DPad] kullanın. Hedefinize saldırmak için [XBoxB_Btn_DPadU]; toparlanıp sizi takip etmeleri için [XBoxB_Btn_DPadD]; tek bir takım arkadaşının hedefinize saldırması ya da bir noktaya gitmesi için [XBoxB_Btn_DPadL] veya [XBoxB_Btn_DPadR].",
    "ctx": [
     "Startup"
    ]
@@ -65,7 +65,7 @@
   {
    "key": "u24602",
    "en": "Probe Hardpoint",
-   "tr": "",
+   "tr": "Sabit Noktayı Yokla",
    "ctx": [
     "Startup"
    ]
@@ -73,7 +73,7 @@
   {
    "key": "u24603",
    "en": "Bouncer",
-   "tr": "",
+   "tr": "Fedai",
    "ctx": [
     "Startup"
    ]
@@ -81,7 +81,7 @@
   {
    "key": "u24604",
    "en": "Press and hold [XBoxB_Btn_RB] to bring up the Power Wheel and pause the game. The Power Wheel lets you use the powers and special abilities of your squad.",
-   "tr": "",
+   "tr": "Güç Çarkını açıp oyunu duraklatmak için [XBoxB_Btn_RB] tuşunu basılı tutun. Güç Çarkı takımınızın güçlerini ve özel yeteneklerini kullanmanızı sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -89,7 +89,7 @@
   {
    "key": "u24605",
    "en": "While holding [XBoxB_Btn_RB], use [XBoxB_Btn_RS] to aim at a target and [XBoxB_Btn_LS] to highlight an ability on the Power Wheel. Press [XBoxB_Btn_A] to select. You may have 1 power or ability selected for each squad member. Release [XBoxB_Btn_RB] to unpause the game and use selected powers.",
-   "tr": "",
+   "tr": "[XBoxB_Btn_RB] tuşunu basılı tutarken bir hedefe nişan almak için [XBoxB_Btn_RS], Güç Çarkında bir yeteneği vurgulamak için [XBoxB_Btn_LS] kullanın. Seçmek için [XBoxB_Btn_A] tuşuna basın. Her takım üyesi için 1 güç veya yetenek seçebilirsiniz. Oyunun duraklatmasını kaldırıp seçili güçleri kullanmak için [XBoxB_Btn_RB] tuşunu bırakın.",
    "ctx": [
     "Startup"
    ]
@@ -97,7 +97,7 @@
   {
    "key": "u24606",
    "en": "Hold [XBoxB_Btn_RB] to bring up the Power Wheel. Press [XBoxB_Btn_X] to quick-map 1 of Shepard's powers. Tap [XBoxB_Btn_RB] to use the quick-mapped power.",
-   "tr": "",
+   "tr": "Güç Çarkını açmak için [XBoxB_Btn_RB] tuşunu basılı tutun. Shepard'ın güçlerinden birini hızlı eşlemek için [XBoxB_Btn_X] tuşuna basın. Hızlı eşlenen gücü kullanmak için [XBoxB_Btn_RB] tuşuna dokunun.",
    "ctx": [
     "Startup"
    ]
@@ -105,7 +105,7 @@
   {
    "key": "u24607",
    "en": "Haliat went through a lot of trouble to draw you here. A pity it ended like this. For him, at least.\n\nNow that you're above ground, your suit radio has reestablished connection with the Normandy. Time to get the hell out of here.",
-   "tr": "",
+   "tr": "Haliat sizi buraya çekmek için çok uğraşmış. Böyle bitmesi yazık. En azından onun için.\n\nArtık yer üstünde olduğunuza göre giysi telsiziniz Normandy ile bağlantıyı yeniden kurdu. Buradan defolup gitme zamanı.",
    "ctx": [
     "Startup"
    ]
@@ -113,7 +113,7 @@
   {
    "key": "u24608",
    "en": "Dr. Michel was being blackmailed by a guy who said he worked for Banes. Nobody seems to know much about this guy, but he's obviously very powerful.",
-   "tr": "",
+   "tr": "Dr. Michel, Banes için çalıştığını söyleyen bir adam tarafından şantaja uğruyordu. Kimse bu adam hakkında pek bir şey bilmiyor, ama açıkça çok güçlü.",
    "ctx": [
     "Startup"
    ]
@@ -121,7 +121,7 @@
   {
    "key": "u24609",
    "en": "Citadel: Banes",
-   "tr": "",
+   "tr": "Citadel: Banes",
    "ctx": [
     "Startup"
    ]
@@ -129,7 +129,7 @@
   {
    "key": "u24610",
    "en": "Quasar\n200 credits to play\nGet closest to 20 without going over.\n\nPayouts\n14 or less: 0 credits\n    15:  50 credits\n    16: 100 credits\n    17: 200 credits\n    18: 250 credits\n    19: 300 credits\n    20: 400 credits\n21 or more: 0 credits",
-   "tr": "",
+   "tr": "Quasar\nOynamak için 200 kredi\n20'ye geçmeden en yakın olanı yapın.\n\nÖdemeler\n14 veya daha az: 0 kredi\n    15:  50 kredi\n    16: 100 kredi\n    17: 200 kredi\n    18: 250 kredi\n    19: 300 kredi\n    20: 400 kredi\n21 veya daha fazla: 0 kredi",
    "ctx": [
     "Startup"
    ]
@@ -137,7 +137,7 @@
   {
    "key": "u24611",
    "en": "Credits Won",
-   "tr": "",
+   "tr": "Kazanılan Krediler",
    "ctx": [
     "Startup"
    ]
@@ -145,7 +145,7 @@
   {
    "key": "u24612",
    "en": "Play Again",
-   "tr": "",
+   "tr": "Tekrar Oyna",
    "ctx": [
     "Startup"
    ]
@@ -153,7 +153,7 @@
   {
    "key": "u24613",
    "en": "Would you like to play again for 20 credits?",
-   "tr": "",
+   "tr": "20 kredi karşılığında tekrar oynamak ister misiniz?",
    "ctx": [
     "Startup"
    ]
@@ -161,7 +161,7 @@
   {
    "key": "u24614",
    "en": "Would you like to play again for 200 credits?",
-   "tr": "",
+   "tr": "200 kredi karşılığında tekrar oynamak ister misiniz?",
    "ctx": [
     "Startup"
    ]
@@ -169,7 +169,7 @@
   {
    "key": "u24615",
    "en": "Records of the Rachni War suggest brood warriors - the male-gendered rachni - only fight when a hive is severely pressed. It's safe to say you've eliminated the rachni on Nepmos.",
-   "tr": "",
+   "tr": "Rachni Savaşı kayıtları, kovan savaşçılarının – rachni'lerin erkek cinsiyetli olanları – yalnızca kovan ciddi biçimde sıkıştığında savaştığını gösteriyor. Nepmos'taki rachni'leri ortadan kaldırdığınızı söylemek güvenli.",
    "ctx": [
     "Startup"
    ]
@@ -177,7 +177,7 @@
   {
    "key": "u24616",
    "en": "Press [XBoxB_Btn_X] to throw grenades. Wait for timed detonation or press [XBoxB_Btn_X] again to detonate.",
-   "tr": "",
+   "tr": "El bombası atmak için [XBoxB_Btn_X] tuşuna basın. Zamanlı patlamayı bekleyin ya da patlatmak için [XBoxB_Btn_X] tuşuna tekrar basın.",
    "ctx": [
     "Startup"
    ]
@@ -185,7 +185,7 @@
   {
    "key": "u24617",
    "en": "Press the [XBoxB_Btn_Start] button to access the Mission Computer, then go to the Squad screen to spend talent points for new squad members.\n",
-   "tr": "",
+   "tr": "Görev Bilgisayarına erişmek için [XBoxB_Btn_Start] tuşuna basın, ardından yeni takım üyeleri için yetenek puanı harcamak üzere Takım ekranına gidin.\n",
    "ctx": [
     "Startup"
    ]
@@ -193,7 +193,7 @@
   {
    "key": "u24618",
    "en": "To Wards",
-   "tr": "",
+   "tr": "Wards'a",
    "ctx": [
     "Startup"
    ]
@@ -201,7 +201,7 @@
   {
    "key": "u24619",
    "en": "Benezia's Power Level",
-   "tr": "",
+   "tr": "Benezia'nın Güç Seviyesi",
    "ctx": [
     "Startup"
    ]
@@ -209,7 +209,7 @@
   {
    "key": "u24620",
    "en": "Disconnecting the Mako will deactivate the defense turrets.",
-   "tr": "",
+   "tr": "Mako'yu ayırmak savunma taretlerini devre dışı bırakır.",
    "ctx": [
     "Startup"
    ]
@@ -217,7 +217,7 @@
   {
    "key": "u24621",
    "en": "Directions",
-   "tr": "",
+   "tr": "Yönler",
    "ctx": [
     "Startup"
    ]
@@ -225,7 +225,7 @@
   {
    "key": "u24622",
    "en": "Disconnect the Mako",
-   "tr": "",
+   "tr": "Mako'yu Ayır",
    "ctx": [
     "Startup"
    ]
@@ -233,7 +233,7 @@
   {
    "key": "u24623",
    "en": "Leave the Mako Hooked up",
-   "tr": "",
+   "tr": "Mako'yu Bağlı Bırak",
    "ctx": [
     "Startup"
    ]
@@ -241,7 +241,7 @@
   {
    "key": "u24624",
    "en": "The generator has been ripped apart by rachni claws, leaving the defensive turrets inoperative. It would be possible to power the turrets off the Mako's engine - but this would make it impossible to drive or fire the Mako's own weapons.",
-   "tr": "",
+   "tr": "Jeneratör rachni pençeleriyle parçalanmış ve savunma taretlerini çalışmaz hale getirmiş. Taretleri Mako'nun motorundan beslemek mümkün olurdu – ancak bu, Mako'yu sürmeyi ya da kendi silahlarını ateşlemeyi imkânsız kılar.",
    "ctx": [
     "Startup"
    ]
@@ -249,7 +249,7 @@
   {
    "key": "u24625",
    "en": "Connect the Mako to the generator",
-   "tr": "",
+   "tr": "Mako'yu jeneratöre bağla",
    "ctx": [
     "Startup"
    ]
@@ -257,7 +257,7 @@
   {
    "key": "u24626",
    "en": "Wards Access\n\nThe elevator at the end of this hallway leads to the Wards. There you will find Chora’s Den, Flux, the Markets, and the Medical Center.",
-   "tr": "",
+   "tr": "Wards Access\n\nBu koridorun sonundaki asansör Wards'a çıkar. Orada Chora's Den'i, Flux'u, Pazarları ve Tıp Merkezi'ni bulacaksınız.",
    "ctx": [
     "Startup"
    ]
@@ -265,7 +265,7 @@
   {
    "key": "u24627",
    "en": "Citadel Tower Elevator\n\nThis elevator leads up to the Citadel Tower, where the Council convenes to pass judgement on interstellar matters.\n",
-   "tr": "",
+   "tr": "Citadel Tower Asansörü\n\nBu asansör, Konsey'in yıldızlararası meselelerde hüküm vermek üzere toplandığı Citadel Tower'a çıkar.\n",
    "ctx": [
     "Startup"
    ]
@@ -273,7 +273,7 @@
   {
    "key": "u24628",
    "en": "To C-Sec Academy\n\nThe elevator down to C-Sec Academy is far past the Emporium to your right and across the lake.  You will also find the Consort Chambers in this direction.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne\n\nC-Sec Akademisi'ne inen asansör sağınızdaki Emporium'un çok ilerisinde, gölün karşısında. Konsort Odaları da bu yönde.\n",
    "ctx": [
     "Startup"
    ]
@@ -281,7 +281,7 @@
   {
    "key": "u24629",
    "en": "To Citadel Tower\n\nThe Citadel Tower is the tall white structure across the lake and to the left.  It houses the Council and is the heart of Citadel politics.",
-   "tr": "",
+   "tr": "Citadel Tower'a\n\nCitadel Tower, gölün karşısındaki ve solunuzdaki yüksek beyaz yapıdır.  Konsey'i barındırır ve Citadel siyasetinin kalbidir.",
    "ctx": [
     "Startup"
    ]
@@ -289,7 +289,7 @@
   {
    "key": "u24630",
    "en": "To Wards\n\nThe elevator down to the Wards is located across the plaza on the other side of the lake.  There you will find Chora’s Den, Flux, the Markets, and the Medical Center.\n",
-   "tr": "",
+   "tr": "Wards'a\n\nWards'a inen asansör meydanın karşısında, gölün öbür yanında. Orada Chora's Den'i, Flux'u, Pazarları ve Tıp Merkezi'ni bulacaksınız.\n",
    "ctx": [
     "Startup"
    ]
@@ -297,7 +297,7 @@
   {
    "key": "u24631",
    "en": "To C-Sec Academy\n\nThe elevator to C-Sec Academy is located down this ramp and past the small plaza.  The Alliance docking bay can be found there.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne\n\nC-Sec Akademisi'ne giden asansör bu rampanın aşağısında, küçük meydanın ötesinde. İttifak rıhtımı orada.\n",
    "ctx": [
     "Startup"
    ]
@@ -305,7 +305,7 @@
   {
    "key": "u24632",
    "en": "To C-Sec Academy\n\nThe elevator to the C-Sec Academy is located down the ramp just past the embassies to your right. The Alliance docking bay can be found there.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne\n\nC-Sec Akademisi'ne giden asansör sağınızdaki büyükelçiliklerin hemen ötesindeki rampanın aşağısında. İttifak rıhtımı orada.\n",
    "ctx": [
     "Startup"
    ]
@@ -313,7 +313,7 @@
   {
    "key": "u24633",
    "en": "To Citadel Tower\n\nThe Citadel Tower is the tall white structure far to your left across the plaza.  It houses the Council and is the heart of Citadel politics.\n",
-   "tr": "",
+   "tr": "Citadel Tower'a\n\nCitadel Tower, meydanın karşısında solunuzdaki uzak yüksek beyaz yapıdır.  Konsey'i barındırır ve Citadel siyasetinin kalbidir.\n",
    "ctx": [
     "Startup"
    ]
@@ -321,7 +321,7 @@
   {
    "key": "u24634",
    "en": "To Wards\n\nThe elevator down to the Wards is located across the plaza far to your left. There you will find Chora’s Den, Flux, the Markets, and the Medical Center.\n",
-   "tr": "",
+   "tr": "Wards'a\n\nWards'a inen asansör meydanın karşısında solunuzdaki uzak noktada. Orada Chora's Den'i, Flux'u, Pazarları ve Tıp Merkezi'ni bulacaksınız.\n",
    "ctx": [
     "Startup"
    ]
@@ -329,7 +329,7 @@
   {
    "key": "u24635",
    "en": "To C-Sec Academy\n\nThis elevator leads down to C-Sec Academy.  The Alliance docking bay can be found there.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne\n\nBu asansör C-Sec Akademisi'ne iner.  İttifak rıhtımı orada.\n",
    "ctx": [
     "Startup"
    ]
@@ -337,7 +337,7 @@
   {
    "key": "u24636",
    "en": "To C-Sec and Embassies",
-   "tr": "",
+   "tr": "C-Sec ve Büyükelçiliklere",
    "ctx": [
     "Startup"
    ]
@@ -345,7 +345,7 @@
   {
    "key": "u24637",
    "en": "To C-Sec Academy and Embassies\n\nThe Embassies are located at the end of this bridge just to the right.  Continue past the Embassies and down the ramp to find the elevator down to C-Sec Academy.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne ve Büyükelçiliklere\n\nBüyükelçilikler bu köprünün hemen sağdaki ucunda. Büyükelçiliklerin ötesine devam edip rampadan inerek C-Sec Akademisi'ne inen asansörü bulun.\n",
    "ctx": [
     "Startup"
    ]
@@ -353,7 +353,7 @@
   {
    "key": "u24638",
    "en": "To C-Sec Academy\n\nThe elevator at the end of this hallway leads up to C-Sec Academy.  The Alliance docking bay can be found there.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne\n\nBu koridorun sonundaki asansör C-Sec Akademisi'ne çıkar.  İttifak rıhtımı orada.\n",
    "ctx": [
     "Startup"
    ]
@@ -361,7 +361,7 @@
   {
    "key": "u24639",
    "en": "To Presidium\n\nThis elevator leads up to the Presidium.  There you will find the Embassies, the Citadel Tower, the Emporium, the Bank, and the Consort Chambers.\n",
-   "tr": "",
+   "tr": "Presidium'a\n\nBu asansör Presidium'a çıkar.  Orada Büyükelçilikleri, Citadel Tower'ı, Emporium'u, Bankayı ve Konsort Odalarını bulacaksınız.\n",
    "ctx": [
     "Startup"
    ]
@@ -369,7 +369,7 @@
   {
    "key": "u24640",
    "en": "To C-Sec Academy\n\nThis elevator leads up to C-Sec Academy.  The Alliance docking bay can be found there.\n",
-   "tr": "",
+   "tr": "C-Sec Akademisi'ne\n\nBu asansör C-Sec Akademisi'ne çıkar.  İttifak rıhtımı orada.\n",
    "ctx": [
     "Startup"
    ]
@@ -377,7 +377,7 @@
   {
    "key": "u24641",
    "en": "To Presidium\n\nThis elevator leads up to the Presidium.  There you will find the Embassies, the Citadel Tower, the Emporium, the Bank, and the Consort Chambers.",
-   "tr": "",
+   "tr": "Presidium'a\n\nBu asansör Presidium'a çıkar.  Orada Büyükelçilikleri, Citadel Tower'ı, Emporium'u, Bankayı ve Konsort Odalarını bulacaksınız.",
    "ctx": [
     "Startup"
    ]
@@ -385,7 +385,7 @@
   {
    "key": "u24642",
    "en": "To Wards\n\nThis elevator leads down to the Wards.  There you will find Chora’s Den, Flux, the Markets, and the Medical Center.",
-   "tr": "",
+   "tr": "Wards'a\n\nBu asansör Wards'a iner.  Orada Chora's Den'i, Flux'u, Pazarları ve Tıp Merkezi'ni bulacaksınız.",
    "ctx": [
     "Startup"
    ]
@@ -393,7 +393,7 @@
   {
    "key": "u24643",
    "en": "To Presidium\n\nThis elevator leads down to the Presidium.  There you will find the Embassies, the Citadel Tower, the Emporium, the Bank, and the Consort Chambers.\n\nBehind you is the Citadel Tower.  The Council convenes at the far end.",
-   "tr": "",
+   "tr": "Presidium'a\n\nBu asansör Presidium'a iner.  Orada Büyükelçilikleri, Citadel Tower'ı, Emporium'u, Bankayı ve Konsort Odalarını bulacaksınız.\n\nArkanızda Citadel Tower var.  Konsey en uçta toplanıyor.",
    "ctx": [
     "Startup"
    ]
@@ -401,7 +401,7 @@
   {
    "key": "u24644",
    "en": "Mr. Bhatia was most grateful for your efforts in getting his wife's body returned.",
-   "tr": "",
+   "tr": "Bay Bhatia, karısının cenazesinin iade edilmesi çabalarınız için çok minnettardı.",
    "ctx": [
     "Startup"
    ]
@@ -409,7 +409,7 @@
   {
    "key": "u24645",
    "en": "This old, disabled vehicle was more willing to part with its still functioning power cell than one would expect.",
-   "tr": "",
+   "tr": "Bu eski, devre dışı araç, hâlâ çalışan enerji hücresini beklenenden çok daha gönüllü olarak vermeye razı oldu.",
    "ctx": [
     "Startup"
    ]
@@ -417,7 +417,7 @@
   {
    "key": "u24646",
    "en": "You saved the quarian, and she gave you evidence linking Saren to the geth. Ambassador Udina is going to present this evidence to the Council.",
-   "tr": "",
+   "tr": "Quarian'ı kurtardınız ve o da size Saren'i geth'lere bağlayan kanıtı verdi. Büyükelçi Udina bu kanıtı Konsey'e sunacak.",
    "ctx": [
     "Startup"
    ]
@@ -425,7 +425,7 @@
   {
    "key": "u24647",
    "en": "Codex entries provide additional but nonessential information about topics of interest in Mass Effect.",
-   "tr": "",
+   "tr": "Kodeks girdileri, Mass Effect'te ilgi çekici konular hakkında ek ama zorunlu olmayan bilgi sağlar.",
    "ctx": [
     "Startup"
    ]
@@ -433,7 +433,7 @@
   {
    "key": "u24648",
    "en": "Whenever you become lost, look to your Journal or Map for guidance.",
-   "tr": "",
+   "tr": "Kaybolduğunuzda yol göstermesi için Günlüğünüze veya Haritanıza bakın.",
    "ctx": [
     "Startup"
    ]
@@ -441,7 +441,7 @@
   {
    "key": "u24649",
    "en": "Fire in short, controlled bursts to keep your weapon from overheating.",
-   "tr": "",
+   "tr": "Silahınızın aşırı ısınmasını önlemek için kısa, kontrollü serilerle ateş edin.",
    "ctx": [
     "Startup"
    ]
@@ -449,7 +449,7 @@
   {
    "key": "u24650",
    "en": "You lose accuracy as you fire your weapon. Fire in controlled bursts for maximum effect.",
-   "tr": "",
+   "tr": "Silahınızı ateşledikçe isabetiniz azalır. Azami etki için kontrollü seri atış yapın.",
    "ctx": [
     "Startup"
    ]
@@ -457,7 +457,7 @@
   {
    "key": "u24651",
    "en": "Use Zoom [XBoxB_Btn_LT] to improve your accuracy during combat.",
-   "tr": "",
+   "tr": "Muharebe sırasında isabetinizi artırmak için Yakınlaştırmayı [XBoxB_Btn_LT] kullanın.",
    "ctx": [
     "Startup"
    ]
@@ -465,7 +465,7 @@
   {
    "key": "u24652",
    "en": "Use the Equipment screen to equip or upgrade weapons, armor and other gear. Equipped items will not show up in the SELL window when you visit stores. ",
-   "tr": "",
+   "tr": "Silah, zırh ve diğer donanımı kuşanmak veya yükseltmek için Teçhizat ekranını kullanın. Kuşanılan eşyalar mağazaları ziyaret ettiğinizde SAT penceresinde görünmez.",
    "ctx": [
     "Startup"
    ]
@@ -473,7 +473,7 @@
   {
    "key": "u24653",
    "en": "Weapons, ammo and other items can be customized by adding special mod upgrades to their mod slots.",
-   "tr": "",
+   "tr": "Silahlar, mühimmat ve diğer eşyalar, mod yuvalarına özel mod yükseltmeleri eklenerek özelleştirilebilir.",
    "ctx": [
     "Startup"
    ]
@@ -481,7 +481,7 @@
   {
    "key": "u24654",
    "en": "Weapons have 2 upgrade slots. Armor and grenades each have 1 upgrade slot.",
-   "tr": "",
+   "tr": "Silahların 2 yükseltme yuvası vardır. Zırhın ve el bombalarının her birinin 1 yükseltme yuvası vardır.",
    "ctx": [
     "Startup"
    ]
@@ -489,7 +489,7 @@
   {
    "key": "u24655",
    "en": "The squad screen lets you spend talent points to improve your skill with weapons, tech and biotics.",
-   "tr": "",
+   "tr": "Takım ekranı, silah, teknoloji ve biyotik becerilerinizi geliştirmek için yetenek puanı harcamanıza olanak tanır.",
    "ctx": [
     "Startup"
    ]
@@ -497,7 +497,7 @@
   {
    "key": "u24656",
    "en": "You get extra talent points every time you earn enough experience to gain a level.",
-   "tr": "",
+   "tr": "Seviye atlamak için yeterli tecrübe kazandığınız her seferinde ekstra yetenek puanı alırsınız.",
    "ctx": [
     "Startup"
    ]
@@ -505,7 +505,7 @@
   {
    "key": "u24657",
    "en": "Increasing your rank in certain talents unlocks powerful new abilities.",
-   "tr": "",
+   "tr": "Belirli yeteneklerdeki seviyenizi artırmak güçlü yeni yeteneklerin kilidini açar.",
    "ctx": [
     "Startup"
    ]
@@ -513,7 +513,7 @@
   {
    "key": "u24658",
    "en": "The Mako can evade incoming rockets using its jump jets",
-   "tr": "",
+   "tr": "Mako, sıçrama iticilerini kullanarak gelen roketlerden kaçabilir.",
    "ctx": [
     "Startup"
    ]
@@ -521,7 +521,7 @@
   {
    "key": "u24659",
    "en": "The Mako has two weapons: a heavy artillery cannon ([XBoxB_Btn_RB]) and an automatic chain gun ([XBoxB_Btn_RT]).",
-   "tr": "",
+   "tr": "Mako'nun iki silahı vardır: ağır bir topçu topu ([XBoxB_Btn_RB]) ve otomatik bir makineli top ([XBoxB_Btn_RT]).",
    "ctx": [
     "Startup"
    ]
@@ -529,7 +529,7 @@
   {
    "key": "u24660",
    "en": "While in the Mako, you can look through the turret scope by holding [XBoxB_Btn_LT].",
-   "tr": "",
+   "tr": "Mako'dayken [XBoxB_Btn_LT] tuşunu basılı tutarak taret dürbününden bakabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -537,7 +537,7 @@
   {
    "key": "u24661",
    "en": "You can use your Repair skill to fix the Mako.",
-   "tr": "",
+   "tr": "Mako'yu onarmak için Onarım becerinizi kullanabilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -545,7 +545,7 @@
   {
    "key": "u24662",
    "en": "You can return to the Normandy from any uncharted world by going to the Map Screen and pressing [UI_XBoxB_Btn_X].",
-   "tr": "",
+   "tr": "Harita Ekranına gidip [UI_XBoxB_Btn_X] tuşuna basarak herhangi bir keşfedilmemiş dünyadan Normandy'ye dönebilirsiniz.",
    "ctx": [
     "Startup"
    ]
@@ -553,7 +553,7 @@
   {
    "key": "u24663",
    "en": "Critical Mission Failure",
-   "tr": "",
+   "tr": "Kritik Görev Başarısızlığı",
    "ctx": [
     "Startup"
    ]
@@ -561,7 +561,7 @@
   {
    "key": "u24664",
    "en": "Squad Member Fatality",
-   "tr": "",
+   "tr": "Takım Üyesi Kaybı",
    "ctx": [
     "Startup"
    ]
@@ -569,7 +569,7 @@
   {
    "key": "u24665",
    "en": "Equipping Item",
-   "tr": "",
+   "tr": "Eşya Kuşanılıyor",
    "ctx": [
     "Startup"
    ]
@@ -577,7 +577,7 @@
   {
    "key": "u24666",
    "en": "Switching Item",
-   "tr": "",
+   "tr": "Eşya Değiştiriliyor",
    "ctx": [
     "Startup"
    ]
@@ -585,7 +585,7 @@
   {
    "key": "u24667",
    "en": "Accessing Squad Member",
-   "tr": "",
+   "tr": "Takım Üyesine Erişiliyor",
    "ctx": [
     "Startup"
    ]
@@ -593,7 +593,7 @@
   {
    "key": "u24668",
    "en": "Conduit Closing",
-   "tr": "",
+   "tr": "Conduit Kapanıyor",
    "ctx": [
     "Startup"
    ]
@@ -601,7 +601,7 @@
   {
    "key": "u24669",
    "en": "Mako must be parked on level terrain and not moving for you to exit.",
-   "tr": "",
+   "tr": "Çıkmak için Mako düz arazide park edilmiş ve hareketsiz olmalıdır.",
    "ctx": [
     "Startup"
    ]
@@ -609,7 +609,7 @@
   {
    "key": "u24670",
    "en": "Important locations are marked on your map.\nFor active missions, key locations may be marked as a destination.\nYour radar will indicate the direction of a destination in exploration mode.",
-   "tr": "",
+   "tr": "Önemli konumlar haritanızda işaretlidir.\nAktif görevlerde kilit konumlar hedef olarak işaretlenebilir.\nRadarınız keşif modunda bir hedefin yönünü gösterecektir.",
    "ctx": [
     "Startup"
    ]
@@ -617,7 +617,7 @@
   {
    "key": "u24671",
    "en": "Follow the pulsing arrow on your radar to the Citadel Tower.",
-   "tr": "",
+   "tr": "Radarınızdaki parlayan oku Citadel Tower'a kadar takip edin.",
    "ctx": [
     "Startup"
    ]
@@ -625,7 +625,7 @@
   {
    "key": "u24672",
    "en": "Airlock Exit",
-   "tr": "",
+   "tr": "Hava Kilidi Çıkışı",
    "ctx": [
     "Startup"
    ]
@@ -633,7 +633,7 @@
   {
    "key": "u24673",
    "en": "Exit To Normandy",
-   "tr": "",
+   "tr": "Normandy'ye Çık",
    "ctx": [
     "Startup"
    ]
@@ -641,7 +641,7 @@
   {
    "key": "u24674",
    "en": "Crew Computer",
-   "tr": "",
+   "tr": "Mürettebat Bilgisayarı",
    "ctx": [
     "Startup"
    ]
@@ -649,7 +649,7 @@
   {
    "key": "u24675",
    "en": "Play Logs",
-   "tr": "",
+   "tr": "Kayıtları Oynat",
    "ctx": [
     "Startup"
    ]
@@ -657,7 +657,7 @@
   {
    "key": "u24676",
    "en": "Medical Computer",
-   "tr": "",
+   "tr": "Tıbbi Bilgisayar",
    "ctx": [
     "Startup"
    ]
@@ -665,7 +665,7 @@
   {
    "key": "u24677",
    "en": "Cockpit Computer",
-   "tr": "",
+   "tr": "Kokpit Bilgisayarı",
    "ctx": [
     "Startup"
    ]
@@ -673,7 +673,7 @@
   {
    "key": "u24678",
    "en": "To Hanshan Station",
-   "tr": "",
+   "tr": "Hanshan İstasyonuna",
    "ctx": [
     "Startup"
    ]
@@ -681,7 +681,7 @@
   {
    "key": "u24679",
    "en": "Tarrus IV",
-   "tr": "",
+   "tr": "Tarrus IV",
    "ctx": [
     "Startup"
    ]
@@ -689,7 +689,7 @@
   {
    "key": "u24680",
    "en": "Gorgon System Depot",
-   "tr": "",
+   "tr": "Gorgon Sistemi Deposu",
    "ctx": [
     "Startup"
    ]
@@ -697,7 +697,7 @@
   {
    "key": "u24681",
    "en": "Enter Core",
-   "tr": "",
+   "tr": "Çekirdeğe Gir",
    "ctx": [
     "Startup"
    ]
@@ -705,7 +705,7 @@
   {
    "key": "u24682",
    "en": "Exit Core",
-   "tr": "",
+   "tr": "Çekirdekten Çık",
    "ctx": [
     "Startup"
    ]
@@ -713,7 +713,7 @@
   {
    "key": "u24683",
    "en": "JAMMED",
-   "tr": "",
+   "tr": "SIKIŞTI",
    "ctx": [
     "Startup"
    ]
@@ -721,7 +721,7 @@
   {
    "key": "u24684",
    "en": "Shifty Looking Cow...",
-   "tr": "",
+   "tr": "Şüpheli Görünümlü İnek...",
    "ctx": [
     "Startup"
    ]
@@ -729,7 +729,7 @@
   {
    "key": "u24685",
    "en": "To Security Office",
-   "tr": "",
+   "tr": "Güvenlik Ofisine",
    "ctx": [
     "Startup"
    ]
@@ -737,7 +737,7 @@
   {
    "key": "u24686",
    "en": "If you are too slow making your responses in the mini-game, or make a wrong response, you will fail.\nIf you fail the mini-game you will need to click on the object again and use omni-gel to open or access it.\nIf nobody in your squad has a high enough rank in the required talent, you cannot access or open the object.",
-   "tr": "",
+   "tr": "Mini oyunda yanıtlarınızı vermekte çok yavaş kalırsanız ya da yanlış yanıt verirseniz başarısız olursunuz.\nMini oyunda başarısız olursanız nesneye tekrar tıklayıp açmak veya erişmek için omni-jel kullanmanız gerekir.\nTakımınızda gereken yetenekte yeterince yüksek rütbeye sahip kimse yoksa nesneye erişemez veya onu açamazsınız.",
    "ctx": [
     "Startup"
    ]
@@ -745,7 +745,7 @@
   {
    "key": "u24687",
    "en": "Turn this on to automatically save the game at set intervals. Autosaves always overwrite the same autosave file.",
-   "tr": "",
+   "tr": "Oyunu belirli aralıklarla otomatik kaydetmek için bunu açın. Otomatik kayıtlar her zaman aynı otomatik kayıt dosyasının üzerine yazar.",
    "ctx": [
     "Startup"
    ]
@@ -753,7 +753,7 @@
   {
    "key": "u24688",
    "en": "Are you certain you wish to leave? The situation in the hotlabs has not yet been resolved.",
-   "tr": "",
+   "tr": "Ayrılmak istediğinizden emin misiniz? Hot Labs'taki durum henüz çözülmedi.",
    "ctx": [
     "Startup"
    ]
@@ -761,7 +761,7 @@
   {
    "key": "u24689",
    "en": "Return to Normandy",
-   "tr": "",
+   "tr": "Normandy'ye Dön",
    "ctx": [
     "Startup"
    ]
@@ -769,7 +769,7 @@
   {
    "key": "u24690",
    "en": "Liara's Dig Site",
-   "tr": "",
+   "tr": "Liara'nın Kazı Alanı",
    "ctx": [
     "Startup"
    ]
@@ -777,7 +777,7 @@
   {
    "key": "u24691",
    "en": "Armax Arsenal License",
-   "tr": "",
+   "tr": "Armax Arsenal Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -785,7 +785,7 @@
   {
    "key": "u24692",
    "en": "Aldrin Labs License",
-   "tr": "",
+   "tr": "Aldrin Labs Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -793,7 +793,7 @@
   {
    "key": "u24693",
    "en": "Ariake Technologies License",
-   "tr": "",
+   "tr": "Ariake Technologies Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -801,7 +801,7 @@
   {
    "key": "u24694",
    "en": "Armali Council License",
-   "tr": "",
+   "tr": "Armali Council Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -809,7 +809,7 @@
   {
    "key": "u24695",
    "en": "Devlon Industries License",
-   "tr": "",
+   "tr": "Devlon Industries Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -817,7 +817,7 @@
   {
    "key": "u24696",
    "en": "Elanus Risk Control License",
-   "tr": "",
+   "tr": "Elanus Risk Control Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -825,7 +825,7 @@
   {
    "key": "u24697",
    "en": "Elkoss Combine License",
-   "tr": "",
+   "tr": "Elkoss Combine Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -833,7 +833,7 @@
   {
    "key": "u24698",
    "en": "Geth Armory License",
-   "tr": "",
+   "tr": "Geth Armory Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -841,7 +841,7 @@
   {
    "key": "u24699",
    "en": "Haliat Armory License",
-   "tr": "",
+   "tr": "Haliat Armory Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -849,7 +849,7 @@
   {
    "key": "u24700",
    "en": "Hahne-Kedar License",
-   "tr": "",
+   "tr": "Hahne-Kedar Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -857,7 +857,7 @@
   {
    "key": "u24701",
    "en": "Kassa Fabrication License",
-   "tr": "",
+   "tr": "Kassa Fabrication Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -865,7 +865,7 @@
   {
    "key": "u24702",
    "en": "Rosenkov Materials License",
-   "tr": "",
+   "tr": "Rosenkov Materials Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -873,7 +873,7 @@
   {
    "key": "u24703",
    "en": "Serrice Council License",
-   "tr": "",
+   "tr": "Serrice Council Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -881,7 +881,7 @@
   {
    "key": "u24704",
    "en": "Sirta Foundation License",
-   "tr": "",
+   "tr": "Sirta Foundation Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -889,7 +889,7 @@
   {
    "key": "u24705",
    "en": "Armax Arsenal License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Armax Arsenal Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -897,7 +897,7 @@
   {
    "key": "u24706",
    "en": "Aldrin Labs License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Aldrin Labs Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -905,7 +905,7 @@
   {
    "key": "u24707",
    "en": "Ariake Tech License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Ariake Tech Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -913,7 +913,7 @@
   {
    "key": "u24708",
    "en": "Armali Council License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Armali Council Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -921,7 +921,7 @@
   {
    "key": "u24709",
    "en": "Devlon Industries License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Devlon Industries Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -929,7 +929,7 @@
   {
    "key": "u24710",
    "en": "Elanus Risk Control License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Elanus Risk Control Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -937,7 +937,7 @@
   {
    "key": "u24711",
    "en": "Elkoss Combine License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Elkoss Combine Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -945,7 +945,7 @@
   {
    "key": "u24712",
    "en": "Geth Armory License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Geth Armory Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -953,7 +953,7 @@
   {
    "key": "u24713",
    "en": "Haliat Armory License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Haliat Armory Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -961,7 +961,7 @@
   {
    "key": "u24714",
    "en": "Hahne-Kedar License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Hahne-Kedar Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -969,7 +969,7 @@
   {
    "key": "u24715",
    "en": "Kassa Fabrication License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Kassa Fabrication Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -977,7 +977,7 @@
   {
    "key": "u24716",
    "en": "Rosenkov Materials License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Rosenkov Materials Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -985,7 +985,7 @@
   {
    "key": "u24717",
    "en": "Serrice Council License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Serrice Council Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -993,7 +993,7 @@
   {
    "key": "u24718",
    "en": "Sirta Foundation License for the Normandy Quarter Master",
-   "tr": "",
+   "tr": "Normandy Tedarik Subayı için Sirta Foundation Lisansı",
    "ctx": [
     "Startup"
    ]
@@ -1001,7 +1001,7 @@
   {
    "key": "u24719",
    "en": "Mysterious Globe",
-   "tr": "",
+   "tr": "Gizemli Küre",
    "ctx": [
     "Startup"
    ]
@@ -1009,7 +1009,7 @@
   {
    "key": "u24720",
    "en": "Downed Probe",
-   "tr": "",
+   "tr": "Düşmüş Sonda",
    "ctx": [
     "Startup"
    ]
@@ -1017,7 +1017,7 @@
   {
    "key": "u24721",
    "en": "Odd Trinket",
-   "tr": "",
+   "tr": "Tuhaf Biblo",
    "ctx": [
     "Startup"
    ]
@@ -1025,7 +1025,7 @@
   {
    "key": "u24722",
    "en": "To Central Station",
-   "tr": "",
+   "tr": "Merkez İstasyona",
    "ctx": [
     "Startup"
    ]
@@ -1033,7 +1033,7 @@
   {
    "key": "u24723",
    "en": "Plaza",
-   "tr": "",
+   "tr": "Meydan",
    "ctx": [
     "Startup"
    ]
@@ -1041,7 +1041,7 @@
   {
    "key": "u24724",
    "en": "Trench",
-   "tr": "",
+   "tr": "Hendek",
    "ctx": [
     "Startup"
    ]
@@ -1049,7 +1049,7 @@
   {
    "key": "u24725",
    "en": "Courtyard",
-   "tr": "",
+   "tr": "Avlu",
    "ctx": [
     "Startup"
    ]
@@ -1057,7 +1057,7 @@
   {
    "key": "u24726",
    "en": "Noveria: Peak 15 Administration",
-   "tr": "",
+   "tr": "Noveria: Peak 15 İdaresi",
    "ctx": [
     "Startup"
    ]
@@ -1065,7 +1065,7 @@
   {
    "key": "u24727",
    "en": "Landing Zone",
-   "tr": "",
+   "tr": "İniş Bölgesi",
    "ctx": [
     "Startup"
    ]
@@ -1073,7 +1073,7 @@
   {
    "key": "u24728",
    "en": "Security Room",
-   "tr": "",
+   "tr": "Güvenlik Odası",
    "ctx": [
     "Startup"
    ]
@@ -1081,7 +1081,7 @@
   {
    "key": "u24729",
    "en": "Armature Bay",
-   "tr": "",
+   "tr": "Armatür Bölmesi",
    "ctx": [
     "Startup"
    ]
@@ -1089,7 +1089,7 @@
   {
    "key": "u24730",
    "en": "Defensive",
-   "tr": "",
+   "tr": "Savunmacı",
    "ctx": [
     "Startup"
    ]
@@ -1097,7 +1097,7 @@
   {
    "key": "u24731",
    "en": "Squad AI will only use defensive powers to protect themselves or others.",
-   "tr": "",
+   "tr": "Takım yapay zekâsı yalnızca kendilerini veya başkalarını korumak için savunma güçlerini kullanır.",
    "ctx": [
     "Startup"
    ]
@@ -1105,7 +1105,7 @@
   {
    "key": "u24732",
    "en": "Ariake Weapon Mfc",
-   "tr": "",
+   "tr": "Ariake Silah Üreticisi",
    "ctx": [
     "Startup"
    ]
@@ -1113,7 +1113,7 @@
   {
    "key": "u24733",
    "en": "Rosen Weapon Mfc",
-   "tr": "",
+   "tr": "Rosen Silah Üreticisi",
    "ctx": [
     "Startup"
    ]
@@ -1121,7 +1121,7 @@
   {
    "key": "u24734",
    "en": "Kassa Weapon Mfc",
-   "tr": "",
+   "tr": "Kassa Silah Üreticisi",
    "ctx": [
     "Startup"
    ]
@@ -1129,7 +1129,7 @@
   {
    "key": "u24735",
    "en": "Ariake Weapon Mfc Desc",
-   "tr": "",
+   "tr": "Ariake Silah Üreticisi Açıklaması",
    "ctx": [
     "Startup"
    ]
@@ -1137,7 +1137,7 @@
   {
    "key": "u24736",
    "en": "Rosen Weapon Mfc Desc",
-   "tr": "",
+   "tr": "Rosen Silah Üreticisi Açıklaması",
    "ctx": [
     "Startup"
    ]
@@ -1145,7 +1145,7 @@
   {
    "key": "u24737",
    "en": "Kassa Weapon Mfc Desc",
-   "tr": "",
+   "tr": "Kassa Silah Üreticisi Açıklaması",
    "ctx": [
     "Startup"
    ]
@@ -1153,7 +1153,7 @@
   {
    "key": "u24738",
    "en": "Tsunami",
-   "tr": "",
+   "tr": "Tsunami",
    "ctx": [
     "Startup"
    ]
@@ -1161,7 +1161,7 @@
   {
    "key": "u24739",
    "en": "Raikou",
-   "tr": "",
+   "tr": "Raikou",
    "ctx": [
     "Startup"
    ]
@@ -1169,7 +1169,7 @@
   {
    "key": "u24740",
    "en": "Katana",
-   "tr": "",
+   "tr": "Katana",
    "ctx": [
     "Startup"
    ]
@@ -1177,7 +1177,7 @@
   {
    "key": "u24741",
    "en": "Naginata",
-   "tr": "",
+   "tr": "Naginata",
    "ctx": [
     "Startup"
    ]
@@ -1185,7 +1185,7 @@
   {
    "key": "u24742",
    "en": "Kovalyov",
-   "tr": "",
+   "tr": "Kovalyov",
    "ctx": [
     "Startup"
    ]
@@ -1193,7 +1193,7 @@
   {
    "key": "u24743",
    "en": "Karpov",
-   "tr": "",
+   "tr": "Karpov",
    "ctx": [
     "Startup"
    ]
@@ -1201,7 +1201,7 @@
   {
    "key": "u24744",
    "en": "Sokolov",
-   "tr": "",
+   "tr": "Sokolov",
    "ctx": [
     "Startup"
    ]
