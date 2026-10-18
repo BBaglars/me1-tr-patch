@@ -15,6 +15,7 @@ param(
 )
 . "$PSScriptRoot\common.ps1"
 $dotnet = Join-Path $Root 'tools\dotnet10\dotnet.exe'
+if (-not (Test-Path $dotnet)) { $dotnet = 'dotnet' }  # release package: use the .NET 10 runtime on PATH
 $dll = Join-Path $Root 'src\Me1Tlk\bin\Release\net10.0\Me1Tlk.dll'
 if (-not (Test-Path $dll)) { throw "Build the tool first: $dotnet build -c Release src\Me1Tlk" }
 $cooked = Join-Path $Staging 'CookedPCConsole'
