@@ -11,7 +11,7 @@ yazılar Türkçe olur. Yama oyunun **İngilizce (INT)** dil yuvasının metinle
 ## Kurulum (sürüm paketi)
 
 1. Gereksinim: [.NET 10 çalışma zamanı](https://dotnet.microsoft.com/download/dotnet/10.0) (`dotnet` komutu PATH'te olmalı), Windows PowerShell.
-2. Zip'i bir klasöre açın. Oyun yolunu `scripts\common.ps1` içindeki `$BioGame` değişkeninde kendi kurulumunuza göre ayarlayın.
+2. Zip'i bir klasöre açın. Oyun klasörünüz varsayılandan farklıysa üç betiğe de `-BioGame "<...>\Game\ME1\BioGame"` parametresini verin.
 3. Oyunu kapatın, ardından:
 
        scripts\build-staging.ps1 -Json data\tr -Staging staging   # oyun dosyalarından yamalı kopyalar üretir
