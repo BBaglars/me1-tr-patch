@@ -8,19 +8,18 @@ yazılar Türkçe olur. Yama oyunun **İngilizce (INT)** dil yuvasının metinle
 - Oyunun yazı tipi Ğ ğ İ ı Ş ş Ç ç Ö ö Ü ü harflerini zaten içerir, oyun içinde doğrulandı
 - Orijinal dosyalar kurulumda yedeklenir ve geri yüklenebilir
 
-## Kurulum (sürüm paketi)
+## Kurulum
 
-1. Gereksinim: [.NET 10 çalışma zamanı](https://dotnet.microsoft.com/download/dotnet/10.0) (`dotnet` komutu PATH'te olmalı), Windows PowerShell.
-2. Zip'i bir klasöre açın. Oyun klasörünüz varsayılandan farklıysa üç betiğe de `-BioGame "<...>\Game\ME1\BioGame"` parametresini verin.
-3. Oyunu kapatın, ardından:
+1. `ME1-TR-Yama.exe` dosyasını [Releases](../../releases) sayfasından indirip çalıştırın (ek kurulum gerekmez, .NET içinde).
+2. Açılan pencerede oyunun klasörü otomatik bulunur. Bulunmazsa **Mass Effect Legendary Edition** klasörünü yazın veya **Gözat** ile seçin.
+3. Oyunu kapatın, **Yamayı Kur / Güncelle** düğmesine basın. Orijinal dosyalar önce yedeklenir
+   (`%LOCALAPPDATA%\ME1-TR-Yamaackup\original`).
+4. Oyunu **İngilizce** dilde açın. Geri almak için **Orijinali Geri Yükle**.
 
-       scripts\build-staging.ps1 -Json data\tr -Staging staging   # oyun dosyalarından yamalı kopyalar üretir
-       scripts\install.ps1                                         # deneme (hiçbir şey yazmaz)
-       scripts\install.ps1 -Apply                                  # yedek alır ve kurar
+Komut satırı: `ME1-TR-Yama.exe --install --game "<oyun klasörü>" [--backup "<yedek klasörü>"]`, `--uninstall` ile geri alma.
 
-4. Geri almak için: `scripts\uninstall.ps1 -Apply`
-
-Sürüm paketi oyunun kendi dosyalarını içermez; yamalı paketler sizin kendi kopyanızdan üretilir.
+Geliştirme için `scripts\*.ps1` betikleri (aynı işi PowerShell ile yapar) ve `BUILD.md` duruyor. Exe: `dotnet publish -c Release src\Me1Patcher -o publish`.
+Yamalı oyun dosyaları pakette yoktur; kurucu bunları sizin kendi oyun kopyanızdan üretir.
 
 ## Depo
 

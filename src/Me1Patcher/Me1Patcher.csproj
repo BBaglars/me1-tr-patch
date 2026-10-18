@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>ME1-TR-Yama</AssemblyName>
+    <RootNamespace>Me1Patcher</RootNamespace>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <Platforms>x64</Platforms>
+    <PlatformTarget>x64</PlatformTarget>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+    <DebugType>none</DebugType>
+    <Version>1.1.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\Me1Tlk\Cmd.cs" Link="Cmd.cs" />
+    <ProjectReference Include="..\..\tools\LegendaryExplorer\LegendaryExplorer\LegendaryExplorerCore\LegendaryExplorerCore.csproj" />
+  </ItemGroup>
+  <!-- the Turkish text (data/tr) is embedded so the exe is one self-contained file -->
+  <Target Name="EmbedTranslation" BeforeTargets="AssignTargetPaths">
+    <ZipDirectory SourceDirectory="$(MSBuildProjectDirectory)\..\..\data\tr" DestinationFile="$(IntermediateOutputPath)tr.zip" Overwrite="true" />
+    <ItemGroup>
+      <EmbeddedResource Include="$(IntermediateOutputPath)tr.zip" LogicalName="tr.zip" />
+    </ItemGroup>
+  </Target>
+</Project>
